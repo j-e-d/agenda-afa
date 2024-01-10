@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: python:3.12
+      options: --mount type=bind,source=${{ github.workspace }},target=/github/workspace
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
@@ -20,7 +21,7 @@ jobs:
       run: python get_text_file.py
     - name: Commit & push if changed
       run: |-
-        cd $GITHUB_WORKSPACE
+        cd /github/workspace
         date=$(date)
         git config user.name "Automatic"
         git config user.email "actions@users.noreply.github.com"
