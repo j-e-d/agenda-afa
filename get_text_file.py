@@ -40,8 +40,9 @@ def get_visible_text(url):
 
 def get_clean_html(url, file_path):
     clean_text = get_visible_text(url)
-    with open(file_path, "w") as f:
-        f.write(clean_text)
+    if len(clean_text.splitlines()) >= 3:
+        with open(file_path, "w") as f:
+            f.write(clean_text)
 
 # Use the function
 get_clean_html("https://www.afa.com.ar/es/posts/la-agenda-de-la-afa", "agenda.txt")
