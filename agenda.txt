@@ -2858,11 +2858,55 @@ República Dominicana será el anfitrión de la Copa Mundial Femenina Sub-17 de 
 CONMEBOL Sub 17 Femenina
 13 al 31 de marzo de 2024 
 Sede: Paraguay
+ Grupo A: Paraguay, Chile, Ecuador, Uruguay y Bolivia.
+ Grupo B: Brasil, Colombia, Argentina, Venezuela y Perú
 Copa Mundial de Futsal de la FIFA 2024
 Uzbekistán será el anfitrión de la Copa Mundial de Futsal de la FIFA 2024.
 CONMEBOL Copa América de Futsal
 2 al 10 de febrero de 2024 
 Sede: Paraguay
+GRUPO A
+ Fecha 1
+ Paraguay - Ecuador
+ Chile - Venezuela
+ Libre: Colombia
+ Fecha 2
+ Paraguay - Chile
+ Ecuador - Colombia
+ Libre: Venezuela
+ Fecha 3
+ Colombia - Venezuela
+ Ecuador - Chile
+ Libre: Paraguay
+ Fecha 4
+ Venezuela - Paraguay
+ Colombia - Chile
+ Libre: Ecuador
+ Fecha 5
+ Paraguay - Colombia
+ Venezuela - Ecuador
+ Libre: Chile
+GRUPO B
+ Fecha 1
+ Argentina - Bolivia
+ Perú - Uruguay
+ Libre: Brasil
+ Fecha 2
+ Argentina - Perú
+ Bolivia - Brasil
+ Libre: Uruguay
+ Fecha 3
+ Brasil - Uruguay
+ Bolivia - Perú
+ Libre: Argentina
+ Fecha 4
+ Uruguay - Argentina
+ Brasil - Perú
+ Libre: Bolivia
+ Fecha 5
+ Argentina - Brasil
+ Uruguay - Bolivia
+ Libre: Perú
 Copa Oro Concacaf Femenina 2024
 La edición inaugural de este torneo se jugará en Estados Unidos. Los dos equipos de Concacaf que participarán en los Juegos Olímpicos de Verano de 2024 (Estados Unidos y Jamaica o Canadá) recibirán un pase directo a la Copa Oro Concacaf W 2024. Los seis equipos restantes de Concacaf se determinarán a través de la Clasificatoria Concacaf W 2023. 
 Las cuatro selecciones invitadas de la CONMEBOL que participarán han sido determinadas con base en los resultados de la Copa América Femenina 2022: Brasil (campeón) Colombia (subcampeón), Argentina (tercer lugar) y Paraguay (cuarto lugar).
