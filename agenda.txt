@@ -2865,48 +2865,43 @@ Uzbekistán será el anfitrión de la Copa Mundial de Futsal de la FIFA 2024.
 CONMEBOL Copa América de Futsal
 2 al 10 de febrero de 2024 
 Sede: Paraguay
-GRUPO A
- Fecha 1
- Paraguay - Ecuador
- Chile - Venezuela
- Libre: Colombia
- Fecha 2
- Paraguay - Chile
- Ecuador - Colombia
- Libre: Venezuela
- Fecha 3
- Colombia - Venezuela
- Ecuador - Chile
- Libre: Paraguay
- Fecha 4
- Venezuela - Paraguay
- Colombia - Chile
- Libre: Ecuador
- Fecha 5
- Paraguay - Colombia
- Venezuela - Ecuador
- Libre: Chile
-GRUPO B
- Fecha 1
- Argentina - Bolivia
- Perú - Uruguay
- Libre: Brasil
- Fecha 2
- Argentina - Perú
- Bolivia - Brasil
- Libre: Uruguay
- Fecha 3
- Brasil - Uruguay
- Bolivia - Perú
- Libre: Argentina
- Fecha 4
- Uruguay - Argentina
- Brasil - Perú
- Libre: Bolivia
- Fecha 5
- Argentina - Brasil
- Uruguay - Bolivia
- Libre: Perú
+Fecha 1
+Viernes 2 de febrero
+ 11.45 Perú - Uruguay (Grupo B)
+ 14.00 Argentina - Bolivia (Grupo B)
+17.00 Chile - Venezuela (Grupo A)
+ 19.15 Paraguay - Ecuador (Grupo A)
+Fecha 2
+Sábado 3 de febrero
+ 11.45 Bolivia - Brasil (Grupo B)
+ 14.00 Perú - Argentina (Grupo B)
+17.00 Ecuador - Colombia (Grupo A)
+ 19.15 Chile - Paraguay (Grupo A)
+Fecha 3
+Domingo 4 de febrero
+ 11.45 Bolivia - Perú (Grupo B)
+ 14.00 Brasil - Uruguay (Grupo B)
+17.00 Ecuador - Chile (Grupo A)
+ 19.15 Colombia - Venezuela (Grupo A)
+JORNADA DE DESCANSO (lunes 5 de febrero)
+Fecha 4
+Martes 6 de febrero
+ 11.45 Brasil - Perú (Grupo B)
+ 14.00 Uruguay - Argentina (Grupo B)
+17.00 Colombia - Chile (Grupo A)
+ 19.15 Venezuela - Paraguay (Grupo A)
+Fecha 5
+Miércoles 7 de febrero
+ 11.45 Uruguay - Bolivia (Grupo B)
+ 14.00 Argentina - Brasil (Grupo B)
+17.00 Venezuela - Ecuador (Grupo A)
+ 19.15 Paraguay - Colombia (Grupo A)
+JORNADA DE DESCANSO (8 de febrero)
+FASE FINAL
+Viernes 9 de febrero
+ Semifinales y partidos por puestos
+Sábado 10 de febrero
+ Final y partidos por puestos
 Copa Oro Concacaf Femenina 2024
 La edición inaugural de este torneo se jugará en Estados Unidos. Los dos equipos de Concacaf que participarán en los Juegos Olímpicos de Verano de 2024 (Estados Unidos y Jamaica o Canadá) recibirán un pase directo a la Copa Oro Concacaf W 2024. Los seis equipos restantes de Concacaf se determinarán a través de la Clasificatoria Concacaf W 2023. 
 Las cuatro selecciones invitadas de la CONMEBOL que participarán han sido determinadas con base en los resultados de la Copa América Femenina 2022: Brasil (campeón) Colombia (subcampeón), Argentina (tercer lugar) y Paraguay (cuarto lugar).
