@@ -1,113 +1,120 @@
 Publicado: 25/03/2019
 Copa Sur Finanzas 2024
 Fecha 1
- Semana 28/01
-Zona A
-Barracas – Vélez
- River – Argentinos
- Instituto – Riestra
- Atlético Tucumán – Rosario Central
- Banfield – Huracán
- Talleres – Gimnasia
- Independiente Rivadavia – Independiente
-Zona B
-Tigre – Sarmiento
- Platense – Boca
- Godoy Cruz – Defensa y Justicia
- Central Córdoba – Newell’s
- San Lorenzo – Lanús
- Estudiantes – Belgrano
- Racing – Unión
+Jueves 25 de enero
+ 19.00 Tigre – Sarmiento (Zona B)
+ 19.00 Instituto – Deportivo Riestra (Zona A)
+ 21.15 Central Córdoba – Newell’s (Zona B)
+ 21.15 Atlético Tucumán – Rosario Central (Zona A)
+Viernes 26 de enero
+ 19.00 Talleres – Gimnasia (Zona A)
+ 19.00 Barracas Central – Vélez (Zona A)
+ 21.15 Independiente Rivadavia – Independiente (Zona A)
+ 21.15 Banfield – Huracán (Zona A)
+Sábado 27 de enero
+ 17.00 San Lorenzo – Lanús (Zona B)
+ 19.00 Platense – Boca (Zona B)
+ 21.00 Racing – Unión (Zona B)
+Domingo 28 de enero
+ 17.00 Godoy Cruz – Defensa y Justicia (Zona B)
+ 19.00 River – Argentinos (Zona A)
+ 21.00 Estudiantes – Belgrano (Zona B)
 Fecha 2
- Semana 31/01
-Zona A
-Vélez – Independiente
- Gimnasia – Independiente Rivadavia
- Huracán – Talleres
- Rosario Central – Banfield
- Instituto – Atlético Tucumán
- Argentinos – Riestra
- Barracas – River
-Zona B
-Racing – Tigre
- Unión – Estudiantes
- Belgrano – San Lorenzo
- Lanús – Newell’s
- Central Córdoba – Godoy Cruz
- Defensa y Justicia – Platense
- Boca – Sarmiento
+Lunes 29 de enero
+ 21.00 Instituto – Atlético Tucumán (Zona A)
+Martes 30 de enero
+ 17.00 Gimnasia – Independiente Rivadavia (Zona A)
+ 19.15 Huracán – Talleres (Zona A)
+ 19.15 Rosario Central – Banfield (Zona A)
+ 21.30 Lanús – Newell’s (Zona B)
+ 21.30 Vélez – Independiente (Zona A)
+Miércoles 31 de enero
+ 17.00 Argentinos – Deportivo Riestra (Zona A)
+ 17.00 Defensa y Justicia – Platense (Zona B)
+ 19.15 Belgrano – San Lorenzo (Zona B)
+ 20.00 Racing – Tigre (Zona B)
+ 21.30 Barracas Central – River (Zona A)
+Jueves 1 de febrero
+ 19.00 Boca – Sarmiento (Zona B)
+ 21.30 Unión – Estudiantes (Zona B)
+ 21.30 Central Córdoba – Godoy Cruz (Zona B)
 Fecha 3
- Semana 04/02
-Zona A
-River – Vélez
- Riestra – Barracas
- Atlético Tucumán – Argentinos
- Banfield – Instituto
- Talleres – Rosario Central
- Independiente Rivadavia – Huracán
- Independiente – Gimnasia
-Zona B
-Tigre – Boca
- Sarmiento – Defensa y Justicia
- Platense – Central Córdoba
- Godoy Cruz – Lanús
- Newell’s – Belgrano
- San Lorenzo – Unión
- Estudiantes – Racing
+Sábado 3 de febrero
+ 19.00 Independiente – Gimnasia (Zona A)
+ 21.15 Independiente Rivadavia – Huracán (Zona A)
+ 21.15 Talleres – Rosario Central (Zona A)
+Domingo 4 de febrero
+ 17.00 Deportivo Riestra – Barracas Central (Zona A)
+ 19.15 River – Vélez (Zona A)
+ 21.30 Newell’s – Belgrano (Zona B)
+ 21.30 Platense – Central Córdoba (Zona B)
+Lunes 5 de febrero
+ 17.00 San Lorenzo – Unión (Zona B)
+ 17.00 Godoy Cruz – Lanús (Zona B)
+ 19.15 Tigre – Boca (Zona B)
+ 21.30 Estudiantes – Racing (Zona B)
+ 21.30 Banfield – Instituto (Zona A)
+Martes 6 de febrero
+ 19.00 Sarmiento – Defensa y Justicia (Zona B)
+ 21.00 Atlético Tucumán – Argentinos (Zona A)
 Fecha 4
- Semana 11/02
-Zona A
-Vélez – Gimnasia
- Huracán – Independiente
- Rosario Central – Independiente Rivadavia
- Instituto – Talleres
- Argentinos – Banfield
- Barracas – Atlético Tucumán
- Riestra – River
-Zona B
- Estudiantes – Tigre
- Racing – San Lorenzo
- Unión – Newell’s
- Belgrano – Godoy Cruz
- Lanús – Platense
- Central Córdoba – Sarmiento
- Boca – Defensa y Justicia
+Jueves 8 de febrero
+ 20.00 Huracán – Independiente (Zona A)
+ 21.00 Rosario Central – Independiente Rivadavia (Zona A)
+Viernes 9 de febrero
+ 19.00 Unión – Newell’s (Zona B)
+ 19.00 Estudiantes – Tigre (Zona B)
+ 21.15 Vélez – Gimnasia (Zona A)
+ 21.15 Racing – San Lorenzo (Zona B)
+Sábado 10 de febrero
+ 17.00 Argentinos – Banfield (Zona A)
+ 19.15 Boca – Defensa y Justicia (Zona B)
+ 21.30 Belgrano – Godoy Cruz (Zona B)
+ 21.30 Central Córdoba – Sarmiento (Zona B)
+Domingo 11 de febrero
+ 17.00 Deportivo Riestra – River (Zona A)
+ 19.00 Lanús – Platense (Zona B)
+ 21.00 Barracas Central – Atlético Tucumán (Zona A)
+Lunes 12 de febrero
+ 19.00 Instituto – Talleres (Zona A)
 Fecha 5
- Semana 14/02
-Zona A
-Riestra – Vélez
- Atlético Tucumán – River
- Banfield – Barracas
- Talleres – Argentinos
- Independiente Rivadavia – Instituto
- Independiente – Rosario Central
- Gimnasia – Huracán
-Zona B
-Tigre – Defensa y Justicia
- Boca – Central Córdoba
- Sarmiento – Lanús
- Platense – Belgrano
- Godoy Cruz – Unión
- Newell’s – Racing
- San Lorenzo – Estudiantes
+Lunes 12 de febrero
+ 21.00 Newell’s – Racing (Zona B)
+Martes 13 de febrero
+ 17.00 San Lorenzo – Estudiantes (Zona B)
+ 17.00 Godoy Cruz – Unión (Zona B)
+ 19.15 Gimnasia – Huracán (Zona A)
+ 21.30 Independiente – Rosario Central (Zona A)
+Miércoles 14 de febrero
+ 17.00 Sarmiento – Lanús (Zona B)
+ 17.00 Tigre – Defensa y Justicia (Zona B)
+ 19.15 Banfield – Barracas Central (Zona A)
+ 19.15 Boca – Central Córdoba (Zona B)
+ 21.30 Atlético Tucumán – River (Zona A)
+Jueves 15 de febrero
+ 17.00 Deportivo Riestra – Vélez (Zona A)
+ 19.00 Platense – Belgrano (Zona B)
+ 19.15 Independiente Rivadavia – Instituto (Zona A)
+ 21.30 Talleres – Argentinos (Zona A)
 Fecha 6
- Semana 18/02
-Zona A
-Vélez – Huracán
- Rosario Central – Gimnasia
- Instituto – Independiente
- Argentinos – Independiente Rivadavia
- Barracas – Talleres
- River – Banfield
- Riestra – Atlético Tucumán
-Zona B
-San Lorenzo – Tigre
- Estudiantes – Newell’s
- Racing – Godoy Cruz
- Unión – Platense
- Belgrano – Sarmiento
- Lanús – Boca
- Defensa y Justicia – Central Córdoba
+Sábado 17 de febrero
+ 17.00 San Lorenzo – Tigre (Zona B)
+ 19.00 Racing – Godoy Cruz (Zona B)
+ 21.00 Rosario Central – Gimnasia (Zona A)
+Domingo 18 de febrero
+ 17.00 Vélez – Huracán (Zona A)
+ 17.00 Instituto – Independiente (Zona A)
+ 19.15 River – Banfield (Zona A)
+ 21.30 Lanús – Boca (Zona B)
+Lunes 19 de febrero
+ 17.00 Deportivo Riestra – Atlético Tucumán (Zona A)
+ 19.15 Estudiantes – Newell’s (Zona B)
+ 19.15 Barracas Central – Talleres (Zona A)
+ 21.30 Unión – Platense (Zona B)
+ 21.30 Belgrano – Sarmiento (Zona B)
+Martes 20 de febrero
+ 17.00 Argentinos – Independiente Rivadavia (Zona A)
+ 20.00 Defensa y Justicia – Central Córdoba (Zona B)
 Fecha 7 – INTERZONALES
  Semana 25/02
 Sarmiento – Barracas
