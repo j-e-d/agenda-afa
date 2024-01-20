@@ -47,7 +47,7 @@ Domingo 4 de febrero
  17.00 Deportivo Riestra – Barracas Central (Zona A)
  19.15 River – Vélez (Zona A)
  21.30 Newell’s – Belgrano (Zona B)
- 21.30 Platense – Central Córdoba (Zona B)
+ 20.30 Platense – Central Córdoba (Zona B)
 Lunes 5 de febrero
  17.00 San Lorenzo – Unión (Zona B)
  17.00 Godoy Cruz – Lanús (Zona B)
@@ -56,7 +56,7 @@ Lunes 5 de febrero
  21.30 Banfield – Instituto (Zona A)
 Martes 6 de febrero
  19.00 Sarmiento – Defensa y Justicia (Zona B)
- 21.00 Atlético Tucumán – Argentinos (Zona A)
+ 21.15 Atlético Tucumán – Argentinos (Zona A)
 Fecha 4
 Jueves 8 de febrero
  20.00 Huracán – Independiente (Zona A)
@@ -94,7 +94,7 @@ Miércoles 14 de febrero
 Jueves 15 de febrero
  17.00 Deportivo Riestra – Vélez (Zona A)
  19.00 Platense – Belgrano (Zona B)
- 19.15 Independiente Rivadavia – Instituto (Zona A)
+ 21.00 Independiente Rivadavia – Instituto (Zona A)
  21.30 Talleres – Argentinos (Zona A)
 Fecha 6
 Sábado 17 de febrero
