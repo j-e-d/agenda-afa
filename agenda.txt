@@ -2861,7 +2861,8 @@ Fecha 50
  Puerto Nuevo - L.N. Alem 
  Lugano - Ctral. Ballester 
  J. Unida - Claypole
-Campeonato Promocional Amateur
+Torneo Promocional Amateur 2024
+Torneo Apertura
 Fecha 1
 Dep. Metalúrgico - Belgrano (Z.)
 S.A.T. - Everton (L.P.)
@@ -3080,8 +3081,40 @@ CONMEBOL Sudamericana 2024
 Conmebol definió los encuentros de la Fase 1 de la edición 2024 de la Copa Sudamericana, en la que se cruzan equipos del mismo país y no participan clubes argentinos ni brasileños.
  Los equipos argentinos clasificados para la Fase de Grupos son Boca Juniors, Racing Club, Defensa y Justicia, Lanús, Belgrano de Córdoba y Argentinos Juniors.
 CONMEBOL Libertadores Sub 20
-2 al 17 de marzo de 2024 
-Sede: Uruguay
+La Dirección de Competiciones y Operaciones de la Confederación Sudamericana de Fútbol anunció que el sorteo para la Fase de Grupos de la CONMEBOL Libertadores Sub20 2024 se llevará a cabo el martes 13 de febrero, a las 12 (hora local), en la sede de la CONMEBOL, en Luque – Paraguay.
+ La transmisión en vivo del sorteo se podrá acompañar a través del canal de YouTube de la CONMEBOL Libertadores.
+Formato de competencia
+ La CONMEBOL Libertadores Sub20 2024 se disputará en 2 fases, FASE PRELIMINAR (fase de grupos) y FASE FINAL (disputa de las semifinales, 3° puesto, y final).
+ Todas las fases se jugarán a una sola rueda de partidos. La Fase Preliminar la disputan los 12 equipos clasificados, distribuidos en 3 grupos de 4 equipos cada uno. La conformación de los 3 grupos corresponderá al resultado del sorteo organizado por la CONMEBOL.
+ Clasificarán para las SEMIFINALES, los equipos que ocupen la primera posición en cada grupo, más el mejor segundo colocado, teniendo en cuenta los 3 grupos (1A, 1B, 1C, y el mejor 2° colocado).
+Clubes clasificados 
+ Campeón 2023: Club Atlético Boca Juniors (ARG)
+ Argentina: Club Atlético Rosario Central
+ Bolivia: Club Always Ready
+ Brasil: Clube de Regatas Do Flamengo
+ Chile: TBC
+ Colombia: Club Águilas Doradas
+ Ecuador: Sociedad Deportiva Aucas
+ Paraguay: Club Olimpia
+ Perú: Club Sporting Cristal
+ Uruguay 1: Defensor Sporting Club
+ Uruguay 2: Montevideo City Torque
+ Venezuela: Academia Puerto Cabello
+Metodología del sorteo 
+ La conformación de los grupos de la CONMEBOL Libertadores Sub20 2024 se definen de la siguiente manera:
+ Grupo A (posición A1) – El club Campeón de la última edición de la CONMEBOL
+ Libertadores Sub20 automáticamente ocupará esta posición (Boca Juniors – ARG)
+ Grupo B y C (posiciones B1 y C1) – Los equipos representantes de los países con mejor ranking (de acuerdo con la edición anterior del torneo), serán sorteados para definir quien será cabeza de serie de cada grupo.
+ En el bolillero 1 estarán los dos equipos representantes de los países con mejor ranking (clasificación final de la edición anterior del torneo), que serán sorteados para definir los cabezas de serie del grupo B y grupo C. La primera bolilla sorteada corresponderá al cabeza de serie del grupo B y la segunda bolilla al cabeza de serie del grupo C. (Rosario Central – ARG y Aucas – ECU)
+ En el bolillero 2 estarán los tres equipos representantes de los países mejores clasificados subsecuentes en el ranking (resultado final de la edición anterior del torneo) que componen la posición 2 de cada grupo. La primera bolilla sorteada será la posición A2, la segunda bolilla B2 y la tercera bolilla C2. (Olimpia – PAR, Defensor Sporting – URU y Academia Puerto Cabello – VEN)
+ En el bolillero 3 estarán los tres equipos representantes de los países mejores clasificados subsecuentes en el ranking (resultado final de la edición anterior del torneo) que componen la posición 3 de cada grupo. La primera bolilla sorteada será la posición A3, la segunda bolilla B3 y la tercera bolilla C3. (Flamengo – BRA, Águilas Doradas – COL y el representante de Chile)
+ En el bolillero 4 estarán los dos equipos representantes de los países clasificados subsecuentes en el ranking (resultado final de la edición anterior del torneo) y el equipo adicional del país anfitrión que componen la posición 4 de cada grupo. La primera bolilla sorteada será la posición A4, la segunda bolilla B4 y la tercera bolilla C4. (Sporting Cristal – PER, Always Ready – BOL y Montevideo City Torque – URU 2)
+ NOTA: Dentro de un mismo grupo no podrá haber dos equipos de un mismo país y, por lo tanto, si así resultan sorteados, el equipo pasará automáticamente a ocupar el siguiente grupo, siendo nuevamente sorteado otro equipo para dicho grupo.
+ Bolilleros 
+ Bolillero 1: Rosario Central (ARG) y Aucas (ECU)
+ Bolillero 2: Olimpia (PAR), Defensor Sporting (URU) y Academia Puerto Cabello (VEN)
+ Bolillero 3: Flamengo (BRA), Águilas Doradas (COL) y el representante de CHILE
+ Bolillero 4: Sporting Cristal (PER), Always Ready (BOL) y Montevideo City Torque (URU)
 Eliminatorias Sudamericanas
 Septiembre 2024
 Fecha 7: 
@@ -3430,20 +3463,41 @@ Sábado 10 de febrero
 Copa Oro Concacaf Femenina 2024
 La edición inaugural de este torneo se jugará en Estados Unidos. Los dos equipos de Concacaf que participarán en los Juegos Olímpicos de Verano de 2024 (Estados Unidos y Jamaica o Canadá) recibirán un pase directo a la Copa Oro Concacaf W 2024. Los seis equipos restantes de Concacaf se determinarán a través de la Clasificatoria Concacaf W 2023. 
 Las cuatro selecciones invitadas de la CONMEBOL que participarán han sido determinadas con base en los resultados de la Copa América Femenina 2022: Brasil (campeón) Colombia (subcampeón), Argentina (tercer lugar) y Paraguay (cuarto lugar).
-Copa Mundial de Beach Soccer FIFA 2023
-La Copa Mundial de Beach Soccer de la FIFA 2023, que se celebrará en Emiratos Árabes Unidos, se aplazó del 16-26 de noviembre de 2023 al 15-25 de febrero de 2024.
-Grupos confirmados:
-Grupo A:
- Emiratos Árabes Unidos – Egipto – EEUU – Italia
-Grupo B:
- España – Irán – Tahití – Argentina
-Grupo C:
- Senegal – Bielorrusia – Colombia – Japón
-Grupo D:
- Brasil – Omán – Portugal – México
-Formato de la competencia
-Las Selecciones se enfrentarán todas entre sí en los partidos de primera fase y las dos primeras de cada grupo pasarán a la fase eliminatoria. A continuación, se disputarán los cuartos de final, las semifinales, el partido por el tercer puesto y la final.
-Los 16 equipos se dividirán en cuatro grupos de cuatro. ﻿Los equipos recibirán tres puntos por una victoria en el tiempo reglamentario, dos puntos por una victoria en la prórroga y un punto por una victoria en los penaltis. Los dos primeros de cada grupo pasarán a la fase eliminatoria. A continuación se disputarán los cuartos de final, las semifinales, el partido por el tercer puesto y la final.
+Copa Mundial de Beach Soccer FIFA 2024
+Los 16 equipos se dividirán en cuatro grupos de cuatro. ﻿Los equipos recibirán tres puntos por una victoria en el tiempo reglamentario, dos puntos por una victoria en la prórroga y un punto por una victoria en los penaltis. Los dos primeros de cada grupo pasarán a la fase eliminatoria.
+ Formato de la fase de grupos﻿
+ Grupo A: Emiratos Árabes Unidos, Egipto, Estados Unidos e Italia
+ Grupo B: España, IR Irán, Tahití y Argentina
+ Grupo C: Senegal, Bielorrusia, Colombia y Japón
+ Grupo D: Brasil, Omán, Portugal y México
+Jueves 15 de febrero
+ Tahiti v Argentina
+ 17:00 | Grupo B
+Sábado 17 de febrero
+ Argentina v Irán
+ 21:00 | Grupo B
+Lunes 19 de febrero
+ Argentina v España
+ 17:00 | Grupo B
+ Jueves 22 de febrero
+ 1 Grupo D v 2 Grupo C
+ 15:30 | Cuartos de final | Partido 25
+ 1 Grupo C v 2 Grupo D
+ 17:00 | Cuartos de final | Partido 26
+ 1 Grupo B v 2 Grupo A
+ 19:30 | Cuartos de final | Partido 27
+ 1 Grupo A v 2 Grupo B
+ 21:00 | Cuartos de final | Partido 28
+ Sábado 24 de febrero
+ Ganador partido 27 v ganador partido 25
+ 18:00 | Semifinales | Partido 29
+ Ganador partido 28 v Ganador partido 26
+ 19:30 | Semifinales | Partido 30
+ Domingo 25 de febrero
+ Partido por el tercer puesto
+ 18:00
+ Final
+ 19:30
 Copa Intercontinental FIFA 2024
 El 18 de diciembre de 2024 en sede a confirmar se jugará la final de la Copa Intercontinental.
 Se enfrentarán el campeón de la Liga de Campeones de Europa contra el ganador de las eliminatorias entre los cuatro continentes restantes.
