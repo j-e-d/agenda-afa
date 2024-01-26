@@ -77,22 +77,106 @@ Domingo 28 de enero
 Fecha 2
 Lunes 29 de enero
  21.00 Instituto – Atlético Tucumán (Zona A)
+ Árbitro: Andrés Merlos
+ Asistente 1: Diego Martín
+ Asistente 2: Gisella Bosso
+ Cuarto árbitro: Lucas Cavallero
+ VAR: José Carreras
+ AVAR: Mariana de Almeida
 Martes 30 de enero
  17.00 Gimnasia – Independiente Rivadavia (Zona A)
+ Árbitro: Nicolás Ramírez
+ Asistente 1: Sebastián Raineri
+ Asistente 2: Marcos Horticolou
+ Cuarto árbitro: Julio Barraza
+ VAR: Adrián Franklin
+ AVAR: Diego Romero
  19.15 Huracán – Talleres (Zona A)
+ Árbitro: Fernando Rapallini
+ Asistente 1: Diego Bonfá
+ Asistente 2: Daiana Milone
+ Cuarto árbitro: Jonathan de Otto
+ VAR: Diego Ceballos
+ AVAR: Gisella Trucco
  19.15 Rosario Central – Banfield (Zona A)
+ Árbitro: Jorge Baliño
+ Asistente 1: Miguel Savonari
+ Asistente 2: Manuel Sánchez
+ Cuarto árbitro: Nelson Sosa
+ VAR: Juan Pafundi
+ AVAR: Lucas Comesaña
  21.30 Lanús – Newell’s (Zona B)
+ Árbitro: Darío Herrera
+ Asistente 1: Marcelo Bistocco
+ Asistente 2: Andrés Barbieri
+ Cuarto árbitro: Mauro Biasutto
+ VAR: Germán Delfino
+ AVAR: Laura Fortunato
  21.30 Vélez – Independiente (Zona A)
+ Árbitro: Hernán Mastrángelo
+ Asistente 1: Juan Pablo Belatti
+ Asistente 2: Iván Alliende
+ Cuarto árbitro: Juan Pablo Loustau
+ VAR: Fernando Echenique
+ AVAR: Javier Uziga
 Miércoles 31 de enero
  17.00 Argentinos – Deportivo Riestra (Zona A)
+ Árbitro: Silvio Trucco
+ Asistente 1: Pablo Acevedo
+ Asistente 2: Juan Manuel González
+ Cuarto árbitro: Joaquín Gil
+ VAR: Nicolás Lamolina
+ AVAR: Emanuel Ejarque
  17.00 Defensa y Justicia – Platense (Zona B)
+ Árbitro: Sebastián Martínez
+ Asistente 1: Maximiliano del Yesso
+ Asistente 2: Erik Grunman
+ Cuarto árbitro: Gonzalo Pereira
+ VAR: Franco Acita
+ AVAR: Gastón Suárez
  19.15 Belgrano – San Lorenzo (Zona B)
+ Árbitro: Nazareno Arasa
+ Asistente 1: Gabriel Chade
+ Asistente 2: Damián Espinoza
+ Cuarto árbitro: Maximiliano Macheroni
+ VAR: Lucas Novelli
+ AVAR: Carlos Córdoba
  20.00 Racing – Tigre (Zona B)
+ Árbitro: Pablo Dóvalo
+ Asistente 1: Walter Ferreyra
+ Asistente 2: Lucas Pardo
+ Cuarto árbitro: Jorge Broggi
+ VAR: Fernando Espinoza
+ AVAR: Gastón Monsón Brizuela
  21.30 Barracas Central – River, en Lanús (Zona A)
+ Árbitro: Leandro Rey Hilfer
+ Asistente 1: Hugo Páez
+ Asistente 2: Gerardo Lencina
+ Cuarto árbitro: Mariano Negrete
+ VAR: Yamil Possi
+ AVAR: Pablo González
 Jueves 1 de febrero
  19.00 Boca – Sarmiento, en San Lorenzo (Zona B)
+ Árbitro: Sebastián Zunino
+ Asistente 1: Ezequiel Brailovsky
+ Asistente 2: José Castelli 
+ Cuarto árbitro: Pablo Giménez
+ VAR: Héctor Paletta
+ AVAR: Diego Verlotta
  21.30 Unión – Estudiantes (Zona B)
+ Árbitro: Pablo Echavarría
+ Asistente 1: Iván Núñez
+ Asistente 2: Gonzalo Ferrari
+ Cuarto árbitro: Fabricio Llobet
+ VAR: Salomé di Iorio
+ AVAR: Lucas Germanotta
  21.30 Central Córdoba – Godoy Cruz (Zona B)
+ Árbitro: Ariel Penel
+ Asistente 1: Juan del Fueyo
+ Asistente 2: Federico Cano
+ Cuarto árbitro: Mauricio Martin
+ VAR: Mauro Vigliano
+ AVAR: Andrés Gariano
 Fecha 3
 Sábado 3 de febrero
  19.00 Independiente – Gimnasia (Zona A)
@@ -2777,6 +2861,111 @@ Fecha 50
  Puerto Nuevo - L.N. Alem 
  Lugano - Ctral. Ballester 
  J. Unida - Claypole
+Campeonato Promocional Amateur
+Fecha 1
+Dep. Metalúrgico - Belgrano (Z.)
+S.A.T. - Everton (L.P.)
+Def. De Glew - F.C Ezeiza
+Juv. De Bernal - Barrancas F.C
+Pcial. De Lobos - Est. Del Sur
+Est. De Berisso - Camioneros
+At. Pilar - N. Hacoaj
+Fecha 2 
+At. Pilar - Dep. Metalúrgico
+N. Hacoaj - Est. De Berisso
+Camioneros - Pcial. De Lobos
+Est. Del Sur - Juv. De Bernal
+Barrancas F.C - Def. De Glew
+F.C Ezeiza - S.A.T.
+Everton (L.P.) - Belgrano (Z.)
+Fecha 3 
+Dep. Metalúrgico - Everton (L.P.)
+Belgrano (Z.) - F.C Ezeiza
+S.A.T. - Barrancas F.C
+Def. De Glew - Est. Del Sur
+Juv. De Bernal - Camioneros
+Pcial. De Lobos - N. Hacoaj
+Est. De Berisso - At. Pilar
+Fecha 4 
+Est. De Berisso - Dep. Metalúrgico
+At. Pilar - Pcial. De Lobos
+N. Hacoaj - Juv. De Bernal
+Camioneros - Def. De Glew
+Est. Del Sur - S.A.T.
+Barrancas F.C - Belgrano (Z.)
+F.C Ezeiza - Everton (L.P.)
+Fecha 5
+Dep. Metalúrgico - F.C Ezeiza
+Everton (L.P.) - Barrancas F.C
+Belgrano (Z.) - Est. Del Sur
+S.A.T. - Camioneros
+Def. De Glew - N. Hacoaj
+Juv. De Bernal - At. Pilar
+Pcial. De Lobos - Est. De Berisso
+Fecha 6
+Pcial. De Lobos - Dep. Metalúrgico
+Est. De Berisso - Juv. De Bernal
+At. Pilar - Def. De Glew
+N. Hacoaj - S.A.T.
+Camioneros - Belgrano (Z.)
+Est. Del Sur - Everton (L.P.)
+Barrancas F.C - F.C Ezeiza
+Fecha 7
+Dep. Metalúrgico - Barrancas F.C
+F.C Ezeiza - Est. Del Sur
+Everton (L.P.) - Camioneros
+Belgrano (Z.) - N. Hacoaj
+S.A.T. - At. Pilar
+Def. De Glew - Est. De Berisso
+Juv. De Bernal - Pcial. De Lobos
+Fecha 8
+Juv. De Bernal - Dep. Metalúrgico
+Pcial. De Lobos - Def. De Glew
+Est. De Berisso - S.A.T.
+At. Pilar - Belgrano (Z.)
+N. Hacoaj - Everton (L.P.)
+Camioneros - F.C Ezeiza
+Est. Del Sur - Barrancas F.C
+Fecha 9
+Dep. Metalúrgico - Est. Del Sur
+Barrancas F.C - Camioneros
+F.C Ezeiza - N. Hacoaj
+Everton (L.P.) - At. Pilar
+Belgrano (Z.) - Est. De Berisso
+S.A.T. - Pcial. De Lobos
+Def. De Glew - Juv. De Bernal
+Fecha 10
+Def. De Glew - Dep. Metalúrgico
+Juv. De Bernal - S.A.T.
+Pcial. De Lobos - Belgrano (Z.)
+Est. De Berisso - Everton (L.P.)
+At. Pilar - F.C Ezeiza
+N. Hacoaj - Barrancas F.C
+Camioneros - Est. Del Sur
+Fecha 11
+Dep. Metalúrgico - Camioneros
+Est. Del Sur - N. Hacoaj
+Barrancas F.C - At. Pilar
+F.C Ezeiza - Est. De Berisso
+Everton (L.P.) - Pcial. De Lobos
+Belgrano (Z.) - Juv. De Bernal
+S.A.T. - Def. De Glew
+Fecha 12
+S.A.T. - Dep. Metalúrgico
+Def. De Glew - Belgrano (Z.)
+Juv. De Bernal - Everton (L.P.)
+Pcial. De Lobos - F.C Ezeiza
+Est. De Berisso - Barrancas F.C
+At. Pilar - Est. Del Sur
+N. Hacoaj - Camioneros
+Fecha 13
+Dep. Metalúrgico - N. Hacoaj
+Camioneros - At. Pilar
+Est. Del Sur - Est. De Berisso
+Barrancas F.C - Pcial. De Lobos
+F.C Ezeiza - Juv. De Bernal
+Everton (L.P.) - Def. De Glew
+Belgrano (Z.) - S.A.T.
 Copa Argentina
 Cruces de 32avos 
 Martes 6 de febrero
