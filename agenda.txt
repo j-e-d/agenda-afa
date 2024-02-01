@@ -2280,7 +2280,7 @@ Sp. Barracas - J.J. de Urquiza, a las 17.00 horas
  Asistente 1: Juan Manuel Acevedo
  Asistente 2: Diego Fernandez
  Cuarto árbitro: Micaela Abelardo
-J. Unida - Ctral. Ballester, a las 17.00 horas (estadio a confirmar) 
+J. Unida - Ctral. Ballester, a las 17.00 horas, en estadio Municipal de Pilar
  Árbitro: Rodrigo Villalba
  Asistente 1: Luciano Cabral
  Asistente 2: Alexis Ramirez
@@ -3179,16 +3179,6 @@ Torneo Femenino de Primera División
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
 Copa Federal de Fútbol Femenino
-La edición 2023 se jugará entre el 31 de enero y el 11 de febrero de 2024.
-Cruces
-Partido 1: Boca Jrs. - San Luis F.C.
- Partido 2: Platense - Cooperativa Textil (Chaco)
- Partido 3: Racing - All Boys (La Pampa)
- Partido 4: Independiente - Camioneros (Córdoba)
- Partido 5: Rosario Central - Santamaría de Oro (Entre Ríos)
- Partido 6: River Plate - Deportivo SOMRA (Escobar)
- Partido 7: San Lorenzo - Atlético Tucumán
- Partido 8: UAI Urquiza - Pacífico (Neuquén)
 Fechas de disputa
 Octavos de final: 31 de enero y 1° de febrero
  Cuartos de final: 3 y 4 de febrero
