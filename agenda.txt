@@ -53,21 +53,21 @@ Domingo 4 de febrero
  VAR: Héctor Paletta
  AVAR: Mariana De Almeida
 Lunes 5 de febrero
- 17.00 San Lorenzo – Unión (Zona B)
- Árbitro: Ariel Penel
- Asistente 1: Diego Bonfá
- Asistente 2: Hugo Paez
- Cuarto árbitro: Lucas Comesaña
- VAR: Fernando Rapallini
- AVAR: Gabriel Chade
-17.00 Godoy Cruz – Lanús (Zona B), en Gimnasia y Esgrima (Mendoza)
+17.30 Godoy Cruz – Lanús (Zona B), en Gimnasia y Esgrima (Mendoza)
  Árbitro: Pablo Echavarria
  Asistente 1: Iván Nuñez
  Asistente 2: Damián Espinoza
  Cuarto árbitro: Alvaro Carranza
  VAR: Hernán Mastrangelo
  AVAR: Pablo Gonzalez
-19.15 Tigre – Boca (Zona B)
+18.00 San Lorenzo – Unión (Zona B)
+ Árbitro: Ariel Penel
+ Asistente 1: Diego Bonfá
+ Asistente 2: Hugo Paez
+ Cuarto árbitro: Lucas Comesaña
+ VAR: Fernando Rapallini
+ AVAR: Gabriel Chade
+19.45 Tigre – Boca (Zona B)
  Árbitro: Fernando Echenique
  Asistente 1: Maximiliano Del Yesso
  Asistente 2: Lucas Germanotta
@@ -81,7 +81,7 @@ Lunes 5 de febrero
  Cuarto árbitro: Ignacio Lupani
  VAR:Darío Herrera
  AVAR: Juan Del Fueyo
-21.30 Banfield – Instituto (Zona A)
+22.00 Banfield – Instituto (Zona A)
  Árbitro:Leandro Rey Hilfer
  Asistente 1: Juan Pablo Belatti
  Asistente 2: Gisella Trucco
@@ -105,8 +105,8 @@ Martes 6 de febrero
  AVAR: Salomé Di Iorio
 Fecha 4
 Jueves 8 de febrero
- 20.00 Huracán – Independiente (Zona A)
- 21.00 Rosario Central – Independiente Rivadavia (Zona A)
+19.00 Rosario Central – Independiente Rivadavia, en estadio Único de San Nicolás (Zona A)
+ 21.15 Huracán – Independiente (Zona A)
 Viernes 9 de febrero
  19.00 Unión – Newell’s (Zona B)
  19.00 Estudiantes – Tigre (Zona B)
