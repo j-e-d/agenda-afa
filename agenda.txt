@@ -2,15 +2,8 @@ Publicado: 25/03/2019
 Copa Sur Finanzas 2024
 Fecha 3
 Domingo 4 de febrero
- 17.00 Deportivo Riestra – Barracas Central (Zona A)
- Árbitro: Pablo Dovalo 
- Asistente 1: Pablo Gualtieri 
- Asistente 2: Ernesto Callegari
- Cuarto árbitro: Americo Monsalvo
- VAR: José Carreras
- AVAR: Mario Ejarque
 19.15 River – Vélez (Zona A)
- Árbitro: Facundo Tello
+Árbitro: Facundo Tello
  Asistente 1: Gabriel Chade
  Asistente 2: Pablo Acevedo
  Cuarto árbitro: Pablo Gimenez
@@ -963,16 +956,6 @@ Primera Nacional
 Primera Nacional - Fecha 1 
  Zona A
 Domingo 4 de febrero
- 17.00 Arsenal F.C. - Güemes (S.E.)
- Árbitro: Juan Pafundi
- Asistente 1: Juan Manuel Vazquez
- Asistente 2: Marcelo Errante
- Cuarto árbitro: Salome Di Iorio
- 17.00 Gmo. Brown (P.M.) - Racing (Cba.)
- Árbitro: Nelson Sosa
- Asistente 1: Roque Narvaez
- Asistente 2: Martín Saccone
- Cuarto árbitro: Julio Luciano
  19.00 San Martín (S.J.) - Alvarado (M.D.P.)
  Árbitro: Nahuel Viñas
  Asistente 1: Matías Coria
@@ -980,16 +963,6 @@ Domingo 4 de febrero
  Cuarto árbitro: Lucas Cavallero
 Zona B 
 Domingo 4 de febrero
- 17.00 G. Y Tiro (S.) - Chaco For Ever
- Árbitro: Brian Ferreyra
- Asistente 1: Alejandro Schneller
- Asistente 2: Federico Cuello
- Cuarto árbitro: Luis Martinez
- 17.00 Alte. Brown - Atlanta (TV)
- Árbitro: Luis Lobo Medina
- Asistente 1: Manuel Sanchez
- Asistente 2: Juan Pablo Millenaar
- Cuarto árbitro: Martín D' Esposito
  19.30 G. Y Esgrima (Mza.) - Def. De Belgrano
  Árbitro: Bruno Amiconi
  Asistente 1: Mariano Rossetti
@@ -1823,17 +1796,6 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Primera B - Fecha 1 
-Domingo 4 de febrero
- 17.00 Dep. Merlo - Arg. De Quilmes
- Árbitro: Nicolás Kresta
- Asistente 1: Ezequiel Noguera
- Asistente 2: Pablo Pastor
- Cuarto árbitro: Axel Pogge
- 17.00 UAI - Urquiza - Sp. Italiano
- Árbitro: Marcos Recalde
- Asistente 1: Matías Basso
- Asistente 2: Federico Gugliotta
- Cuarto árbitro: Antonella Alvarez
 Lunes 5 de febrero
  17.00 Sp. Dock Sud - Flandria (TV)
  Árbitro: Wencesalo Menenes
@@ -2082,27 +2044,6 @@ Fecha 21
  Los Andes - Cañuelas F.C.
 Primera C
 Fecha 1 - Primera C
-Domingo 04 de febrero 
- Puerto Nuevo - V. Arenas, a las 17.00 horas
- Árbitro: Julian Beligoy
- Asistente 1: Leonardo Aprea 
- Asikstente 2: Ezequiel Rabasa
- Cuarto árbitro: Valentin Boccacia
-Muñiz - Atlas, a las 17.00 horas en Atlas (estadio compartido)
- Árbitro: Gonzalo Creimermann
- Asistente 1: Ramiro Ortiz
- Asistente 2: Lucas Vazquez
- Cuarto árbitro: Juan Pablo Pereyra
-El Porvenir - Real Pilar F.C., a las 17.00 horas
- Árbitro: Damián Rubino
- Asistente 1: Gustavo Benitez
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Tomás Aybar
- Berazategui - Yupanqui, a las 17.00 horas
- Árbitro: Néstor Barrios
- Asistente 1: Matías Noli
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Iván Cosa Castelu
 Lunes 05 de febrero 
  Lugano - L.N. Alem, a las 17.00 horas
  Árbitro: Nicolás Jara
@@ -2972,16 +2913,6 @@ Partido 1: Boca Juniors - Central Norte de Salta
 Torneo 
 Regional Amateur
 Domingo 4 de febrero
-17.00 Def de Formosa - At Bme Mitre P 
-Árbitro: Gustavo Benites
-Asistente 1: Luciano Diaz
-Asistente 2: Diego Ocampo
-Cuarto árbitro: Matías Alfaro
-17.30 Colón Ch. - Camioneros 
-Árbitro: Enzo Silvestre
-Asistente 1: Juan Bonnin
-Asistente 2: Nicolás Mottier
-Cuarto árbitro: Maximiliano Manduca
 18.00 A. H. Zapla - Talleres Metan 
 Árbitro: Mauricio Martín
 Asistente 1: Leila Argañaraz
@@ -3013,13 +2944,11 @@ Torneo Femenino de Primera División
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
 Copa Federal de Fútbol Femenino
-Octavos de final
-Domingo 4 de febrero - Predio Lionel Andrés Messi
- 09.00 San Lorenzo - UAI Urquiza
- 09.00 Rosario Central - River
-Fechas de disputa
-Octavos de final: 31 de enero y 1° de febrero
- Cuartos de final: 3 y 4 de febrero
+Semifinales
+ Jueves 8 de febrero
+ Boca - Racing
+ River - San Lorenzo
+ Fechas de disputa
  Semifinales: 8 de febrero
  Final: 11 de febrero
 CONMEBOL Libertadores 2024 
@@ -3379,16 +3308,6 @@ Uzbekistán será el anfitrión de la Copa Mundial de Futsal de la FIFA 2024.
 CONMEBOL Copa América de Futsal
 2 al 10 de febrero de 2024 
 Sede: Paraguay
-Fecha 2
-Sábado 3 de febrero
-17.00 Ecuador - Colombia (Grupo A)
-19.15 Chile - Paraguay (Grupo A)
-Fecha 3
-Domingo 4 de febrero
- 11.45 Bolivia - Perú (Grupo B)
- 14.00 Brasil - Uruguay (Grupo B)
-17.00 Ecuador - Chile (Grupo A)
- 19.15 Colombia - Venezuela (Grupo A)
 JORNADA DE DESCANSO (lunes 5 de febrero)
 Fecha 4
 Martes 6 de febrero
