@@ -23,7 +23,7 @@ def tag_visible(element):
 
 
 def get_visible_text(url):
-    response = requests.get(url)
+    response = requests.get(url, verify=False)
     soup = BeautifulSoup(response.text, "html.parser")
 
     date_span = soup.select_one(".btArticleDate")
