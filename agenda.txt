@@ -1077,7 +1077,7 @@ Chaco For Ever - G. y Esgrima (Mza.), a las 19.00 horas
  Cuarto árbitro: Cesar Ceballo
 Lunes 12-02
  Atl. de Rafaela - Mitre (S.E.), a las 20.30 horas
- Árbitro: Joaquín Gil
+ Árbitro: Jorge Baliño
  Asistente 1: Matias Bianchi
  Asistente 2: Sebastián Osudar
  Cuarto árbitro: José Díaz
@@ -3222,6 +3222,13 @@ Fixture del Preolímpico Sudamericano 2024.
 Fase Final (Estadio Brígido Iriate, en Caracas)
 Jueves 8 de febrero
 17.00 Argentina – Paraguay
+ Árbitro: Gustavo Tejera (Uruguay)
+ Asistente 1: Carlos Barreiro (Uruguay)
+ Asistente 2: Andrés Nievas (Uruguay)
+ Cuarto árbitro: Jhon Ospina (Colombia)
+ Quinto árbitro: Jhon Gallego (Colombia)
+ VAR: Nicolás Gallo (Colombia)
+ AVAR: Yadir Acuña (Colombia)
 20.00 Venezuela – Brasil
 Domingo 11 de febrero
 Paraguay – Venezuela
