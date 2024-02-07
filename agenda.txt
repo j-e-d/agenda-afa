@@ -3014,7 +3014,8 @@ Asistente 1: Walter Ferreyra
 Asistente 2: Mariano Altavista
 Cuarto árbitro: Alejandro Porticella
 19.15 Belgrano - Atlético Mitre de Santiago del Estero, en Junin
-Árbitro: Silvio Trucco
+Árbitro: 
+Andrés Gariano
 Asistente 1: Diego Martín
 Asistente 2: Javier Mihura
 Cuarto árbitro: Lucas Cavallero
