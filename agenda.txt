@@ -3019,13 +3019,6 @@ Torneo Femenino de Primera División
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
 Copa Federal de Fútbol Femenino
-Semifinales
- Jueves 8 de febrero
- Boca - Racing
- River - San Lorenzo
- Fechas de disputa
- Semifinales: 8 de febrero
- Final: 11 de febrero
 CONMEBOL Libertadores 2024 
 La CONMEBOL Libertadores se iniciará en la semana del 7 de febrero. 
 -Fase 2
@@ -3150,6 +3143,13 @@ Fixture del Preolímpico Sudamericano 2024.
 Fase Final (Estadio Brígido Iriate, en Caracas)
 Domingo 11 de febrero
 17.30 Brasil – Argentina
+ Árbitro: Cristian Garay (Chile)
+ Asistente 1: Miguel Rocha (Chile)
+ Asistente 2: Juan Serrano (Chile)
+ Cuarto árbitro:´Roberto Pérez (Perú)
+ Quinto árbitro: Enrique Pinto (Perú)
+ VAR: Leodán González (Uruguay)
+ AVAR: Nicolás Gallo (Colombia)
 20.30 Paraguay – Venezuela
 Argentina fue cabeza de serie del grupo "B" por ser el vigente campeón del campeonato Preolímpico. Equipos Venezuela, Argentina, Brasil, Colombia, Bolivia, Ecuador, Uruguay, Chile, Paraguay y Perú. Grupos Grupo A Venezuela, Brasil, Colombia, Bolivia y Ecuador. Grupo B Argentina, Uruguay, Chile,Paraguay y Perú. Formato Se dividieron en dos zonas de 5 equipos en una rueda de todos contra todos. Las dos primeras selecciones de cada zona clasificaron a la fase final. En la fase final se enfrentarán nuevamente todos contra todos. En la fase final, las dos primeras selecciones obtendrán un cupo para los Juegos Olímpicos de París 2024. 
 Juegos Olímpicos París 2024
@@ -3380,17 +3380,6 @@ Sede: Paraguay
 Copa Mundial de Futsal de la FIFA 2024
 Uzbekistán será el anfitrión de la Copa Mundial de Futsal de la FIFA 2024.
 CONMEBOL Copa América de Futsal
-2 al 10 de febrero de 2024 
-Sede: Paraguay
-Fecha 5
-Miércoles 7 de febrero
-19.15 Paraguay - Colombia (Grupo A)
-JORNADA DE DESCANSO (8 de febrero)
-FASE FINAL
-Viernes 9 de febrero
- Semifinales y partidos por puestos
-Sábado 10 de febrero
- Final y partidos por puestos
 Copa Oro Concacaf Femenina 2024
 La edición inaugural de este torneo se jugará en Estados Unidos. Los dos equipos de Concacaf que participarán en los Juegos Olímpicos de Verano de 2024 (Estados Unidos y Jamaica o Canadá) recibirán un pase directo a la Copa Oro Concacaf W 2024. Los seis equipos restantes de Concacaf se determinarán a través de la Clasificatoria Concacaf W 2023. 
 Las cuatro selecciones invitadas de la CONMEBOL que participarán han sido determinadas con base en los resultados de la Copa América Femenina 2022: Brasil (campeón) Colombia (subcampeón), Argentina (tercer lugar) y Paraguay (cuarto lugar).
