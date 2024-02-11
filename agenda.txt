@@ -26,21 +26,6 @@ Lunes 12-02
  VAR: Lucas Novelli 
  AVAR: Pablo González 
 Zona “B”
-Sábado 10-02
- Belgrano (Cba.) - Godoy Cruz A.T., a las 21.30 horas 
- Árbitro: Darío Herrera
- Asistente 1: Facundo Rodríguez
- Asistente 2: Gisella Bosso
- Cuarto árbitro: Mauricio Martín
- VAR: Ariel Penel 
- AVAR: Diego Bonfá 
- Ctral. Córdoba (Sgo. del Est.) - Sarmiento, a las 21.30 horas 
- Árbitro: Nazareno Arasa
- Asistente 1: Julio Fernández
- Asistente 2: Damián Espinoza
- Cuarto árbitro: Gabriel Araujo
- VAR: Leandro Rey Hilfer 
- AVAR: Gisela Trucco 
 Domingo 11-02
  Lanús - Platense, a las 19.00 horas
  Árbitro: Sebastián Zunino
@@ -1041,12 +1026,6 @@ Alvarado (M. del P.) - G. Brown (P. Madryn), a las 20.00 horas en estadio J.M. M
  Asistente 2: Rubén Bustos
  Cuarto árbitro: Juan Nebbietti
 Zona “B”
-Sábado 10-02
-Brown (Adrogué) - Temperley, a las 21.45 horas (TV)
- Árbitro: Sebastián Martínez
- Asistente 1: Erik Grunman
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Rodrigo Villalba
 Domingo 11-02
  Atlanta - Colón, a las 17.00 horas(TV)
  Árbitro: Pablo Giménez
@@ -1074,13 +1053,6 @@ Lunes 12-02
  Asistente 1: Matias Bianchi
  Asistente 2: Sebastián Osudar
  Cuarto árbitro: José Díaz
-Interzonal
-Sábado 10-02
- Alte. Brown - T. Suárez, a las 21.15 horas (TV)
- Árbitro: Javier Delbarba
- Asistente 1: Juan Manuel González
- Asistente 2: Mariano Ruas
- Cuarto árbitro: Nicolás Jara
 Fecha 3 
 Zona A
 Estudiantes - Quilmes A.C.
