@@ -3,15 +3,8 @@ Copa Sur Finanzas 2024
 Fecha 4
 Zona “A”
 Domingo 11-02
- Dep. Riestra - River Plate, a las 17.00 horas
- Árbitro: Andrés Merlos
- Asistente 1: Sebastián Raineri
- Asistente 2: Juan del Fueyo
- Cuarto árbitro: Maximiliano Macheroni
- VAR: Yael Falcón Pérez 
- AVAR: Gastón Monsón
 Barracas Ctral. - Atlético Tucumán, a las 21.00 horas en Huracán
- Árbitro: Andrés Gariano
+Árbitro: Andrés Gariano
  Asistente 1: Andrés Barbieri
  Asistente 2: Eduardo Lucero
  Cuarto árbitro: Mauro Biasutto
@@ -995,16 +988,6 @@ Primera Nacional
 Fecha 2
 Zona “A”
 Domingo 11-02
-Güemes (Sgo. del Est.) - San Martín (S. Juan), a las 17.00 horas
- Árbitro: Fabrizio Llobet
- Asistente 1: Daniel Zamora
- Asistente 2: Joaquín Badano
- Cuarto árbitro: Guillermo González
-G. y Esgrima (Jujuy) - Arsenal F.C., a las 17.00 horas
- Árbitro: Nahuel Viñas
- Asistente 1: Javier Mihura
- Asistente 2: Darío Martínez Rojas
- Cuarto árbitro: Federico Benítez
 Dep. Maipú (Mza.) - San Martín (Tuc.), a las 18.30 horas
  Árbitro: Nelson Sosa
  Asistente 1: Gonzalo Ferrari
@@ -1027,21 +1010,6 @@ Alvarado (M. del P.) - G. Brown (P. Madryn), a las 20.00 horas en estadio J.M. M
  Cuarto árbitro: Juan Nebbietti
 Zona “B”
 Domingo 11-02
- Atlanta - Colón, a las 17.00 horas(TV)
- Árbitro: Pablo Giménez
- Asistente 1: Ariel Scime
- Asistente 2: Lucio Méndez
- Cuarto árbitro: Germán Bermudez
-Def. Unidos - Estudiantes (Rio IV), a las 17.00 horas
- Árbitro: Edgardo Zamora
- Asistente 1: Juan Manuel Vázquez
- Asistente 2: Nahuel Santanocito
- Cuarto árbitro: David Cornejo
-Def. de Belgrano - Nva. Chicago, a las 17.00 horas
- Árbitro: Juan Pafundi
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Nahuel Rasullo
- Cuarto árbitro: Lucas Brumer
 Chaco For Ever - G. y Esgrima (Mza.), a las 19.00 horas 
  Árbitro: Álvaro Carranza
  Asistente 1: Martín Saccone
@@ -1847,17 +1815,6 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Fecha 2 
-Domingo 11-02
- Sp. Dock Sud - Villa Dálmine, a las 17.00 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Gonzalo Beloso
- Asistente 2: Diego Trovato
- Cuarto árbitro: Tomás Aybar
-Sp. Italiano - San Martín (B.), a las 17.00 horas
- Árbitro: Nicolás Kresta
- Asistente 1: Héctor Gómez Bracho
- Asistente 2: Juan Manuel Acevedo
- Cuarto árbitro: Martín Morenza
 Lunes 12-02
  Fénix - Cañuelas F.C., a las 17.00 horas en Almagro
  Árbitro: Wenceslao Meneses
@@ -2110,27 +2067,6 @@ Fecha 21
  Los Andes - Cañuelas F.C.
 Primera C
 Fecha 2 
-Domingo 11-02
-J.J. Urquiza - Luján, a las 17.00 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Luca Isla
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: Rodrigo Villalba
-Def. de Cambaceres - Muñiz, a las 17.00 horas
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Leandro Britez
- Asistente 2: Daniela Sanda
- Cuarto árbitro: Nicolás Jara
-Atlas - Mercedes, a las 17.00 horas 
- Árbitro: Mariano Seco
- Asistente 1: Iván Pino
- Asistente 2: Gonzalo Patat Cubillas
- Cuarto árbitro: Axel Pogge
-Ctral. Ballester - Claypole, a las 17.00 horas
- Árbitro: Julián Beligoy
- Asistente 1: Maximiliano Montenegro
- Asistente 2: Santiago Gancedo
- Cuarto árbitro: Iván Coca Castelu
 Lunes 12-02
  Dep. Español - Ctral. Córdoba (Ros.), a las 17.00 horas
  Árbitro: Rodrigo Pafundi
