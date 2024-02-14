@@ -71,24 +71,30 @@ Jueves 15-02
  VAR: Andrés Merlos
  AVAR: Mario Ejarque
 Fecha 6
+Zona “A”
 Sábado 17 de febrero
- 17.00 San Lorenzo – Tigre (Zona B)
- 19.00 Racing – Godoy Cruz (Zona B)
- 21.00 Rosario Central – Gimnasia (Zona A)
+Rosario Ctral. - G. y Esgrima L.P., a las 21.00 horas
 Domingo 18 de febrero
- 17.00 Vélez – Huracán (Zona A)
- 17.00 Instituto – Independiente (Zona A)
- 19.15 River – Banfield (Zona A)
- 21.30 Lanús – Boca (Zona B)
+Vélez Sarsfield - Huracán, a las 17.00 horas
+Instituto A.C.C. - Independiente, a las 17.00 horas
+River Plate - Banfield, a las 19.15 horas
 Lunes 19 de febrero
- 17.00 Deportivo Riestra – Atlético Tucumán (Zona A)
- 19.15 Estudiantes – Newell’s (Zona B)
- 19.15 Barracas Central – Talleres (Zona A)
- 21.30 Unión – Platense (Zona B)
- 21.30 Belgrano – Sarmiento (Zona B)
+Dep. Riestra - Atl. Tucumán, a las 17.00 horas
+Barracas Central - Talleres (Cba.), a las 19.15 horas en Huracán
 Martes 20 de febrero
- 17.00 Argentinos – Independiente Rivadavia (Zona A)
- 20.00 Defensa y Justicia – Central Córdoba (Zona B)
+Argentinos Juniors - Independiente Riv. (Mza.), a las 17.00 horas
+Zona “B”
+Sábado 17 de febrero
+San Lorenzo de A. - Tigre, a las 17.00 horas
+Racing Club - Godoy Cruz, a las 19.00 horas
+Domingo 18 de febrero
+Lanús - Boca Juniors, a las 21.30 horas 
+Lunes 19 de febrero
+Estudiantes de L.P. - Newell´s Old Boys, a las 19.15 horas
+Unión - Platense, a las 21.30 horas
+Belgrano (Cba.) - Sarmiento, a las 21.30 horas
+Martes 20 de febrero
+Def. y Justicia - Ctral. Córdoba (S.E.), a las 20.00 horas
 Fecha 7 – Interzonal
  Sábado 24 de febrero
  17.00 Independiente – Racing
@@ -902,28 +908,37 @@ Godoy Cruz – Sarmiento
  Estudiantes – Huracán
  Tigre – Independiente
 Primera Nacional
-Fecha 3 
-Zona A
-Estudiantes - Quilmes A.C.
-Chacarita Jrs. - San Miguel
-San Martín (Tuc) - Ferro Carril Oeste
-Arsenal F.C. - Dep. Maipú (Mza.)
-San Martín (S.J.) - G. Y Esgrima (J.)
-Gmo. Brown (P.M.) - Güemes (S.E.)
-Agropecuario Arg. - Alvarado (M.D.P.)
-All Boys - Racing (Cba.)
-T. Suárez - Patronato (P.)
-Zona B 
-Temperley - Almagro
-Dep. Morón - Def. De Belgrano
-Nva. Chicago - Chaco For Ever
-G. Y Esgrima (Mza.) - San Telmo
-G. Y Tiro (S.) - At. De Rafaela
-Mitre (S.E.) - Dep. Madryn
-Aldosivi (M.D.P.) - Def. Unidos
-Estudiantes (R. IV) - Atlanta
-Colón - Alte. Brown
-Interzonal Talleres (R.E.) - Brown (Ad.)
+Fecha 3
+Zona “A”
+Viernes 16 de febrero
+Chacarita Juniors - San Miguel, a las 17.00 horas (TV)
+Sábado 17 de febrero
+Tristán Suárez - Patronato (Paraná), a las 17.00 horas
+Estudiantes - Quilmes A.C., a las 17.30 horas
+Agropecuario Arg. - Alvarado (M.D.P.), a las 20.00 horas
+Domingo 18 de febrero
+Arsenal F.C - Dep. Maipú (Mza.), a las 17.00 horas
+Brown (P.M.) - Güemes (S.E.) a las 17.00 horas
+San Martín (T.) - Ferro Carril Oeste, a las 18.15 horas (TV)
+San Martín (S.J.) - G. y Esgrima (J.), a las 19.00 horas
+Lunes 19 de febrero
+All Boys - Racing (Cba.), a las 20.00 horas (TV)
+Zona “B”
+Sábado 17 de febrero
+Temperley - Almagro, a las 17.00 horas
+Nva. Chicago - Chaco For Ever, a las 19.00 horas
+Aldosivi (M.D.P.) - Def. Unidos, a las 19.00 horas en estadio José M. Minella
+Dep. Morón - Def. de Belgrano, a las 21.10 horas (TV)
+Domingo 18 de febrero
+G. y Tiro (Salta) - Atl. de Rafaela, a las 17.00 horas
+Mitre (S.E.) - Dep. Madryn, a las 19.00 horas
+Estudiantes (Rio IV) - Atlanta, a las 20.00 horas
+Colón - Alte. Brown, a las 20.10 horas (TV)
+Lunes 19 de febrero
+G. y Esgrima (Mza.) - San Telmo, a las 22.00 horas (TV)
+Interzonal
+Sábado 17 de febrero
+Talleres (R.E.) - Brown (Adrogué), a las 17.30 horas
 Fecha 4 
 Zona A 
 Racing (Cba.) - T. Suárez
@@ -1695,30 +1710,34 @@ Nva. Chicago Brown (Ad.)
 Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
-Fecha 3 
- Villa Dálmine - F.C. Midland
- Los Andes - Fénix
- Cañuelas F.C. - Arg. De Quilmes
- Dep. Laferrere - Dep. Armenio
- Dep. Merlo - Comunicaciones
- Sacachispas F.C. - Liniers
- Excursionistas - Arg. De Merlo
- Acassuso - Sp. Italiano
- San Martín (B.) - Villa San Carlos
- Uai - Urquiza - Flandria
- Colegiales - Sp. Dock Sud
-Fecha 4 
- Colegiales - Villa Dálmine
- Sp. Dock Sud - Uai - Urquiza
- Flandria - San Martín (B.)
- Villa San Carlos - Acassuso
- Sp. Italiano - Excursionistas
- Arg. De Merlo - Sacachispas F.C.
- Liniers - Dep. Merlo
- Comunicaciones - Dep. Laferrere
- Dep. Armenio - Cañuelas F.C.
- Arg. De Quilmes - Los Andes
- Fénix - F.C. Midland
+Fecha 3
+Viernes 16 de febrero
+Los Andes - Fénix, a las 17.00 horas
+Cañuelas F.C - Arg. de Quilmes, a las 17.00 horas
+Sacachispas F.C - Liniers, a las 17.00 horas
+Acassuso - Sp. Italiano, a las 17.00 horas en Dep. Armenio
+UAI – Urquiza - Flandria, a las 17.00 horas
+San Martín (B.) - Villa San Carlos, a las 21.00 horas
+Sábado 17 de febrero
+Villa Dálmine - F.C Midland, a las 17.00 horas
+Dep. Laferrere - Dep. Armenio, a las 17.00 horas (TV)
+Dep. Merlo - Comunicaciones, a las 17.00 horas
+Excursionistas - Arg. de Merlo, a las 17.00 horas
+Colegiales - Sp. Dock Sud, a las 17.00 horas
+Fecha 4
+Martes 20 de febrero
+Sp. Dock Sud - UAI - Urquiza, a las 17.00 horas (TV)
+Flandria - San Martín (B.), a las 17.00 horas
+Villa San Carlos - Acassuso, a las 17.00 horas
+Sp. Italiano - Excursionistas, a las 17.00 horas
+Dep. Armenio - Cañuelas F.C, a las 17.00 horas
+Arg. de Quilmes - Los Andes, a las 17.00 horas (TV)
+Fénix - F.- Midland, a las 17.00 horas en Almagro
+Colegiales - Villa Dálmine, a las 20.00 horas
+Arg. de Merlo - Sacachispas F.C, a las 20.30 horas
+Comunicaciones - Dep. Laferrere, a las 21.10 horas (TV)
+Miércoles 21 de febrero
+Liniers - Dep. Merlo, a las 17.00 horas
 Fecha 5 
  Villa Dálmine - Fénix
  F.C. Midland - Arg. De Quilmes
@@ -1924,20 +1943,23 @@ Fecha 21
  F.C. Midland - Dep. Laferrere
  Los Andes - Cañuelas F.C.
 Primera C
-Fecha 3 
- Libre Ctral. Ballester
- Claypole - L.N. Alem
- J. Unida - V. Arenas
- Lugano - Ctro. Re- Español
- Puerto Nuevo - Dep. Español
- Ctral. Cba. (Ros.) - Atlas
- Mercedes - Def. De Cambaceres
- Muñiz - Argentino (Ros.)
- Gral. Lamadrid - Real Pilar
- Ituzaingó - Dep. Paraguayo
- El Porvenir - J.J. De Urquiza
- Luján - Yupanqui
- Sp. Barracas - Berazategui
+Fecha 3
+Viernes 16 de febrero
+Ituzaingó - Dep. Paraguayo, a las 20.35 horas (TV)
+Sábado 17 de febrero
+Mercedes - Def. de Cambaceres, a las 19.00 horas
+Domingo 18 de febrero
+Juv. Unida - Victoriano Arenas, a las 17.00 horas en estadio a confirmar.
+Lugano - Rec. Español, a las 17.00 horas
+Puerto Nuevo - Dep. Español, a las 17.00 horas
+Ctral. Córdoba (Ros.) - Atlas, a las 17.00 horas
+Muñiz - Arg. de Rosario, a las 17.00 horas en Atlas
+El Porvenir - J.J. de Urquiza, a las 17.00 horas
+Luján - Yupanqui, a las 17.00 horas
+Lunes 19 de febrero
+Gral. Lamadrid - Real Pilar F.C, a las 17.00 horas
+Sp. Barracas - Berazategui, a las 17.00 horas en Dep. Morón
+Claypole - L.N. Alem, a las 17.00 horas en Brown (Adrogué)
 Fecha 4 
  Sp. Barracas Libre
  Berazategui - Luján
