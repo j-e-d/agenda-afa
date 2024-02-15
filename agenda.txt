@@ -143,7 +143,7 @@ Fecha 7 – Interzonal
  22.00 Unión – Independiente Rivadavia
 Domingo 25 de febrero
  17.00 River – Boca
- 19.45 Gimnasia – Estudiantes
+ 19.30 Gimnasia – Estudiantes
  19.45 Newell’s – Rosario Central
  22.00 Lanús – Banfield
  22.00 Instituto – Godoy Cruz
@@ -1885,18 +1885,62 @@ Colegiales - Sp. Dock Sud, a las 17.00 horas
  Cuarto árbitro: Joaquin Rodríguez
 Fecha 4
 Martes 20 de febrero
-Sp. Dock Sud - UAI - Urquiza, a las 17.00 horas (TV)
+ Sp. Dock Sud - UAI - Urquiza, a las 17.00 horas (TV)
+ Árbitro: Germán Bermúdez
+ Asistente 1: Carlos Suárez
+ Asistente 2: Edgardo Kopanchuk
+ Cuarto árbitro: Maximiliano López
 Flandria - San Martín (B.), a las 17.00 horas
+ Árbitro: Marcos Recalde
+ Asistente 1: Leandro Vieta
+ Asistente 2: Leonardo Aprea
+ Cuarto árbitro: Nuñez Rodríguez A
 Villa San Carlos - Acassuso, a las 17.00 horas
+ Árbitro: Nicolás Kresta
+ Asistente 1: Cristian Colonesse
+ Asistente 2: Cristian Amarilla
+ Cuarto árbitro: Ignacio Cuicchi
 Sp. Italiano - Excursionistas, a las 17.00 horas
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Maximiliano Benzoni
+ Asistente 2: Pablo Pastor
+ Cuarto árbitro: Mariano Seco
 Dep. Armenio - Cañuelas F.C, a las 17.00 horas
+ Árbitro: Jonathan De Otto
+ Asistente 1: Nahuel Santonocito
+ Asistente 2: Juan Ricciardi
+ Cuarto árbitro: Alejandro Porticella
 Arg. de Quilmes - Los Andes, a las 17.00 horas (TV)
+ Árbitro: Mariano Negrete
+ Asistente 1: Fernando Rodríguez
+ Asistente 2: Juan Martín Pereira
+ Cuarto árbitro: Rodrigo Villalba
 Fénix - F.C Midland, a las 17.00 horas en Almagro
+ Árbitro: Guido Mascheroni
+ Asistente 1: Matías Basso
+ Asistente 2: Diego Rodríguez
+ Cuarto árbitro: Jesús Girett
 Colegiales - Villa Dálmine, a las 20.00 horas
+ Árbitro: Sebastián Bresba
+ Asistente 1: Héctor Gomez
+ Asistente 2: Nicolás Gruccio
+ Cuarto árbitro: Gonzalo Creimerman
 Arg. de Merlo - Sacachispas F.C, a las 20.30 horas
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Martín Giampaolo
+ Asistente 2: Juan Manuel Díaz
+ Cuarto árbitro: Lucas Brumer
 Comunicaciones - Dep. Laferrere, a las 21.10 horas (TV)
+ Árbitro: Julián Jerez
+ Asistente 1: Santiago Mitre
+ Asistente 2: César Córdoba
+ Cuarto árbitro: Jonathan Barrios
 Miércoles 21 de febrero
-Liniers - Dep. Merlo, a las 17.00 horas
+ Liniers - Dep. Merlo, a las 17.00 horas
+ Árbitro: Gabriel Gutierrez
+ Asistente 1: Gonzalo Beloso
+ Asistente 2: Daniela Sanda
+ Cuarto árbitro: Julián Beligoy
 Fecha 5 
  Villa Dálmine - Fénix
  F.C. Midland - Arg. De Quilmes
@@ -2935,7 +2979,7 @@ Belgrano (Z.) - S.A.T.
 Copa Argentina
 FASE FINAL–32vos.
 Miércoles21/02
-Tigre c. Chacarita Jrs., a las 17.10 horas, en Dep. Morón 
+Tigre c. Chacarita Jrs., a las 17.10 horas, en estadio a confirmar 
 (TV)
 Vélez Sarsfield c. Sp. Las Parejas, a las 21.10 horas, en Platense 
 (TV)
@@ -3002,8 +3046,18 @@ Domingo 18 de febrero
  Asistente 1: Joaquín Badano
  Asistente 2: Karim Doussouk
  Cuarto árbitro: Leonel Suárez
-Torneo Femenino de Primera División
+Torneo Femenino de Primera División 2024
 ​​​​
+Fecha 1
+Huracán - San Luis
+ Platense - Newell's
+ Excursionistas - SAT
+ UAI Urquiza - Racing Club
+ River Plate - Boca Juniors
+ Independiente - Estudiantes
+ Gimnasia LP - Ferro
+ Rosario Central - Banfield
+ Belgrano - San Lorenzo
 ​​​​​​
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
