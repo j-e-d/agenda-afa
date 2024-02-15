@@ -3058,6 +3058,166 @@ Huracán - San Luis
  Gimnasia LP - Ferro
  Rosario Central - Banfield
  Belgrano - San Lorenzo
+Fecha 2
+ Belgrano - Huracán
+ San Lorenzo de A. - Rosario Central
+ Banfield - Gimnasia
+ Ferro C. Oeste - Independiente
+ Estudiantes - River Plate
+ Boca Jrs. - UAI - Urquiza
+ Racing Club - Excursionistas
+ S.A.T. - Platense
+ Newell's O. Boys - San Luis F.C.
+Fecha 3
+ Huracán - Newell's
+ San Luis F.C. - S.A.T.
+ Platense - Racing Club
+ Excursionistas - Boca Jrs.
+ UAI - Urquiza - Estudiantes
+ River Plate - Gimnasia
+ Independiente - Banfield
+ Gimnasia - San Lorenzo de A.
+ Rosario Central - Belgrano
+Fecha 4 
+ Rosario Central - Huracán
+ Belgrano - Gimnasia
+ San Lorenzo - Independiente
+ Banfield - River Plate
+ Ferro - UAI - Urquiza
+ Estudiantes - Excursionistas
+ Boca - Platense
+ Racing Club - San Luis F.C.
+ S.A.T. - Newell's
+Fecha 5
+ Huracán - S.A.T.
+ Newell's - Racing Club
+ San Luis F.C. - Boca
+ Platense - Estudiantes
+ Excursionistas - Ferro
+ UAI - Urquiza - Banfield
+ River Plate - San Lorenzo
+ Independiente - Belgrano
+ Gimnasia - Rosario Central
+Fecha 6 
+ Gimnasia - Huracán
+ Rosario Central - Independiente
+ Belgrano - River Plate
+ San Lorenzo - UAI - Urquiza
+ Banfield - Excursionistas
+ Ferro - Platense
+ Estudiantes - San Luis F.C.
+ Boca - Newell's
+ Racing Club - S.A.T.
+Fecha 7
+ Huracán - Racing Club
+ S.A.T. - Boca
+ Newell's - Estudiantes
+ San Luis F.C. - Ferro
+ Platense - Banfield
+ Excursionistas - San Lorenzo
+ UAI - Urquiza - Belgrano
+ River Plate - Rosario Central
+ Independiente - Gimnasia
+Fecha 8
+ Independiente - Huracán
+ Gimnasia - River Plate
+ Rosario Central - UAI - Urquiza
+ Belgrano - Excursionistas
+ San Lorenzo - Platense
+ Banfield - San Luis F.C.
+ Ferro - Newell's
+ Estudiantes - S.A.T.
+ Boca - Racing Club
+Fecha 9
+ Huracán - Boca
+ Racing Club - Estudiantes
+ S.A.T. - Ferro
+ Newell's - Banfield
+ San Luis F.C. - San Lorenzo
+ Platense - Belgrano
+ Excursionistas - Rosario Central
+ UAI - Urquiza - Gimnasia
+ River Plate - Independiente
+Fecha 10
+ River Plate - Huracán
+ Independiente - UAI - Urquiza
+ Gimnasia - Excursionistas
+ Rosario Central - Platense
+ Belgrano - San Luis F.C.
+ San Lorenzo - Newell's
+ Banfield - S.A.T.
+ Ferro - Racing Club
+ Estudiantes - Boca
+Fecha 11
+ Huracán - Estudiantes
+ Boca - Ferro
+ Racing Club - Banfield
+ S.A.T. - San Lorenzo
+ Newell's - Belgrano
+ San Luis F.C. - Rosario Central
+ Platense - Gimnasia
+ Excursionistas - Independiente
+ UAI - Urquiza - River Plate
+Fecha 12
+ UAI - Urquiza - Huracán
+ River Plate - Excursionistas
+ Independiente - Platense
+ Gimnasia - San Luis F.C.
+ Rosario Central - Newell's
+ Belgrano - S.A.T.
+ San Lorenzo - Racing Club
+ Banfield - Boca
+ Ferro - Estudiantes
+Fecha 13
+ Huracán - Ferro
+ Estudiantes - Banfield
+ Boca - San Lorenzo
+ Racing Club - Belgrano
+ S.A.T. - Rosario Central
+ Newell's - Gimnasia
+ San Luis F.C. - Independiente
+ Platense - River Plate
+ Excursionistas - UAI - Urquiza
+Fecha 14
+ Excursionistas - Huracán
+ UAI - Urquiza - Platense
+ River Plate - San Luis F.C.
+ Independiente - Newell's
+ Gimnasia - S.A.T.
+ Rosario Central - Racing Club
+ Belgrano - Boca
+ San Lorenzo - Estudiantes
+ Banfield - Ferro
+Fecha 15
+ Huracán - Banfield
+ Ferro - San Lorenzo
+ Estudiantes - Belgrano
+ Boca - Rosario Central
+ Racing Club - Gimnasia
+ S.A.T. - Independiente
+ Newell's - River Plate
+ San Luis F.C. - UAI - Urquiza
+ Platense - Excursionistas
+Fecha 16
+ Platense - Huracán
+ Excursionistas - San Luis F.C.
+ UAI - Urquiza - Newell's
+ River Plate - S.A.T.
+ Independiente - Racing Club
+ Gimnasia - Boca
+ Rosario Central - Estudiantes
+ Belgrano - Ferro
+ San Lorenzo - Banfield
+Fecha 17
+ Huracán - San Lorenzo
+ Banfield - Belgrano
+ Ferro - Rosario Central
+ Estudiantes - Gimnasia
+ Boca - Independiente
+ Racing Club - River Plate
+ S.A.T. - UAI - Urquiza
+ Newell's - Excursionistas
+ San Luis F.C. - Platense
 ​​​​​​
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
