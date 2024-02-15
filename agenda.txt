@@ -45,18 +45,18 @@ Rosario Ctral. - G. y Esgrima L.P., a las 21.00 horas
 Domingo 18 de febrero
 Vélez Sarsfield - Huracán, a las 17.00 horas
  Árbitro: Andrés Merlos
- Asistente 1: Iván Nuñez
+ Asistente 1: Miguel Savorani
  Asistente 2: Eduardo Lucero
  Cuarto árbitro: Lucas Novelli
- VAR: Hécto Paletta
- AVAR: Pablo Echavarria
+ VAR: Héctor Paletta
+ AVAR: Pablo Echavarría
 Instituto A.C.C. - Independiente, a las 17.00 horas
  Árbitro: Pablo Dovalo
- Asistente 1: Facundo Rodriguez
+ Asistente 1: Facundo Rodríguez
  Asistente 2: Damián Espinoza
  Cuarto árbitro: Lucas Cavallero
  VAR: Darío Herrera
- AVAR: Pablo Gonzalez
+ AVAR: Pablo González
 River Plate - Banfield, a las 19.15 horas
  Árbitro: Sebastián Zunino
  Asistente 1: Ezequiel Brailovsky
@@ -74,14 +74,14 @@ Dep. Riestra - Atl. Tucumán, a las 17.00 horas
  AVAR: Diego Verlotta
 Barracas Central - Talleres (Cba.), a las 19.15 horas en Huracán
  Árbitro: Yael Falcón Perez
- Asistente 1: Pablo Gonzalez
+ Asistente 1: Pablo González
  Asistente 2: Adrián Delbarba
  Cuarto árbitro: Mariano Negrete
  VAR: Lucas Novelli
- AVAR: Pablo Gimenez
+ AVAR: Pablo Giménez
 Martes 20 de febrero
 Argentinos Juniors - Independiente Riv. (Mza.), a las 17.00 horas
- Árbitro: Sebastián Martinez
+ Árbitro: Sebastián Martínez
  Asistente 1: Pablo Gualtieri
  Asistente 2: Lucio Mendez
  Cuarto árbitro: Valentín Bocaccia
@@ -132,7 +132,7 @@ Belgrano (Cba.) - Sarmiento, a las 21.30 horas
  Asistente 2: Matías Bianchi
  Cuarto árbitro: Enzo Silvestre
  VAR: Adrián Franklin 
- AVAR: Facundo Rodriguez
+ AVAR: Facundo Rodríguez
 Martes 20 de febrero
 Def. y Justicia - Ctral. Córdoba (S.E.), a las 20.00 horas
  Árbitro: Andrés Gariano
@@ -967,9 +967,9 @@ Tristán Suárez - Patronato (Paraná), a las 17.00 horas
  Árbitro: Lucas Comesaña
  Asistente 1: Nahuel Rasullo
  Asistente 2: Rubén Bustos
- Cuarto árbitro: Eduardo Gutierrez
+ Cuarto árbitro: Eduardo Gutiérrez
 Estudiantes - Quilmes A.C., a las 17.30 horas
- Árbitro: Pablo Gimenez
+ Árbitro: Pablo Giménez
  Asistente 1: Andrés Barbieri
  Asistente 2: Diego Romero
  Cuarto árbitro: Gonzalo Creimermann
@@ -977,7 +977,7 @@ Agropecuario Arg. - Alvarado (M.D.P.), a las 20.00 horas
  Árbitro: Carlos Córdoba
  Asistente 1: Gonzalo Ferrari
  Asistente 2: Mariana Dure
- Cuarto árbitro: Franco Moron
+ Cuarto árbitro: Franco Morón
 Domingo 18 de febrero
 Arsenal F.C - Dep. Maipú (Mza.), a las 17.00 horas
  Árbitro: Juan Pablo Loustau
@@ -1032,12 +1032,12 @@ G. y Tiro (Salta) - Atl. de Rafaela, a las 17.00 horas
  Árbitro: Maximiliano Macheroni
  Asistente 1: Hernán Vallejos
  Asistente 2: Laureano Leiva
- Cuarto árbitro: Guillermo Gonzalez
+ Cuarto árbitro: Guillermo González
 Mitre (S.E.) - Dep. Madryn, a las 19.00 horas
  Árbitro: Alvaro Carranza
  Asistente 1: Alejandro Schneller
  Asistente 2: Guido Córdoba
- Cuarto árbitro: Federico Benitez
+ Cuarto árbitro: Federico Benítez
 Estudiantes (Rio IV) - Atlanta, a las 20.00 horas
  Árbitro: Diego Ceballos
  Asistente 1: Diego Martin
@@ -1837,7 +1837,7 @@ Viernes 16 de febrero
 Los Andes - Fénix, a las 17.00 horas
  Árbitro: Marcos Recalde
  Asistente 1: Jonathan Savoiardo
- Asistente 2: Emiliano Fernandez
+ Asistente 2: Emiliano Fernández
  Cuarto árbitro: Julián Beligoy
 Cañuelas F.C - Arg. de Quilmes, a las 17.00 horas
  Árbitro: Ignacio Lupani
@@ -1847,20 +1847,20 @@ Cañuelas F.C - Arg. de Quilmes, a las 17.00 horas
 Sacachispas F.C - Liniers, a las 17.00 horas
  Árbitro: Kevin Alegre
  Asistente 1: Martín Vaccaro
- Asistente 2: Yamil Galvan 
+ Asistente 2: Yamil Galván 
  Cuarto árbitro: Mateo Bocaccia
 Acassuso - Sp. Italiano, a las 17.00 horas en Dep. Armenio
- Árbitro: Julian Jerez
+ Árbitro: Julián Jerez
  Asistente 1: Federico Garcia
  Asistente 2: Hernán Antola
  Cuarto árbitro: Diego Torres
 UAI Urquiza - Flandria, a las 17.00 horas
  Árbitro: Gastón Iglesias
- Asistente 1: Federico Zivilivia
+ Asistente 1: Federico Zuvilivia
  Asistente 2: Néstor Olivera
  Cuarto árbitro: Roberta Echevarria
 San Martín (B.) - Villa San Carlos, a las 21.00 horas
- Árbitro: Gabriel Gutierrez 
+ Árbitro: Gabriel Gutiérrez 
  Asistente 1: Martín Alonso
  Asistente 2: Sebastián Pumetti
  Cuarto árbitro: Iván Mastroieni
@@ -1889,7 +1889,7 @@ Colegiales - Sp. Dock Sud, a las 17.00 horas
  Árbitro: Juan Cruz Robledo 
  Asistente 1: Ramiro Cabrera
  Asistente 2: Ignacio Irvini
- Cuarto árbitro: Joaquin Rodriguez
+ Cuarto árbitro: Joaquin Rodríguez
 Fecha 4
 Martes 20 de febrero
 Sp. Dock Sud - UAI - Urquiza, a las 17.00 horas (TV)
