@@ -1,14 +1,6 @@
 Publicado: 25/03/2019
 Copa Sur Finanzas 2024
 Fecha 5
-Zona “A”
-At. Tucumán - River Plate, a las 21.30 horas
- Árbitro: Nazareno Arasa
- Asistente 1: Juan Pablo Belatti
- Asistente 2: Cristian Navarro
- Cuarto árbitro: Brian Ferreyra
- VAR: Fernando Rapallini
- AVAR: Juan Pafundi
 Jueves 15-02
  Dep. Riestra - Vélez Sarsfield, a las 17.00 horas
  Árbitro: Nicolás Ramírez
@@ -44,27 +36,111 @@ Fecha 6
 Zona “A”
 Sábado 17 de febrero
 Rosario Ctral. - G. y Esgrima L.P., a las 21.00 horas
+ Árbitro: Facundo Tello
+ Asistente 1: Iván Nuñez
+ Asistente 2: Julio Fernández
+ Cuarto árbitro: Bruno Bocca
+ VAR: Nicolás Lamolina
+ AVAR: Maximiliano Del Yesso
 Domingo 18 de febrero
 Vélez Sarsfield - Huracán, a las 17.00 horas
+ Árbitro: Andrés Merlos
+ Asistente 1: Iván Nuñez
+ Asistente 2: Eduardo Lucero
+ Cuarto árbitro: Lucas Novelli
+ VAR: Hécto Paletta
+ AVAR: Pablo Echavarria
 Instituto A.C.C. - Independiente, a las 17.00 horas
+ Árbitro: Pablo Dovalo
+ Asistente 1: Facundo Rodriguez
+ Asistente 2: Damián Espinoza
+ Cuarto árbitro: Lucas Cavallero
+ VAR: Darío Herrera
+ AVAR: Pablo Gonzalez
 River Plate - Banfield, a las 19.15 horas
+ Árbitro: Sebastián Zunino
+ Asistente 1: Ezequiel Brailovsky
+ Asistente 2: José Castelli
+ Cuarto árbitro: Yamil Possi
+ VAR: Fernando Echenique
+ AVAR: Mariana De Almeida
 Lunes 19 de febrero
 Dep. Riestra - Atl. Tucumán, a las 17.00 horas
+ Árbitro: Darío Herrera
+ Asistente 1: Maximiliano Del Yesso
+ Asistente 2: Maximiliano Castelli
+ Cuarto árbitro: Americo Monsalvo
+ VAR: José Carreras
+ AVAR: Diego Verlotta
 Barracas Central - Talleres (Cba.), a las 19.15 horas en Huracán
+ Árbitro: Yael Falcón Perez
+ Asistente 1: Pablo Gonzalez
+ Asistente 2: Adrián Delbarba
+ Cuarto árbitro: Mariano Negrete
+ VAR: Lucas Novelli
+ AVAR: Pablo Gimenez
 Martes 20 de febrero
 Argentinos Juniors - Independiente Riv. (Mza.), a las 17.00 horas
+ Árbitro: Sebastián Martinez
+ Asistente 1: Pablo Gualtieri
+ Asistente 2: Lucio Mendez
+ Cuarto árbitro: Valentín Bocaccia
+ VAR: Mauro Vigliano
+ AVAR: Sebastián Raineri
 Zona “B”
 Sábado 17 de febrero
 San Lorenzo de A. - Tigre, a las 17.00 horas
+ Árbitro: Nicolás Ramirez
+ Asistente 1: Walter Ferreyra
+ Asistente 2: Gerardo Lencina
+ Cuarto árbitro: Laura Fortunato
+ VAR: Sebastián Zunino
+ AVAR: Lucas Germanotta
 Racing Club - Godoy Cruz, a las 19.00 horas
+ Árbitro: Fernando Rapallini
+ Asistente 1: Diego Bonfá
+ Asistente 2: Juan Mamani
+ Cuarto árbitro: Germán Delfino
+ VAR: Salomé Di Iorio
+ AVAR: Diego Romero
 Domingo 18 de febrero
 Lanús - Boca Juniors, a las 21.30 horas 
+ Árbitro: Silvio Trucco 
+ Asistente 1: Pablo Acevedo
+ Asistente 2: Hugo Paez
+ Cuarto árbitro: José Carreras
+ VAR: Germán Delfino
+ AVAR: Gastón Suárez 
 Lunes 19 de febrero
 Estudiantes de L.P. - Newell´s Old Boys, a las 19.15 horas
+ Árbitro: Leandro Rey Hilfer
+ Asistente 1: Lucas Germanotta
+ Asistente 2: Daiana Milone
+ Cuarto árbitro: Jorge Broggi
+ VAR: Silvio Trucco
+ AVAR: Javier Uziga
 Unión - Platense, a las 21.30 horas
+ Árbitro: Pablo Echavarria 
+ Asistente 1: Gabriel Chade
+ Asistente 2: Gisella Bosso
+ Cuarto árbitro: Matías Billone
+ VAR: Yamil Possi
+ AVAR: Ezequiel Brailovsky
 Belgrano (Cba.) - Sarmiento, a las 21.30 horas
+ Árbitro: Jorge Baliño
+ Asistente 1: Manuel Sanchez
+ Asistente 2: Matías Bianchi
+ Cuarto árbitro: Enzo Silvestre
+ VAR: Adrián Franklin 
+ AVAR: Facundo Rodriguez
 Martes 20 de febrero
 Def. y Justicia - Ctral. Córdoba (S.E.), a las 20.00 horas
+ Árbitro: Andrés Gariano
+ Asistente 1: Juan Del Fueyo
+ Asistente 2: Lucas Pardo
+ Cuarto árbitro: José Diaz
+ VAR: Fernando Espinoza
+ AVAR: Julio Fernández
 Fecha 7 – Interzonal
  Sábado 24 de febrero
  17.00 Independiente – Racing
@@ -882,33 +958,109 @@ Fecha 3
 Zona “A”
 Viernes 16 de febrero
 Chacarita Juniors - San Miguel, a las 17.00 horas (TV)
+ Árbitro: Juan Pafundi
+ Asistente 1: Juan Pablo Millenaar
+ Asistente 2: Mariano Cicheto
+ Cuarto árbitro: Edgardo Zamora
 Sábado 17 de febrero
 Tristán Suárez - Patronato (Paraná), a las 17.00 horas
+ Árbitro: Lucas Comesaña
+ Asistente 1: Nahuel Rasullo
+ Asistente 2: Rubén Bustos
+ Cuarto árbitro: Eduardo Gutierrez
 Estudiantes - Quilmes A.C., a las 17.30 horas
+ Árbitro: Pablo Gimenez
+ Asistente 1: Andrés Barbieri
+ Asistente 2: Diego Romero
+ Cuarto árbitro: Gonzalo Creimermann
 Agropecuario Arg. - Alvarado (M.D.P.), a las 20.00 horas
+ Árbitro: Carlos Córdoba
+ Asistente 1: Gonzalo Ferrari
+ Asistente 2: Mariana Dure
+ Cuarto árbitro: Franco Moron
 Domingo 18 de febrero
 Arsenal F.C - Dep. Maipú (Mza.), a las 17.00 horas
+ Árbitro: Juan Pablo Loustau
+ Asistente 1: Mariano Rossetti
+ Asistente 2: Ramón Ortiz
+ Cuarto árbitro: Ignacio Cuicchi
 Brown (P.M.) - Güemes (S.E.) a las 17.00 horas
+ Árbitro: Felipe Viola
+ Asistente 1: Uriel Garcia Leri
+ Asistente 2: Matías Balmaceda
+ Cuarto árbitro: Luis Nebietti
 San Martín (T.) - Ferro Carril Oeste, a las 18.15 horas (TV)
+ Árbitro: Franco Acita
+ Asistente 1: Ariel Scime
+ Asistente 2: Federico Cano
+ Cuarto árbitro: Francisco Acosta
 San Martín (S.J.) - G. y Esgrima (J.), a las 19.00 horas
+ Árbitro: Bryan Ferreyra
+ Asistente 1: Roque Narvaez
+ Asistente 2: José Ponce
+ Cuarto árbitro: Federico Guaymas
 Lunes 19 de febrero
 All Boys - Racing (Cba.), a las 20.00 horas (TV)
+ Árbitro: Luis Lobo Medina
+ Asistente 1: Marcelo Errante
+ Asistente 2: Carla Lopez
+ Cuarto árbitro: Julián Beligoy
 Zona “B”
 Sábado 17 de febrero
 Temperley - Almagro, a las 17.00 horas
+ Árbitro: Bruno Amiconi
+ Asistente 1: Nicolás Bravo
+ Asistente 2: Federico Pomi
+ Cuarto árbitro: Jonathan Barrios
 Nva. Chicago - Chaco For Ever, a las 19.00 horas
+ Árbitro: Julio Barraza
+ Asistente 1: Lucas Ripoli
+ Asistente 2: Hugo Hartung
+ Cuarto árbitro: Germán Bermúdez
 Aldosivi (M.D.P.) - Def. Unidos, a las 19.00 horas en estadio José M. Minella
+ Árbitro: Javier Delbarba
+ Asistente 1: Mariano Ascenzi
+ Asistente 2: Emanuel Serale
+ Cuarto árbitro: David Cornejo 
 Dep. Morón - Def. de Belgrano, a las 21.10 horas (TV)
+ Árbitro: Emanuel Ejarque
+ Asistente 1: Juan Manuel Vazquez
+ Asistente 2: Mario Bardina
+ Cuarto árbitro: Jonathan De Oto
 Domingo 18 de febrero
 G. y Tiro (Salta) - Atl. de Rafaela, a las 17.00 horas
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Hernán Vallejos
+ Asistente 2: Laureano Leiva
+ Cuarto árbitro: Guillermo Gonzalez
 Mitre (S.E.) - Dep. Madryn, a las 19.00 horas
+ Árbitro: Alvaro Carranza
+ Asistente 1: Alejandro Schneller
+ Asistente 2: Guido Córdoba
+ Cuarto árbitro: Federico Benitez
 Estudiantes (Rio IV) - Atlanta, a las 20.00 horas
+ Árbitro: Diego Ceballos
+ Asistente 1: Diego Martin
+ Asistente 2: Federico Cuello
+ Cuarto árbitro: Mauricio Martin
 Colón - Alte. Brown, a las 20.10 horas (TV)
+ Árbitro: Ariel Penel
+ Asistente 1: Sebastián Raineri
+ Asistente 2: Damián Olivetto
+ Cuarto árbitro: Darío Sandoval
 Lunes 19 de febrero
 G. y Esgrima (Mza.) - San Telmo, a las 22.00 horas (TV)
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Mariano Viale
+ Asistente 2: Belem Bevilaqua
+ Cuarto árbitro: Julio Luciano
 Interzonal
 Sábado 17 de febrero
 Talleres (R.E.) - Brown (Adrogué), a las 17.30 horas
+ Árbitro: Nelson Sosa
+ Asistente 1: Marcos Horticolou
+ Asistente 2: Matías Coria 
+ Cuarto árbitro: Néstor Barrios
 Fecha 4 
 Zona A 
 Racing (Cba.) - T. Suárez
@@ -1683,17 +1835,61 @@ Primera B
 Fecha 3
 Viernes 16 de febrero
 Los Andes - Fénix, a las 17.00 horas
+ Árbitro: Marcos Recalde
+ Asistente 1: Jonathan Savoiardo
+ Asistente 2: Emiliano Fernandez
+ Cuarto árbitro: Julián Beligoy
 Cañuelas F.C - Arg. de Quilmes, a las 17.00 horas
+ Árbitro: Ignacio Lupani
+ Asistente 1: Fabio Ventura
+ Asistente 2: Francisco Gugliota
+ Cuarto árbitro: Jonathan De Oto 
 Sacachispas F.C - Liniers, a las 17.00 horas
+ Árbitro: Kevin Alegre
+ Asistente 1: Martín Vaccaro
+ Asistente 2: Yamil Galvan 
+ Cuarto árbitro: Mateo Bocaccia
 Acassuso - Sp. Italiano, a las 17.00 horas en Dep. Armenio
-UAI – Urquiza - Flandria, a las 17.00 horas
+ Árbitro: Julian Jerez
+ Asistente 1: Federico Garcia
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: Diego Torres
+UAI Urquiza - Flandria, a las 17.00 horas
+ Árbitro: Gastón Iglesias
+ Asistente 1: Federico Zivilivia
+ Asistente 2: Néstor Olivera
+ Cuarto árbitro: Roberta Echevarria
 San Martín (B.) - Villa San Carlos, a las 21.00 horas
+ Árbitro: Gabriel Gutierrez 
+ Asistente 1: Martín Alonso
+ Asistente 2: Sebastián Pumetti
+ Cuarto árbitro: Iván Mastroieni
 Sábado 17 de febrero
 Villa Dálmine - F.C Midland, a las 17.00 horas
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Matías Arevalo
+ Asistente 2: Leandro Aranda
+ Cuarto árbitro: Micaela Abelardo
 Dep. Laferrere - Dep. Armenio, a las 17.00 horas (TV)
+ Árbitro: Mauro Biasutto
+ Asistente 1: Angel Rebuscini
+ Asistente 2: Cecilio Calcagno
+ Cuarto árbitro: Martín Desposito
 Dep. Merlo - Comunicaciones, a las 17.00 horas
+ Árbitro: Wenseslao Meneses
+ Asistente 1: Arnaldo Melgarejo
+ Asistente 2: Damián Orellana
+ Cuarto árbitro: Gabriel Flores
 Excursionistas - Arg. de Merlo, a las 17.00 horas
+ Árbitro: Nicolás Kresta
+ Asistente 1: Lucas Cueto
+ Asistente 2: Martín Raffo
+ Cuarto árbitro: Axel Pogge
 Colegiales - Sp. Dock Sud, a las 17.00 horas
+ Árbitro: Juan Cruz Robledo 
+ Asistente 1: Ramiro Cabrera
+ Asistente 2: Ignacio Irvini
+ Cuarto árbitro: Joaquin Rodriguez
 Fecha 4
 Martes 20 de febrero
 Sp. Dock Sud - UAI - Urquiza, a las 17.00 horas (TV)
@@ -1916,20 +2112,68 @@ Primera C
 Fecha 3
 Viernes 16 de febrero
 Ituzaingó - Dep. Paraguayo, a las 20.35 horas (TV)
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Lucas Isla
+ Asistente 2: Santiago Gancedo
+ Cuarto árbitro: Tomás Aybar
 Sábado 17 de febrero
 Mercedes - Def. de Cambaceres, a las 19.00 horas
+ Árbitro: Jesús Girett
+ Asistente 1: Lucino Cabral 
+ Asistente 2: Heber Ibañez Meza
+ Cuarto árbitro: Martín Morenza
 Domingo 18 de febrero
 Juv. Unida - Victoriano Arenas, a las 17.00 horas en estadio a confirmar.
+ Árbitro: Mariano Seco
+ Asistente 1: Alan Anria
+ Asistente 2: Hernán Prado
+ Cuarto árbitro: Néstor Barrios
 Lugano - Rec. Español, a las 17.00 horas
+ Árbitro: Adrián Nuñez
+ Asistente 1: Juan Etchepare
+ Asistente 2: Mariela Martino
+ Cuarto árbitro: Agustin Flores 
 Puerto Nuevo - Dep. Español, a las 17.00 horas
+ Árbitro: Guido Mascheroni
+ Asistente 1: Juan Manuel Acevedo
+ Asistente 2: Alexis Ramirez
+ Cuarto árbitro: Juan Pablo Pereyra
 Ctral. Córdoba (Ros.) - Atlas, a las 17.00 horas
+ Árbitro: Maximiliano Lopez
+ Asistente 1: Enrique Lanz
+ Asistente 2: Alan Colman
+ Cuarto árbitro: Matías Ansede
 Muñiz - Arg. de Rosario, a las 17.00 horas en Atlas
+ Árbitro: Lucas Brumer
+ Asistente 1: Gustavo Benitez
+ Asistente 2: Facundo Mendiolar
+ Cuarto árbitro: Gonzalo Correa 
 El Porvenir - J.J. de Urquiza, a las 17.00 horas
+ Árbitro: Alejandro Porticella
+ Asistente 1: Leandro Britez
+ Asistente 2: Matías Noli
+ Cuarto árbitro: Gonzalo Creimermann
 Luján - Yupanqui, a las 17.00 horas
+ Árbitro: Damián Rubino
+ Asistente 1: Federico Machuca
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Iván Castelu
 Lunes 19 de febrero
 Gral. Lamadrid - Real Pilar F.C, a las 17.00 horas
+ Árbitro: Nicolás Jara
+ Asistente 1: Carlos Otegui
+ Asistente 2: Damián Alcaraz
+ Cuarto árbitro: Jonathan Barrios
 Sp. Barracas - Berazategui, a las 17.00 horas en Dep. Morón
+ Árbitro: Ramiro Maglio
+ Asistente 1: Federico Bozo
+ Asistente 2: Jonathan Florentin 
+ Cuarto árbitro: Iñaqui Iparraguirre
 Claypole - L.N. Alem, a las 17.00 horas en Brown (Adrogué)
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Jonathan Ghiso
+ Asistente 2: Cristian Rodriguez
+ Cuarto árbitro: Ignacio Cuicchi
 Fecha 4 
  Sp. Barracas Libre
  Berazategui - Luján
