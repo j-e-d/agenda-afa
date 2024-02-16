@@ -58,10 +58,10 @@ Argentinos Juniors - Independiente Riv. (Mza.), a las 17.00 horas
 Zona “B”
 Sábado 17 de febrero
 San Lorenzo de A. - Tigre, a las 17.00 horas
- Árbitro: Nicolás Ramirez
+ Árbitro: Fernando Echenique reemplaza Nicolás Ramirez por lesión
  Asistente 1: Walter Ferreyra
  Asistente 2: Gerardo Lencina
- Cuarto árbitro: Laura Fortunato
+ Cuarto árbitro: Jorge Broggi
  VAR: Sebastián Zunino
  AVAR: Lucas Germanotta
 Racing Club - Godoy Cruz, a las 19.00 horas
@@ -84,7 +84,7 @@ Estudiantes de L.P. - Newell´s Old Boys, a las 19.15 horas
  Árbitro: Leandro Rey Hilfer
  Asistente 1: Lucas Germanotta
  Asistente 2: Daiana Milone
- Cuarto árbitro: Jorge Broggi
+ Cuarto árbitro: Laura Fortunato
  VAR: Silvio Trucco
  AVAR: Javier Uziga
 Unión - Platense, a las 21.30 horas
@@ -924,12 +924,6 @@ Godoy Cruz – Sarmiento
 Primera Nacional
 Fecha 3
 Zona “A”
-Viernes 16 de febrero
-Chacarita Juniors - San Miguel, a las 17.00 horas (TV)
- Árbitro: Juan Pafundi
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Mariano Cicheto
- Cuarto árbitro: Edgardo Zamora
 Sábado 17 de febrero
 Tristán Suárez - Patronato (Paraná), a las 17.00 horas
  Árbitro: Lucas Comesaña
@@ -1801,37 +1795,6 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Fecha 3
-Viernes 16 de febrero
-Los Andes - Fénix, a las 17.00 horas
- Árbitro: Marcos Recalde
- Asistente 1: Jonathan Savoiardo
- Asistente 2: Emiliano Fernández
- Cuarto árbitro: Julián Beligoy
-Cañuelas F.C - Arg. de Quilmes, a las 17.00 horas
- Árbitro: Ignacio Lupani
- Asistente 1: Fabio Ventura
- Asistente 2: Francisco Gugliota
- Cuarto árbitro: Jonathan De Oto 
-Sacachispas F.C - Liniers, a las 17.00 horas
- Árbitro: Kevin Alegre
- Asistente 1: Martín Vaccaro
- Asistente 2: Yamil Galván 
- Cuarto árbitro: Mateo Bocaccia
-Acassuso - Sp. Italiano, a las 17.00 horas en Dep. Armenio
- Árbitro: Julián Jerez
- Asistente 1: Federico Garcia
- Asistente 2: Hernán Antola
- Cuarto árbitro: Diego Torres
-UAI Urquiza - Flandria, a las 17.00 horas
- Árbitro: Gastón Iglesias
- Asistente 1: Federico Zuvilivia
- Asistente 2: Néstor Olivera
- Cuarto árbitro: Roberta Echevarria
-San Martín (B.) - Villa San Carlos, a las 21.00 horas
- Árbitro: Gabriel Gutiérrez 
- Asistente 1: Martín Alonso
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Iván Mastroieni
 Sábado 17 de febrero
 Villa Dálmine - F.C Midland, a las 17.00 horas
  Árbitro: Gonzalo Pereira
@@ -2122,12 +2085,6 @@ Fecha 21
  Los Andes - Cañuelas F.C.
 Primera C
 Fecha 3
-Viernes 16 de febrero
-Ituzaingó - Dep. Paraguayo, a las 20.35 horas (TV)
- Árbitro: Nicolás Mastroieni
- Asistente 1: Lucas Isla
- Asistente 2: Santiago Gancedo
- Cuarto árbitro: Tomás Aybar
 Sábado 17 de febrero
 Mercedes - Def. de Cambaceres, a las 19.00 horas
  Árbitro: Jesús Girett
