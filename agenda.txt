@@ -1829,18 +1829,62 @@ Miércoles 21 de febrero
  Asistente 1: Gonzalo Beloso
  Asistente 2: Daniela Sanda
  Cuarto árbitro: Julián Beligoy
-Fecha 5 
- Villa Dálmine - Fénix
- F.C. Midland - Arg. De Quilmes
- Los Andes - Dep. Armenio
- Cañuelas F.C. - Comunicaciones
- Dep. Laferrere - Liniers
- Dep. Merlo - Arg. De Merlo
- Sacachispas F.C. - Sp. Italiano
- Excursionistas - Villa San Carlos
- Acassuso - Flandria
- San Martín (B.) - Sp. Dock Sud
- Uai - Urquiza - Colegiales
+Fecha 5
+Acassuso - Flandria
+ Árbitro: Jonathan De Oto
+ Asistente 1: Lucas Cueto Viñas
+ Asistente 2: Ezequiel Noguera
+ Cuarto árbitro: David Cornejo
+Excursionistas - Villa San Carlos
+ Árbitro: Juan Cruz Robledo
+ Asistente 1: Ángel Rebuscini
+ Asistente 2: Ángel Melgarejo
+ Cuarto árbitro: Mateo Bocaccia
+Laferrere - Liniers
+ Árbitro: Gastón Iglesias
+ Asistente 1: Federico Zuvilivia
+ Asistente 2: Federico García
+ Cuarto árbitro: Ignacio Lupani
+Cañuelas - Comunicaciones
+ Árbitro: Kevin Alegre
+ Asistente 1: Hugo Hartung
+ Asistente 2: Rodrigo Arin
+ Cuarto árbitro: Mariano Seco
+Villa Dálmine - Fénix
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Santiago Scalerandi
+ Asistente 2: Sebastián Pumetti
+ Cuarto árbitro: Germán Bermúdez
+UAI Urquiza - Colegiales
+ Árbitro: Guido Mascheroni
+ Asistente 1: Maximiliano Benzoni
+ Asistente 2: Federico Josa
+ Cuarto árbitro: Nicolás Kresta
+Deportivo Merlo - Argentino de Merlo
+ Árbitro: Mariano Negrete
+ Asistente 1: Jonathan Savoiardo
+ Asistente 2: Cecilio Calcagno
+ Cuarto árbitro: Eduardo Gutiérrez
+Midland - Argentino de Quilmes
+ Árbitro: Mauro Biasutto
+ Asistente 1: Juan Manuel Acevedo
+ Asistente 2: Rodrigo Mansilla
+ Cuarto árbitro: Roberta Echeverría
+San Martín (B) - Dock Sud
+ Árbitro: Julián Jerez
+ Asistente 1: Tomás Duilio
+ Asistente 2: Matías Noli
+ Cuarto árbitro: Alejandro Porticella
+Los Andes - Deportivo Armenio
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Damián Orellana
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: Américo Monsalvo
+Sacachispas - Sportivo Italiano
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Agustín Cuzzani
+ Asistente 2: Gustavo Benítez
+ Cuarto árbitro: Julián Beligoy
 Fecha 6 
  Uai - Urquiza - Villa Dálmine
  Colegiales - San Martín (B.)
@@ -2034,20 +2078,68 @@ Fecha 21
  F.C. Midland - Dep. Laferrere
  Los Andes - Cañuelas F.C.
 Primera C
-Fecha 4 
- Sp. Barracas Libre
- Berazategui - Luján
- Yupanqui - El Porvenir
- J.J. De Urquiza - Ituzaingó
- Dep. Paraguayo - Gral. Lamadrid
- Real Pilar - Muñiz
- Argentino (Ros.) - Mercedes
- Def. De Cambaceres - Ctral. Cba. (Ros.)
- Atlas - Puerto Nuevo
- Dep. Español - Lugano
- Ctro. Re- Español - J. Unida
- V. Arenas - Claypole
- L.N. Alem - Ctral. Ballester
+Fecha 4
+Deportivo Español - Lugano
+ Árbitro: Jonathan Barrios
+ Asistente 1: Carlos Otegui
+ Asistente 2: Jonathan Florentín
+ Cuarto árbitro: Martín Morenza
+JJ de Urquiza - Ituzaingó
+ Árbitro: Jesús Girett
+ Asistente 1: Pablo Pastor
+ Asistente 2: Ezequiel Rabasa
+ Cuarto árbitro: Axel Pogge
+Defensores de Cambaceres - Central Córdoba (R)
+ Árbitro: Ramiro Maglio
+ Asistente 1: Lucas Vázquez
+ Asistente 2: Facundo Mendiolar
+ Cuarto árbitro: Eduardo Coyto
+Argentino de Rosario - Mercedes
+ Árbitro: Nicolás Jara
+ Asistente 1: Ramiro Ortiz Biondi
+ Asistente 2: Alexis Ramírez
+ Cuarto árbitro: Iñaqui Iparraguirre
+Atlas - Puerto Nuevo
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Matías Panozzo
+ Asistente 2: Heber Ibáñez Mesa
+ Cuarto árbitro: Micaela Abelardo
+Yupanqui - El Porvenir
+ Árbitro: Néstor Barrios
+ Asistente 1: Leonardo Aprea
+ Asistente 2: Federico Bozo
+ Cuarto árbitro: Tomás Aybar
+Real Pilar - Muñiz
+ Árbitro: Julián Beligoy
+ Asistente 1: Matías Pino
+ Asistente 2: Maximiliano Montenegro
+ Cuarto árbitro: Juan Pablo Pereyra
+Alem - Central Ballester
+ Árbitro: Adrián Núñez Rodríguez
+ Asistente 1: Diego Fernández
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Iván Castelu Coca
+Deportivo Paraguayo - General Lamadrid
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Juan Martín Cingolani
+ Asistente 2: Leandro Idio
+ Cuarto árbitro: Matías Ansede
+Victoriano Arenas - Claypole
+ Árbitro: Damián Rubino
+ Asistente 1: Fabio Ventura
+ Asistente 2: Gonzalo Cubillas
+ Cuarto árbitro: Valentín Bocaccia
+Centro Español - Juventud Unida
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Leandro Britez
+ Asistente 2: Felipe Arrechea
+ Cuarto árbitro: Gonzalo Correa
+Berazategui - Luján
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Leandro Carril
+ Asistente 2: Lucas Monsalvo
+ Cuarto árbitro: Agustín Flores
+Sportivo Barracas: libre
 Fecha 5 
  Libre L.N. Alem
  Ctral. Ballester - V. Arenas
@@ -2696,13 +2788,41 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 1
-Dep. Metalúrgico - Belgrano (Z.)
-S.A.T. - Everton (L.P.)
-Def. De Glew - F.C Ezeiza
-Juv. De Bernal - Barrancas F.C
-Pcial. De Lobos - Est. Del Sur
-Est. De Berisso - Camioneros
-At. Pilar - N. Hacoaj
+SAT - Everton
+ Árbitro: David Cornejo
+ Asistente 1: Luciano Cabral
+ Asistente 2: Ariel Ibáñez
+ Cuarto árbitro: Tomás Aybar
+Pcial. de Lobos - Estrella del Sur
+ Árbitro: Martín Despósito
+ Asistente 1: Santiago Gancedo
+ Asistente 2: Damián Alcaraz
+ Cuarto árbitro: Gonzalo Correa
+Dep. Metalúrgico - Belgrano (Z)
+ Árbitro: Joaquín Rodríguez
+ Asistente 1: Alan Anria
+ Asistente 2: Federico Boveri
+ Cuarto árbitro: Martín Morenza
+Def. de Glew - FC Ezeiza
+ Árbitro: Axel Pogge
+ Asistente 1: Enrique Lanz
+ Asistente 2: Santiago Escudero
+ Cuarto árbitro: Eduardo Coyto
+At. Pilar - Náutico Hacoaj
+ Árbitro: Valentín Bocaccia
+ Asistente 1: Lucas Isla
+ Asistente 2: Julián Fabiani
+ Cuarto árbitro: Micaela Abelardo
+Juv. de Bernal - Barrancas FC
+ Árbitro: Gabriel Flores
+ Asistente 1: Federico Machuca
+ Asistente 2: Oscar Maidana
+ Cuarto árbitro: Axel Fernández
+Estrella de Berisso - Camioneros
+ Árbitro: Iván Mastroieni
+ Asistente 1: Cristian Rodríguez
+ Asistente 2: Facundo Maldonado
+ Cuarto árbitro: Iñaqui Iparraguirre
 Fecha 2 
 At. Pilar - Dep. Metalúrgico
 N. Hacoaj - Est. De Berisso
