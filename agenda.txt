@@ -1,24 +1,5 @@
 Publicado: 25/03/2019
 Copa Sur Finanzas 2024
-Fecha 6
-Zona “A”
-Martes 20 de febrero
-Argentinos Juniors - Independiente Riv. (Mza.), a las 19.30 horas
- Árbitro: Sebastián Martínez
- Asistente 1: Pablo Gualtieri
- Asistente 2: Lucio Mendez
- Cuarto árbitro: Valentín Bocaccia
- VAR: Mauro Vigliano
- AVAR: Sebastián Raineri
-Zona “B”
-Martes 20 de febrero
-Def. y Justicia - Ctral. Córdoba (S.E.), a las 20.00 horas
- Árbitro: Andrés Gariano
- Asistente 1: Juan Del Fueyo
- Asistente 2: Lucas Pardo
- Cuarto árbitro: José Diaz
- VAR: Fernando Espinoza
- AVAR: Julio Fernández
 Fecha 7 – Interzonal
 Sábado 24-02
  Independiente - Racing Club, a las 17.00 horas
@@ -982,11 +963,6 @@ Viernes 23-02
  Asistente 2: Lucas Pardo
  Cuarto árbitro: Rodrigo Villalba
 Sábado 24-02
- Alte. Brown - Estudiantes (Rio IV), a las 17.00 horas 
- Árbitro: Julio Barraza
- Asistente 1: Ernesto Callegari
- Asistente 2: Juan Pablo Millenaar
- Cuarto árbitro: Américo Monsalvo
 Def. Unidos - Mitre (S.E.), a las 17.00 horas
  Árbitro: Juan Pablo Loustau
  Asistente 1: Marcelo Errante
@@ -1031,6 +1007,8 @@ Domingo 25-02
  Asistente 1: Marcelo Bistocco
  Asistente 2: Juan M. Vázquez
  Cuarto árbitro: Lucas Cavallero
+Suspendido
+Alte. Brown - Estudiantes (Rio IV)
 Fecha 5 
 Zona A 
 Chacarita Jrs. - Talleres (R.E.) 
@@ -1781,57 +1759,6 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Fecha 4
-Martes 20 de febrero
- Sp. Dock Sud - UAI - Urquiza, a las 17.00 horas (TV)
- Árbitro: Germán Bermúdez
- Asistente 1: Carlos Suárez
- Asistente 2: Edgardo Kopanchuk
- Cuarto árbitro: Maximiliano López
-Flandria - San Martín (B.), a las 17.00 horas
- Árbitro: Marcos Recalde
- Asistente 1: Leandro Vieta
- Asistente 2: Leonardo Aprea
- Cuarto árbitro: Nuñez Rodríguez A
-Villa San Carlos - Acassuso, a las 17.00 horas
- Árbitro: Nicolás Kresta
- Asistente 1: Cristian Colonesse
- Asistente 2: Cristian Amarilla
- Cuarto árbitro: Ignacio Cuicchi
-Sp. Italiano - Excursionistas, a las 17.00 horas
- Árbitro: Wenceslao Meneses
- Asistente 1: Maximiliano Benzoni
- Asistente 2: Pablo Pastor
- Cuarto árbitro: Mariano Seco
-Dep. Armenio - Cañuelas F.C, a las 17.00 horas
- Árbitro: Jonathan De Otto
- Asistente 1: Nahuel Santonocito
- Asistente 2: Juan Ricciardi
- Cuarto árbitro: Alejandro Porticella
-Arg. de Quilmes - Los Andes, a las 17.00 horas (TV)
- Árbitro: Mariano Negrete
- Asistente 1: Fernando Rodríguez
- Asistente 2: Juan Martín Pereira
- Cuarto árbitro: Rodrigo Villalba
-Fénix - F.C Midland, a las 17.00 horas en Almagro
- Árbitro: Guido Mascheroni
- Asistente 1: Matías Basso
- Asistente 2: Diego Rodríguez
- Cuarto árbitro: Jesús Girett
-Colegiales - Villa Dálmine, a las 20.00 horas
- Árbitro: Sebastián Bresba
- Asistente 1: Héctor Gomez
- Asistente 2: Nicolás Gruccio
- Cuarto árbitro: Gonzalo Creimerman
-Arg. de Merlo - Sacachispas F.C, a las 20.30 horas
- Árbitro: Gonzalo Pereira
- Asistente 1: Martín Giampaolo
- Asistente 2: Juan Manuel Díaz
- Cuarto árbitro: Lucas Brumer
-Comunicaciones - Dep. Laferrere, a las 21.10 horas (TV)
- Árbitro: Julián Jerez
- Asistente 1: Santiago Mitre
- Asistente 2: César Córdoba
- Cuarto árbitro: Jonathan Barrios
 Miércoles 21 de febrero
  Liniers - Dep. Merlo, a las 17.00 horas
  Árbitro: Gabriel Gutierrez
@@ -3274,16 +3201,8 @@ El 12 de junio, un día después del partido inaugural, debutarán los dos anfit
 El encuentro final, programado para el 19 de julio, se celebrará en el estadio MetLife de Nueva Jersey.
 Las otras sedes serán: Guadalajara (Estadio Akron),Monterrey (Estadio BBVA) en México; Vancouver (BC Place) en Canadá; Atlanta (Mercedes-Benz Stadium), Boston (Gillette Stadium), Dallas (AT&T Stadium), Houston (NRG Stadium), Kansas City (Arrowhead Stadium), Miami (Hard Rock Stadium), Nueva York/Nueva Jersey (MetLife Stadium), Philadelphia (Lincoln Financial Field), San Francisco (Bay Area: Levi's Stadium) y Seattle (Lumen Field).
 Selección Femenina
-La W Gold Cup se jugará del 20 de febrero al 10 de marzo.
+La W Gold Cup se juega del 20 de febrero al 10 de marzo.
 Grupo A
-Martes 20 de febrero 
-21.30 México – Argentina, en Dignity Health Sports Park, Carson, CA
-Árbitra: Myriam Marcotte (Canadá)
-Asistente 1: Marie-Han Gagnon Chrétien (Canadá)
-Asistente 2: Melissa Snedden (Canadá)
-Cuarta árbitra: Carly Shaw-MacLaren (Canadá)
-VAR: Drew Fischer (Canadá)
-VAR1: Benjamin Pineda (Costa Rica)
 Miércoles 25 de febrero
 00.15 Estados Unidos- República Dominica, en Dignity Health Sports Park, Carson, CA
 Viernes 23 de febrero 
@@ -3572,13 +3491,7 @@ La edición inaugural de este torneo se jugará en Estados Unidos. Los dos equip
 Las cuatro selecciones invitadas de la CONMEBOL que participarán han sido determinadas con base en los resultados de la Copa América Femenina 2022: Brasil (campeón) Colombia (subcampeón), Argentina (tercer lugar) y Paraguay (cuarto lugar).
 Fixture:
 Martes 20 de febrero
- 21.30 México – Argentina, en Dignity Health Sports Park, Carson, CA
-Árbitra: Myriam Marcotte (Canadá)
-Asistente 1: Marie-Han Gagnon Chrétien (Canadá)
-Asistente 2: Melissa Snedden (Canadá)
-Cuarta árbitra: Carly Shaw-MacLaren (Canadá)
-VAR: Drew Fischer (Canadá)
-VAR1: Benjamin Pineda (Costa Rica)
+ México – Argentina, en Dignity Health Sports Park, Carson, CA
  Sábado 24 de febrero
  00.15 Argentina – Estados Unidos, en Dignity Health Sports Park, Carson, CA
 Lunes 26 de febrero
