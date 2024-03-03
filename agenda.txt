@@ -25,29 +25,7 @@ Talleres (Cba.) - River Plate, a las 21.30 horas en estadio Mario A. Kempes
  VAR: Mauro Vigliano
  AVAR: José Carreras
 Zona “B”
-Sábado 02-03
- Sarmiento - Unión, a las 17.00 horas
- Árbitro: Luis Lobo Medina
- Árbitro asistente 1: Pablo Acevedo
- Árbitro asistente 2: Erik Grunman
- Cuarto árbitro: Franco Morón
- VAR: Germán Delfino
- AVAR: Javier Uziga
 Domingo 03-03
- Def. y Justicia - Lanús, a las 17.00 horas
- Árbitro: Franco Acita
- Árbitro asistente 1: Walter Ferreyra
- Árbitro asistente 2: Andrés Barbieri
- Cuarto árbitro: Germán Delfino
- VAR: Pablo Dóvalo
- AVAR: Gisela Trucco
-Godoy Cruz - Estudiantes de L.P., a las 17.00 horas en estadio Mendoza
- Árbitro: Darío Herrera
- Árbitro asistente 1: Iván Núñez
- Árbitro asistente 2: Julio Fernández
- Cuarto árbitro: Pablo Núñez
- VAR: Yael Falcón Pérez
- AVAR: Juan Pafundi
 Boca Juniors - Belgrano (Cba.), a las 19.15 horas
  Árbitro: Nazareno Arasa
  Árbitro asistente 1: Pablo González
@@ -910,21 +888,6 @@ Agropecuario Arg. - G. y Esgrima (J.), a las 17.00 horas
  Asistente 2: Malvina Schiel
  Cuarto árbitro: Cristian Rubiano
 Domingo 03-03
- Chacarita Juniors - Talleres (R.E.), a las 17.00 horas (TV)
- Árbitro: Pablo Giménez
- Asistente 1: Ariel Scime
- Asistente 2: Federico Pomi
- Cuarto árbitro: Salomé Di Iorio
-Arsenal F.C. - San Miguel, a las 17.00 horas
- Árbitro: Julián Jeréz
- Asistente 1: Lucas Pardo
- Asistente 2: Mario Bardina
- Cuarto árbitro: Héctor Paletta
-G. Brown (P.M.) - Dep. Maipú (Mza.), a las 17.00 horas
- Árbitro: G. Monson Brizuela
- Asistente 1: Emanuel Serale
- Asistente 2: Martín Saccone
- Cuarto árbitro: Julio Luciano
 San Martín (S.J.) - Ferro Carril Oeste, a las 19.00 horas
  Árbitro: Nahuel Viñas
  Asistente 1: Ernesto Callegari
@@ -949,31 +912,6 @@ Sábado 02-03
  Asistente 2: Lucas Rípoli
  Cuarto árbitro: Damián Rubino
 Domingo 03-03
- Temperley - Chaco For Ever, a las 17.00 horas
- Árbitro: Juan Cruz Robledo
- Asistente 1: Marcelo Errante
- Asistente 2: Damián Orellana
- Cuarto árbitro: Eduardo Gutiérrez
-Dep. Morón - San Telmo, a las 17.00 horas
- Árbitro: Felipe Viola
- Asistente 1: Uriel García Leri
- Asistente 2: Carla López
- Cuarto árbitro: Gastón Suárez
-G. y Tiro (Salta) - Def. Unidos, a las 17.00 horas
- Árbitro: Lucas Novelli
- Asistente 1: Víctor Rojas Aguirre
- Asistente 2: Belem Bevilacqua
- Cuarto árbitro: César Ceballo
-Mitre (S.E.) - Atlanta, a las 17.00 horas
- Árbitro: Bryan Ferreyra
- Asistente 1: Rubén Bustos
- Asistente 2: Guillermo Yacante
- Cuarto árbitro: Mauricio Martin
-Aldosivi (M.D.P.) - Alte. Brown, a las 17.00 horas en estadio José M. Minella
- Árbitro: Edgardo Zamora
- Asistente 1: Mariano Cichetto
- Asistente 2: Diego Romero
- Cuarto árbitro: Juan Nebietti
 Estudiantes (Río IV) - Colón, a las 21.30 horas (TV)
  Árbitro: Sebastián Martínez
  Asistente 1: Lucio Méndez
@@ -1729,58 +1667,6 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Fecha 6 
-Sábado 02-03
- Flandria - Excursionistas, a las 17.00 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Fernando Rodríguez
- Asistente 2: Juan Ricciardi
- Cuarto árbitro: Gabriel Flores
-Villa San Carlos - Sacachispas F.C., a las 17.00 horas
- Árbitro: Mariano Negrete
- Asistente 1: Gonzalo Beloso
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: David Cornejo
-Sp. Italiano - Dep. Merlo, a las 17.00 horas 
- Árbitro: Nicolás Kresta
- Asistente 1: Cristian Colonesse
- Asistente 2: Francisco Gugliotta
- Cuarto árbitro: Jesús Girett
-Arg. de Merlo - Dep. Laferrere, a las 17.00 horas
- Árbitro: Wenseslao Meneses
- Asistente 1: Leandro Vieta
- Asistente 2: Giuliano Grillo
- Cuarto árbitro: Lucas Brumer
-Liniers - Cañuelas F.C., a las 17.00 horas
- Árbitro: Américo Monsalvo
- Asistente 1: Juan Pereira
- Asistente 2: Juan Martín Pereira
- Cuarto árbitro: Iván Mastroieni
-Dep. Armenio - F.C. Midland, a las 17.00 horas
- Árbitro: Marcos Recalde
- Asistente 1: Martín Alonso
- Asistente 2: Emiliano Fernández
- Cuarto árbitro: Valentín Bocaccia
-Arg. de Quilmes - Fénix, a las 17.00 horas
- Árbitro: Jonathan De Oto
- Asistente 1: Juan Manuel Díaz
- Asistente 2: Ezequiel Noguera
- Cuarto árbitro: Iñaki Iparraguirre
-Colegiales - San Martín (B.), a las 17.00 horas
- Árbitro: Mauro Biasutto
- Asistente 1: Santiago Mitre
- Asistente 2: Martín Raffo
- Cuarto árbitro: Eduardo Gutiérrez
-Comunicaciones - Los Andes, a las 17.05 horas (TV)
- Árbitro: Gonzalo Pereira
- Asistente 1: Héctor Bracho Gómez
- Asistente 2: Cristian Amarilla
- Cuarto árbitro: Ramiro Maglio
-Domingo 03-03 
- UAI Urquiza - Villa Dálmine, a las 17.00 horas
- Árbitro: Ariel Cruz
- Asistente 1: Martín Giampaolo
- Asistente 2: Matías Panozzo
- Cuarto árbitro: Ignacio Lupani
 Lunes 04-03
  Sp. Dock Sud - Acassuso, a las 17.00 horas (TV)
  Árbitro: Kevin Alegre
@@ -1969,63 +1855,6 @@ Fecha 21
  Los Andes - Cañuelas F.C.
 Primera C
 Fecha 5 
-Sábado 02-03
- Ctral. Córdoba (Ros.) - Argentino (Ros.), a las 17.00 horas
- Árbitro: Nicolás Mastroieni
- Asistente 1: Pablo Pastor
- Asistente 2: Hernán Antola
- Cuarto árbitro: Axel Pogge
-Mercedes - Real Pilar F.C., a las 19.00 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Jonathan Ghiso
- Asistente 2: Mariela Martino
- Cuarto árbitro: Matías Ansede
-Ituzaingó - Yupanqui, a las 19.00 horas
- Árbitro: Mariano Seco
- Asistente 1: Luciano Cabral
- Asistente 2: Gonzalo Cubillas
- Cuarto árbitro: Eduardo Coyto
-Domingo 03-03
- Ctral. Ballester - Victoriano Arenas, a las 17.00 horas
- Árbitro: Maximiliano López Monti
- Asistente 1: Lucas Isla
- Asistente 2: Cristian Rodríguez
- Cuarto árbitro: Iván Mastroieni
-Juv. Unida - Dep. Español, a las 17.00 horas, en el estadio Municipal de Pilar
-Árbitro: Gonzalo Creimermann
- Asistente 1: Enrique Lanz
- Asistente 2: Santiago Gancedo
- Cuarto árbitro: Lucas Brumer
-Lugano - Atlas, a las 17.00 horas
- Árbitro: Julián Beligoy
- Asistente 1: Nicolás Gruccio
- Asistente 2: Federico Machuca
- Cuarto árbitro: David Cornejo
-Puerto Nuevo - Def. de Cambaceres, a las 17.00 horas
- Árbitro: Alejandro Porticella
- Asistente 1: Alan Anria
- Asistente 2: Hernán Prado
- Cuarto árbitro: Jesús Girett
-Muñiz - Dep. Paraguayo, a las 17.00 horas en Atlas
- Árbitro: Rodrigo Villalba
- Asistente 1: Sebastián Pumetti
- Asistente 2: Ezequiel Rabasa
- Cuarto árbitro: Gabriel Flores
-Gral. Lamadrid - J.J. de Urquiza, a las 17.00 horas
- Árbitro: Guido Mascheroni
- Asistente 1: Juan M. Acevedo
- Asistente 2: Rodrigo Mansilla
- Cuarto árbitro: Ramiro Maglio
-El Porvenir - Berazategui, a las 17.00 horas
- Árbitro: Ignacio Cuichi
- Asistente 1: Federico Josa
- Asistente 2: Matías Pino
- Cuarto árbitro: Valentín Bocaccia
-Luján - Sp. Barracas, a las 17.00 horas
- Árbitro: Nicolás Jara
- Asistente 1: Lucas Vázquez
- Asistente 2: Damián Alcaraz
- Cuarto árbitro: Juan Pablo Pereyra
 Lunes 04-03
  Claypole - Rec. Español, a las 17.00 horas en Brown (Adrogué)
  Árbitro: Néstor Barrios
@@ -2667,39 +2496,6 @@ Fecha 50
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Torneo Apertura
- Fecha 2 
-Sábado 02-03
- Estrella del Sur - Juv. de Bernal, a las 17.00 horas
- Árbitro: Martín Morenza
- Asistente 1: Federico Lapalma
- Asistente 2: Julián Fabiani
- Cuarto árbitro: Joaquín Rodríguez
-Domingo 03-03
- Náutico Hacoaj - Estrella de Berisso, a las 17.00 horas 
- Árbitro: Gonzalo Correa
- Asistente 1: Mario Vargas
- Asistente 2: Xavier Argüello
- Cuarto árbitro: Axel Pogge
-Camioneros - Dep. Provincial (Lobos), a las 17.00 horas 
- Árbitro: Agustín Flores
- Asistente 1: Felipe Onufrik
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Eduardo Coyto
-Barrancas F.C. - Def. de Glew, a las 17.00 horas en Platense (Auxiliar)
- Árbitro: Iván Coca Castelu
- Asistente 1: Héber Ibáñez
- Asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Matías Ansede
-F.C. Ezeiza - S.A.T., a las 17.00 horas en Tristán Suárez
- Árbitro: Mateo Bocaccia
- Asistente 1: Leonardo Aprea
- Asistente 2: Alexis Ramírez
- Cuarto árbitro: Axel Fernández
-Everton L.P. - Belgrano (Zarate), a las 17.00 horas
- Árbitro: Martín Despósito
- Asistente 1: Diego Fernández
- Asistente 2: Brayan Malpartida
- Cuarto árbitro: Iñaqui Iparraguirre
 Fecha 3 
 Dep. Metalúrgico - Everton (L.P.)
 Belgrano (Z.) - F.C Ezeiza
