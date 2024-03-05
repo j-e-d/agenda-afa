@@ -2,20 +2,6 @@ Publicado: 25/03/2019
 Copa Sur Finanzas 2024
 9ª. fecha:
 Martes 5 de marzo
- 19.00 Barracas Central – Independiente (Zona A), en Huracán
- Árbitro: Pablo Dóvalo
- Árbitro asistente 1: Lucas Germanotta
- Árbitro asistente 2: Juan Del Fueyo
- Cuarto árbitro: Javier Delbarba
- VAR: Luis Lobo Medina
- AVAR: Andrés Gariano
- 20.00 Racing – Sarmiento (Zona B) 
- Árbitro: Fernando Echenique
- Árbitro asistente 1: Hugo Paez
- Árbitro asistente 2: Juan Vázquez
- Cuarto árbitro: Bruno Amiconi
- VAR: Lucas Novelli
- AVAR: Gastón Monsón Brizuela
  21.30 Vélez – Rosario Central (Zona A) 
  Árbitro: Sebastián Martínez
  Árbitro asistente 1: Javier Uziga
@@ -969,7 +955,7 @@ Colón - Aldosivi (M.D.P.)
  Cuarto árbitro: Brian Ferreyra
 Alte. Brown - Mitre (S.E.)
  Árbitro: Gastón Brizuela
- Asistente 1: Juan Manuel Ejarque
+ Asistente 1: Juan Manuel Vázquez
  Asistente 2: Federico Pomi
  Cuarto árbitro: Guido Mascheroni
 Atlanta - G. Y Tiro (S.)
@@ -2804,15 +2790,15 @@ Torneo Femenino de Primera División 2024
 Fecha 1
 Sábado 9 de marzo
  17.00 Huracán - San Luis F.C., en La Quemita
- 17.00 UAI Urquiza - Racing, en Estadio Monumental de Villa Lynch
 Domingo 10 de marzo
  09.00 Independiente - Estudiantes, en predio de Villa Domínico
- 09.00 River - Boca, en River Camp
+ 09.00 River - Boca, en River Camp (TV)
  17.00 Platense - Newell's, en predio Galván
  17.00 Gimnasia - Ferro, en Estadio Juan Carmelo Zerillo
  17.00 Excursionistas - S.A.T., en Estadio
  17.00 Rosario Central - Banfield, Estadio Gigante de Arroyito
 Lunes 11 de marzo
+ 17.00 UAI Urquiza - Racing, en Estadio Monumental de Villa Lynch (TV)
  20.00 Belgrano - San Lorenzo, en Estadio Julio César Villagra
 Fecha 2
  Belgrano - Huracán
@@ -2995,12 +2981,6 @@ Grupo B
 Grupo C
  - Aucas (Ecuador), Defensor Sporting (Uruguay), Flamengo (Brasil) y Sporting Cristal (Perú).
 Fixture
- Lunes 4 de marzo
- 15.00 Aucas - Sporting Cristal
- 18.00 Defensor Sporting - Flamento
- Martes 5 de marzo
- 15.00 Colo-Colo - Boca
- 18.00 A. Puerto Cabello - Always Ready
  Miércoles 6 de marzo
  15.00 Águilas Doradas - Rosario Central
  18.00 Olimpia - M. City Torque
