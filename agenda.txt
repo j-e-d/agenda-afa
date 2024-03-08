@@ -1879,61 +1879,11 @@ Fecha 21
 Primera C
 6ª. fecha
 Viernes 08-03
- Sp. Barracas - El Porvenir, a las 17.00 horas, en Dep. Morón.
- Árbitro: Julián Beligoy
- Asistente 1: Enrique Lanz
- Asistente 2: Santiago Gancedo
- Cuarto árbitro: Gabriel Flores
-Dep. Berazategui - Ituzaingó, a las 17.00 horas.
- Árbitro: Maximiliano López Monti
- Asistente 1: Jonathan Ghiso
- Asistente 2: Leonardo Aprea
- Cuarto árbitro: Lucas Brumer
-Yupanqui - Gral. Lamadrid, a las 17.00 horas.
- Árbitro: Gonzalo Creimermann
- Asistente 1: Leandro Carril
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Néstor Barrios
-J.J. de Urquiza - Muñiz, a las 17.00 horas.
- Árbitro: Nicolás Mastroieni
- Asistente 1: Ramiro Ortiz Bondi
- Asistente 2: Diego Fernández
- Cuarto árbitro: David Cornejo
-Dep. Paraguayo - Mercedes, a las 17.00 horas en Lugano.
- Árbitro: Ignacio Cuicchi
- Asistente 1: Federico Bozo
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Tomás Aybar
 Real Pilar - Ctral. Córdoba (Ros.), a las 19.00 horas en estadio Municipal de Pilar.
  Árbitro: Rodrigo Villalba
  Asistente 1: Federico Machuca
  Asistente 2: Alexis Ramírez
  Cuarto árbitro: Martín Morenza
-Argentino (Ros.) - Puerto Nuevo, a las 17.00 horas.
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Matías Noli
- Asistente 2: Leandro Britez
- Cuarto árbitro: Matías Ansede
-Def. de Cambaceres - Lugano, a las 17.00 horas.
- Árbitro: Damián Rubino
- Asistente 1: Juan Cingolani
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Joaquín Rodríguez
-Atlas - J. Unida, a las 17.00 horas.
- Árbitro: Nicolás Jara
- Asistente 1: Fabio Ventura
- Asistente 2: Facundo Mendiolar
- Cuarto árbitro: Iván Mastroieni
-Dep. Español - Claypole, a las 17.00 horas.
- Árbitro: Jesús Girett
- Asistente 1: Ariel López
- Asistente 2: Heber Ibáñez
- Cuarto árbitro: Juan Pablo Pereyra
-V. Arenas - L.N. Alem, a las 17.00 horas.
- Árbitro: Ramiro Maglio
- Asistente 1: Gustavo Benítez Soilan
- Asistente 2: Matías Panozzo
- Cuarto árbitro: Guido Mascheroni
 Sábado 09-03
  Ctro. Rec. Español c. Ctral. Ballester, a las 17.00 horas en Atlas.
  Árbitro: Alejandro Porticella
@@ -2610,12 +2560,6 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Torneo Apertura
 3ª. fecha
-Viernes 08-03
- Belgrano (Z.) - F.C. Ezeiza, a las 17.00 horas (TV).
- Árbitro: Valentín Bocaccia
- Asistente 1: Xavier Argüello
- Asistente 2: Ariel Ibáñez
- Cuarto árbitro: Gonzalo Correa
 Sábado 09-03
  S.A.T. - Barrancas F.C., a las 17.00 horas.
  Árbitro: Iván Mastroieni
@@ -2809,16 +2753,52 @@ Torneo Femenino de Primera División 2024
 Fecha 1
 Sábado 9 de marzo
  17.00 Huracán - San Luis F.C., en La Quemita
+ Árbitra: Salomé Di Iorio
+ Asistente 1: Daniela Lanzafame
+ Asistente 2: Jennifer Mendoza
+ Cuarta árbitra: Jessica Laborde
 Domingo 10 de marzo
  09.00 Independiente - Estudiantes, en predio de Villa Domínico
- 09.00 River - Boca, en River Camp (TV)
- 17.00 Platense - Newell's, en predio Galván
- 17.00 Gimnasia - Ferro, en Estadio Juan Carmelo Zerillo
- 17.00 Excursionistas - S.A.T., en Estadio
- 17.00 Rosario Central - Banfield, Estadio Gigante de Arroyito
+ Árbitra: Estela Álvarez de Olivera
+ Asistente 1: Daniela Sanda
+ Asistente 2: Valentín Bocaccia
+ Cuarta árbitra: Selene Coria Ávalos
+09.00 River - Boca, en River Camp (TV)
+ Árbitra: Roberta Echeverría
+ Asistente 1: Sofía Curto
+ Asistente 2: Julieta Fernández
+ Cuarta árbitra: Luciana Sánchez
+17.00 Platense - Newell's, en Estadio Ciudad de Vicente López
+ Árbitra: María Laura Fortunato
+ Asistente 1: Ludmila Capelli
+ Asistente 2: Federico Lapalma
+ Cuarta árbitra: Ariadna Palacios
+17.00 Gimnasia - Ferro, en Estadio Juan Carmelo Zerillo
+ Árbitra: Mariela Martino
+ Asistente 1: Jessica Laborde
+ Asistente 2: Daniela Lanzafame
+ Cuarta árbitra: Guadalupe Ortiz
+17.00 Excursionistas - S.A.T., en Estadio
+ Árbitra: Micaela Abelardo
+ Asistente 1: Berenice Avaro
+ Asistente 2: Gian Folino
+ Cuarta árbitra: Selene Coria Ávalos
+17.00 Rosario Central - Banfield, Estadio Gigante de Arroyito
+ Árbitra: Luciana Petrella
+ Asistente 1: Mara Díaz
+ Asistente 2: María Lourdes Prado
+ Cuarta árbitra: Camila Gette
 Lunes 11 de marzo
  17.00 UAI Urquiza - Racing, en Estadio Monumental de Villa Lynch (TV)
- 20.00 Belgrano - San Lorenzo, en Estadio Julio César Villagra
+ Árbitra: Bettina Cingari
+ Asistente 1: Daiana Milone
+ Asistente 2: Jennifer Mendoza
+ Cuarta árbitra: María Estefanía Pinto
+20.00 Belgrano - San Lorenzo, en Estadio Julio César Villagra
+ Árbitra: Antonella Álvarez de Olivera
+ Asistente 1: Esperanza Sánchez
+ Asistente 2: Analía Fernández
+ Cuarta árbitra: Lorena Sánchez
 Fecha 2
  Belgrano - Huracán
  San Lorenzo de A. - Rosario Central
