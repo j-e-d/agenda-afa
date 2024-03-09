@@ -12,13 +12,6 @@ Miércoles 20 de marzo
 10ª. fecha:
  Zona “A”
 Sábado 09-03
- G. y Esgrima L.P. -. Barracas Central, a las 17.00 horas.
- Árbitro: Hernán Mastrángelo
- Asistente 1: Pablo González
- Asistente 2: Pablo Gualtieri
- Cuarto árbitro: José Carreras
- VAR: Fernando Echenique
- AVAR: Iván Núñez
 Independiente - River Plate, a las 19.15 horas.
  Árbitro: Nazareno Arasa
  Asistente 1: Diego Bonfá
@@ -65,15 +58,8 @@ Banfield - Vélez Sarsfield, a las 21.15 horas.
  AVAR: Juan Del Fueyo
 Zona “B”
 Sábado 09-03
- Sarmiento - Estudiantes de L.P., a las 17.00 horas.
- Árbitro: Andrés Merlos
- Asistente 1: Cristian Navarro
- Asistente 2: Federico Cano
- Cuarto árbitro: Cristian Cernadas
- VAR: Fernando Espinoza
- AVAR: Pablo Echavarría
 Platense - San Lorenzo, a las 21.30 horas.
- Árbitro: Nicolás Lamolina
+Árbitro: Nicolás Lamolina
  Asistente 1: Walter Ferreyra
  Asistente 2: Erik Grunman
  Cuarto árbitro: Gastón Suárez
@@ -87,14 +73,14 @@ Domingo 10-03
  Cuarto árbitro: Rodrigo Rivero
  VAR: Héctor Paletta
  AVAR: Gastón Suárez
-Def. y Justicia c. Unión, a las 19.15 horas.
+Def. y Justicia - Unión, a las 19.15 horas.
  Árbitro: Sebastián Zunino
  Asistente 1: Hugo Páez
  Asistente 2: Daiana Milone
  Cuarto árbitro: Felipe Viola
  VAR: José Carreras
  AVAR: Pablo González
-Boca Juniors c. Racing Club, a las 21.30 horas.
+Boca Juniors - Racing Club, a las 21.30 horas.
  Árbitro: Pablo Echavarría
  Asistente 1: Juan Pablo Belatti
  Asistente 2: Pablo Acevedo
@@ -835,16 +821,6 @@ Alte. Brown - Estudiantes (Río IV)
 6ª. fecha:
  Zona “A”
 Sábado 09-03
- Estudiantes - Chacarita Jrs., a las 17.00 horas (TV)
- Árbitro: Daniel Edgardo Zamora
- Asistente 1: Nahuel Rasullo 
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Americo Monsalvo
-San Miguel - San Martín (S.J.), a las 17.00 horas.
- Árbitro: Javier Delbarba
- Asistente 1: Marcelo Errante
- Asistente 2: Mauro Ramos
- Cuarto árbitro: Germán Bermúdez
 Ferro C. Oeste - G. Brown, a las 19.00 horas.
  Árbitro: Pablo Gimenez
  Asistente 1: Mariano Rossetti
@@ -882,23 +858,7 @@ Talleres (R.E.) - San Martín (Tuc.), a las 19.10 horas (TV).
  Asistente 2: Lucas Pardo
  Cuarto árbitro: Lucas Brumer
 Zona “B”
-Viernes 08-03
- At. Rafaela - Dep. Morón, a las 21.10 horas (TV).
- Árbitro: Alvaro Carranza
- Asistente 1: Roque Narvaez
- Asistente 2: Joaquin Badano
- Cuarto árbitro: Guillermo Gonzalez
 Sábado 09-03
- Dep. Madryn - Nueva Chicago, a las 17.00 horas.
- Árbitro: Diego Ceballos
- Asistente 1: Mariano Altavista
- Asistente 2: Darío Rojas
- Cuarto árbitro: Julio Luciano
-Def. de Belgrano - Almagro, a las 17.00 horas.
- Árbitro: Juan Pafundi
- Asistente 1: Andrés Barbieri
- Asistente 2: Juan Pablo Millenaar
- Cuarto árbitro: Eduardo Gutierrez
 Chaco For Ever - Brown (Adrogué), a las 21.00 horas.
  Árbitro: Bruno Amiconi
  Asistente 1: Mariano Viale
@@ -1644,32 +1604,6 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Fecha 7 
-Sábado 09-03
- Acassuso - Colegiales, a las 17.00 horas en Dep. Armenio.
- Árbitro: Marcos Recalde
- Asistente 1: Damián Orellana
- Asistente 2: Cecilio Calcagno
- Cuarto árbitro: Gonzalo Correa
-Sacachispas F.C. - Flandria, a las 17.00 horas.
- Árbitro: Ariel Cruz
- Asistente 1: Luis Castillo
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Agustín Flores
-Cañuelas F.C. - Arg. de Merlo, a las 17.00 horas.
- Árbitro: Sebastián Bresba
- Asistente 1: Diego Molina
- Asistente 2: Daniela Sanda
- Cuarto árbitro: Martín Despósito
-F.C. Midland - Comunicaciones, a las 17.00 horas.
- Árbitro: Julián Jeréz
- Asistente 1: Matías Basso
- Asistente 2: Arnaldo Melgarejo
- Cuarto árbitro: Martín Morenza
-Villa Dálmine - Arg. de Quilmes, a las 17.00 horas.
- Árbitro: Nicolás Kresta
- Asistente 1: Matías Arevalo
- Asistente 2: Francisco Gugliota
- Cuarto árbitro: Mateo Bocaccia
 Domingo 10-03
  San Martín (B) - UAI Urquiza, a las 17.00 horas.
  Árbitro: Gabriel Gutiérrez
@@ -1871,13 +1805,6 @@ Fecha 21
  F.C. Midland - Dep. Laferrere
  Los Andes - Cañuelas F.C.
 Primera C
-6ª. fecha
-Sábado 09-03
- Ctro. Rec. Español c. Ctral. Ballester, a las 17.00 horas en Atlas.
- Árbitro: Alejandro Porticella
- Asistente 1: Carlos Otegui
- Asistente 2: Mario Vargas
- Cuarto árbitro: Jonathan Barrios
 7ª. fecha:
 Martes 12-03
  L.N. Alem - Ctro. Rec. Español, a las 17.00 horas.
@@ -2747,12 +2674,6 @@ Regional Amateur
 Torneo Femenino de Primera División 2024
 ​​​​
 Fecha 1
-Sábado 9 de marzo
- 17.00 Huracán - San Luis F.C., en La Quemita
- Árbitra: Salomé Di Iorio
- Asistente 1: Daniela Lanzafame
- Asistente 2: Jennifer Mendoza
- Cuarta árbitra: Jessica Laborde
 Domingo 10 de marzo
  09.00 Independiente - Estudiantes, en predio de Villa Domínico
  Árbitra: Estela Álvarez de Olivera
