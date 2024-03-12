@@ -47,7 +47,7 @@ Sábado 16 de marzo
  Árbitro: Darío Herrera
  Asistente 1: Diego Bonfá
  Asistente 2: Mariano Ascenzi
- Cuarto árbitro: Diego Ceballos
+ Cuarto árbitro: Juan Pablo Loustau
  VAR: Lucas Novelli
  AVAR: José Savorani
  21.30 Atlético Tucumán – Independiente Rivadavia (Zona A)
@@ -1626,61 +1626,64 @@ Fénix - Dep. Armenio
  Asistente 2: Federico García
  Cuarto árbitro: Américo Monsalvo
 Fecha 8 
-San Martín (B.) - Villa Dálmine
- Árbitro: Wenceslao Meneses
- Asistente 1: Rodrigo Arin
- Asistente 2: Juan Ricciardi
- Cuarto árbitro: Damián Rubino
-Uai - Urquiza - Acassuso
- Árbitro: Gonzalo Pereira
- Asistente 1: Hernán Antola
- Asistente 2: Néstor Olivera
- Cuarto árbitro: Nicolás Mastroieni
-Colegiales - Excursionistas
- Árbitro: Julián Pérez
- Asistente 1: Nahuel Santanocito
- Asistente 2: César Córdoba
- Cuarto árbitro: Mauro Biasutto
-Sp. Dock Sud - Sacachispas F.C.
- Árbitro: Gastón Iglesias
- Asistente 1: Juan Manuel Díaz
- Asistente 2: Leonardo Aprea
- Cuarto árbitro: Eduardo Gutiérrez
-Flandria - Dep. Merlo
- Árbitro: Juan Cruz Robledo
- Asistente 1: Santiago Mitre
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Américo Monsalvo 
-Villa San Carlos - Dep. Laferrere
- Árbitro: Ariel Cruz
- Asistente 1: Carlos Suárez
- Asistente 2: Jonathan Ghiso
- Cuarto árbitro: Néstor Barrios
-Sp. Italiano - Cañuelas F.C.
- Árbitro: Mariano Negrete
- Asistente 1: Martín Alonso
- Asistente 2: Gonzalo Beloso
- Cuarto árbitro: Lucas Brumer
-Arg. De Merlo - Los Andes
+Sábado 16 de marzo
+Arg. de Merlo - Los Andes, a las 15.30 horas
  Árbitro: Jonathan de Oto
- Asistente 1: Hugo Hartung
- Asistente 2: Santiago Scalerandi
- Cuarto árbitro: Germán Bermúdez
-Liniers - F.C. Midland
- Árbitro: Kevin Alegre
- Asistente 1: Tomás Diulio
- Asistente 2: Matías Noli
- Cuarto árbitro: Nicolás Kresta
-Comunicaciones - Fénix
- Árbitro: Marcos Recalde
- Asistente 1: Emiliano Fernández
- Asistente 2: Leonardo Aranda
- Cuarto árbitro: Gabriel Gutiérrez
-Dep. Armenio - Arg. De Quilmes
+Asistente 1: Hugo Hartung
+Asistente 2: Santiago Scalerandi
+Cuarto árbitro: Germán Bermúdez
+Dep. Armenio - Arg. de Quilmes, a las 15.30 horas
  Árbitro: Guido Mascheroni
- Asistente 1: Yamil Galván
- Asistente 2: Fabio Ventura
- Cuarto árbitro: Alejandro Porticella
+Asistente 1: Yamil Galván
+Asistente 2: Fabio Ventura
+Cuarto árbitro: Alejandro Porticella
+UAI - Urquiza - Acassuso, a las 15.30 horas
+ Árbitro: Gonzalo Pereira
+Asistente 1: Hernán Antola
+Asistente 2: Néstor Olivera
+Cuarto árbitro: Nicolás Mastroieni
+Villa San Carlos - Dep. Laferrere, a las 15.30 horas
+ Árbitro: Ariel Cruz
+Asistente 1: Carlos Suárez
+Asistente 2: Jonathan Ghiso
+Cuarto árbitro: Néstor Barrios
+Colegiales - Excursionistas, a las 15.35 horas (TV)
+ Árbitro: Julián Pérez
+Asistente 1: Nahuel Santanocito
+Asistente 2: César Córdoba
+Cuarto árbitro: Mauro Biasutto
+Domingo 17 de marzo
+Sp. Dock Sud - Sacachispas F.C., a las 15.30 horas
+Árbitro: Gastón Iglesias
+Asistente 1: Juan Manuel Díaz
+Asistente 2: Leonardo Aprea
+Cuarto árbitro: Eduardo Gutiérrez
+Flandria - Dep. Merlo, a las 15.30 horas
+Árbitro: Juan Cruz Robledo
+Asistente 1: Santiago Mitre
+Asistente 2: Lucas Vázquez
+Cuarto árbitro: Américo Monsalvo
+Sp. Italiano - Cañuelas F.C., a las 15.30 horas
+ Árbitro: Mariano Negrete
+Asistente 1: Martín Alonso
+Asistente 2: Gonzalo Beloso
+Cuarto árbitro: Lucas Brumer
+Liniers - F.C. Midland, a las 15.30 horas
+Árbitro: Kevin Alegre
+Asistente 1: Tomás Diulio
+Asistente 2: Matías Noli
+Cuarto árbitro: Nicolás Kresta
+San Martin (B.) - Villa Dálmine, a las 20.00 horas
+ Árbitro: Wenceslao Meneses
+Asistente 1: Rodrigo Arin
+Asistente 2: Juan Ricciardi
+Cuarto árbitro: Damián Rubino
+Martes 19 de marzo 
+Comunicaciones - Fénix, a las 20.10 horas (TV)
+ Árbitro: Marcos Recalde
+Asistente 1: Emiliano Fernández
+Asistente 2: Leonardo Aranda
+Cuarto árbitro: Gabriel Gutiérrez
 Fecha 9 
  Villa Dálmine - Dep. Armenio
  Arg. De Quilmes - Comunicaciones
@@ -1903,67 +1906,70 @@ Muñiz - Yupanqui, a las 17.00 horas, en Atlas.
  Asistente 2: Lucas Vázquez
  Cuarto árbitro: Ignacio Cuicchi
 Fecha 8 
- El Porvenir: Libre 
-Luján - Ituzaingó 
+El Porvenir - Libre 
+Sábado 16 de marzo
+Luján - Ituzaingó, a las 15.30 horas
  Árbitro: Ignacio Cuicchi
- Asistente 1: Leandro Franchi
- Asistente 2: Leandro Idio
- Cuarto árbitro: Juan Pablo Pereyra
-Sp. Barracas - Gral. Lamadrid 
- Árbitro: Jesús Girett
- Asistente 1: Federico Josa
- Asistente 2: Heber Ibáñez Meza
- Cuarto árbitro: Néstor Barrios
- Berazategui - Muñiz 
- Árbitro: Julián Beligoy 
- Asistente 1: Nicolás Gruccio
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Valentín Bocaccia
-Yupanqui - Mercedes 
+Asistente 1: Leandro Franchi
+Asistente 2: Leandro Idio
+Cuarto árbitro: Juan Pablo Pereyra
+Berazategui - Muñiz, a las 15.30 horas
+ Árbitro: Julián Beligoy
+Asistente 1: Nicolás Gruccio
+Asistente 2: Felipe Arrechea
+Cuarto árbitro: Valentín Bocaccia
+Yupanqui - Mercedes, a las 15.30 horas
  Árbitro: Nicolás Jara
- Asistente 1: Juan Cingolani
- Asistente 2: Daniela Sanda
- Cuarto árbitro: Lucas Brumer
- J.J. De Urquiza - Ctral. Cba. (Ros.) 
- Árbitro: Jonathan Barrios
- Asistente 1: Matías Pino
- Asistente 2: Santiago Gancedo
- Cuarto árbitro: Joaquín Rodríguez
- Dep. Paraguayo - Puerto Nuevo 
- Árbitro: Martín Desposito
- Asistente 1: Diego Fernández
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: Iñaki Iparraguirre
- Real Pilar - Lugano 
+Asistente 1: Juan Cingolani
+Asistente 2: Daniela Sanda
+Cuarto árbitro: Lucas Brumer
+Argentino (Ros.) - Juv. Unida, a las 15.30 horas
+Árbitro: Gabriel Flores
+Asistente 1: Juan Manuel Acevedo
+Asistente 2: Ezequiel Rabasa
+Cuarto árbitro: Eduardo Coyto
+Real Pilar F.C. - Lugano, a las 19.00 horas en estadio Municipal de Pilar
  Árbitro: Maximiliano López Monti
- Asistente 1: Lucas Isla
- Asistente 2: Cristian Rodríguez
- Cuarto árbitro: Tomás Aybar
- Argentino (Ros.) - J. Unida 
- Árbitro: Gabriel Flores
- Asistente 1: Juan Manuel Acevedo
- Asistente 2: Ezequiel Rabasa
- Cuarto árbitro: Eduardo Coyto
- Def. De Cambaceres - Claypole 
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Enrique Lanz
- Asistente 2: Jonathan Florentín
- Cuarto árbitro: Iván Castelu Coca
- Atlas - Ctral. Ballester 
+Asistente 1: Lucas Isla
+Asistente 2: Cristian Rodríguez
+Cuarto árbitro: Tomás Aybar
+Domingo 17 de marzo
+J.J. de Urquiza - Ctral. Córdoba (Ros.), a las 15.30 horas
+ Árbitro: Jonathan Barrios
+Asistente 1: Matías Pino
+Asistente 2: Santiago Gancedo
+Cuarto árbitro: Joaquín Rodríguez
+Dep. Paraguayo - Puerto Nuevo, a las 15.30 horas en Lugano
+Árbitro: Martín Desposito
+Asistente 1: Diego Fernández
+Asistente 2: Felipe Onufrik
+Cuarto árbitro: Iñaki Iparraguirre
+Atlas - Ctral. Ballester, a las 15.30 horas
  Árbitro: Ramiro Maglio
- Asistente 1: Sebastián Pumetti
- Asistente 2: Hernán Prado
- Cuarto árbitro: Nicolás Mastroieni
- Dep. Español - L.N. Alem 
- Árbitro: Rodrigo Villalba
- Asistente 1: Maximiliano Montenegro
- Asistente 2: Federico Machuca
- Cuarto árbitro: Matías Ansede
- Ctro. Re- Español - V. Arenas 
+Asistente 1: Sebastián Pumetti
+Asistente 2: Hernán Prado
+Cuarto árbitro: Nicolás Mastroieni
+Lunes 18 de marzo
+Sp. Barracas - Gral. Lamadrid, a las 15.30 horas en Dep. Morón
+Árbitro: Jesús Girett
+Asistente 1: Federico Josa
+Asistente 2: Heber Ibáñez Meza
+Cuarto árbitro: Néstor Barrios
+Def. de Cambaceres - Claypole, a las 15.30 horas
+Árbitro: Adrián Núñez Rodríguez
+Asistente 1: Enrique Lanz
+Asistente 2: Jonathan Florentín
+Cuarto árbitro: Iván Castelu Coca
+Dep. Español - L.N. Alem, a las 15.30 horas
+Árbitro: Rodrigo Villalba
+Asistente 1: Maximiliano Montenegro
+Asistente 2: Federico Machuca
+Cuarto árbitro: Matías Ansede
+Re- Español - Victoriano Arenas, a las 15.30 horas en Atlas
  Árbitro: Gonzalo Creimermann
- Asistente 1: Ramiro Ortíz Biondi
- Asistente 2: Facundo Mendiolar
- Cuarto árbitro: Axel Fernández
+Asistente 1: Ramiro Ortíz Biondi
+Asistente 2: Facundo Mendiolar
+Cuarto árbitro: Axel Fernández
 Fecha 9 
  Libre Ctro. Re- Español
  V. Arenas - Dep. Español
@@ -2556,41 +2562,47 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 4 
-Est. De Berisso - Dep. Metalúrgico
- Árbitro: Martín Morenza
- Asistente 1: Diego Ortíz
- Asistente 2: Julián Fabiani
- Cuarto árbitro: Joaquín Rodríguez
-At. Pilar - Pcial. De Lobos
- Árbitro: Iván Mastroieni
- Asistente 1: Mario Vargas
- Asistente 2: Brayan Malpartida
- Cuarto árbitro: Valentín Bocaccia
-N. Hacoaj - Juv. De Bernal
+Jueves 14 de marzo
+Náutico Hacoaj - Juv. de Bernal, a las 15.00 horasen Tigre (Auxiliar) (TV)
  Árbitro: Mateo Bocaccia
- Asistente 1: Nahuel Valdeón
- Asistente 2: Santiago Escudero
- Cuarto árbitro: Antonella Álvarez
-Camioneros - Def. De Glew
+Asistente 1: Nahuel Valdeón
+Asistente 2: Santiago Escudero
+Cuarto árbitro: Antonella Álvarez
+Viernes 15 de marzo
+Camioneros - Def. de Glew, a las 16.00 horas
  Árbitro: David Cornejo
- Asistente 1: Damián Alcaráz
- Asistente 2: Bruno Castillo
- Cuarto árbitro: Axel Fernández
-Est. Del Sur - S.A.T.
+Asistente 1: Damián Alcaráz
+Asistente 2: Bruno Castillo
+Cuarto árbitro: Axel Fernández
+Sábado 16 de marzo
+Estrella del Sur - S.A.T., a las 15.30 horas
  Árbitro: Gonzalo Correa
- Asistente 1: Alan Colman
- Asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Iván Castelu Coca
-Barrancas F.C - Belgrano (Z.)
+Asistente 1: Alan Colman
+Asistente 2: Nicolás Cavagnaro
+Cuarto árbitro: Iván Castelu Coca
+Domingo 17 de marzo
+Atl. Pilar - Provincial (Lobos), a las 15.30 horas en estadio Municipal de Pilar
+Árbitro: Iván Mastroieni
+Asistente 1: Mario Vargas
+Asistente 2: Brayan Malpartida
+Cuarto árbitro: Valentín Bocaccia
+Barrancas F.C. - Belgrano (Zarate), a las 15.30 horas en Platense (Auxiliar)
  Árbitro: Agustín Flores
- Asistente 1: Federico Lapalma
- Asistente 2: José Rovaglio
- Cuarto árbitro: Eduardo Coyto
-F.C Ezeiza - Everton (L.P.)
+Asistente 1: Federico Lapalma
+Asistente 2: José Rovaglio
+Cuarto árbitro: Eduardo Coyto
+Lunes 18 de marzo
+F.C. Ezeiza - Everton (L.P.), a las 15.30 horas en Tristán Suárez
  Árbitro: Axel Pogge
- Asistente 1: Franco Boetti
- Asistente 2: Alexis Escobar
- Cuarto árbitro: Tomás Aybar
+Asistente 1: Franco Boetti
+Asistente 2: Alexis Escobar
+Cuarto árbitro: Tomás Aybar
+Martes 19 de marzo
+Estrella de Berisso - Dep. Metalúrgico, a las 15.30 horas
+ Árbitro: Martín Morenza
+Asistente 1: Diego Ortíz
+Asistente 2: Julián Fabiani
+Cuarto árbitro: Joaquín Rodríguez
 Fecha 5
 Dep. Metalúrgico - F.C Ezeiza
 Everton (L.P.) - Barrancas F.C
@@ -2707,55 +2719,6 @@ Godoy Cruz A.T. - San Martín (S. Juan), en horario y estadio a confirmar
 Platense - Olimpo (B. Blanca), en horario y estadio a confirmar
 Miércoles 27/03
 Independiente Riv. (Mza.) - Argentino de Quilmes, en horario y estadio a confirmar
-Cruces de 32avos 
-Partido 1: Boca Juniors - Central Norte de Salta
- Partido 3: Racing - San Martín de Burzaco
- Partido 4: Independiente - Deportivo Laferrere
- Partido 5: San Lorenzo - Independiente de Chivilcoy
- Partido 6: Huracán - Villa Mitre de Bahía Blanca
- Partido 9: Rosario Central - Douglas Haig
- Partido 10: Newell's – Midland
- Partido 11: Argentinos Juniors - Gimnasia y Tiro de Salta
- Partido 12: Vélez - Sportivo Las Parejas
- Partido 13: Lanús - El Porvenir
- Partido 14: Banfield - Ciudad de Bolívar
- Partido 15: Unión de Santa Fe - Gimnasia de Mendoza
- Partido 16: Colón - Los Andes
- Partido 17: Talleres – Agropecuario
- Partido 19: Independiente Rivadavia (Mendoza) - Argentino de Quilmes
- Partido 20: Godoy Cruz - San Martín de San Juan
- Partido 21: Arsenal - Estudiantes (RC)
- Partido 22: Defensa y Justicia - Atlético de Rafaela
- Partido 24: Barracas Central - San Miguel
- Partido 25: Atlético Tucumán - Defensores de Belgrano
- Partido 26: Central Córdoba (Santiago del Estero) – Quilmes
- Partido 27: Platense - Olimpo (Bahía Blanca)
- Partido 28: Tigre – Chacarita
- Partido 29: Deportivo Maipú - Juventud Unida (San Luis)
- Partido 30: Talleres (RE) - Instituto de Córdoba
- Partido 31: Sarmiento de Junín – Temperley
- Partido 32: Almirante Brown - San Martín de Tucumán
-Resultados de los partidos disputados:
-Estudiantes LP 
-3
-- Argentino de Monte Maíz 
-0
-Gimnasia LP 
-2
-- Centro Recreativo Español 
-1
-Deportivo Riestra 
-1
-- Comunicaciones 
-0
-Belgrano 
-1
-- Atlético Mitre de Santiago del Estero 
-2
-River Plate 
-3
-- Excursionistas 
-0
 Torneo 
 Regional Amateur
 Torneo Femenino de Primera División 2024
