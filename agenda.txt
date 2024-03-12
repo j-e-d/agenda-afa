@@ -21,81 +21,109 @@ Martes 12-03
  AVAR: Andrés Gariano
 Fecha 11
 Viernes 15 de marzo
-16.30 Deportivo Riestra – Independiente (Zona A)
+ 16.30 Deportivo Riestra – Independiente (Zona A)
  Árbitro: Leandro Rey Hilfer
  Asistente 1: Miguel Savorani
  Asistente 2: Marcelo Bistocco
  Cuarto árbitro: Santiago Araujo
+ VAR: Nicolás Lamolina
+ AVAR: Mariana De Almeida
  21.00 Newell’s – Platense (Zona B)
  Árbitro: Pablo Dóvalo
  Asistente 1: Pablo Acevedo
  Asistente 2: Mariano Viale
  Cuarto árbitro: Carlos Córdoba
+ VAR: Mauro Vigliano
+ AVAR: Javier Uziga
 Sábado 16 de marzo
  17.00 San Lorenzo – Sarmiento (Zona B)
  Árbitro: Yael Falcón Pérez
  Asistente 1: Gerardo Lencina
  Asistente 2: Juan Mamani
  Cuarto árbitro: Edgardo Zamora
+ VAR: Diego Ceballos
+ AVAR: Pablo Echavarría
  19.15 Racing – Defensa y Justicia (Zona B)
  Árbitro: Darío Herrera
  Asistente 1: Diego Bonfá
  Asistente 2: Mariano Ascenzi
  Cuarto árbitro: Diego Ceballos
+ VAR: Lucas Novelli
+ AVAR: José Savorani
  21.30 Atlético Tucumán – Independiente Rivadavia (Zona A)
  Árbitro: Jorge Baliño
  Asistente 1: Iván Núñez
  Asistente 2: Julio Fernández
  Cuarto árbitro: Francisco Acosta
+ VAR: José Carreras
+ AVAR: Gastón Suárez
 21.30 Vélez – Instituto (Zona A)
  Árbitro: Sebastián Zunino
  Asistente 1: Juan Pablo Belatti
  Asistente 2: Lucio Méndez
  Cuarto árbitro: Américo Monsalvo
+ VAR: Nazareno Arasa
+ AVAR: Carlos Córdoba
 Domingo 17 de marzo
- 16.00 Godoy Cruz – Tigre (Zona B)
+ 16.00 Godoy Cruz – Tigre (Zona B), en estadio Mendoza
  Árbitro: Silvio Trucco
  Asistente 1: Eduardo Lucero
  Asistente 2: Diego Martín
  Cuarto árbitro: Lucas Cavallero
-16.00 Barracas Central – Huracán (Zona A)
+ VAR: Adrián Franklin
+ AVAR: Lucas Germanotta
+16.00 Barracas Central – Huracán (Zona A), en Lanús
  Árbitro: Pablo Echavarría
  Asistente 1: Walter Ferreyra
  Asistente 2: Juan Manuel González
  Cuarto árbitro: Ignacio Lupani
+ VAR: Nicolás Ramírez
+ AVAR: Diego Verlotta
 18.30 River – Gimnasia (Zona A)
  Árbitro: Sebastián Martínez
  Asistente 1: Sebastián Raineri
  Asistente 2: Adrián Delbarba
  Cuarto árbitro: Sebastián Bresba
- 21.00 Banfield – Talleres (Zona A)
+ VAR: Leandro Rey Hilfer
+ AVAR: Sebastián Zunino
+21.00 Banfield – Talleres (Zona A)
  Árbitro: Hernán Mastrángelo
  Asistente 1: Maximiliano Del Yesso
  Asistente 2: Hugo Páez
  Cuarto árbitro: Cristian Cernadas
+ VAR: Salomé Di Iorio
+ AVAR: Diego Romero
 21.00 Estudiantes – Boca (Zona B)
  Árbitro: Fernando Echenique
  Asistente 1: Pablo González
  Asistente 2: Pablo Gualtieri
  Cuarto árbitro: José Carreras
+ VAR: Jorge Baliño
+ AVAR: Laura Fortunato
 Lunes 18 de marzo
  21.15 Unión – Central Córdoba (Zona B)
  Árbitro: Nazareno Arasa
  Asistente 1: Cristian Navarro
  Asistente 2: Marcos Horticolou
  Cuarto árbitro: Bruno Bocca
+ VAR: Germán Delfino
+ AVAR: Fabricio Llobet
 Martes 19 de marzo
- 16.30 Argentinos – Rosario Central (Zona A)
+ 21.15 Argentinos – Rosario Central (Zona A)
  Árbitro: Luis Lobo Medina
  Asistente 1: Andrés Barbieri
  Asistente 2: Eric Grunman
  Cuarto árbitro: Gastón Suárez
+ VAR: Fernando Rapallini
+ AVAR: Gastón Monsón
 Miércoles 20 de marzo
  21.15 Belgrano – Lanús (Zona B)
  Árbitro: Andrés Merlos
  Asistente 1: Facundo Rodríguez
  Asistente 2: Juan Del Fueyo
  Cuarto árbitro: Rodrigo Rivero
+ VAR: Fernando Espinoza
+ AVAR: Gisella Trucco
 Fecha 12
  Semana 31/03
 Zona A
@@ -599,22 +627,18 @@ Trofeo de Campeones
 El encuentro se disputará el domingo 22 de diciembre de 2024
 Copa Proyección Sur Finanzas Primer Semestre
 Fecha 4
-Martes 12 de marzo
- 17.00 Banfield – Barracas Central (Zona A) -Predio Alfredo Palacios-
- 17.00 Sarmiento – Lanús (Zona B) -Car-
- 17.00 Estudiantes – Platense (Zona B) -City Bell-
- 19.00 Talleres – Defensa y Justicia (Zona B) -La Boutique-
- 21.00 Atlético Tucumán – Vélez (Zona A) -José Fierro-
+Postergados
+Instituto – Rosario Central (Zona A) -Predio La Agustina-
+ Huracán – Boca (Zona B) -La Quemita-
 Miércoles 13 de marzo
- 17.00 Argentinos – Gimnasia (Zona A) -CEFFA-
+17.00 Argentinos – Gimnasia (Zona A) -CEFFA-
  17.00 Riestra – Belgrano (Zona A) -La Candela-
  17.00 Newell’s – Godoy Cruz (Zona B) -Predio Griffa-
  19.00 Independiente – Unión (Zona B) -Estadio Libertadores de América-
+21.00 Atlético Tucumán - Vélez
 Jueves 14 de marzo
- 15.00 Instituto – Rosario Central (Zona A) -Predio La Agustina-
- 15.00 Independiente Rivadavia – Racing (Zona A) -Monte Caseros-
+ 19.00 Independiente Rivadavia – Racing (Zona A) -Monte Caseros-
  15.00 Tigre – Central Córdoba (Zona B) -Nito San Andrés-
- 15.00 Huracán – Boca (Zona B) -La Quemita-
  21.00 River – San Lorenzo (Zona A) -River Camp-
 Fecha 5
 Martes 19 de marzo
@@ -792,99 +816,108 @@ Suspendido
 Alte. Brown - Estudiantes (Río IV)
 Fecha 7 
 Zona A:
-Arsenal F.C. - Talleres (R.E.)
+Viernes 15 de marzo
+ 15.30 Arsenal F.C. - Talleres (R.E.)
  Árbitro: Emanuel Ejarque
  Asistente 1: Marcelo Errante
  Asistente 2: Mariana Dure
  Cuarto árbitro: Germán Bermúdez
-San Martín (S.J.) - Quilmes A.C.
+21.30 San Martín (S.J.) - Quilmes A.C. (TV)
  Árbitro: Pablo Giménez
  Asistente 1: Maximiliano Castelli
  Asistente 2: Ramón Ortiz
  Cuarto árbitro: César Ceballo
-Tristán Suárez - G. Y Esgrima (J.)
+Sábado 16 de marzo
+16.00 Tristán Suárez - G. Y Esgrima (J.)
  Árbitro: Javier Delbarba
  Asistente 1: Juan Manuel Vázquez
  Asistente 2: Javier Mihura
  Cuarto árbitro: Ignacio Lupani
-All Boys - Dep. Maipú (Mza.)
+17.35 All Boys - Dep. Maipú (Mza.) (TV)
  Árbitro: Franco Acita
  Asistente 1: Lucas Ripoli
  Asistente 2: Guillermo Yacante
  Cuarto árbitro: Nicolás Kresta
-Gmo. Brown (P.M.) - San Miguel
+Domingo 17 de marzo
+16.00 Gmo. Brown (P.M.) - San Miguel
  Árbitro: Álvaro Carranza
  Asistente 1: Rubén Bustos
  Asistente 2: Alejandro Schneller
  Cuarto árbitro: Juan Nebietti
-Racing (Cba.) - Alvarado (M.D.P.)
+16.30 Racing (Cba.) - Alvarado (M.D.P.)
  Árbitro: Nahuel Viñas
  Asistente 1: Gonzalo Ferrari
  Asistente 2: Hernán Salado Paz
  Cuarto árbitro: Enzo Silvestre
-San Martín (Tuc) - Estudiantes
+18.00 San Martín (Tuc) - Estudiantes
  Árbitro: Andrés Gariano
  Asistente 1: Federico Pomi
  Asistente 2: Matías Coria
  Cuarto árbitro: Federico Benítez
-Patronato - Güemes (S.E.)
+19.00 Patronato - Güemes (S.E.)
  Árbitro: Fabrizio Llobet
  Asistente 1: Emanuel Serale
  Asistente 2: Martín Saccone
  Cuarto árbitro: Gastón Monzón Brizuela
-Agropecuario Arg. - Ferro Carril Oeste
+Lunes 18 de marzo
+21.45 Agropecuario Arg. - Ferro Carril Oeste (TV)
  Árbitro: Juan Pafundi
  Asistente 1: Matías Bianchi
  Asistente 2: Mariano Ruas
  Cuarto árbitro: Franco Morón
 Zona B:
-Aldosivi - Estudiantes (R. IV)
+Sábado 16 de marzo
+18.00 Aldosivi - Estudiantes (R. IV), en Estadio José María Minella
  Árbitro: Maximiliano Macheroni
  Asistente 1: Mario Bardina
  Asistente 2: Malvina Schiell Luciano
  Cuarto árbitro: Julio Palma
-Temperley - At. De Rafaela
+19.10 Temperley - At. De Rafaela (TV)
  Árbitro: Felipe Viola
  Asistente 1: Uriel García Leri
  Asistente 2: Cristian Amarilla
  Cuarto árbitro: Damián Rubino
-Brown (A) - San Telmo
+19.40 Brown (A) - San Telmo (TV)
  Árbitro: Jorge Broggi
  Asistente 1: Nicolás Bravo
  Asistente 2: Martín Giampaolo
  Cuarto árbitro: Gabriel Gutiérrez
-Almagro - Chaco For Ever
+Domingo 17 de marzo
+16.00 Almagro - Chaco For Ever
  Árbitro: Lucas Comesaña
  Asistente 1: José Castelli
  Asistente 2: Matías Balmaceda
  Cuarto árbitro: Mauro Biasutto
-Dep. Morón - Dep. Madryn
+16.00 Dep. Morón - Dep. Madryn
  Árbitro: Julio Barraza
  Asistente 1: Mariano Rossetti
  Asistente 2: Ramiro Cabrera
  Cuarto árbitro: Alejandro Porticella
-Mitre (S.E.) - Colón
+17.15 Mitre (S.E.) - Colón (TV)
  Árbitro: Ariel Penel
  Asistente 1: Damián Espinoza
  Asistente 2: Federico Cano
  Cuarto árbitro: Matías Billone
-G. Y Esgrima (Mza.) - Atlanta
- Árbitro: Bruno Amiconi
+Lunes 18 de marzo
+14.45 G. Y Esgrima (Mza.) - Atlanta
+Árbitro: Bruno Amiconi
  Asistente 1: Ernesto Callegari
  Asistente 2: Guido Córdoba
  Cuarto árbitro: José Díaz
-Nva. Chicago - Def. Unidos
+18.45 Nva. Chicago - Def. Unidos (TV)
  Árbitro: Bryan Ferreyra
  Asistente 1: Ariel Scime
  Asistente 2: Arnaldo Melgarejo 
  Cuarto árbitro: Edgardo Zamora
-G. Y Tiro (S.) - Alte. Brown
+Martes 19 de marzo
+16.00 G. Y Tiro (S.) - Alte. Brown (TV)
  Árbitro: Nelson Sosa
  Asistente 1: Manuel Sánchez
  Asistente 2: Nahuel Rasullo
  Cuarto árbitro: Mauricio Martín
 Interzonal:
-Chacarita Jrs. - Def. De Belgrano
+Sábado 16 de marzo
+ 15.30 Chacarita Jrs. - Def. De Belgrano (TV)
  Árbitro: Yamil Possi
  Asistente 1: Iván Aliende
  Asistente 2: Diego Romero
