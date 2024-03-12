@@ -1630,68 +1630,68 @@ Fecha 21
 Primera C
 7ª. fecha:
 Martes 12-03
- L.N. Alem - Ctro. Rec. Español, a las 17.00 horas.
- Árbitro: Nicolás Mastroieni
- Asistente 1: Fabio Ventura
- Asistente 2: Alan Anria
- Cuarto árbitro: Axel Pogge
- Ctral. Ballester - Dep. Español a las 17.00 horas.
- Árbitro: Damián Rubino
- Asistente 1: Ezequiel Rabasa
- Asistente 2: Mariela Martino
- Cuarto árbitro: Gonzalo Correa
- Claypole - Atlas, a las 17.00 horas, en Brown (Adrogué).
- Árbitro: Gonzalo Creimerman
- Asistente 1: Matías Pino
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Guido Mascheroni
- J. Unida - Def. de Cambaceres, a las 17.00 horas en estadio a confirmar.
- Árbitro: Martín Despósito
- Asistente 1: Leandro Carril
- Asistente 2: Ariel Ibañez
- Cuarto árbitro: Julián Beligoy
- Lugano - Argentino (Ros.), a las 17.00 horas.
- Árbitro: Valentín Bocaccia
- Asistente 1: Leonardo Aprea
- Asistente 2: Federico Bozo
- Cuarto árbitro: Maximiliano López Monti
- Puerto Nuevo - Real Pilar, a las 17.00 horas.
- Árbitro: Joaquín Rodríguez
- Asistente 1: Leandro Franchi
- Asistente 2: Xavier Argüello
- Cuarto árbitro: Nicolás Jara
-Gral. Lamadrid - Dep. Berazategui, a las 17.00 horas (TV).
- Árbitro: Ramiro Maglio
- Asistente 1: Leandro Britez
- Asistente 2: Maxi Montenegro
- Cuarto árbitro: Rodrigo Villalba
-Mercedes - J.J. de Urquiza, a las 19.00 horas.
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Carlos Otegui
- Asistente 2: Alan Colman 
- Cuarto árbitro: Iván Mastroieni
-Ituzaingó - Sp. Barracas, a las 19.00 horas.
- Árbitro: Jonathan Barrios
- Asistente 1: Gustavo Benítez Soilan
- Asistente 2: Hernán Antola
- Cuarto árbitro: David Cornejo
-Ctral Córdoba (Ros.) - Dep. Paraguayo, a las 20.00 horas.
+ Ctral Córdoba (Ros.) - Dep. Paraguayo, a las 20.00 horas.
  Árbitro: Néstor Barrios
  Asistente 1: Rodrigo Mansilla
  Asistente 2: Damián Alcaraz
  Cuarto árbitro: Lucas Brumer
-Miércoles 13-03
- Muñiz - Yupanqui, a las 17.00 horas, en Atlas.
- Árbitro: Jesús Girett
- Asistente 1: Juan Ricciardi
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Ignacio Cuicchi
 Miércoles 20-03
  El Porvenir - Luján, a las 15.30 horas.
  Árbitro: Alejandro Porticella
  Asistente 1: Ariel López
  Asistente 2: Matías Panozzo
  Cuarto árbitro: Martín Morenza
+Partidos suspendidos sin fecha
+L.N. Alem - Ctro. Rec. Español
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Fabio Ventura
+ Asistente 2: Alan Anria
+ Cuarto árbitro: Axel Pogge
+ Ctral. Ballester - Dep. Español 
+ Árbitro: Damián Rubino
+ Asistente 1: Ezequiel Rabasa
+ Asistente 2: Mariela Martino
+ Cuarto árbitro: Gonzalo Correa
+ Claypole - Atlas
+ Árbitro: Gonzalo Creimerman
+ Asistente 1: Matías Pino
+ Asistente 2: Lucas Monsalvo
+ Cuarto árbitro: Guido Mascheroni
+ J. Unida - Def. de Cambaceres
+ Árbitro: Martín Despósito
+ Asistente 1: Leandro Carril
+ Asistente 2: Ariel Ibañez
+ Cuarto árbitro: Julián Beligoy
+ Lugano - Argentino (Ros.)
+ Árbitro: Valentín Bocaccia
+ Asistente 1: Leonardo Aprea
+ Asistente 2: Federico Bozo
+ Cuarto árbitro: Maximiliano López Monti
+ Puerto Nuevo - Real Pilar
+ Árbitro: Joaquín Rodríguez
+ Asistente 1: Leandro Franchi
+ Asistente 2: Xavier Argüello
+ Cuarto árbitro: Nicolás Jara
+ Gral. Lamadrid - Dep. Berazategui
+ Árbitro: Ramiro Maglio
+ Asistente 1: Leandro Britez
+ Asistente 2: Maxi Montenegro
+ Cuarto árbitro: Rodrigo Villalba
+Mercedes - J.J. de Urquiza
+ Árbitro: Adrián Núñez Rodríguez
+ Asistente 1: Carlos Otegui
+ Asistente 2: Alan Colman 
+ Cuarto árbitro: Iván Mastroieni
+Ituzaingó - Sp. Barracas
+ Árbitro: Jonathan Barrios
+ Asistente 1: Gustavo Benítez Soilan
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: David Cornejo
+Muñiz - Yupanqui, a las 17.00 horas, en Atlas.
+ Árbitro: Jesús Girett
+ Asistente 1: Juan Ricciardi
+ Asistente 2: Lucas Vázquez
+ Cuarto árbitro: Ignacio Cuicchi
 Fecha 8 
  El Porvenir Libre 
  Luján - Ituzaingó 
