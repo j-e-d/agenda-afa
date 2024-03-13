@@ -617,19 +617,21 @@ Trofeo de Campeones
 El encuentro se disputará el domingo 22 de diciembre de 2024
 Copa Proyección Sur Finanzas Primer Semestre
 Fecha 4
-Postergados
-Instituto – Rosario Central (Zona A) -Predio La Agustina-
- Huracán – Boca (Zona B) -La Quemita-
 Miércoles 13 de marzo
-17.00 Argentinos – Gimnasia (Zona A) -CEFFA-
- 17.00 Riestra – Belgrano (Zona A) -La Candela-
- 17.00 Newell’s – Godoy Cruz (Zona B) -Predio Griffa-
- 19.00 Independiente – Unión (Zona B) -Estadio Libertadores de América-
 21.00 Atlético Tucumán - Vélez
 Jueves 14 de marzo
- 19.00 Independiente Rivadavia – Racing (Zona A) -Monte Caseros-
- 15.00 Tigre – Central Córdoba (Zona B) -Nito San Andrés-
- 21.00 River – San Lorenzo (Zona A) -River Camp-
+15.00 Banfield - Barracas 
+ 15.00 Riestra – Belgrano
+15.00 Estudiantes - Platense 
+15.00 Independiente - Unión 
+15.00 Tigre - Central Córdoba
+19.00 Independiente Rivadavia – Racing 
+ 21.00 River – San Lorenzo 
+Viernes 15 de marzo
+17.00 Argentinos – Gimnasia (Zona A)
+Martes 30 de abril
+15.00 Instituto – Rosario Central (Zona A)
+ 15.00 Huracán – Boca (Zona B) 
 Fecha 5
 Martes 19 de marzo
  15.00 Vélez – Argentinos (Zona A) -Villa Olimpica-
@@ -2958,7 +2960,7 @@ Amistosos Selección Mayor
  21.00 Argentina vs El Salvador
  Estadio: Lincoln Financial Field
 26 de marzo
- 00.00 Argentina vs Costa Rica
+ 23.50 Argentina vs Costa Rica
  Estadio: Coliseo de Los Ángeles
 Copa del Mundo 2026
 El partido inaugural de la Copa del Mundo 2026 que organizan en conjunto los Estados Unidos, México y Canadá, se jugará en el Estadio Azteca el 11 de junio.
