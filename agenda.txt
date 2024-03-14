@@ -796,11 +796,6 @@ Alte. Brown - Estudiantes (Río IV)
 Fecha 7 
 Zona A:
 Viernes 15 de marzo
- 15.00 Arsenal F.C. - Talleres (R.E.)
- Árbitro: Emanuel Ejarque
- Asistente 1: Marcelo Errante
- Asistente 2: Mariana Dure
- Cuarto árbitro: Germán Bermúdez
 21.30 San Martín (S.J.) - Quilmes A.C. (TV)
  Árbitro: Pablo Giménez
  Asistente 1: Maximiliano Castelli
@@ -818,6 +813,11 @@ Sábado 16 de marzo
  Asistente 2: Guillermo Yacante
  Cuarto árbitro: Nicolás Kresta
 Domingo 17 de marzo
+15.00 Arsenal F.C. - Talleres (R.E.)
+ Árbitro: Emanuel Ejarque
+ Asistente 1: Marcelo Errante
+ Asistente 2: Mariana Dure
+ Cuarto árbitro: Germán Bermúdez
 16.00 Gmo. Brown (P.M.) - San Miguel
  Árbitro: Álvaro Carranza
  Asistente 1: Rubén Bustos
