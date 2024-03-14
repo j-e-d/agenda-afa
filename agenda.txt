@@ -607,18 +607,18 @@ El encuentro se disputará el domingo 22 de diciembre de 2024
 Copa Proyección Sur Finanzas Primer Semestre
 Fecha 4
 Jueves 14 de marzo
-15.00 Banfield - Barracas 
- 15.00 Riestra – Belgrano
-15.00 Estudiantes - Platense 
-15.00 Independiente - Unión 
-15.00 Tigre - Central Córdoba
 19.00 Independiente Rivadavia – Racing 
- 21.00 River – San Lorenzo 
 Viernes 15 de marzo
-17.00 Argentinos – Gimnasia (Zona A)
+ 13.00 Riestra – Belgrano
+ 13.00 Independiente - Unión 
+14.00 Argentinos – Gimnasia 
+14.00 Banfield - Barracas 
+14.00 Estudiantes - Platense 
+14.00 Tigre - Central Córdoba
+19.00 River – San Lorenzo 
 Martes 30 de abril
-15.00 Instituto – Rosario Central (Zona A)
- 15.00 Huracán – Boca (Zona B) 
+15.00 Instituto – Rosario Central 
+ 15.00 Huracán – Boca 
 Fecha 5
 Martes 19 de marzo
  15.00 Vélez – Argentinos (Zona A) -Villa Olimpica-
@@ -2686,12 +2686,16 @@ Newell’s Old Boys - F.C. Midland, a las 15.00 horas en Colón
 Independiente - Dep. Laferrere, a las 17.15 horas en Lanús 
 (TV)
 Sábado 23/03
-Boca Juniors - Ctral. Norte (Salta), en horario y estadio a confirmar
+Boca Juniors - Ctral. Norte (Salta), a las 20.30 horas en Estadio Madre de Ciudades (SdE) 
+(TV)
 Lunes 25/03
-Godoy Cruz A.T. - San Martín (S. Juan), en horario y estadio a confirmar
-Platense - Olimpo (B. Blanca), en horario y estadio a confirmar
+Godoy Cruz A.T. - San Martín (S. Juan), en horario y estadio a confirmar 
+(TV)
+Platense - Olimpo (B. Blanca), en horario y estadio a confirmar 
+(TV)
 Miércoles 27/03
-Independiente Riv. (Mza.) - Argentino de Quilmes, en horario y estadio a confirmar
+Independiente Riv. (Mza.) - Argentino de Quilmes, en horario y estadio a confirmar 
+(TV)
 Torneo 
 Regional Amateur
 Torneo Femenino de Primera División 2024
