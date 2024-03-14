@@ -2535,12 +2535,6 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 4 
-Jueves 14 de marzo
-Náutico Hacoaj - Juv. de Bernal, a las 15.00 horas (TV)
- Árbitro: David Cornejo
-Asistente 1: Nahuel Valdeón
-Asistente 2: Santiago Escudero
-Cuarto árbitro: Antonella Álvarez
 Viernes 15 de marzo
 Camioneros - Def. de Glew, a las 16.00 horas
  Árbitro: Mateo Bocaccia
@@ -2887,7 +2881,6 @@ Grupo C
 Fixture
  Fase final
 Jueves 14 de marzo
- 15.00 Boca - Aucas
  18.30 Rosario Central - Flamengo
 Domingo 17 de marzo
  Partido por el tercer puesto
@@ -3195,12 +3188,11 @@ Por primera vez participarán 24 equipos, ocho más que en la edición 2022.
 La adjudicación de plazas aprobada es la siguiente: AFC (4); CAF (4); Concacaf (4); CONMEBOL (4); OFC (2); UEFA (5); país anfitrión (Colombia) (1).
 CONMEBOL Sub 20 Femenina
 El Torneo se disputará entre el 11 de abril y el 5 de mayo en Ecuador
-La Dirección de Competiciones y Operaciones de la Confederación Sudamericana de Fútbol llevó a cabo el sorteo para la Fase de Grupos de la CONMEBOL Sub 20 Femenina 2024 este lunes 11 de marzo a las 12:00 (hora local), en la sede de la CONMEBOL, en Luque – Paraguay.
 Así quedaron conformados los grupos:
 - Grupo A-
  Ecuador
  Uruguay
- Argentina
+Argentina
  Paraguay
  Perú
 - Grupo B -
@@ -3213,6 +3205,15 @@ Así quedaron conformados los grupos:
 La CONMEBOL Sub20 Femenina 2024 se disputará en 2 fases: fase preliminar (fase de grupos) y fase final (Las seis selecciones clasificadas de la fase preliminar participarán de esta fase, con el mismo sistema de juegos todos contra todos). Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
 Clasificarán para la Fase Final, los equipos que ocupen las tres primeras posiciones en cada grupo.
 Las Asociaciones Miembro Participantes de la CONMEBOL Sub20 Femenina 2024 son las representantes de los siguientes países: Argentina; Bolivia; Brasil; Chile; Colombia; Ecuador; Paraguay; Perú; Uruguay y Venezuela.
+Fixture
+Jueves 11 de abril
+ 18.00 Perú - Argentina
+Lunes 15 de abril
+20.30 Uruguay - Argentina
+Miércoles 17 de abril
+20.30 Argentina - Ecuador
+Viernes 19 de abril
+18.00 Argentina - Paraguay
 Copa Mundial Femenina Sub-17 de la FIFA 2024
 República Dominicana será el anfitrión de la Copa Mundial Femenina Sub-17 de la FIFA 2024. Esta edición tendrá lugar del 16 de octubre al 3 de noviembre.
 CONMEBOL Sub 17 Femenina
