@@ -700,12 +700,6 @@ Jueves 21 de marzo
  Asistente 1: Ernesto Callegari
  Asistente 2: Daiana Milone
  Cuarto árbitro: Gastón Suárez
-Viernes 22 de marzo
- Güemes (S.E.) - Racing (Cba.), a las 20.30
- Árbitro: Diego Ceballos
- Asistente 1: Mariano Cichetto
- Asistente 2: José Ponce
- Cuarto árbitro: Federico Guaymas
 Sábado 23 de marzo
  San Miguel - Agropecuario, a las 15.30
  Árbitro: Juan Pablo Loustau
@@ -743,6 +737,11 @@ Ferro Carril Oeste - All Boys, a las 19
  Asistente 1: Juan Manuel Vázquez
  Asistente 2: Damián Orellana
  Cuarto árbitro: Ariel Cruz 
+Güemes (S.E.) - Racing (Cba.), a las 20.30
+ Árbitro: Diego Ceballos
+ Asistente 1: Mariano Cichetto
+ Asistente 2: José Ponce
+ Cuarto árbitro: Federico Guaymas
 Zona B
 Sábado 23 de marzo 
  Def. Unidos - Dep. Morón, a las 15.30
@@ -2556,7 +2555,15 @@ Boca Juniors - Ctral. Norte (Salta), a las 20.30 horas en Estadio Madre de Ciuda
  Cuarto árbitro: Francisco Acosta
 Lunes/03
 Godoy Cruz A.T. - San Martín (S. Juan), a las 17.15 horas en Juan G. Funes (San Luis)
+ Árbitro: Darío Herrera
+ Asistente 1: José Savorani
+ Asistente 2: Iván Núñez
+ Cuarto árbitro: Mauricio Martín
 Platense - Olimpo (B. Blanca), a las 19.30 horas en Estudiantes
+ Árbitro: Leandro Rey Hilfer
+ Asistente 1: Ezequiel Brailovsky
+ Asistente 2: Mariano Ruas
+ Cuarto árbitro: Julián Beligoy
 Miércoles 27/03
 Independiente Riv. (Mza.) - Arg. de Quilmes, a las 17.45 horas en estadio Juan G. Funes (San Luis)
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2024, si alguno de los encuentros señalados precedentementeresultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
@@ -2729,12 +2736,16 @@ Torneo Femenino de Primera B
 Torneo Femenino de Primera C
 Copa Federal de Fútbol Femenino
 CONMEBOL Libertadores 2024 
-La CONMEBOL Libertadores se inició en la semana del 7 de febrero. 
+La CONMEBOL Libertadores cuenta con 32 participantes que están divididos en ocho grupos de cuatro equipos. Los clubes que finalicen la Fase de Grupos en primera y segunda posición se clasificarán para los Octavos de Final.
+El tercero de cada grupo pasará a la CONMEBOL Sudamericana para disputar el Play Off contra los segundos de cada grupo de la competencia, serie de la cual el ganador se clasificará a Octavos de Final.
+La CONMEBOL Libertadores 2024 entregará un premio de USD 23.000.000 al campeón, el más alto comparándolo con otras competencias a nivel global. Además, el premio por victoria en Fase de Grupos será de USD 330.000, un aumento del 10% con respecto al año anterior.
 La final se disputará en Buenos Aires.
 Fase de grupos
-Ya están clasificados River Plate, San Lorenzo, Talleres de Córdoba, Rosario Central y Estudiantes.
+Están clasificados River Plate, San Lorenzo, Talleres de Córdoba, Rosario Central y Estudiantes.
 CONMEBOL Sudamericana 2024
-Los equipos argentinos clasificados para la Fase de Grupos son Boca Juniors, Racing Club, Defensa y Justicia, Lanús, Belgrano de Córdoba y Argentinos Juniors.
+La CONMEBOL Sudamericana cuenta con 32 equipos participantes, que se dividen en 8 grupos de 4 clubes, de los cuales, los ganadores de cada grupo avanzaran directamente a la instancia de Octavos de Final. Los equipos argentinos clasificados para la Fase de Grupos son Boca Juniors, Racing Club, Defensa y Justicia, Lanús, Belgrano de Córdoba y Argentinos Juniors. 
+Los segundos de cada grupo, disputarán un Play Off en el que se enfrentarán al tercer clasificado de los grupos de CONMEBOL Libertadores, para definir quien estará en Octavos de la CONMEBOL Sudamericana.
+Los enfrentamientos se darán a principios de abril y los premios han aumentado para esta edición. En esta fase todos los equipos se embolsarán unos USD 900.000 por sus compromisos en condición de local. Y un extra de USD 110.000 para los ganadores de los cruces.
 Copa Intercontinental Sub 20
 Se disputará el 31 de agosto de 2024 en sede a confirmar.
 CONMEBOL Libertadores Femenina 2024
