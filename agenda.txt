@@ -506,13 +506,7 @@ Martes 30 de abril
  15.00 Huracán – Boca 
 Fecha 5
 Jueves 21 de marzo
- 15.00 San Lorenzo – Independiente Rivadavia (Zona A) -Auxiliar-
-15.00 Rosario Central – Deportivo Riestra 
-15.00 Lanús – Talleres (Zona A) -Auxiliar-
- 15.00 Racing – Atlético Tucumán (Zona A) -Tita Mattiussi-
-15.00 Unión – Huracán (Zona B) -Estadio 15 de abril-
- 15.00 Platense – Tigre (Zona B) -Estadio Ciudad de Vicente López-
- 21.00 Boca – Sarmiento (Zona B) -Boca Predio-
+21.00 Boca – Sarmiento (Zona B) -Boca Predio-
 Viernes 22 de marzo
 15.00 Barracas – River (Zona A) -AEFIP-
  15.00 Vélez - Argentinos Jrs.
@@ -674,12 +668,6 @@ Suspendido
 Alte. Brown - Estudiantes (Río IV)
 Fecha 8 
 Zona A
-Jueves 21 de marzo
- Talleres (R.E.) - San Martín (S.J.), a las 15.30 (TV)
- Árbitro: Jorge Broggi
- Asistente 1: Ernesto Callegari
- Asistente 2: Daiana Milone
- Cuarto árbitro: Gastón Suárez
 Sábado 23 de marzo
  San Miguel - Agropecuario, a las 15.30
  Árbitro: Juan Pablo Loustau
@@ -2540,14 +2528,18 @@ Martes 26 de marzo
 Fecha 4
 Lunes 25 de marzo
  15.00 Banfield - River, en Predio (TV)
-Rosario Central - Huracán
- Belgrano - Gimnasia
- San Lorenzo - Independiente
- Ferro - UAI - Urquiza
- Estudiantes - Excursionistas
- Boca - Platense
- Racing Club - San Luis F.C.
- S.A.T. - Newell's
+Jueves 28 de marzo
+ 20.00 Belgrano - Gimnasia, en Estadio Gigante de Alberdi
+Viernes 29 de marzo
+ 11.00 San Lorenzo - Independiente, en Ciudad Deportiva (TV)
+Sábado 30 de marzo
+ 11.00 Ferro - UAI Urquiza, en sintético de Caballito
+ 11.00 S.A.T. - Newell's, en Estadio 12 de agosto
+ 11.00 Boca - Platense, en Casa Amarilla
+ 15.00 Rosario Central - Huracán, en Estadio Gigante de Arroyito
+Domingo 31 de marzo
+ 15.30 Racing - San Luis, en estadio a confirmar
+Estudiantes - Excursionistas
 Fecha 5
  Huracán - S.A.T.
  Newell's - Racing Club
