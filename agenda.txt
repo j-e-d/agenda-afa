@@ -729,7 +729,7 @@ Sábado 23 de marzo
  Asistente 1: Damián Olivetto
  Asistente 2: Cristian Amarilla
  Cuarto árbitro: Lucas Brumer
-San Telmo - Almagro, a las 15.30
+San Telmo - Almagro, a las 16.00
  Árbitro: Julián Jérez
  Asistente 1: Marcelo Errante
  Asistente 2: Nahuel Santanocito
@@ -1718,34 +1718,6 @@ Mercedes - J.J. de Urquiza, a las 19.00hs
  Asistente 1: Carlos Otegui
  Asistente 2: Alan Colman 
  Cuarto árbitro: Iván Mastroieni
-Fecha 8 
-El Porvenir - Libre 
-Lunes 18 de marzo
-Sp. Barracas - Gral. Lamadrid, a las 15.30 horas en Dep. Morón
-Árbitro: Jesús Girett
-Asistente 1: Federico Josa
-Asistente 2: Heber Ibáñez Meza
-Cuarto árbitro: Néstor Barrios
-Argentino (Ros.) - J. Unida, a las 15.30 horas
- Árbitro: Nicolás Mastroieni reemplaza a Gabriel Flores
- Asistente 1: Juan Manuel Acevedo
- Asistente 2: Ezequiel Rabasa
- Cuarto árbitro: Eduardo Coyto
-Def. de Cambaceres - Claypole, a las 15.30 horas
-Árbitro: Adrián Núñez Rodríguez
-Asistente 1: Enrique Lanz
-Asistente 2: Jonathan Florentín
-Cuarto árbitro: Iván Castelu Coca
-Dep. Español - L.N. Alem, a las 15.30 horas
-Árbitro: Rodrigo Villalba
-Asistente 1: Maximiliano Montenegro
-Asistente 2: Federico Machuca
-Cuarto árbitro: Matías Ansede
-Re- Español - Victoriano Arenas, a las 15.30 horas en Atlas
- Árbitro: Gonzalo Creimermann
-Asistente 1: Ramiro Ortíz Biondi
-Asistente 2: Facundo Mendiolar
-Cuarto árbitro: Axel Fernández
 Fecha 9 
 Libre Ctro. Re- Español
 Miércoles 27 de marzo
@@ -1759,7 +1731,7 @@ Central Ballester - Defensores de Cambaceres, a las 15.30hs
 Asistente 1: Juan Ricciardi
 Asistente 2: Matías Panozo
 Cuarto árbitro: Matías Ansede
-Claypole - Argentino (Rosario), en estadio a confirmar, a las 15.30hs
+Claypole - Argentino (Rosario), en Brown de Adrogué a las 15.30hs
 Árbitro: Rodrigo Villalba
 Asistente 1: Gustavo Benítez Soilan
 Asistente 2: Federico Machuca
@@ -1779,11 +1751,6 @@ Puerto Nuevo - J.J. de Urquiza, a las 15.30hs
 Asistente 1: Lucas Isla
 Asistente 2: Facundo Mendiolar
 Cuarto árbitro: A. Núñez Rodríguez
-Central Córdoba - Yupanqui, a las 15.30hs
-Árbitro: Alejandro Porticella
-Asistente 1: Enrique Lanz
-Asistente 2: Heber Ibáñez Meza
-Cuarto árbitro: Gonzalo Creimerman
 General Lamadrid - Luján, a las 15.30hs
 Árbitro: Nicolás Jara
 Asistente 1: Jonathan Ghiso
@@ -1799,6 +1766,11 @@ Mercedes - Berazategui, a las 19.00hs
 Asistente 1: Juan Etchepare
 Asistente 2: Mario Vargas
 Cuarto árbitro: Nicolás Mastroieni
+Central Córdoba - Yupanqui, a las 19.00 
+Árbitro: Alejandro Porticella
+Asistente 1: Enrique Lanz
+Asistente 2: Heber Ibáñez Meza
+Cuarto árbitro: Gonzalo Creimerman
 Ituzaingó - El Porvenir, a las 19.00hs
 Árbitro: Valentín Bocaccia
 Asistente 1: Federico Josa
@@ -2389,7 +2361,7 @@ Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 5
 Viernes 22 de marzo
-S.A.T. - Dep. Camioneros, a las 15.30hs
+S.A.T. - Dep. Camioneros, a las 16.15 hs (TV)
 Árbitro: Axel Pogge
 Asistente 1: Diego Fernández
 Asistente 2: Diego Ortiz
@@ -2544,20 +2516,20 @@ Regional Amateur
 Torneo Femenino de Primera División 2024
 ​​​​
 Fecha 3
-Jueves 21 de marzo
- 15.00 Independiente - Banfield, en Predio de Villa Domínico
+Postergados:
+ Independiente - Banfield, en Predio de Villa Domínico
  Árbitra: Luciana Sánchez
  Asistente 1: Daiana Milone
  Asistente 2: Ludmila Capelli
  Cuarta árbitra: Ariadna Palacios
-16.00 River - Ferro, en River Camp
+River - Ferro, en River Camp
  Árbitra: María Laura Fortunato
  Asistente 1: Analía Fernández
  Asistente 2: Selene Coria Ávalos
  Cuarta árbitra: Camila Gette
 Viernes 22 de marzo
- 15.00 Huracán - Newell's, en La Quemita
- 15.00 Excursionistas - Boca, en Estadio
+ 14.00 Excursionistas - Boca, en Estadio
+15.00 Huracán - Newell's, en La Quemita
 Sábado 23 de marzo
  15.00 Rosario Central - Belgrano, en estadio a confirmar
  15.30 Gimnasia - San Lorenzo, en Estadio Juan Carmelo Zerillo (TV)
@@ -2565,11 +2537,12 @@ Sábado 23 de marzo
 Martes 26 de marzo
  11.00 Platense - Racing, en auxiliar
  15.00 UAI Urquiza - Estudiantes, en Estadio Monumental de Villa Lynch
-Fecha 4 
- Rosario Central - Huracán
+Fecha 4
+Lunes 25 de marzo
+ 15.00 Banfield - River, en Predio (TV)
+Rosario Central - Huracán
  Belgrano - Gimnasia
  San Lorenzo - Independiente
- Banfield - River Plate
  Ferro - UAI - Urquiza
  Estudiantes - Excursionistas
  Boca - Platense
