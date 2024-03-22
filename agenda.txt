@@ -499,12 +499,6 @@ Fecha 4
 Martes 30 de abril
 15.00 Instituto – Rosario Central 
  15.00 Huracán – Boca 
-Fecha 5
-Jueves 21 de marzo
-21.00 Boca – Sarmiento (Zona B) -Boca Predio-
-Viernes 22 de marzo
-15.00 Barracas – River (Zona A) -AEFIP-
- 15.00 Vélez - Argentinos Jrs.
 Fecha 6
 Martes 26 de marzo
  15.00 Argentinos – Racing (Zona A) -CEFFA-
@@ -2448,18 +2442,7 @@ Everton (L.P.) - Def. De Glew
 Belgrano (Z.) - S.A.T.
 Copa Argentina
 FASE FINAL–32vos.
-Jueves 21/03
-Racing Club - San Martín (B.), a las 20.00 horas en Gimnasia LP (TV) 
- Árbitro: Fernando Rapallini
- Asistente 1: Walter Ferreyra
- Asistente 2: Lucas Ripoli
- Cuarto árbitro: Juan Cruz Robledo
 Viernes 22/03
-Newell’s Old Boys - F.C. Midland, a las 15.00 horas en Colón (TV) 
- Árbitro: Luis Lobo Medina
- Asistente 1: José Castelli
- Asistente 2: Eduardo Lucero
- Cuarto árbitro: Enzo Silvestre
 Independiente - Dep. Laferrere, a las 17.15 horas en Lanús (TV) 
  Árbitro: Hernán Mastrángelo
  Asistente 1: Sebastián Raineri
@@ -2619,9 +2602,6 @@ River - Ferro, en River Camp
  Asistente 1: Analía Fernández
  Asistente 2: Selene Coria Ávalos
  Cuarta árbitra: Camila Gette
-Viernes 22 de marzo
- 14.00 Excursionistas - Boca, en Estadio
-15.00 Huracán - Newell's, en La Quemita
 Sábado 23 de marzo
  15.00 Rosario Central - Belgrano, en estadio a confirmar
  15.30 Gimnasia - San Lorenzo, en Estadio Juan Carmelo Zerillo (TV)
