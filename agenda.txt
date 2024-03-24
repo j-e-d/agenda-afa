@@ -2883,7 +2883,7 @@ Grupo A
 Argentina
 Perú
  Chile
- Canáda
+ Canadá 
 Grupo B
 México
  Ecuador
