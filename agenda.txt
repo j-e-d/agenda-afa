@@ -658,11 +658,6 @@ Alte. Brown - Estudiantes (Río IV)
 Fecha 8 
 Zona A
 Lunes 25 de marzo
- Chacarita Jrs. - San Martín (Tuc), a las 15 (TV)
- Árbitro: Sebastián Martínez
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Rubén Bustos
- Cuarto árbitro: Héctor Paletta 
 Ferro Carril Oeste - All Boys, a las 19
  Árbitro: Daniel Zamora
  Asistente 1: Juan Manuel Vázquez
@@ -675,11 +670,6 @@ Güemes (S.E.) - Racing (Cba.), a las 20.30
  Cuarto árbitro: Federico Guaymas
 Zona B
 Lunes 25 de marzo
- Alte. Brown - G. Y Esgrima (Mza.), a las 16
- Árbitro: Nahuel Viñas
- Asistente 1: Matías Bianchi
- Asistente 2: Mario Bardina
- Cuarto árbitro: Adrián Núñez Rodríguez
  Atlanta - Nva. Chicago, a las 20.50 (TV)
  Árbitro: Felipe Viola
  Asistente 1: Erik Grunman
@@ -705,28 +695,36 @@ Colón - G. Y Tiro (S.), a las 21.45
  Asistente 1: Marcos Horticolou
  Asistente 2: Daniel Zamora
  Cuarto árbitro: Bruno Amiconi 
-Fecha 9 
-Zona A
-Arsenal F.C. - Chacarita Jrs.
-San Martín (S.J.) - Estudiantes
-Gmo. Brown (P.M.) - Talleres (R.E.)
-Agropecuario Arg. - Quilmes A.C.
-All Boys - San Miguel
-T. Suárez - Ferro Carril Oeste
-Patronato (P.) - Dep. Maipú (Mza.)
-Racing (Cba.) - G. Y Esgrima (J.)
-Alvarado (M.D.P.) - Güemes (S.E.)
-Zona B 
-Def. De Belgrano - San Telmo
-Almagro - At. De Rafaela
-Brown (Ad.) - Dep. Madryn
-Temperley - Def. Unidos
-Dep. Morón - Atlanta
-Nva. Chicago - Alte. Brown
-G. Y Esgrima (Mza.) - Colón
-G. Y Tiro (S.) - Estudiantes (R. IV)
-Mitre (S.E.) - Aldosivi (M.D.P.)
-Interzonal San Martín (Tuc) - Chaco For Ever
+Fecha 9
+Zona “A”
+Viernes 29 de marzo
+G. Brown (P.M.) - Talleres (R.E.), a las 15.00 horas
+Agropecuario Arg.- Quilmes A.C, a las 19.05 horas (TV)
+Sábado 30 de marzo
+Arsenal F.C - Chacarita Juniors, a las 13.05 horas (TV)
+Tristán Suarez - Ferro Carril Oeste, a las 16.00 horas
+Domingo 31 de marzo
+Alvarado (M.D.P.) - Güemes (S.E.), a las 16.00 horas en estadio José M. Minella
+Racing (Cba.) - G. y Esgrima (J.), a las 16.30 horas
+Patronato (Paraná) - Dep. Maipú (Mza.), a las 17.00 horas
+All Boys - San Miguel, a las 17.45 horas (TV)
+San Martin (S.J.) - Estudiantes, a las 19.00 horas en estadio Bicentenario
+Zona “B”
+Sábado 30 de marzo
+G. y Esgrima (Mza.) - Colón, a las 15.00 horas (TV)
+Almagro - Atl. de Rafaela, a las 16.00 horas
+Temperley - Def. Unidos, a las 16.00 horas
+Domingo 31 de marzo
+Nva. Chicago - Alte. Brown, a las 15.30 horas (TV)
+G. y Tiro (Salta) - Estudiantes (Rio IV), a las 16.00 horas
+Brown (Adrogué) - Dep. Madryn, a las 19.00 horas
+Dep. Morón - Atlanta, a las 20.00 horas (TV)
+Lunes 1 de abril
+Def. de Belgrano - San Telmo, a las 15.30 horas (TV)
+Mitre (S.E.) - Aldosivi (M.D.P.), a las 16.00 horas
+Interzonal
+Lunes 1 de abril
+San Martin (T.) - Chaco For Ever, a las 21.10 horas (TV)
 Fecha 10 
 Zona A
 G. Y Esgrima (J.) - Alvarado (M.D.P.)
@@ -1367,24 +1365,15 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Partido pendiente
- 1ª. fecha:
- Postergado: Cañuelas F.C. - Midland, a las 17.00 horas
-Árbitro: Gabriel Gutierrez
-Asist 1: Martin Vaccaro
-Asist 2: Sebastián Pumetti
-4° Árbitro: Ariel Cruz
+ Fecha 1:
+Jueves 4 de abril
+Cañuelas F.C. - F.C. Midland, a las 15.30 horas
 Fecha 7
 Partidos Postergados 
-Dep. Laferrere - Sp. Italiano
- Árbitro: Gonzalo Pereira
- Asistente 1: Maximiliano Benzoni
- Asistente 2: Yamil Galván
- Cuarto árbitro: Eduardo Gutiérrez
-Fénix - Dep. Armenio
- Árbitro: Mariano Negrete
- Asistente 1: Jonathan Savoiardo
- Asistente 2: Federico García
- Cuarto árbitro: Américo Monsalvo
+Miércoles 3 de abril
+Fénix - Dep. Armenio, a las 15.30 horas en Arg. de Merlo
+Jueves 4 de abril
+Dep. Laferrere - Sp. Italiano, a las 15.30 horas
 Fecha 9 
 Postergado: Arg. De Quilmes - Comunicaciones
 Lunes 25 de marzo 
@@ -1415,18 +1404,21 @@ Dep. Laferrere - Flandria, a las 15.30 (TV)
 Asistente 1: Martín Vaccaro
 Asistente 2: Federico Zuvilivia
 Cuarto árbitro: Américo Monsalvo
-Fecha 10 
- Acassuso - Villa Dálmine
- San Martín (B.) - Excursionistas
- Uai - Urquiza - Sacachispas F.C.
- Colegiales - Dep. Merlo
- Sp. Dock Sud - Dep. Laferrere
- Flandria - Cañuelas F.C.
- Villa San Carlos - Los Andes
- Sp. Italiano - F.C. Midland
- Arg. De Merlo - Fénix
- Liniers - Arg. De Quilmes
- Comunicaciones - Dep. Armenio
+Fecha 10
+Sábado 30 de marzo
+Acassuso - Villa Dálmine, a las 15.30 horas en Dep. Armenio
+UAI – Urquiza - Sacachispas F.C., a las 15.30 horas 
+Colegiales - Dep. Merlo, a las 15.30 horas
+Villa San Carlos - Los Andes, a las 15.30 horas
+Sp. Italiano - F.C. Midland, a las 15.30 horas
+Arg. de Merlo - Fénix, a las 15.30 horas
+Comunicaciones - Dep. Armenio, a las 15.30 horas
+San Martin (B.) - Excursionistas, a las 16.40 horas (TV)
+Lunes 1 de abril
+Sp. Dock Sud - Dep. Laferrere, a las 15.30 horas
+Flandria - Cañuelas F.C., a las 15.30 horas
+Martes 2 de abril 
+Liniers - Arg. de Quilmes, a las 15.30 horas
 Fecha 11 
  Villa Dálmine - Comunicaciones 
  Dep. Armenio - Liniers 
@@ -1633,19 +1625,21 @@ Asistente 1: Leandro Brítez
 Asistente 2: Facundo Maldonado
 Cuarto árbitro: Iñaki Iparraguirre
 Fecha 10 
- Ituzaingó Libre 
- El Porvenir - Gral. Lamadrid 
- Luján - Muñiz 
- Sp. Barracas - Mercedes 
- Berazategui - Ctral. Cba. (Ros.) 
- Yupanqui - Puerto Nuevo 
- J.J. De Urquiza - Lugano 
- Dep. Paraguayo - J. Unida 
- Real Pilar - Claypole 
- Argentino (Ros.) - Ctral. Ballester 
- Def. De Cambaceres - L.N. Alem 
- Atlas - V. Arenas 
- Dep. Español - Ctro. Re- Español 
+Sábado 30 de marzo
+Yupanqui - Puerto Nuevo, a las 11.00 horas
+El Porvenir - Gral. Lamadrid, a las 15.05 horas (TV)
+Argentino (Ros.) - Ctral. Ballester, a las 15.30 horas
+Atlas - Victoriano Arenas, a las 15.30 horas
+Real Pilar F.C. - Claypole, a las 19.00 horas en estadio Municipal de Pilar
+Domingo 31 de marzo 
+Luján - Muñiz, a las 15.30 horas
+J.J. de Urquiza - Lugano, a las 15.30 horas
+Lunes 1 de abril
+Sp. Barracas - Mercedes, a las 15.30 horas en Dep. Morón
+Berazategui - Ctral. Córdoba (Ros.), a las 15.30 horas
+Dep. Paraguayo - Juv. Unida, a las 15.30 horas en Lugano
+Def. de Cambaceres - L.N. Alem, a las 15.30 horas
+Dep. Español - Rec. Español, a las 15.30 horas
 Fecha 11 
  Libre Dep. Español
  Ctro. Re- Español - Atlas
@@ -2210,12 +2204,6 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 5
-Lunes 25 de marzo
-Juv. de Bernal - At. Pilar, en Camioneros, a las 15.30hs
-Árbitro: Gonzalo Correa
-Asistente 1: Felipe Onufrik
-Asistente 2: Felipe Arrechea
-Cuarto árbitro: Facundo Carretero
 Martes 26 de marzo
 Def. de Glew - Náutico Hacoaj, en San Martin (B.), a las 15.30hs
 Árbitro: Agustín Flores
@@ -2233,13 +2221,18 @@ Asistente 1: Bruno Castillo
 Asistente 2: Sofía Curto
 Cuarto árbitro: Iván Mastroieni
 Fecha 6
-Pcial. De Lobos - Dep. Metalúrgico
-Est. De Berisso - Juv. De Bernal
-At. Pilar - Def. De Glew
-N. Hacoaj - S.A.T.
-Camioneros - Belgrano (Z.)
-Est. Del Sur - Everton (L.P.)
-Barrancas F.C - F.C Ezeiza
+Viernes 29 de marzo
+Náutico Hacoaj - S.A.T., a las 15.00 horas (TV)
+Dep. Camioneros - Belgrano (Zarate), a las 15.30 horas
+Sábado 30 de marzo
+Dep. Provincial (Lobos) - Dep. Metalúrgico, a las 15.30 horas
+Domingo 31 de marzo
+At. Pilar - Def. de Glew, a las 15.30 horas
+Lunes 1 de abril
+Estrella del Sur - Everton (L.P.), a las 15.30 horas
+Barrancas F.C. - F.C. Ezeiza, a las 15.30 horas en Platense (Auxiliar)
+Martes 2 de abril 
+Estrella de Berisso - Juv. de Bernal, a las 15.30 horas
 Fecha 7
 Dep. Metalúrgico - Barrancas F.C
 F.C Ezeiza - Est. Del Sur
