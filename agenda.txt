@@ -607,12 +607,8 @@ Def. y Justicia c. Dep. Riestra, a las 15.00 horas en Def. y Justicia (Aux. Pred
 Sarmiento c. Barracas Central, a las 15.00 horas en Sarmiento (Aux. Ctro. A. Rendimiento).
 River Plate c. Boca Juniors, a las 19.00 horas en River Plate (Aux. Ezeiza).
 Fecha 6
-Martes 26 de marzo
- 15.00 Argentinos – Racing (Zona A) -CEFFA-
- 15.00 Estudiantes – Defensa y Justicia (Zona B) -City Bell-
- 15.00 Instituto – Vélez (Zona A) -Predio La Agustina-
 Miércoles 27 de marzo
- 15.00 Belgrano – Barracas (Zona A) -Predio Armando Pérez-
+15.00 Belgrano – Barracas (Zona A) -Predio Armando Pérez-
  15.00 Banfield – Rosario Central (Zona A) -Predio Alfredo Palacios-
  15.00 Tigre – Godoy Cruz (Zona B) -Nito San Andrés-
  15.00 Riestra – Gimnasia (Zona A) -Predio La Candela-
@@ -2435,23 +2431,6 @@ Fecha 50
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Torneo Apertura
-Fecha 5
-Martes 26 de marzo
-Def. de Glew - Náutico Hacoaj, en San Martin (B.), a las 15.30hs
-Árbitro: Agustín Flores
-Asistente 1: Oscar Maidana
-Asistente 2: Brisa Fernández
-Cuarto árbitro: Matías Ansede
-Dep. Metalúrgico - F.C. Ezeiza, en Dep. Armenio, a las 15.30hs
-Árbitro: Mateo Bocaccia
-Asistente 1: Cristian Rodríguez
-Asistente 2: Damián Alcaráz
-Cuarto árbitro: David Cornejo
-Belgrano (Zarate) - Estrella del Sur, a las 15.30hs
-Árbitro: Martín Morenza
-Asistente 1: Bruno Castillo
-Asistente 2: Sofía Curto
-Cuarto árbitro: Iván Mastroieni
 Fecha 6
 Viernes 29 de marzo
 Náutico Hacoaj - S.A.T., a las 15.00 horas (TV)
@@ -2579,9 +2558,6 @@ River - Ferro, en River Camp
  Asistente 1: Analía Fernández
  Asistente 2: Selene Coria Ávalos
  Cuarta árbitra: Camila Gette
-Martes 26 de marzo
- 11.00 Platense - Racing, en auxiliar
- 15.00 UAI Urquiza - Estudiantes, en Estadio Monumental de Villa Lynch
 Fecha 4
 Jueves 28 de marzo
  20.00 Belgrano - Gimnasia, en Estadio Gigante de Alberdi
@@ -2594,7 +2570,7 @@ Sábado 30 de marzo
  15.00 Rosario Central - Huracán, en Estadio Gigante de Arroyito
  15.00 Racing - San Luis, en estadio a confirmar
  15.00 Estudiantes - Excursionistas, en Predio Martín Coronado
-Estudiantes - Excursionistas
+15.00 Estudiantes - Excursionistas, Predio Coronado
 Fecha 5
  Huracán - S.A.T.
  Newell's - Racing Club
