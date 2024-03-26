@@ -1366,22 +1366,6 @@ Dep. Laferrere - Sp. Italiano, a las 15.30 horas
  Cuarto árbitro: Eduardo Gutiérrez
 Fecha 9 
 Postergado: Arg. De Quilmes - Comunicaciones
-Lunes 25 de marzo 
-Villa Dálmine - Dep. Armenio, a las 15.30
-Árbitro: Kevin Alegre
-Asistente 1: Ángel Rebuscini
-Asistente 2: Martín Raffo
-Cuarto árbitro: Gastón Iglesias
-Fénix - Liniers, a las 15.30 en Argentino de Merlo
-Árbitro: Mauro Biasutto
-Asistente 1: Héctor Bracho Gómez
-Asistente 2: Daniela Sanda
-Cuarto árbitro: Germán Bermúdez
-Acassuso - San Martín (B.), a las 15.30 en Dep. Armenio
-Árbitro: Sebastián Bresba
-Asistente 1: Matías Basso
-Asistente 2: Sebastián Pumetti
-Cuarto árbitro: Joaquín Rodríguez
 Martes 26 de marzo
 F.C. Midland - Arg. De Merlo, a las 19
 Árbitro: Ignacio Lupani
@@ -1619,11 +1603,11 @@ Sábado 30 de marzo
 Yupanqui - Puerto Nuevo, a las 11.00 horas
 El Porvenir - Gral. Lamadrid, a las 15.05 horas (TV)
 Argentino (Ros.) - Ctral. Ballester, a las 15.30 horas
-Atlas - Victoriano Arenas, a las 15.30 horas
 Real Pilar F.C. - Claypole, a las 19.00 horas en estadio Municipal de Pilar
 Domingo 31 de marzo 
 Luján - Muñiz, a las 15.30 horas
 J.J. de Urquiza - Lugano, a las 15.30 horas
+ Atlas - Victoriano Arenas, a las 15.30 horas
 Lunes 1 de abril
 Sp. Barracas - Mercedes, a las 15.30 horas en Dep. Morón
 Berazategui - Ctral. Córdoba (Ros.), a las 15.30 horas
@@ -2295,16 +2279,6 @@ Instituto A.C. Cba. - Talleres (R.E.), a las 19.00 horas en At. de Rafaela (TV)
 Huracán - Villa Mitre (B. Blanca), a las 21.10 horas en Quilmes A.C. (TV)
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2024, si alguno de los encuentros señalados precedentementeresultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A
-Fecha 1
-Zona 3
-Lunes 25 de marzo
-20.30 Sp. Belgrano -Sportivo AC
-Cuerpo arbitral
- Gil Joaquin
- Viglietti Carlos
- Araya Quinteros
- Etem Jorge
-Libre: Central Norte 
 Torneo Femenino de Primera División 2024
 ​​​​
 Fecha 3
@@ -2323,8 +2297,6 @@ Martes 26 de marzo
  11.00 Platense - Racing, en auxiliar
  15.00 UAI Urquiza - Estudiantes, en Estadio Monumental de Villa Lynch
 Fecha 4
-Lunes 25 de marzo
- 15.00 Banfield - River, en Predio (TV)
 Jueves 28 de marzo
  20.00 Belgrano - Gimnasia, en Estadio Gigante de Alberdi
 Viernes 29 de marzo
