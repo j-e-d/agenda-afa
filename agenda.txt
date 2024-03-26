@@ -1,26 +1,115 @@
 Publicado: 25/03/2019
 Copa Sur Finanzas 2024
 Fecha 12
-Miércoles 27 de marzo
- 21.30 Lanús – Unión (Zona B)
+Zona “A”
 Jueves 28 de marzo
- 20.00 Rosario Central – Barracas Central (Zona A)
- 21.00 Instituto – Argentinos (Zona A)
+ Rosario Central - Barracas Central, a las 20.00 horas
+ Árbitro: Yael Falcón Pérez
+ Asistente 1: Sebastián Raineri
+ Asistente 2: Adrián Delbarba
+ Cuarto árbitro: Jonathan De Oto
+ VAR: Silbio Trucco
+ AVAR: Fabrizio Llobet
+Instituto A.C.C. - Argentinos Juniors, a las 21.00 horas
+ Árbitro: Nicolás Lamolina
+ Asistente 1: Maximiliano Del Yesso
+ Asistente 2: Gonzalo Ferrari
+ Cuarto árbitro: Cristian Cernadas
+ VAR: Lucas Novelli
+ AVAR: Gastón Suárez
 Viernes 29 de marzo
- 18.00 Defensa y Justicia – Estudiantes (Zona B)
- 18.00 Tigre – Belgrano (Zona B)
- 20.30 Huracán – River (Zona A)
+ Huracán - River Plate, a las 20.30 horas
+ Árbitro: Leandro Rey Hilfer
+ Asistente 1: Juan Pablo Belatti
+ Asistente 2: Pablo González
+ Cuarto árbitro: Lucas Comesaña
+ VAR: Jorge Baliño
+ AVAR: Juan Del Fueyo
 Sábado 30 de marzo
- 17.00 Boca – San Lorenzo (Zona B)
- 19.00 Central Córdoba – Racing (Zona B)
- 21.00 Talleres – Vélez (Zona A)
+ Talleres (Cba.) - Vélez Sarsfield, a las 21.00 horas en estadio Mario A. Kempes
+ Árbitro: Darío Herrera
+ Asistente 1: Marcelo Bistocco
+ Asistente 2: Federico Cano
+ Cuarto árbitro: Guillermo González
+ VAR: Nicolás Ramírez
+ AVAR: Pablo González
 Domingo 31 de marzo
- 16.00 Sarmiento – Newell’s (Zona B)
- 16.00 Gimnasia – Deportivo Riestra (Zona A)
- 18.30 Independiente – Atlético Tucumán (Zona A)
- 21.00 Independiente Rivadavia – Banfield (Zona A)
-Lunes 1° de abril
- 19.00 Platense – Godoy Cruz (Zona B)
+G. y Esgrima (L.P.) - Dep. Riestra, a las 16.00 horas
+ Árbitro: Andrés Gariano
+ Asistente 1: Hugo Páez
+ Asistente 2: Andrés Barbieri
+ Cuarto árbitro: Gastón Suárez
+ VAR: Luis Lobo Medina
+ AVAR: Iván Núñez
+Independiente - Atl. Tucumán, a las 18.30 horas
+ Árbitro: Facundo Tello
+ Asistente 1: Pablo Acevedo
+ Asistente 2: Pablo Gualtieri
+ Cuarto árbitro: Bruno Bocca
+ VAR: Héctor Paletta
+ AVAR: José Carreras
+Independiente Riv. (Mza.) - Banfield, a las 21.00 horas
+ Árbitro: Pablo Echavarría
+ Asistente 1: Miguel Savorani
+ Asistente 2: José Castelli
+ Cuarto árbitro: Rodrigo Rivero
+ VAR: Germán Delfino
+ AVAR: Adrián Franklin
+Zona “B”
+Miércoles 27 de marzo
+ Lanús - Unión, a las 21.30 horas
+ Árbitro: Fernando Echenique
+ Asistente 1: Diego Bonfá
+ Asistente 2: Juna Mamani
+ Cuarto árbitro: Julio Barraza
+ VAR: Salomé Di Iorio
+ AVAR: Juan Pafundi
+Viernes 29 de marzo
+ Tigre - Belgrano (Cba.), a las 18.00 horas
+ Árbitro: Fernando Rapallini
+ Asistente 1: Walter Ferreyra
+ Asistente 2: Mariana De Almeida
+ Cuarto árbitro: Kevin Alegre
+ VAR: Sebastián Martínez
+ AVAR: Diego Verlotta
+Def. y Justicia - Estudiantes de L.P., a las 18.00 horas
+ Árbitro: Ariel Penel
+ Asistente 1: Ezequiel Brailovsky
+ Asistente 2: Gisela Trucco
+ Cuarto árbitro: Héctor Paleta
+ VAR: Nazareno Arasa
+ AVAR: Andrés Gariano
+Sábado 30 de marzo 
+ Boca Juniors - San Lorenzo de A., a las 17.00 horas
+ Árbitro: Nazareno Arasa
+ Asistente 1: Gabriel Chade
+ Asistente 2: Cristian Navarro
+ Cuarto árbitro: Luis Lobo Medina
+ VAR: Mauro Vigliano
+ AVAR: Diego Romero
+Ctral. Córdoba (S.E.) - Racing Club, a las 19.00 horas en estadio Madre de Ciudades
+ Árbitro: Silvio Trucco
+ Asistente 1: Facundo Rodríguez
+ Asistente 2: Julio Fernández
+ Cuarto árbitro: Emanuel Ejarque
+ VAR: Pablo Dóvalo
+ AVAR: Sebastián Raineri
+Domingo 31 de marzo
+ Sarmiento - Newell´s Old Boys, a las 16.00 horas
+ Árbitro: Fernando Espinoza
+ Asistente 1: Javier Uziga
+ Asistente 2: Marcos Horticolou
+ Cuarto árbitro: Franco Morón
+ VAR: Andrés Merlos
+ AVAR: Gisela Trucco
+Lunes 1 de abril
+ Platense - Godoy Cruz, a las 19.00 horas
+ Árbitro: Sebastián Zunino
+ Asistente 1: Gerardo Lencina
+ Asistente 2: Lucio Méndez
+ Cuarto árbitro: José Carreras
+ VAR: Hernán Mastrángelo
+ AVAR: Diego Bonfá
 Fecha 13
 Viernes 5 de abril
  19.00 Vélez – Argentinos (Zona A)
@@ -1349,17 +1438,18 @@ Cañuelas F.C. - F.C. Midland, a las 15.30 horas
  Árbitro: Gabriel Gutierrez
  Asist 1: Martin Vaccaro
  Asist 2: Sebastián Pumetti
- 4° Árbitro: Ariel Cruz
+ 4° Árbitro: Agustín Flores
 Fecha 7
 Partidos Postergados 
 Miércoles 3 de abril
-Fénix - Dep. Armenio, a las 15.30 horas en Arg. de Merlo
+Fénix - Dep. Armenio, a las 15.30 horas en Berazategui
  Árbitro: Mariano Negrete
  Asistente 1: Jonathan Savoiardo
  Asistente 2: Federico García
  Cuarto árbitro: Américo Monsalvo
 Jueves 4 de abril
-Dep. Laferrere - Sp. Italiano, a las 15.30 horas
+Dep. Laferrere - Sp. Italiano, a las 15.30 horas 
+(TV)
  Árbitro: Gonzalo Pereira
  Asistente 1: Maximiliano Benzoni
  Asistente 2: Yamil Galván
