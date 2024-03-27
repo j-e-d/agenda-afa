@@ -588,18 +588,18 @@ Fecha 4
 Martes 30 de abril
 15.00 Instituto – Rosario Central 
  15.00 Huracán – Boca 
- INTERZONAL 
+INTERZONAL - Fecha 7
 Martes 2 de abril
 Tigre c. Vélez Sarsfield, a las 15.00 horas en Tigre (Auxiliar).
 San Lorenzo de A. c. Huracán, a las 15.00 horas en San Lorenzo de A. (Aux. Cdad. Deportiva).
-Lanús c. Banfield, a las 17.00 horas en Lanús (Principal).
+Lanús c. Banfield, a las 15.00 horas en la Cancha Auxiliar N° 2.
 Miércoles 3 de abril
 Argentinos Juniors c. Platense, a las 15.00 horas en Argentinos Juniors (Auxiliar).
 Instituto A.C.C. c. Godoy Cruz, a las 15.00 horas en Polidep. La Agustina.
 Newell´s Old Boys c. Rosario Central, a las 15.00 horas en Newell´s Old Boys (Principal).
 Atl. Tucumán c. Ctral. Córdoba (S.E.), a las 15.00 horas en Atl. Tucumán (Auxiliar).
 Racing Club c. Independiente, a las 17.00 horas en Racing Club (Principal).
-Talleres (Cba.) c. Belgrano (Cba.), a las 19.00 horas en Talleres (Cba.) (Principal).
+Talleres (Cba.) c. Belgrano (Cba.), a las 19.15 horas en Talleres (Cba.) (Principal).
 Jueves 4 de abril
 Estudiantes de L.P. c. G. y Esgrima (L.P.), a las 15.00 horas en Estudiantes de L.P. (Aux. Country).
 Independiente Riv. (Mza.) c. Unión, a las 15.00 horas en Independiente Riv. (Mza.) (Principal).
@@ -607,34 +607,11 @@ Def. y Justicia c. Dep. Riestra, a las 15.00 horas en Def. y Justicia (Aux. Pred
 Sarmiento c. Barracas Central, a las 15.00 horas en Sarmiento (Aux. Ctro. A. Rendimiento).
 River Plate c. Boca Juniors, a las 19.00 horas en River Plate (Aux. Ezeiza).
 Fecha 6
-Miércoles 27 de marzo
-15.00 Belgrano – Barracas (Zona A) -Predio Armando Pérez-
- 15.00 Banfield – Rosario Central (Zona A) -Predio Alfredo Palacios-
- 15.00 Tigre – Godoy Cruz (Zona B) -Nito San Andrés-
- 15.00 Riestra – Gimnasia (Zona A) -Predio La Candela-
- 19.00 Independiente – Platense (Zona B) -Estadio Libertadores de América-
- 19.00 Atlético Tucumán – San Lorenzo (Zona A) -Estadio José Fierro-
- 19.30 Boca – Unión (Zona B) -Boca Predio-
 Jueves 28 de marzo
  15.00 Sarmiento – Talleres (Zona B) -CAR-
  15.00 Newell’s – Lanús (Zona B) -Predio Griffa-
  15.00 Huracán – Central Córdoba (Zona B) -La Quemita-
  17.00 Independiente Rivadavia – River (Zona A), en estadio Bautista Gargantini 
-Fecha 7 – Interzonal – Semana 03/04
-Racing – Independiente
- San Lorenzo – Huracán
- River – Boca
- Independiente Rivadavia – Unión
- Atlético Tucumán – Central Córdoba
- Argentinos – Platense
- Instituto – Godoy Cruz
- Sarmiento – Barracas
- Tigre – Vélez
- Estudiantes – Gimnasia
- Newell’s – Rosario Central
- Talleres – Belgrano
- Lanús – Banfield
- Defensa y Justicia – Riestra
 Fecha 8 – Semana 10/04
 Zona A
 Barracas – Independiente Rivadavia
@@ -2547,6 +2524,112 @@ Huracán - Villa Mitre (B. Blanca), a las 21.10 horas en Quilmes A.C. (TV)
  Cuarto árbitro: Julián Jerez
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2024, si alguno de los encuentros señalados precedentementeresultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A
+Fecha 2
+Zona 1
+Sábado 30 de marzo
+ Dep. Rincón - Kimberley, a las 16
+ Árbitro: Cristian Rubiano
+ Asistente 1: Cristian Ramonda
+ Asistente 2: Patricio Destéfano
+ Cuarto árbitro: Anahí Soto
+Villa Mitre - Sansinena,a las 16.30
+ Árbitro: Diego Novelli
+ Asistente 1: Danilo Viola
+ Asistente 2: Rodrigo Moreno
+ Cuarto árbitro: Agustín Lamberti
+Santamarina - Germinal,a las 19
+ Árbitro: Marcelo Sanz
+ Asistente 1: Claudio Cabrelli
+ Asistente 2: José Luis Orellana
+ Cuarto árbitro: Carlos Geréz
+Domingo 31 de marzo
+ Circulo Dep. - Sol de Mayo, a las 15
+ Árbitro: Marcos Fernando
+ Asistente 1: Diego Álvarez
+ Asistente 2: Valentín Pompei
+ Cuarto árbitro: Agustina Loos
+Cipoletti - Olimpo, a las 18
+ Árbitro: Darío Sandoval
+ Asistente 1: Guido Córdoba
+ Asistente 2: Garcilano Lezcano
+ Cuarto árbitro: Lautaro Castagnola
+Zona 2
+Jueves 28 de marzo
+ San Martín de Menzoda - Universitario S.L; a las 21.30
+ Árbitro: Pablo Núñez
+ Asistente 1: Gabriel González
+ Asistente 2: Siserol Gómez
+ Cuarto árbitro: Guido Medina
+Viernes 29 de marzo
+ Estudiantes S.L. - Atenas Río IV, a las 18
+ Árbitro: Marcos Liuzzi 
+ Asistente 1: Martín Nardelli
+ Asistente 2: Ezequiel Agüero
+ Cuarto árbitro: Geréz Silcan
+Sábado 30 de marzo
+ Argentino MM - Ciudad Bolivar, a las 16.30
+ Árbitro: Juan Nebietti 
+ Asistente 1: Leopoldo Gorosito
+ Asistente 2: Gonzalo Roldán
+ Cuarto árbitro: Maximiliano Manduca
+Domingo 31 de marzo
+ Camioneros - Ferro Gral Pico, a las 16.00
+ Árbitro: Jonatan Correa
+ Asistente 1: Marcos Guzmán
+ Asistente 2: Karim Doussouk
+ Cuarto árbitro: Dalma Pérez
+Lunes 1 de abril
+Gutiérrez (Mza) - Huracán Las Heras, a las 16.30
+ Árbitro: Luis Martínez
+ Asistente 1: Quinteros Araya
+ Asistente 2: Rodrigo Jara
+ Cuarto árbitro: Jorge Etem
+Zona 3
+Domingo 31 de marzo
+ Depro - Douglas Haig, a las 16
+ Árbitro: Gustavo Benítes
+ Asistente 1: Luciano Díaz
+ Asistente 2: Diego Ocampo
+ Cuarto árbitro: Walter Cardozo
+El Linqueño - Indep. Chivilcoy, a las 16.30
+ Árbitro: Matías Billone
+ Asistente 1: Martín Balmaceda
+ Asistente 2: Matías González
+ Cuarto árbitro: Oscar Bono
+9 de Julio - S. Belgrano, a las 17.30
+ Árbitro: Enzo Silvestre
+ Asistente 1: Mariano González
+ Asistente 2: Maximiliano Moya
+ Cuarto árbitro: Agustín Vegetti
+Lunes 1 de abril
+Sp. Las Parejas - Def. de Belgrano (V.R.), a las 18.00
+ Árbitro: Francisco Acosta
+ Asistente 1: Luis Ortíz
+ Asistente 2: Williams Abdala
+ Cuarto árbitro: Néstor Cáceres
+Zona 4
+Sábado 30 de marzo
+ Crucero del Norte - Sarmiento (R), a las 16.30
+ Árbitro: Nelson Bejas
+ Asistente 1: Leila Argañaráz
+ Asistente 2: José Ponce
+ Cuarto árbitro: Rodrigo Ballestero
+Unión de Sunchales - Sarmiento L.B; a las 19
+ Árbitro: José Díaz
+ Asistente 1: Juan Flores Roig
+ Asistente 2: Federico Ojeda
+ Cuarto árbitro: Leandro Hartfield
+Domingo 31 de marzo
+Sol de América - San Martín Fsa, a las 17
+ Árbitro: Joaquín Gil
+ Asistente 1: Joaquín Badano
+ Asistente 2: Leonel Suárez
+ Cuarto árbitro: Franco Rioja
+Boca de Corrientes - Central Norte, a las 17
+ Árbitro: César Ceballo
+ Asistente 1: Sebastián Osudar
+ Asistente 2: Pablo Ramírez
+ Cuarto árbitro: Casal Rojo
 Torneo Femenino de Primera División 2024
 ​​​​
 Fecha 3
