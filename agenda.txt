@@ -702,25 +702,102 @@ Alte. Brown - Estudiantes (Río Cuarto)
 Fecha 10 
 Zona A
 G. Y Esgrima (J.) - Alvarado (M.D.P.)
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Hernán Vallejos
+ Asistente 2: Joaquín Badano
+ Cuarto árbitro: Federico Guaymas
 Dep. Maipú (Mza.) - Racing (Cba.)
+ Árbitro: Adrián Franklin
+ Asistente 1: Mauro Ramos Errasti
+ Asistente 2: Leila Argañaráz
+ Cuarto árbitro: Mauricio Martín
 Ferro Carril Oeste - Patronato (P.)
+ Árbitro: Franco Acita
+ Asistente 1: Andrés Barbieri
+ Asistente 2: Carla López
+ Cuarto árbitro: Eduardo Gutiérrez
 San Miguel - T. Suárez
+ Árbitro: Marcos Recalde
+ Asistente 1: Nicolás Bravo
+ Asistente 2: Mariano Ruas
+ Cuarto árbitro: Rodrigo Pafundi
 Quilmes A.C. - All Boys
+ Árbitro: Ariel Penel
+ Asistente 1: Lucas Pardo
+ Asistente 2: Diego Romero
+ Cuarto árbitro: Rodrigo Villalba
 Talleres (R.E.) - Agropecuario Arg.
+ Árbitro: Javier Delbarba
+ Asistente 1: Javier Mihura
+ Asistente 2: Sebastián Pumeti
+ Cuarto árbitro: Nicolás Kresta
 Estudiantes - Gmo. Brown (P.M.)
+ Árbitro: Nelson Sosa
+ Asistente 1: Lucas Ripoli
+ Asistente 2: Belen Bevilaqua
+ Cuarto árbitro: Germán Bermúdez
 Chacarita Jrs. - San Martín (S.J.)
+ Árbitro: Diego Ceballos
+ Asistente 1: Nahuel Rasullo
+ Asistente 2: Mario Bardina
+ Cuarto árbitro: Jorge Broggi
 San Martín (Tuc) - Arsenal F.C.
-Zona B 
+ Árbitro: Mariano Llobet 
+ Asistente 1: Mariano Viale
+ Asistente 2: Matías Balmaceda
+ Cuarto árbitro: Francisco Acosta
+Zona B
 Aldosivi (M.D.P.) - G. Y Tiro (S.)
+ Árbitro: Emanuel Ejarque
+ Asistente 1: Guillermo Yacante
+ Asistente 2: Pablo Pastor
+ Cuarto árbitro: Franco Morón
 Estudiantes (R. IV) - G. Y Esgrima (Mza.)
+ Árbitro: Walter Ferreyra
+ Asistente 1: Gonzalo Ferrari
+ Asistente 2: Sebastián Osudar
+ Cuarto árbitro: Guillermo González
 Colón - Nva. Chicago
+ Árbitro: Andrés Gariano
+ Asistente 1: Miguel Savorani
+ Asistente 2: Matías Bianchi
+ Cuarto árbitro: G. Monsón Brizuela
 Alte. Brown - Dep. Morón
+ Árbitro: Yamil Possi
+ Asistente 1: Diego Martín
+ Asistente 2: Juan Manuel González
+ Cuarto árbitro: Juan Pablo Loustau
 Atlanta - Temperley
+ Árbitro: Julio Barraza
+ Asistente 1: Federico Pomi
+ Asistente 2: Damián Orellana
+ Cuarto árbitro: Ignacio Lupani
 Def. Unidos - Brown (Ad.)
+ Árbitro: Juan Cruz Robledo
+ Asistente 1: Ariel Scime
+ Asistente 2: Nicolás Gruccio
+ Cuarto árbitro: Ariel Cruz
 Dep. Madryn - Almagro
+ Árbitro: Lucas Comesaña
+ Asistente 1: Matías Arevalo
+ Asistente 2: Martín Saccone
+ Cuarto árbitro: Marcelo Sanz
 At. De Rafaela - Def. De Belgrano
+ Árbitro: Nahuel Viñas
+ Asistente 1: Daniel Zamora
+ Asistente 2: Guido Córdoba
+ Cuarto árbitro: Rodrigo Rivero
 San Telmo - Chaco For Ever
-Interzonal Mitre (S.E.) - Güemes (S.E.)
+ Árbitro: Daniel Zamora
+ Asistente 1: Juan Pablo Millenar
+ Asistente 2: Cristian Amarilla
+ Cuarto árbitro: Lucas Di Bastiano
+Interzonal 
+ Mitre (S.E.) - Güemes (S.E.)
+ Árbitro: Bruno Amiconi
+ Asistente 1: Iván Núñez
+ Asistente 2: Manuel Sánchez
+ Cuarto árbitro: Gabriel Araujo
 Fecha 11 
 Zona A
 San Martín (S.J.) - San Martín (Tuc)
@@ -1356,17 +1433,61 @@ Dep. Laferrere - Sp. Italiano, a las 15.30 horas
 Fecha 9 
 Postergado: Arg. De Quilmes - Comunicaciones
 Fecha 11 
- Villa Dálmine - Comunicaciones 
- Dep. Armenio - Liniers 
+Villa Dálmine - Comunicaciones 
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Jonathan Savoiardo
+ Asistente 2: Maximiliano Montenegro
+ Cuarto árbitro: Eduardo Gutiérrez
+ Dep. Armenio - Liniers
+ Árbitro: Gastón Iglesias
+ Asistente 1: Santiago Scalerandi
+ Asistente 2: Leonardo Aranda
+ Cuarto árbitro: David Cornejo
  Arg. De Quilmes - Arg. De Merlo 
+ Árbitro: Jonathan De Oto
+ Asistente 1: Martín Vaccaro
+ Asistente 2: Leandro Vieta
+ Cuarto árbitro: Mariano Seco
  Fénix - Sp. Italiano 
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Luis Castillo
+ Asistente 2: Néstor Olivera
+ Cuarto árbitro: Lucas Di Bastiano
  F.C. Midland - Villa San Carlos 
+ Árbitro: Guido Mascheroni
+ Asistente 1: Juan Martín Pereyra
+ Asistente 2: Federico Machuca
+ Cuarto árbitro: Mauro Biasutto
  Los Andes - Flandria 
- Cañuelas F.C. - Sp. Dock Sud 
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Maximiliano Benzoni
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: GOnzalo Creimerman
+Cañuelas F.C. - Sp. Dock Sud 
+ Árbitro: Kevin Alegre
+ Asistente 1: Carlos Suárez
+ Asistente 2: Diego Fernández
+ Cuarto árbitro: Nicolás Kresta
  Dep. Laferrere - Colegiales 
- Dep. Merlo - Uai - Urquiza 
- Sacachispas F.C. - San Martín (B.) 
- Excursionistas - Acassuso 
+ Árbitro: Sebastián Bresba
+ Asistente 1: Ángel Rebuscini
+ Asistente 2: Héctor Gómez Bracho
+ Cuarto árbitro: Julián Beligoy
+Dep. Merlo - Uai - Urquiza 
+ Árbitro: Mariano Negrete
+ Asistente 1: Federico Zuvilivia
+ Asistente 2: Ariel López
+ Cuarto árbitro: Ignacio Lupani
+Sacachispas F.C. - San Martín (B.) 
+ Árbitro: Julián Jeréz
+ Asistente 1: Diego Molina
+ Asistente 2: Lucas Vázquez
+ Cuarto árbitro: Roberta Echeverría
+Excursionistas - Acassuso 
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Fernando Rodríguez
+ Asistente 2: Federico García
+ Cuarto árbitro: Tomás Aybar
 Fecha 12 
  Excursionistas - Villa Dálmine
  Acassuso - Sacachispas F.C.
@@ -1498,18 +1619,66 @@ Postergado
  Cuarto árbitro: Guido Mascheroni
 Fecha 11 
  Libre Dep. Español
- Ctro. Re- Español - Atlas
- V. Arenas - Def. De Cambaceres
- L.N. Alem - Argentino (Ros.)
- Ctral. Ballester - Real Pilar
- Claypole - Dep. Paraguayo
- J. Unida - J.J. De Urquiza
- Lugano - Yupanqui
- Puerto Nuevo - Berazategui
- Ctral. Cba. (Ros.) - Sp. Barracas
- Mercedes - Luján
- Muñiz - El Porvenir
- Gral. Lamadrid - Ituzaingó
+Ctro. Rec. Español - Atlas
+ Árbitro: Jesús Girett
+ Asistente 1: Matías Panozzo
+ Asistente 2: Federico Boveri
+ Cuarto árbitro: Juan Pablo Pereyra
+V. Arenas - Def. De Cambaceres
+ Árbitro: Martín Depósito
+ Asistente 1: Carlos Otegui
+ Asistente 2: Leandro Idio
+ Cuarto árbitro: David Cornejo
+L.N. Alem - Argentino (Ros.)
+ Árbitro: Adrián Núñez Rodríguez
+ Asistente 1: Ramiro Ortíz Biondi
+ Asistente 2: Facundo Mendiolar
+ Cuarto árbitro: Facundo Carretero
+Ctral. Ballester - Real Pilar
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Matías Pino
+ Asistente 2: Heber Ibáñez Meza
+ Cuarto árbitro: Julián Beligoy
+Claypole - Dep. Paraguayo
+ Árbitro: Gabriel Flores
+ Asistente 1: Juan Cingolani
+ Asistente 2: Nahuel Valdeón
+ Cuarto árbitro: Gabriela Coronel
+J. Unida - J.J. De Urquiza
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Juan Ricciardi
+ Asistente 2: Lucas Monsalvo
+ Cuarto árbitro: Antonella Álvarez
+Lugano - Yupanqui
+ Árbitro: Nicolás Jara
+ Asistente 1: Leandro Carril
+ Asistente 2: Diego Ortíz
+ Cuarto árbitro: Rodrigo Pafundi
+Puerto Nuevo - Berazategui
+ Árbitro: Néstor Barrios
+ Asistente 1: Francisco Gugliotta
+ Asistente 2: Santiago Gancedo
+ Cuarto árbitro: Tomás Aybar
+Ctral. Cba. (Ros.) - Sp. Barracas
+ Árbitro: Joaquín Rodríguez
+ Asistente 1: Leandro Franchi
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Axel Pogge
+Mercedes - Luján
+ Árbitro: Valentín Boccaccia 
+ Asistente 1: Enrique Lanz
+ Asistente 2: Santiago Escudero
+ Cuarto árbitro: Cristian Oubel
+Muñiz - El Porvenir
+ Árbitro: Jonathan Barrios
+ Asistente 1: Juan Etchepare
+ Asistente 2: Alan Colman
+ Cuarto árbitro: Rodrigo Villalba
+Gral. Lamadrid - Ituzaingó
+ Árbitro: Alejandro Porticella
+ Asistente 1: Lucas Isla
+ Asistente 2: Ezequiel Rabasa
+ Cuarto árbitro: Gonzalo Creimerman
 Fecha 12 
  Gral. Lamadrid Libre
  Ituzaingó - Muñiz
@@ -2061,12 +2230,40 @@ Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 7
 Dep. Metalúrgico - Barrancas F.C
+ Árbitro: Agustín Flores
+ Asistente 1: Felipe Onufrik
+ Asistente 2: Ariel Ibáñez
+ Cuarto árbitro: Axel Fernández
 F.C Ezeiza - Est. Del Sur
+ Árbitro: Iván Castelu Coca
+ Asistente 1: Jonathan Florentín
+ Asistente 2: Mauro Soria
+ Cuarto árbitro: Juan Pablo Pereyra
 Everton (L.P.) - Camioneros
+ Árbitro: Gonzalo Correa
+ Asistente 1: Cristian Rodríguez
+ Asistente 2: Gonzalo Cubillas Patat
+ Cuarto árbitro: Micaela Abelardo
 Belgrano (Z.) - N. Hacoaj
+ Árbitro: Matías Ansede
+ Asistente 1: Damián Alcaraz
+ Asistente 2: Mario Vargas
+ Cuarto árbitro: Antonella Álvarez
 S.A.T. - At. Pilar
+ Árbitro: Iván Mastroieni
+ Asistente 1: Xavier Arguello 
+ Asistente 2: Sofía Curto
+ Cuarto árbitro: Axel Pogge
 Def. De Glew - Est. De Berisso
+ Árbitro: Mateo Boccaccia
+ Asistente 1: Felipe Arrechea
+ Asistente 2: Alexis Ramírez
+ Cuarto árbitro: Cristian Oubel
 Juv. De Bernal - Pcial. De Lobos
+ Árbitro: Martín Morenza
+ Asistente 1: Facundo Maldonado
+ Asistente 2: Brisa Fernández
+ Cuarto árbitro: Gabriela Coronel
 Fecha 8
 Juv. De Bernal - Dep. Metalúrgico
 Pcial. De Lobos - Def. De Glew
