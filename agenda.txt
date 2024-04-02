@@ -3,22 +3,106 @@ Copa Sur Finanzas 2024
 Fecha 13
 Viernes 5 de abril
  19.00 Vélez – Argentinos (Zona A)
+ Árbitro: Leandro Rey Hilfer
+ Asistente 1: Pablo Acevedo
+ Asistente 2: Maximiliano Castelli
+ Cuarto árbitro: José Carreras
+ VAR: Germán Delfino
+ AVAR: Ezequiel Brailovsky
  21.00 Banfield – Independiente (Zona A)
+ Árbitro: Fernando Rapallini
+ Asistente 1: Sebastián Raineri
+ Asistente 2: Walter Ferreyra
+ Cuarto árbitro: Pablo Giménez
+ VAR: Nicolás Lamolina
+ AVAR: Javier Uziga
 Sábado 6 de abril
- 17.00 Newell’s – Boca (Zona B)
- 19.15 San Lorenzo – Defensa y Justicia (Zona B)
- 19.15 Estudiantes – Central Córdoba (Zona B)
+17.00 Newell’s – Boca (Zona B)
+ Árbitro: Facundo Tello
+ Asistente 1: Facundo Rodríguez
+ Asistente 2: José Castelli
+ Cuarto árbitro: Gastón Monsón
+ VAR: Héctor Paletta
+ AVAR: Juan Pafundi 
+19.15 San Lorenzo – Defensa y Justicia (Zona B)
+ Árbitro: Pablo Dóvalo
+ Asistente 1: Hugo Páez
+ Asistente 2: Pablo Gualtieri
+ Cuarto árbitro: Laura Fortunato
+ VAR: José Carreras
+ AVAR: Gastón Suárez
+19.15 Estudiantes – Central Córdoba (Zona B)
+ Árbitro: Sebastián Martínez
+ Asistente 1: Maximiliano Del Yesso
+ Asistente 2: Juan Del Fueyo
+ Cuarto árbitro: Mauro Biasutto
+ VAR: Fernando Espinoza
+ AVAR: Gisella Trucco 
 21.30 Unión – Belgrano (Zona B)
- 21.30 Talleres – Independiente Rivadavia (Zona A)
+ Árbitro: Hernán Mastrángelo
+ Asistente 1: Marcelo Bistocco
+ Asistente 2: Federico Cano
+ Cuarto árbitro: Rodrigo Rivero
+ VAR: Mauro Vigliano
+ AVAR: Pablo Giménez
+21.30 Talleres – Independiente Rivadavia (Zona A)
+ Árbitro: Nazareno Arasa
+ Asistente 1: Pablo Gonzalez
+ Asistente 2: Erik Grunman
+ Cuarto árbitro: Carlos Córdoba
+ VAR: Salomé Di Iorio
+ AVAR: Juan Pablo Belatti 
 Domingo 7 de abril
  16.00 Barracas Central – Instituto (Zona A)
- 16.00 Atlético Tucumán – Gimnasia (Zona A)
- 18.30 Racing – Lanús (Zona B)
- 21.00 River – Rosario Central (Zona A)
+ Árbitro: Luis Lobo Medina
+ Asistente 1: Gabriel Chade
+ Asistente 2: Gerardo Lencina
+ Cuarto árbitro: Américo Monsalvo
+ VAR: Fernando Echenique
+ AVAR: Diego Romero 
+16.00 Atlético Tucumán – Gimnasia (Zona A)
+ Árbitro: Darío Herrera
+ Asistente 1: Eduardo Lucero
+ Asistente 2: Gisella Bosso
+ Cuarto árbitro: Federico Benitez
+ VAR: Nicolás Ramírez
+ AVAR: Diego Verlotta
+18.30 Racing – Lanús (Zona B)
+ Árbitro: Yael Falcón Pérez
+ Asistente 1: Juan Pablo Belatti
+ Asistente 2: Adrián Delbarba
+ Cuarto árbitro: Felipe Viola
+ VAR: Facundo Tello
+ AVAR: Cristian Navarro
+21.00 River – Rosario Central (Zona A)
+ Árbitro: Sebastián Zunino
+ Asistente 1: Ezequiel Brailovsky
+ Asistente 2: Lucio Mendez
+ Cuarto árbitro: Jorge Broggi
+ VAR: Lucas Novelli
+ AVAR: Facundo Rodríguez
 Lunes 8 de abril
  15.30 Deportivo Riestra – Huracán (Zona A)
- 20.00 Godoy Cruz – Sarmiento (Zona B)
- 20.00 Platense – Tigre (Zona B)
+ Árbitro: Jorge Baliño
+ Asistente 1: Cristian Navarro
+ Asistente 2: Marcos Hourticolou
+ Cuarto árbitro: Cristian Cernadas
+ VAR: Silvio Trucco
+ AVAR: Gabriel Chade
+20.00 Godoy Cruz – Sarmiento (Zona B)
+ Árbitro: Pablo Echavarría
+ Asistente 1: Julio Fernández
+ Asistente 2: Damián Espinoza
+ Cuarto árbitro: Pablo Núñez
+ VAR: Nazareno Arasa
+ AVAR: Pablo Córdoba
+20.00 Platense – Tigre (Zona B)
+ Árbitro: Andrés Merlos
+ Asistente 1: Diego Bonfá 
+ Asistente 2: Damián Olivetto
+ Cuarto árbitro: Lucas Brumer
+ VAR: Yael Falcón Pérez
+ AVAR: Juan Del Fueyo 
 Fecha 14
  Semana 14/04
 Zona A
@@ -2039,12 +2123,6 @@ Postergado
  Asistente 1: José Castelli
  Asistente 2: Juan Del Fueyo
  Cuarto árbitro: Matías Billone
-Martes 02/04
- Ctral. Córdoba (S. del E.) - Quilmes A.C., a las 16.00 horas en Temperley (TV)
- Árbitro: Andrés Gariano
- Asistente 1: Pablo González
- Asistente 2: Ernesto Calegari
- Cuarto árbitro: Cristian Cernadas
 Miércoles 03/04
 Instituto A.C. Cba. - Talleres (R.E.), a las 19.00 horas en At. de Rafaela (TV)
  Árbitro: Leandro Rey Hilfer
