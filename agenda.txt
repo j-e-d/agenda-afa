@@ -45,7 +45,7 @@ Sábado 6 de abril
  Cuarto árbitro: Rodrigo Rivero
  VAR: Mauro Vigliano
  AVAR: Pablo Giménez
-21.30 Talleres – Independiente Rivadavia (Zona A)
+21.30 Talleres – Independiente Rivadavia (Zona A), en Estadio Mario A. Kempes
  Árbitro: Nazareno Arasa
  Asistente 1: Pablo Gonzalez
  Asistente 2: Erik Grunman
@@ -697,12 +697,8 @@ Suspendido
 Alte. Brown - Estudiantes (Río Cuarto)
 FECHA 10
 Zona “A”
-Sábado 06
--04
-Chacarita Juniors
- c. San Martin (S.J), a las 
-14.10
- horas 
+Sábado 06-04
+Chacarita Juniors c. San Martín (S.J), a las 14.10 horas 
 (TV)
  Árbitro: Diego Ceballos
  Asistente 1: Nahuel Rasullo
@@ -713,17 +709,14 @@ Ferro Carril Oeste c. Patronato (Paraná), a las 19.00 horas
  Asistente 1: Andrés Barbieri
  Asistente 2: Carla López
  Cuarto árbitro: Eduardo Gutiérrez
-San Martin (T.) c. Arsenal F.C., a las 21.10 horas 
+San Martín (T.) c. Arsenal F.C., a las 21.10 horas 
 (TV)
  Árbitro: Mariano Llobet 
  Asistente 1: Mariano Viale
  Asistente 2: Matías Balmaceda
  Cuarto árbitro: Francisco Acosta
 Domingo 07-04
-San Miguel
-c. Tristán Suarez, a las 14
-.00
- horas 
+San Miguel c. Tristán Suárez, a las 14.00 horas 
 (TV)
  Árbitro: Marcos Recalde
  Asistente 1: Nicolás Bravo
@@ -756,8 +749,7 @@ Dep. Maipú c. Racing (Cba.), a las 17.00 horas
  Asistente 2: Leila Argañaráz
  Cuarto árbitro: Mauricio Martín
 Zona “B”
-Viernes 05-
-04
+Viernes 05-04
 Colón c. Nva. Chicago, a las 21.10 horas 
 (TV)
  Árbitro: Andrés Gariano
@@ -811,8 +803,7 @@ Atlanta c. Temperley, a las 21.10 horas
  Asistente 2: Damián Orellana
  Cuarto árbitro: Ignacio Lupani
 Interzonal
-Domingo 07-
-04
+Domingo 07-04
 Mitre (S.E.) c. Güemes (S.E.), a las 17.00 horas
  Árbitro: Bruno Amiconi
  Asistente 1: Iván Núñez
@@ -1437,12 +1428,6 @@ Interzonal Atlanta - All Boys
 Primera B
 Fecha 7
 Partidos Postergados 
-Miércoles 3 de abril
-Fénix - Dep. Armenio, a las 15.30 horas en Berazategui
- Árbitro: Mariano Negrete
- Asistente 1: Jonathan Savoiardo
- Asistente 2: Federico García
- Cuarto árbitro: Américo Monsalvo
 Jueves 4 de abril
 Dep. Laferrere - Sp. Italiano, a las 15.30 horas 
 (TV)
@@ -1454,7 +1439,7 @@ Fecha 9
 Postergado: Arg. De Quilmes - Comunicaciones
 FECHA 11
 Viernes 05-04
-Sacachispas F.C. c. San Martin (B.), a las 15.30 horas 
+Sacachispas F.C. c. San Martín (B.), a las 15.30 horas 
 (TV)
  Árbitro: Julián Jeréz
  Asistente 1: Diego Molina
@@ -1646,80 +1631,134 @@ Postergado
  Cuarto árbitro: Guido Mascheroni
 Fecha 11 
  Libre Dep. Español
-Ctro. Rec. Español - Atlas
+Viernes 05-04
+Rec. Español c. Atlas, a las 15.30 horas en Atlas
  Árbitro: Jesús Girett
  Asistente 1: Matías Panozzo
  Asistente 2: Federico Boveri
  Cuarto árbitro: Juan Pablo Pereyra
-V. Arenas - Def. De Cambaceres
- Árbitro: Martín Depósito
- Asistente 1: Carlos Otegui
- Asistente 2: Leandro Idio
- Cuarto árbitro: David Cornejo
-L.N. Alem - Argentino (Ros.)
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Ramiro Ortíz Biondi
- Asistente 2: Facundo Mendiolar
- Cuarto árbitro: Facundo Carretero
-Ctral. Ballester - Real Pilar
- Árbitro: Ignacio Cuicchi
- Asistente 1: Matías Pino
- Asistente 2: Heber Ibáñez Meza
- Cuarto árbitro: Julián Beligoy
-Claypole - Dep. Paraguayo
- Árbitro: Gabriel Flores
- Asistente 1: Juan Cingolani
- Asistente 2: Nahuel Valdeón
- Cuarto árbitro: Gabriela Coronel
-J. Unida - J.J. De Urquiza
- Árbitro: Maximiliano López Monti
- Asistente 1: Juan Ricciardi
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Antonella Álvarez
-Lugano - Yupanqui
- Árbitro: Nicolás Jara
- Asistente 1: Leandro Carril
- Asistente 2: Diego Ortíz
- Cuarto árbitro: Rodrigo Pafundi
-Puerto Nuevo - Berazategui
+Puerto Nuevo c. Berazategui, a las 15.30 horas
  Árbitro: Néstor Barrios
  Asistente 1: Francisco Gugliotta
  Asistente 2: Santiago Gancedo
  Cuarto árbitro: Tomás Aybar
-Ctral. Cba. (Ros.) - Sp. Barracas
+Ctral. Córdoba (Ros.) c. Sp. Barracas, a las 15.30 horas
  Árbitro: Joaquín Rodríguez
  Asistente 1: Leandro Franchi
  Asistente 2: Federico Lapalma
  Cuarto árbitro: Axel Pogge
-Mercedes - Luján
- Árbitro: Valentín Boccaccia 
- Asistente 1: Enrique Lanz
- Asistente 2: Santiago Escudero
- Cuarto árbitro: Cristian Oubel
-Muñiz - El Porvenir
- Árbitro: Jonathan Barrios
- Asistente 1: Juan Etchepare
- Asistente 2: Alan Colman
- Cuarto árbitro: Rodrigo Villalba
-Gral. Lamadrid - Ituzaingó
+Gral. Lamadrid c. Ituzaingó, a las 15.30 horas
  Árbitro: Alejandro Porticella
  Asistente 1: Lucas Isla
  Asistente 2: Ezequiel Rabasa
  Cuarto árbitro: Gonzalo Creimerman
-Fecha 12 
- Gral. Lamadrid Libre
- Ituzaingó - Muñiz
- El Porvenir - Mercedes
- Luján - Ctral. Cba. (Ros.)
- Sp. Barracas - Puerto Nuevo
- Berazategui - Lugano
- Yupanqui - J. Unida
- J.J. De Urquiza - Claypole
- Dep. Paraguayo - Ctral. Ballester
- Real Pilar - L.N. Alem
- Argentino (Ros.) - V. Arenas
- Def. De Cambaceres - Ctro. Re- Español
- Atlas - Dep. Español
+Sábado 06-04
+Victoriano Arenas c. Def. de Cambaceres, a las 15.30 horas
+ Árbitro: Martín Depósito
+ Asistente 1: Carlos Otegui
+ Asistente 2: Leandro Idio
+ Cuarto árbitro: David Cornejo
+Ctral. Ballester c. Real Pilar F.C., a las 15.30 horas
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Matías Pino
+ Asistente 2: Heber Ibáñez Meza
+ Cuarto árbitro: Julián Beligoy
+Claypole c. Dep. Paraguayo, a las 15.30 horas en Brown
+ (Adrogué)
+ Árbitro: Gabriel Flores
+ Asistente 1: Juan Cingolani
+ Asistente 2: Nahuel Valdeón
+ Cuarto árbitro: Gabriela Coronel
+Juv. Unida c. J.J. de Urquiza, a las 15.30 horas
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Juan Ricciardi
+ Asistente 2: Lucas Monsalvo
+ Cuarto árbitro: Antonella Álvarez
+Lugano c. Yupanqui, a las 15.30 horas
+ Árbitro: Nicolás Jara
+ Asistente 1: Leandro Carril
+ Asistente 2: Diego Ortíz
+ Cuarto árbitro: Rodrigo Pafundi
+Muñiz c. El Porvenir, a las 15.30 horas en Atlas
+ Árbitro: Jonathan Barrios
+ Asistente 1: Juan Etchepare
+ Asistente 2: Alan Colman
+ Cuarto árbitro: Rodrigo Villalba
+Mercedes c. Luján, a las 19.00 horas
+ Árbitro: Valentín Boccaccia 
+ Asistente 1: Enrique Lanz
+ Asistente 2: Santiago Escudero
+ Cuarto árbitro: Cristian Oubel
+Domingo 07-04
+L.N. Alem c. Argentino (Ros.), a las 15.20 horas 
+(TV)
+ Árbitro: Adrián Núñez Rodríguez
+ Asistente 1: Ramiro Ortíz Biondi
+ Asistente 2: Facundo Mendiolar
+ Cuarto árbitro: Facundo Carretero
+FECHA 12
+Miércoles 10-04
+El Porvenir c. Mercedes, a las 15.30 horas
+Árbitro: Adrián Núñez
+Asistente 1: Gustavo Benítez
+Asistente 2: Julián Fabiani 
+Cuarto árbitro: Néstor Barrios 
+Luján c. Ctral. Córdoba (Ros.), a las 15.30 horas
+Árbitro: Jesús Girett 
+Asistente 1: Alan Anria 
+Asistente 2: Ariel Ibáñez
+Cuarto árbitro: Tomás Aybar 
+Sp. Barracas c. Puerto Nuevo, a las 15.30 horas en Dep. Morón
+Árbitro: Jonathan Barrios 
+Asistente 1: Rodrigo Mansilla 
+Asistente 2: Sofía Curto 
+Cuarto árbitro: Nicolás Jara 
+Berazategui c. Lugano, a las 15.30 horas
+Árbitro: Martín Desposito 
+Asistente 1: Fabio Ventura 
+Asistente 2: Juan cingolani 
+Cuarto árbitro: Joaquín Rodríguez 
+Yupanqui c. Juv. Unida, a las 15.30 horas 
+Árbitro: Julián Beligoy 
+Asistente 1: Jonathan Ghiso 
+Asistente 2: Brisa Fernández
+Cuarto árbitro: Alejandro Porticella 
+J.J. de Urquiza c. Claypole, a las 15.30 horas
+Árbitro: Guido Mascheroni 
+Asistente 1: Juan Manuel Acevedo 
+Asistente 2: Ezequiel Rabasa
+Cuarto árbitro: Gonzalo Correa
+Dep. Paraguayo c. Ctral. Ballester, a las 15.30 horas en Lugano
+Árbitro: Gonzalo Creimermann 
+Asistente 1: Federico Josa 
+Asistente 2: Jonathan Florentin 
+Cuarto árbitro: Nicolás Mastroieni 
+Def. de Cambaceres c. Rec. Español, a las 15.30 horas
+Árbitro: Rodrigo Pafundi 
+Asistente 1: Leandro Britez
+Asistente 2: Oscar Maidana 
+Cuarto árbitro: Axel Pogge
+Atlas c. Dep. Español, a las 15.30 horas
+Árbitro: Rodrigo Villalba 
+Asistente 1: Hernán Antola 
+Asistente 2: Cristian Rodríguez 
+Cuarto árbitro: Martín Morenza 
+Ituzaingó c. Muñiz, a las 19.30 horas
+Árbitro: Ignacio Cuicchi 
+Asistente 1: Federico Bozzo 
+Asistente 2: Damián Alcaraz
+Cuarto árbitro: Maximiliano López 
+Jueves 11-04
+Argentino (Ros.) c. Victoriano Arenas, a las 15.30 horas
+Árbitro: Gabriel Flores 
+Asistente 1: Matías Noli
+Asistente 2: Felipe Arrechea
+Cuarto árbitro: Mateo Bocaccia 
+Real Pilar F.C. c. L.N. Alem, a las 19.00 horas en estadio Municipal de Pilar
+Árbitro: Valentín Bocaccia 
+Asistente 1: Diego Fernández
+Asistente 2: Mario Vargas 
+Cuarto árbitro: Agustín Flores
 Fecha 13 
  Libre Atlas
  Dep. Español - Def. De Cambaceres
@@ -2255,38 +2294,44 @@ Fecha 50
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Torneo Apertura
-Fecha 7
-Dep. Metalúrgico - Barrancas F.C
- Árbitro: Agustín Flores
- Asistente 1: Felipe Onufrik
- Asistente 2: Ariel Ibáñez
- Cuarto árbitro: Axel Fernández
-F.C Ezeiza - Est. Del Sur
- Árbitro: Iván Castelu Coca
- Asistente 1: Jonathan Florentín
- Asistente 2: Mauro Soria
- Cuarto árbitro: Juan Pablo Pereyra
-Everton (L.P.) - Camioneros
+FECHA 7
+Viernes 05-04
+Everton (L.P.) c. Camioneros, a las 15.00 horas 
+(TV)
  Árbitro: Gonzalo Correa
  Asistente 1: Cristian Rodríguez
  Asistente 2: Gonzalo Cubillas Patat
  Cuarto árbitro: Micaela Abelardo
-Belgrano (Z.) - N. Hacoaj
- Árbitro: Matías Ansede
- Asistente 1: Damián Alcaraz
- Asistente 2: Mario Vargas
- Cuarto árbitro: Antonella Álvarez
-S.A.T. - At. Pilar
+Domingo 07-04
+F.C. Ezeiza c. Estrella del Sur, a las 15.30 horas en Tristán
+ Suárez
+ Árbitro: Iván Castelu Coca
+ Asistente 1: Jonathan Florentín
+ Asistente 2: Mauro Soria
+ Cuarto árbitro: Juan Pablo Pereyra
+S.A.T. c. At. Pilar, a las 15.30 horas
  Árbitro: Iván Mastroieni
  Asistente 1: Xavier Arguello 
  Asistente 2: Sofía Curto
  Cuarto árbitro: Axel Pogge
-Def. De Glew - Est. De Berisso
+Def. de Glew c. Estrella de Berisso, a las 15.30 horas
  Árbitro: Mateo Boccaccia
  Asistente 1: Felipe Arrechea
  Asistente 2: Alexis Ramírez
  Cuarto árbitro: Cristian Oubel
-Juv. De Bernal - Pcial. De Lobos
+Lunes 08-04
+Dep. Metalúrgico c. Barrancas F.C., a las 15.30 horas en Dep. Armenio
+ Árbitro: Agustín Flores
+ Asistente 1: Felipe Onufrik
+ Asistente 2: Ariel Ibáñez
+ Cuarto árbitro: Axel Fernández
+Belgrano (Zárate) c. Náutico Hacoaj, a las 15.30 horas
+ Árbitro: Matías Ansede
+ Asistente 1: Damián Alcaraz
+ Asistente 2: Mario Vargas
+ Cuarto árbitro: Antonella Álvarez
+Martes 09-04
+Juv. de Bernal c. Provincial (Lobos), a las 15.30 horas en Berazategui (Auxiliar)
  Árbitro: Martín Morenza
  Asistente 1: Facundo Maldonado
  Asistente 2: Brisa Fernández
@@ -2365,13 +2410,128 @@ Miércoles 10 de abril
  19.15 Colón - Los Andes, en Junín
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2024, si alguno de los encuentros señalados precedentementeresultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A
+Pendiente Fecha 1
+ Miércoles 10 de abril
+ 16.00 Sansinena – Olimpo
+Cuerpo arbitral:
+ Billione Matias 
+ Serale Emanuel 
+ Guzman Marcos
+ Pompei Valentin
+Fecha 3 
+ Viernes 5 de abril
+ 21.15 Atenas - Gutierrez Sc
+Cuerpo arbitral:
+ Sandoval José
+ Lezcano Rodrigo 
+ Castañola Lautaro 
+ Antonietti Diego
+Sábado 6 de abril
+ 15.00 Ciudad De Bolívar- San Martin
+Cuerpo arbitral:
+ Correa Jonathan 
+ Suarez Leonel 
+ Bono Oscar
+ Rojo Casal Mario
+16.00 FFCC Oeste General Pico - Estudiantes
+Cuerpo arbitral:
+ Martinez Luis Damian 
+ Gonzalez Marcelo 
+ Jara Rodrigo
+ Gomez Mauro
+16.00 J .U. Universitario - Camioneros
+Cuerpo arbitral:
+ Nebbietti Juan Ignacio 
+ Bustos Emiliano 
+ Araya Uvab Adriel
+ Etem Jorge David
+17.00 San Martín - Crucero Del Norte
+Cuerpo arbitral:
+ Silvestre Enzo 
+ Gonzalez Mariano 
+ Moya Maximiliano 
+ Rioja Franco 
+Domingo 7 de abril
+ 11.00 Kimberley - Círculo Dep.
+Cuerpo arbitral:
+ Gil Joaquin 
+ Viglietti Carlos 
+ Roldan Gonzalo
+ Destefano Patricio
+15.00 Germinal - Villa Mitre
+Cuerpo arbitral:
+ Billione Carpio
+ Serale Emanuel 
+ Guzman Marcos
+ Soto Anahi Gabriela
+15.00 Sol De Mayo - Santamarina
+Cuerpo Arbitral:
+ Julio Luciano
+ Schiel Malvina
+ Ramonda Cristian 
+ Moreno Nicolás
+16.00 Independiente Chivilcoy - G. Y Esgrima
+Cuerpo arbitral:
+ Novelli Diego
+ Nardelli Martin
+ Pajon Antonella 
+ Schmoll Santiago
+16.00 Sansinena - Cipolletti
+Cuerpo arbitral:
+ Rubiano Cristian 
+ Zabalza Fernando
+ Paletta Lautaro 
+ Romero Camila
+16.00 Def. Belgrano V.R. - Nueve De Julio
+Cuerpo arbitral:
+ Marcos Fernando
+ Gorosito Leopoldo 
+ Rosas Robertino 
+ Scionti Alejandro
+16.30 Huracán L.H. - Argentino
+Cuerpo arbitral:
+ Diaz José 
+ Flores Roig Juan Ignacio 
+ Ojeda Federico
+ Hartfield Leandro
+16.30 Olimpo Bahía Blanca - Deportivo Rincón
+Cuerpo Arbitral:
+ Cavallero Lucas 
+ Viola Danilo 
+ Moreno Rodrigo
+ Manduca Maximiliano
+17.00 Douglas Haig - El Linqueño
+Cuerpo arbitral:
+ Ceballos Cesar 
+ Gonzalez Matías
+ Ramirez Pablo 
+ Pezzotta Bruno
+17.30 Cral. Norte - Unión S.
+Cuerpo arbitral:
+ Silcan Jerez Maximiliano
+ Aguero Ezequiel 
+ Ruarte Fernando 
+ Medina Guido Daniel
+17.30 Sarmiento (Resistencia) - Juv. Antoniana
+Cuerpo arbitral:
+ Agli Mariano 
+ Perez Sergio
+ Sosa Nicolás
+ Franco Andres 
+19.00 Sarmiento (Sgo. Del Estero) - Sol De América
+Cuerpo arbitral:
+ Bejas Nelson 
+ Ponce José
+ Cardozo Walter
+ Ballestero Rodrigo
+Lunes 8 de abril 
+ 20.30 Belgrano – De. Pro. 
+Cuerpo arbitral:
+ Liuzzi Marcos 
+ Dure Mariana
+ Rios María Soledad 
+ Loos Agustina
 Zona 1
-Fecha 3
- Germinal - Villa Mitre
- Sol de Mayo - Santamarina
- Kimberley - Círculo Deportivo
- Olimpo - Deportivo Rincón
- Sansinena - Cipolletti
 Fecha 4
  Deportivo Rincón - Cipolletti
  Círculo Deportivo - Olimpo
@@ -2409,12 +2569,6 @@ Fecha 9
  Círculo Deportivo - Villa Mitre
  Sansinena - Santamarina
 Zona 2
-Fecha 3
- Juventud Unida Universitario - Deportivo Camioneros
- Ciudad de Bolívar - San Martín (SM)
- Huracán Las Heras - Argentino (MM)
- Atenas (RC) - Gutiérrez 9 de Julio
- Ferro Carril Oeste (GP) - Sportivo Estudiantes (SL)
 Fecha 4
  Gutiérrez - Sportivo Estudiantes (SL)
  Argentino (MM) - Atenas (RC)
@@ -2451,6 +2605,80 @@ Fecha 9
  Gutiérrez - Juventud Unida Universitario
  Argentino (MM) - Deportivo Camioneros
  Ferro Carril Oeste (GP) - San Martín (SM)
+Zona 3
+Fecha 4
+ 9 de Julio (R) - Sp. Las Parejas
+ Defensores (P) - Defensores (VR)
+ El Linqueño - Sp. Belgrano (SF)
+ Gimnasia (CdU) - Douglas Haig
+ Fecha Libre: Independiente CH
+Fecha 5
+ Douglas Haig - Independiente CH
+ Sp. Belgrano (SF) - Gimnasia (CdU)
+ Defensores (VR) - El Linqueño
+ Sp. Las Parejas - Defensores (P)
+ Fecha Libre: 9 de Julio (R)
+Fecha 6
+ Defensores (P) - 9 de Julio (R)
+ El Linqueño - Sp. Las Parejas
+ Gimnasia (CdU) - Defensores (VR)
+ Independiente CH - Sp. Belgrano (SF)
+ Fecha Libre: Douglas Haig
+Fecha 7
+ Sp. Belgrano (SF) - Douglas Haig
+ Defensores (VR) - Independiente CH
+ Sp. Las Parejas - Gimnasia (CdU)
+ 9 de Julio (R) - El Linqueño
+ Fecha Libre: Defensores (P)
+Fecha 8
+ El Linqueño - Defensores (P)
+ Gimnasia (CdU) - 9 de Julio (R)
+ Independiente CH - Sp. Las Parejas
+ Douglas Haig - Defensores (VR)
+ Fecha Libre: Sp. Belgrano (SF)
+Fecha 9
+ Defensores (VR) - Sp. Belgrano (SF)
+ Sp. Las Parejas - Douglas Haig
+ 9 de Julio (R) - Independiente CH
+ Defensores (P) - Gimnasia (CdU)
+ Fecha Libre: El Linqueño
+Zona 4
+Fecha 4
+ Juv. Antoniana - San Martín (F)
+ Crucero (M) - Sarmiento (LB)
+ Sol de América (F) - Central Norte (S)
+ Unión (S) - Boca Unidos
+ Fecha Libre: Sarmiento (R)
+Fecha 5
+ Boca Unidos - Sol de América (F)
+ Central Norte (S) - Crucero (M)
+ Sarmiento (LB) - Juv. Antoniana
+ San Martín (F) - Sarmiento (R)
+ Fecha Libre: Unión (S)
+Fecha 6
+ Sarmiento (R) - Sarmiento (LB)
+ Juv. Antoniana - Central Norte (S)
+ Crucero (M) - Boca Unidos
+ Sol de América (F) - Unión (S)
+ Fecha Libre: San Martín (F)
+Fecha 7
+ Union (S) - Crucero (M)
+ Boca Unidos - Juv. Antoniana
+ Central Norte (S) - Sarmiento (R)
+ Sarmiento (LB) - San Martín (F)
+ Fecha Libre: Sol de América (F)
+Fecha 8
+ San Martín (F) - Central Norte (S)
+ Sarmiento (R) - Boca Unidos
+ Juv. Antoniana - Unión (S)
+ Crucero (M) - Sol de América (F)
+ Fecha Libre: Sarmiento (LB)
+Fecha 9
+ Sol de América (F) - Juv. Antoniana
+ Union (S) - Sarmiento (R)
+ Boca Unidos - San Martín (F)
+ Central Norte (S) - Sarmiento (LB)
+ Fecha Libre: Crucero (M)
 Torneo Femenino de Primera División 2024
 ​​​​
 Fecha 3
