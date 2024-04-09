@@ -1,7 +1,9 @@
 Publicado: 25/03/2019
 Copa Sur Finanzas 2024
-Pendiente 
- Estudiantes - Boca 
+Partido pendiente
+Fecha 10
+Viernes 12 de abril
+Estudiantes de L.P. - Boca Juniors, a las 19.30 horas (Prosecución de 64 minutos, en dos periodos de 32 minutos cada uno).
 Árbitro: Fernando Echenique
 Asistente 1: Sebastian Raineri
 Asistente 2: Pablo Gualtieri
@@ -620,31 +622,107 @@ Fecha 11
 Zona A
 Sábado 13 de abril
 Agropecuario Arg - Estudiantes, a las 17.05 horas (TV)
+ Árbitro: Yamil Possi
+ Asistente 1: José Castelli
+ Asistente 2: Uriel García Leri
+ Cuarto árbitro: Jonathan Barrios
 Alvarado (M.D.P.) - Dep. Maipú (Mza.), a las 19.00 horas en estadio José M. Minella
+ Árbitro: Nahuel Viñas
+ Asistente 1: Ramiro Cabrera
+ Asistente 2: Federico Cuello
+ Cuarto árbitro: Juan Nebietti
 All Boys - Talleres (R.E.), a las 19.10 horas (TV)
+ Árbitro: Juan Pablo Loustau
+ Asistente 1: Juan Manuel González
+ Asistente 2: Arnaldo Melgarejo
+ Cuarto árbitro: Daniel Zamora 
 Domingo 14 de abril
 Tristán Suarez - Quilmes A.C a las 14.30 horas (TV)
+ Árbitro: Javier Delbarba
+ Asistente 1: Erik Grunman
+ Asistente 2: Marcelo Errante
+ Cuarto árbitro: Kevin Alegre
 Brown (P.M.) - Chacarita Juniors, a las 15.30 horas
+ Árbitro: Bruno Amiconi
+ Asistente 1: Marcos Horticolou
+ Asistente 2: Emiliano Bustos
+ Cuarto árbitro: Cristian Cernadas
 Racing (Cba.) - Ferro Carril Oeste, a las 16.30 horas
+ Árbitro: Sebastián Martínez
+ Asistente 1: Marcelo Bistocco
+ Asistente 2: Mario Bardina
+ Cuarto árbitro: Bryan Ferreyra
 Patronato (Paraná) - San Miguel, a las 17.00 horas
+ Árbitro: Emanuel Ejarque
+ Asistente 1: Sebastián Osudar
+ Asistente 2: Hernán Salado
+ Cuarto árbitro: Guillermo González
 Güemes (S.E.) - G. y Esgrima (J.), a las 18.00 horas
+ Árbitro: Gastón Monsón
+ Asistente 1: Roque Narváez
+ Asistente 2: Mariana Dure
+ Cuarto árbitro: Sebastián Ranciglio
 San Martin (S.J.) - San Martin (T.), a las 18.50 horas (TV)
+ Árbitro: Pablo Dóvalo
+ Asistente 1: Manuel Sánchez
+ Asistente 2: Mariano Ruas
+ Cuarto árbitro: Gabriel Araujo
 Zona B
 Viernes 12 de abril
 Nva. Chicago - Estudiantes (Río IV), a las 18.00 horas (TV)
+ Árbitro: Jorge Broggi
+ Asistente 1: Mariano Ascenzi
+ Asistente 2: Nahuel Santanocito
+ Cuarto árbitro: Germán Bermúdez
 Sábado 13 de abril
 Brown (Adrogué) - Atlanta, a las 15.00 horas
+ Árbitro: Carlos Córdoba
+ Asistente 1: Rubén Bustos
+ Asistente 2: Rodrigo Arin
+ Cuarto árbitro: Lucas Di Bastiano
 Temperley - Alte. Brown, a las 15.05 horas (TV)
+ Árbitro: Pablo Giménez 
+ Asistente 1: Nahuel Rasullo
+ Asistente 2: Hugo Hartung
+ Cuarto árbitro: Mariano Negrete
 Almagro - Def. Unidos, a las 15.30 horas
+ Árbitro: Felipe Viola
+ Asistente 1: Mariano Cichetto
+ Asistente 2: Francisco Gugliotta
+ Cuarto árbitro: Eduardo Gutiérrez
 G. y Esgrima (Mza.) - Aldosivi (M.D.P.), a las 16.00 horas
+ Árbitro: Adrián Franklin
+ Asistente 1: Matías Coria
+ Asistente 2: Juan Viglietti
+ Cuarto árbitro: Federico Guaymas
 Chaco For Ever - At. de Rafaela, a las 17.00 horas
+ Árbitro: Lucas Cavallero
+ Asistente 1: Pascual Fernández
+ Asistente 2: Martín Saccone
+ Cuarto árbitro: Mariano Agli
 Dep. Morón - Colón, a las 21.10 horas (TV)
+ Árbitro: Juan Pafundi
+ Asistente 1: Lucas Pardo
+ Asistente 2: Diego Romero
+ Cuarto árbitro: Gonzalo Creimermann
 Domingo 14 de abril
 G. y Tiro (Salta) - Mitre (S.E.), a las 16.00 horas
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Alejandro Schneller
+ Asistente 2: Martín Grasso
+ Cuarto árbitro: Maximiliano Jérez Silcan
 Def. de Belgrano - Dep. Madryn, a las 21.00 horas (TV)
+ Árbitro: Julio Barraza
+ Asistente 1: Iván Aliende
+ Asistente 2: Mariano Altavista
+ Cuarto árbitro: Juan Cruz Robledo
 Interzonal
 Domingo 15 de abril
 Arsenal F.C - San Telmo, a las 15.00 horas
+ Árbitro: Lucas Comesaña
+ Asistente 1: Ernesto Callegari
+ Asistente 2: Mariana De Almeida
+ Cuarto árbitro: Damián Rubino
 Fecha 12
 Zona A
 Dep. Maipú (Mza.) - Güemes (S.E.)
@@ -1978,12 +2056,12 @@ Torneo Apertura
 Fecha 8
 Viernes 12 de abril
 Estrella de Berisso - S.A.T., a las 15.00 horas (TV)
-Dep. Camioneros - F.- Ezeiza, a las 15.30 horas
+Dep. Camioneros - F.C Ezeiza, a las 15.30 horas
 Sábado 13 de abril
 Juv. de Bernal - Dep. Metalúrgico, a las 15.30 horas en Berazategui (Auxiliar).
 Dep. Provincial (Lobos) - Def. de Glew, a las 15.30 horas
 Náutico Hacoaj - Everton (L.P.), a las 15.30 horas
-Estrella del Sur - Barrancas F.-, a las 15.30 horas
+Estrella del Sur - Barrancas F.C, a las 15.30 horas
 Domingo 14 de abril
 At. Pilar - Belgrano (Zarate), a las 15.30 horas
 Fecha 9
