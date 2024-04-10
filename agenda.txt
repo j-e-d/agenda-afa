@@ -567,8 +567,6 @@ Jueves 11 de abril
  San Lorenzo de A - Argentinos Juniors, a las 15.00 horas en San Lorenzo de A. (Aux. Cdad. Deportiva).
 G. y Esgrima (L.P.) - Banfield, a las 15.00 horas en G. y Esgrima (L.P.) (Aux. Estancia Chica).
 Zona B
-Miércoles 10 de abril
-Unión - Sarmiento, a las 17.00 horas en Unión (Principal).
 Jueves 11 de abril
  Def. y Justicia - Tigre, a las 15.00 horas en Def. y Justicia (Predio Campeones del Mundo).
 Godoy Cruz - Independiente, a las 15.00 horas en Godoy Cruz (Aux. Predio Coquimbito).
@@ -728,7 +726,7 @@ Güemes (S.E.) - G. y Esgrima (J.), a las 18.00 horas
  Árbitro: Gastón Monsón
  Asistente 1: Roque Narváez
  Asistente 2: Mariana Dure
- Cuarto árbitro: Sebastián Ranciglio
+ Cuarto árbitro: Álvaro Carranza
 San Martin (S.J.) - San Martin (T.), a las 18.50 horas (TV)
  Árbitro: Pablo Dóvalo
  Asistente 1: Manuel Sánchez
@@ -784,7 +782,7 @@ Def. de Belgrano - Dep. Madryn, a las 21.00 horas (TV)
  Asistente 2: Mariano Altavista
  Cuarto árbitro: Juan Cruz Robledo
 Interzonal
-Domingo 15 de abril
+Domingo 14 de abril
 Arsenal F.C - San Telmo, a las 15.00 horas
  Árbitro: Lucas Comesaña
  Asistente 1: Ernesto Callegari
@@ -1403,7 +1401,7 @@ UAI – Urquiza - Dep. Laferrere, a las 15.30 horas
  Árbitro: Gabriel Gutiérrez
  Asistente 1: Santiago Mitre
  Asistente 2: Juan Ricciardi
- Cuarto árbitro: Germán Bermúdez
+ Cuarto árbitro: Damián Rubino
  Sp. Dock Sud - Los Andes, a las 15.30 horas
  Árbitro: Marcos Recalde
  Asistente 1: Cristhian Colonesse
@@ -1444,7 +1442,7 @@ San Martin (B.) - Dep. Merlo, a las 18.30 horas
  Árbitro: Wenseslao Meneses
  Asistente 1: Martín Raffo
  Asistente 2: Daniela Sanda
- Cuarto árbitro: Damián Rubino
+ Cuarto árbitro: Germán Bermudez
 Fecha 13 
  Villa Dálmine - Liniers
  Comunicaciones - Arg. De Merlo
@@ -2254,12 +2252,6 @@ Colón - Los Andes
  Asistente 1: Juan Fel Fueyo 
 Asistente 2: Matías Coria 
  Cuarto árbitro: Gastón Iglesias
-Miércoles 10 de abril
-17.00 Barracas - San Miguel, en Temperley
- Árbitro: Andrés Gariano 
- Asistente 1: Andrés Barbieri 
- Asistente 2: Ramón Ortíz 
- Cuarto árbitro: Gabriel Gutiérrez
 Miércoles 17 de abril
 Tigre - Chacarita Juniors (Prosecución de 39 minutos en 2 tiempos de 19 y 20 minutos respectivamente)*
  Árbitro: Ariel Penel
