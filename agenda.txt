@@ -562,15 +562,12 @@ Martes 30 de abril
 Fecha 8 
 Zona A
 Miércoles 10 de abril
- Barracas Central - Independiente Riv. (Mza.), a las 15.00 horas en Predio A.E.F.I.P.
- Vélez Sarsfield - Dep. Riestra, a las 15.00 horas en Vélez Sarsfield (Aux. V. Olímpica).
  River Plate - Atl. Tucumán, a las 19.00 horas en River Plate (Aux. Ezeiza).
 Jueves 11 de abril
  San Lorenzo de A - Argentinos Juniors, a las 15.00 horas en San Lorenzo de A. (Aux. Cdad. Deportiva).
 G. y Esgrima (L.P.) - Banfield, a las 15.00 horas en G. y Esgrima (L.P.) (Aux. Estancia Chica).
 Zona B
 Miércoles 10 de abril
- Lanús - Estudiantes de L.P., a las 15.00 horas en Lanús (Aux. Estadio).
 Unión - Sarmiento, a las 17.00 horas en Unión (Principal).
 Jueves 11 de abril
  Def. y Justicia - Tigre, a las 15.00 horas en Def. y Justicia (Predio Campeones del Mundo).
@@ -1567,51 +1564,6 @@ Postergado
  Cuarto árbitro: Guido Mascheroni
 FECHA 12
 Miércoles 10-04
-El Porvenir - Mercedes, a las 15.30 horas
-Árbitro: Adrián Núñez
-Asistente 1: Gustavo Benítez
-Asistente 2: Julián Fabiani 
-Cuarto árbitro: Néstor Barrios 
-Luján - Ctral. Córdoba (Ros.), a las 15.30 horas
-Árbitro: Jesús Girett 
-Asistente 1: Alan Anria 
-Asistente 2: Ariel Ibáñez
-Cuarto árbitro: Tomás Aybar 
-Sp. Barracas - Puerto Nuevo, a las 15.30 horas en Dep. Morón
-Árbitro: Jonathan Barrios 
-Asistente 1: Rodrigo Mansilla 
-Asistente 2: Sofía Curto 
-Cuarto árbitro: Nicolás Jara 
-Berazategui - Lugano, a las 15.30 horas
-Árbitro: Martín Desposito 
-Asistente 1: Fabio Ventura 
-Asistente 2: Juan cingolani 
-Cuarto árbitro: Joaquín Rodríguez 
-Yupanqui - Juv. Unida, a las 15.30 horas 
-Árbitro: Julián Beligoy 
-Asistente 1: Jonathan Ghiso 
-Asistente 2: Brisa Fernández
-Cuarto árbitro: Alejandro Porticella 
-J.J. de Urquiza - Claypole, a las 15.30 horas
-Árbitro: Guido Mascheroni 
-Asistente 1: Juan Manuel Acevedo 
-Asistente 2: Ezequiel Rabasa
-Cuarto árbitro: Gonzalo Correa
-Dep. Paraguayo - Ctral. Ballester, a las 15.30 horas en Lugano
-Árbitro: Gonzalo Creimermann 
-Asistente 1: Federico Josa 
-Asistente 2: Jonathan Florentin 
-Cuarto árbitro: Nicolás Mastroieni 
-Def. de Cambaceres - Rec. Español, a las 15.30 horas
-Árbitro: Rodrigo Pafundi 
-Asistente 1: Leandro Britez
-Asistente 2: Oscar Maidana 
-Cuarto árbitro: Axel Pogge
-Atlas - Dep. Español, a las 15.30 horas
-Árbitro: Rodrigo Villalba 
-Asistente 1: Hernán Antola 
-Asistente 2: Cristian Rodríguez 
-Cuarto árbitro: Martín Morenza 
 Ituzaingó - Muñiz, a las 19.30 horas
 Árbitro: Ignacio Cuicchi 
 Asistente 1: Federico Bozzo 
@@ -2724,6 +2676,7 @@ CONMEBOL Sudamericana 2024
 La CONMEBOL Sudamericana cuenta con 32 equipos participantes, que se dividen en 8 grupos de 4 clubes, de los cuales, los ganadores de cada grupo avanzaran directamente a la instancia de Octavos de Final. Los equipos argentinos clasificados para la Fase de Grupos son Boca Juniors, Racing Club, Defensa y Justicia, Lanús, Belgrano de Córdoba y Argentinos Juniors. 
 Los segundos de cada grupo, disputarán un Play Off en el que se enfrentarán al tercer clasificado de los grupos de CONMEBOL Libertadores, para definir quien estará en Octavos de la CONMEBOL Sudamericana.
 Los enfrentamientos se darán a principios de abril y los premios han aumentado para esta edición. En esta fase todos los equipos se embolsarán unos USD 900.000 por sus compromisos en condición de local. Y un extra de USD 110.000 para los ganadores de los cruces.
+La final se disputará en Asunción, Paraguay.
 Fecha 2
 Miércoles 10 de abril
 19.00 Defensa y Justicia - Always Ready 
