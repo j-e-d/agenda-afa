@@ -21,7 +21,7 @@ Huracán - Atl. Tucumán, a las 19.00 horas
  VAR: Germán Delfino
  AVAR: Salomé Di Iorio
 Domingo 14 de abril
-G. y Esgrima (L.P.) - Banfield, a las 21.00 horas
+G. y Esgrima (L.P.) - Banfield, a las 18.15 horas
  Árbitro: Sebastián Zunino
  Árbitro asistente 1: Javier Uziga
  Árbitro asistente 2: Lucas Ripoli
@@ -75,14 +75,14 @@ Tigre - Unión, a las 17.00 horas
  VAR: Fernando Espinoza
  AVAR: Nelson Sosa
 Domingo 14 de abril
-Sarmiento- Platense, a las 17.00 horas
+Sarmiento- Platense, a las 16.00 horas
  Árbitro: Fabrizio Llobet
  Árbitro asistente 1: Diego Martín 
  Árbitro asistente 2: Daniel Zamora
  Cuarto árbitro: Franco Morón
  VAR: Nicolás Lamolina
  AVAR: Diego Verlotta
-Ctral. Córdoba (S.E.) - San Lorenzo de A., a las 19.00 horas en estadio Madre de Ciudades
+Ctral. Córdoba (S.E.) - San Lorenzo de A., a las 20.00 horas en estadio Madre de Ciudades
  Árbitro: Luis Lobo Medina
  Árbitro asistente 1: Eduardo Lucero
  Árbitro asistente 2: Federico Cano
@@ -559,10 +559,6 @@ Fecha 4
 Martes 30 de abril
 15.00 Instituto – Rosario Central 
  15.00 Huracán – Boca 
-Fecha 8 
-Zona B
-Jueves 11 de abril
-Ctral. Córdoba (S.E.) - Boca Juniors, a las 19.00 horas en Ctral. Córdoba (S.E.) (Principal)
 Fecha 9 – Semana 17/04
 Zona A
 Martes 16 de abril
@@ -1552,13 +1548,6 @@ Postergado
  Asistente 1: Matías Pino
  Asistente 2: Lucas Monsalvo
  Cuarto árbitro: Guido Mascheroni
-FECHA 12
-Jueves 11-04
-Real Pilar F.C. - L.N. Alem, a las 19.00 horas en estadio Municipal de Pilar
-Árbitro: Valentín Bocaccia 
-Asistente 1: Diego Fernández
-Asistente 2: Mario Vargas 
-Cuarto árbitro: Agustín Flores
 Fecha 13
 Libre: Atlas 
 Sábado 13 de abril
@@ -2694,13 +2683,6 @@ Los enfrentamientos se darán a principios de abril y los premios han aumentado 
 La final se disputará en Asunción, Paraguay.
 Fecha 2
 Jueves 11 de abril
-19.00 Lanús - Deportivo Garcilaso
- Árbitro: José Méndez
- Asistente 1: Eduardo Cardoso
- Asistente 2: Roberto Cañete
- Cuarto árbitro: Santiago Bismark
- VAR: Juan Lopez
- AVAR: Luis Onieva
 23.00 Delfín - Belgrano 
  Árbitro: Giancarlo Juliadoza
  Asistente 1: Milciades Saldivar
@@ -2708,15 +2690,6 @@ Jueves 11 de abril
  Cuarto árbitro: Blas Romero
  VAR: Fernando Vejar
  AVAR: Edson Cisternas
-Jueces argentinos
-Miércoles 10 de abril
- 20.00 Unión La Calera (Chi) - Universidad Católica (Ecu)
- Árbitro: Darío Herrera
- Asistente 1: Pablo González 
- Asistente 2: Pablo Acevedo
- Cuarto Árbitro: Laura Fortunato
- VAR: Mauro Vigliano
- AVAR: Salomé Di Iorio
 Fecha 3
 Martes 23 de abril
 21.30 Argentinos Juniors - Corinthians
