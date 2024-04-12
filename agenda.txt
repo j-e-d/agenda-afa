@@ -1553,7 +1553,7 @@ Libre: Atlas
 Sábado 13 de abril
 Mercedes - Ituzaingó, a las 19.00 horas
  Árbitro: Nicolás Mastroieni
- Asistente 1: Leandro Franchi
+ Asistente 1: Jonathan Ghiso
  Asistente 2: Federico Lapalma
  Cuarto árbitro: Agustín Flores
 Domingo 14 de abril
@@ -1589,8 +1589,8 @@ Lugano - Sp. Barracas, a las 15.30 horas
  Cuarto árbitro: Iván Castelu Coca
 Puerto Nuevo - Luján, a las 15.30 horas
  Árbitro: Rodrigo Pafundi
- Asistente 1: Juan Etchepare
- Asistente 2: Alan Colman
+ Asistente 1: Ramiro Ortiz Biondi 
+ Asistente 2: Juan Etchepare
  Cuarto árbitro: Eduardo Coyto
 Ctral. Córdoba (Ros.) - El Porvenir, a las 15.30 horas
  Árbitro: Guido Mascheroni
@@ -1608,7 +1608,8 @@ Claypole - Yupanqui, a las 15.30 horas en Brown (Adrogué)
  Árbitro: Valentín Bocaccia
  Asistente 1: Ariel López
  Asistente 2: Facundo Maldonado
- Cuarto árbitro: Antonella Álvarez
+ Cuarto árbitro: Juan Pablo Pereyra
+Miércoles 17 de abril
 Rec. Español - Argentino (Ros.), a las 15.30 horas en Dep. Merlo
  Árbitro: Julián Beligoy
  Asistente 1: Federico Josa
@@ -2136,17 +2137,6 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 8
-Viernes 12 de abril
-Estrella de Berisso - S.A.T., a las 15.00 horas (TV)
- Árbitro: Gonzalo Correa
- Asistente 1: Jonathan Florentín
- Asistente 2: Alexis Escobar
- Cuarto árbitro: Agustín Flores
-Dep. Camioneros - F.C Ezeiza, a las 15.30 horas
- Árbitro: Martín Morenza
- Asistente 1: Santiago Escudero
- Asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Axel Pogge
 Sábado 13 de abril
 Juv. de Bernal - Dep. Metalúrgico, a las 15.30 horas en Berazategui (Auxiliar).
  Árbitro: David Cornejo
@@ -2473,12 +2463,6 @@ River - Ferro, en River Camp
  Asistente 2: Selene Coria Ávalos
  Cuarta árbitra: Camila Gette
 Fecha 5
-Viernes 12 de abril
- 15.00 Platense - Estudiantes, en Predio Galván
- Árbitra: Antonella Álvarez de Olivera
- Asistente 1: Esperanza Sánchez
- Asistente 2: Analía Fernández
- Cuarta árbitra: Guadalupe Ortiz
 Sábado 13 de abril
  15.00 Newell's - Racing, en Estadio
  15.30 San Luis - Boca, en Estadio
