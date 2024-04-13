@@ -56,14 +56,6 @@ Rosario Central - Dep. Riestra, a las 19.30 horas
  VAR: Emanuel Ejarque
  AVAR: Iván Núñez
 Zona “B”
-Sábado 13 de abril
-Tigre - Unión, a las 17.00 horas
- Árbitro: Franco Acita
- Árbitro asistente 1: Maximiliano Del Yesso
- Árbitro asistente 2: Gisella Trucco
- Cuarto árbitro: Gastón Iglesias
- VAR: Fernando Espinoza
- AVAR: Nelson Sosa
 Domingo 14 de abril
 Sarmiento- Platense, a las 16.00 horas
  Árbitro: Fabrizio Llobet
@@ -664,11 +656,6 @@ Alte. Brown - Estudiantes (Río Cuarto), a las 16.40 horas (TV)
 Fecha 11 
 Zona A
 Sábado 13 de abril
-Agropecuario Arg - Estudiantes, a las 17.05 horas (TV)
- Árbitro: Yamil Possi
- Asistente 1: José Castelli
- Asistente 2: Uriel García Leri
- Cuarto árbitro: Jonathan Barrios
 Alvarado (M.D.P.) - Dep. Maipú (Mza.), a las 19.00 horas en estadio José M. Minella
  Árbitro: Nahuel Viñas
  Asistente 1: Ramiro Cabrera
@@ -712,11 +699,6 @@ San Martin (S.J.) - San Martin (T.), a las 18.50 horas (TV)
  Cuarto árbitro: Gabriel Araujo
 Zona B
 Sábado 13 de abril
-Chaco For Ever - At. de Rafaela, a las 17.00 horas
- Árbitro: Lucas Cavallero
- Asistente 1: Pascual Fernández
- Asistente 2: Martín Saccone
- Cuarto árbitro: Mariano Agli
 Dep. Morón - Colón, a las 21.10 horas (TV)
  Árbitro: Juan Pafundi
  Asistente 1: Lucas Pardo
@@ -1338,12 +1320,6 @@ Primera B
 Fecha 9 
 Postergado: Arg. De Quilmes - Comunicaciones
 Fecha 12 
-Sábado 13 de abril
-Acassuso - Sacachispas F.C, a las 15.30 horas en Dep. Armenio 
- Árbitro: Nicolás Kresta
- Asistente 1: Federico Zuvilivia
- Asistente 2: Giuliano Grillo
- Cuarto árbitro: Jesús Girett
 Domingo 14 de abril
 Sp. Italiano - Arg. de Quilmes, a las 15.30 horas
  Árbitro: Ignacio Lupani
@@ -2072,27 +2048,6 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 8
-Sábado 13 de abril
-Juv. de Bernal - Dep. Metalúrgico, a las 15.30 horas en Berazategui (Auxiliar).
- Árbitro: David Cornejo
- Asistente 1: Oscar Maidana
- Asistente 2: Bryan Malpartida
- Cuarto árbitro: Antonella Álvarez
-Dep. Provincial (Lobos) - Def. de Glew, a las 15.30 horas
- Árbitro: Joaquín Rodríguez
- Asistente 1: Jesús Rovaglio
- Asistente 2: Franco Boveri
- Cuarto árbitro: Matías Ansede
-Náutico Hacoaj - Everton (L.P.), a las 15.30 horas
- Árbitro: Tomás Aybar
- Asistente 1: Ariel Ibáñez
- Asistente 2: Julián Fabiani
- Cuarto árbitro: Iván Castelu Coca
-Estrella del Sur - Barrancas F.C, a las 15.30 horas
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Cristian Rodríguez
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Micaela Abelardo
 Domingo 14 de abril
 At. Pilar - Belgrano (Zarate), a las 15.30 horas
  Árbitro: Mateo Bocaccia
@@ -2167,12 +2122,7 @@ Jueves 18 de abril
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2024, si alguno de los encuentros señalados precedentementeresultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A
 FECHA 4
-Sábado 13 de abril
-16.00 Juventud Universitario - Ferro (General Pico)
- Árbitro: Luciano Julio
- Asistente 1: Luis Ortiz
- Asistente 2: Jorge Sayago
- Cuarto árbitro: Williams Abdala
+Sábado 13 de abri
 19.00 Santamarina - Kimberley
  Árbitro: Sergio Testa
  Asistente 1: Karim Doussouk
