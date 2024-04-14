@@ -1448,21 +1448,11 @@ Dep. Español - Def. de Cambaceres, a las 15.30 horas
  Asistente 1: Leandro Carril
  Asistente 2: Diego Ortiz
  Cuarto árbitro: Jesús Girett
-Victoriano Arenas - Real Pilar F.C, a las 15.30 horas
- Árbitro: Maximiliano López Monti
- Asistente 1: Enrique Lanz
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: Axel Pogge
 L.N. Alem - Dep. Paraguayo, a las 15.30 horas
  Árbitro: Nicolás Jara
  Asistente 1: Matías Pino
  Asistente 2: Heber Ibáñez Meza
  Cuarto árbitro: Martín Despósito
-Ctral. Ballester - J.J. de Urquiza, a las 15.30 horas
- Árbitro: Néstor Barrios
- Asistente 1: Federico García
- Asistente 2: G. Cubillas Patap
- Cuarto árbitro: Martín Morenza
 Juv. Unida - Berazategui, a las 15.30 horas
  Árbitro: Ignacio Cuicchi
  Asistente 1: Pablo Pastor
@@ -1473,11 +1463,6 @@ Lugano - Sp. Barracas, a las 15.30 horas
  Asistente 1: Matías Panozzo
  Asistente 2: Alexis Ramírez
  Cuarto árbitro: Iván Castelu Coca
-Puerto Nuevo - Luján, a las 15.30 horas
- Árbitro: Rodrigo Pafundi
- Asistente 1: Ramiro Ortiz Biondi 
- Asistente 2: Juan Etchepare
- Cuarto árbitro: Eduardo Coyto
 Ctral. Córdoba (Ros.) - El Porvenir, a las 15.30 horas
  Árbitro: Guido Mascheroni
  Asistente 1: Leonardo Aprea
@@ -1495,6 +1480,21 @@ Claypole - Yupanqui, a las 15.30 horas en Brown (Adrogué)
  Asistente 1: Ariel López
  Asistente 2: Facundo Maldonado
  Cuarto árbitro: Juan Pablo Pereyra
+ Victoriano Arenas - Real Pilar F.C, a las 15.30 horas
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Enrique Lanz
+ Asistente 2: Felipe Onufrik
+ Cuarto árbitro: Axel Pogge
+ Puerto Nuevo - Luján, a las 15.30 horas
+ Árbitro: Rodrigo Pafundi
+ Asistente 1: Ramiro Ortiz Biondi 
+ Asistente 2: Juan Etchepare
+ Cuarto árbitro: Eduardo Coyto
+Ctral. Ballester - J.J. de Urquiza, a las 15.30 horas
+ Árbitro: Néstor Barrios
+ Asistente 1: Federico García
+ Asistente 2: G. Cubillas Patap
+ Cuarto árbitro: Martín Morenza
 Miércoles 17 de abril
 Rec. Español - Argentino (Ros.), a las 15.30 horas en Dep. Merlo
  Árbitro: Julián Beligoy
