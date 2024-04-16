@@ -481,28 +481,65 @@ Martes 30 de abril
 15.00 Instituto – Rosario Central 
  15.00 Huracán – Boca 
 Fecha 9 – Semana 17/04
-Zona A
-Martes 16 de abril
- Rosario Central - Barracas Central, a las 15.00 horas en Rosario Central (Aux. Arroyo Seco)
- Dep. Riestra . Racing Club, a las 15.00 horas en Predio La Candela
- Atl. Tucumán - Independiente Riv. (Mza.), a las 15.00 horas en Atl. Tucumán (Auxiliar)
 Miércoles 17 de abril
- Banfield - Vélez Sarsfield, a las 15.00 horas en Banfield (Aux. L. Guillón)
- Belgrano (Cba.) - G. y Esgrima (L.P.), a las 15.00 horas en Belgrano (Cba.) (Aux. V. Esquiu)
+ 15:00 Rosario Central – Barracas Central – Granadero Baigorria-
+ Árbitro: Joaquín Rodríguez
+ Árbitro asistente 1: Roberto Rodríguez
+ Árbitro asistente 2: Andrés Belén 
+15:00 Banfield – Vélez – Estadio Florencio Sola –
+ Árbitro: Martín Morenza
+ Árbitro asistente 1: Lucas Vazquez
+ Árbitro asistente 2: Lucas García
+ Cuarto árbitro: Gabriela Coronel
+15:00 Huracán – Godoy Cruz – La Quemita –
+ Árbitro: Gabriel Flores
+ Árbitro asistente 1: Luciano Cabral
+ Árbitro asistente 2: Tomás Otero
+ Cuarto árbitro: Ulises López
+15:00 Belgrano – Gimnasia – Predio Armando Pérez –
+ Árbitro: Matías Ansede
+ Árbitro asistente 1: Damián Alcaraz
+ Árbitro asistente 2: Brisa Fernández
+ Cuarto árbitro: Iñaki Iparraguirre
+19:00 Boca – Platense – Boca Predio –
+ Árbitro: Agustín Flores
+ Árbitro asistente 1: Hernán Antola
+ Árbitro asistente 2: Mariela Martino
+ Cuarto árbitro: Eduardo Coyto
 Jueves 18 de abril
- Argentinos Juniors - River Plate, a las 15.00 horas en Argentinos Juniors (Auxiliar)
- Instituto A.C.C. - San Lorenzo de A., a las 15.00 horas en Polidep. La Agustina
-Zona B
-Martes 16 de abril
- Sarmiento - Newell´s Old Boys, a las 15.00 horas en Sarmiento (Aux. Ctro. A. Rendimiento)
-Miércoles 17 de abril
- Tigre - Lanús, a las 15.00 horas en Tigre (Auxiliar)
- Huracán - Godoy Cruz, a las 15.00 horas en Huracán (Auxiliar)
- Boca Juniors - Platense, a las 19.00 horas en Boca Juniors (Aux. Ezeiza)
-Jueves 18 de abril
- Estudiantes de L.P. - Talleres (Cba.), a las 15.00 horas en Estudiantes de L.P. (Aux. Country)
- Unión - Ctral. Córdoba (S.E.), a las 15.00 horas en Unión (Aux. Tatenguita)
- Independiente - Def. y Justicia, a las 19.00 horas en Independiente (Principal)
+ 15:00 Tigre – Lanús – Nito San Andrés –
+ Árbitro: Axel Fernández
+ Árbitro asistente 1: Ezequiel Rabasa
+ Árbitro asistente 2: Pablo Ezequiel Pastor
+ Cuarto árbitro: Elías Viglione
+15:00 Sarmiento – Newell’s – Estadio Eva Perón –
+ Árbitro: Martín D´Espósito
+ Árbitro asistente 1: Nahuel Martin
+ Árbitro asistente 2: Esperanza Sánchez
+15:00 Argentinos – River – CEFFA –
+ Árbitro: Axel Pogge
+ Árbitro asistente 1: Alan Anria
+ Árbitro asistente 2: Rodolfo Rodríguez
+ Cuarto árbitro: Iván Castelu Coca
+15:00 Instituto – San Lorenzo – La Agustina –
+ Árbitro: Iñaki Iparraguirre
+ Árbitro asistente 1: Gianfranco Folino
+ Árbitro asistente 2: Matías Vargas
+ Cuarto árbitro: Matías Ansede
+15:00 Estudiantes – Talleres – City Bell
+ Árbitro: Valentín Bocaccia
+ Árbitro asistente 1: Diego Fernández
+ Árbitro asistente 2: Sofía Curto
+ Cuarto árbitro: Facundo Carretero
+15:00 Unión – Central Córdoba – La Tatenguita –
+ Árbitro: Cristian Oubel
+ Árbitro asistente 1: Joaquín Fraga
+ Árbitro asistente 2: Berenice Avaro
+19:00 Independiente – Defensa y Justicia – Libertadores de América –
+ Árbitro: Mateo Bocaccia
+ Árbitro asistente 1: Rodrigo Mansilla
+ Árbitro asistente 2: Mara Díaz
+ Cuarto árbitro: Estela Alvarez
 Fecha 10 – Semana 24/04
 Zona A
 Barracas – Atlético Tucumán
@@ -1330,7 +1367,7 @@ Ctral. Ballester - J.J. de Urquiza, a las 15.30 horas
  Árbitro: Néstor Barrios
  Asistente 1: Federico García
  Asistente 2: G. Cubillas Patap
- Cuarto árbitro: Martín Morenza
+ Cuarto árbitro: David Cornejo 
 Rec. Español - Argentino (Ros.), a las 15.30 horas en Dep. Merlo
  Árbitro: Julián Beligoy
  Asistente 1: Federico Josa
@@ -1340,7 +1377,7 @@ Muñiz - Gral. Lamadrid, a las 15.30 horas en Atlas
  Árbitro: Rodrigo Villalba
  Asistente 1: Sebastián Pumetti
  Asistente 2: Federico Machuca
- Cuarto árbitro: Adrián Núñez Rodríguez
+ Cuarto árbitro: Gonzalo Correa
  Claypole - Yupanqui, a las 15.30 horas en Brown (Adrogué)
  Árbitro: Valentín Bocaccia
  Asistente 1: Ariel López
@@ -2201,6 +2238,12 @@ Fecha 17
  San Luis F.C. - Platense
 ​​​​​​
 Torneo Femenino de Primera B
+Fecha 1 - Grupo A
+ Jueves 18 de abril
+ 15.30 El Porvenir - Vélez, en Estadio Gildo Ghersinich
+ Árbitra: Estela Álvarez de Olivera
+ Asistente 1: Julieta Fernández
+ Asistente 2: Ludmila Capelli Caligiuri
 Torneo Femenino de Primera C
 Copa Federal de Fútbol Femenino
 CONMEBOL Libertadores 2024 
