@@ -20,31 +20,8 @@ Zona B
  Estudiantes
  Defensa y Justicia
  Boca
-River - Boca
- Árbitro: Yael Falcón Pérez
- Asistente 1: Juan Pablo Belatti
- Asistente 2: Miguel Savorani
- Cuarto árbitro: Pablo Echavarría
- Quinto árbitro: Cristian Navarro
- VAR: Jorge Baliño
- AVAR: Lucas Novelli
-Estudiantes - Barracas Central
- Árbitro: Darío Herrera
- Asistente 1: Pablo Acevedo
- Asistente 2: Adrián Delbarba
- Cuarto árbitro: Carlos Córdoba
- Quinto árbitro: Mariana de Almeida
- VAR: Silvio Trucco
- AVAR: Pablo González
-Godoy Cruz - Vélez 
- Árbitro: Sebastián Zunino
- Asistente 1: Facundo Rodríguez
- Asistente 2: Walter Ferreyra
- Cuarto árbitro: Ariel Penel
- Quinto árbitro: Lucas Pardo
- VAR: Pablo Dóvalo
- AVAR: Salome Di Iorio
-Argentinos Jrs - Defensa y Justicia
+Sábado 20 de abril
+ 15.30 Argentinos Juniors - Defensa y Justicia (Estadio Florencio Sola, de Banfield, Buenos Aires)
  Árbitro: Andrés Merlos
  Asistente 1: Diego Bonfa
  Asistente 2: José Castelli
@@ -52,6 +29,31 @@ Argentinos Jrs - Defensa y Justicia
  Quinto árbitro: Marcos Horticolou
  VAR: Fernando Espinoza
  AVAR: Diego Verlotta
+ 18.30 Estudiantes - Barracas Central (Estadio Ciudad de Vicente López, de Platense, Buenos Aires)
+ Árbitro: Darío Herrera
+ Asistente 1: Pablo Acevedo
+ Asistente 2: Adrián Delbarba
+ Cuarto árbitro: Carlos Córdoba
+ Quinto árbitro: Mariana De Almeida
+ VAR: Silvio Trucco
+ AVAR: Pablo González
+ 21.15 Godoy Cruz - Vélez (Estadio Único de Villa Mercedes, La Pedrera, San Luis)
+ Árbitro: Sebastián Zunino
+ Asistente 1: Facundo Rodríguez
+ Asistente 2: Walter Ferreyra
+ Cuarto árbitro: Ariel Penel
+ Quinto árbitro: Lucas Pardo
+ VAR: Pablo Dovalo
+ AVAR: Salomé Di Iorio
+Domingo 21 de abril
+ 15.30 River - Boca (Estadio Mario Alberto Kempes, Córdoba)
+ Árbitro: Yael Falcon Pérez
+ Asistente 1: Juan Pablo Belatti
+ Asistente 2: Miguel Savorani
+ Cuarto árbitro: Pablo Echavarría
+ Quinto árbitro: Cristian Navarro
+ VAR: Jorge Baliño
+ AVAR: Lucas Novelli
 Torneo Sur Finanzas 2024
 Fecha 1
  Semana 12/05
@@ -649,7 +651,7 @@ Talleres (R.E.) - Tristán Suarez, a las 15.30 horas
  Asistente 2: Giuliano Grillo
  Cuarto árbitro: Lucas Brumer
 Domingo 21 de abril
- San Miguel - Racing (Cba.), a las 11.00 horas
+ San Miguel - Racing (Cba.), a las 13.00 horas
  Árbitro: Felipe Viola
  Asistente 1: Marcelo Errante
  Asistente 2: Hernán Antola
@@ -683,6 +685,11 @@ Martes 23 de abril
  Cuarto árbitro: Damián Rubino
 Zona B
 Sábado 20 de abril
+ Dep. Madryn - Chaco For Ever, a las 13.00 horas
+ Árbitro: Adrián Franklin
+ Asistente 1: Mariano Ascenzi
+ Asistente 2: Federico Cuello
+ Cuarto árbitro: Federico Guaymas
  Atlanta - Almagro, a las 13.35 horas (TV)
  Árbitro: Lucas Cavallero
  Asistente 1: Nahuel Rasullo
@@ -709,21 +716,16 @@ Aldosivi (M.D.P.) - Nva. Chicago, a las 16.00 horas en estadio José M. Minella
  Asistente 1: Manuel Sanchez
  Asistente 2: Joaquín Badano
  Cuarto árbitro: Sergio Testa
-Dep. Madryn - Chaco For Ever, a las 16.00 horas
- Árbitro: Adrián Franklin
- Asistente 1: Mariano Ascenzi
- Asistente 2: Federico Cuello
- Cuarto árbitro: Federico Guaymas
-At. de Rafaela - San Telmo, a las 17.00 horas
- Árbitro: Fabrizio Llobet
- Asistente 1: Hernán Vallejos
- Asistente 2: Malvina Schiel
- Cuarto árbitro: Carlos Córdoba
 Estudiantes (Río IV) - Dep. Morón, a las 18.00 horas
  Árbitro: Maximiliano Macheroni
  Asistente 1: Guido Córdoba
  Asistente 2: Darío Rojas
  Cuarto árbitro: Gabriel Araujo
+At. de Rafaela - San Telmo, a las 18.30 horas
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Hernán Vallejos
+ Asistente 2: Malvina Schiel
+ Cuarto árbitro: Carlos Córdoba
 Lunes 22 de abril
  Alte. Brown - Brown (Adrogué), a las 15.00 horas (TV)
  Árbitro: Nelson Sosa
@@ -2281,12 +2283,6 @@ River - Ferro, en River Camp
 Fecha 5
 Postergado: River - San Lorenzo
 Fecha 6 
-Jueves 18 de abril
- 17.00 Banfield - Excursionistas, en Estadio Florencio Solá
- Árbitra: Antonella Álvarez de Olivera
- Asistente 1: Gisela Trucco
- Asistente 2: Tomás Otero
- Cuarta árbitra: Salomé Di Iorio
 Viernes 19 de abril
  15.00 San Lorenzo - UAI Urquiza, en Predio
 Sábado 20 de abril
@@ -2296,6 +2292,7 @@ Sábado 20 de abril
  15.00 Rosario Central - Independiente, en Estadio Gigante de Arroyito
 Domingo 21 de abril
  11.00 Racing - SAT, en Predio Tita Mattiussi (TV)
+15.00 Banfield - Excursionistas, en Estadio Florencio Solá
 Lunes 22 de abril
  09.00 Estudiantes - San Luis, en Predio de Martín Coronado
 Postergado: Belgrano - River
