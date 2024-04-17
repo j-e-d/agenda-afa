@@ -495,27 +495,8 @@ Martes 30 de abril
  15.00 Huracán – Boca 
 Fecha 9 – Semana 17/04
 Miércoles 17 de abril
- 15:00 Rosario Central – Barracas Central – Granadero Baigorria-
- Árbitro: Joaquín Rodríguez
- Árbitro asistente 1: Roberto Rodríguez
- Árbitro asistente 2: Andrés Belén 
-15:00 Banfield – Vélez – Estadio Florencio Sola –
- Árbitro: Martín Morenza
- Árbitro asistente 1: Lucas Vazquez
- Árbitro asistente 2: Lucas García
- Cuarto árbitro: Gabriela Coronel
-15:00 Huracán – Godoy Cruz – La Quemita –
- Árbitro: Gabriel Flores
- Árbitro asistente 1: Luciano Cabral
- Árbitro asistente 2: Tomás Otero
- Cuarto árbitro: Ulises López
-15:00 Belgrano – Gimnasia – Predio Armando Pérez –
- Árbitro: Matías Ansede
- Árbitro asistente 1: Damián Alcaraz
- Árbitro asistente 2: Brisa Fernández
- Cuarto árbitro: Iñaki Iparraguirre
 19:00 Boca – Platense – Boca Predio –
- Árbitro: Agustín Flores
+Árbitro: Agustín Flores
  Árbitro asistente 1: Hernán Antola
  Árbitro asistente 2: Mariela Martino
  Cuarto árbitro: Eduardo Coyto
@@ -744,7 +725,7 @@ Estudiantes (Río IV) - Dep. Morón, a las 18.00 horas
  Asistente 2: Darío Rojas
  Cuarto árbitro: Gabriel Araujo
 Lunes 22 de abril
- Alte. Brown - Brown (Adrogué), a las 15.30 horas (TV)
+ Alte. Brown - Brown (Adrogué), a las 15.00 horas (TV)
  Árbitro: Nelson Sosa
  Asistente 1: Ramón Ortiz
  Asistente 2: Nicolás Bravo
@@ -1495,40 +1476,6 @@ Postergado
  Asistente 1: Matías Pino
  Asistente 2: Lucas Monsalvo
  Cuarto árbitro: Guido Mascheroni
-Fecha 13
-Libre: Atlas 
-Miércoles 17 de abril
-Victoriano Arenas - Real Pilar F.C, a las 15.30 horas
- Árbitro: Maximiliano López Monti
- Asistente 1:
-Gustavo Benítez Soilan
- Asistente 2: Enrique Lanz
- Cuarto árbitro: Axel Pogge
- Puerto Nuevo - Luján, a las 15.30 horas
- Árbitro: Rodrigo Pafundi
- Asistente 1: Ramiro Ortiz Biondi 
- Asistente 2: Juan Etchepare
- Cuarto árbitro: Eduardo Coyto
-Ctral. Ballester - J.J. de Urquiza, a las 15.30 horas
- Árbitro: Néstor Barrios
- Asistente 1: Federico García
- Asistente 2: G. Cubillas Patap
- Cuarto árbitro: David Cornejo 
-Rec. Español - Argentino (Ros.), a las 15.30 horas en Dep. Merlo
- Árbitro: Julián Beligoy
- Asistente 1: Federico Josa
- Asistente 2: Santiago Gancedo
- Cuarto árbitro: Gonzalo Creimermann
-Muñiz - Gral. Lamadrid, a las 15.30 horas en Atlas
- Árbitro: Rodrigo Villalba
- Asistente 1: Sebastián Pumetti
- Asistente 2: Federico Machuca
- Cuarto árbitro: Gonzalo Correa
- Claypole - Yupanqui, a las 15.30 horas en Brown (Adrogué)
- Árbitro: Valentín Bocaccia
- Asistente 1: Ariel López
- Asistente 2: Facundo Maldonado
- Cuarto árbitro: Juan Pablo Pereyra
 Fecha 14 
 Sábado 20 de abril
  Yupanqui - Ctral. Ballester, a las 15.30 horas
@@ -2180,11 +2127,6 @@ Colón - Los Andes
 Asistente 2: Matías Coria 
  Cuarto árbitro: Gastón Iglesias
 Miércoles 17 de abril
-15.40 Tigre - Chacarita Juniors, en Arsenal (TV) (Prosecución de 39 minutos en 2 tiempos de 19 y 20 minutos respectivamente)
- Árbitro: Ariel Penel
- Asistente 1: Ezequiel Brailovsky
- Asistente 2: Maximiliano Castelli
- Cuarto árbitro: Juan Pablo Loustau
 21.15 Unión - G. y Esgrima (Mza.) , en Sarmiento (TV)
  Árbitro: Pablo Echavarría
  Asistente 1: José Castelli
@@ -2341,6 +2283,10 @@ Postergado: River - San Lorenzo
 Fecha 6 
 Jueves 18 de abril
  17.00 Banfield - Excursionistas, en Estadio Florencio Solá
+ Árbitra: Antonella Álvarez de Olivera
+ Asistente 1: Gisela Trucco
+ Asistente 2: Tomás Otero
+ Cuarta árbitra: Salomé Di Iorio
 Viernes 19 de abril
  15.00 San Lorenzo - UAI Urquiza, en Predio
 Sábado 20 de abril
