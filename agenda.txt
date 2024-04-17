@@ -628,9 +628,6 @@ Godoy Cruz – Sarmiento
  Estudiantes – Huracán
  Tigre – Independiente
 Primera Nacional
-4ª. fecha:
-Miércoles 17 de abril
-Alte. Brown - Estudiantes (Río Cuarto), a las 16.40 horas (TV)
 Fecha 12
 Zona A
 Viernes 19 de abril
@@ -2142,13 +2139,101 @@ Jueves 18 de abril
  Cuarto árbitro: César Ceballo
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2024, si alguno de los encuentros señalados precedentementeresultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A
-Zona 1
 Fecha 5
- Sol de Mayo - Germinal
- Kimberley - Villa Mitre
- Olimpo - Santamarina
- Cipolletti - Círculo Deportivo
- Sansinena - Deportivo Rincón
+Sábado 20 de abril
+16:00 FFCC Oeste G.P - Gutierrez SC
+ Árbitro: Joaquín Gil
+ Asistente 1: Carlos Javier Viglietti
+ Asistente 2: Federico Hernán Ojeda
+ Cuarto árbitro: Juan Ignacio Flores Roig
+16:00 Boca Unidos - Sol de América
+ Árbitro: Marcos Ignacio Liuzzi
+ Asistente 1: Martín Daniel Nardelli
+ Asistente 2: Leonel Suárez
+ Cuarto árbitro: Brisa María Zapata
+Domingo 21 de abril
+11:00 Kimberley - Villa Mitre
+ Árbitro: César Antonio Ceballos
+ Asistente 1: Emanuel José Serale
+ Asistente 2: Marcos David Guzmán
+ Cuarto árbitro: Patricio Jesús Destefano
+11:00 Sol de Mayo - Germinal
+ Árbitro: Fernando Omar Marcos
+ Asistente 1: Leopoldo Gorosito
+ Asistente 2: Cristian Ramonda
+ Cuarto árbitro: Anahí Gabriela Soto
+11:00 Cipolletti - Círculo Deportivo
+ Árbitro: Juan Ignacio Nebbietti
+ Asistente 1: Emiliano Nicolás Bustos
+ Asistente 2: Agustín Lamberti
+Cuarto árbitro: Facundo Héctor Alvez
+11:30 Douglas Haig - Independiente (Chi)
+ Árbitro: José Darío Sandoval
+ Asistente 1: Rodrigo Lezcano Garcilano
+ Asistente 2: Gonzalo Aníbal Roldán
+ Cuarto árbitro: Lautaro Castañola
+11:30 Huracán L. Heras - Camioneros Luján
+ Árbitro: Pablo Federico Núñez
+ Asistente 1: Marcelo Gabriel González
+ Asistente 2: Matías Edgardo Noguera
+ Cuarto árbitro: Leandro Federico Hartfield
+15:30 Olimpo - Santamarina
+ Árbitro: Nahuel Maximiliano Viñas
+ Asistente 1: Hugo Fleitas
+ Asistente 2: Cristian Herrera
+ Cuarto árbitro: Bruno Pezzotta
+16:00 Atenas RC - Atlético C. San Martín
+ Árbitro: Guillermo Adrián González
+ Asistente 1: Fernando Abel Brillada
+ Asistente 2: María Soledad Ríos
+ Cuarto árbitro: Jonatan Daniel Mapelli
+16:00 Def. Belgrano (V.R.) - El Linqueño
+ Árbitro: Fernando Jesús Rekers
+ Asistente 1: Christian Arregues
+ Asistente 2: Matías Javier González
+ Cuarto árbitro: Agustín Vegetti
+16:00 Estudiantes S. Luis - Argentino P
+ Árbitro: Nelson Matías Bejas
+ Asistente 1: Romina Leila Argañaraz
+ Asistente 2: Adriel Uvab Araya
+ Cuarto árbitro: Rodrigo Ballestero
+16:00 Sansinena - Deportivo Rincón
+ Árbitro: Diego Saúl Novelli
+ Asistente 1: Lautaro Manuel Paletta
+ Asistente 2: Fernando Zabalza
+ Cuarto árbitro: Daiana Luz Ilari
+16:30 San Martín F. - Sarmiento RCia.
+ Árbitro: Gustavo Federico Benites
+ Asistente 1: Luciano Agustín Díaz
+ Asistente 2: Walter Augusto Cardozo
+ Cuarto árbitro: Diego Pablo Ocampo
+19:30 Sarmiento Sgo - Juventud Antoniana
+ Árbitro: Luis Damián Martínez
+ Asistente 1: Ezequiel Augusto Aguero
+ Asistente 2: Rodrigo Ariel Jara
+ Cuarto árbitro: Guido Daniel Medina
+19:30 Cral. Norte - Crucero del Norte
+ Árbitro: Enzo Silvestre
+ Asistente 1: Mariano Ramón González
+ Asistente 2: Alejandro Ariel Schneller
+ Cuarto árbitro: Maximiliano Manduca
+19:30 Sportivo At. - Depro
+ Árbitro: Jonathan Daniel Correa
+ Asistente 1: María Belén Bevilacqua
+ Asistente 2: Oscar Ariel Bono
+ Cuarto árbitro: Mario Facundo Rojo Casal
+Lunes 22 de abril
+14:30 Ciudad de Bolívar - J.U. Universitario
+ Árbitro: Marcelo Alejandro Sanz
+ Asistente 1: Claudio Agustín Cabrelli
+ Asistente 2: José Luis Orellana
+ Cuarto árbitro: Carlos Daniel Gerez
+20:00 Sp. Belgrano - G. y Esgrima CU
+ Árbitro: Mariano Exequiel Agli
+ Asistente 1: Sergio Mauricio Pérez
+ Asistente 2: Nicolás Matías Sosa
+ Cuarto árbitro: Andrés Leonardo Franco
+Zona 1
 Fecha 6
  Círculo Deportivo - Deportivo Rincón
  Santamarina - Cipolletti
@@ -2174,12 +2259,6 @@ Fecha 9
  Círculo Deportivo - Villa Mitre
  Sansinena - Santamarina
 Zona 2
-Fecha 5
- Ciudad de Bolívar - Juventud Unida Universitario
- Huracán Las Heras - Deportivo Camioneros
- Atenas (RC) - San Martín (SM)
- Sportivo Estudiantes (SL) - Argentino (MM)
- Ferro Carril Oeste (GP) - Gutiérrez
 Fecha 6
  Argentino (MM) - Gutiérrez
  San Martín (SM) - Sportivo Estudiantes (SL)
@@ -2205,12 +2284,6 @@ Fecha 9
  Argentino (MM) - Deportivo Camioneros
  Ferro Carril Oeste (GP) - San Martín (SM)
 Zona 3
-Fecha 5
- Douglas Haig - Independiente CH
- Sp. Belgrano (SF) - Gimnasia (CdU)
- Defensores (VR) - El Linqueño
- Sp. Las Parejas - Defensores (P)
- Fecha Libre: 9 de Julio (R)
 Fecha 6
  Defensores (P) - 9 de Julio (R)
  El Linqueño - Sp. Las Parejas
@@ -2236,12 +2309,6 @@ Fecha 9
  Defensores (P) - Gimnasia (CdU)
  Fecha Libre: El Linqueño
 Zona 4
-Fecha 5
- Boca Unidos - Sol de América (F)
- Central Norte (S) - Crucero (M)
- Sarmiento (LB) - Juv. Antoniana
- San Martín (F) - Sarmiento (R)
- Fecha Libre: Unión (S)
 Fecha 6
  Sarmiento (R) - Sarmiento (LB)
  Juv. Antoniana - Central Norte (S)
