@@ -539,11 +539,6 @@ Primera Nacional
 Fecha 12
 Zona A
 Lunes 22 de abril
- Dep. Maipú - Güemes, a las 15.00 horas
- Árbitro: Álvaro Carranza
- Asistente 1: Matías Bianchi
- Asistente 2: Laureano Leiva
- Cuarto árbitro: Maximiliano Silcán
 Quilmes - Patronato (Paraná), a las 21.10 horas (TV)
  Árbitro: Pablo Giménez
  Asistente 1: Juan Manuel González
@@ -555,13 +550,6 @@ Martes 23 de abril
  Asistente 1: Mariano Ruas
  Asistente 2: Guillermo Yacante
  Cuarto árbitro: Damián Rubino
-Zona B
-Lunes 22 de abril
- Alte. Brown - Brown (Adrogué), a las 15.00 horas (TV)
- Árbitro: Nelson Sosa
- Asistente 1: Ramón Ortiz
- Asistente 2: Nicolás Bravo
- Cuarto árbitro: Guido Mascheroni
 Fecha 13 
 Zona A
 Gmo. Brown (P.M.) - Arsenal F.C. 
@@ -1257,17 +1245,6 @@ Postergado
  Asistente 2: Lucas Monsalvo
  Cuarto árbitro: Guido Mascheroni
 Fecha 14 
-Lunes 22 de abril
- Sp. Barracas - Juv. Unida, a las 15.30 horas en F.C. Midland
- Árbitro: Néstor Barrios
- Asistente 1: Leandro Carril
- sistente 2: Damián Alcaraz
- Cuarto árbitro: Julián Beligoy
-Argentino (Ros.) - Dep. Español, a las 15.30 horas 
- Árbitro: Gonzalo Creimermann
- Asistente 1: Juan Cingolani
- Asistente 2: Gonzalo Cubillas
- Cuarto árbitro: Mariano Seco
 Martes 23 de abril
 Berazategui - Claypole, a las 15.30 horas
  Árbitro: Alejandro Porticella
@@ -1841,11 +1818,6 @@ Asistente 2: Matías Coria
 Torneo Federal A
 Fecha 5
 Lunes 22 de abril
-14:30 Ciudad de Bolívar - J.U. Universitario
- Árbitro: Marcelo Alejandro Sanz
- Asistente 1: Claudio Agustín Cabrelli
- Asistente 2: José Luis Orellana
- Cuarto árbitro: Carlos Daniel Gerez
 20:00 Sp. Belgrano - G. y Esgrima CU
  Árbitro: Mariano Exequiel Agli
  Asistente 1: Sergio Mauricio Pérez
@@ -1967,13 +1939,7 @@ River - Ferro, en River Camp
  Cuarta árbitra: Camila Gette
 Fecha 5
 Postergado: River - San Lorenzo
-Fecha 6 
-Lunes 22 de abril
- 09.00 Estudiantes - San Luis, en Predio de Martín Coronado
- Árbitra: Gabriela Coronel
- Asistente 1: Carla López
- Asistente 2: Berenice Avaro
- Cuarta árbitra: Selene Coria Ávalos
+Fecha 6
 Postergado: Belgrano - River
 Fecha 7
  Huracán - Racing Club
