@@ -1786,17 +1786,17 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 9
-Lunes 22 de abril
- Dep. Metalúrgico - Estrella del Sur, a las 15.00 horas en Dep. Armenio (TV)
- Árbitro: Tomás Aybar
- Asistente 1: Juan Etchepare
- Asistente 2: Facundo Maldonado
- uarto árbitro: Ulises López
-Barrancas F.C. - Dep. Camioneros, a las 15.30 horas en Platense (Auxiliar)
+Postergados: 
+ Barrancas F.C. - Dep. Camioneros
 Árbitro: Joaquín Rodríguez
  Asistente 1: Heber Ibañez
  Asistente 2: Mario Vargas
  Cuarto Árbitro: Cristian Oubel
+Dep. Metalúrgico - Estrella del Sur
+ Árbitro: Tomás Aybar
+ Asistente 1: Juan Etchepare
+ Asistente 2: Facundo Maldonado
+ Cuarto árbitro: Ulises López
 Fecha 10
 Def. De Glew - Dep. Metalúrgico
 Juv. De Bernal - S.A.T.
@@ -2620,8 +2620,14 @@ Venezuela – Argentina
 Copa Mundial de Futsal de la FIFA 2024
 El torneo se llevará a cabo en Uzbekistán del 14 de septiembre al 6 de octubre de 2024.
 Equipos clasificados
-Angola, Argentina, Brasil, Costa Rica, Croacia, Cuba, Francia, Guatemala, Países Bajos, Nueva Zelanda, Panamá, Paraguay, Portugal, España, Ucrania, Uzbekistán, Venezuela, Marruecos y Libia.
- Uzbekistán 2024: modo de competición
+Angola, Argentina, Brasil, Costa Rica, Croacia, Cuba, Francia, Guatemala, Kazajistán, Países Bajos, Nueva Zelanda, Panamá, Paraguay, Portugal, España, Ucrania, Uzbekistán, Venezuela, Marruecos y Libia.
+Plazas de clasificación por definir
+ AFC: 4
+Copa Asiática de Fútbol Sala de la AFC
+ Fechas: 17-28 de abril de 2024
+ Sede: Tailandia
+ Plazas para Uzbekistán 2024: 4
+Uzbekistán 2024: modo de competición
  Las 24 naciones se dividirán en seis grupos de cuatro. ﻿Los dos primeros de cada grupo, junto con los cuatro mejores terceros, accederán a la fase eliminatoria. A continuación, se disputarán los octavos de final, los cuartos de final, las semifinales, el partido por el tercer puesto y la final.
 Copa Intercontinental FIFA 2024
 El 18 de diciembre de 2024 en sede a confirmar se jugará la final de la Copa Intercontinental.
