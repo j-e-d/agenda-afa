@@ -1899,11 +1899,6 @@ Dep. Provincial (Lobos) c. Belgrano (Zarate), a las 14.00 horas
  Asistente 1: Ariel Ibañez
  Asistente 2: Xavier Arguello
  Cuarto árbitro: Joaquín Rodriguez
-Juv. de Bernal c. S.A.T., a las 15.30 horas en Berazategui (Auxiliar)
- Árbitro: Ivan Castelu Coca
- Asistente 1: Federico Boveri
- Asistente 2: Joaquín Fraga
- Cuarto árbitro: Ulises Lopez
 At. Pilar c. F.C. Ezeiza, a las 15.30 horas
  Árbitro: Juan Pablo Pereyra
  Asistente 1: Facundo Maldonado
@@ -1926,6 +1921,11 @@ Def. de Glew c. Dep. Metalúrgico, a las 15.30 horas
  Asistente 1: Jonathan Florentin
  Asistente 2: Leandro Idio
  Cuarto árbitro: Manuel Prieto
+Juv. De Bernal c. S.A.T., a las 15.30 horas en Berazategui (Auxiliar)
+Árbitro: Iván Castelu Coca 
+Asistente 1: Federico Boveri
+Asistente 2: Joaquín Fraga
+Cuarto árbitro: Ulises López 
 Jueves 2 de mayo
 Camioneros c. Estrella del Sur, a las 15.00 horas (TV)
  Árbitro: Matías Ansede
