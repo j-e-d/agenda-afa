@@ -1073,13 +1073,6 @@ Interzonal Atlanta - All Boys
 Primera B
 Fecha 9 
 Postergado: Arg. De Quilmes - Comunicaciones
-Fecha 14 
-Lunes 29 de abril
- Sacachispas F.C. c. Villa Dálmine, a las 15.30 horas
- Árbitro: Wenseslao Meneses
- Asistente 1: Cristian Colonesse
- Asistente 2: Diego Rodriguez Lazarte
- Cuarto Árbitro: Mateo Bocaccia
 Fecha 15 
  Villa Dálmine - Arg. De Merlo
  Liniers - Sp. Italiano
@@ -1174,17 +1167,6 @@ Postergado
  Asistente 2: Lucas Monsalvo
  Cuarto árbitro: Guido Mascheroni
 Fecha 15 
-Lunes 29 de abril
-Rec. Español c. Dep. Paraguayo, a las 15.30 horas en F.C. Midland
- Árbitro: Alejandro Porticella
- Asistente 1: Federico Bozo
- Asistente 2: Daniela Sanda
- Cuarto árbitro: Eduardo Coyto
-Claypole c. Sp. Barracas, a las 15.30 horas
- Árbitro: Nicolás Jara
- Asistente 1: Leandro Britez
- Asistente 2: Franco Boetti
- Cuarto árbitro: Elías Viglione
 Martes 30 de abril
 Dep. Español c. Real Pilar F.C., a las 15.30 horas
  Árbitro: Jonathan Barrios
@@ -1842,23 +1824,22 @@ Postergado: River - San Lorenzo
 Fecha 6
 Postergado: Belgrano - River
 Fecha 7
-Lunes 29 de abril
-15.00 UAI - Urquiza - Belgrano, en Estadio Monumental de Villa Lynch (TV)
- Árbitra: Ariadna Palacios
- Asistente 1: Mariana de Almeida
- Asistente 2: Berenice Anahí Avaro
- Cuarta árbitra: Luciana Sánchez
 Postergado: River Plate - Rosario Central
 Fecha 8
- Independiente - Huracán
- Gimnasia - River Plate
- Rosario Central - UAI - Urquiza
- Belgrano - Excursionistas
- San Lorenzo - Platense
- Banfield - San Luis F.C.
- Ferro - Newell's
- Estudiantes - S.A.T.
- Boca - Racing Club
+ Viernes 3 mayo
+ 15.00 San Lorenzo - Platense, en auxiliar
+ Sábado 4 de mayo
+ 12.00 Ferro - Newell's, en auxiliar de Caballito (TV)
+ 15.00 Rosario Central - UAI Urquiza, en Estadio Gigante de Arroyito
+Domingo 5 de mayo
+ 11.00 Independiente - Huracán, en predio de Villa Domínico
+ 12.00 Boca - Racing, en Casa Amarilla (TV)
+ 15.00 Belgrano - Excursionistas, en Predio Armando Pérez
+ 15.00 Banfield - San Luis, en predio Luis 
+Guillón
+Lunes 6 de mayo
+ 09.00 Estudiantes - SAT, en predio
+Postergado: Gimnasia - River
 Fecha 9
  Huracán - Boca
  Racing Club - Estudiantes
