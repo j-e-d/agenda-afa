@@ -1934,13 +1934,95 @@ Juventud Unida de San Luis - Independiente, a las 21.30 en Lanús (TV)
  Asistente 2: Erik Grunman
  Cuarto árbitro: Julián Jerez
 Torneo Federal A
+Fecha 7 
+Viernes 5 de abril
+Central Norte (Salta) - Sarmiento (Resistencia), a las 22
+ Árbitro: Pablo Núñez
+ Asistente 1: Marcelo González
+ Asistente 2: Mauro Gómez
+ Cuarto árbitro: Walter Cardozo
+Sábado 4 de abril 
+Unión de Sunchales - Crucero del Norte, a las 17
+ Árbitro: Nelson Bejas
+ Asistente 1: José Ponce
+ Asistente 2: Ezequiel Agüero
+ Cuarto árbitro: Rodrigo Ballestero
+Sarmiento (Santiago del Estero) - San Martín de Formosa, a las 22
+ Árbitro: Matías Billione Carpio
+ Asistente 1: Matías González
+ Asistente 2: María Belén Bevilacqua
+ Cuarto árbitro: Mario Rojo 
+Domingo 5 de abril
+Kimberley - Sol de Mayo, a las 11
+ Árbitro: Diego Novelli
+ Asistente 1: Lautaro Paletta
+ Asistente 2: Fernando Zabalza
+ Cuarto árbitro: Camila Romero
+9 de Julio (Rafaela) - El Linqueño, a las 11
+ Árbitro: Marcos Liuzzi
+ Asistente 1: Guillermo Yacante
+ Asistente 2: Martín Nardelli
+ Cuarto árbitro: Paula Eisenacht
+Ferro Carril Oeste (Gral. Pico) - Argentino (Pascanas), a las 15
+ Árbitro: Juan Ignacio Nebbietti
+ Asistente 1: Leopoldo Gorosito
+ Asistente 2: Emiliano Bustos
+ Cuarto árbitro: Santiago Schmoll
+Sansinena - Círculo Deportivo, a las 15.30
+ Árbitro: Fernando Rekers
+ Asistente 1: Agustín Lamberti
+ Asistente 2: Rodrigo Moreno
+ Cuarto árbitro: Danilo Viola
+Olimpo - Germinal de Trelew, a las 15.30
+ Árbitro: Joaquín Gil
+ Asistente 1: Leonel Suárez
+ Asistente 2: Gonzalo Roldán
+ Cuarto árbitro: Cristian Ramonda
+Deportivo Rincón - Santamarina, a las 16
+ Árbitro: Cristian Rubiano
+ Asistente 1: Patricio Destéfano
+ Asistente 2: Diego Álvarez
+ Cuarto árbitro: Anahí Soto
+Cipoletti - Villa Mitre, a las 16
+ Árbitro: José Díaz
+ Asistente 1: Juan Ignacio Flores Roig
+ Asistente 2: Federico Ojeda
+ Cuarto árbitro: Leandro Hartfield
+Huracán Las Heras - Ciudad de Bolivar, a las 16
+ Árbitro: César Ceballos
+ Asistente 1: Christian Arregues
+ Asistente 2: Marcos Guzmán
+ Cuarto árbitro: Matías Noguera
+Spotivo AT. - Gimnasia y Esgrima (C. del Uruguay), a las 18
+ Árbitro: Enzo Silvestre
+ Asistente 1: Alejandro Schneller
+ Asistente 2: Bruno Pezzotta
+ Cuarto árbitro: Bruno Cejas
+Defensores de Belgrano (V.R.) - Independiente (Chivilcoy), a las 19
+ Árbitro: Fernando Marcos
+ Asistente 1: Joaquín Badano
+ Asistente 2: Oscar Bono
+ Cuarto árbitro: Karim Doussouk
+Boca Unidos - Juventud Antoniana, a las 20.30
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Mariano González
+ Asistente 2: Jorge Sayago
+ Cuarto árbitro: Néstor Cáceres
+Gutiérrez SC (Mendoza) - San Martín (Mendoza), a las 21.15
+ Árbitro: José Sandoval
+ Asistente 1: Guido Córdoba
+ Asistente 2: Uvab Araya
+ Cuarto árbitro: Lautaro Castañola
+Lunes 6 de mayo 
+Sportivo Belgrano - Douglas Haig, a las 20.35
+ Árbitro: Guillermo González
+ Asistente 1: Fernando Brillada
+ Asistente 2: María Soledad Ríos
+ Cuarto árbitro: Williams Abdala
+POSTERGADO
+Estudiantes SL - Camioneros (Luján)
+Atenas de Río Cuarto - Universitario de San Luis
 Zona 1
-Fecha 7
- Kimberley - Sol de Mayo
- Olimpo - Germinal
- Cipolletti - Villa Mitre
- Deportivo Rincón - Santamarina
- Sansinena - Círculo Deportivo
 Fecha 8
  Santamarina - Círculo Deportivo
  Villa Mitre - Deportivo Rincón
@@ -1954,12 +2036,6 @@ Fecha 9
  Círculo Deportivo - Villa Mitre
  Sansinena - Santamarina
 Zona 2
-Fecha 7
- Huracán Las Heras - Ciudad de Bolívar
- Atenas (RC) - Juventud Unida Universitario
- Sportivo Estudiantes (SL) - Deportivo Camioneros
- Gutiérrez - San Martín (SM) General Gutiérrez
- Ferro Carril Oeste (GP) - Argentino (MM)
 Fecha 8
  San Martín (SM) - Argentino (MM)
  Deportivo Camioneros - Gutiérrez
@@ -1973,12 +2049,6 @@ Fecha 9
  Argentino (MM) - Deportivo Camioneros
  Ferro Carril Oeste (GP) - San Martín (SM)
 Zona 3
-Fecha 7
- Sp. Belgrano (SF) - Douglas Haig
- Defensores (VR) - Independiente CH
- Sp. Las Parejas - Gimnasia (CdU)
- 9 de Julio (R) - El Linqueño
- Fecha Libre: Defensores (P)
 Fecha 8
  El Linqueño - Defensores (P)
  Gimnasia (CdU) - 9 de Julio (R)
@@ -1992,12 +2062,6 @@ Fecha 9
  Defensores (P) - Gimnasia (CdU)
  Fecha Libre: El Linqueño
 Zona 4
-Fecha 7
- Union (S) - Crucero (M)
- Boca Unidos - Juv. Antoniana
- Central Norte (S) - Sarmiento (R)
- Sarmiento (LB) - San Martín (F)
- Fecha Libre: Sol de América (F)
 Fecha 8
  San Martín (F) - Central Norte (S)
  Sarmiento (R) - Boca Unidos
