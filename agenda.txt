@@ -456,7 +456,7 @@ Martes 07 de mayo
 Miércoles 08 de mayo 
  Rosario Central c. Vélez Sarsfield, a las 15.00 horas en Rosario Central (Aux. Arroyo Seco).
  Dep. Riestra c. River Plate, a las 15.00 horas en Dep. Riestra (Principal).
-Jueves 09 de mayo
+Jueves 9 de mayo
  Argentinos Juniors c. At. Tucumán, a las 15.00 horas en Argentinos Juniors (Auxiliar).
  G. y Esgrima (L.P.) c. Barracas Central, a las 15.00 horas en G. y Esgrima (L.P.) (Aux. Estancia Chica).
  Instituto A.C.C. c. Independiente Riv. (Mza.), a las 15.00 horas en Polidep. La Agustina.
@@ -468,7 +468,7 @@ Sarmiento c. Estudiantes de L.P., a las 15.00 horas en Sarmiento (Aux. Centro A.
 Miércoles 08 de mayo
  Huracán c. Lanús, a las 15.00 horas en Huracán (Auxiliar).
  Ctral. Córdoba (S.E.) c. Platense, a las 19.00 horas en Ctral. Córdoba (S.E.) (Principal).
-Jueves 09 de mayo
+Jueves 9 de mayo
  Tigre c. Newell´s Old Boys, a las 15.00 horas en Tigre (Auxiliar).
  Boca Juniors c. Def. y Justicia, a las 19.00 horas en Boca Juniors (Aux. Ezeiza).
 Fecha 12 – Semana 15/05
@@ -1849,13 +1849,6 @@ Fecha 50
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Torneo Apertura
-10ª. fecha:
-Jueves 2 de mayo
-Camioneros c. Estrella del Sur, a las 15.00 horas (TV)
- Árbitro: Matías Ansede
- Asistente 1: Facundo Mendiolar
- Asistente 2: Santiago Gancedo
- Cuarto árbitro: David Cornejo
 Fecha 11
 Viernes 03-05
  F.C. Ezeiza c. Estrella de Berisso, a las 14.00 horas en Estrella del Sur
@@ -2101,17 +2094,47 @@ Postergado: River Plate - Rosario Central
 Fecha 8
  Viernes 3 mayo
  15.00 San Lorenzo - Platense, en auxiliar
+ Árbitra: Antonella Álvarez de Olivera
+ Asistente 1: Gisela Trucco
+ Asistente 2: Jennifer Mendoza
+ Cuarta árbitra: Camila Gette
  Sábado 4 de mayo
- 12.00 Ferro - Newell's, en auxiliar de Caballito (TV)
- 15.00 Rosario Central - UAI Urquiza, en Estadio Gigante de Arroyito
+12.00 Ferro - Newell's, en auxiliar de Caballito (TV)
+ Árbitra: Gabriela Coronel
+ Asistente 1: Eugenia Rocco
+ Asistente 2: Jennifer Mendoza
+ Cuarta árbitra: Salomé Di Iorio
+15.00 Rosario Central - UAI Urquiza, en Estadio Gigante de Arroyito
+ Árbitra: María Laura Fortunato
+ Asistente 1: Carla López
+ Asistente 2: Daniela Lanzafame
+ Cuarto árbitro: Valentín Persico
 Domingo 5 de mayo
- 11.00 Independiente - Huracán, en predio de Villa Domínico
- 12.00 Boca - Racing, en Casa Amarilla (TV)
- 15.00 Belgrano - Excursionistas, en Predio Armando Pérez
- 15.00 Banfield - San Luis, en predio Luis 
-Guillón
-Lunes 6 de mayo
- 09.00 Estudiantes - SAT, en predio
+11.00 Independiente - Huracán, en Estadio Libertadores de América 
+ Árbitra: Gabriela Coronel
+ Asistente 1: Gisela Trucco
+ Asistente 2: Sofía Curto
+ Cuarta árbitra: Guadalupe Ortiz
+12.00 Boca - Racing, en Casa Amarilla (TV)
+ Árbitra: Ariadna Palacios
+ Asistente 1: Mariana de Almeida
+ Asistente 2: Esperanza Sánchez
+ Cuarta árbitra: Bettina Cingari
+15.00 Belgrano - Excursionistas, en Predio Armando Pérez
+ Árbitra: Luciana Sánchez
+ Asistente 1: Ludmila Capelli Caligiuri
+ Asistente 2: Analía Fernández
+ Cuarta árbitra: Jessica Laborde
+15.00 Banfield - San Luis, en predio Luis Guillón 
+ Árbitra: Camila Gette
+ Asistente 1: Eugenia Rocco
+ Asistente 2: Daniela Sanda
+ Cuarta árbitra: María Laura Fortunato
+Lunes 6 de mayo09.00 Estudiantes - SAT, en predio
+ Árbitra: Roberta Echeverría
+ Asistente 1: Mariana de Almeida
+ Asistente 2: Analía Fernández
+ Cuarta árbitra: Selene Coria Ávalos
 Postergado: Gimnasia - River
 Fecha 9
  Huracán - Boca
@@ -2346,33 +2369,33 @@ El detalle de las selecciones clasificadas es el siguiente:
  África: Marruecos - Egipto - Malí
  Oceanía: Nueva Zelanda
  Conmebol: Paraguay - Argentina
- Asia: 3 plazas
- Repechaje África vs Asia: 1 plaza
+ Asia: Japón, Uzbekistán e Iraq
+Repechaje África vs Asia: 1 plaza
 Fútbol Masculino
 24 de julio (horario local)
 10:00 - Parque de los Príncipes, París - Masculino - Grupo C - Japón o Uzbekistán vs. España
 10:00 - Stade Geoffroy Guichard, Saint-Étienne - Masculino - Grupo B - Argentina vs. Marruecos
 12:00 - Stade de La Beaujoire, Nantes - Masculino - Grupo C - Egipto vs. República Dominicana
-12:00 - Stade de Nice - Masculino - Grupo A - Irak /Indonesia - Guinea vs. Nueva Zelanda
+12:00 - Stade de Nice - Masculino - Grupo A - Indonesia - Guinea vs. Nueva Zelanda
 14:00 - Stade de Bourdeaux - Masculino - Grupo D - Japón o Uzbekistán vs. Paraguay
-14:00 - Stade de Lyon - Masculino - Grupo B - Irak o Indonesia vs. Ucrania
+14:00 - Stade de Lyon - Masculino - Grupo B - Irak vs. Ucrania
 16:00 - Parque de los Príncipes, París - Masculino - Grupo D - Mali vs. Israel
 16:00 - Stade de Marseille, Marsella - Masculino - Grupo A - Francia vs. Estados Unidos
 27 de julio
 10:00 - Stade de Bourdeaux - Masculino - Grupo C - España vs. Rep. Dominicana
-10:00 - Stade de Lyon - Masculino - Grupo B - Argentina vs. Irak o Indonesia
+10:00 - Stade de Lyon - Masculino - Grupo B - Argentina vs. Irak 
 12:00 - Stade de La Beaujoire, Nantes - Masculino - Grupo C - Japón o Uzbekistán vs. Egipto
 12:00 - Stade de Marseille, Marselha - Masculino - Grupo A - Estados Unidos vs. Nueva Zelanda
 14:00 - Parque de los Príncipes, París - Masculino - Grupo D - Paraguay vs. Israel
 14:00 - Stade Geoffroy Guichard, Saint-Étienne - Masculino - Grupo B - Ucrania vs. Marruecos
 16:00 - Stade de Bourdeaux - Masculino - Grupo D - Japón o Uzbekistán vs Mali
-16:00 - Stade de Nice - Masculino - Grupo A - Francia vs. Irak /Indonesia - Guinea
+16:00 - Stade de Nice - Masculino - Grupo A - Francia vs. Indonesia - Guinea
 30 de julio
 10:00 - Parque de los Príncipes, París - Masculino - Grupo C - República Dominicana vs. Japón o Uzbekistán
 10:00 - Stade de Bourdeaux - Masculino - Grupo C - España vs Egipto
 12:00 - Stade de Lyon - Masculino - Grupo B - Ucrania vs Argentina
-12:00 - Stade de Nice - Masculino - Grupo B - Marruecos vs. Irak o Indonesia
-14:00 - Stade Geoffroy Guichard, Saint-Étienne - Masculino - Grupo A - Estados Unidos vs. Irak /Indonesia - Guinea
+12:00 - Stade de Nice - Masculino - Grupo B - Marruecos vs. Irak 
+14:00 - Stade Geoffroy Guichard, Saint-Étienne - Masculino - Grupo A - Estados Unidos vs. Indonesia - Guinea
 14:00 - Stade de Marseille, Marsella - Masculino - Grupo A - Nueva Zelanda vs. Francia
 16:00 - Parque de los Príncipes, París - Masculino - Grupo D - Paraguay vs. Mali
 16:00 - Stade de La Beaujoire, Nantes - Masculino - Grupo D - Israel vs. Japón o Uzbekistán
@@ -2472,7 +2495,6 @@ El Torneo se disputa entre el 11 de abril y el 5 de mayo en Ecuador
 La CONMEBOL Sub20 Femenina 2024 se disputará en 2 fases: fase preliminar (fase de grupos) y fase final (Las seis selecciones clasificadas de la fase preliminar participarán de esta fase, con el mismo sistema de juegos todos contra todos). Todas las fases se juegan a una sola rueda de partidos.
 Fase Final
 Jueves 2 de mayo
-18.00 Perú - Paraguay
 20.30 Colombia - Argentina
 23.00 Venezuela - Brasil
 Domingo 5 de mayo (horarios a confirmar)
