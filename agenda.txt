@@ -2250,12 +2250,42 @@ Conmebol Libertadores
 Fecha 4
 Martes 7 de mayo
 19.00 Rosario Central – Atlético Mineiro
+ Árbitro: Piero Maza (CHI)
+ Asistente 1: Claudio Urrutia (CHI)
+ Asistente 2: Juan Serrano (CHI)
+ Cuarto árbitro: Felipe González (CHI)
+ VAR: Juan Lara (CHI)
+ AVAR: Edson Cisternas (CHI)
 21.00 Nacional – River
+ Árbitro: Anderson Daronco (BRA)
+ Asistente 1: Danilo Manis (BRA)
+ Asistente 2: Bruno Boschilia (BRA)
+ Cuarto árbitro:Edina Alves (BRA)
+ VAR: Wagner Reeay (BRA)
+ AVAR: Rodrigo Dalonso (BRA)
 Miércoles 8 de mayo
 19.00 Talleres – Barcelona
+ Árbitro: Gustavo Tejera (URU)
+ Asistente 1: Carlos Barreiro (URU)
+ Asistente 2: Pablo Llarena (URU)
+ Cuarto árbitro: Leodan González (URU)
+ VAR: Cristhian Ferreyra (URU)
+ AVAR: Richard Trinidad (URU)
 Jueves 9 de mayo
 19.00 San Lorenzo – Independiente del Valle
+ Árbitro: Felipe González (CHI)
+ Asistente 1: Claudio Urrutia (CHI)
+ Asistente 2: Juan Serrano (CHI)
+ Cuarto árbitro: Piero Maza (CHI)
+ VAR: Juan Lara (CHI)
+ AVAR: Edson Cisternas (CHI)
 21.00 The Strongest – Estudiantes
+ Árbitro: Roberto Pérez (PER)
+ Asistente 1: Stephen Atoche (PER)
+ Asistente 2: Diego Jaimes (PER)
+ Cuarto árbitro: Edwin Ordoñez (PER)
+ VAR:Diego Haro (PER)
+ AVAR: Jhonny Bossio (PER)
 Fecha 5
 Martes 14 de mayo
 19.00 Talleres – Cobresal
@@ -2282,13 +2312,49 @@ La final se disputará en Asunción, Paraguay.
 Fecha 4
 Martes 7 de mayo
 19.00 Racing (URU) - Argentinos Juniors
+ Árbitro: Carlos Betancur (COL)
+ Asistente 1: Jhon Gallego (COL)
+ Asistente 2: Roberto Padilla (COL)
+ Cuarto árbitro: Andrés Rojas (COL)
+ VAR: David Rodríguez (COL)
+ AVAR: Mauricio Pérez (COL)
 23.00 Always Ready - Defensa y Justicia
+ Árbitro: Rafael Rodrigo Klein (BRA)
+ Asistente 1: Guillerme Camilo (BRA)
+ Asistente 2: Nailton de Souza (BRA)
+ Cuarto árbitro: Rodrigo Pereira (BRA)
+ VAR: Daniel Nobre (BRA)
+ AVAR: Rodrigo Guarizo (BRA)
 Miércoles 8 de mayo
 21.30 Sportivo Trinidense - Boca 
+ Árbitro: Cristian Garay (CHI)
+ Asistente 1: José Retamal (CHI)
+ Asistente 2: Miguel Rocha (CHI)
+ Cuarto árbitro: José Cabero (CHI)
+ VAR: Yadir Acuña (COL)
+ AVAR: Heider Castro (COL)
 Jueves 9 de mayo
 19.00 Belgrano - Delfín 
+ Árbitro: Leodán González (URU)
+ Asistente 1: Carlos Barreiro (URU)
+ Asistente 2: Pablo Llarena (URU)
+ Cuarto árbitro: Gustavo Tejera (URU)
+ VAR: Christian Ferreyra (URU)
+ AVAR: Richard Trinidad (URU)
 21.00 Red Bull Bragantino - Racing 
+ Árbitro: Kevin Ortega (PER)
+ Asistente 1: Michael Orué (PER)
+ Asistente 2: Jesús Sánchez (PER)
+ Cuarto árbitro: Jesús Cartagena (PER)
+ VAR: Augusto Menendez (PER)
+ AVAR: Milagros Arruela (PER)
 23.00 Deportivo Garcilaso - Lanús 
+ Árbitro: Gery Vargas (BOL)
+ Asistente 1: Carlos Tapia (BOL)
+ Asistente 2: Edwar Saavedra (BOL)
+ Cuarto árbitro: Hostin Prado (BOL)
+ VAR: Francisco Gilabert (CHI)
+ AVAR: Alejandro Molina (CHI)
 Fecha 5
 Martes 14 de mayo 
 21.00 Defensa y Justicia - Independiente Medellín
@@ -2491,8 +2557,15 @@ Final
  14/7 (Miami)
 Copa Mundial Femenina Sub-20 de la FIFA 2024
 Colombia será el anfitrión de la Copa Mundial Femenina Sub-20 de la FIFA 2024, que se celebrará del 31 de agosto al 22 de septiembre.
-Por primera vez participarán 24 equipos, ocho más que en la edición 2022.
-La adjudicación de plazas aprobada es la siguiente: AFC (4); CAF (4); Concacaf (4); CONMEBOL (4); OFC (2); UEFA (5); país anfitrión (Colombia) (1).
+ Por primera vez participarán 24 equipos, ocho más que en la edición 2022.
+ Plazas:
+ País anfitrión (1): Colombia
+ AFC (4): Australia, Corea del Norte, Corea del Sur, Japón
+ CAF (4): Camerún, Ghana, Marruecos, Nigeria
+ Concacaf (4): Canadá, Costa Rica, Estados Unidos, México
+ CONMEBOL (4): Argentina, Brasil, Paraguay (resta definir una plaza)
+ OFC (2): Fiyi, Nueva Zelanda
+ UEFA (5): Alemania, Austria, España, Francia, Países Bajos
 CONMEBOL Sub 20 Femenina
 El Torneo se disputa entre el 11 de abril y el 5 de mayo en Ecuador
 – Sistema de disputa –
