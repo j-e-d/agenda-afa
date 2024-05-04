@@ -531,25 +531,6 @@ Partido pendiente:
 Fecha 14
 Zona “A”
 Sábado 4 de mayo
- San Miguel - Güemes (S.E.), a las 15.30 horas
- Árbitro: Lucas Comesaña
- Asistente 1: Damián Olivetto
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: José Carreras
-Estudiantes - Patronato (Paraná), a las 15.30 horas
- Árbitro: Juan Pablo Loustau
- Asistente 1: Gerardo Lencina
- Asistente 2: Matías Basso
- Cuarto árbitro: Julián Jerez
-Arsenal F.C. - Agropecuario Arg., a las 15.30 horas (TV)Árbitro: Bruno Amiconi
- Asistente 1: Lucio Méndez
- Asistente 2: Cecilio Calcagno
- Cuarto árbitro: Cristian Cernadas
-San Martín (S.J.) - Brown (P.M.), a las 16.00 horas
- Árbitro: Fabrizio Llobet
- Asistente 1: Diego Martín
- Asistente 2: Gisela Bosso
- Cuarto árbitro: Carlos Córdoba
 San Martín (T.) - All Boys, a las 19.40 horas (TV)
  Árbitro: Bryan Ferreyra
  Asistente 1: Hugo Páez
@@ -579,31 +560,6 @@ Martes 7 de mayo
  Cuarto árbitro: Ignacio Lupani
 Zona “B”
 Sábado 4 de mayo
- Def. Unidos - San Telmo, a las 13.30 horas (TV)
- Árbitro: Nahuel Viñas
- Asistente 1: Manuel Sánchez
- Asistente 2: Gonzalo Ferrari
- Cuarto árbitro: Ariel Cruz
-Atlanta - Chaco For Ever, a las 14.00 horas
- Árbitro: Juan Pafundi
- Asistente 1: Ariel Scime
- Asistente 2: Daiana Milone
- Cuarto árbitro: Jorge Broggi
-Alte. Brown - Def. de Belgrano, a las 15.30 horas (TV)
- Árbitro: Javier Delbarba reemplaza a Daniel Zamora
- Asistente 1: Lucas Pardo
- Asistente 2: Mariano Ruas
- Cuarto árbitro: Lucas Di Bastiano
-Dep. Madryn - At. de Rafaela, a las 15.30 horas
- Árbitro: Julio Barraza
- Asistente 1: Emanuel Serale
- Asistente 2: Carlos Viglietti
- Cuarto árbitro: Luciano Julio
-Mitre (S.E.) - Dep. Morón, a las 16.00 horas
- Árbitro: Alvaro Carranza
- Asistente 1: Matías Coria
- Asistente 2: Matías Balmaceda
- Cuarto árbitro: Federico Benítez
 Aldosivi (M.D.P.) - Temperley, a las 17.35 horas en estadio José M. Minella (TV)
  Árbitro: Andrés Gariano
  Asistente 1: Marcos Horticolou
@@ -615,13 +571,6 @@ Domingo 5 de mayo
  Asistente 1: Mariano Ascenzi
  Asistente 2: Martín Saccone
  Cuarto árbitro: Francisco Acosta
-Interzonal
- Sábado 4 de mayo
- G. y Esgrima (Mza.) - Dep. Maipú (Mza.), a las 15.30 horas
- Árbitro: Pablo Giménez
- Asistente 1: Iván Núñez
- Asistente 2: Hernán Vallejos
- Cuarto árbitro: Lucas Brumer
 Fecha 15 
 Zona A
 Agropecuario Arg. - San Martín (S.J.)
@@ -1155,21 +1104,6 @@ Fecha 9
 Postergado: Arg. De Quilmes - Comunicaciones
 Fecha 15 
 Sábado 04-05
- Comunicaciones c. Villa San Carlos, a las 15.30 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Diego Molina
- Asistente 2: Lucas Vázquez
- Cuarto Árbitro: Julián Beligoy
-Arg. de Quilmes c. Sp. Dock Sud, a las 15.30 horas
- Árbitro: Jonathan De Oto
- Asistente 1: Matías Arévalo
- Asistente 2: Ezequiel Noguera
- Cuarto Árbitro: Damián Rubino
-Cañuelas F.C. c. Acassuso, a las 15.30 horas
- Árbitro: Gonzalo Pereira
- Asistente 1: Luis Castillo
- Asistente 2: Hernán Antola
- Cuarto Árbitro: Mariano Seco
 F.C. Midland c. UAI - Urquiza, a las 17.00 horas
  Árbitro: Mauro Biasutto
  Asistente 1: Federico Zuvilvia
@@ -1290,32 +1224,6 @@ Postergado
  Cuarto árbitro: Guido Mascheroni
 Fecha 16 
 Mercedes Libre 
-Sábado 04-05
- Real Pilar F.C. c. Atlas, a las 13.30 horas (TV)
- Árbitro: Sebastián Habib
- Asistente 1: Juan Martín Pereyra
- Asistente 2: Ariel Ibáñez
- Cuarto Árbitro: Axel Pogge
-El Porvenir c. Juv. Unida, a las 15.30 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Diego Fernández
- Asistente 2: Alexis Ramírez
- Cuarto Árbitro: David Cornejo
-Yupanqui c. Victoriano Arenas, a las 15.30 horas
- Árbitro: Gabriel Flores
- Asistente 1: Leandro Carril
- Asistente 2: Heber Ibáñez
- Cuarto Árbitro: Alejandro Porticella
-Argentino (Ros.) c. Def. de Cambaceres, a las 15.30 horas
- Árbitro: Néstor Barrios
- Asistente 1: Fabio Ventura
- Asistente 2: Federico Machuca
- Cuarto Árbitro: Matías Ansede
-Ituzaingó c. Lugano, a las 15.30 horas
- Árbitro: Ramiro Maglio
- Asistente 1: Santiago Gancedo
- Asistente 2: Sofía Curto
- Cuarto Árbitro: Joaquín Rodríguez
 Domingo 05-05
  Muñiz c. Ctral. Córdoba (Ros.), a las 15.30 horas en Atlas
  Árbitro: Gonzalo Creimermann
@@ -1827,17 +1735,6 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Torneo Apertura
 Fecha 11
-Sábado 04-05
- Everton L.P. c. Dep. Provincial (Lobos), a las 15.30 horas
- Árbitro: Gonzalo Escudero
- Asistente 1: Santiago Correa
- Asistente 2: Lucas Garcia
- Cuarto Árbitro: Juan Pablo Pereyra
-S.A.T. c. Def. de Glew, a las 15.30 horas
- Árbitro: Agustín Flores
- Asistente 1: Cristian Rodríguez
- Asistente 2: Berenice Ávaro
- Cuarto Árbitro: Micaela Abelardo
 Domingo 05-05
  Belgrano (Zarate) c. Juv. de Bernal, a las 15.30 horas
  Árbitro: Tomas Aybar
@@ -1917,11 +1814,6 @@ Kimberley - Sol de Mayo, a las 11
  Asistente 1: Guillermo Yacante
  Asistente 2: Martín Nardelli
  Cuarto árbitro: Paula Eisenacht
-Ferro Carril Oeste (Gral. Pico) - Argentino (Pascanas), a las 15
- Árbitro: Juan Ignacio Nebbietti
- Asistente 1: Leopoldo Gorosito
- Asistente 2: Emiliano Bustos
- Cuarto árbitro: Santiago Schmoll
 Sansinena - Círculo Deportivo, a las 15.30
  Árbitro: Fernando Rekers
  Asistente 1: Agustín Lamberti
@@ -2049,12 +1941,6 @@ Postergado: Belgrano - River
 Fecha 7
 Postergado: River Plate - Rosario Central
 Fecha 8
- Sábado 4 de mayo
-15.00 Rosario Central - UAI Urquiza, en Estadio Gigante de Arroyito
- Árbitra: María Laura Fortunato
- Asistente 1: Carla López
- Asistente 2: Mariana de Almeida
- Cuarto árbitro: Valentín Persico
 Domingo 5 de mayo
 11.00 Independiente - Huracán, en Estadio Libertadores de América 
  Árbitra: Gabriela Coronel
