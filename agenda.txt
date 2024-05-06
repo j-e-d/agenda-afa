@@ -1682,11 +1682,15 @@ Copa Argentina
 FASE FINAL – 32vos.
 Miércoles 8 de mayo 
 Arsenal F.C. - Estudiantes (Rio IV), a las 15.05 horas en Quilmes A.C. (TV)
+ Árbitro: Julio Barraza
+ Asistente 1: Juan Manuel González
+ Asistente 2: Ramón Ortíz 
+ Cuarto árbitro: Américo Monsalvo
 Colón - Los Andes, a las 18.05 en Sarmiento (Junín) (TV) 
- Árbitro: Nicolás Lamolina 
- Asistente 1: Juan Fel Fueyo 
+ Árbitro: Fernando Echenique
+ Asistente 1: Juan del Fueyo 
 Asistente 2: Matías Coria 
- Cuarto árbitro: Gastón Iglesias
+ Cuarto árbitro: Javier Delbarba
 Miércoles 15 de mayo 
 17.15 Alte. Brown - San Martín (Tuc.), en Colón (TV)
 FASE FINAL – 16vos.
@@ -2118,7 +2122,39 @@ CONMEBOL Sub15 2023
 CONMEBOL informó que se disputará en 2024
 Sede: Bolivia
 CONMEBOL Libertadores Fútbol Playa 2024
-El torneo se disputará del 1 al 8 de diciembre de 2024 en Ecuador-
+El torneo se disputará del 1 al 8 de diciembre de 2024 en Ecuador.
+Liga Evolución Fútbol Playa 2024
+Fecha 1
+ Miércoles 8 de mayo
+16.00 Argentina – Uruguay (Sub20)
+17.30 Argentina – Uruguay (Mayor)
+19.00 Paraguay – Bolivia (Sub20)
+20.30 Paraguay – Bolivia (Mayor)
+Fecha 2
+ Jueves 9 de mayo
+16.00 Bolivia - Argentina (Sub20)
+17.30 Bolivia - Argentina (Mayor)
+19.00 Chile - Paraguay (Sub20)
+20.30 Chile - Paraguay (Mayor)
+Fecha 3
+ Viernes 10 de mayo
+16.00 Uruguay - Bolivia (Sub20)
+17.30 Uruguay - Bolivia (Mayor)
+19.00 Argentina - Chile (Sub20)
+20.30 Argentina - Chile (Mayor)
+Fecha 4
+ Sábado 11 de mayo
+16.00 Uruguay - Chile (Sub20)
+17.30 Uruguay - Chile (Mayor)
+19.00 Paraguay - Argentina (Sub20)
+20.30 Paraguay - Argentina (Mayor)
+Fecha 5
+ Domingo 12 de mayo
+16.00 Chile - Bolivia (Sub20)
+17.30 Chile - Bolivia (Mayor)
+19.00 Paraguay - Uruguay (Sub20)
+20.30 Paraguay - Uruguay (Mayor)
+* Hora de Argentina
 CONMEBOL Copa América 2024
 Se jugará en Estados Unidos con los 10 seleccionados sudamericanos y 6 invitados de la Concacaf.
 Fecha 1
