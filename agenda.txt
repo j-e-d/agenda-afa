@@ -544,8 +544,7 @@ Jueves 9 de mayo
  Instituto A.C.C. c. Independiente Riv. (Mza.), a las 15.00 horas en Polidep. La Agustina.
 Zona B
 Martes 07 de mayo 
-Unión c. Godoy Cruz, a las 19.00 horas en Unión (Principal).
- Independiente c. Talleres (Cba.), a las 19.00 horas en Independiente (Principal).
+Independiente c. Talleres (Cba.), a las 19.00 horas en Independiente (Principal).
 Miércoles 08 de mayo
  Huracán c. Lanús, a las 15.00 horas en Huracán (Auxiliar).
  Ctral. Córdoba (S.E.) c. Platense, a las 19.00 horas en Ctral. Córdoba (S.E.) (Principal).
@@ -2291,6 +2290,34 @@ Miércoles 29 de mayo
 21.00 Boca - Nacional 
 CONMEBOL Libertadores Femenina 2024
 El torneo se disputará entre el 3 y 19 de octubre de 2024 en Uruguay 
+Copa Mundial Femenina Sub 20 2024
+La Copa Mundial Femenina Sub-20 Colombia 2024 se iniciará el 31 de agosto y concluirá con la gran final el 22 de septiembre. Este torneo es el primero en esta especialidad en contar con 24 equipos participantes.
+ El sorteo se llevará a cabo el 5 de junio a las 10 de la mañana en Bogotá.
+ Selecciones clasificadas:
+ Argentina (Conmebol)
+ Australia (AFC)
+ Austria (UEFA)
+ Brasil (Conmebol)
+ Camerún (CAF)
+ Canadá (Concacaf)
+ Colombia (país anfitrión - Conmebol)
+ Costa Rica (Concacaf)
+ Fiyi (OFC)
+ Francia (UEFA)
+ Alemania (UEFA)
+ Ghana (CAF)
+ Japón (AFC)
+ RPD de Corea (AFC)
+ República de Corea (AFC)
+ México (Concacaf)
+ Marruecos (CAF)
+ Países Bajos (UEFA)
+ Nueva Zelanda (OFC)
+ Nigeria (CAF)
+ Paraguay (Conmebol)
+ España (Vigentes campeonas - UEFA)
+ Estados Unidos (Concacaf)
+ Venezuela (Conmebol)
 CONMEBOL Libertadores de Futsal 2024
 El Torneo se disputará entre el 19 y el 26 de mayo en Argentina
 CONMEBOL Libertadores Futsal Femenina 2024
