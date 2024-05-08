@@ -1941,13 +1941,136 @@ Torneo Federal A
 POSTERGADO
 Estudiantes SL - Camioneros (Luján)
 Atenas de Río Cuarto - Universitario de San Luis
-Zona 1
 Fecha 8
- Santamarina - Círculo Deportivo
- Villa Mitre - Deportivo Rincón
- Germinal - Cipolletti
- Sol de Mayo - Olimpo
- Kimberley - Sansinena
+Viernes 10 de mayo
+15.30 Deportivo Camioneros – Gutiérrez
+Cuerpo arbitral
+:
+ Fernando Marcos
+ Leopoldo Gorosito
+ Darío Rojas
+ Carlos Jerez
+21.00 Sarmiento (R) - Boca Unidos
+Cuerpo arbitral
+:
+ Maximiliano Silcan
+ Ezequiel Agüero
+ Fernando Ruarte
+ Guido Medina 
+Sábado 11 de mayo
+14.00 El Linqueño - Defensores (P)
+Cuerpo arbitral
+:
+ Marcelo Sanz
+ Claudio Cabrelli
+ Facundo Alves
+ Jose Orellana
+14.30 Douglas Haig - Defensores (VR)
+Cuerpo arbitral
+:
+ Enzo Silvestre
+ Mariano Gonzalez
+ Bruno Pezzotta
+ Bruno Cejas 
+14.30 San Martín (SM) - Argentino (MM)
+Cuerpo arbitral
+:
+ Nelson Bejas
+ Leila Argarañaz
+ José Ponce
+ Rodrigo Ballestero
+15.00 Santamarina - Círculo Deportivo
+Cuerpo arbitral
+:
+ Pablo Nuñez
+ Marcelo González
+ Karim Doussouk
+ Santiago Schmoll
+15.00 Germinal – Cipolletti
+Cuerpo arbitral
+:
+ Juan Nebbietti
+ Danilo Viola
+ Rodrigo Moreno
+ Agustin Lamberti
+ 15.00 Sol De Mayo – Olimpo
+Cuerpo arbitral
+:
+ Matias Billlone
+ Matias Balmaceda
+ Malvina Schiel
+ Diego Alvarez 
+15.00 Ciudad De Bolívar - Atenas (RC)
+Cuerpo arbitral
+:
+ Luciano Julio
+ Carlos Viglietti
+ Leonel Suarez
+ Oscar Bono 
+15.00 Kimberley – Sansinena
+Cuerpo arbitral
+:
+ Marcos Liuzzi
+ Martin Nardelli
+ Patricio Destefano
+ Nicolas Moreno
+15.30 Villa Mitre - Deportivo Rincón
+Cuerpo arbitral
+:
+ Luis Martinez
+ Rodrigo Jara
+ Fernando Muñoz
+ Rodrigo Cabrera
+15.30 Juventud Unida Universitario - Sportivo Estudiantes (SL)
+Cuerpo arbitral
+:
+ Jose Diaz
+ Juan Ignacio Flores
+Federico Ojeda
+ Leandro Hartfield
+15.30 Huracán Las Heras - Ferro Carril Oeste (GP)
+Cuerpo arbitral
+:
+ Gustavo Benites
+ Luciano Diaz
+ Diego Ocampo
+ Walter Cardozo
+ 15.30 Independiente CH - Sp. Las Parejas
+Cuerpo arbitral
+:
+ Nahuel Viñas
+ Hugo Fleitas
+ Robertino Rosas
+ Alejo Cid
+16.00 Crucero (M) - Sol De América (F)
+Cuerpo arbitral
+:
+ Cesar Ceballos
+ Emanuel Serales
+ Belen Bevilacqua
+ Mario Rojo 
+16.30 San Martín (F) - Central Norte (S)
+Cuerpo arbitral
+:
+ Fernando Rekers
+ Matias Gonzalez
+ Mariana Dure
+ Rodrigo Lopez
+20.00 Gimnasia (Cdu) - 9 De Julio (R)
+Cuerpo arbitral
+:
+ Joaquin Gil
+ Christian Arregues
+ Marcos Guzman
+ Lautaro Castañola
+21.00 Juv. Antoniana - Unión (S)
+Cuerpo arbitral
+:
+ Maximiliano Silcan
+ Ezequiel Agüero
+ Fernando Ruarte
+ Guido Medina
+Zona 1
 Fecha 9
  Olimpo - Kimberley A determinar
  Cipolletti - Sol de Mayo
@@ -1955,12 +2078,6 @@ Fecha 9
  Círculo Deportivo - Villa Mitre
  Sansinena - Santamarina
 Zona 2
-Fecha 8
- San Martín (SM) - Argentino (MM)
- Deportivo Camioneros - Gutiérrez
- Juventud Unida Universitario - Sportivo Estudiantes (SL)
- Ciudad de Bolívar - Atenas (RC)
- Huracán Las Heras - Ferro Carril Oeste (GP)
 Fecha 9
  Atenas (RC) - Huracán Las Heras
  Sportivo Estudiantes (SL) - Ciudad de Bolívar
@@ -1968,12 +2085,6 @@ Fecha 9
  Argentino (MM) - Deportivo Camioneros
  Ferro Carril Oeste (GP) - San Martín (SM)
 Zona 3
-Fecha 8
- El Linqueño - Defensores (P)
- Gimnasia (CdU) - 9 de Julio (R)
- Independiente CH - Sp. Las Parejas
- Douglas Haig - Defensores (VR)
- Fecha Libre: Sp. Belgrano (SF)
 Fecha 9
  Defensores (VR) - Sp. Belgrano (SF)
  Sp. Las Parejas - Douglas Haig
@@ -1981,12 +2092,6 @@ Fecha 9
  Defensores (P) - Gimnasia (CdU)
  Fecha Libre: El Linqueño
 Zona 4
-Fecha 8
- San Martín (F) - Central Norte (S)
- Sarmiento (R) - Boca Unidos
- Juv. Antoniana - Unión (S)
- Crucero (M) - Sol de América (F)
- Fecha Libre: Sarmiento (LB)
 Fecha 9
  Sol de América (F) - Juv. Antoniana
  Union (S) - Sarmiento (R)
