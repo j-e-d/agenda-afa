@@ -1340,11 +1340,6 @@ Claypole c. El Porvenir, a las 15.35 horas (TV)
  Asistente 2: Carlos Otegui
  Cuarto árbitro: Adrián Núñez Rodríguez
 Sábado 11 de mayo
-Atlas c. Dep. Paraguayo, a las 15.30 horas
- Árbitro: Ignacio Cuicchi
- Asistente 1: Matías Noli
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Ramiro Maglio
 Juv. Unida c. Ituzaingó, a las 15.30 horas
  Árbitro: Alejandro Porticella
  Asistente 1: Juan Cingolani
@@ -1392,6 +1387,12 @@ Rec. Español c. Yupanqui, a las 15.30 horas en Dep. Merlo
  Asistente 1: Felipe Onufrik
  Asistente 2: Bruno Castillo
  Cuarto árbitro: Matías Ansede
+Atlas c. Dep. Paraguayo, a las 15.30 horas
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Matías Noli
+ Asistente 2: Felipe Arrechea
+ Cuarto árbitro: Ramiro Maglio
+Martes 14 de mayo
 Ctral. Ballester c. Luján, a las 15.30 horas en Atlas
  Árbitro: Julián Beligoy
  Asistente 1: Sebastián Pumetti
