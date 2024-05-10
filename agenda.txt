@@ -2256,15 +2256,6 @@ La final se disputará en Buenos Aires.
 Fase de grupos
 Están clasificados River Plate, San Lorenzo, Talleres de Córdoba, Rosario Central y Estudiantes.
 Conmebol Libertadores
-Fecha 4
-Jueves 9 de mayo
-21.00 The Strongest – Estudiantes
- Árbitro: Roberto Pérez (PER)
- Asistente 1: Stephen Atoche (PER)
- Asistente 2: Diego Jaimes (PER)
- Cuarto árbitro: Edwin Ordoñez (PER)
- VAR:Diego Haro (PER)
- AVAR: Jhonny Bossio (PER)
 Fecha 5
 Martes 14 de mayo
 19.00 Talleres – Cobresal
@@ -2288,22 +2279,6 @@ La CONMEBOL Sudamericana cuenta con 32 equipos participantes, que se dividen en 
 Los segundos de cada grupo, disputarán un Play Off en el que se enfrentarán al tercer clasificado de los grupos de CONMEBOL Libertadores, para definir quien estará en Octavos de la CONMEBOL Sudamericana.
 Los enfrentamientos se darán a principios de abril y los premios han aumentado para esta edición. En esta fase todos los equipos se embolsarán unos USD 900.000 por sus compromisos en condición de local. Y un extra de USD 110.000 para los ganadores de los cruces.
 La final se disputará en Asunción, Paraguay.
-Fecha 4
-Jueves 9 de mayo
-21.00 Red Bull Bragantino - Racing 
- Árbitro: Kevin Ortega (PER)
- Asistente 1: Michael Orué (PER)
- Asistente 2: Jesús Sánchez (PER)
- Cuarto árbitro: Jesús Cartagena (PER)
- VAR: Augusto Menendez (PER)
- AVAR: Milagros Arruela (PER)
-23.00 Deportivo Garcilaso - Lanús 
- Árbitro: Gery Vargas (BOL)
- Asistente 1: Carlos Tapia (BOL)
- Asistente 2: Edwar Saavedra (BOL)
- Cuarto árbitro: Hostin Prado (BOL)
- VAR: Francisco Gilabert (CHI)
- AVAR: Alejandro Molina (CHI)
 Fecha 5
 Martes 14 de mayo 
 21.00 Defensa y Justicia - Independiente Medellín
@@ -2499,9 +2474,6 @@ Sede: Bolivia
 CONMEBOL Libertadores Fútbol Playa 2024
 El torneo se disputará del 1 al 8 de diciembre de 2024 en Ecuador.
 Liga Evolución Fútbol Playa 2024
-Fecha 2
- Jueves 9 de mayo
-20.30 Chile - Paraguay (Mayor)
 Fecha 3
  Viernes 10 de mayo
 16.00 Uruguay - Bolivia (Sub20)
