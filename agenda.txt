@@ -2539,72 +2539,72 @@ Fecha 5
 CONMEBOL Copa América 2024
 Se jugará en Estados Unidos con los 10 seleccionados sudamericanos y 6 invitados de la Concacaf.
 Fecha 1
- Argentina vs. Canadá, el 20 de junio en el Estadio Mercedes-Benz, Atlanta.
- Fecha 2
- Argentina vs. Chile, el 25 de junio en el MetLife Stadium, Nueva Jersey.
- Fecha 3
- Argentina vs. Perú, el 29 de junio en el Hard Rock Stadium, Miami.
+ Argentina vs. Canadá, el 20 de junio en el Estadio Mercedes-Benz, Atlanta, a las 21
+Fecha 2
+ Argentina vs. Chile, el 25 de junio en el MetLife Stadium, Nueva Jersey, a las 22
+Fecha 3
+ Argentina vs. Perú, el 29 de junio en el Hard Rock Stadium, Miami, a las 21
 Grupo A
-Argentina
-Perú
+ Argentina
+ Perú
  Chile
- Canadá 
+ Canadá
 Grupo B
-México
+ México
  Ecuador
  Venezuela
- Jamaica
+ Jamaica 
 Grupo C
-Estados Unidos
+ Estados Unidos
  Uruguay
  Panamá
- Bolivia
+ Bolivia 
 Grupo D
-Brasil
+ Brasil
  Colombia
  Paraguay
  Costa Rica
 Fixture
  Grupo A
-Fecha 1
- 20/6: Argentina-Canadá (Mercedez Benz Stadium, Atlanta)
- 21/6: Perú-Chile (AT&T Stadium, Arlington)
+ Fecha 1
+ 20/6: Argentina-Canadá (Mercedez Benz Stadium, Atlanta), a las 21
+ 21/6: Perú-Chile (AT&T Stadium, Arlington), a las 21
 Fecha 2
- 25/6: Chile-Argentina (MetLife Stadium, New Jersey)
- 25/6: Perú- Canadá (Children's Mercy Park, Kansas City)
+ 25/6: Perú- Canadá (Children's Mercy Park, Kansas City), a las 19
+ 25/6: Chile-Argentina (MetLife Stadium, New Jersey), a las 22
 Fecha 3
- 29/6: Argentina-Perú (Hard Rock Stadium, Miami)
- 29/6: Chile- Canadá (Exploria Stadium, Orlando)
+ 29/6: Argentina-Perú (Hard Rock Stadium, Miami), a las 21
+ 29/6: Chile- Canadá (Exploria Stadium, Orlando), a las 21
 Grupo B
-Fecha 1
- 22/6: México-Jamaica (NGR Stadium, Houston)
- 22/6: Ecuador-Venezuela (Levi's Stadium, Santa Clara)
+ Fecha 1
+ 22/6: Ecuador-Venezuela (Levi's Stadium, Santa Clara), a las 19
+ 22/6: México-Jamaica (NGR Stadium, Houston), a las 22
 Fecha 2
- 26/6: Ecuador-Jamaica (Elleglant Stadium, Las Vegas)
- 26/6: Venezuela-México (Sofi Stadium, Inglewood)
+ 26/6: Ecuador-Jamaica (Elleglant Stadium, Las Vegas), a las 19
+ 26/6: Venezuela-México (Sofi Stadium, Inglewood), a las 22
 Fecha 3
- 30/6: Jamaica-Venezuela (Q2 Stadium, Austin)
- 30/6: México-Ecuador (State Farm Stadium, Glendale)
+ 30/6: Jamaica-Venezuela (Q2 Stadium, Austin), a las 21
+ 30/6: México-Ecuador (State Farm Stadium, Glendale), a las 21
 Grupo C
-Fecha 1
- 23/6: Estados Unidos-Bolivia (AT&T Stadium, Arlington)
- 23/6: Uruguay-Panamá (Hard Rock Stadium, Miami)
+ Fecha 1
+ 23/6: Estados Unidos-Bolivia (AT&T Stadium, Arlington), a las 19
+ 23/6: Uruguay-Panamá (Hard Rock Stadium, Miami), a las 22
 Fecha 2
- 27/6: Uruguay-Bolivia (MetLife Stadium, New Jersey)
- 27/6: Panamá-Estados Unidos (Mercedes Benz Stadium, Atlanta)
+ 27/6: Panamá-Estados Unidos (Mercedes Benz Stadium, Atlanta), a las 19
+ 27/6: Uruguay-Bolivia (MetLife Stadium, New Jersey), a las 22
 Fecha 3
- 1/7: Estados Unidos-Uruguay (GEHA Field Stadium, Kansas City)
- 1/7: Panamá-Bolivia (Exploria Stadium, Orlando)
+ 1/7: Estados Unidos-Uruguay (GEHA Field Stadium, Kansas City), a las 22
+ 1/7: Panamá-Bolivia (Exploria Stadium, Orlando), a las 22
 Grupo D
-Fecha 1
- 24/6: Brasil-Honduras o Costa Rica (SoFi Stadium, Inglewood)
- 24/4: Colombia-Paraguay (NGR Stadium, Houston)
+ Fecha 1
+ 24/4: Colombia-Paraguay (NGR Stadium, Houston), a las 19
+ 24/6: Brasil-Costa Rica (SoFi Stadium, Inglewood), a las 22
 Fecha 2
- 28/6: Brasil-Paraguay (Alleglant Stadium, Las Vegas)
- 28/6: Colombia-Honduras o Costa Rica (State Farm Stadium, Glenadle)
+ 28/6: Colombia-Costa Rica (State Farm Stadium, Glenadle), a las 19
+ 28/6: Brasil-Paraguay (Alleglant Stadium, Las Vegas), a las 22
 Fecha 3
- 2/7: Brasil-Colombia (Levi's Stadium, Santa Clara)
- 2/7: Honduras o Costa Rica-Paraguay (Q2 Stadium, Austin)
+ 2/7: Brasil-Colombia (Levi's Stadium, Santa Clara), a las 22
+ 2/7: Costa Rica-Paraguay (Q2 Stadium, Austin), a las 22
 Cuartos de final
  5/7: 1A vs. 2B (Houston)
  5/7: 1B vs. 2A (Arlington)
