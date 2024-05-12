@@ -1928,7 +1928,6 @@ Fecha 8
 Postergado: Gimnasia - River
 Fecha 9
 Domingo 12 de mayo
- 12.30 Huracán - Boca, en La Quemita (TV)
  15.00 Platense - Belgrano, en predio Galván
  15.00 Racing - Estudiantes, en predio Tita Mattiussi
 Lunes 13 de mayo
@@ -2026,17 +2025,9 @@ Domingo 12 de mayo
  15.30 El Porvenir - Camioneros, en Estadio Gildo Ghersinich
 Zona B - Fecha 4
 Domingo 12 de mayo
- 10.00 Atl. de Rafaela - All Boys, en Polideportivo Ciudad de Rafaela
- 11.00 Unión - Deportivo Morón, en auxiliar (La Tatenguita)
  15.00 Estudiantes L.P. - Argentinos Jrs., en auxiliar (Country)
 Torneo Femenino de Primera C
 Fase Clasificación - Fecha 4
-Zona A
-Domingo 12 de mayo
- 11.00 Nueva Chicago - Aldosivi, en auxiliar
-Zona B
-Domingo 12 de mayo
- 11.00 Tigre - Puerto Nuevo, en auxiliar
 Zona C
 Domingo 12 de mayo
  15.00 Luján - Villas Unidas, en auxiliar
@@ -2306,18 +2297,6 @@ Sede: Bolivia
 CONMEBOL Libertadores Fútbol Playa 2024
 El torneo se disputará del 1 al 8 de diciembre de 2024 en Ecuador.
 Liga Evolución Fútbol Playa 2024
-Fecha 3
- Viernes 10 de mayo
-16.00 Uruguay - Bolivia (Sub20)
-17.30 Uruguay - Bolivia (Mayor)
-19.00 Argentina - Chile (Sub20)
-20.30 Argentina - Chile (Mayor)
-Fecha 4
- Sábado 11 de mayo
-16.00 Uruguay - Chile (Sub20)
-17.30 Uruguay - Chile (Mayor)
-19.00 Paraguay - Argentina (Sub20)
-20.30 Paraguay - Argentina (Mayor)
 Fecha 5
  Domingo 12 de mayo
 16.00 Chile - Bolivia (Sub20)
