@@ -1,25 +1,25 @@
 Publicado: 25/03/2019
 Torneo Betano 2024
 Fecha 2
-Viernes 17 de mayo
- 20.00 Barracas Central – Sarmiento
-Sábado 18 de mayo
- 15.30 Independiente Rivadavia – Godoy Cruz
- 17.45 Defensa y Justicia – Gimnasia
- 17.45 Talleres – Atlético Tucumán
- 20.00 River – Belgrano
-Domingo 19 de mayo
- 15.30 Platense – Independiente
- 17.45 Instituto – Unión
- 17.45 Banfield – Huracán
- 20.00 Central Córdoba – Boca
-Lunes 20 de mayo
- 19.00 San Lorenzo – Lanús
- 19.00 Estudiantes – Deportivo Riestra
- 21.15 Racing – Argentinos
- 21.15 Rosario Central – Tigre
-Martes 21 de mayo
- 20.00 Vélez – Newell’s
+Viernes 17-05
+ Barracas Ctral. - Sarmiento, a las 20.00 horas en Huracán
+Sábado 18-05
+ Independiente Riv. (Mza.) - Godoy Cruz, a las 15.30 horas
+ River Plate - Belgrano (Cba,), a las 18.00 horas 
+ Def. y Justicia - G. y Esgrima (L.P), a las 20.00 horas 
+ Instituto A.C.C. - Unión, a las 20.30 horas
+Domingo 19-05
+ Platense - Independiente, a las 15.30 horas
+ Talleres (Cba.) - Atl. Tucumán, a las 17.45 horas en estadio Mario A. Kempes
+ Banfield - Huracán, a las 17.45 horas
+ Ctral. Córdoba (S.E.) - Boca Juniors, a las 20.00 horas en estadio Madre de Ciudades
+Lunes 20-05
+ San Lorenzo de A. - Lanús, a las 19.00 horas
+ Estudiantes de L.P. - Dep. Riestra, a las 19.00 horas
+ Rosario Ctral. - Tigre, a las 21.15 horas
+ Racing Club - Argentinos Juniors, a las 21.15 horas
+Martes 21-05
+ Vélez Sarsfield - Newell´s Old Boys, a las 20.00 horas
 Fecha 3
 Viernes 24 de mayo
  15.30 Deportivo Riestra – Rosario Central
@@ -430,40 +430,29 @@ Atlético Tucumán – Central Córdoba
 Trofeo de Campeones
 El encuentro se disputará el domingo 22 de diciembre de 2024
 Copa Proyección Sur Finanzas Primer Semestre
-Fecha 12 – Semana 15/05
+Fecha 13 
 Zona A
-Barracas – Argentinos
- Atlético Tucumán – Instituto
- Independiente Rivadavia – Riestra
- River – Banfield
- San Lorenzo – Belgrano
- Racing – Rosario Central
- Vélez – Gimnasia
+Martes 21-05
+ Rosario Ctral. c. San Lorenzo de A., a las 15.00 horas en Rosario Ctral. (Aux. Arroyo Seco).
+ Banfield c. Independiente Riv. (Mza.), a las 15.00 horas en Banfield (Aux. L. Guillón).
+ Belgrano (Cba.) c. River Plate, a las 19.00 horas en Belgrano (Cba.) (Principal).
+Miércoles 22-05
+ Vélez Sarsfield c. Barracas Central, a las 15.00 horas en Vélez Sarsfield (Aux. V. Olímpica).
+ G. y Esgrima (L.P.) c. Racing Club, a las 15.00 horas en G. y Esgrima (L.P.) (Aux. Estancia Chica).
+Jueves 23-05
+ Instituto A.C.C. c. Argentinos Juniors, a las 15.00 horas en Polidep. La Agustina.
+ Dep. Riestra c. At. Tucumán, a las 15.00 horas en Dep. Riestra (Principal).
 Zona B
-Platense – Sarmiento
- Godoy Cruz – Central Córdoba
- Defens y Justicia – Unión
- Lanús – Boca
- Talleres – Huracán
- Newell’s – Independiente
- Estudiantes – Tigre
-Fecha 13 – Semana 22/05
-Zona A
-Vélez – Barracas
- Gimnasia – Racing
- Rosario Central – San Lorenzo
- Belgrano – River
- Banfield – Independiente Rivadavia
- Riestra – Atlético Tucumán
- Instituto – Argentinos
-Zona B
-Sarmiento – Tigre
- Independiente – Estudiantes
- Huracán – Newell’s
- Boca – Talleres
- Unión – Lanús
- Central Córdoba – Defensa y Justicia
- Platense – Godoy Cruz
+Martes 21-05
+ Independiente c. Estudiantes de L.P., a las 17.00 horas en Independiente (Principal).
+Miércoles 22-05
+ Sarmiento c. Tigre, a las 15.00 horas en Sarmiento (Aux. Ctro. A. Rendimiento).
+ Huracán c. Newell´s Old Boys, a las 15.00 horas en Huracán (Auxiliar).
+ Boca Juniors c. Talleres (Cba.), a las 17.00 horas en Boca Juniors (Aux. Ezeiza).
+Jueves 23-05
+ Platense c. Godoy Cruz, a las 15.00 horas en Platense (Principal).
+ Unión c. Lanús, a las 17.00 horas en Unión (Principal).
+ Ctral. Córdoba (S.E.) c. Def. y Justicia, a las 19.00 horas en Ctral. Córdoba (S.E.) (Principal).
 Fecha 14 – Semana 29/05
 Zona A
 Barracas – Instituto
@@ -483,27 +472,35 @@ Godoy Cruz – Sarmiento
  Tigre – Independiente
 Primera Nacional
 Fecha 16 
-Zona A
-San Miguel - Dep. Maipú (Mza.)
-Quilmes A.C. - G. Y Esgrima (J.)
-Talleres (R.E.) - Güemes (S.E.)
-Estudiantes - Alvarado (M.D.P.)
-Chacarita Jrs. - Racing (Cba.)
-San Martín (Tuc) - Patronato (P.)
-Arsenal F.C. - T. Suárez
-San Martín (S.J.) - All Boys
-Gmo. Brown (P.M.) - Agropecuario Arg.
-Zona B
-G. Y Esgrima (Mza.) - Dep. Morón
-G. Y Tiro (S.) - Temperley
-Mitre (S.E.) - Brown (Ad.)
-Aldosivi (M.D.P.) - Almagro
-Estudiantes (R. IV) - Def. De Belgrano
-Colón - Chaco For Ever
-Alte. Brown - San Telmo
-Atlanta - At. De Rafaela
-Def. Unidos - Dep. Madryn
-Interzonal Nva. Chicago - Ferro Carril Oeste
+Zona “A”
+Sábado 18-05
+ San Miguel - Dep. Maipú (Mza.), a las 15.30 horas
+ Talleres (R.E.) - Güemes (S.E.), a las 15.30 horas
+ Quilmes A.C. - G. y Esgrima (J.), a las 19.00 horas (TV)
+ Estudiantes - Alvarado (M.D.P.), a las 21.10 horas (TV)
+Domingo 19-05
+ Arsenal F.C. - Tristán Suarez, a las 15.00 horas
+ Brown (P.M.) - Agropecuario Arg., a las 15.00 horas
+ Chacarita Juniors - Racing (Cba.), a las 15.30 horas
+ San Martín (S.J.) - All Boys, a las 16.00 horas 
+Lunes 20-05
+ San Martín (T.) - Patronato (Paraná), a las 21.10 horas (TV)
+Zona “B”
+Viernes 17-05
+ G. y Tiro (Salta) - Temperley, a las 15.30 horas (TV)
+Domingo 19-05
+ Atlanta - Atl. de Rafaela, a las 14.00 horas
+ Def. Unidos - Dep. Madryn, a las 15.30 horas
+ G. y Esgrima (Mza.) - Dep. Morón a las 15.30 horas
+ Aldosivi (M.D.P.) - Almagro, a las 15.30 horas en estadio José M. Minella
+ Colón - Chaco For Ever, a las 15.45 horas (TV)
+ Estudiantes (Rio IV) - Def. de Belgrano, a las 18.00 horas 
+Lunes 20-05
+ Alte. Brown - San Telmo, a las 15.30 horas(TV)
+ Mitre (S.E.) - Brown (Adrogué), a las 21.30 horas 
+Interzonal
+Domingo 19-05
+ Nva. Chicago - Ferro Carril Oeste, a las 13.30 horas (TV)
 Fecha 17 
 Zona A
 All Boys - Gmo. Brown (P.M.)
@@ -989,21 +986,30 @@ Nva. Chicago Brown (Ad.)
 Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
-Fecha 9 
-Postergado: Arg. De Quilmes - Comunicaciones
 Primera B - 
 Fecha 17 
- Villa Dálmine - Sp. Italiano
- Arg. De Merlo - Villa San Carlos
- Liniers - Flandria
- Comunicaciones - Sp. Dock Sud
- Dep. Armenio - Colegiales
- Arg. De Quilmes - UAI - Urquiza
- Fénix - San Martín (B.)
- F.C. Midland - Acassuso
- Los Andes - Excursionistas
- Cañuelas F.C. - Sacachispas F.C.
- Dep. Laferrere - Dep. Merlo
+Viernes 17-05
+ Arg. de Quilmes - UAI Urquiza, a las 15.30 horas
+Sábado 18-05
+ Villa Dálmine - Sp. Italiano, a las 15.30 horas
+ Arg. de Merlo - Villa San Carlos, a las 15.30 horas
+ Liniers - Flandria, a las 15.30 horas
+ Dep. Armenio - Colegiales, a las 15.30 horas
+ Los Andes - Excursionistas, a las 15.30 horas (TV)
+ Cañuelas F.C. - Sacachispas F.C., a las 15.30 horas
+ Comunicaciones - Sp. Dock Sud, a las 16.45 horas (TV)
+Domingo 19-05
+ Dep. Laferrere - Dep. Merlo, a las 12.00 horas
+ Fénix - San Martín (B.), a las 15.30 horas en Juv. Unida
+ F.C. Midland - Acassuso, a las 17.00 horas
+Partidos pendientes
+9ª. fecha
+:
+Miércoles 22-05
+ Arg. de Quilmes - Comunicaciones, a las 15.30 horas
+10ª. fecha:
+Miércoles 22-05
+ Villa San Carlos - Los Andes, a las 15.30 horas, 45 minutos en dos periodos de 23 y 22 minutos respectivamente.
 Fecha 18 
  Dep. Laferrere - Villa Dálmine
  Dep. Merlo - Cañuelas F.C.
@@ -1053,17 +1059,7 @@ Fecha 21
  F.C. Midland - Dep. Laferrere
  Los Andes - Cañuelas F.C.
 Primera C
-Partidos pendientes
-Fecha 7
-Postergado
- Miércoles 22 de mayo
- 15.30 Claypole - Atlas
- Árbitro: Gonzalo Creimerman
- Asistente 1: Matías Pino
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Guido Mascheroni
 Fecha 17 
-Libre: Argentino (Ros.)
 Miércoles 15 de mayo
 Ctral. Ballester c. Luján, a las 15.30 horas en Atlas
  Árbitro: Julián Beligoy
@@ -1071,19 +1067,30 @@ Ctral. Ballester c. Luján, a las 15.30 horas en Atlas
  Asistente 2: Diego Ortíz
  Cuarto árbitro: Jonathan Barrios
 Fecha 18 
- Ctral. Cba. (Ros.) Libre 
- Mercedes - Puerto Nuevo 
- Muñiz - Lugano 
- Gral. Lamadrid - J. Unida 
- Ituzaingó - Claypole 
- El Porvenir - Ctral. Ballester 
- Luján - L.N. Alem 
- Sp. Barracas - V. Arenas 
- Berazategui - Ctro. Re- Español 
- Yupanqui - Dep. Español 
- J.J. De Urquiza - Atlas 
- Dep. Paraguayo - Def. De Cambaceres 
- Real Pilar - Argentino (Ros.) 
+Sábado 18-05
+Ituzaingó - Claypole, a las 14.30 horas (TV)
+ Muñiz - Lugano, a las 15.30 horas en Atlas
+ Sp. Barracas - Victoriano Arenas, a las 15.30 horas en Dep. Morón
+ Mercedes - Puerto Nuevo, a las 18.00 horas
+Domingo 19-05
+ Gral. Lamadrid - Juv. Unida, a las 15.30 horas
+ El Porvenir - Ctral. Ballester, a las 15.30 horas 
+ Luján - L.N. Alem, a las 15.30 horas
+ Berazategui - Rec. Español, a las 15.30 horas
+ J.J. de Urquiza - Atlas, a las 15.30 horas
+ Real Pilar F.C. - Argentino (Ros.), a las 15.30 horas en estadio Municipal de Pilar
+Martes 21-05
+ Dep. Paraguayo - Def. de Cambaceres, a las 15.30 horas en F.C. Midland
+Miércoles 22-05
+ Yupanqui - Dep. Español, a las 15.30 horas 
+Partido pendiente
+7ª. fecha:
+Miércoles 22-05
+ Claypole - Atlas, a las 15.30 horas
+ Árbitro: Gonzalo Creimerman
+ Asistente 1: Matías Pino
+ Asistente 2: Lucas Monsalvo
+ Cuarto árbitro: Guido Mascheroni
 Fecha 19 
  Libre Real Pilar 
  Argentino (Ros.) - Dep. Paraguayo 
@@ -1534,12 +1541,19 @@ Fecha 50
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Torneo Apertura
-Martes 14 de mayo
-Estrella de Berisso c. Barrancas F.C., a las 15.30 horas
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Nahuel Valdeon 
- Asistente 2: Joaquin Fraga
- Cuarto árbitro: Micaela Abelardo
+13ª. fecha:
+Viernes 17-05
+ F.C. Ezeiza - Juv. de Bernal, a las 14.00 horas en Estrella del Sur
+Sábado 18-05
+ Estrella del Sur - Estrella de Berisso, a las 15.00 horas
+ Belgrano (Zarate) - S.A.T., a las 15.30 horas
+Domingo 19-05
+ Everton (L.P.) - Def. de Glew, a las 15.30 horas
+Lunes 20-05
+ Barrancas F.C. - Provincial (Lobos), a las 13.30 horas en Excursionistas
+ Dep. Metalúrgico - Náutico Hacoaj, a las 15.30 horas en Dep. Armenio
+Viernes 24-05
+ Camioneros - At. Pilar, a las 15.00 horas (TV)
 Copa Argentina
 FASE FINAL – 32vos.
 Miércoles 15 de mayo 
