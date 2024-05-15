@@ -142,21 +142,24 @@ Martes 4 de junio
  20.00 Banfield – Newell’s
  20.00 Independiente Rivadavia – Unión
 Fecha 5
- Semana 12/06
-Argentinos – Central Córdoba
- Tigre – Belgrano
- Riestra – River
- Lanús – Racing
- Godoy Cruz – Rosario Central
- Sarmiento – Estudiantes
- Unión – San Lorenzo
- Huracán – Independiente Rivadavia
- Gimnasia – Barracas
- Newell’s – Instituto
- Independiente – Banfield
- Atlético Tucumán – Defensa y Justicia
- Boca – Vélez
- Talleres – Platense
+Miércoles 12 de junio
+ 19.00 Godoy Cruz – Rosario Central
+ 19.00 Argentinos – Central Córdoba
+ 21.15 Independiente- Banfield
+ 21.15 Gimnasia – Barracas Central
+Jueves 13 de junio
+ 15.30 Deportivo Riestra – River
+ 19.00 Tigre – Belgrano
+ 19.00 Sarmiento – Estudiantes
+ 21.15 Lanús – Racing
+ 21.15 Newell’s – Instituto
+Viernes 14 de junio
+ 19.00 Talleres – Platense
+ 21.00 Boca – Vélez
+Sábado 15 de junio
+ 16.00 Unión – San Lorenzo
+ 18.00 Huracán – Independiente Rivadavia
+ 20.00 Atlético Tucumán – Defensa y Justicia
 Fecha 6
  Semana 21/07
 Central Córdoba – Platense
@@ -518,13 +521,14 @@ Zona A
 Martes 21 de mayo
  Rosario Ctral. c. San Lorenzo de A., a las 15.00 horas en Rosario Ctral. (Aux. Arroyo Seco).
  Banfield c. Independiente Riv. (Mza.), a las 15.00 horas en Banfield (Aux. L. Guillón).
- Belgrano (Cba.) c. River Plate, a las 19.00 horas en Belgrano (Cba.) (Principal).
 Miércoles 22 de mayo
  Vélez Sarsfield c. Barracas Central, a las 15.00 horas en Vélez Sarsfield (Aux. V. Olímpica).
- G. y Esgrima (L.P.) c. Racing Club, a las 15.00 horas en G. y Esgrima (L.P.) (Aux. Estancia Chica).
+ Belgrano (Cba.) c. River Plate, a las 15.00 horas en
+el predio Armando Pérez
 Jueves 23 de mayo
  Instituto A.C.C. c. Argentinos Juniors, a las 15.00 horas en Polidep. La Agustina.
- Dep. Riestra c. At. Tucumán, a las 15.00 horas en Dep. Riestra (Principal).
+ Dep. Riestra c. At. Tucumán, a las 15.00 horas en Dep. Riestra (Principal)
+ G. y Esgrima (L.P.) c. Racing Club, a las 15.00 horas en G. y Esgrima (L.P.) (Aux. Estancia Chica).
 Zona B
 Martes 21 de mayo
  Independiente c. Estudiantes de L.P., a las 17.00 horas en Independiente (Principal).
@@ -612,7 +616,8 @@ G. y Tiro (Salta) - Temperley, a las 15.30 horas (TV)
  Asistente 2: Malvina Schiel
  Cuarto árbitro: Mauricio Martín
 Domingo 19 de mayo
-Atlanta - Atl. de Rafaela, a las 13.45 horas
+Atlanta - Atl. de Rafaela, a las 13.45 horas 
+(TV)
  Árbitro: Juan Cruz robledo
  Asistente 1: Ruben bustos
  Asistente 2: Javier Mihura
@@ -2197,16 +2202,6 @@ Los enfrentamientos se darán a principios de abril y los premios han aumentado 
 La final se disputará en Asunción, Paraguay.
 Fecha 5
 Miércoles 15 de mayo
-19.00 Belgrano - Real Tomayapo
- Árbitro: Michael Espinoza (Perú)
- Asistente 1: Leonar Soto (Perú)
- Asistente 2: Coty Cabrera (Perú)
- Cuarto árbitro: Augusto Menéndez (Perú)
-19.00 Lanús - Metropolitanos
- Árbitro: Jhon Hinestroza (Colombia)
- Asistente 1: Miguel Roldán (Colombia)
- Asistente 2: Mayra Sánchez (Colombia)
- Cuarto árbitro: Andrés Rojas (Colombia)
 21.00 Boca - Fortaleza 
  Árbitro: Jesús Valenzuela (Venezuela)
  Asistente 1: Jorge Urrego (Venezuela)
@@ -2528,11 +2523,11 @@ Equipos participantes:
  3. 2023/24: Esperance (Túnez)
  Mediante el sistema de puntos: 1 club
  4. Mamelodi (Sudáfrica)
-ASIA – 4 clubes
- Ganadores de la Liga de Campeones de la AFC: 3 clubes
+ASIA – 4 clubesASIA – 4 clubes
+Ganadores de la Liga de Campeones de la AFC: 3 clubes
  1. 2021: Al Hilal SFC (KSA)
  2. 2022: Urawa Red Diamonds (Japón)
- 3. 2023/24: Por confirmar
+ 3. 2023/24: Ulsan HD FC (República de Corea)
  Mediante el sistema de puntos: 1 club
  4. Por confirmar
 EUROPA – 12 clubes
