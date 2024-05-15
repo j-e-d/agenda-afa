@@ -1270,13 +1270,6 @@ Fecha 21
  F.C. Midland - Dep. Laferrere
  Los Andes - Cañuelas F.C.
 Primera C
-Fecha 17 
-Miércoles 15 de mayo
-Ctral. Ballester c. Luján, a las 15.30 horas en Atlas
- Árbitro: Julián Beligoy
- Asistente 1: Sebastián Pumetti
- Asistente 2: Diego Ortíz
- Cuarto árbitro: Jonathan Barrios
 Fecha 18 
 Sábado 18 de mayo
 Ituzaingó - Claypole, a las 14.30 horas (TV)
@@ -1843,13 +1836,6 @@ Camioneros - At. Pilar, a las 15.00 horas (TV)
  Asistente 2: Joaquín Fraga
  Cuarto árbitro: Facundo Carretero
 Copa Argentina
-FASE FINAL – 32vos.
-Miércoles 15 de mayo 
-17.15 Alte. Brown - San Martín (Tuc.), en Colón (TV)
- Árbitro: Andrés Gariano
- Asistente 1: Damián Espinoza
- Asistente 2: Matías Bianchi
- Cuarto árbitro: Adrián Franklin
 FASE FINAL – 16vos.
 Jueves 16 de mayo
  17.10 Deportivo Riestra - Newell's, en Patronato (TV)
@@ -1879,60 +1865,6 @@ Estudiantes SL - Camioneros (Luján)
 Atenas de Río Cuarto - Universitario de San Luis
 Fecha 9
 Miércoles 15 de mayo
-14.00 Ferro Carril Oeste (GP) - San Martín (SM)
-Cuerpo arbitral:
- Fernando Marcos
- Guillermo Yacante
- Emiliano Bustos
- Leopoldo Gorosito
-15.00 Olimpo - Kimberley
-Cuerpo arbitral:
- Gastón Montón Brizuela reemplaza a Lucas Cavallero
- M. Belen Bevilacqua
- Matías González
- Franco Moron
- 15.15 Sol De América (F) - Juv. Antoniana
-Cuerpo arbitral:
- Marcos Liuzzi
- Martin Nardelli
- Leonel Suarez-
- Nicolas Sosa
-15.30 Boca Unidos - San Martín (F)
-Cuerpo arbitral:
- Mariano Agli
- Mariano Gonzalez
- Robertino Rosas
- Agustin Vegetti
-15.30 Círculo Deportivo - Villa Mitre
-Cuerpo arbitral:
- Diego Novelli
- Lautaro Paletta
- Fernando Zabalza
- Camila Romero
-15.30 Sansinena – Santamarina
-Cuerpo arbitral:
- Matias Billone
- Matias Balmaceda
- Marcos Guzman
- Daiana Ilari
-16.00 Sportivo Estudiantes (SL) - Ciudad De Bolívar
-Cuerpo arbitral:
- Alvaro Carranza
- Emanuel Serale
- Uvab Araya
- Jorge Etem
- 16.00 Gutiérrez - Juventud Unida Universitario
-Cuerpo arbitral:
- Cesar Ceballos
- Marcelo Gonzalez
- Ezequiel Agüero
- Guido Medina
-16.00 Deportivo Rincón – Germinal
-Cuerpo arbitral:
- Jose Diaz
- Juan Ignacio Flores
- Federico Ojeda
- Leandro Hartfield
 19.30 Sp. Las Parejas - Douglas Haig
 Cuerpo arbitral:
  Joaquin Gil
@@ -1981,6 +1913,135 @@ Cuerpo arbitral:
  Carlos Viglietti
  Joaquin Badano
  Maximiliano Silcan
+Fecha 10
+Sábado 18 de mayo
+15.00 Dep. Rincón – Sol De Mayo
+Cuerpo arbitral
+:
+ Juan Nebbietti
+ Leopoldo Gorosito
+ Emiliano Bustos
+ Diego Álvarez
+Domingo 19 de mayo
+11.00 Atenas – FFCC Oeste GP
+Cuerpo arbitral
+:
+ Marcelo Sanz
+ Claudio Cabrelli
+ José Orellana
+ Carlos Gerez
+15.00 Santamarina – Villa Mitre
+Cuerpo arbitral
+:
+ Cesar Ceballos
+ Matias Gonzalez
+ Oscar Bono
+ Santiago Schmoll
+15.00 Círculo Deportivo – Germinal
+Cuerpo arbitral
+:
+ Fernando Marcos
+ Danilo Viola
+ Rodrigo Moreno
+ Agustín Lamberti
+15.30 El Linqueño – Gimnasia C.U
+Cuerpo arbitral
+:
+ Maximiliano Macheroni
+ Hugo Fleitas
+ Karim Doussouk
+ Bruno Pezzotta
+15.30 At. San Martín – Camioneros Luján
+Cuerpo arbitral
+:
+ Matías Billone
+ Marcos Guzmán
+ Marcelo González
+ Dalma Perez
+15.30 Olimpo – Sansinena
+Cuerpo arbitral
+:
+ Enzo Silvestre
+ Mariano González
+ Robertino Rosas
+ Agustín Vegetti
+15.30 Union S – San Martin De Formosa
+Cuerpo arbitral
+:
+ Gustavo Benites
+ Luciano Díaz
+ Walter Cardozo
+ Diego Ocampo
+15.30 Depro – Independiente (Chi)
+Cuerpo arbitral
+:
+ Luis Martinez
+ Rodrigo Jara
+ Fernando Muñoz
+ Rodrigo Cabrera
+15.30 Crucero Del Norte – Juventud Antoniana
+Cuerpo arbitral
+:
+ Nelson Bejas
+ Leila Argarañaz
+ Jose Ponce
+ Rodrigo Ballestero
+16.00 Gutiérrez – Ciudad De Bolívar
+Cuerpo arbitral
+:
+ Pablo Nuñez
+ Cristian Ramonda
+ Matias Noguera
+ Mario Rojo
+16.00 Estudiantes (SL) – Huracán (LH)
+Cuerpo arbitral
+:
+ Guido Medina
+ Ezequiel Agüero
+ Gonzalo Roldan
+ Fernando Ruarte
+16.00 Cipolleti – Kimberley
+Cuerpo arbitral
+:
+ Diego Novelli
+ Lautaro Paletta
+ Fernando Zabalza
+ Nicolas Moreno
+16.00 Nueve De Julio (R) – Douglas Haig
+Cuerpo arbitral
+:
+ Luciano Julio
+ Jorge Sayago
+ Luis Ortiz
+ Williams Abdala
+16.00 Argentino (P) – J. Universitario (SL)
+Cuerpo arbitral
+:
+ Marcos Liuzzi
+ Carlos Viglietti
+ Leonel Suarez
+ Patricio Destéfano
+16.00 Sportivo At- Sportivo Belgrano
+Cuerpo arbitral
+:
+ Jose Diaz
+ Juan Ignacio Flores
+ Federico Ojeda
+ Alejo Cid
+16.00 Sol De América – Sarmiento (R)
+Cuerpo arbitral
+:
+ Joaquin Gil
+ Joaquin Badano
+ Sergio Perez
+ Andrés Franco
+16.00 Boca Unidos – Sarmiento (Sgo)
+Cuerpo arbitral
+:
+ Jose Sandoval
+ Guido Cordoba
+ Lautaro Castañola
+ Franco Rioja
 Torneo Femenino de Primera División 2024
 ​​​​
 Fecha 3
