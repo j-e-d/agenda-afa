@@ -1,14 +1,6 @@
 Publicado: 25/03/2019
 Torneo Betano 2024
 Fecha 2
-Viernes 17 de mayo
-Barracas Ctral. vs Sarmiento a las 20.00 horas en Huracán
- Árbitro: Yael Falcón Pérez
- Asistente 1: Walter Ferreyra
- Asistente 2: Gerardo Lencina
- Cuarto árbitro: José Carreras
- VAR: Diego Ceballos
- AVAR: Pablo González
 Sábado 18 de mayo
 Independiente Riv. (Mza.) vs Godoy Cruz a las 15.30 horas
  Árbitro: Darío Herrera
@@ -39,6 +31,13 @@ Instituto A.C.C. vs Unión a las 20.30 horas
  VAR: Andrés Merlos
  AVAR: Juan del Fueyo
 Domingo 19 de mayo
+Barracas Ctral. vs Sarmiento a las 15.00 horas en Huracán
+ Árbitro: Yael Falcón Pérez
+ Asistente 1: Walter Ferreyra
+ Asistente 2: Gerardo Lencina
+ Cuarto árbitro: José Carreras
+ VAR: Diego Ceballos
+ AVAR: Pablo González
 Platense vs Independiente a las 15.30 horas
  Árbitro: Leandro Rey Hilfer
  Asistente 1: Maximiliano Del Yesso
@@ -103,6 +102,7 @@ Vélez Sarsfield vs Newell's Old Boys, a las 20.00 horas
  Asistente 2: Erik Grunnman
  Cuarto árbitro: Salomé Di Iorio
  VAR: Yamil Possi
+ AVAR: Diego Romero 
 Fecha 3
 Viernes 24 de mayo
  15.30 Deportivo Riestra – Rosario Central
