@@ -2,20 +2,6 @@ Publicado: 25/03/2019
 Torneo Betano 2024
 Fecha 2
 Domingo 19 de mayo
-Talleres (Cba.) vs Atl. Tucumán a las 17.45 horas en estadio Mario A. Kempes
- Árbitro: Nazareno Arasa
- Asistente 1: Damián Espinoza
- Asistente 2: Marcos Horticolou
- Cuarto árbitro: Adrián Franklin
- VAR: Mauro Vigliano
- AVAR: Pablo Giménez
-Banfield vs Huracán a las 17.45 horas
- Árbitro: Jorge Baliño
- Asistente 1: Sebastián Raineri
- Asistente 2: Juan Del Fueyo
- Cuarto árbitro: Franco Morón
- VAR: Lucas Novelli
- AVAR: Facundo Rodríguez
 Ctral. Córdoba (S.E.) vs Boca Juniors a las 20.00 horas en estadio Madre de Ciudades
  Árbitro: Facundo Tello
  Asistente 1: Cristian Navarro
@@ -524,12 +510,6 @@ San Martín (T.) - Patronato (Paraná), a las 21.10 horas (TV)
  Asistente 2: Hernán Vallejos
  Cuarto árbitro: Francisco Acosta
 Zona “B”
-Domingo 19 de mayo
-Estudiantes (Río IV) - Def. de Belgrano, a las 18.00 horas 
- Árbitro: Bryan Ferreyra
- Asistente 1: Manuel Sánchez
- Asistente 2: Martín Saccone
- Cuarto árbitro: Maximiliano Manduca
 Lunes 20 de mayo
  Alte. Brown - San Telmo, a las 15.30 horas(TV)
  Árbitro: Julio Barraza
@@ -1804,7 +1784,6 @@ Grupo C
  Santiago Wanderers (Chile)
 Fixture Fase de Grupos
 Domingo 19
- 18.00 Cascavel – Barracas Central
  20.00 San Lorenzo – Independiente de Barranquilla
 Lunes 20
  10.00 Peñarol – Magnus Futsal
