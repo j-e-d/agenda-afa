@@ -1587,7 +1587,7 @@ Jueves 30 de mayo
  Independiente R. (Mza.) - Banfield, en horario y estadio a designar
 Miércoles 5 de junio
  Argentinos Jrs. - Atlético de Rafaela, en horario y estadio a designar
- Vélez - Arsenal, en horario y estadio a designar
+ Arsenal - Vélez, en horario y estadio a designar
 Jueves 6 de junio
  Talleres - Colón, en horario y estadio a designar
 Viernes 7 de junio
@@ -1615,9 +1615,6 @@ Fecha 7
 Postergado: River Plate - Rosario Central
 Fecha 8
 Postergado: Gimnasia - River
-Fecha 10
-Lunes 20 de mayo
- 15.00 River - Huracán, en River Camp (TV)
 Fecha 11
  Huracán - Estudiantes
  Boca - Ferro
@@ -1779,7 +1776,6 @@ Grupo C
  Santiago Wanderers (Chile)
 Fixture Fase de Grupos
 Lunes 20
- 14.00 Cerro Porteño - Cascavel
  16.00 Panta Walon – Independiente de Barranquilla
  18.00 Fantasmas MM – San Lorenzo
  20.00 Centauros – Barracas Central
