@@ -10,24 +10,24 @@ Vélez Sarsfield vs Newell's Old Boys, a las 20.00 horas
  VAR: Yamil Possi
  AVAR: Diego Romero 
 Fecha 3
-Viernes 24 de mayo
- 15.30 Deportivo Riestra – Rosario Central
- 19.00 Tigre – Racing
- 21.15 Belgrano – Central Córdoba
- 21.15 Lanús – Estudiantes
-Sábado 25 de mayo
- 15.00 Argentinos – River
- 17.30 Godoy Cruz – San Lorenzo
- 17.30 Newell’s – Defensa y Justicia
- 20.00 Boca – Talleres
-Domingo 26 de mayo
- 15.30 Huracán – Instituto
- 17.30 Sarmiento – Independiente Rivadavia
- 17.45 Gimnasia – Banfield
- 20.00 Independiente – Vélez
-Lunes 27 de mayo
- 19.00 Unión – Barracas Central
- 21.00 Atlético Tucumán – Platense
+Viernes 24-05
+ Dep. Riestra - Rosario Central, a las 15.30 horas
+ Tigre - Racing Club, a las 19.00 horas 
+ Belgrano (Cba.) - Ctral. Córdoba (S.E.), a las 21.15 horas 
+ Lanús - Estudiantes de L.P., a las 21.15 horas
+Sábado 25-05
+ Argentinos Juniors - River Plate, a las 15.00 horas 
+ Godoy Cruz - San Lorenzo de A., a las 17.30 horas en estadio Mendoza
+ Newell´s Old Boys - Def. y Justicia, a las 17.30 horas
+ Boca Juniors - Talleres (Cba.), a las 20.00 horas
+Domingo 26-05
+ Huracán - Instituto A.C.C., a las 15.30 horas
+ Sarmiento - Independiente Riv. (Mza.), a las 17.30 horas
+ G. y Esgrima (L.P.) - Banfield, a las 17.45 horas
+ Independiente - Vélez Sarsfield, a las 20.00 horas
+Lunes 27-05
+ Unión - Barracas Central, a las 19.00 horas
+ Atl. Tucumán - Platense, a las 21.00 horas
 Fecha 4
 Sábado 1° de junio
  18.00 Racing – Deportivo Riestra
@@ -473,27 +473,34 @@ Martes 21 de mayo
  Asistente 2: Damián Olivetto
  Cuarto árbitro: Jonathan de Oto
 Fecha 17 
-Zona A
-All Boys - Gmo. Brown (P.M.)
-T. Suárez - San Martín (S.J.)
-Patronato (P.) - Arsenal F.C.
-Racing (Cba.) - San Martín (Tuc)
-Alvarado (M.D.P.) - Chacarita Jrs.
-Güemes (S.E.) - Estudiantes
-G. Y Esgrima (J.) - Talleres (R.E.)
-Dep. Maipú (Mza.) - Quilmes A.C.
-Ferro Carril Oeste - San Miguel
-Zona B
-Dep. Madryn - Atlanta
-At. De Rafaela - Alte. Brown
-San Telmo - Colón
-Chaco For Ever - Estudiantes (R. IV)
-Def. De Belgrano - Aldosivi (M.D.P.)
-Almagro - Mitre (S.E.)
-Brown (Ad.) - G. Y Tiro (S.)
-Temperley - G. Y Esgrima (Mza.)
-Dep. Morón - Nva. Chicago
-Interzonal Agropecuario Arg. - Def. Unidos
+Zona “A”
+Sábado 25-05
+ Tristán Suárez - San Martín (S.J.), a las 13.30 horas (TV)
+Domingo 26-05
+ Ferro Carril Oeste - San Miguel, a las 13.10 horas (TV)
+ Güemes (S.E.) - Estudiantes, a las 15.00 horas
+ Dep. Maipú (Mza.) - Quilmes A.C., a las 15.30 horas 
+ Alvarado (M.D.P.) - Chacarita Juniors, a las 15.30 horas
+ All Boys - Brown (P.M.), a las 15.30 horas
+ Patronato (Paraná) - Arsenal F.C., a las 16.00 horas
+ G. y Esgrima (J.) - Talleres (R.E.), a las 16.00 horas 
+ Racing (Cba.) - San Martin (T.), a las 17.30 horas (TV)
+Zona “B”
+Sábado 25-05
+ San Telmo - Colón, a las 12.45 horas (TV)
+ At. de Rafaela - Alte. Brown, a las 18.00 horas
+Domingo 26-05
+ Brown (Adrogué) - G. y Tiro (Salta), a las 15.00 horas
+ Dep. Madryn - Atlanta, a las 15.00 horas
+ Dep. Morón - Nva. Chicago, a las 15.20 horas (TV)
+ Almagro - Mitre (S.E.), a las 15.30 horas
+ Chaco For Ever - Estudiantes (Rio IV), a las 16.00 horas
+Lunes 27-05
+ Def. de Belgrano - Aldosivi (M.D.P.), a las 18.00 horas (TV)
+ Temperley - G. y Esgrima (Mza.), a las 21.10 horas (TV)
+Interzonal
+Sábado 25-05
+ Agropecuario Arg. - Def. Unidos, a las 15.00 horas
 Fecha 18 
 Zona A
 Quilmes A.C. - Ferro Carril Oeste
@@ -976,17 +983,21 @@ Miércoles 22 de mayo
  Asistente 2: Matías Panozzo
  Cuarto árbitro: Mateo Bocaccia
 Fecha 18 
- Dep. Laferrere - Villa Dálmine
- Dep. Merlo - Cañuelas F.C.
- Sacachispas F.C. - Los Andes
- Excursionistas - F.C. Midland
- Acassuso - Fénix
- San Martín (B.) - Arg. De Quilmes
- Uai - Urquiza - Dep. Armenio
- Colegiales - Comunicaciones
- Sp. Dock Sud - Liniers
- Flandria - Arg. De Merlo
- Villa San Carlos - Sp. Italiano
+Viernes 24-05
+ Excursionistas - F.C. Midland, a las 21.10 horas (TV)
+Sábado 25-05
+ Dep. Laferrere - Villa Dálmine, a las 15.30 horas
+ Dep. Merlo - Cañuelas F.C., a las 15.30 horas
+ Acassuso - Fénix, a las 15.30 horas en Dep. Armenio
+ UAI Urquiza - Dep. Armenio, a las 15.30 horas
+ Flandria - Arg. de Merlo, a las 15.30 horas
+ Villa San Carlos - Sp. Italiano, a las 15.30 horas
+Domingo 26-05
+ Sp. Dock Sud - Liniers, a las 12.00 horas
+ Colegiales - Comunicaciones, a las 13.30 horas (TV)
+Lunes 27-05
+ Sacachispas F.C. - Los Andes, a las 15.30 horas
+ San Martin (B.) - Arg. de Quilmes, a las 20.00 horas
 Fecha 19 
  Villa Dálmine - Villa San Carlos
  Sp. Italiano - Flandria
@@ -1052,18 +1063,23 @@ Miércoles 22 de mayo
  Cuarto árbitro: Guido Mascheroni
 Fecha 19 
  Libre Real Pilar 
- Argentino (Ros.) - Dep. Paraguayo 
- Def. De Cambaceres - J.J. De Urquiza 
- Atlas - Yupanqui 
- Dep. Español - Berazategui 
- Ctro. Re- Español - Sp. Barracas 
- V. Arenas - Luján 
- L.N. Alem - El Porvenir 
- Ctral. Ballester - Ituzaingó 
- Claypole - Gral. Lamadrid 
- J. Unida - Muñiz 
- Lugano - Mercedes 
- Puerto Nuevo - Ctral. Cba. (Ros.) 
+Viernes 24-05
+ L.N. Alem - El Porvenir, a las 15.30 horas 
+Sábado 25-05
+ Claypole - Gral. Lamadrid, a las 15.30 horas
+ Puerto Nuevo - Ctral. Córdoba (Ros.), a las 15.30 horas
+ Victoriano Arenas - Luján, a las 15.30 horas
+Domingo 26-05
+ Argentino (Ros.) - Dep. Paraguayo, a las 15.30 horas en Club Puerto San Martín (Sta. Fe)
+ Atlas - Yupanqui, a las 15.30 horas 
+ Ctral. Ballester - Ituzaingó, a las 15.30 horas
+ Juv. Unida - Muñiz, a las 15.30 horas
+Lunes 27-05
+ Def. de Cambaceres - J.J. de Urquiza, a las 15.30 horas 
+ Rec. Español - Sp. Barracas, a las 15.30 horas en F.C. Midland
+ Lugano - Mercedes, a las 15.30 horas en Juv. Unida
+Martes 28-05
+ Dep. Español - Dep. Berazategui, a las 15.35 horas (TV)
 Fecha 20 
  Puerto Nuevo Libre 
  Ctral. Cba. (Ros.) - Lugano 
