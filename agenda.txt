@@ -1522,9 +1522,9 @@ Miércoles 22 de mayo
  Asistente 2: Manuel Sanchez
  Cuarto árbitro: Carlos Córdoba
 Miércoles 29 de mayo
- El Porvenir - Godoy Cruz, en horario y estadio a designar
+ El Porvenir - Godoy Cruz, a las 15.30 en Belgrano de Cba. (TV)
 Jueves 30 de mayo 
- Independiente R. (Mza.) - Banfield, en horario y estadio a designar
+ Independiente R. (Mza.) - Banfield, a las 15.30 horas en estadio Mario A. Kempes (TV)
 Miércoles 5 de junio
  Argentinos Jrs. - Atlético de Rafaela, en horario y estadio a designar
  Arsenal - Vélez, en horario y estadio a designar
@@ -1556,15 +1556,18 @@ Postergado: River Plate - Rosario Central
 Fecha 8
 Postergado: Gimnasia - River
 Fecha 11
- Huracán - Estudiantes
- Boca - Ferro
- Racing Club - Banfield
- S.A.T. - San Lorenzo
- Newell's - Belgrano
- San Luis F.C. - Rosario Central
- Platense - Gimnasia
- Excursionistas - Independiente
- UAI - Urquiza - River Plate
+Viernes 24 de mayo
+ 15.00 Newell's - Belgrano, en Predio Bella Vista
+Sábado 25 de mayo
+ 10.00 Boca - Ferro, en Casa Amarilla
+ 11.00 Huracán - Estudiantes, en La Quemita
+ 12.00 Excursionistas - Independiente, en Estadio
+ 15.00 Racing - Banfield, en Predio Tita Mattiussi
+ 15.00 SAT - San Lorenzo, en Estadio 12 de agosto
+Domingo 26 de mayo
+ 11.00 San Luis - Rosario Central, en Estadio Juan Gilberto Funes
+ 11.00 Platense - Gimnasia, en predio Galván
+ 13.00 UAI Urquiza - River, en Estadio Monumental de Villa Lynch
 Fecha 12
  UAI - Urquiza - Huracán
  River Plate - Excursionistas
@@ -1661,8 +1664,8 @@ La final se disputará en Asunción, Paraguay.
 Fecha 6
 Martes 28 de mayo
 19.00 Argentinos - Nacional 
-21.30 Internacional -Belgrano
- 21.30 Racing - Sportivo Luqueño
+21.30 Internacional -Belgrano en el ARENA BARUERI – Barueri, São Paulo, Brasil
+21.30 Racing - Sportivo Luqueño
 Miércoles 29 de mayo
 19.00 Lanús - Cuiabá
 21.00 Defensa y Justicia - Universidad César Vallejo
