@@ -9,14 +9,6 @@ Godoy Cruz - San Lorenzo de A., en estadio Mendoza
  Cuarto árbitro: Gastón Monson Brizuela
  VAR: Mauro Vigliano
  AVAR: Mariana De Almeida
-Domingo 26-05
-Independiente - Vélez Sarsfield, a las 20.00 horas
- Árbitro: Darío Herrera
- Asistente 1: Pablo González
- Asistente 2: Maximiliano Castelli
- Cuarto árbitro: Sebastián Bresba
- VAR: Héctor Paletta
- AVAR: Gisella Trucco
 Lunes 27-05
  Unión - Barracas Central, a las 19.00 horas
  Árbitro: Nicolás Ramírez
@@ -1672,35 +1664,8 @@ La Copa Mundial Femenina Sub-20 Colombia 2024 se iniciará el 31 de agosto y con
  España (Vigentes campeonas - UEFA)
  Estados Unidos (Concacaf)
  Venezuela (Conmebol)
-CONMEBOL Libertadores de Futsal 2024
-El torneo se jugará del 19 al 26 de mayo en el Estadio Movistar Arena de Pilar, con San Lorenzo y Barracas Central como representantes argentinos.
-Grupo A
- Cascavel (Brasil)
- Centauros de Caracas (Venezuela)
- Cerro Porteño (Paraguay)
- Barracas Central
-Grupo B
- San Lorenzo
- Panta Walon (Perú)
- Fantasmas Morales Moralitos (Bolivia)
- Independiente de Barranquilla (Colombia)
-Grupo C
- Magnus Futsal (Brasil)
- SS Boca (Ecuador)
- Peñarol (Uruguay)
- Santiago Wanderers (Chile)
-Fixture Fase de Grupos
-Lunes 20
- 16.00 Panta Walon – Independiente de Barranquilla
- 18.00 Fantasmas MM – San Lorenzo
- 20.00 Centauros – Barracas Central
-Martes 21
- 10.00 Magnus Futsal – SS Bocca
- 12.00 Santiago Wanderers - Peñarol
- 14.00 Independiente de Barranquilla – Fantasmas MM
- 16.00 Cascavel - Centauros
- 18.00 Barracas Central – Cerro Porteño
- 20.00 San Lorenzo – Panta Walon
+.
+.
 CONMEBOL Libertadores Futsal Femenina 2024
 El torneo se disputará entre el 21 y 28 de julio de 2024 en Bolivia.
 CONMEBOL Sub 17 Futsal 2024
@@ -1910,17 +1875,22 @@ Colombia será el anfitrión de la Copa Mundial Femenina Sub-20 de la FIFA 2024,
  OFC (2): Fiyi, Nueva Zelanda
  UEFA (5): Alemania, Austria, España, Francia, Países Bajos
 Copa Mundial de Futsal de la FIFA 2024
-El torneo se llevará a cabo en Uzbekistán del 14 de septiembre al 6 de octubre de 2024.
-Equipos clasificados
-Angola, Argentina, Brasil, Costa Rica, Croacia, Cuba, Francia, Guatemala, Kazajistán, Países Bajos, Nueva Zelanda, Panamá, Paraguay, Portugal, España, Ucrania, Uzbekistán, Venezuela, Marruecos y Libia.
-Plazas de clasificación por definir
- AFC: 4
-Copa Asiática de Fútbol Sala de la AFC
- Fechas: 17-28 de abril de 2024
- Sede: Tailandia
- Plazas para Uzbekistán 2024: 4
-Uzbekistán 2024: modo de competición
- Las 24 naciones se dividirán en seis grupos de cuatro. ﻿Los dos primeros de cada grupo, junto con los cuatro mejores terceros, accederán a la fase eliminatoria. A continuación, se disputarán los octavos de final, los cuartos de final, las semifinales, el partido por el tercer puesto y la final.
+La décima edición de la Copa Mundial de Futsal de la FIFA se disputará del 14 de septiembre al 6 de octubre en tres ciudades de Uzbekistán: Tashkent, capital del país, Andiyán, situada en pleno Valle de Ferganá, y Bujará, centro neurálgico de la antigua Ruta de la Seda.
+Los grupos quedaron conformados de la siguiente manera:
+Grupo A:
+ Uzbekistán, Países Bajos, Paraguay y Costa Rica.
+Grupo B:
+ Brasil, Cuba, Croacia y Tailandia
+Grupo C: 
+Argentina, Ucrania, Afganistán y Angola.
+Grupo D: 
+España, Kazajistán, Nueva Zelanda y Libia.
+Grupo E: 
+Portugal, Panamá, Tayikistán y Marruecos.
+Grupo F:
+ Irán, Venezuela, Guatemala y Francia.
+Sistema de competición
+ Las 24 naciones se dividen en seis grupos de cuatro. ﻿Los dos primeros de cada grupo, junto con los cuatro mejores terceros, accederán a la siguiente fase. A continuación, se disputarán los octavos de final, los cuartos de final, las semifinales, el partido por el tercer puesto y la final.
 Copa Intercontinental FIFA 2024
 El 18 de diciembre de 2024 en sede a confirmar se jugará la final de la Copa Intercontinental.
 Se enfrentarán el campeón de la Liga de Campeones de Europa contra el ganador de las eliminatorias entre los cuatro continentes restantes.
