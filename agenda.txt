@@ -1637,12 +1637,9 @@ Jueves 30 de mayo
  Asistente 2: José Castelli
  Cuarto árbitro: Álvaro Carranza
 Miércoles 5 de junio
- Argentinos Jrs. - Atlético de Rafaela, en horario y estadio a designar
- Árbitro: Juan Pafundi 
- Asistente 1: Facundo Rodríguez
- Asistente 2: Federico Cano 
- Cuarto árbitro: Gabriel Gutiérrez
- Arsenal - Vélez, en horario y estadio a designar
+Arsenal - Vélez, 
+en
+horario y estadio a designar
 Árbitro: Andrés Gariano 
  Asistente 1: Diego Martín 
  Asistente 2: Lucas Ripolli
@@ -1657,6 +1654,12 @@ Viernes 7 de junio
  San Lorenzo - Chacarita Jrs., en horario y estadio a designar
 Sábado 8 de junio
  Platense - Huracán, en horario y estadio a designar
+Argentinos Jrs. - Atlético de Rafaela, 
+en día, horario y estadio a designar
+ Árbitro: Juan Pafundi 
+ Asistente 1: Facundo Rodríguez
+ Asistente 2: Federico Cano 
+ Cuarto árbitro: Gabriel Gutiérrez
 Torneo Federal A
 POSTERGADO
 Estudiantes SL - Camioneros (Luján)
