@@ -47,7 +47,7 @@ Domingo 2 de junio
  Cuarto árbitro: Gastón Monsón Brizuela
  VAR: Fernando Espinoza
  AVAR: José Castelli
- 18.00 Central Córdoba – Talleres 
+ 18.00 Central Córdoba – Talleres, en estadio Madre de Ciudades
  Árbitro: Andrés Gariano
  Árbitro asistente 1: Facundo Rodríguez
  Árbitro asistente 2: Eduardo Lucero
@@ -91,7 +91,7 @@ Lunes 3 de junio
  VAR: Yamil Possi
  AVAR: Iván Núñez
 Martes 4 de junio
- 15.30 Barracas Central – Huracán 
+ 15.o0 Barracas Central – Huracán, en estadio de Deportivo Riestra
  Árbitro: Andrés Merlos
  Árbitro asistente 1: Gabriel Chade
  Árbitro asistente 2: Pablo Gualtieri
@@ -490,12 +490,6 @@ Copa Proyección Sur Finanzas Primer Semestre
 Primera Nacional
 Fecha 18
 Zona “A”
-Viernes 31-05
-Arsenal F.C. - Racing (Cba.), a las 15.00 horas
-Árbitro: Edgardo Zamora
- Asistente 1: Ramon Ortiz
- Asistente 2: Francisco Gugliotta
- Cuarto árbitro: Américo Monsalvo
 Sábado 1 de junio
 Chacarita Juniors - Güemes (S.E.), a las 15.30 horas (TV)
 Árbitro: Javier Delbarba
