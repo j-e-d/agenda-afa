@@ -491,11 +491,6 @@ Primera Nacional
 Fecha 18
 Zona “A”
 Sábado 1 de junio
-Chacarita Juniors - Güemes (S.E.), a las 15.30 horas (TV)
-Árbitro: Javier Delbarba
- Asistente 1: Mariano Ruas
- Asistente 2: Arnaldo Melgarejo
- Cuarto árbitro: Nicolás Mastroieni
 Talleres (R.E.) - Dep. Maipú (Mza.), a las 19.10 horas (TV)
  Árbitro: Lucas Comesaña
  Asistente 1: Lucas Pardo
@@ -535,11 +530,6 @@ Agropecuario Arg. - All Boys, a las 21.10 horas (TV)
  Cuarto árbitro: Gastón Monson
 Zona “B”
 Sábado 1 de junio
-Nva. Chicago - Temperley, a las 14.05 horas (TV) 
-Árbitro: Nahuel Viñas
- Asistente 1: Agustín Méndez
- Asistente 2: Marcelo Errante
- Cuarto árbitro: Ignacio Lupani
 Alte. Brown - Dep. Madryn, a las 21.10 horas (TV)
 Árbitro: Felipe Viola
  Asistente 1: Lucas Ripoli
@@ -1023,37 +1013,6 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Fecha 19
-Sábado 1 de junio
-Villa Dálmine - Villa San Carlos, a las 15.30 horas 
-Árbitro: Gabriel Gutiérrez
- Asistente 1: Diego Molina
- Asistente 2: Leandro Britez
- Cuarto árbitro: Guido Mascheroni
-Arg. de Merlo - Sp. Dock Sud, a las 15.30 horas
-Árbitro: Mariano Negrette
- Asistente 1: Cristian Colonesse
- Asistente 2: Matías Pino
- Cuarto árbitro: Mariano Seco
-Dep. Armenio - San Martin (B.), a las 15.30 horas
-Árbitro: Nicolás Kresta
- Asistente 1: Lucas Cueto
- Asistente 2: Jonathan Savoiardo
- Cuarto árbitro: Damián Rubino
-Arg.de Quilmes - Acassuso, a las 15.30 horas 
-Árbitro: Gastón Iglesias
- Asistente 1: Matías Arévalo
- Asistente 2: Leandro Vieta
- Cuarto árbitro: Ramiro Maglio
-Fénix - Excursionistas, a las 15.30 horas en Juv. Unida
-Árbitro: Mauro Biasutto
- Asistente 1: Pablo Pastor
- Asistente 2: Federico Josa
- Cuarto Árbitro: Gonzalo Creimermann
-Cañuelas F.C. - Dep. Laferrere, a las 15.30 horas
-Árbitro: Sebastián Bresba
- Asistente 1: Ramiro Cabrera
- Asistente 2: Maximiliano Montenegro
- Cuarto Árbitro: German Bermúdez
 Domingo 2 de junio
 Sp. Italiano - Flandria, a las 15.30 horas
 Árbitro: Wenceslao Meneses
@@ -1108,32 +1067,6 @@ Fecha 21
 Primera C
 Fecha 20
 Puerto Nuevo Libre 
-Sábado 1 de junio
-Ctral. Córdoba (Ros.) - Lugano, a las 15.30 horas 
-Árbitro: Rodrigo Pafundi
- Asistente 1: Carlos Otegui
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Axel Pogge
-Mercedes - Juv. Unida, a las 15.30 horas}
-Árbitro: Néstor Barrios
- Asistente 1: Fabio Ventura
- Asistente 2: Julieta Fernandez
- Cuarto árbitro: Tomás Aybar
-Ituzaingó - L.N. Alem, a las 15.30 horas 
-Árbitro: Sebastián Habib
- Asistente 1: Hernán Antola
- Asistente 2: Facundo Mendiolar
- Cuarto árbitro: David Cornejo
-Yupanqui - Def. de Cambaceres, a las 15.30 horas
-Árbitro: Manuel Girett
- Asistente 1: Alexis Etchepare
- Asistente 2: Daniela Sanda
- Cuarto Árbitro: Lucas Brumer
-J.J. de Urquiza - Argentino (Ros.), a las 15.30 horas
-Árbitro: Martín Despósito
- Asistente 1: Diego Fernández
- Asistente 2: Diego Ortiz
- Cuarto Árbitro: Julián Beligoy
 Domingo 2 de junio
 Muñiz - Claypole, a las 15.30 horas en Atlas
 Árbitro: Valentín Bocaccia
