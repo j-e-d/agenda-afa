@@ -462,11 +462,6 @@ Primera Nacional
 Fecha 18
 Zona “A”
 Domingo 2 de junio
-San Martin (S.J.) - Patronato (Paraná), a las 16.00 horas
-Árbitro: Álvaro Carranza
- Asistente 1: Ernesto Callegari
- Asistente 2: Martín Saccone
- Cuarto árbitro: Sergio Testa
 San Martin (T.) - Alvarado (M.D.P.), a las 17.00 horas
 Árbitro: Carlos Córdoba
  Asistente 1: Gonzalo Ferrari
@@ -491,26 +486,6 @@ Alte. Brown - Dep. Madryn, a las 21.10 horas (TV)
  Asistente 2: Cristian Amarilla
  Cuarto árbitro: Ignacio Cuicchi
 Domingo 2 de junio
-G. y Esgrima (Mza.) - Brown (Adrogué), a las 15.30 horas
-Árbitro: Maximiliano Macheroni
- Asistente 1: Emanuel Serale
- Asistente 2: Guido Córdoba
- Cuarto árbitro: Pablo Núñez
-G. y Tiro (Salta) - Almagro, a las 15.30 horas
-Árbitro: Julio Barraza
- Asistente 1: Alejandro Schneler
- Asistente 2: Laureano Leiva
- Cuarto árbitro: Francisco Acosta
-Mitre (S.E.) - Def. de Belgrano, a las 16.00 horas
-Árbitro: Nelson Sosa
- Asistente 1: Federico Pomi
- Asistente 2: Mario Bardina
- Cuarto árbitro: Mauricio Martín
-Aldosivi (M.D.P.) - Chaco For Ever, a las 16.00 horas en estadio José M. Minella
-Árbitro: Brian Ferreyra
- Asistente 1: Marcos Horticolou
- Asistente 2: Mauro Ramos
- Cuarto árbitro: Bruno Bocca
 Estudiantes (Rio IV) - San Telmo, a las 17.00 horas
 Árbitro: Lucas Cavallero
  Asistente 1: Daniel Zamora
@@ -518,14 +493,6 @@ Estudiantes (Rio IV) - San Telmo, a las 17.00 horas
  Cuarto árbitro: Franco Morón
 Lunes 3 de junio 
  Atlanta - Def. Unidos, a las 17.35
-Interzonal
-Domingo 2 de junio
-Dep. Morón - San Miguel, a las 15.30 horas
-Dep. Morón - San Miguel
- Árbitro: Bruno Amiconi
- Asistente 1: Mariano Rosetti
- Asistente 2: Nicolás Gruccio
- Cuarto árbitro: Eduardo Gutiérrez
 Fecha 19 
 Zona A
 T. Suárez - Agropecuario Arg.
@@ -969,21 +936,6 @@ Interzonal Atlanta - All Boys
 Primera B
 Fecha 19
 Domingo 2 de junio
-Sp. Italiano - Flandria, a las 15.30 horas
-Árbitro: Wenceslao Meneses
- Asistente 1: Martín Alonso
- Asistente 2: Néstor Olivera
- Cuarto árbitro: Ignacio Lupani
-Comunicaciones - UAI - Urquiza, a las 15.30 horas
-Árbitro: Julián Jerez
- Asistente 1: Jonathan Ghiso
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Jonathan de Oto
-Los Andes - Dep. Merlo, a las 15.30 horas (TV)
-Árbitro: Kevin Alegre
- Asistente 1: Mariano Cichetto
- Asistente 2: Damián Orellana
- Cuarto Árbitro: Julián Beligoy
 F.C. Midland - Sacachispas F.C., a las 17.00 horas
 Árbitro: Juan Cruz Robledo
  Asistente 1: Leonardo Aranda
@@ -1022,17 +974,6 @@ Fecha 21
 Primera C
 Fecha 20
 Puerto Nuevo Libre 
-Domingo 2 de junio
-Muñiz - Claypole, a las 15.30 horas en Atlas
-Árbitro: Valentín Bocaccia
- Asistente 1: Juan Cingolani
- Asistente 2: Gonzalo Cubillas
- Cuarto Árbitro: Damián Rubino
-Luján - Rec. Español, a las 15.30 horas 
-Árbitro: Gabriel Flores
- Asistente 1: Juan Ricciardi 
- Asistente 2: Federico Machuca
- Cuarto Árbitro: Ramiro Maglio
 Lunes 3 de junio
 Gral. Lamadrid - Ctral. Ballester, a las 15.30 horas 
 Árbitro: Nicolás Jara
@@ -1508,62 +1449,6 @@ Torneo Federal A
 POSTERGADO
 Estudiantes SL - Camioneros (Luján)
 Atenas de Río Cuarto - Universitario de San Luis
-Fecha 12
-Domingo 2 de junio
-15.30 Cipolletti – Sansinena
-Cuerpo arbitral
- Joaquin Gil
- Danilo Viola
- Agustin Lamberti
- Rodrigo Moreno
-15.30 Gutiérrez – Atenas SC
-Cuerpo arbitral
- José Diaz
- Juan Ignacio Flores
- Matías Noguera
- Leandro Hartfield
-15.30 At. San Martín – Ciudad De Bolívar
-Cuerpo arbitral
- Dario Sandoval
- Guido Cordoba
- Marcelo Gonzalez
- Lautaro Castañola
-15.30 Crucero Del Norte – San Martín (F)
-Cuerpo arbitral
- Matías Billone
- Marcos Guzman
- Hugo Fleitas
- Mario Rojo
-15.30 El Linqueño – Douglas Haig
-Cuerpo arbitral
- Guillermo Gonzalez
- Fernando Brillada
- María Ríos
- Rodrigo López
-16.00 Argentino (P) – Huracán (LH)
-Cuerpo arbitral
- Gustavo Benítez
- Luciano Díaz
- Walter Cardozo
- Diego Ocampo
-16.00 Sol De América – Sarmiento (Sgo)
-Cuerpo arbitral
- Nelson Bejas
- Leila Argañaraz
- José Ponce
- Rodrigo Ballestero
-16.00 Nueve de Julio - Def. Belgrano (VR)
-Cuerpo arbitral
- Luis Martinez
- Rodrigo Jara
- Fernando Muñoz
- Alejo Cid
-16.30 Juventud Antoniana – Sarmiento (R)
-Cuerpo arbitral
- Maximiliano Silcan
- Ezequiel Agüero
- Fernando Ruarte
- Guido Medina
 Torneo Femenino de Primera División 2024
 ​​​​
 Postergado
