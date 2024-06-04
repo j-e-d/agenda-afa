@@ -11,13 +11,6 @@ Godoy Cruz - San Lorenzo de A., en estadio Mendoza
  AVAR: Mariana De Almeida
 Fecha 4
 Martes 4 de junio
- 15.o0 Barracas Central – Huracán, en estadio de Deportivo Riestra
- Árbitro: Andrés Merlos
- Árbitro asistente 1: Gabriel Chade
- Árbitro asistente 2: Pablo Gualtieri
- Cuarto árbitro: Alejandro Porticella
- VAR: Lucas Novelli
- AVAR: Pablo Echavarría
  20.00 Banfield – Newell’s
  Árbitro: Leandro Rey Hilfer
  Árbitro asistente 1: Walter Ferreyra
@@ -490,7 +483,18 @@ Atlético Tucumán – Central Córdoba
  Racing – River 
 Trofeo de Campeones
 El encuentro se disputará el domingo 22 de diciembre de 2024
-Copa Proyección Sur Finanzas Primer Semestre
+Copa Proyección Sur Finanzas 
+Octavos de final 
+Sábado 08-06
+ Vélez Sarsfield - Independiente, a las 15.00 horas en Vélez Sarsfield (Principal).
+ Def. y Justicia - Racing Club, a las 15.00 horas en Def. y Justicia (Principal).
+ Lanús - San Lorenzo de A., a las 17.00 horas en Lanús (Principal).
+ Talleres (Cba.) - Rosario Ctral., a las 19.00 horas en Talleres (Cba.) (Principal). (TV)
+Domingo 09-06
+ River Plate - Boca Juniors, a las 15.00 horas en estadio a confirmar. (TV)
+ Banfield - Godoy Cruz, a las 15.00 horas en Banfield (Principal).
+ Estudiantes de L.P. - Argentinos Juniors, a las 17.00 horas en Estudiantes de L.P. (Principal).
+ Belgrano (Cba.) - Newell´s Old Boys, a las 17.00 horas en Belgrano (Cba.) (Principal).
 Primera Nacional
 Fecha 19
 Zona A
@@ -1563,17 +1567,17 @@ Torneo Promocional Amateur 2024
 Copa Argentina
 FASE FINAL – 16vos.
 Miércoles 5 de junio
+ 19.00 Argentinos Jrs. - Atlético de Rafaela
+ en el estadio Ciudad de San Nicolás (TV)
+Árbitro: Juan Pafundi 
+ Asistente 1: Facundo Rodríguez
+ Asistente 2: Federico Cano 
+ Cuarto árbitro: Gabriel Gutiérrez
 21.15 Arsenal - Vélez, en Quilmes (TV)
 Árbitro: Andrés Gariano 
  Asistente 1: Diego Martín 
  Asistente 2: Lucas Ripolli
  Cuarto árbitro: Lucas Cavallero 
-Argentinos Jrs. - Atlético de Rafaela, 
-a las 19.00 horas en el estadio Ciudad de San Nicolás
-Árbitro: Juan Pafundi 
- Asistente 1: Facundo Rodríguez
- Asistente 2: Federico Cano 
- Cuarto árbitro: Gabriel Gutiérrez
 Jueves 6 de junio
  21.10 Talleres - Colón, en Newell's (TV)
  Árbitro: Nicolás Ramírez
@@ -1595,7 +1599,6 @@ Sábado 8 de junio
 Torneo Federal A
 POSTERGADO
 Estudiantes SL - Camioneros (Luján)
-Atenas de Río Cuarto - Universitario de San Luis
 Torneo Femenino de Primera División 2024
 ​​​​
 Fecha 5
@@ -1689,11 +1692,31 @@ La final se disputará en Buenos Aires.
 Conmebol Libertadores
 Sábado 8 de junio
  19.00 Gremio - Estudiantes
+Octavos de final
+ San Lorenzo – Atlético Mineiro (Brasil)
+ At. Nacional (Uruguay) – San Pablo (Brasil)
+ Flamengo (Brasil) – Bolívar (Bolivia)
+ Colo – Colo (Chile) – Junior (Colombia)
+ Talleres – River Plate
+ Peñarol (Uruguay) – Primero del Grupo C
+ Botafogo (Brasil) – Palmeiras (Brasil)
+ Fluminense (Brasil) – Segundo Grupo C
 CONMEBOL Sudamericana 2024
 La CONMEBOL Sudamericana cuenta con 32 equipos participantes, que se dividen en 8 grupos de 4 clubes, de los cuales, los ganadores de cada grupo avanzaran directamente a la instancia de Octavos de Final. Los equipos argentinos clasificados para la Fase de Grupos son Boca Juniors, Racing Club, Defensa y Justicia, Lanús, Belgrano de Córdoba y Argentinos Juniors. 
 Los segundos de cada grupo, disputarán un Play Off en el que se enfrentarán al tercer clasificado de los grupos de CONMEBOL Libertadores, para definir quien estará en Octavos de la CONMEBOL Sudamericana.
 Los enfrentamientos se darán a principios de abril y los premios han aumentado para esta edición. En esta fase todos los equipos se embolsarán unos USD 900.000 por sus compromisos en condición de local. Y un extra de USD 110.000 para los ganadores de los cruces.
 La final se disputará en Asunción, Paraguay.
+16avos. de final
+Resta definirse el Grupo C de Copa Libertadores para definir los partidos de esta fase
+Octavos de final
+Fortaleza – Ganador del play-off G
+ Corinthians - play-off A
+ Belgrano - Ganador del play-off B
+ Racing – Ganador del play-off H
+ Sportivo Ameliano - Ganador del play-off D
+ Cruzeiro – play-off E
+ Independiente Medellín - play-off C
+ Lanús - Ganador del play-off F
 CONMEBOL Libertadores Femenina 2024
 El torneo se disputará entre el 3 y 19 de octubre de 2024 en Uruguay 
 Copa Mundial Femenina Sub 20 2024
@@ -1725,52 +1748,13 @@ La Copa Mundial Femenina Sub-20 Colombia 2024 se iniciará el 31 de agosto y con
  Estados Unidos (Concacaf)
  Venezuela (Conmebol)
 CONMEBOL Libertadores Futsal Femenina 2024
-El sorteo para la Fase de Grupos del torneo se realizará el lunes 3 de junio a las 13. Participarán de la competencia 10 clubes sudamericanos divididos en dos grupos de cinco equipos.
- La Dirección de Competiciones y Operaciones de la CONMEBOL comunicó la fecha designada para el sorteo de Fase de Grupos de la CONMEBOL Libertadores Futsal Femenina 2024, a disputarse en el mes de julio de este año en Bolivia.
- Conoceremos los grupos para la disputa del torneo continental este lunes 3 de junio a las 13 (hora de Paraguay), en el sorteo que se realizará en la sede de la CONMEBOL y será transmitido en vivo para todo el continente a través del Canal de YouTube de la CONMEBOL Libertadores.
- La Fase de Grupos de la novena edición de la CONMEBOL Libertadores Futsal Femenina contará con la participación de 10 clubes clasificados, divididos en dos grupos de cinco equipos cada uno. Avanzarán a las Semifinales los que ocupen las primeras dos posiciones en cada grupo, luego de enfrentamientos directos todos contra todos dentro de las series.
- Los clubes clasificados hasta el momento son: Racing Club (ARG), Always Ready (BOL); las vigentes campeonas de Stein Cascavel (BRA); Universidad de Chile (CHI); Exa Ysaty (PAR); Deportivo Jap (PER) y Peñarol (URU). Queda por definir a las representantes de Colombia, Ecuador y Venezuela. 
-– Formato de competencia –
- La CONMEBOL Libertadores Futsal Femenina 2024 se disputará en dos fases: Fase Preliminar (Fase de Grupos) y Fase Final (Semifinales, Final y las disputas del 3° al 9° puesto). Todas las fases se jugarán en una sola rueda de partidos.
- La Fase Preliminar la disputan los 10 equipos clasificados, distribuidos en dos grupos de cinco equipos cada uno.
- Clasificarán para las Semifinales, los equipos que ocupen las dos primeras posiciones en cada grupo.
- La ubicación que cada equipo ocupará dentro del grupo será definida por sorteo a ser realizado por la CONMEBOL el 3 de junio de 2024.
-– Metodología del sorteo – 
- La conformación de los grupos de la CONMEBOL Libertadores Futsal Femenina 2024 se definen de la siguiente manera:
- i. Los cabezas de serie de cada grupo de la CONMEBOL Libertadores Futsal Femenina 2024 se definen de la siguiente manera:
- Grupo A (Posición A1) – El equipo representante de la Asociación Miembro Anfitriona se ubicará como cabeza de serie del Grupo A (Always Ready – BOL).
- Grupo B (Posición B1) – El equipo representante de la Asociación Miembro campeona vigente se ubicará como cabeza de serie del Grupo B (Stein Cascavel Futsal – BRA)
- ii. En el Bolillero 1 estarán los equipos representantes de las Asociaciones Miembro con mejor ranking (clasificación final de la edición anterior del torneo) que componen la posición 2 de cada grupo. (Racing – ARG y Exa Ysaty PAR). La primera bolilla sorteada será la posición A2 y la segunda bolilla B2.
- iii. En el Bolillero 2 estarán los equipos representantes de las Asociaciones Miembro mejores clasificadas subsecuentes en el ranking (resultado final de la edición anterior del torneo) que componen la posición 3 de cada grupo. (Peñarol – URU y VEN). La primera bolilla sorteada será la posición A3 y la segunda bolilla B3.
- iv. En el Bolillero 3 estarán los equipos representantes de las Asociaciones Miembro mejores clasificadas subsecuentes en el ranking (resultado final de la edición anterior del torneo) que componen la posición 4 de cada grupo. (COL y Deportivo Jap – PER). La primera bolilla sorteada será la posición A4 y la segunda bolilla B4.
- v. En el Bolillero 4 estarán los equipos representantes de las Asociaciones Miembro clasificadas subsecuentes en el ranking (resultado final de la edición anterior del torneo) que componen la posición 5 de cada grupo. (Universidad de Chile – CHI y ECU). La primera bolilla sorteada será la posición A5 y la segunda bolilla B5.
- – Bolilleros –
- Bolillero 1: Racing Club (ARG) y Exa Ysaty (PAR)
- Bolillero 2: Peñarol (URU) y Venezuela
- Bolillero 3: Colombia y Deportivo Jap (PER)
- Bolillero 4: Universidad de Chile (CHI) y Ecuador
+De 21 al 29 de julio en Cochabamba, Bolivia.
+ Racing Club, campeón vigente del Torneo de Primera División, será el representante argentino en la competencia, e integrará el Grupo A, junto a Always Ready (Bolivia), el equipo representante de Venezuela, Deportivo Jap (Perú) y el representante de Ecuador.
+ Por el Grupo B, en tanto, estarán el campeón vigente Stein Cascavel (Brasil), Exa Ysaty (Paraguay), Peñarol (Uruguay), el representante de Colombia y Universidad de Chile. 
 CONMEBOL Sub 17 Futsal 2024
-La Dirección de Competiciones y Operaciones de la Confederación Sudamericana de Fútbol anunció que el sorteo para la Fase de Grupos de la CONMEBOL Sub 17 2024 se llevará a cabo el lunes 3 de junio, a las 14.
- El sorteo se realizará en la sede de la CONMEBOL, en Luque – Paraguay y se transmitirá en vivo por el canal oficial de YouTube de la CONMEBOL. Participarán las diez selecciones pertenecientes a las Asociaciones Miembro de la CONMEBOL.
-– Formato de competencia –
- La CONMEBOL Sub 17 Futsal 2024 se disputará en 2 fases:
- Fase Preliminar (Fase de Grupos) y Fase Final (Disputas de los 9º, 7º y 5º puestos). Todas las fases se jugarán en una sola rueda de partidos. La Fase Preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
- Clasificarán para las Semifinales, los equipos que ocupen las dos primeras posiciones en cada grupo. Los demás equipos de cada grupo disputarán las posiciones del 5º al 9º puesto (los terceros disputan el 5º puesto, los cuartos disputan el 7º puesto y los quintos disputan el 9º puesto).
-– Metodología del Sorteo –
- Las cabezas de serie de cada grupo de la CONMEBOL Sub 17 Futsal 2024 se definen de la siguiente manera:
- Grupo A (Posición A1): La Asociación Miembro Anfitriona (AMA) se ubicará como cabeza de serie del Grupo A (Paraguay).
- Grupo B (Posición B1): La Asociación Miembro campeona vigente de la CONMEBOL Sub 17 Futsal 2022 se ubicará como cabeza de serie del Grupo B. En caso la Asociación Miembro Anfitriona y la Asociación Miembro campeona vigente sean la misma, el cabeza de serie del Grupo B será el subcampeón de la CONMEBOL Sub 17 Futsal 2022 (campeón vigente: Argentina).
- En el Bolillero 1 estarán las dos Asociaciones Miembro con mejor ranking (clasificación final de la CONMEBOL Sub 17 Futsal 2022) que componen la posición 2 de cada grupo (Subcampeón: Brasil; Tercer puesto: Venezuela). La primera bolilla sorteada será la posición A2 y la segunda bolilla B2.
- En el Bolillero 2 estarán las dos Asociaciones Miembro mejor clasificadas subsecuentes en el ranking (resultado final de la CONMEBOL Sub 17 Futsal 2022) que componen la posición 3 de cada grupo. (cuarto puesto: Colombia; quinto puesto: Perú). La primera bolilla sorteada será la posición A3 y la segunda bolilla B3.
- En el Bolillero 3 estarán las dos Asociaciones Miembro mejor clasificadas subsecuentes en el ranking (resultado final de la CONMEBOL Sub 17 Futsal 2022) que componen la posición 4 de cada grupo (atendiendo que la sexta posición la ocupa la Asociación Miembro Anfitriona – Paraguay- por subsecuente el séptimo puesto: Chile; octavo puesto: Ecuador). La primera bolilla sorteada será la posición A4 y la segunda bolilla B4.
- En el Bolillero 4 estarán las dos Asociaciones Miembro mejor clasificadas subsecuentes en el ranking (resultado final de la CONMEBOL Sub 17 Futsal 2022) que componen la posición 5 de cada grupo (noveno puesto: Bolivia; décimo puesto: Uruguay). La primera bolilla sorteada será la posición A5 y la segunda bolilla B5.
-– Posiciones y Bolilleros –
- Posición A1: Paraguay
- Posición B1: Argentina
- Bolillero 1: Brasil y Venezuela
- Bolillero 2: Colombia y Perú
- Bolillero 3: Chile y Ecuador
- Bolillero 4: Bolivia y Uruguay
+Del 17 al 25 de agosto en el Comité Olímpico Paraguayo de la ciudad de Luque. 
+Grupo A: Paraguay, Brasil, Colombia, Ecuador y Bolivia.
+ Grupo B: Argentina, Venezuela, Perú, Chile y Uruguay.
 CONMEBOL Sub 20 Futsal Femenina 2024
 El torneo se disputará entre el 26 de octubre y el 3 de noviembre de 2024 en Paraguay.
 CONMEBOL Sub 20 Futsal 2024
