@@ -1616,7 +1616,7 @@ Fecha 12
  15.00 Gimnasia - San Luis, en Estancia Chica
 Sábado 8 de junio
  12.00 San Lorenzo - Racing, en auxiliar (TV)
- 15.00 Rosario Central - Newell's, en Estadio Gigante de Arroyito
+ 15.00 Rosario Central - Newell's, en Estadio Gigante de Arroyito (TV)
  16.00 Belgrano - S.A.T.
  17.00 Ferro - Estudiantes, en auxiliar (Caballito)
 Domingo 9 de junio
@@ -1811,6 +1811,13 @@ Selección Femenina
 Copa Mundial Femenina FIFA 2027
 El torneo se disputará en Brasil en fecha a designar.
 Selección Sub 23
+Amistosos Selección Masculina Sub 23
+Sábado 8 de junio
+ 15.00 Argentina - Paraguay, en el estadio Tomás A. Ducó
+Lunes 10 de junio
+ 15.00 Argentina - Paraguay, en el estadio Ciudad de Lanús
+IMPORTANTE:
+ ambos amistosos serán a puertas cerradas y sin la presencia de los medios de comunicación.
 Juegos Olímpicos París 2024
 El detalle de las selecciones clasificadas es el siguiente:
  País organizador: Francia
