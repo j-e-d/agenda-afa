@@ -1026,7 +1026,7 @@ Sábado 08-06
  Árbitro: Juan Cruz Robledo
  Asistente 1: Damián Orellana
  Asistente 2: Juan Manuel Díaz
- Cuarto árbitro: Américo Monsalvo
+ Cuarto árbitro: Lucas Di Bastiano
 Domingo 09-06
  Dep. Laferrere c. Los Andes, a las 13.10 horas (TV)
  Árbitro: Marcos Recalde
@@ -1052,7 +1052,7 @@ Domingo 09-06
  Árbitro: Gabriel Gutiérrez
  Asistente 1: Fernando Rodríguez
  Asistente 2: Hugo Hartung
- Cuarto árbitro: Lucas Di Bastiano
+ Cuarto árbitro: Américo Monsalvo 
  San Martin (B.) c. Comunicaciones, a las 15.00 horas
  Árbitro: Mauro Biasutto
  Asistente 1: Juan Ricciardi
@@ -1550,12 +1550,6 @@ Fecha 50
 Torneo Promocional Amateur 2024
 Copa Argentina
 FASE FINAL – 16vos.
-Miércoles 5 de junio
-21.15 Arsenal - Vélez, en Quilmes (TV)
-Árbitro: Andrés Gariano 
- Asistente 1: Diego Martín 
- Asistente 2: Lucas Ripolli
- Cuarto árbitro: Lucas Cavallero 
 Jueves 6 de junio
  21.10 Talleres - Colón, en Newell's (TV)
  Árbitro: Nicolás Ramírez
