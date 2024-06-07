@@ -1675,9 +1675,6 @@ Fecha 8
 Miércoles 12 de junio
  14.30 Gimnasia - River, en Estancia Chica
 Fecha 12
- Viernes 7 de junio
- 15.00 River - Excursionistas, en River Camp
- 15.00 Gimnasia - San Luis, en Estancia Chica
 Sábado 8 de junio
  12.00 San Lorenzo - Racing, en auxiliar (TV)
  15.00 Rosario Central - Newell's, en Estadio Gigante de Arroyito (TV)
@@ -1764,13 +1761,15 @@ Domingo 9 de junio
  15.00 Atlanta - Estudiantes L.P., en auxiliar
 Torneo Femenino de Primera C
 ZONA ASCENSO
-FECHA 1 - 09/06/2024 
-EL FRONTÓN - CHACARITA JRS.
-NVA. CHICAGO - LUJÁN
-TALLERES (R.E.) - ESTRELLA DEL SUR
-QUILMES A.- - ALDOSIVI (M.D.P.)
-ALTE. BROWN - ARSENAL F.-
-TIGRE - DEP. LAFERRERE
+Fecha 1 
+Sábado 8 de junio
+ 11.00 Nueva Chicago - Luján, en auxiliar
+ 11.00 Tigre - Deportivo Laferrere, en auxiliar
+ 15.00 Talleres (RE) - Estrella del Sur, en auxiliar
+ 15.00 Quilmes - Aldosivi, en auxiliar
+Domingo 9 de junio
+ 11.00 El Frontón - Chacarita, en predio
+ 11.00 Almirante Brown - Arsenal, en auxiliar
 FECHA 2 - 16/06/2024 
 TIGRE - EL FRONTÓN
 DEP. LAFERRERE - ALTE. BROWN
@@ -1842,13 +1841,15 @@ ESTRELLA DEL SUR - QUILMES A.-
 LUJÁN - TALLERES (R.E.)
 CHACARITA JRS. - NVA. CHICAGO
 ZONA PERMANENCIA
-FECHA 1 - 09/06/2024 
-CLAYPOLE - BERAZATEGUI
-LOS ANDES - CAÑUELAS F.-
-GRAL. LAMADRID - PUERTO NUEVO
-ATLAS - ALMAGRO
-VILLAS UNIDAS - COUNTRY CANNING
-F.- MIDLAND - SP. ITALIANO
+Fecha 1
+Sábado 8 de junio
+ 14.00 Claypole - Berazategui, en Predio Liar
+ 15.00 Gral. Lamadrid - Puerto Nuevo, en Club CIRSE
+ 15.00 Atlas - Almagro, en Unión Ferroviaria
+ 16.00 F. C. Midland - Sportivo Italiano, en principal
+Domingo 9 de junio
+ 14.00 Villas Unidas - Country Canning, en Predio Don Bosco
+ 15.00 Los Andes - Cañuelas, en auxiliar
 FECHA 2 - 16/06/2024 
 F.- MIDLAND - CLAYPOLE
 SP. ITALIANO - VILLAS UNIDAS
@@ -1928,6 +1929,12 @@ La final se disputará en Buenos Aires.
 Conmebol Libertadores
 Sábado 8 de junio
  19.00 Gremio - Estudiantes
+ Árbitro: Esteban Ostojich (Uruguay)
+ Asistente 1: Nicolás Taran (Uruguay)
+ Asistente 2: Pablo Llarena (Uruguay)
+ 4to árbitro: José Burgos (Uruguay)
+ VAR: Christian Ferreyra (Uruguay)
+ AVAR: Santiago Fernandez (Uruguay)
 Octavos de final
  San Lorenzo – Atlético Mineiro (Brasil)
  At. Nacional (Uruguay) – San Pablo (Brasil)
