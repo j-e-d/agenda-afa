@@ -63,7 +63,7 @@ Jueves 13 de junio
  AVAR: Andrés Gariano
 21.15 Lanús – Racing
  Árbitro: Leandro Rey Hilfer
- Asistente 1: Pablo GUaltieri
+ Asistente 1: Pablo Gualtieri
  Asistente 2: Erik Grunman
  Cuarto árbitro: Edgardo Zamora
  VAR: Germán Delfino
@@ -1026,66 +1026,68 @@ Berazategui c. Argentino (Ros.), a las 15.05 horas (TV)
  Cuarto árbitro: A. Rodríguez Núñez
 Fecha 23 
  Libre J.J. De Urquiza 
-Dep. Paraguayo - Yupanqui 
- Árbitro: Gonzalo Creimermann
- Asistente 1: Lucas Isla
- Asistente 2: Mariela Martino
- Cuarto árbitro: Joaquín Rodríguez
- Real Pilar - Berazategui 
- Árbitro: Ignacio Cuicchi
- Asistente 1: Pablo Pastor
- Asistente 2: Hernán Antola
- Cuarto árbitro: Martín Morenza
- Argentino (Ros.) - Sp. Barracas 
- Árbitro: Néstor Barrios
- Asistente 1: Francisco Gugliota
- Asistente 2: Ariel Ibáñez
- Cuarto árbitro: Axel Fernández
- Def. De Cambaceres - Luján 
- Árbitro: Damián Rubino
- Asistente 1: Ariel López
- Asistente 2: Alexis Ramírez
- Cuarto árbitro: Iñaki Iparraguirre
-Atlas - El Porvenir 
- Árbitro: Nicolás Mastroieni
- Asistente 1: Heber Ibáñez Meza
- Asistente 2: Julián Fabiani
- Cuarto árbitro: Mateo Bocaccia
-Dep. Español - Ituzaingó 
- Árbitro: Nicolás Jara
- Asistente 1: Juan Manuel Acevedo
- Asistente 2: Federico Boveri
- Cuarto árbitro: Iván Mastroieni
- Ctro. Re- Español - Gral. Lamadrid 
+Martes 18-06
+ Rec. Español c. Gral. Lamadrid, a las 15.00 horas en F.C. Midland
  Árbitro: Adrián Núñez Rodríguez
  Asistente 1: Nicolas Gruccio
  Asistente 2: Ignacio Otegui
  Cuarto árbitro: Rodrigo Villalba
- V. Arenas - Muñiz 
+Atlas c. El Porvenir, a las 15.00 horas
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Heber Ibáñez Meza
+ Asistente 2: Julián Fabiani
+ Cuarto árbitro: Mateo Bocaccia
+Miércoles 19-06
+ Dep. Paraguayo c. Yupanqui, a las 15.00 horas en Lugano
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Lucas Isla
+ Asistente 2: Mariela Martino
+ Cuarto árbitro: Joaquín Rodríguez
+Real Pilar F.C. c. Berazategui, a las 15.00 horas en estadio Municipal de Pilar
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Pablo Pastor
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: Martín Morenza
+Argentino (Ros.) c. Sp. Barracas, a las 15.00 horas
+ Árbitro: Néstor Barrios
+ Asistente 1: Francisco Gugliota
+ Asistente 2: Ariel Ibáñez
+ Cuarto árbitro: Axel Fernández
+Def. de Cambaceres c. Luján, a las 15.00 horas
+ Árbitro: Damián Rubino
+ Asistente 1: Ariel López
+ Asistente 2: Alexis Ramírez
+ Cuarto árbitro: Iñaki Iparraguirre
+Victoriano Arenas c. Muñiz, a las 15.00 horas
  Árbitro: Sebastián Habib
  Asistente 1: Gustavo Benítez Soilan
  Asistente 2: Facundo Maldonado
  Cuarto árbitro: Agustín Flores
-L.N. Alem - Mercedes 
+L.N. Alem c. Mercedes, a las 15.00 horas
  Árbitro: Ramiro Maglio
  Asistente 1: Damián Alcaráz
  Asistente 2: Bruno Castillo
  Cuarto árbitro: Axel Pogge
-Ctral. Ballester - Ctral. Cba. (Ros.) 
+Ctral. Ballester c. Ctral. Córdoba (Ros.), a las 15.00 horas
  Árbitro: Maximiliano López Monti
  Asistente 1: Matías Panozzo
  Asistente 2: Ezequiel Rabasa
  Cuarto árbitro: Gonzalo Correa
- Claypole - Puerto Nuevo 
+Claypole c. Puerto Nuevo, a las 15.00 horas
  Árbitro: Julián Beligoy
  Asistente 1: Federico Bozo
  Asistente 2: Mario Vargas
- Cuarto árbitro: Martín Desposito
-J. Unida - Lugano 
+ Cuarto árbitro: Martín Despósito
+Juv. Unida c. Lugano, a las 15.00 horas en F.C. Midland
  Árbitro: Valentín Bocaccia
  Asistente 1: Jonathan Florentin
  Asistente 2: Sofia Curto
  Cuarto árbitro: Jonathan Barrios
+Dep. Español c. Ituzaingó, a las 15.05 horas (TV)
+ Árbitro: Nicolás Jara
+ Asistente 1: Juan Manuel Acevedo
+ Asistente 2: Federico Boveri
+ Cuarto árbitro: Iván Mastroieni
 Fecha 24 
  J. Unida Libre 
  Lugano - Claypole 
@@ -1494,13 +1496,6 @@ Postergado: River Plate - Rosario Central
 Fecha 8
 Miércoles 12 de junio
  14.30 Gimnasia - River, en Estancia Chica
-Fecha 12
-Martes 11 de junio
- 15.00 UAI Urquiza - Huracán, en Estadio Monumental de Villa Lynch
- Árbitra: Gabriela Coronel
- Asistente 1: Carla López
- Asistente 2: Sofía Curto
- Cuarta árbitra: Ariadna Palacios
 Fecha 13
 Viernes 14 de junio
  15.00 Racing - Belgrano, en Complejo Tita Mattiussi (TV)
