@@ -24,7 +24,7 @@ Miércoles 12 de junio
  Asistente 2: Maximiliano Castelli
  Cuarto árbitro: Bruno Bocca
  VAR: Pablo Dóvalo
- AVAR: Gastón Suárez
+ AVAR: Diego Ceballos
 21.15 Independiente- Banfield
  Árbitro: Nicolás Ramírez
  Asistente 1: Sebastián Raineri
@@ -1740,32 +1740,52 @@ CONMEBOL Libertadores Femenina 2024
 El torneo se disputará entre el 3 y 19 de octubre de 2024 en Uruguay 
 Copa Mundial Femenina Sub 20 2024
 La Copa Mundial Femenina Sub-20 Colombia 2024 se iniciará el 31 de agosto y concluirá con la gran final el 22 de septiembre. Este torneo es el primero en esta especialidad en contar con 24 equipos participantes.
- El sorteo se llevará a cabo el 5 de junio a las 10 de la mañana en Bogotá.
- Selecciones clasificadas:
- Argentina (Conmebol)
- Australia (AFC)
- Austria (UEFA)
- Brasil (Conmebol)
- Camerún (CAF)
- Canadá (Concacaf)
- Colombia (país anfitrión - Conmebol)
- Costa Rica (Concacaf)
- Fiyi (OFC)
- Francia (UEFA)
- Alemania (UEFA)
- Ghana (CAF)
- Japón (AFC)
- RPD de Corea (AFC)
- República de Corea (AFC)
- México (Concacaf)
- Marruecos (CAF)
- Países Bajos (UEFA)
- Nueva Zelanda (OFC)
- Nigeria (CAF)
- Paraguay (Conmebol)
- España (Vigentes campeonas - UEFA)
- Estados Unidos (Concacaf)
- Venezuela (Conmebol)
+Fase de grupos
+Sábado 31 de agosto
+ 17.00 Camerún - México, en Estadio El Campín (Grupo A)
+ 17.00 Francia - Canadá, en Estadio Atanasio Girardot (Grupo B)
+ 20.00 Colombia - Australia, en Estadio El Campín (Grupo A)
+ 20.00 Brasil - Fiji, en Estadio Atanasio Girardot (Grupo B)
+Domingo 1° de septiembre
+ 17.00 Alemania - Venezuela, en Estadio El Techo (Grupo D)
+ 17.00 España - Estados Unidos, en Estadio Pascual Guerrero (Grupo C)
+ 20.00 Nigeria - Corea del Sur, en Estadio El Techo (Grupo D)
+ 20.00 Paraguay - Marruecos, en Estadio Pascual Guerrero (Grupo C)
+Lunes 2 de septiembre
+ 19.00 Ghana - Austria, en Estadio El Techo (Grupo E)
+ 19.00 Corea del Norte - Argentina, en Estadio Pascual Guerrero (Grupo F)
+ 22.00 Japón - Nueva Zelanda, en Estadio El Techo (Grupo E)
+ 22.00 Costa Rica - Países Bajos, en Estadio Pascual Guerrero (Grupo F)
+Martes 3 de septiembre
+ 19.00 México - Australia, en Estadio El Campín (Grupo A)
+ 19.00 Francia - Brasil, en Estadio Atanasio Girardot (Grupo B)
+ 22.00 Colombia - Camerún, en Estadio El Campín (Grupo A)
+ 22.00 Fiyi - Canadá, en Estadio Atanasio Girardot (Grupo B)
+Miércoles 4 de septiembre
+ 19.00 Alemania - Nigeria, en Estadio El Techo (Grupo D)
+ 19.00 España - Paraguay, en Estadio Pascual Guerrero (Grupo C)
+ 22.00 Corea del Sur - Venezuela, en Estadio El Techo (Grupo D)
+ 22.00 Marruecos - Estados Unidos, en Estadio Pascual Guerrero (Grupo C)
+Jueves 5 de septiembre
+ 19.00 Japón - Ghana, en Estadio El Techo (Grupo E)
+ 19.00 Corea del Norte - Costa Rica, en Estadio Pascual Guerrero (Grupo F)
+ 22.00 Austria - Nueva Zelanda, en Estadio El Techo (Grupo E)
+ 22.00 Países Bajos - Argentina, en Estadio Pascual Guerrero (Grupo F)
+Viernes 6 de septiembre
+ 19.00 Canadá - Brasil, en Estadio El Campín (Grupo B)
+ 19.00 Fiyi - Francia, en Estadio Atanasio Girardot (Grupo B)
+ 22.00 Australia - Camerún, en Estadio El Campín (Grupo A)
+ 22.00 México - Colombia, en Estadio Atanasio Girardot (Grupo A)
+Sábado 7 de septiembre
+ 17.00 Corea del Sur - Alemania, en Estadio El Techo (Grupo D)
+ 17.00 Venezuela - Nigeria, en Estadio Pascual Guerrero (Grupo D)
+ 20.00 Estados Unidos - Paraguay, en Estadio El Techo (Grupo C)
+ 20.00 Marruecos - España, en Estadio Pascual Guerrero (Grupo C)
+Domingo 8 de septiembre
+ 17.00 Argentina - Costa Rica, en Estadio El Techo (Grupo F)
+ 17.00 Países Bajos - Corea del Norte, en Estadio Pascual Guerrero (Grupo F)
+ 20.00 Austria - Japón, en Estadio El Techo (Grupo F)
+ 20.00 Nueva Zelanda - Ghanae, en Estadio Pascual Guerrero (Grupo F)
 CONMEBOL Libertadores Futsal Femenina 2024
 De 21 al 29 de julio en Cochabamba, Bolivia.
  Racing Club, campeón vigente del Torneo de Primera División, será el representante argentino en la competencia, e integrará el Grupo A, junto a Always Ready (Bolivia), el equipo representante de Venezuela, Deportivo Jap (Perú) y el representante de Ecuador.
