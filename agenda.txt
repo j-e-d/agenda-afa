@@ -11,13 +11,6 @@ Godoy Cruz - San Lorenzo, en estadio Mendoza
  AVAR: Mariana De Almeida
 Fecha 5
 Jueves 13 de junio
- 15.00 Deportivo Riestra – River
- Árbitro: Hernán Mastrángelo
- Asistente 1: Lucas Germanotta
- Asistente 2: Walter Ferreyra
- Cuarto árbitro: Jorge Broggi
- VAR: José Carreras
- AVAR: Pablo González
 19.00 Tigre – Belgrano
  Árbitro: Sebastián Zunino
  Asistente 1: Hugo Páez
@@ -1491,7 +1484,7 @@ Cuerpo arbitral
 Cuerpo arbitral
  Acosta, Francisco
  Sayago, Jorge
- Salado Paz, Hernan
+ Ortiz, Fernando
  Maguna, Emilio 
 15.30 Independiente – Douglas Haig
 Cuerpo arbitral
@@ -1499,7 +1492,7 @@ Cuerpo arbitral
  Fleitas, Hugo 
  Herrera, Cristian 
  Destefano, Patricio 
-15.30 Círculo Deportivo – Cipolletti
+15.00 Círculo Deportivo – Cipolletti
 Cuerpo arbitral
  Rubiano, Cristian 
  Pompei, Valentin 
