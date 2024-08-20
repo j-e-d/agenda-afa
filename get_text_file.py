@@ -1,3 +1,4 @@
+import cloudscraper
 import re
 import sys
 
@@ -23,11 +24,12 @@ def tag_visible(element):
 
 
 def get_visible_text(url):
-    response = requests.get(url, verify=False)
+    scraper = cloudscraper.create_scraper()
+    response = scraper.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
 
     date_span = soup.select_one(".btArticleDate")
-    date_text = date_span.text if date_span is not None else ""
+    date_text = date_span.text.strip() if date_span is not None else ""
 
     div = soup.select_one(".btArticleContentInnerInner")
     div_text = ""
