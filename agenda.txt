@@ -11,20 +11,6 @@ Fecha 3
  AVAR: Mariana De Almeida
 Fecha 12
 Domingo 25 de agosto
- 14.30 Lanús - Godoy Cruz
- Árbitro: Fernando Echenique
- Asistente 1: Ariel Scime
- Asistente 2: Juan Pablo Millenaar
- Cuarto árbitro: Ramiro Maglio
- VAR: Diego Ceballos
- AVAR: Hugo Páez
- 14.30 San Lorenzo de A. - Talleres (Cba.)
- Árbitro: Nazareno Arasa
- Asistente 1: Gabriel Chade
- Asistente 2: Javier Uziga
- Cuarto árbitro: Sebastián Martínez
- VAR: Ariel Penel
- AVAR: Lucas Comesaña
  17.00 Racing Club - Independiente
  Árbitro: Nicolás Ramírez
  Asistente 1: Juan Pablo Belatti
@@ -348,31 +334,6 @@ Primera Nacional
 Fecha 29 
 Zona “A”
 Domingo 25 de agosto
-15.00 Alvarado (M.D.P.) - G. y Esgrima (J.), en estadio José M. Minella
- Árbitro: Fabrizio Llobet 
- Asistente 1: Mariano Viale 
- Asistente 2: Leandro Núñez
- Cuarto árbitro: Sergio Testa 
- 15.00 Brown (P.M.) - Estudiantes
- Árbitro: Brian Ferreyra 
- Asistente 1: Rubén Bustos
- Asistente 2: Malvina Schiel 
- Cuarto árbitro: Luciano Julio 
-16.00 Patronato (Paraná) - Ferro Carril Oeste
- Árbitro: Joaquín Gil 
- Asistente 1: Marcos Horticolou 
- Asistente 2: Federico Cuello
- Cuarto árbitro: Adrián Franklin 
-16.00 Agropecuario Arg. - Talleres (R.E.)
- Árbitro: Gastón Monsón 
- Asistente 1: Nicolás Bravo 
- Asistente 2: Darío Rojas 
- Cuarto árbitro: Enzo Silvestre
-16.00 San Martín (S.J.) - Chacarita Juniors
- Árbitro: Lucas Cavallero 
- Asistente 1: Manuel Sánchez
- Asistente 2: Sebastián Osudar
- Cuarto árbitro: Carlos Córdoba 
 17.00 Racing (Cba.) - Dep. Maipú (Mza.)
  Árbitro: Maximiliano Macheroni 
  Asistente 1: Daniel Zamora 
@@ -385,50 +346,12 @@ Lunes 26 de agosto
  Asistente 2: Mario Bardina 
  Cuarto árbitro: Julio Barraza 
 Zona “B”
-Domingo 25 de agosto
-13.40 Dep. Morón - Alte. Brown (TV)
- Árbitro: Franco Acita 
- Asistente 1: Andrés Barbieri 
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Damián Rubino 
-14.10 Temperley - Atlanta
- Árbitro: Gonzalo Pereira 
- Asistente 1: Iván Aliende 
- Asistente 2: Juan Ricciardi 
- Cuarto árbitro: Laura Fortunato 
-15.00 Almagro - Dep. Madryn
- Árbitro: Bruno Amiconi 
- Asistente 1: Juan Manuel Vázquez
- Asistente 2: Juan Viglietti 
- Cuarto árbitro: Ariel Cruz 
- 15.30 G. y Esgrima (Mza.) - Estudiantes (Río IV)
- Árbitro: Luis Lobo Medina 
- Asistente 1: Gonzalo Ferrari
- Asistente 2: Javier Mihura 
- Cuarto árbitro: Maximiliano Silcan 
-15.30 G. y Tiro (Salta) - Aldosivi (M.D.P.)
- Árbitro: Álvaro Carranza 
- Asistente 1: José Castelli 
- Asistente 2: Matías Balmaceda 
- Cuarto árbitro: Rodrigo Rivero 
-16.00 Chaco For Ever - San Telmo
- Árbitro: Yamil Possi 
- Asistente 1: Pascual Fernández 
- Asistente 2: Giuliano Grillo
- Cuarto árbitro: Maximiliano Agli 
 Lunes 26 de agosto
  16.10 Nva. Chicago - Colón (TV)
  Árbitro: Pablo Dóvalo 
  Asistente 1: Pablo Gueltieri 
  Asistente 2: Damián Olivetto 
  Cuarto árbitro: Ignacio Lupani 
-Interzonal
- Sábado 24-08
-16.05 Güemes (S.E.) - Mitre (S.E.) (TV)
- Árbitro: Nicolás Lamolina
- Asistente 1: Facundo Rodríguez 
- Asistente 2: Mariano Rosetti 
- Cuarto árbitro: Eduardo Gutiérrez
 Fecha 30 
 Zona A
 San Martín (Tuc) - San Martín (S.J.)
@@ -629,18 +552,6 @@ Nva. Chicago Brown (Ad.)
 Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
-Fecha 11
-Domingo 25 de agosto
-15.00 Flandria - Los Andes
- Árbitro: Wencesalo Meneses
- Asistente 1: Leonardo Frega
- Asistente 2: Hernán Antola
- Cuarto árbitro: Néstor Barrios
-15.00 Liniers - Dep. Armenio
- Árbitro: Gastón Iglesias
- Asistente 1: Fernando Rodríguez
- Asistente 2: Pablo Sebastián Pastor
- Cuarto árbitro: Américo Monsalvo
 Fecha 12
  Villa Dálmine - Excursionistas
  Sacachispas F.C. - Acassuso
@@ -763,17 +674,6 @@ Fecha 21
  Cañuelas F.C. - Los Andes
 Primera C
 Fecha 9 
-Domingo 25 de agosto
-15.00 Def. de Cambaceres - Ctral. Ballester
- Árbitro: Martín Despósito
- Asistente 1: Jonathan Florentín
- Asistente 2: Facundo Maldonado
- Cuarto árbitro: Facundo Fuentes
-15.00 J.J. de Urquiza - Puerto Nuevo
- Árbitro: Ignacio Cuicchi
- Asistente 1: Enrique Lanz
- Asistente 2: Daniela Sanda
- Cuarto árbitro: Gonzalo Creimermann
 Lunes 26 de agosto
 15.00 Atlas - L.N. Alem, en Atlas
  Árbitro: Nicolás Mastroieni
@@ -1011,17 +911,6 @@ Fecha 25
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Fecha 6
-Domingo 25 de agosto
-15.00 Dep. Metalúrgico - Provincial (Lobos), en el estadio Municipal de Pilar
- Árbitro: Agustín Flores
- Asistente 1: Nicolás Cavagnaro
- Asistente 2: Mara Díaz
- Cuarto árbitro: Leandro Fedele
-15.00 Everton (L.P.) - Estrella del Sur
- Árbitro: Iván Castelu Coca
- Asistente 1: Oscar Maidana
- Asistente 2: Mauro Soria
- Cuarto árbitro: Manuel Prieto
 Lunes 26 de agosto
  15.00 Juv. de Bernal - Estrella de Berisso, en Berazategui (Auxiliar)
  Árbitro: Axel Pogge
@@ -1106,11 +995,6 @@ Postergado: Independiente - Ferro
 Fecha 3
 Postergado: Ferro - River
 Fecha 4
-Domingo 25 de agosto
- 10.00 Independiente - San Lorenzo, en Predio Villa Domínico
- 10.00 Excursionistas - Estudiantes, en Estadio
- 10.30 Gimnasia - Belgrano, en Estancia Chica
- 16.00 Huracán - Rosario Central, en La Quemita
 Lunes 26 de agosto
  13.15 Platense - Boca, en Predio Galván
  15.00 Newell's - S.A.T., en Centro Jorge Griffa
