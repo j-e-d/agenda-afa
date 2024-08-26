@@ -11,20 +11,6 @@ Fecha 3
  AVAR: Mariana De Almeida
 Fecha 12
 Lunes 26 de agosto
- 16.00 Ctral. Córdoba (S.E.) - Banfield, en estadio Madre de Ciudades
- Árbitro: Silvio Trucco
- Asistente 1: Iván Núñez
- Asistente 2: Julio Fernández
- Cuarto árbitro: Nelson Bejas
- VAR: Andrés Gariano
- AVAR: Gabriel Chade
-16.00 Barracas Central - Vélez Sarsfield, en Huracán
- Árbitro: Yael Falcón Pérez
- Asistente 1: Sebastián Raineri
- Asistente 2: Ernesto Callegari
- Cuarto árbitro: Cristian Cernadas
- VAR: Héctor Paletta
- AVAR: Javier Uziga
  18.30 Rosario Central - Atl. Tucumán
  Árbitro: Fernando Espinoza
  Asistente 1: Cristian Navarro
@@ -324,13 +310,6 @@ Lunes 26 de agosto
  Asistente 1: Lucio Méndez 
  Asistente 2: Mario Bardina 
  Cuarto árbitro: Julio Barraza 
-Zona “B”
-Lunes 26 de agosto
- 16.10 Nva. Chicago - Colón (TV)
- Árbitro: Pablo Dóvalo 
- Asistente 1: Pablo Gueltieri 
- Asistente 2: Damián Olivetto 
- Cuarto árbitro: Ignacio Lupani 
 Fecha 30 
 Zona A
 San Martín (Tuc) - San Martín (S.J.)
@@ -956,6 +935,19 @@ Fecha 3
 Postergado: Ferro - River
 Fecha 4
 Postergado: River - Banfield
+Fecha 5
+Viernes 30 de agosto
+ 14.00 Ferro - Excursionistas, en auxiliar
+ 15.00 Racing - Newell's, en Predio Tita Mattiussi (TV)
+Sábado 31 de agosto
+ 10.30 Boca - San Luis, en Casa Amarilla
+ 14.00 S.A.T. - Huracán, en Estadio 12 de agosto
+Domingo 1° de septiembre
+ 11.00 Belgrano - Independiente, en Estadio Gigante de Alberdi
+ 12.00 Estudiantes - Platense, en Predio Martín Coronado
+ 15.00 Rosario Central - Gimnasia, en Estadio Gigante de Arroyito
+Lunes 2 de septiembre
+ 15.00 Banfield - UAI Urquiza, en Estadio Florencio Solá
 Torneo Femenino de Primera B
 Zona A - Fecha 3
 Suspendido: Talleres - Camioneros, en Predio Amadeo Nuccetelli
