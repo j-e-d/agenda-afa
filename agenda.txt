@@ -795,12 +795,6 @@ Fecha 21
 Primera C
 Fecha 10 
 Libre: Ituzaingó
-Viernes 30 de agosto
-15.00 Ctro. Recreativo Español - Dep. Español, en Midland 
- Árbitro: Alejandro Porticella
- Asistente 1: Federico Bozo
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Manuel Girett
 Sábado 31 de agosto
  15.00 Mercedes - Sp. Barracas 
  Árbitro: Gabriel Flores
@@ -1071,12 +1065,6 @@ Fecha 25
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Fecha 7
-Viernes 30 de agosto
- 13.00 Camioneros - Everton (L.P.)
- Árbitro: Martín Morenza
- Asistente 1: Franco Boetti
- Asistente 2: Facundo Maldonado
- Cuarto árbitro: Micaela Abelardo
 Sábado 31 de agosto
  15.00 N. Hacoaj - Belgrano (Z.)
  Árbitro: Gonzalo Correa
@@ -1261,18 +1249,16 @@ Postergado: Ferro - River
 Fecha 4
 Postergado: River - Banfield
 Fecha 5
-Viernes 30 de agosto
- 14.00 Ferro - Excursionistas, en auxiliar
- 15.00 Racing - Newell's, en Predio Tita Mattiussi (TV)
 Sábado 31 de agosto
  10.30 Boca - San Luis, en Casa Amarilla
- 14.00 S.A.T. - Huracán, en Estadio 12 de agosto
 Domingo 1° de septiembre
  11.00 Belgrano - Independiente, en Estadio Gigante de Alberdi
  12.00 Estudiantes - Platense, en Predio Martín Coronado
  15.00 Rosario Central - Gimnasia, en Estadio Gigante de Arroyito
 Lunes 2 de septiembre
  15.00 Banfield - UAI Urquiza, en Estadio Florencio Solá
+Martes 3 de septiembre
+ 14.00 S.A.T. - Huracán, en Estadio 12 de agosto
 Torneo Femenino de Primera B
 Zona A - Fecha 3
 Suspendido: Talleres - Camioneros, en Predio Amadeo Nuccetelli
