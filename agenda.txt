@@ -11,20 +11,6 @@ Fecha 3
  AVAR: Mariana De Almeida
 Fecha 13
 Sábado 31 de agosto
- 15.00 Defensa y Justicia – Barracas
- Árbitro: Pablo Dóvalo
- Asistente 1: Gerardo Lencina
- Asistente 2: Juan Manuel González
- Cuarto árbitro: Javier Delbarba
- VAR: Lucas Novelli
- AVAR: Diego Romero
-15.00 Newell’s – Belgrano
- Árbitro: Andrés Merlos
- Asistente 1: Hugo Páez
- Asistente 2: Marcos Horticolou
- Cuarto árbitro: Enzo Silvestre
- VAR: Germán Delfino
- AVAR: Pablo Giménez
 18.00 Talleres – Estudiantes, en estado Mario A. Kempes
  Árbitro: Fernando Espinoza
  Asistente 1: Pablo Acevedo
@@ -1044,12 +1030,6 @@ Fecha 25
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Fecha 7
-Sábado 31 de agosto
- 15.00 N. Hacoaj - Belgrano (Z.)
- Árbitro: Gonzalo Correa
- Asistente 1: Leandro Idio
- Asistente 2: Nicolás Ruíz
- Cuarto árbitro: Iñaki Iparraguirre
 Domingo 1° de septiembre
  15.00 Est. Del Sur - F.C Ezeiza
  Árbitro: Joaquín Rodríguez
@@ -1231,10 +1211,9 @@ Domingo 1° de septiembre
  11.00 Belgrano - Independiente, en Estadio Gigante de Alberdi
  12.00 Estudiantes - Platense, en Predio Martín Coronado
  15.00 Rosario Central - Gimnasia, en Estadio Gigante de Arroyito
-Lunes 2 de septiembre
- 15.00 Banfield - UAI Urquiza, en Estadio Florencio Solá
 Martes 3 de septiembre
  14.00 S.A.T. - Huracán, en Estadio 12 de agosto
+15.00 Banfield - UAI Urquiza, en Estadio Florencio Solá
 Torneo Femenino de Primera B
 Zona A - Fecha 3
 Suspendido: Talleres - Camioneros, en Predio Amadeo Nuccetelli
