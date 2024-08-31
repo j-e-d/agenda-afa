@@ -329,21 +329,6 @@ Primera Nacional
 Fecha 30 
 Zona “A”
  Sábado 31-08
- Estudiantes c. Agropecuario Arg., a las 15.00 horas
-Árbitro: Diego Ceballos
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Nahuel Rasullo
- Cuarto árbitro: Cristian Cernadas
- Talleres (R.E.) c. All Boys, a las 15.00 horas
-Árbitro: Julio Barraza
- Asistente 1: Mariano Ruas
- Asistente 2: Mariano Ascenzi
- Cuarto árbitro: Kevin Alegre
- San Miguel c. Patronato (Paraná), a las 15.00 horas
-Árbitro: Franco Acita
- Asistente 1: Juan Manuel Vázquez
- Asistente 2: Mario Bardina
- Cuarto árbitro: Eduardo Gutiérrez
  San Martin (T.) c. San Martin (S.J.), a las 17.30 horas (TV)
 Árbitro: Fernando Rapallini
  Asistente 1: Gabriel Chade
@@ -375,25 +360,31 @@ Domingo 01-09
  Asistente 1: Iván Aliende
  Asistente 2: Cristian Amarilla
  Cuarto árbitro: Lucas Brumer
+Lunes 2-09
+ Talleres (R.E.) c. All Boys, a las 15.30 horas
+Árbitro: Julio Barraza
+ Asistente 1: Mariano Ruas
+ Asistente 2: Mariano Ascenzi
+ Cuarto árbitro: Kevin Alegre
+ San Miguel c. Patronato (Paraná), a las 15.00 horas
+Árbitro: Franco Acita
+ Asistente 1: Juan Manuel Vázquez
+ Asistente 2: Mario Bardina
+ Cuarto árbitro: Eduardo Gutiérrez
+ Estudiantes c. Agropecuario Arg., a las 20.00 horas
+Árbitro: Diego Ceballos
+ Asistente 1: Juan Pablo Millenaar
+ Asistente 2: Nahuel Rasullo
+ Cuarto árbitro: Cristian Cernadas
 Zona “B”
 Sábado 31-08
- Def. Unidos c. Almagro, a las 15.00 horas
-Árbitro: Marcos Recalde
- Asistente 1: Lucas Cueto
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Jonathan de Oto
- Alte. Brown c. Temperley, a las 15.30 horas (TV)
-Árbitro: Felipe Viola
- Asistente 1: Lucas Ripoli
- Asistente 2: Mauro Ramos
- Cuarto árbitro: Julián Jerez
 Domingo 01-09
  Aldosivi (M.D.P.) c. G. y Esgrima (Mza.), a las 14.10 horas en estadio José M. Minella (TV)
 Árbitro: Andrés Gariano
  Asistente 1: Lucio Méndez
  Asistente 2: Federico García
  Cuarto árbitro: Franco Morón
-Dep. Madryn c. Def. de Belgrano, a las 15.30 horas
+ Dep. Madryn c. Def. de Belgrano, a las 15.30 horas
 Árbitro: Lucas Cavallero
  Asistente 1: Iván Núñez
  Asistente 2: Ernesto Callegari
@@ -413,19 +404,29 @@ Dep. Madryn c. Def. de Belgrano, a las 15.30 horas
  Asistente 1: Diego Martín
  Asistente 2: Joaquín Badano
  Cuarto árbitro: César Ceballo
-Lunes 02-09
- Atlanta c. Brown (Adrogué), a las 21.10 horas (TV)
-Árbitro: Bruno Amiconi
- Asistente 1: Marcelo Errante
- Asistente 2: Rodrigo Arin
- Cuarto árbitro: Gastón Suárez
 Interzonal
- Sábado 31-08
+ Domingo 1-09
 San Telmo c. Arsenal F.C., a las 15.00 horas, en Tristán Suárez
 Árbitro: Bryan Ferreyra
  Asistente 1: Nahuel Santanocito
  Asistente 2: Uriel García Leri
  Cuarto árbitro: José Carreras
+Alte. Brown c. Temperley, a las 15.00 horas 
+Árbitro: Felipe Viola
+ Asistente 1: Lucas Ripoli
+ Asistente 2: Mauro Ramos
+ Cuarto árbitro: Julián Jerez
+Lunes 02-09
+ Def. Unidos c. Almagro, a las 15.00 horas
+Árbitro: Marcos Recalde
+ Asistente 1: Lucas Cueto
+ Asistente 2: Lucas Vázquez
+ Cuarto árbitro: Jonathan de Oto
+ Atlanta c. Brown (Adrogué), a las 21.10 horas (TV)
+Árbitro: Bruno Amiconi
+ Asistente 1: Marcelo Errante
+ Asistente 2: Rodrigo Arin
+ Cuarto árbitro: Gastón Suárez
 Fecha 31 
 Zona A
 Güemes (S.E.) - Dep. Maipú (Mza.)
@@ -535,7 +536,6 @@ Chaco For Ever - Colón
 San Telmo - Alte. Brown
 At. De Rafaela - Atlanta
 Dep. Madryn - Def. Unidos
-F
 Interzonal Ferro Carril Oeste - Nva. Chicago
 Fecha 36 
 Zona A
@@ -606,21 +606,11 @@ Interzonal Atlanta - All Boys
 Primera B
 Fecha 12
 Sábado 31 de agosto
- 12.10 Cañuelas F.C. - Colegiales (TV)
- Árbitro: Nicolás Mastroieni
- Asistente 1: Héctor Bracho
- Asistente 2: Jonathan Savoiardo
- Cuarto árbitro: Lucas Brumer
  14.05 Los Andes - Sp. Dock Sud (TV)
  Árbitro: Nicolás Kresta
  Asistente 1: Maximiliano Benzoni
  Asistente 2: Jonathan Ghiso
  Cuarto árbitro: Jonathan Barrios
- 16.00 F.C. Midland - Flandria
- Árbitro: Ariel Núñez
- Asistente 1: Martín Vaccaro
- Asistente 2: Federico Machuca
- Cuarto árbitro: Ignacio Lupani
 Domingo 1° de septiembre
  15.00 Villa Dálmine - Excursionistas
  Árbitro: Gabriel Gutiérrez
@@ -632,11 +622,6 @@ Domingo 1° de septiembre
  Asistente 1: Leandro Vieta
  Asistente 2: Ariel López
  Cuarto árbitro: Mariano Seco
- 15.00 Dep. Laferrere - UAI Urquiza
- Árbitro: Gonzalo Pereira
- Asistente 1: Santiago Scalerandi
- Asistente 2: Gustavo Benítez
- Cuarto árbitro: Agustín Flores
  15.00 Comunicaciones - Liniers
  Árbitro: Juan Cruz Robledo
  Asistente 1: Diego Torres
@@ -658,8 +643,23 @@ Lunes 2 de septiembre
  Asistente 1: Luis Castillo
  Asistente 2: Giuliano Grillo
  Cuarto árbitro: Axel Pogge
+15.00 Dep. Laferrere - UAI Urquiza
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Santiago Scalerandi
+ Asistente 2: Gustavo Benítez
+ Cuarto árbitro: Agustín Flores
+ 15.00 Cañuelas F.C. - Colegiales
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Héctor Bracho
+ Asistente 2: Jonathan Savoiardo
+ Cuarto árbitro: Lucas Brumer
+20.00 F.C. Midland - Flandria
+ Árbitro: Ariel Núñez
+ Asistente 1: Martín Vaccaro
+ Asistente 2: Federico Machuca
+ Cuarto árbitro: Ignacio Lupani
 Martes 3 de septiembre
-15.00 Dep. Armenio - Arg. De Merlo (reprogramado)
+15.00 Dep. Armenio - Arg. De Merlo
  Árbitro: Ariel Cruz
  Asistente 1: Ceciliio Calcagno
  Asistente 2: Diego Fernández
@@ -1228,8 +1228,6 @@ Postergado: Ferro - River
 Fecha 4
 Postergado: River - Banfield
 Fecha 5
-Sábado 31 de agosto
- 10.30 Boca - San Luis, en Casa Amarilla
 Domingo 1° de septiembre
  11.00 Belgrano - Independiente, en Estadio Gigante de Alberdi
  12.00 Estudiantes - Platense, en Predio Martín Coronado
