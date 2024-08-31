@@ -10,14 +10,6 @@ Fecha 3
  VAR: Mauro Vigliano
  AVAR: Mariana De Almeida
 Fecha 13
-Viernes 30 de agosto
-21.00 Unión – Riestra
- Árbitro: Nicolás Ramírez
- Asistente 1: Facundo Rodríguez
- Asistente 2: Juan Del Fueyo
- Cuarto árbitro: Gastón Monsón
- VAR: Darío Herrera
- AVAR: Pablo Echavarría 
 Sábado 31 de agosto
  15.00 Defensa y Justicia – Barracas
  Árbitro: Pablo Dóvalo
@@ -384,12 +376,6 @@ Domingo 01-09
  Asistente 2: Cristian Amarilla
  Cuarto árbitro: Lucas Brumer
 Zona “B”
- Viernes 30-08
-At. de Rafaela c. Chaco For Ever, a las 21.10 horas (TV)
-Árbitro: Nelson Sosa
- Asistente 1: Mariano Viale
- Asistente 2: Laureano Leiva
- Cuarto árbitro: Federico Guaymas
 Sábado 31-08
  Def. Unidos c. Almagro, a las 15.00 horas
 Árbitro: Marcos Recalde
@@ -788,37 +774,6 @@ Fecha 21
 Primera C
 Fecha 10 
 Libre: Ituzaingó
-Sábado 31 de agosto
- 15.00 Mercedes - Sp. Barracas 
- Árbitro: Gabriel Flores
- Asistente 1: Alan Colman
- Asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Axel Pogge
- 15.00 Puerto Nuevo - Yupanqui 
- Árbitro: Rodrigo Villalba
- Asistente 1: Federico Lapalma
- Asistente 2: Mariela Martino
- Cuarto árbitro: Iván Mastroieni
- 15.00 J. Unida - Dep. Paraguayo 
- Árbitro: Martín Depósito
- Asistente 1: Ezequiel Rabasa
- Asistente 2: Ludmila Capelli
- Cuarto árbitro: Matías Ansede
- 15.00 Claypole - Real Pilar 
- Árbitro: Nicolás Jara
- Asistente 1: Matías Noli
- Asistente 2: Andrés Belén
- Cuarto árbitro: Mariano Seco
- 15.00 Ctral. Ballester - Argentino (Ros.) 
- Árbitro: Sebastián Habib
- Asistente 1: Gonzalo Cubillas
- Asistente 2: Mara Díaz
- Cuarto árbitro: Facundo Carretero
- 15.00 V. Arenas - Atlas 
- Árbitro: Gonzalo Creimermann
- Asistente 1: Matías Panozzo
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Iván Castelú
 Domingo 1° de septiembre
  13.00 L.N. Alem - Def. De Cambaceres (TV) 
  Árbitro: Ignacio Cuicchi
@@ -846,6 +801,37 @@ Lunes 2 septiembre
  Asistente 1: Matías Pino
  Asistente 2: Ariel Ibáñez
  Cuarto árbitro: Agustín Flores
+ Martes 3 de septiembre
+ 15.00 Mercedes - Sp. Barracas 
+ Árbitro: Gabriel Flores
+ Asistente 1: Alan Colman
+ Asistente 2: Rodolfo Rodríguez
+ Cuarto árbitro: Axel Pogge
+15.00 Puerto Nuevo - Yupanqui 
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Federico Lapalma
+ Asistente 2: Mariela Martino
+ Cuarto árbitro: Iván Mastroieni
+ 15.00 J. Unida - Dep. Paraguayo 
+ Árbitro: Martín Depósito
+ Asistente 1: Ezequiel Rabasa
+ Asistente 2: Ludmila Capelli
+ Cuarto árbitro: Matías Ansede
+ 15.00 Claypole - Real Pilar 
+ Árbitro: Nicolás Jara
+ Asistente 1: Matías Noli
+ Asistente 2: Andrés Belén
+ Cuarto árbitro: Mariano Seco
+ 15.00 Ctral. Ballester - Argentino (Ros.) 
+ Árbitro: Sebastián Habib
+ Asistente 1: Gonzalo Cubillas
+ Asistente 2: Mara Díaz
+ Cuarto árbitro: Facundo Carretero
+ 15.00 V. Arenas - Atlas 
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Matías Panozzo
+ Asistente 2: Lucas Monsalvo
+ Cuarto árbitro: Iván Castelú
 Fecha 11 
  Dep. Español Libre 
  Atlas - Ctro. Re- Español 
@@ -1064,7 +1050,20 @@ Sábado 31 de agosto
  Asistente 1: Leandro Idio
  Asistente 2: Nicolás Ruíz
  Cuarto árbitro: Iñaki Iparraguirre
- 15.00 At. Pilar - S.A.T.
+Domingo 1° de septiembre
+ 15.00 Est. Del Sur - F.C Ezeiza
+ Árbitro: Joaquín Rodríguez
+ Asistente 1: Felipe Onufrik
+ Asistente 2: Alexis Escobar
+ Cuarto árbitro: Facundo Carretero
+Lunes 2 de septiembre
+ 15.00 Barrancas F.C - Dep. Metalúrgico, en Excursionistas (TV)
+ Árbitro: David Cornejo
+ Asistente 1: Jonathan Florentin
+ Asistente 2: Julián Fabiani
+ Cuarto árbitro: Manuel Prieto
+Martes 3 de septiembre
+15.00 At. Pilar - S.A.T.
  Árbitro: Eduardo Coyto
  Asistente 1: Bruno Castillo
  Asistente 2: Federico Boveri
@@ -1079,18 +1078,6 @@ Sábado 31 de agosto
  Asistente 1: Mario Vargas
  Asistente 2: Julieta Fernández
  Cuarto árbitro: Axel Fernández
-Domingo 1° de septiembre
- 15.00 Est. Del Sur - F.C Ezeiza
- Árbitro: Joaquín Rodríguez
- Asistente 1: Felipe Onufrik
- Asistente 2: Alexis Escobar
- Cuarto árbitro: Facundo Carretero
-Lunes 2 de septiembre
- 15.00 Barrancas F.C - Dep. Metalúrgico, en Excursionistas (TV)
- Árbitro: David Cornejo
- Asistente 1: Jonathan Florentin
- Asistente 2: Julián Fabiani
- Cuarto árbitro: Manuel Prieto
 Fecha 8
  Dep. Metalúrgico - Juv. De Bernal
  Def. De Glew - Pcial. De Lobos
@@ -1143,6 +1130,7 @@ Copa Argentina
 Octavos de final
 Sábado 7 de septiembre 
 20.00 Boca - Talleres (Córdoba), en Estadio Mendoza (TV)
+De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2024, si el partido señalado precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal deacuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A
 Viernes 30 de agosto
 21:30 Sarmiento (Sgo.) - Sportivo Belgrano
@@ -1533,8 +1521,7 @@ Copa Mundial Femenina FIFA 2027
 El torneo se disputará en Brasil en fecha a designar.
 Selección Sub 20
 CONMEBOL Sub 15 2023
-CONMEBOL informó que se disputará en 2024
-Sede: Bolivia
+La Dirección de Competiciones y Operaciones de la CONMEBOL informó que, luego de la postergación de la CONMEBOL Sub15 – 2023, el torneo se desarrollará en la ciudad de Santa Cruz de la Sierra – Bolivia, del 4 al 19 de octubre del 2024.
 CONMEBOL Libertadores Fútbol Playa 2024
 El torneo se disputará del 1 al 8 de diciembre de 2024 en Ecuador.
 Copa Mundial de Futsal de la FIFA 2024
