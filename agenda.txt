@@ -336,7 +336,7 @@ Domingo 01-09
  Asistente 1: Lucio Méndez
  Asistente 2: Federico García
  Cuarto árbitro: Franco Morón
- Dep. Madryn c. Def. de Belgrano, a las 15.30 horas
+ Dep. Madryn c. Def. de Belgrano, a las 15.00 horas
 Árbitro: Lucas Cavallero
  Asistente 1: Iván Núñez
  Asistente 2: Ernesto Callegari
@@ -721,32 +721,22 @@ Primera C
 Fecha 10 
 Libre: Ituzaingó
 Domingo 1° de septiembre
- 13.00 L.N. Alem - Def. De Cambaceres (TV) 
- Árbitro: Ignacio Cuicchi
- Asistente 1: Heber Ibáñez
- Asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Agustín Panizza
- 15.00 Gral. Lamadrid - El Porvenir 
- Árbitro: Guido Mascheroni
- Asistente 1: Ignacio Otegui
- Asistente 2: Alexis Ramírez
- Cuarto árbitro: Iñaki Iparraguirre
  15.00 Ctral. Cba. (Ros.) - Berazategui 
  Árbitro: Maximiliano López Monti
  Asistente 1: Cristian Rodríguez
  Asistente 2: Nahuel Valdeón
  Cuarto árbitro: Cristian Oubel
- 15.00 Lugano - J.J. De Urquiza 
- Árbitro: Damián Rubino
- Asistente 1: Damián Alcaráz
- Asistente 2: Santiago Escudero
- Cuarto árbitro: Gabriela Coronel
 Lunes 2 septiembre
  15.00 Muñiz - Luján, en Atlas
  Árbitro: Ramiro Maglio
  Asistente 1: Matías Pino
  Asistente 2: Ariel Ibáñez
  Cuarto árbitro: Martín Morenza reemplaza a Agustín Flores por superposición de partido
+ 15.00 Gral. Lamadrid - El Porvenir 
+ Árbitro: Guido Mascheroni
+ Asistente 1: Ignacio Otegui
+ Asistente 2: Alexis Ramírez
+ Cuarto árbitro: Iñaki Iparraguirre
 Martes 3 de septiembre
  15.00 Mercedes - Sp. Barracas 
  Árbitro: Gabriel Flores
@@ -778,6 +768,16 @@ Martes 3 de septiembre
  Asistente 1: Matías Panozzo
  Asistente 2: Lucas Monsalvo
  Cuarto árbitro: Iván Castelú
+ 15.00 Lugano - J.J. De Urquiza 
+ Árbitro: Damián Rubino
+ Asistente 1: Damián Alcaráz
+ Asistente 2: Santiago Escudero
+ Cuarto árbitro: Gabriela Coronel
+ 15.05 L.N. Alem - Def. De Cambaceres (TV) 
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Heber Ibáñez
+ Asistente 2: Nicolás Cavagnaro
+ Cuarto árbitro: Agustín Panizza
 Fecha 11 
  Dep. Español Libre 
  Atlas - Ctro. Re- Español 
