@@ -295,11 +295,6 @@ Lunes 2-09
  Cuarto árbitro: Cristian Cernadas
 Zona “B”
 Domingo 01-09
- Estudiantes (Rio IV) c. Nva. Chicago, a las 18.00 horas
-Árbitro: Yamil Possi
- Asistente 1: Maximiliano Del Yesso
- Asistente 2: Javier Uziga
- Cuarto árbitro: Pablo Núñez
  Colón c. Dep. Morón, a las 21.00 horas (TV)
 Árbitro: Fabrizio Llobet
  Asistente 1: Diego Martín
@@ -505,16 +500,6 @@ Lunes 2 de septiembre
  Asistente 1: Federico Josa
  Asistente 2: Fabio Ventura
  Cuarto árbitro: Matías Ansede
- 15.00 Fénix - Villa San Carlos, en Yupanqui
- Árbitro: Wenceslao Meneses
- Asistente 1: Leonardo Aranda
- Asistente 2: Leandro Carril
- Cuarto árbitro: Jonathan de Oto
- 15.00 Arg. De Quilmes - Sp. Italiano
- Árbitro: Américo Monsalvo
- Asistente 1: Luis Castillo
- Asistente 2: Giuliano Grillo
- Cuarto árbitro: Axel Pogge
 15.00 Dep. Laferrere - UAI Urquiza
  Árbitro: Gonzalo Pereira
  Asistente 1: Santiago Scalerandi
@@ -536,6 +521,18 @@ Martes 3 de septiembre
  Asistente 1: Ceciliio Calcagno
  Asistente 2: Diego Fernández
  Cuarto árbitro: Manuel Girett
+ Miércoles 4 de septiembre
+15.00 Fénix - Villa San Carlos, en Yupanqui
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Leonardo Aranda
+ Asistente 2: Leandro Carril
+ Cuarto árbitro: Jonathan de Oto
+Miércoles 11 de septiembre 
+ 15.00 Arg. De Quilmes - Sp. Italiano
+ Árbitro: Américo Monsalvo
+Asistente 1: Luis Castillo
+ Asistente 2: Giuliano Grillo
+ Cuarto árbitro: Axel Pogge
 Fecha 13
  Liniers - Villa Dálmine
  Arg. De Merlo - Comunicaciones
@@ -648,11 +645,6 @@ Primera C
 Fecha 10 
 Libre: Ituzaingó
 Lunes 2 septiembre
- 15.00 Muñiz - Luján, en Atlas
- Árbitro: Ramiro Maglio
- Asistente 1: Matías Pino
- Asistente 2: Ariel Ibáñez
- Cuarto árbitro: Martín Morenza reemplaza a Agustín Flores por superposición de partido
  15.00 Gral. Lamadrid - El Porvenir 
  Árbitro: Guido Mascheroni
  Asistente 1: Ignacio Otegui
@@ -699,6 +691,12 @@ Martes 3 de septiembre
  Asistente 1: Heber Ibáñez
  Asistente 2: Nicolás Cavagnaro
  Cuarto árbitro: Agustín Panizza
+Miércoles 4 de septiembre 
+ 15.00 Muñiz - Luján, en Atlas
+ Árbitro: Ramiro Maglio
+ Asistente 1: Matías Pino
+ Asistente 2: Ariel Ibáñez
+ Cuarto árbitro: Martín Morenza reemplaza a Agustín Flores por superposición de partido 
 Fecha 11 
  Dep. Español Libre 
  Atlas - Ctro. Re- Español 
@@ -1153,14 +1151,8 @@ CONMEBOL Libertadores Femenina 2024
 Copa Mundial Femenina Sub 20 2024
 La Copa Mundial Femenina Sub-20 Colombia 2024 se iniciará el 31 de agosto y concluirá con la gran final el 22 de septiembre. Este torneo es el primero en esta especialidad en contar con 24 equipos participantes.
 Fase de grupos
-Sábado 31 de agosto
- 17.00 Camerún - México, en Estadio El Campín (Grupo A)
- 17.00 Francia - Canadá, en Estadio Atanasio Girardot (Grupo B)
- 20.00 Colombia - Australia, en Estadio El Campín (Grupo A)
- 20.00 Brasil - Fiji, en Estadio Atanasio Girardot (Grupo B)
 Domingo 1° de septiembre
- 17.00 Alemania - Venezuela, en Estadio El Techo (Grupo D)
- 17.00 España - Estados Unidos, en Estadio Pascual Guerrero (Grupo C)
+ España - Estados Unidos, en 
  20.00 Nigeria - Corea del Sur, en Estadio El Techo (Grupo D)
  20.00 Paraguay - Marruecos, en Estadio Pascual Guerrero (Grupo C)
 Lunes 2 de septiembre
