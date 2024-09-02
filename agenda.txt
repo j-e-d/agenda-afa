@@ -10,15 +10,7 @@ Fecha 3
  VAR: Mauro Vigliano
  AVAR: Mariana De Almeida
 Fecha 13
-Domingo 1° de septiembre
-21.00 Banfield – Instituto
- Árbitro: Nazareno Arasa
- Asistente 1: Ezequiel Brailovsky
- Asistente 2: Carla López
- Cuarto árbitro: Gastón Iglesias
- VAR: Jorge Baliño
- AVAR: Carlos Córdoba
- Lunes 2 de septiembre
+Lunes 2 de septiembre
  17.00 Gimnasia – Argentinos
  Árbitro: Sebastián Martínez
  Asistente 1: Sebastián Raineri
@@ -264,12 +256,6 @@ Copa Proyección Sur Finanzas Final 2024
 Primera Nacional
 Fecha 30 
 Zona “A”
-Domingo 01-09
- Quilmes A.C. c. Tristán Suarez, a las 20.05 horas (TV)
-Árbitro: Lucas Comesaña
- Asistente 1: Iván Aliende
- Asistente 2: Cristian Amarilla
- Cuarto árbitro: Lucas Brumer
 Lunes 2-09
  Talleres (R.E.) c. All Boys, a las 15.30 horas
 Árbitro: Julio Barraza
@@ -287,12 +273,6 @@ Lunes 2-09
  Asistente 2: Nahuel Rasullo
  Cuarto árbitro: Cristian Cernadas
 Zona “B”
-Domingo 01-09
- Colón c. Dep. Morón, a las 21.00 horas (TV)
-Árbitro: Fabrizio Llobet
- Asistente 1: Diego Martín
- Asistente 2: Joaquín Badano
- Cuarto árbitro: César Ceballo
 Lunes 02-09
 San Telmo c. Arsenal F.C., a las 15.00 horas, en Tristán Suárez
 Árbitro: Bryan Ferreyra
@@ -514,7 +494,7 @@ Martes 3 de septiembre
  Asistente 1: Ceciliio Calcagno
  Asistente 2: Diego Fernández
  Cuarto árbitro: Manuel Girett
- Miércoles 4 de septiembre
+Miércoles 4 de septiembre
 15.00 Fénix - Villa San Carlos, en Yupanqui
  Árbitro: Wenceslao Meneses
  Asistente 1: Leonardo Aranda
@@ -684,12 +664,12 @@ Martes 3 de septiembre
  Asistente 1: Heber Ibáñez
  Asistente 2: Nicolás Cavagnaro
  Cuarto árbitro: Agustín Panizza
-Miércoles 4 de septiembre 
- 15.00 Muñiz - Luján, en Atlas
+Miércoles 4 de septiembre
+15.00 Muñiz - Luján, en Atlas
  Árbitro: Ramiro Maglio
  Asistente 1: Matías Pino
  Asistente 2: Ariel Ibáñez
- Cuarto árbitro: Martín Morenza reemplaza a Agustín Flores por superposición de partido 
+ Cuarto árbitro: Martín Morenza reemplaza a Agustín Flores por superposición de partido
 Fecha 11 
  Dep. Español Libre 
  Atlas - Ctro. Re- Español 
@@ -1144,10 +1124,6 @@ CONMEBOL Libertadores Femenina 2024
 Copa Mundial Femenina Sub 20 2024
 La Copa Mundial Femenina Sub-20 Colombia 2024 se iniciará el 31 de agosto y concluirá con la gran final el 22 de septiembre. Este torneo es el primero en esta especialidad en contar con 24 equipos participantes.
 Fase de grupos
-Domingo 1° de septiembre
- España - Estados Unidos, en 
- 20.00 Nigeria - Corea del Sur, en Estadio El Techo (Grupo D)
- 20.00 Paraguay - Marruecos, en Estadio Pascual Guerrero (Grupo C)
 Lunes 2 de septiembre
  19.00 Ghana - Austria, en Estadio El Techo (Grupo E)
  19.00 Corea del Norte - Argentina, en Estadio Pascual Guerrero (Grupo F)
