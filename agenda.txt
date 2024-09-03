@@ -317,7 +317,7 @@ Sábado 07-09
  Asistente 2: Mariano Cichetto
  Cuarto árbitro: Darío Sandoval
 Domingo 08-09
- San Telmo c. Atl. de Rafaela, a las 13.00 horas en Arsenal F.C.
+ San Telmo c. Atl. de Rafaela, a las 13.00 horas en Arsenal F.C. (TV)
  Árbitro: Carlos Córdoba
  Asistente 1: Manuel Sánchez
  Asistente 2: Martín Grasso
@@ -1052,10 +1052,6 @@ Fecha 3
 Postergado: Ferro - River
 Fecha 4
 Postergado: River - Banfield
-Fecha 5
-Martes 3 de septiembre
- 14.00 S.A.T. - Huracán, en Estadio 12 de agosto
-15.00 Banfield - UAI Urquiza, en Estadio Florencio Solá
 Fecha 6
 Viernes 6 de septiembre
  15.00 Platense - Ferro, en Predio Mariani Dolán
