@@ -317,16 +317,16 @@ Sábado 07-09
  Asistente 2: Mariano Cichetto
  Cuarto árbitro: Darío Sandoval
 Domingo 08-09
- San Telmo c. Atl. de Rafaela, a las 13.00 horas en estadio a confirmar (TV)
- Árbitro: Carlos Córdoba
- Asistente 1: Manuel Sánchez
- Asistente 2: Martín Grasso
- Cuarto árbitro: Damián Rubino
  Brown (Adrogué) c. Alte. Brown a las 14.00 horas (TV)
  Árbitro: Jorge Broggi
  Asistente 1: Ernesto Callegari
  Asistente 2: Juan Manuel Vázquez
  Cuarto árbitro: Diego Ceballos
+San Telmo c. Atl. de Rafaela, a las 15.00 horas en Comunicaciones
+ Árbitro: Carlos Córdoba
+ Asistente 1: Manuel Sánchez
+ Asistente 2: Martín Grasso
+ Cuarto árbitro: Damián Rubino
  Def. de Belgrano c. Def. Unidos, a las 15.00 horas
  Árbitro: Julio Barraza
  Asistente 1: Mariano Rosetti
@@ -1353,6 +1353,185 @@ Grupo F:
  Irán, Venezuela, Guatemala y Francia.
 Sistema de competición
  Las 24 naciones se dividen en seis grupos de cuatro. ﻿Los dos primeros de cada grupo, junto con los cuatro mejores terceros, accederán a la siguiente fase. A continuación, se disputarán los octavos de final, los cuartos de final, las semifinales, el partido por el tercer puesto y la final.
+Grupo A
+ 9:30, sábado 14 de septiembre
+ Paraguay vs Costa Rica
+ Humo Arena, Taskent
+ 12:00, sábado 14 de septiembre
+ Uzbekistán vs Países Bajos
+ Humo Arena, Taskent
+ 9:30, martes 17 de septiembre
+ Costa Rica vs Países Bajos
+ Humo Arena, Taskent
+ 12:00, martes 17 de septiembre
+ Uzbekistán vs Paraguay
+ Humo Arena, Taskent
+ 12:00, viernes 20 de septiembre
+ Costa Rica v Uzbekistán
+ Humo Arena, Taskent
+ 12:00, viernes 20 de septiembre
+ Países Bajos vs Paraguay
+ Complejo deportivo universal de Bukhara, Bukhara
+Grupo B
+ 7:00, sábado 14 de septiembre
+ Croacia vs Tailandia
+ Complejo deportivo universal de Bukhara, Bukhara
+ 9:30, sábado 14 de septiembre
+ Brasil vs Cuba
+ Complejo deportivo universal de Bukhara, Bukhara
+ 9:30, martes 17 de septiembre
+ Tailandia vs Cuba
+ Complejo deportivo universal de Bukhara, Bukhara
+ 12:00, martes 17 de septiembre
+ Brasil vs Croacia
+ Complejo deportivo universal de Bukhara, Bukhara
+ 9:30, viernes 20 de septiembre
+ Cuba vs Croacia
+ Humo Arena, Taskent
+ 9:30, viernes 20 de septiembre
+ Tailandia vs Brasil
+ Complejo deportivo universal de Bukhara, Bukhara
+Grupo C
+ 9:30, domingo 15 de septiembre
+ Afganistán vs Angola
+ Humo Arena, Taskent
+ 12:00, domingo 15 de septiembre
+ Argentina vs Ucrania
+ Humo Arena, Taskent
+ 9:30, miércoles 18 de septiembre
+ Angola vs Ucrania
+ Humo Arena, Taskent
+ 12:00, miércoles 18 de septiembre
+ Argentina vs Afganistán
+ Humo Arena, Taskent
+ 12:00, sábado 21 de septiembre
+ Angola vs Argentina
+ Humo Arena, Taskent
+ 12:00, sábado 21 de septiembre
+ Ucrania vs Afganistán
+ Complejo Deportivo Universal de Andiján, Andiján
+Grupo D
+ 7:00, domingo 15 de septiembre
+ Nueva Zelanda vs Libia
+ Complejo Deportivo Universal de Andiján, Andiján
+ 8:30, domingo 15 de septiembre
+ España vs Kazajistán
+ Complejo Deportivo Universal de Andiján, Andiján
+ 9:30, miércoles 18 de septiembre
+ Libia vs Kazajistán
+ Complejo Deportivo Universal de Andiján, Andiján
+ 12:00, miércoles 18 de septiembre
+ España vs Nueva Zelanda
+ Complejo Deportivo Universal de Andiján, Andiján
+ 9:30, sábado 21 de septiembre
+ Kazaijstán vs Nueva Zelanda
+ Humo Arena, Taskent
+ 9:30, sábado 21 de septiembre
+ Libia vs España
+ Complejo Deportivo Universal de Andiján, Andiján
+Grupo E
+ 9:30, lunes 16 de septiembre
+ Portugal vs Panamá
+ Humo Arena, Taskent
+ 12:00, lunes 16 de septiembre
+ Tayikistán vs Marruecos
+ Humo Arena, Taskent
+ 9:30, jueves 19 de septiembre
+ Marruecos vs Panamá
+ Humo Arena, Taskent
+ 12:00, jueves 19 de septiembre
+ Portugal vs Tayikistán
+ Humo Arena, Taskent
+ 9:30, domingo 22 de septiembre
+ Marruecos vs Portugal
+ Humo Arena, Taskent
+ 9:30, domingo 22 de septiembre
+ Panamá vs Tayikistán
+ Complejo deportivo universal de Bukhara, Bukhara
+Grupo F
+ 9:30, lunes 16 de septiembre
+ RI de Irán vs Venezuela
+ Complejo deportivo universal de Bukhara, Bukhara
+ 12:00, lunes 16 de septiembre
+ Guatemala vs Francia
+ Complejo deportivo universal de Bukhara, Bukhara
+ 9:30, jueves 19 de septiembre
+ RI de Irán vs Guatemala
+ Complejo deportivo universal de Bukhara, Bukhara
+ 12:00, jueves 19 de septiembre
+ Francia vs Venezuela
+ Complejo deportivo universal de Bukhara, Bukhara
+ 12:00, domingo 22 de septiembre
+ Francia vs RI de Irán
+ Complejo deportivo universal de Bukhara, Bukhara
+ 12:00, domingo 22 de septiembre
+ Venezuela vs Guatemala
+ Humo Arena, Taskent
+Octavos de final
+ Partido 37
+ 9:30, martes 24 de septiembre
+ 1º Grupo B vs 3º Grupo A/C/D
+ Complejo deportivo universal de Bukhara, Bukhara
+ Partido 38
+ 9:00, martes 24 de septiembre
+ 1º Grupo A vs 2º Grupo C
+ Humo Arena, Taskent
+ Partido 39
+ 9:30, miércoles 25 de septiembre
+ 1º Grupo D vs 3º Grupo B/E/F
+ Complejo Deportivo Universal de Andiján, Andiján
+ Partido 40
+ 12:00, miércoles 25 de septiembre
+ 1º Grupo A vs 3º Grupo C/D/E
+ Humo Arena, Taskent
+ Partido 41
+ 9:30, jueves 26 de septiembre
+ 1º Grupo F vs 2º Grupo E
+ Complejo deportivo universal de Bukhara, Bukhara
+ Partido 42
+ 12:00, jueves 26 de septiembre
+ 1º Grupo E vs 2º Grupo D
+ Complejo Deportivo Universal de Andiján, Andiján
+ Partido 43
+ 9:30, viernes 27 de septiembre
+ 2º Grupo E vs 2º Grupo F
+ Complejo deportivo universal de Bukhara, Bukhara
+ Partido 44
+ 12:00, viernes 27 de septiembre
+ 1º Grupo C vs 3º Grupo A/B/F
+ Humo Arena, Taskent
+Cuartos de final
+ Partido 45
+ 9:30, domingo 29 de septiembre
+ Ganador 37 vs Ganador 41
+ Complejo deportivo universal de Bukhara, Bukhara
+ Partido 46
+ 12:00, domingo 29 de septiembre
+ Ganador 38 vs Ganador 39
+ Humo Arena, Taskent
+ Partido 47
+ 9:30, lunes 30 de septiembre
+ Ganador 43 vs Ganador 40
+ Complejo deportivo universal de Bukhara, Bukhara
+ Partido 48
+ 12:00, lunes 30 de septiembre
+ Ganador 42 vs Ganador 44
+ Humo Arena, Taskent
+Semifinales
+ Partido 49
+ 12:00, miércoles 2 de octubre
+ Ganador 46 vs Ganador 45
+ Humo Arena, Taskent
+ Partido 50
+ 12:00, jueves 3 de octubre
+ Ganador 49 vs Ganador 48
+ Humo Arena, Taskent
+Partido por el tercer puesto
+ 9:30, domingo 6 de octubre
+ Humo Arena, Taskent
+Final
+ 12:00, domingo 6 de octubre
+ Humo Arena, Taskent
 Copa Intercontinental FIFA 2024
 El 18 de diciembre de 2024 en sede a confirmar se jugará la final de la Copa Intercontinental.
 Se enfrentarán el campeón de la Liga de Campeones de Europa contra el ganador de las eliminatorias entre los cuatro continentes restantes.
