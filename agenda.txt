@@ -819,12 +819,6 @@ Fecha 5
 Postergado: River - Banfield
 Fecha 6
 Postergado: River - Belgrano
-Lunes 9 de septiembre
- 15.00 S.A.T. - Racing, en Estadio 12 de agosto
- Árbitra: Antonella Álvarez de Olivera
- Asistente 1: Mariana De Almeida
- Asistente 2: Daniela Sanda
- Cuarta árbitra: Ariadna Palacios
 Fecha 7
  Postergado: Rosario Central - River
 Viernes 13 de septiembre
@@ -984,7 +978,18 @@ CONMEBOL Libertadores Femenina 2024
 Copa Mundial Femenina Sub 20 2024
 Octavos de final
 Jueves 12 de septiembre
-18.30 Argentina - Alemaniam, en el Estadio Metropolitano de Techo
+18.30 Argentina - Alemania, en el Estadio Metropolitano de Techo
+Octavos de final
+Miércoles 11 de septiembre
+ (38) Brasil vs. Camerún, 18:30, El Campín, Bogotá
+ (42) España vs. Canadá, 18:30, Pascual Guerrero, Cali
+ (37) México vs. Estados Unidos, 22:00, El Campín, Bogotá
+ (41) Colombia vs. República de Corea, 22:00, Pascual Guerrero, Cali
+Jueves 12 septiembre
+ (40) Alemania vs. Argentina, 18:30, El Techo, Bogotá
+ (44) RPD de Corea vs. Austria, 18:30, Atanasio Girardot, Medellín
+ (39) Japón vs. Nigeria, 22:00, El Techo, Bogotá
+ (43) Francia vs. Países Bajos, 22:00, Atanasio Girardot, Medellín
 CONMEBOL Libertadores Futsal Femenina 2024
 De 21 al 29 de julio en Cochabamba, Bolivia.
  Racing Club, campeón vigente del Torneo de Primera División, será el representante argentino en la competencia, e integrará el Grupo A, junto a Always Ready (Bolivia), el equipo representante de Venezuela, Deportivo Jap (Perú) y el representante de Ecuador.
