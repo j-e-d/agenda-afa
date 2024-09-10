@@ -598,20 +598,64 @@ Asistente 1: Luis Castillo
  Asistente 2: Giuliano Grillo
  Cuarto árbitro: Axel Pogge
 Fecha 14
-Sábado 14-09
- Villa Dálmine c. Sacachispas F.C., a las 15.00 horas
-Dep. Merlo c. Excursionistas, a las 15.00 horas
-Cañuelas F.C. c. San Martin (B.), a las 15.00 horas
-Dep. Armenio c. Villa San Carlos, a las 15.00 horas
-Liniers c. Arg. de Merlo, a las 15.00 horas
-Domingo 15-09
-F.C. Midland c. Colegiales, a las 13.30 horas (TV)
-Los Andes c. UAI - Urquiza, a las 14.10 horas (TV)
-Dep. Laferrere c. Acassuso, a las 15.00 horas
-Comunicaciones c. Sp. Italiano, a las 15.00 horas
-Lunes 16-09
-Fénix c. Sp. Dock Sud, a las 15.00 horas en Yupanqui
-Arg. de Quilmes c. Flandria, a las 15.00 horas
+Sábado 14 de septiembre
+Villa Dálmine - Sacachispas F.C., a las 15.00 horas
+ Árbitro: Gastón Iglesias
+ Asistente 1: Maximiliano Benzoni
+ Asistente 2: Cecilio Calcagno 
+ Cuarto árbitro: Gonzalo Correa
+Dep. Merlo - Excursionistas, a las 15.00 horas
+ Árbitro: Guido Mascheroni
+ Asistente 1: Cristian Amarilla
+ Asistente 2: Ramiro Ortiz Biondi
+ Cuarto árbitro: Tomás Aybar
+Cañuelas F.C. - San Martin (B.), a las 15.00 horas
+ Árbitro: Juan Cruz Robledo
+ Asistente 1: Martín Giampaolo
+ Asistente 2: Matías Noli
+ Cuarto árbitro: Jonathan de Oto
+Dep. Armenio - Villa San Carlos, a las 15.00 horas
+ Árbitro: Nicolás Kresta
+ Asistente 1: Rodrigo Arín
+ Asistente 2: Lucas Vázquez
+ Cuarto árbitro: Eduardo Gutiérrez
+Liniers - Arg. de Merlo, a las 15.00 horas
+ Árbitro: Marcos Recalde
+ Asistente 1: Diego Molina
+ Asistente 2: Federico Josa
+ Cuarto árbitro: Mariano Seco
+Domingo 15 de septiembre
+F.C. Midland - Colegiales, a las 13.30 horas (TV)
+ Árbitro: Américo Monsalvo
+ Asistente 1: Luis Castillo
+ Asistente 2: Rodrigo Mansilla
+ Cuarto árbitro: Lucas Brumer
+Los Andes - UAI - Urquiza, a las 14.10 horas (TV)
+ Árbitro: Ariel Cruz
+ Asistente 1: Lucas Cueto Viñas
+ Asistente 2: Jonathan Savoiardo
+ Cuarto árbitro: Germán Bermúdez
+Dep. Laferrere - Acassuso, a las 15.00 horas
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Damián Orellana
+ Asistente 2: Héctor Bracho Gómez
+ Cuarto árbitro: Joaquín Rodríguez
+Comunicaciones - Sp. Italiano, a las 15.00 horas
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Matías Basso
+ Asistente 2: Santiago Scalerandi
+ Cuarto árbitro: Iñaki Iparraguirre
+Lunes 16 de septiembre
+Fénix - Sp. Dock Sud, a las 15.00 horas en Yupanqui
+ Árbitro: Julián Jeréz
+ Asistente 1: Luis Rotman
+ Asistente 2: Damián Alcaráz
+ Cuarto árbitro: Ignacio Lupani
+Arg. de Quilmes - Flandria, a las 15.00 horas
+ Árbitro: Sebastián Bresba
+ Asistente 1: Leandro Vieta
+ Asistente 2: Néstor Olivera
+ Cuarto árbitro: Axel Pogge
 Fecha 15
  Arg. De Merlo - Villa Dálmine
  Sp. Italiano - Liniers
@@ -697,7 +741,7 @@ Fecha 21
  Dep. Laferrere - F.C. Midland
  Cañuelas F.C. - Los Andes
 Primera C
-12ª. fecha:
+Fecha 12:
 Miércoles 11-09
 Mercedes c. El Porvenir, a las 15.00 horas
  Árbitro: Ignacio Cuicchi
@@ -760,22 +804,70 @@ L.N. Alem c. Real Pilar, a las 15.00 horas
 Asistente 1: Diego Fernández 
 Asistente 2: Franco Boetti 
 Cuarto árbitro: Maximiliano López Monti 
-Fecha 13 
-Sábado 14-09
- Def. de Cambaceres c. Dep. Español, a las 15.00 horas
-Argentino (Ros.) c. Rec. Español, a las 15.00 horas
-Berazategui c. Juv. Unida, a las 15.00 horas
-Gral. Lamadrid c. Muñiz, a las 15.00 horas
-Domingo 15-09
-J.J. de Urquiza c. Ctral. Ballester, a las 15.00 horas
-Yupanqui c. Claypole, a las 15.00 horas
-Luján c. Puerto Nuevo, a las 15.00 horas
-El Porvenir c. Ctral. Córdoba (Ros.), a las 15.00 horas
-Ituzaingó c. Mercedes, a las 15.00 horas
-Lunes 16-09
-Sp. Barracas c. Lugano, a las 15.00 horas en Almagro
-Dep. Paraguayo c. L.N. Alem, a las 15.00 horas en Lugano
-Real Pilar F.C. c. Victoriano Arenas, a las 15.05 horas en estadio Municipal de Pilar (TV)
+FECHA 13
+Sábado 14 de septiembre
+Def. de Cambaceres - Dep. Español, a las 15.00 horas
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Ignacio Otegui
+ Asistente 2: Alexis Escobar
+ Cuarto árbitro: Facundo Carretero
+Argentino (Ros.) - Rec. Español, a las 15.00 horas
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Alan Colman
+ Asistente 2: Nicolás Cavagnaro
+ Cuarto árbitro: Eduardo Coyto
+Berazategui - Juv. Unida, a las 15.00 horas
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Federico Bozo
+ Asistente 2: Felipe Arrechea
+ Cuarto árbitro: Juan Pablo Pereyra
+Gral. Lamadrid - Muñiz, a las 15.00 horas
+ Árbitro: Sebastián Habib
+ Asistente 1: Leandro Carril
+ Asistente 2: Lucas Monsalvo
+ Cuarto árbitro: Manuel Girett
+Domingo 15 de septiembre
+J.J. de Urquiza - Ctral. Ballester, a las 15.00 horas
+ Árbitro: Martín Depósito
+ Asistente 1: Matías Pino
+ Asistente 2: Diego Ortíz
+ Cuarto árbitro: Agustín Panizza
+Yupanqui - Claypole, a las 15.00 horas
+ Árbitro: Gabriel Flores
+ Asistente 1: Jonathan Florentin
+ Asistente 2: Lucas García
+ Cuarto árbitro: Antonela Álvarez
+Luján - Puerto Nuevo, a las 15.00 horas
+ Árbitro: Adrián Núñez Rodríguez
+ Asistente 1: Matías Panozzo
+ Asistente 2: Mario Vargas
+ Cuarto árbitro: Facundo Fuentes
+El Porvenir - Ctral. Córdoba (Ros.), a las 15.00 horas
+ Árbitro: Jonathan Barrios
+ Asistente 1: Heber Ibáñez Meza
+ Asistente 2: Joaquín Fraga
+ Cuarto árbitro: Cristian Oubel
+Ituzaingó - Mercedes, a las 15.00 horas
+ Árbitro: Valentín Bocaccia
+ Asistente 1: Ezequiel Rabasa
+ Asistente 2: Ludmila Capelli
+ Cuarto árbitro: Damián Rubino
+Lunes 16 de septiembre
+Sp. Barracas - Lugano, a las 15.00 horas en Almagro
+ Árbitro: Nicolas Jara
+ Asistente 1: Gonzalo Cubillas Patat
+ Asistente 2: Julieta Fernández
+ Cuarto árbitro: Ramiro Maglio
+Dep. Paraguayo - L.N. Alem, a las 15.00 horas en Lugano
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Cristian Rodríguez
+ Asistente 2: Berenice Avaro
+ Cuarto árbitro: Lucas Brumer
+Real Pilar F.C. - Victoriano Arenas, a las 15.05 horas en estadio Municipal de Pilar (TV)
+ Árbitro: Alejandro Porticella
+ Asistente 1: Federico Lapalma
+ Asistente 2: Ariel Ibáñez
+ Cuarto árbitro: Mariano Seco 
 Fecha 14 
  Libre Muñiz 
  Mercedes - Gral. Lamadrid 
@@ -946,17 +1038,45 @@ Fecha 25
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Fecha 9
-Viernes 13-09 
-Camioneros c. Barrancas F.C., a las 15.00 horas
-Provincial (Lobos) c. S.A.T., a las 18.00 horas
-Sábado 14-09
-Náutico Hacoaj c. F.C. Ezeiza, a las 10.00 horas (TV)
-Estrella del Sur c. Dep. Metalúrgico, a las 15.00 horas
-At. Pilar c. Everton (L.P.), a las 15.00 horas
-Domingo 15-09
-Estrella de Berisso c. Belgrano (Zarate), a las 15.00 horas
-Lunes 16-09
-Juv. de Bernal c. Def. de Glew, a las 15.00 horas en Berazategui (Auxiliar)
+Viernes 13 de septiembre 
+Camioneros - Barrancas F.C., a las 15.00 horas
+ Árbitro: Iván Mastroieni
+ Asistente 1: Leandro Idio
+ Asistente 2: Federico Boveri
+ Cuarto árbitro: Sebastián Milessi
+Provincial (Lobos) - S.A.T., a las 18.00 horas
+ Árbitro: Iván Castelu Coca
+ Asistente 1: Franco Boetti
+ Asistente 2: Rodolfo Rodríguez
+ Cuarto árbitro: Manuel Prieto
+Sábado 14 de septiembre
+Náutico Hacoaj - F.C. Ezeiza, a las 10.00 horas (TV)
+ Árbitro: David Cornejo 
+ Asistente 1: Bruno Castillo
+ Asistente 2: Roberto Rodríguez
+ Cuarto árbitro: Elías Viglione
+Estrella del Sur - Dep. Metalúrgico, a las 15.00 horas
+ Árbitro: Axel Fernández
+ Asistente 1: Alexis Etchepare
+ Asistente 2: Andrés Belén
+ Cuarto árbitro: Leandro Fedele
+At. Pilar - Everton (L.P.), a las 15.00 horas
+ Árbitro: Mateo Bocaccia
+ Asistente 1: Nahuel Valdeón
+ Asistente 2: Julián Fabiani
+ Cuarto árbitro: Martín Morenza
+Domingo 15 de septiembre
+Estrella de Berisso - Belgrano (Zarate), a las 15.00 horas
+ Árbitro: Agustín Flores
+ Asistente 1: Felipe Onufrik
+ Asistente 2: Pablo Castro
+ Cuarto árbitro: Gonzalo Correa
+Lunes 16 de septiembre
+Juv. de Bernal - Def. de Glew, a las 15.00 horas en Berazategui (Auxiliar)
+ Árbitro: Matías Ansede
+ Asistente 1: Facundo Maldonado
+ Asistente 2: Tomás Otero
+ Cuarto árbitro: Micaela Abelardo
 Fecha 10
 Dep. Metalúrgico - Def. De Glew
  S.A.T. - Juv. De Bernal
