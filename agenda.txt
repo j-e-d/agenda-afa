@@ -10,24 +10,25 @@ Fecha 3
  VAR: Mauro Vigliano
  AVAR: Mariana De Almeida
 Fecha 14
- Viernes 13 de septiembre
- 15.00 Deportivo Riestra - Huracán
- 18.30 Lanús - Unión
- 18.30 Central Córdoba - Instituto
- 21.00 River - Atlético Tucumán
- Sábado 14 de septiembre
- 15.00 San Lorenzo - Vélez
- 17.30 Racing - Boca
- 20.00 Tigre - Gimnasia
- 20.00 Belgrano - Independiente
- Domingo 15 de septiembre
- 15.00 Godoy Cruz - Sarmiento
- 15.00 Estudiantes - Platense
- 17.30 Rosario Central - Talleres
- 20.00 Argentinos - Newell's
- Lunes 16 de septiembre
- 15.00 Barracas Central - Banfield
- 21.00 Independiente Rivadavia - Defensa y Justicia
+14ª. Fecha
+Viernes 13-09
+ Dep. Riestra c. Huracán, a las 15.00 horas
+Lanús c. Unión, a las 18.30 horas
+Ctral. Córdoba (S.E.) c. Instituto A.C.C., a las 18.30 horas en estadio Madre de Ciudades
+River Plate c. Atl. Tucumán, a las 21.00 horas
+Sábado 14-09
+ San Lorenzo de A. c. Vélez Sarsfield, a las 15.00 horas
+Racing Club c. Boca Juniors, a las 17.30 horas
+Belgrano (Cba.) c. Independiente, a las 20.00 horas
+Tigre c. G. y Esgrima (L.P.), a las 20.00 horas
+Domingo 15-09
+Estudiantes de L.P. c. Platense, a las 15.00 horas
+Godoy Cruz c. Sarmiento, a las 15.00 horas en estadio Mendoza
+Rosario Central c. Talleres (Cba.), a las 17.30 horas
+Argentinos Juniors c. Newell´s Old Boys, a las 20.00 horas
+Lunes 16-09
+Barracas Central c. Banfield, a las 15.00 horas en Dep. Riestra
+Independiente Riv. (Mza.) c. Def. y Justicia, a las 21.00 horas
 Fecha 15
  Viernes 20 de septiembre
  17.30 Gimnasia - Deportivo Riestra
@@ -243,29 +244,61 @@ Atlético Tucumán – Central Córdoba
 Trofeo de Campeones
 El encuentro se disputará el domingo 22 de diciembre de 2024
 Copa Proyección Sur Finanzas Final 2024
+8ª. fecha:
+ Zona A
+Martes 17-09
+ Dep. Riestra c. Vélez Sarsfield, a las 15.00 horas en Predio La Candela.
+Instituto A.C.C. c. Racing Club, a las 15.00 horas en Polidep. La Agustina.
+Miércoles 18-09
+ Banfield c. G. y Esgrima (L.P.), a las 15.00 horas en Banfield (Aux. L. Guillón).
+Argentinos Juniors c. San Lorenzo de A., a las 15.00 horas en Argentinos Juniors (Auxiliar).
+Jueves 19-09
+ Independiente Riv. (Mza.) c. Barracas Central, a las 15.00 horas en Independiente Riv. (Mza.) (Aux. Cdad. Deportiva).
+ Belgrano (Cba.) c. Rosario Central, a las 15.00 horas en Belgrano (Cba.) (Aux. V. Esquiu).
+Atl. Tucumán c. River Plate, a las 19.00 horas en Atl. Tucumán (Principal).
+Zona B
+Martes 17-09
+ Tigre c. Def. y Justicia, a las 15.00 horas en Tigre (Auxiliar).
+ Estudiantes de L.P. c. Lanús, a las 15.00 horas en Estudiantes de L.P. (Aux. Country).
+Independiente c. Godoy Cruz, a las 19.00 horas en Independiente (Principal).
+Miércoles 18-09
+ Sarmiento c. Unión, a las 15.00 horas en Sarmiento (Aux. Ctro. A. Rendimiento).
+Huracán c. Platense, a las 15.00 horas en Huracán (Auxiliar).
+ Boca Juniors c. Ctral. Córdoba (S.E.), a las 19.00 horas en Boca Juniors (Aux. Ezeiza).
+Jueves 19-09
+ Newell´s Old Boys c. Talleres (Cba.), a las 15.00 horas en Newell´s Old Boys (Aux. Predio).
 Primera Nacional
 Fecha 32 
-Zona A
-Arsenal F.C. - Gmo. Brown (P.M.)
-San Martín (Tuc) - Agropecuario Arg.
-Chacarita Jrs. - All Boys
-Estudiantes - T. Suárez
-Talleres (R.E.) - Patronato (P.)
-Quilmes A.C. - Racing (Cba.)
-San Miguel - Alvarado (M.D.P.)
-Ferro Carril Oeste - Güemes (S.E.)
-Dep. Maipú (Mza.) - G. Y Esgrima (J.)
-Zona B
-Dep. Madryn - San Telmo
-Def. Unidos - Chaco For Ever
-Atlanta - Def. De Belgrano
-Alte. Brown - Almagro
-Colón - Brown (Ad.)
-Estudiantes (R. IV) - Temperley
-Aldosivi (M.D.P.) - Dep. Morón
-Mitre (S.E.) - Nva. Chicago
-G. Y Tiro (S.) - G. Y Esgrima (Mza.)
-Interzonal At. De Rafaela - San Martín (S.J.)
+32ª. fecha:
+ Zona “A”
+Sábado 14-09
+Talleres (R.E.) c. Patronato (Paraná), a las 15.00 horas
+San Miguel c. Alvarado (M.D.P.), a las 15.00 horas
+Estudiantes c. Tristán Suarez, a las 19.00 horas
+Domingo 15-09
+Arsenal F.C. c. Brown (P.M.), a las 14.00 horas
+Ferro Carril Oeste c. Güemes (S.E.), a las 15.00 horas
+Chacarita Juniors c. All Boys, a las 15.30 horas (TV)
+Dep. Maipú (Mza.) c. G. y Esgrima (J.), a las 16.00 horas
+Quilmes A.C. c. Racing (Cba.), a las 20.00 horas (TV)
+Lunes 16-09
+San Martin (T.) c. Agropecuario Arg., a las 21.10 horas (TV)
+Zona “B”
+ Viernes 13-09
+G. y Tiro (Salta) c. G. y Esgrima (Mza.), a las 15.30 horas
+Alte. Brown c. Almagro, a las 20.05 horas (TV)
+Estudiantes (Rio IV) c. Temperley, a las 21.00 horas
+Sábado 14-09
+Aldosivi (M.D.P.) c. Dep. Morón, a las 15.30 horas en estadio José M. Minella
+Domingo 15-09
+ Def. Unidos c. Chaco For Ever, a las 15.00 horas
+ Atlanta c. Def. de Belgrano, a las 15.00 horas
+Dep. Madryn c. San Telmo, a las 15.30 horas
+Mitre (S.E.) c. Nva. Chicago, a las 16.00 horas
+Colón c. Brown (Adrogué), a las 17.45 horas (TV)
+Interzonal
+ Sabado 14-09
+Atl. de Rafaela c. San Martin (S.J.), a las 21.00 horas (TV)
 Fecha 33 
 Zona A
 G. Y Esgrima (J.) - Ferro Carril Oeste
@@ -406,25 +439,21 @@ Miércoles 11 de septiembre
 Asistente 1: Luis Castillo
  Asistente 2: Giuliano Grillo
  Cuarto árbitro: Axel Pogge
-13ª. fecha:
-Lunes 09-09
- Colegiales c. Los Andes, a las 21.10 horas (TV)
-Árbitro: Gonzalo Pereira
- Asistente 1: Martín Alonso
- Asistente 2: Francisco Gugliota
- Cuarto árbitro: Damián Rubino
 Fecha 14
- Villa Dálmine - Sacachispas F.C.
- Dep. Merlo - Excursionistas
- Dep. Laferrere - Acassuso
- Cañuelas F.C. - San Martín (B.)
- Los Andes - UAI Urquiza
- F.C. Midland - Colegiales
- Fénix - Sp. Dock Sud
- Arg. De Quilmes - Flandria
- Dep. Armenio - Villa San Carlos
- Comunicaciones - Sp. Italiano
- Liniers - Arg. De Merlo
+Sábado 14-09
+ Villa Dálmine c. Sacachispas F.C., a las 15.00 horas
+Dep. Merlo c. Excursionistas, a las 15.00 horas
+Cañuelas F.C. c. San Martin (B.), a las 15.00 horas
+Dep. Armenio c. Villa San Carlos, a las 15.00 horas
+Liniers c. Arg. de Merlo, a las 15.00 horas
+Domingo 15-09
+F.C. Midland c. Colegiales, a las 13.30 horas (TV)
+Los Andes c. UAI - Urquiza, a las 14.10 horas (TV)
+Dep. Laferrere c. Acassuso, a las 15.00 horas
+Comunicaciones c. Sp. Italiano, a las 15.00 horas
+Lunes 16-09
+Fénix c. Sp. Dock Sud, a las 15.00 horas en Yupanqui
+Arg. de Quilmes c. Flandria, a las 15.00 horas
 Fecha 15
  Arg. De Merlo - Villa Dálmine
  Sp. Italiano - Liniers
@@ -574,19 +603,21 @@ Asistente 1: Diego Fernández
 Asistente 2: Franco Boetti 
 Cuarto árbitro: Maximiliano López Monti 
 Fecha 13 
- Atlas Libre 
- Def. De Cambaceres - Dep. Español 
- Argentino (Ros.) - Ctro. Re- Español 
- Real Pilar - V. Arenas 
- Dep. Paraguayo - L.N. Alem 
- J.J. De Urquiza - Ctral. Ballester 
- Yupanqui - Claypole 
- Berazategui - J. Unida 
- Sp. Barracas - Lugano 
- Luján - Puerto Nuevo 
- El Porvenir - Ctral. Cba. (Ros.) 
- Ituzaingó - Mercedes 
- Gral. Lamadrid - Muñiz 
+Sábado 14-09
+ Def. de Cambaceres c. Dep. Español, a las 15.00 horas
+Argentino (Ros.) c. Rec. Español, a las 15.00 horas
+Berazategui c. Juv. Unida, a las 15.00 horas
+Gral. Lamadrid c. Muñiz, a las 15.00 horas
+Domingo 15-09
+J.J. de Urquiza c. Ctral. Ballester, a las 15.00 horas
+Yupanqui c. Claypole, a las 15.00 horas
+Luján c. Puerto Nuevo, a las 15.00 horas
+El Porvenir c. Ctral. Córdoba (Ros.), a las 15.00 horas
+Ituzaingó c. Mercedes, a las 15.00 horas
+Lunes 16-09
+Sp. Barracas c. Lugano, a las 15.00 horas en Almagro
+Dep. Paraguayo c. L.N. Alem, a las 15.00 horas en Lugano
+Real Pilar F.C. c. Victoriano Arenas, a las 15.05 horas en estadio Municipal de Pilar (TV)
 Fecha 14 
  Libre Muñiz 
  Mercedes - Gral. Lamadrid 
@@ -757,15 +788,19 @@ Fecha 25
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Fecha 9
- Est. Del Sur - Dep. Metalúrgico
- Camioneros - Barrancas F.C
- N. Hacoaj - F.C Ezeiza
- At. Pilar - Everton (L.P.)
- Est. De Berisso - Belgrano (Z.)
- Pcial. De Lobos - S.A.T.
- Juv. De Bernal - Def. De Glew
+Viernes 13-09 
+Camioneros c. Barrancas F.C., a las 15.00 horas
+Provincial (Lobos) c. S.A.T., a las 18.00 horas
+Sábado 14-09
+Náutico Hacoaj c. F.C. Ezeiza, a las 10.00 horas (TV)
+Estrella del Sur c. Dep. Metalúrgico, a las 15.00 horas
+At. Pilar c. Everton (L.P.), a las 15.00 horas
+Domingo 15-09
+Estrella de Berisso c. Belgrano (Zarate), a las 15.00 horas
+Lunes 16-09
+Juv. de Bernal c. Def. de Glew, a las 15.00 horas en Berazategui (Auxiliar)
 Fecha 10
- Dep. Metalúrgico - Def. De Glew
+Dep. Metalúrgico - Def. De Glew
  S.A.T. - Juv. De Bernal
  Belgrano (Z.) - Pcial. De Lobos
  Everton (L.P.) - Est. De Berisso
