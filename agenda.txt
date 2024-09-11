@@ -635,12 +635,6 @@ Los Andes - UAI - Urquiza, a las 14.10 horas (TV)
  Asistente 1: Lucas Cueto Viñas
  Asistente 2: Jonathan Savoiardo
  Cuarto árbitro: Germán Bermúdez
-Dep. Laferrere - Acassuso, a las 15.00 horas en
-Argentino de Merlo
-Árbitro: Gabriel Gutiérrez
- Asistente 1: Damián Orellana
- Asistente 2: Héctor Bracho Gómez
- Cuarto árbitro: Joaquín Rodríguez
 Comunicaciones - Sp. Italiano, a las 15.00 horas
  Árbitro: Nicolás Mastroieni
  Asistente 1: Matías Basso
@@ -657,6 +651,12 @@ Arg. de Quilmes - Flandria, a las 15.00 horas
  Asistente 1: Leandro Vieta
  Asistente 2: Néstor Olivera
  Cuarto árbitro: Axel Pogge
+Dep. Laferrere - Acassuso, a las 15.00 horas en
+Argentino de Merlo
+Árbitro: Gabriel Gutiérrez
+ Asistente 1: Damián Orellana
+ Asistente 2: Héctor Bracho Gómez
+ Cuarto árbitro: Joaquín Rodríguez
 Fecha 15
  Arg. De Merlo - Villa Dálmine
  Sp. Italiano - Liniers
@@ -743,62 +743,6 @@ Fecha 21
  Cañuelas F.C. - Los Andes
 Primera C
 Fecha 12:
-Miércoles 11-09
-Ctral. Córdoba (Ros.) c. Luján, a las 15.00 horas
- Árbitro: Valentín Bocaccia
- Asistente 1: Jonathan Florentín
- Asistente 2: Tomás Otero
- Cuarto árbitro: Ramiro Maglio
-Puerto Nuevo c. Sp. Barracas, a las 15.00 horas
- Árbitro: David Cornejo
- Asistente 1: Leandro Idio
- Asistente 2: Mara Díaz
- Cuarto árbitro: Agustín Flores
-Lugano c. Berazategui, a las 15.00 horas
- Árbitro: Alejandro Porticella
- Asistente 1: Alan Colman
- Asistente 2: Pablo Castro
- Cuarto árbitro: Facundo Carretero
-Juv. Unida c. Yupanqui, a las 15.00 horas
- Árbitro: Gonzalo Correa
- Asistente 1: Facundo Maldonado
- Asistente 2: Oscar Maidana
- Cuarto árbitro: Gonzalo Creimermann
-Claypole c. J.J. de Urquiza, a las 15.00 horas
- Árbitro: Manuel Girett
- Asistente 1: Leandro Carril
- Asistente 2: Joaquín Fraga
- Cuarto árbitro: Iván Mastroieni
-Ctral. Ballester c. Dep. Paraguayo, a las 15.00 horas
- Árbitro: Mateo Bocaccia
- Asistente 1: Juan Etchepare
- Asistente 2: Bruno Castillo
- Cuarto árbitro: Gabriel Flores
-Victoriano Arenas c. Argentino (Ros.), a las 15.00 horas
- Árbitro: Joaquín Rodríguez
- Asistente 1: Felipe Arrechea
- Asistente 2: Andrés Belén
- Cuarto árbitro: Lucas Brumer
-Rec. Español c. Def. de Cambaceres, a las 15.00 horas en F.C. Midland
- Árbitro: A. Núñez Rodríguez
- Asistente 1: Ariel Ibañez
- Asistente 2: Mariela Martino
- Cuarto árbitro: Nicolás Jara
-Dep. Español c. Atlas, a las 15.00 horas (TV)
- Árbitro: Jonathan Barrios
- Asistente 1: Matías Pino
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Mariano Seco
-Muñiz c. Ituzaingó, a las 15.00 horas en Atlas 
-Árbitro: Rodrigo Villalba 
-Asistente 1: Maías Panozzo
-Asistente 2: Diego Ortíz 
-Cuarto árbitro: Eduardo Coyto
- Mercedes c. El Porvenir, a las 16.30 horas
- Árbitro: Ignacio Cuicchi
- Asistente 1: Cristian Rodríguez
- Asistente 2: Sofía Curto
- Cuarto árbitro: Agustín Panizza
 Jueves 12-09
 L.N. Alem c. Real Pilar, a las 15.00 horas
 Árbitro: Martín Desposito 
@@ -817,8 +761,8 @@ Argentino (Ros.) - Rec. Español, a las 15.00 horas
  Asistente 1: Alan Colman
  Asistente 2: Nicolás Cavagnaro
  Cuarto árbitro: Eduardo Coyto
-Berazategui - Juv. Unida, a las 15.00 horas
- Árbitro: Ignacio Cuicchi
+Berazategui - Juv. Unida, a las 15.00 horas en el estadio de Defensa y Justicia
+Árbitro: Ignacio Cuicchi
  Asistente 1: Federico Bozo
  Asistente 2: Felipe Arrechea
  Cuarto árbitro: Juan Pablo Pereyra
