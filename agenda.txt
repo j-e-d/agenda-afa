@@ -1207,14 +1207,41 @@ Copa Federal de Fútbol Femenino
 CONMEBOL Libertadores 2024 
 Los partidos de ida de los cuartos de final serán entre el martes 17 y jueves 19 de septiembre y los de vuelta, entre el 24 y 26 de septiembre. Los cuatro conjuntos que se impongan en sus respectivas llaves avanzarán a las semifinales.
 Cuartos de final de la Copa Libertadores 2024
-Ida
 Martes 17 de septiembre
  21.30 Colo Colo - River
+ Árbitro: Raphael Claus (BRA)
+ Asistente 1: Bruno Pires (BRA)
+ Asistente 2: Rodrigo Correa (BRA)
+ Cuarto árbitro: Paulo Zanovelli (BRA)
+ VAR: Rodolpho Toski (BRA)
+ AVAR: Pablo Goncalves (BRA)
+ AVAR 2: José Rocha (BRA)
 Miércoles 18 de septiembre
  19.00 Fluminense - Alético Mineiro
- 21.30 Botafogo - San Pablo
+ Árbitro: Facundo Tello (ARG)
+ Asistente 1: Juan Belatti (ARG)
+ Asistente 2: Maximiliano del Yesso (ARG)
+ Cuarto árbitro: Maximiliano Ramírez (ARG)
+ VAR: Silvio Trucco (ARG)
+ AVAR: Hernán Mastrángelo (ARG)
+ AVAR 2: Germán Delfino (ARG)
+21.30 Botafogo - San Pablo
+ Árbitro: Esteban Ostojich (URU)
+ Asistente 1: Nicolás Tarán (URU)
+ Asistente 2: Carlos Barreiro (URU)
+ Cuarto árbitro: Mathias de Armas (URU)
+ VAR: Leodan González (URU)
+ AVAR: Christian Ferreyra (URU)
+ AVAR 2: Richard Trinidad (URU)
 Jueves 19 de septiembre
  19.00 Flamengo - Peñarol
+ Árbitro: Jesús Valenzuela (VEN)
+ Asistente 1: Jorge Urrego (VEN)
+ Asistente 2: Tulio Moreno (VEN)
+ Cuarto árbitro: Alexis Herrera (VEN)
+ VAR: Juan Soto (VEN)
+ AVAR: Michael Espinoza (PER)
+ AVAR 2: Jonny Bossio (PER)
 Vuelta
 Martes 24 de septiembre
  21.30 River - Colo Colo 
@@ -1229,11 +1256,39 @@ Conmebol Sudamericana - Cuartos de final
 Partidos de ida
 Martes 17 de septiembre
  21.30 Fortaleza (Brasil) vs. Corinthians (Brasil)
+ Árbitro: Dario Herrera (ARG)
+ Asistente 1: Ezequiel Brailovsky (ARG)
+ Asistente 2: Facundo Rodríguez (ARG)
+ Cuarto árbitro: Pablo Echavarría (ARG)
+ VAR: Mauro Vigliano (ARG)
+ AVAR: Nicolás Lamolina (ARG)
+ AVAR 2: Lucas Novelli (ARG)
 Miércoles 18 de septiembre
  21.30 Lanús (Argentina) vs. Independiente Medellín (Colombia)
+ Árbitro: Wilton Sampaio (BRA)
+ Asistente 1: Danilo Manis (BRA)
+ Asistente 2: Bruno Boschilia (BRA)
+ Cuarto árbitro: Braulio Machado (BRA)
+ VAR: Daniel Nobre (BRA)
+ AVAR: Rodrigo Guarizo (BRA)
+ AVAR 2: Rodrigo Nunez (BRA)
 Jueves 19 de septiembre
  21.30 Atletico Paranaense (Brasil) vs. Racing (Argentina)
- 21.30 Libertad (Paraguay) vs. Cruzeiro (Brasil)
+ Árbitro: Cristian Garay (CHI)
+ Asistente 1: José Retamal (CHI)
+ Asistente 2: Miguel Rocha (CHI)
+ Cuarto árbitro: José Cabero (CHI)
+ VAR: Rodrigo Caravajal (CHI)
+ AVAR: Benjamín Saravia (CHI)
+ AVAR 2: Alejandro Molina (CHI)
+21.30 Libertad (Paraguay) vs. Cruzeiro (Brasil)
+ Árbitro: Gustavo Tejera (URU)
+ Asistente 1: Martín Soppi (URU)
+ Asistente 2: Pablo Llarena (URU)
+ Cuarto árbitro: Alberto Feres (URU)
+ VAR: Andrés Cunha (URU)
+ AVAR: Antonio García (URU)
+ AVAR 2: Agustín Berisso (URU)
 Partidos de vuelta
 Martes 24 de septiembre
  21.30 Corinthians vs. Fortaleza
