@@ -296,11 +296,6 @@ Primera Nacional
 Fecha 32 
 Zona “A”
 Domingo 15-09
-Arsenal F.C. c. Brown (P.M.), a las 14.00 horas
- Árbitro: Julio Barraza
- Asistente 1: Juan González
- Asistente 2: Lucas Pardo
- Cuarto árbitro: Gastón Suárez
 Ferro Carril Oeste c. Güemes (S.E.), a las 15.00 horas
  Árbitro: Juan Pafundi
  Asistente 1: Ernesto Callegari
@@ -489,16 +484,6 @@ Interzonal Atlanta - All Boys
 Primera B
 Fecha 14
 Domingo 15 de septiembre
-F.C. Midland - Colegiales, a las 13.30 horas (TV)
- Árbitro: Américo Monsalvo
- Asistente 1: Luis Castillo
- Asistente 2: Rodrigo Mansilla
- Cuarto árbitro: Lucas Brumer
-Los Andes - UAI - Urquiza, a las 14.10 horas (TV)
- Árbitro: Ariel Cruz
- Asistente 1: Lucas Cueto Viñas
- Asistente 2: Jonathan Savoiardo
- Cuarto árbitro: Germán Bermúdez
 Comunicaciones - Sp. Italiano, a las 15.00 horas
  Árbitro: Nicolás Mastroieni
  Asistente 1: Matías Basso
@@ -897,8 +882,6 @@ Fecha 6
 Postergado: River - Belgrano
 Fecha 7
 Domingo 15 de septiembre
- 11.00 Banfield - Platense, en Estadio Florencio Solá (TV)
- 14.00 Gimnasia - Independiente, en Estancia Chica
  16.00 Belgrano - UAI Urquiza, en Estadio
 Lunes 16 de septiembre
  14.00 Estudiantes - Newell's, en Predio Martín Coronado
@@ -1194,12 +1177,6 @@ Grupo F:
 Sistema de competición
  Las 24 naciones se dividen en seis grupos de cuatro. ﻿Los dos primeros de cada grupo, junto con los cuatro mejores terceros, accederán a la siguiente fase. A continuación, se disputarán los octavos de final, los cuartos de final, las semifinales, el partido por el tercer puesto y la final.
 Grupo A
- 9:30, sábado 14 de septiembre
- Paraguay vs Costa Rica
- Humo Arena, Taskent
- 12:00, sábado 14 de septiembre
- Uzbekistán vs Países Bajos
- Humo Arena, Taskent
  9:30, martes 17 de septiembre
  Costa Rica vs Países Bajos
  Humo Arena, Taskent
@@ -1213,12 +1190,6 @@ Grupo A
  Países Bajos vs Paraguay
  Complejo deportivo universal de Bukhara, Bukhara
 Grupo B
- 7:00, sábado 14 de septiembre
- Croacia vs Tailandia
- Complejo deportivo universal de Bukhara, Bukhara
- 9:30, sábado 14 de septiembre
- Brasil vs Cuba
- Complejo deportivo universal de Bukhara, Bukhara
  9:30, martes 17 de septiembre
  Tailandia vs Cuba
  Complejo deportivo universal de Bukhara, Bukhara
@@ -1232,12 +1203,6 @@ Grupo B
  Tailandia vs Brasil
  Complejo deportivo universal de Bukhara, Bukhara
 Grupo C
- 9:30, domingo 15 de septiembre
- Afganistán vs Angola
- Humo Arena, Taskent
- 12:00, domingo 15 de septiembre
- Argentina vs Ucrania
- Humo Arena, Taskent
  9:30, miércoles 18 de septiembre
  Angola vs Ucrania
  Humo Arena, Taskent
@@ -1251,12 +1216,6 @@ Grupo C
  Ucrania vs Afganistán
  Complejo Deportivo Universal de Andiján, Andiján
 Grupo D
- 7:00, domingo 15 de septiembre
- Nueva Zelanda vs Libia
- Complejo Deportivo Universal de Andiján, Andiján
- 8:30, domingo 15 de septiembre
- España vs Kazajistán
- Complejo Deportivo Universal de Andiján, Andiján
  9:30, miércoles 18 de septiembre
  Libia vs Kazajistán
  Complejo Deportivo Universal de Andiján, Andiján
