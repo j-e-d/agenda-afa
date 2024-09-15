@@ -11,20 +11,6 @@ Fecha 3
  AVAR: Mariana De Almeida
 Fecha 14
 Domingo 15-09
-Estudiantes de L.P. c. Platense, a las 15.00 horas
- Árbitro: Nicolás Ramírez
- Asistente 1: Diego Bonfa
- Asistente 2: Andrés Barbieri
- Cuarto árbitro: Lucas Comesaña
- VAR: Diego Ceballos
- AVAR: Pablo Giménez
-Godoy Cruz c. Sarmiento, a las 15.00 horas en estadio Mendoza
- Árbitro: Silvio Trucco
- Asistente 1: Julio Fernández
- Asistente 2: Gisella Bosso
- Cuarto árbitro: Nahuel Viñas
- VAR: Germán Delfino
- AVAR: Javier Delbarba
 Rosario Central c. Talleres (Cba.), a las 17.30 horas
  Árbitro: Yael Falcón Pérez
  Asistente 1: Juan Pablo Belatti
@@ -296,21 +282,6 @@ Primera Nacional
 Fecha 32 
 Zona “A”
 Domingo 15-09
-Ferro Carril Oeste c. Güemes (S.E.), a las 15.00 horas
- Árbitro: Juan Pafundi
- Asistente 1: Ernesto Callegari
- Asistente 2: Mauro Ramos Errasti
- Cuarto árbitro: Manuel Girett
-Chacarita Juniors c. All Boys, a las 15.30 horas (TV)
- Árbitro: Ariel Penel
- Asistente 1: Juan Mamani
- Asistente 2: Mariano Altavista
- Cuarto árbitro: Gonzalo Pereira
-Dep. Maipú (Mza.) c. G. y Esgrima (J.), a las 16.00 horas
- Árbitro: Gastón Monzón Brizuela
- Asistente 1: Alejandro Schneler
- Asistente 2: Guillermo Yacante
- Cuarto árbitro: Francisco Acosta
 Quilmes A.C. c. Racing (Cba.), a las 20.00 horas (TV)
  Árbitro: Edgardo Zamora
  Asistente 1: Erik Grunman
@@ -324,26 +295,6 @@ San Martín (T.) c. Agropecuario Arg., a las 21.10 horas (TV)
  Cuarto árbitro: Maximiliano Manduca reemplaza a Gabriel Araujo
 Zona “B”
 Domingo 15-09
-Def. Unidos c. Chaco For Ever, a las 15.00 horas
- Árbitro: Bruno Amiconi
- Asistente 1: Nahuel Rasullo
- Asistente 2: Nicolás Gruccio
- Cuarto árbitro: Kevin Alegre
-Atlanta c. Def. de Belgrano, a las 15.00 horas
- Árbitro: Sebastián Martínez
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Mario Bardina
- Cuarto árbitro: Jonathan De Oto
-Dep. Madryn c. San Telmo, a las 15.30 horas
- Árbitro: Adrián Franklin
- Asistente 1: Mariano Viale
- Asistente 2: Matías Coria
- Cuarto árbitro: Marcelo Sanz reemplaza a Sergio Testa
-Mitre (S.E.) c. Nva. Chicago, a las 16.00 horas
- Árbitro: Álvaro Carranza
- Asistente 1: Matías Bianchi
- Asistente 2: Gonzalo Ferrari
- Cuarto árbitro: Maximiliano Manduca
 Colón c. Brown (Adrogué), a las 17.45 horas (TV)
  Árbitro: Jorge Baliño
  Asistente 1: Javier Uziga
@@ -483,12 +434,6 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Fecha 14
-Domingo 15 de septiembre
-Comunicaciones - Sp. Italiano, a las 15.00 horas
- Árbitro: Nicolás Mastroieni
- Asistente 1: Matías Basso
- Asistente 2: Santiago Scalerandi
- Cuarto árbitro: Iñaki Iparraguirre
 Lunes 16 de septiembre
 Fénix - Sp. Dock Sud, a las 15.00 horas en Yupanqui
  Árbitro: Julián Jeréz
@@ -592,27 +537,6 @@ Fecha 21
  Cañuelas F.C. - Los Andes
 Primera C
 FECHA 13
-Domingo 15 de septiembre
-J.J. de Urquiza - Ctral. Ballester, a las 15.00 horas
- Árbitro: Martín Depósito
- Asistente 1: Matías Pino
- Asistente 2: Diego Ortíz
- Cuarto árbitro: Agustín Panizza
-Yupanqui - Claypole, a las 15.00 horas
- Árbitro: Gabriel Flores
- Asistente 1: Jonathan Florentin
- Asistente 2: Lucas García
- Cuarto árbitro: Antonela Álvarez
-Luján - Puerto Nuevo, a las 15.00 horas
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Matías Panozzo
- Asistente 2: Mario Vargas
- Cuarto árbitro: Facundo Fuentes
-El Porvenir - Ctral. Córdoba (Ros.), a las 15.00 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Heber Ibáñez Meza
- Asistente 2: Joaquín Fraga
- Cuarto árbitro: Cristian Oubel
 Lunes 16 de septiembre
 Sp. Barracas - Lugano, a las 15.00 horas en Almagro
  Árbitro: Nicolas Jara
@@ -881,8 +805,6 @@ Postergado: River - Banfield
 Fecha 6
 Postergado: River - Belgrano
 Fecha 7
-Domingo 15 de septiembre
- 16.00 Belgrano - UAI Urquiza, en Estadio
 Lunes 16 de septiembre
  14.00 Estudiantes - Newell's, en Predio Martín Coronado
 Martes 17 de septiembre
