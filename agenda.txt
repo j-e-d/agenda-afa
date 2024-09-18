@@ -113,38 +113,44 @@ Sarmiento - Ctral. Córdoba (S.E.), a las 18.45 horas
  VAR: Mauro Vigliano
  AVAR: Julio Fernández
 Fecha 16
- Semana 29/09
-Central Córdoba – Barracas Central
- Independiente Rivadavia – Instituto
- San Lorenzo – Banfield
- Estudiantes – Defensa y Justicia
- Rosario Central – Vélez
- Racing – Platense
- River – Talleres
- Belgrano – Boca
- Argentinos – Atlético Tucumán
- Tigre – Independiente
- Riestra – Newell’s
- Lanús – Gimnasia
- Godoy Cruz – Huracán
- Sarmiento – Unión
-Fecha 
-17
- Semana 06/10
-Unión – Central Córdoba
- Huracán – Sarmiento
- Gimnasia – Godoy Cruz
- Newell’s – Lanús
- Independiente – Riestra
- Atlético Tucumán – Tigre
- Boca – Argentinos
- Talleres – Belgrano
- Platense – River
- Vélez – Racing
- Defensa y Justicia – Rosario Central
- Banfield – Estudiantes
- Instituto – San Lorenzo
- Barracas – Independiente Rivadavia
+Viernes 27 de septiembre
+ 15.00 Deportivo Riestra – Newell’s
+ 21.00 Independiente Rivadavia – Instituto
+Sábado 28 de septiembre
+ 15.00 San Lorenzo – Banfield
+ 17.30 Estudiantes – Defensa y Justicia
+ 17.30 Godoy Cruz – Huracán
+ 20.00 Belgrano – Boca
+Domingo 29 de septiembre
+ 14.30 Central Córdoba – Barracas
+ 17.00 River – Talleres
+ 19.30 Sarmiento – Unión
+ 21.00 Lanús – Gimnasia
+Lunes 30 de septiembre
+ 19.00 Argentinos – Atlético Tucumán
+ 21.00 Racing – Platense
+Martes 1° de octubre
+ 18.30 Tigre – Independiente
+ 20.30 Rosario Central – Vélez
+Fecha 17
+Viernes 4 de octubre
+ 19.00 Unión – Central Córdoba
+ 21.00 Huracán – Sarmiento
+Sábado 5 de octubre
+ 15.00 Vélez – Racing
+ 17.30 Newell’s – Lanús
+ 20.00 Instituto – San Lorenzo
+Domingo 6 de octubre
+ 15.00 Independiente – Deportivo Riestra
+ 16.30 Talleres – Belgrano
+ 19.00 Platense – River
+ 21.00 Boca – Argentinos
+Lunes 7 de octubre
+ 15.00 Barracas – Independiente Rivadavia
+ 18.45 Defensa y Justicia – Rosario Central
+ 18.45 Gimnasia – Godoy Cruz
+ 21.00 Banfield – Estudiantes
+ 21.00 Atlético Tucumán – Tigre
 Fecha 18
  Semana 20/10
 Central Córdoba – Independiente Rivadavia
@@ -310,25 +316,11 @@ El encuentro se disputará el domingo 22 de diciembre de 2024
 Copa Proyección Sur Finanzas Final 2024
 8ª. fecha:
  Zona A
-Martes 17-09
- Dep. Riestra c. Vélez Sarsfield, a las 15.00 horas en Predio La Candela.
-Instituto A.C.C. c. Racing Club, a las 15.00 horas en Polidep. La Agustina.
-Miércoles 18-09
- Banfield c. G. y Esgrima (L.P.), a las 15.00 horas en Banfield (Aux. L. Guillón).
-Argentinos Juniors c. San Lorenzo de A., a las 15.00 horas en Argentinos Juniors (Auxiliar).
 Jueves 19-09
  Independiente Riv. (Mza.) c. Barracas Central, a las 15.00 horas en Independiente Riv. (Mza.) (Aux. Cdad. Deportiva).
  Belgrano (Cba.) c. Rosario Central, a las 15.00 horas en Belgrano (Cba.) (Aux. V. Esquiu).
 Atl. Tucumán c. River Plate, a las 19.00 horas en Atl. Tucumán (Principal).
 Zona B
-Martes 17-09
- Tigre c. Def. y Justicia, a las 15.00 horas en Tigre (Auxiliar).
- Estudiantes de L.P. c. Lanús, a las 15.00 horas en Estudiantes de L.P. (Aux. Country).
-Independiente c. Godoy Cruz, a las 19.00 horas en Independiente (Principal).
-Miércoles 18-09
- Sarmiento c. Unión, a las 15.00 horas en Sarmiento (Aux. Ctro. A. Rendimiento).
-Huracán c. Platense, a las 15.00 horas en Huracán (Auxiliar).
- Boca Juniors c. Ctral. Córdoba (S.E.), a las 19.00 horas en Boca Juniors (Aux. Ezeiza).
 Jueves 19-09
  Newell´s Old Boys c. Talleres (Cba.), a las 15.00 horas en Newell´s Old Boys (Aux. Predio).
 Fecha 9
@@ -643,6 +635,11 @@ San Martín (B.) - Los Andes, a las 20.00 horas
  Asistente 2: Federico Bozo
  Cuarto árbitro: Ignacio Lupani
 Domingo 22-09
+Flandria - Dep. Armenio, a las 12.00 horas 
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Luis Rotman
+ Asistente 2: Hugo Hartung
+ Cuarto árbitro: Martín Despósito 
 Sp. Italiano - Liniers, a las 13.30 horas (TV)
  Árbitro: Ariel Cruz
  Asistente 1: Ramiro Cabrera
@@ -659,11 +656,6 @@ Sacachispas F.C. - Dep. Merlo, a las 15.00 horas
  Asistente 1: Leonardo Frega
  Asistente 2: Ignacio Otegui
  Cuarto árbitro: Eduardo Gutiérrez
- Flandria - Dep. Armenio, a las 15.00 horas 
- Árbitro: Wenceslao Meneses
- Asistente 1: Luis Rotman
- Asistente 2: Hugo Hartung
- Cuarto árbitro: Martín Despósito 
 Partido pendiente:
 12ª. fecha:
 Miércoles 25-09
