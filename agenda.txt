@@ -635,16 +635,16 @@ San Martín (B.) - Los Andes, a las 20.00 horas
  Asistente 2: Federico Bozo
  Cuarto árbitro: Ignacio Lupani
 Domingo 22-09
-Flandria - Dep. Armenio, a las 12.00 horas 
- Árbitro: Wenceslao Meneses
- Asistente 1: Luis Rotman
- Asistente 2: Hugo Hartung
- Cuarto árbitro: Martín Despósito 
 Sp. Italiano - Liniers, a las 13.30 horas (TV)
  Árbitro: Ariel Cruz
  Asistente 1: Ramiro Cabrera
  Asistente 2: Gonzalo Beloso
  Cuarto árbitro: Damián Rubino
+ Flandria - Dep. Armenio, a las 15.00 horas 
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Luis Rotman
+ Asistente 2: Hugo Hartung
+ Cuarto árbitro: Martín Despósito 
 Lunes 23-09
 Villa San Carlos - Comunicaciones, a las 15.00 horas
  Árbitro: Mauro Biasutto
@@ -1263,6 +1263,15 @@ Argentina
 Fecha 10: 
 Argentina 
 - Bolivia
+ Árbitro: Ortega Kevin, Perú
+ Árbitro Asistente 1: Orue Michael, Perú
+ Árbitro Asistente 2: Sánchez Jesús, Perú
+ Cuarto Árbitro: Pérez Roberto, Perú
+ VAR: Haro Diego, Perú
+ AVAR: Bossio Jonny, Perú
+ Asesor de árbitros: Romero Jairo, Venezuela
+ Comisario de partido: Correa Waldo, Chile
+ Oficial de Seguridad: Cosio Nelida, Perú
 Noviembre 2024
 Fecha 11: Paraguay - 
 Argentina
