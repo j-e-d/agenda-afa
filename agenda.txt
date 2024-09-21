@@ -568,26 +568,6 @@ Interzonal Atlanta - All Boys
 Primera B
 15ª. fecha:
 Sábado 21-09
-Arg. de Merlo - Villa Dálmine, a las 13.00 horas
- Árbitro: Nicolás Kresta
- Asistente 1: Martín Vaccaro
- Asistente 2: Pablo Pastor
- Cuarto árbitro: Germán Bermúdez
-Sp. Dock Sud - Arg. de Quilmes, a las 13.00 horas
- Árbitro: Gonzalo Pereira
- Asistente 1: Matías Basso
- Asistente 2: Juan Martín Pereira
- Cuarto árbitro: Gonzalo Creimermann
-UAI Urquiza - F.C. Midland, a las 13.00 horas
- Árbitro: Alejandro Porticella
- Asistente 1: Fabio Ventura
- Asistente 2: Facundo Mendiolar
- Cuarto árbitro: Nicolás Mastroieni
-Acassuso - Cañuelas F.C., a las 13.00 horas en Dep. Armenio
- Árbitro: Sebastián Bresba
- Asistente 1: Federico Zuvilivia
- Asistente 2: Néstor Olivera
- Cuarto árbitro: Guido Mascheroni
 San Martín (B.) - Los Andes, a las 20.00 horas
  Árbitro: Gastón Iglesias
  Asistente 1: Tomás Diulio 
@@ -694,11 +674,6 @@ Fecha 21
 Primera C
 14ª. fecha:
 Sábado 21-09
- Ctral. Ballester - Yupanqui, a las 11.00 horas
- Árbitro: Joaquín Rodríguez
- Asistente 1: Leandro Idio
- Asistente 2: Roberto Rodríguez
- Cuarto árbitro: Matías Ansede
 L.N. Alem - J.J. de Urquiza, a las 15.00 horas
  Árbitro: Ignacio Cuicchi
  Asistente 1: Alan Colman
@@ -994,7 +969,6 @@ Fecha 6
 Postergado: River - Belgrano
 Fecha 8
 Sábado 21 de septiembre
- 11.00 Racing - Boca, en Predio Tita Mattiussi
  15.00 Huracán - Independiente, en La Quemita
  15.00 Excursionistas - Belgrano, en Estadio
 Domingo 22 de septiembre
@@ -1256,71 +1230,7 @@ Grupo F:
  Irán, Venezuela, Guatemala y Francia.
 Sistema de competición
  Las 24 naciones se dividen en seis grupos de cuatro. ﻿Los dos primeros de cada grupo, junto con los cuatro mejores terceros, accederán a la siguiente fase. A continuación, se disputarán los octavos de final, los cuartos de final, las semifinales, el partido por el tercer puesto y la final.
-Grupo A
- 9:30, martes 17 de septiembre
- Costa Rica vs Países Bajos
- Humo Arena, Taskent
- 12:00, martes 17 de septiembre
- Uzbekistán vs Paraguay
- Humo Arena, Taskent
- 12:00, viernes 20 de septiembre
- Costa Rica v Uzbekistán
- Humo Arena, Taskent
- 12:00, viernes 20 de septiembre
- Países Bajos vs Paraguay
- Complejo deportivo universal de Bukhara, Bukhara
-Grupo B
- 9:30, martes 17 de septiembre
- Tailandia vs Cuba
- Complejo deportivo universal de Bukhara, Bukhara
- 12:00, martes 17 de septiembre
- Brasil vs Croacia
- Complejo deportivo universal de Bukhara, Bukhara
- 9:30, viernes 20 de septiembre
- Cuba vs Croacia
- Humo Arena, Taskent
- 9:30, viernes 20 de septiembre
- Tailandia vs Brasil
- Complejo deportivo universal de Bukhara, Bukhara
-Grupo C
- 9:30, miércoles 18 de septiembre
- Angola vs Ucrania
- Humo Arena, Taskent
- 12:00, miércoles 18 de septiembre
- Argentina vs Afganistán
- Humo Arena, Taskent
- 12:00, sábado 21 de septiembre
- Angola vs Argentina
- Humo Arena, Taskent
- 12:00, sábado 21 de septiembre
- Ucrania vs Afganistán
- Complejo Deportivo Universal de Andiján, Andiján
-Grupo D
- 9:30, miércoles 18 de septiembre
- Libia vs Kazajistán
- Complejo Deportivo Universal de Andiján, Andiján
- 12:00, miércoles 18 de septiembre
- España vs Nueva Zelanda
- Complejo Deportivo Universal de Andiján, Andiján
- 9:30, sábado 21 de septiembre
- Kazaijstán vs Nueva Zelanda
- Humo Arena, Taskent
- 9:30, sábado 21 de septiembre
- Libia vs España
- Complejo Deportivo Universal de Andiján, Andiján
 Grupo E
- 9:30, lunes 16 de septiembre
- Portugal vs Panamá
- Humo Arena, Taskent
- 12:00, lunes 16 de septiembre
- Tayikistán vs Marruecos
- Humo Arena, Taskent
- 9:30, jueves 19 de septiembre
- Marruecos vs Panamá
- Humo Arena, Taskent
- 12:00, jueves 19 de septiembre
- Portugal vs Tayikistán
- Humo Arena, Taskent
  9:30, domingo 22 de septiembre
  Marruecos vs Portugal
  Humo Arena, Taskent
@@ -1328,18 +1238,6 @@ Grupo E
  Panamá vs Tayikistán
  Complejo deportivo universal de Bukhara, Bukhara
 Grupo F
- 9:30, lunes 16 de septiembre
- RI de Irán vs Venezuela
- Complejo deportivo universal de Bukhara, Bukhara
- 12:00, lunes 16 de septiembre
- Guatemala vs Francia
- Complejo deportivo universal de Bukhara, Bukhara
- 9:30, jueves 19 de septiembre
- RI de Irán vs Guatemala
- Complejo deportivo universal de Bukhara, Bukhara
- 12:00, jueves 19 de septiembre
- Francia vs Venezuela
- Complejo deportivo universal de Bukhara, Bukhara
  12:00, domingo 22 de septiembre
  Francia vs RI de Irán
  Complejo deportivo universal de Bukhara, Bukhara
