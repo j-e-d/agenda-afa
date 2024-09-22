@@ -11,20 +11,6 @@ Fecha 3
  AVAR: Mariana De Almeida
 15ª. Fecha
 Domingo 22-09
-Huracán - Lanús, a las 14.30 horas
- Árbitro: Ariel Penel
- Asistente 1: Pablo Acevedo
- Asistente 2: Gerardo Lencina
- Cuarto árbitro: Yamil Possi
- VAR: Diego Ceballos
- AVAR: Gastón Suárez
- Independiente - Argentinos Juniors, a las 14.30 horas
- Árbitro: Facundo Tello
- Asistente 1: Juan Pablo Belatti
- Asistente 2: Julio Fernández
- Cuarto árbitro: Bruno Bocca
- VAR: Germán Delfino
- AVAR: Lucas Germanotta
  Talleres (Cba.)- Racing Club, a las 17.00 horas en estadio Mario A. Kempes
  Árbitro: Fernando Rapallini
  Asistente 1: Cristian Navarro
@@ -328,16 +314,6 @@ Primera Nacional
 33ª. fecha:
 Zona “A”
 Domingo 22-09
- Alvarado (M.D.P.) - Quilmes A.C., a las 15.00 horas en estadio José M. Minella
- Árbitro: Lucas Cavallero
- Asistente 1: Gonzalo Ferrari
- Asistente 2: Belén Bevilacqua
- Cuarto árbitro: César Ceballo
- Guillermo Brown (P.M.) - San Martín (S.J.), a las 15.30 horas
- Árbitro: Franco Acita
- Asistente 1: Eduardo Lucero
- Asistente 2: Sebastián Osudar
- Cuarto árbitro: Luciano Julio
  G. y Esgrima (J.) - Ferro Carril Oeste, a las 16.00 horas
  Árbitro: Juan Pablo Loustau
  Asistente 1: Marcelo Bistocco
@@ -365,17 +341,6 @@ Lunes 23-09
  Asistente 2: Martín Grasso
  Cuarto árbitro: Darío Sandoval
 Zona “B”
-Domingo 22-09
- Brown (Adrogué) - Estudiantes (Rio IV), a las 15.00 horas 
- Árbitro: Julián Jeréz
- Asistente 1: Lucas Pardo
- Asistente 2: Martín Alonso
- Cuarto árbitro: Marcos Recalde
- Nva. Chicago - G. y Tiro (Salta), a las 15.10 horas (TV)
- Árbitro: Edgardo Zamora
- Asistente 1: Maximiliano Castelli
- Asistente 2: Lucas Rípoli
- Cuarto árbitro: David Cornejo
 Lunes 23-09
  San Telmo - Def. Unidos, a las 15.00 horas
  Árbitro: Jorge Broggi
@@ -516,12 +481,6 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 15ª. fecha:
-Domingo 22-09
-Flandria - Dep. Armenio, a las 15.00 horas 
- Árbitro: Wenceslao Meneses
- Asistente 1: Luis Rotman
- Asistente 2: Hugo Hartung
- Cuarto árbitro: Martín Despósito 
 Lunes 23-09
 Villa San Carlos - Comunicaciones, a las 15.00 horas
  Árbitro: Mauro Biasutto
@@ -611,17 +570,6 @@ Fecha 21
  Cañuelas F.C. - Los Andes
 Primera C
 14ª. fecha:
-Domingo 22-09
- Ctral. Córdoba (Ros.) - Ituzaingó, a las 15.00 horas
- Árbitro: Mariano Seco
- Asistente 1: Felipe Arrechea
- Asistente 2: Andrés Belem
- Cuarto árbitro: Juan Pablo Pereyra
-Juv. Unida - Sp. Barracas, a las 15.00 horas
- Árbitro: Valentín Bocaccia
- Asistente 1: Heber Ibáñez Meza
- Asistente 2: Mariela Martino
- Cuarto árbitro: Ulises Lopez
 Lunes 23-09
  Rec. Español - Real Pilar F.C., a las 15.00 horas en F.C. Midland 
  Árbitro: Ramiro Maglio
@@ -806,16 +754,6 @@ Fecha 25
 Torneo Promocional Amateur 2024
 10ª. fecha:
 Domingo 22-09
-Dep. Metalúrgico - Def. de Glew, a las 15.00 horas en estadio Municipal de Pilar
-Árbitro: Iván Mastroieni
-Asistente 1: Santiago Escudero
-Asistente 2: Rodolfo Rodríguez
-Cuarto árbitro: Cristian Oubel
-Belgrano (Zarate) - Provincial (Lobos), a las 15.00 horas
-Árbitro: Axel Fernández
-Asistente 1: Diego Ortíz
-Asistente 2: Nahuel Martín
-Cuarto árbitro: Facundo Fuentes
 Everton (L.P.) - Estrella de Berisso, a las 16.00 horas
 Árbitro: Eduardo Coyto
 Asistente 1: Alexis Escobar
@@ -874,9 +812,6 @@ Postergado: River - Banfield
 Fecha 6
 Postergado: River - Belgrano
 Fecha 8
-Domingo 22 de septiembre
- 15.00 Newell's - Ferro, en Predio
- 15.30 River - Gimnasia, en River Camp
 Lunes 23 de septiembre
  11.00 Platense - San Lorenzo, en Predio Galván
  15.00 UAI Urquiza - Rosario Central, en Estadio Monumental de Villa Lynch
