@@ -10,25 +10,25 @@ Fecha 3
  VAR: Mauro Vigliano
  AVAR: Mariana De Almeida
 Fecha 16
-Viernes 27 de septiembre
- 15.00 Deportivo Riestra – Newell’s
- 21.00 Independiente Rivadavia – Instituto
-Sábado 28 de septiembre
- 15.00 San Lorenzo – Banfield
- 17.30 Estudiantes – Defensa y Justicia
- 17.30 Godoy Cruz – Huracán
- 20.00 Belgrano – Boca
-Domingo 29 de septiembre
- 14.30 Central Córdoba – Barracas
- 18.15 River – Talleres
- 19.30 Sarmiento – Unión
- 21.00 Lanús – Gimnasia
-Lunes 30 de septiembre
- 19.00 Argentinos – Atlético Tucumán
- 21.00 Racing – Platense
-Martes 1° de octubre
- 18.30 Tigre – Independiente
- 20.30 Rosario Central – Vélez
+Viernes 27-09
+ Dep. Riestra - Newell´s Old Boys, a las 15.00 horas
+ Independiente Riv. (Mza.) - Instituto A.C.C., a las 21.00 horas
+Sábado 28-09
+ San Lorenzo de A. - Banfield, a las 15.00 horas
+ Estudiantes de L.P. - Def. y Justicia, a las 17.30 horas
+ Godoy Cruz - Huracán, a las 17.30 horas en estadio Mendoza
+ Belgrano (Cba.) - Boca Juniors, a las 20.00 horas
+Domingo 29-09
+ Ctral. Córdoba (S.E.) - Barracas Central, a las 14.30 horas en estadio Madre de Ciudades
+ River Plate - Talleres (Cba.), a las 18.15 horas
+ Sarmiento - Unión, a las 19.30 horas
+ Lanús - G. y Esgrima (L.P.), a las 21.00 horas
+Lunes 30-09
+ Argentinos Juniors -. Atl. Tucumán, a las 19.00 horas
+ Racing Club - Platense, a las 21.00 horas
+Martes 01-10
+ Tigre - Independiente, a las 18.30 horas
+ Rosario Central - Vélez Sarsfield, a las 20.30 horas
 Fecha 17
 Viernes 4 de octubre
  19.00 Unión – Central Córdoba
@@ -267,27 +267,36 @@ Fecha 11
  15.00 Defensa y Justicia – Boca (Zona B) -Predio Campeones del Mundo-
 Primera Nacional
 Fecha 34 
-Zona A
-San Martín (S.J.) - Agropecuario Arg.
-Arsenal F.C. - All Boys
-San Martín (Tuc) - T. Suárez
-Chacarita Jrs. - Patronato (P.)
-Estudiantes - Racing (Cba.)
-Talleres (R.E.) - Alvarado (M.D.P.)
-Quilmes A.C. - Güemes (S.E.)
-San Miguel - G. Y Esgrima (J.)
-Ferro Carril Oeste - Dep. Maipú (Mza.)
-Zona B
-Def. Unidos - At. De Rafaela
-Atlanta - San Telmo
-Alte. Brown - Chaco For Ever
-Colón - Def. De Belgrano
-Estudiantes (R. IV) - Almagro
-Aldosivi (M.D.P.) - Brown (Ad.)
-Mitre (S.E.) - Temperley
-G. Y Tiro (S.) - Dep. Morón
-G. Y Esgrima (Mza.) - Nva. Chicago
-Interzonal Dep. Madryn - Gmo. Brown (P.M.)
+34ª. fecha:
+Zona “A”
+Sábado 28-09
+ San Miguel - G. y Esgrima (J.), a las 13.10 horas (TV)
+ Estudiantes - Racing (Cba.), a las 15.00 horas
+ Chacarita Juniors - Patronato (Paraná), a las 15.10 horas (TV)
+ Talleres (R.E.) - Alvarado (M.D.P.), a las 15.30 horas
+ Quilmes A.C. - Güemes (S.E.), a las 18.05 horas (TV)
+Domingo 29-09
+ Arsenal F.C. - All Boys, a las 14.10 horas (TV)
+ San Martín (S.J.) - Agropecuario Arg., a las 16.30 horas
+ San Martín (T.) - Tristán Suarez, a las 18.00 horas 
+Lunes 30-09
+ Ferro Carril Oeste - Dep. Maipú (Mza.), a las 17.10 horas (TV)
+Zona “B”
+Sábado 28-09
+ Colón - Def. de Belgrano, a las 17.10 horas (TV)
+Domingo 29-09
+ Def. Unidos - At. de Rafaela, a las 15.00 horas 
+ Alte. Brown - Chaco For Ever, a las 15.30 horas
+ Aldosivi (M.D.P.) - Brown (Adrogué), a las 15.30 horas en estadio José M. Minella
+ G. y Tiro (Salta) - Dep. Morón, a las 16.00 horas
+ G. y Esgrima (Mza.) - Nva. Chicago, a las 16.10 horas (TV)
+ Mitre (S.E.) - Temperley, a las 17.00 horas
+ Estudiantes (Río IV) - Almagro, a las 18.00 horas
+Lunes 30-09
+ Atlanta - San Telmo, a las 21.10 horas (TV)
+Interzonal
+Sábado 28-09
+ Dep. Madryn - Brown (P.M.), a las 19.00 horas
 Fecha 35 
 Zona A
 Dep. Maipú (Mza.) - San Miguel
