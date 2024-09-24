@@ -266,7 +266,6 @@ Fecha 11
  15.00 Vélez – Rosario Central (Zona A) -Villa Olímpica-
  15.00 Defensa y Justicia – Boca (Zona B) -Predio Campeones del Mundo-
 Primera Nacional
-Fecha 34 
 34ª. fecha:
 Zona “A”
 Sábado 28-09
@@ -390,18 +389,21 @@ Partido pendiente:
 12ª. fecha:
 Miércoles 25-09
  Dep. Laferrere - UAI Urquiza, a las 15.00 horas en Arg. de Merlo
-Fecha 16
- Villa Dálmine - Dep. Merlo
- Dep. Laferrere - Sacachispas F.C.
- Cañuelas F.C. - Excursionistas
- Los Andes - Acassuso
- F.C. Midland - San Martín (B.)
- Fénix - UAI Urquiza
- Arg. De Quilmes - Colegiales
- Liniers - Sp. Dock Sud
- Comunicaciones - Flandria
- Sp. Italiano - Villa San Carlos
- Arg. De Merlo - Sp. Italiano
+16ª. fecha:
+Sábado 28-09
+ Villa Dálmine - Dep. Merlo, a las 15.00 horas
+ Cañuelas F.C. - Excursionistas, a las 15.00 horas
+ Dep. Armenio - Sp. Dock Sud, a las 15.00 horas
+ Liniers - Villa San Carlos, a las 15.00 horas
+ F.C. Midland - San Martín (B.), a las 16.00 horas
+Domingo 29-09
+ Los Andes - Acassuso, a las 15.00 horas
+ Comunicaciones - Flandria, a las 15.00 horas
+ Arg. de Merlo - Sp. Italiano, a las 15.00 horas
+Lunes 30-09
+ Dep. Laferrere - Sacachispas F.C., a las 15.00 horas en Arg. de Merlo
+ Fénix - UAI Urquiza, a las 15.00 horas en Yupanqui
+ Arg. de Quilmes - Colegiales, a las 15.05 horas (TV)
 Fecha 17
  Sp. Italiano - Villa Dálmine
  Villa San Carlos - Arg. De Merlo
@@ -475,20 +477,23 @@ Claypole - Dep. Berazategui, a las 15.00 horas
  Asistente 1: Matías Pino
  Asistente 2: Lucas Monsalvo
  Cuarto árbitro: Jonathan Barrios
-Fecha 15 
- Def. De Cambaceres Libre 
- Argentino (Ros.) - Atlas 
- Real Pilar - Dep. Español 
- Dep. Paraguayo - Ctro. Re- Español 
- J.J. De Urquiza - V. Arenas 
- Yupanqui - L.N. Alem 
- Berazategui - Ctral. Ballester 
- Sp. Barracas - Claypole 
- Luján - J. Unida 
- El Porvenir - Lugano 
- Ituzaingó - Puerto Nuevo 
- Gral. Lamadrid - Ctral. Cba. (Ros.) 
- Muñiz - Mercedes 
+15ª. fecha:
+Viernes 27-09
+ Ituzaingó - Puerto Nuevo, a las 19.30 horas
+Sábado 28-09
+ Real Pilar F.C. - Dep. Español, a las 13.30 horas (TV)
+ Argentino (Ros.) - Atlas, a las 15.00 horas
+ Dep. Paraguayo - Rec. Español, a las 15.00 horas en Lugano
+ Yupanqui - L.N. Alem, a las 15.00 horas 
+ El Porvenir - Lugano, a las 15.00 horas
+ Gral. Lamadrid - Ctral. Córdoba (Ros.), a las 15.00 horas
+Domingo 29-09
+ J.J. de Urquiza - Victoriano Arenas, a las 15.00 horas 
+ Berazategui - Ctral. Ballester, a las 15.00 horas en Def. y Justicia
+ Sp. Barracas - Claypole, a las 15.00 horas en Almagro
+Lunes 30-09
+ Muñiz - Mercedes, a las 15.00 horas en Atlas
+ Luján - Juv. Unida, a las 15.00 horas
 Fecha 16 
  Libre Mercedes 
  Ctral. Cba. (Ros.) - Muñiz 
@@ -630,14 +635,18 @@ Fecha 25
  Lugano - Ctral. Ballester 
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
-Fecha 11
- Camioneros - Dep. Metalúrgico
- N. Hacoaj - Est. Del Sur
- At. Pilar - Barrancas F.C
- Est. De Berisso - F.C Ezeiza
- Pcial. De Lobos - Everton (L.P.)
- Juv. De Bernal - Belgrano (Z.)
- Def. De Glew - S.A.T.
+11ª. fecha:
+Viernes 27-09
+ Camioneros - Dep. Metalúrgico, a las 15.00 horas
+Sábado 28-09
+ Provincial (Lobos) - Everton (L.P.), a las 15.00 horas
+Domingo 29-09
+ At. Pilar - Barrancas F.C., a las 15.00 horas
+ Def. de Glew - S.A.T., a las 15.00 horas
+Lunes 30-09
+ Náutico Hacoaj - Estrella del Sur, a las 15.00 horas (TV)
+ Estrella de Berisso - F.C. Ezeiza, a las 15.00 horas
+ Juv. de Bernal - Belgrano (Zarate), a las 15.00 horas en Berazategui (Auxiliar)
 Fecha 12
  Dep. Metalúrgico - S.A.T.
  Belgrano (Z.) - Def. De Glew
