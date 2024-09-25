@@ -47,7 +47,7 @@ Godoy Cruz - Huracán, a las 17.30 horas en estadio Mendoza
  Cuarto árbitro: Álvaro Carranza
  VAR: Salomé Di Iorio
  AVAR: Diego Verlotta
- Belgrano (Cba.) - Boca Juniors, a las 20.00 horas
+Belgrano (Cba.) - Boca Juniors, a las 20.00 horas
  Árbitro: Nazareno Arasa
  Asistente 1: Miguel Savorani
  Asistente 2: Hugo Páez
@@ -76,13 +76,6 @@ Sarmiento - Unión, a las 19.30 horas
  Cuarto árbitro: Cristian Rubiano
  VAR: Darío Herrera
  AVAR: Nelson Sosa
-Lanús - G. y Esgrima (L.P.), a las 21.00 horas
- Árbitro: Hernán Mastrángelo
- Asistente 1: Pablo Gualtieri
- Asistente 2: Juan Mamani
- Cuarto árbitro: Sebastián Bresba
- VAR: Fernando Espinoza
- AVAR: Luis Lobo Medina
 Lunes 30-09
 Argentinos Juniors -. Atl. Tucumán, a las 19.00 horas
  Árbitro: Pablo Dóvalo
@@ -98,6 +91,13 @@ Racing Club - Platense, a las 21.00 horas
  Cuarto árbitro: José Carreras
  VAR: Facundo Tello
  AVAR: Álvaro Carranza
+Lanús - G. y Esgrima (L.P.), a las 21.15 horas
+ Árbitro: Hernán Mastrángelo
+ Asistente 1: Pablo Gualtieri
+ Asistente 2: Juan Mamani
+ Cuarto árbitro: Sebastián Bresba
+ VAR: Jorge Baliño
+ AVAR: Javier Uziga
 Martes 01-10
 Tigre - Independiente, a las 18.30 horas
  Árbitro: Sebastián Zunino
@@ -120,6 +120,7 @@ Viernes 4 de octubre
 Sábado 5 de octubre
  15.00 Vélez – Racing
  17.30 Newell’s – Lanús
+ 17.30 Gimnasia – Godoy Cruz
  20.00 Instituto – San Lorenzo
 Domingo 6 de octubre
  15.00 Independiente – Deportivo Riestra
@@ -129,7 +130,6 @@ Domingo 6 de octubre
 Lunes 7 de octubre
  15.00 Barracas – Independiente Rivadavia
  18.45 Defensa y Justicia – Rosario Central
- 18.45 Gimnasia – Godoy Cruz
  21.00 Banfield – Estudiantes
  21.00 Atlético Tucumán – Tigre
 Fecha 18
@@ -367,7 +367,7 @@ Talleres (R.E.) - Alvarado (M.D.P.), a las 15.30 horas
  Árbitro: Yamil Possi
  Asistente 1: Mario Bardina
  Asistente 2: Francisco Gugliotta
- Cuarto árbitro: Sebastián Bresba
+ Cuarto árbitro: Américo Monsalvo
 Quilmes A.C. - Güemes (S.E.), a las 18.05 horas (TV)
  Árbitro: Pablo Giménez
  Asistente 1: Mariano Rossetti
@@ -561,7 +561,7 @@ Cañuelas F.C. - Excursionistas, a las 15.00 horas
  Asistente 2: Ceciclio Calcagno
  Cuarto árbitro: Ignacio Lupani
 Dep. Armenio - Sp. Dock Sud, a las 15.00 horas
- Árbitro: Mauro Biasutto
+ Árbitro: Sebastián Bresba
  Asistente 1: Maximiliano Benzoni
  Asistente 2: Héctor Bracho Gómez
  Cuarto árbitro: Eduardo Gutiérrez
@@ -596,7 +596,7 @@ Lunes 30-09
  Árbitro: Ariel Cruz
  Asistente 1: Lucas Cueto Viñas
  Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Américo Monsalvo
+ Cuarto árbitro: Matías Ansede 
 Fénix - UAI Urquiza, a las 15.00 horas en Yupanqui
  Árbitro: Juan Cruz Robledo
  Asistente 1: Martín Giampaolo
