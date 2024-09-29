@@ -15,28 +15,6 @@ Sábado 12 de octubre
  VAR: Mauro Vigliano
  AVAR: Mariana De Almeida
 Fecha 16
-Sábado 28-09
-Estudiantes de L.P. - Def. y Justicia, a las 17.30 horas
- Árbitro: Yael Falcón Pérez
- Asistente 1: Pablo Acevedo
- Asistente 2: Lucas Pardo
- Cuarto árbitro: Lucas Comesaña
- VAR: Nicolás Lamolina
- AVAR: Gisella Trucco
-Godoy Cruz - Huracán, a las 17.30 horas en estadio Mendoza
- Árbitro: Pablo Echavarría
- Asistente 1: Gabriel Chade
- Asistente 2: José Castelli
- Cuarto árbitro: Álvaro Carranza
- VAR: Salomé Di Iorio
- AVAR: Diego Verlotta
-Belgrano (Cba.) - Boca Juniors, a las 20.00 horas
- Árbitro: Nazareno Arasa
- Asistente 1: Miguel Savorani
- Asistente 2: Hugo Páez
- Cuarto árbitro: Nahuel Viñas
- VAR: Silvio Trucco
- AVAR: Javier Delbarba
 Domingo 29-09
 Ctral. Córdoba (S.E.) - Barracas Central, a las 14.30 horas en estadio Madre de Ciudades
  Árbitro: Nicolás Ramírez
@@ -317,12 +295,6 @@ Fecha 11
 Primera Nacional
 Fecha 34
 Zona “A”
-Sábado 28-09
-Quilmes A.C. - Güemes (S.E.), a las 18.05 horas (TV)
- Árbitro: Pablo Giménez
- Asistente 1: Mariano Rossetti
- Asistente 2: Mariano Rúas
- Cuarto árbitro: Germán Bermúdez
 Domingo 29-09
 Arsenal F.C. - All Boys, a las 14.10 horas (TV)
  Árbitro: Gastón Monson Brizuela
@@ -346,12 +318,6 @@ Ferro Carril Oeste - Dep. Maipú (Mza.), a las 17.10 horas (TV)
  Asistente 2: Iván Aliende
  Cuarto árbitro: Ignacio Lupani
 Zona “B”
-Sábado 28-09
- Colón - Def. de Belgrano, a las 17.10 horas (TV)
- Árbitro: Bryan Ferreyra
- Asistente 1: Mariano Viale
- Asistente 2: Daniel Zamora
- Cuarto árbitro: Rodrigo Rivero
 Domingo 29-09
  Def. Unidos - At. de Rafaela, a las 15.00 horas 
  Árbitro: Juan Pablo Loustau
@@ -904,8 +870,6 @@ Postergado: River - Banfield
 Fecha 6
 Postergado: River - Belgrano
 Fecha 9
-Sábado 28 de septiembre
- 17.00 Ferro - S.A.T., en auxiliar (Caballito)
 Domingo 29 de septiembre
  15.00 Rosario Central - Excursionistas, en Estadio Gigante de Arroyito
  15.30 Gimnasia - UAI Urquiza, en Estancia Chica
