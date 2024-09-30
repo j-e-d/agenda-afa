@@ -375,23 +375,6 @@ Nva. Chicago Brown (Ad.)
 Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
-Fecha 16
-Lunes 30-09
- Dep. Laferrere - Sacachispas F.C., a las 15.00 horas en Arg. de Merlo
- Árbitro: Ariel Cruz
- Asistente 1: Lucas Cueto Viñas
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Matías Ansede 
-Fénix - UAI Urquiza, a las 15.00 horas en Yupanqui
- Árbitro: Juan Cruz Robledo
- Asistente 1: Martín Giampaolo
- Asistente 2: Giuliano Grillo
- Cuarto árbitro: Germán Bermúdez
-Arg. de Quilmes - Colegiales, a las 15.05 horas (TV)
- Árbitro: Nicolás Kresta
- Asistente 1: Martín Vaccaro
- Asistente 2: Fabio Ventura
- Cuarto árbitro: Mariano Seco
 Fecha 17
  Sp. Italiano - Villa Dálmine
  Villa San Carlos - Arg. De Merlo
@@ -453,18 +436,6 @@ Fecha 21
  Dep. Laferrere - F.C. Midland
  Cañuelas F.C. - Los Andes
 Primera C
-Fecha 15
-Lunes 30-09
- Muñiz - Mercedes, a las 15.00 horas en Atlas
- Árbitro: Manuel Girett
- Asistente 1: Heber Ibáñez Mesa
- Asistente 2: Franco Boetti
- Cuarto árbitro: Iván Castelu Coca
-Luján - Juv. Unida, a las 15.00 horas
- Árbitro: Damián Rubino
- Asistente 1: Ignacio Otegui
- Asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Gabriel Flores
 Fecha 16 
  Libre Mercedes 
  Ctral. Cba. (Ros.) - Muñiz 
@@ -606,23 +577,6 @@ Fecha 25
  Lugano - Ctral. Ballester 
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
-Fecha 11
-Lunes 30-09
-Náutico Hacoaj - Estrella del Sur, a las 15.00 horas (TV)
- Árbitro: Mateo Bocaccia
- Asistente 1: Federico Lapalma
- Asistente 2: Ariel Ibáñez
- Cuarto árbitro: Agustín Panizza
-Estrella de Berisso - F.C. Ezeiza, a las 15.00 horas
- Árbitro: Tomás Aybar
- Asistente 1: Facundo Maldonado
- Asistente 2: Sebastián Valdéz
- Cuarto árbitro: Leandro Fedele
-Juv. de Bernal - Belgrano (Zarate), a las 15.00 horas en Berazategui (Auxiliar)
- Árbitro: Gonzalo Correa
- Asistente 1: Andrés Belén
- Asistente 2: Lucas García
- Cuarto árbitro: Facundo Carretero
 Fecha 12
  Dep. Metalúrgico - S.A.T.
  Belgrano (Z.) - Def. De Glew
@@ -666,11 +620,23 @@ Postergado: River - Banfield
 Fecha 6
 Postergado: River - Belgrano
 Fecha 9
-Lunes 30 de septiembre
- 15.00 San Lorenzo - San Luis, en Ciudad Deportiva
 Martes 1° de octubre
 13.00 Estudiantes - Racing, en Predio Martín Coronado
  15.00 Independiente - River, en Predio Villa Domínico (TV)
+Fecha 10
+Postergado: Boca - Estudianets
+Viernes 4 de octubre
+ 15.00 Newell's - San Lorenzo, en auxiliar
+Sábado 5 de octubre
+ 15.00 Excursionistas - Gimnasia, en Estadio
+Domingo 6 de octubre
+ 15.00 S.A.T. - Banfield, en Estadio 12 de agosto
+15.00 San Luis - Belgrano, en predio Villa Deportiva
+16.00 Huracán - River, en La Quemita
+Lunes 7 de octubre
+ 11.00 Platense - Rosario Central, en Predio Galván
+11.00 UAI Urquiza - Independiente, en Estadio Monumental de Villa Lynch
+15.00 Racing - Ferro, en Predio Tita Mattiussi
 Torneo Femenino de Primera B
 Zona A - Fecha 3
 Suspendido: Talleres - Camioneros, en Predio Amadeo Nuccetelli
