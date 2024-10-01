@@ -250,27 +250,36 @@ Fecha 11
  15.00 Defensa y Justicia – Boca (Zona B) -Predio Campeones del Mundo-
 Primera Nacional
 Fecha 35 
-Zona A
-Dep. Maipú (Mza.) - San Miguel
-G. Y Esgrima (J.) - Quilmes A.C.
-Güemes (S.E.) - Talleres (R.E.)
-Alvarado (M.D.P.) - Estudiantes
-Racing (Cba.) - Chacarita Jrs.
-Patronato (P.) - San Martín (Tuc)
-T. Suárez - Arsenal F.C.
-All Boys - San Martín (S.J.)
-Agropecuario Arg. - Gmo. Brown (P.M.)
-Zona B
-Dep. Morón - G. Y Esgrima (Mza.)
-Temperley - G. Y Tiro (S.)
-Brown (Ad.) - Mitre (S.E.)
-Almagro - Aldosivi (M.D.P.)
-Def. De Belgrano - Estudiantes (R. IV)
-Chaco For Ever - Colón
-San Telmo - Alte. Brown
-At. De Rafaela - Atlanta
-Dep. Madryn - Def. Unidos
-Interzonal Ferro Carril Oeste - Nva. Chicago
+Zona “A”
+Viernes 4 de octubre
+Racing (Cba.) - Chacarita Juniors, a las 20.10 horas (TV)
+Sábado 5 de octubre
+Güemes (S.E.) - Talleres (R.E.), a las 15.00 horas
+Agropecuario Arg. - Brown (P.M.), a las 17.00 horas
+All Boys - San Martin (S.J.), a las 20.00 horas (TV)
+Domingo 6 de octubre
+Alvarado (M.D.P.) - Estudiantes, a las 15.00 horas en estadio José M. Minella
+Tristán Suarez - Arsenal F.C., a las 15.30 horas
+G. y Esgrima (J.) - Quilmes A. C., a las 16.00 horas
+Patronato (Paraná) - San Martin (T.), a las 17.00 horas
+Dep. Maipú (Mza.) - San Miguel, a las 17.00 horas
+Zona “B”
+Viernes 4 de octubre
+Def. de Belgrano - Estudiantes (Rio IV), a las 15.00 horas
+Sábado 5 de octubre
+San Telmo - Alte. Brown, a las 15.15 horas (TV)
+Temperley - G. y Tiro (Salta), a las 15.30 horas
+Almagro - Aldosivi (M.D.P.), a las 15.30 horas 
+Chaco For Ever - Colón, a las 17.45 horas (TV)
+Domingo 6 de octubre
+Brown (Adrogué) - Mitre (S.E.), a las 15.10 horas (TV)
+Dep. Madryn - Def. Unidos, a las 15.30 horas
+Atl. de Rafaela - Atlanta, a las 18.00 horas
+Lunes 7 de octubre
+Dep. Morón - G. y Esgrima (Mza.), a las 21.05 horas (TV)
+Interzonal
+Lunes 7 de octubre
+Ferro Carril Oeste - Nva. Chicago, a las 20.10 horas (TV) 
 Fecha 36 
 Zona A
 Gmo. Brown (P.M.) - All Boys
@@ -339,17 +348,22 @@ Dep. Morón Temperley
 Interzonal Atlanta - All Boys
 Primera B
 Fecha 17
- Sp. Italiano - Villa Dálmine
- Villa San Carlos - Arg. De Merlo
- Flandria - Liniers
- Sp. Dock Sud - Comunicaciones
- Colegiales - Dep. Armenio
- UAI Urquiza - Arg. De Quilmes
- San Martín (B.) - Fénix
- Acassuso - F.C. Midland
- Excursionistas - Los Andes
- Sacachispas F.C. - Cañuelas F.C.
- Dep. Merlo - Dep. Laferrere
+Viernes 4 de octubre
+Flandria - Liniers, a las 15.30 horas
+Sábado 5 de octubre
+Colegiales - Dep. Armenio, a las 12.05 horas (TV)
+Sp. Italiano - Villa Dálmine, a las 15.00 horas
+San Martin (B.) - Fénix, a las 15.00 horas
+UAI – Urquiza - Arg. de Quilmes, a las 15.30 horas (TV)
+Domingo 6 de octubre
+Acassuso - F.C. Midland, a las 15.00 horas en UAI - Urquiza
+Dep. Merlo - Dep. Laferrere, a las 15.00 horas
+Lunes 7 de octubre
+Sp. Dock Sud - Comunicaciones, a las 15.00 horas
+Excursionistas - Los Andes, a las 20.00 horas
+Martes 8 de octubre
+Sacachispas F.C. - Cañuelas F.C., a las 15.00 horas
+Villa San Carlos - Arg. de Merlo, a las 15.00 horas
 Fecha 18
  Villa Dálmine - Dep. Laferrere
  Cañuelas F.C. - Dep. Merlo
@@ -401,18 +415,23 @@ Fecha 21
 Primera C
 Fecha 16 
  Libre Mercedes 
- Ctral. Cba. (Ros.) - Muñiz 
- Puerto Nuevo - Gral. Lamadrid 
- Lugano - Ituzaingó 
- J. Unida - El Porvenir 
- Claypole - Luján 
- Ctral. Ballester - Sp. Barracas 
- L.N. Alem - Berazategui 
- V. Arenas - Yupanqui 
- Ctro. Re- Español - J.J. De Urquiza 
- Dep. Español - Dep. Paraguayo 
- Atlas - Real Pilar 
- Def. De Cambaceres - Argentino (Ros.) 
+Viernes 4 de octubre
+Rec. Español - J.J. de Urquiza, a las 15.00 horas en F.C. Midland
+Dep. Español - Dep. Paraguayo, a las 15.05 horas (TV)
+Sábado 5 de octubre
+Lugano - Ituzaingó, a las 15.00 horas (TV)
+Victoriano Arenas - Yupanqui, a las 15.00 horas
+Domingo 6 de octubre
+Ctral. Córdoba (Ros.) - Muñiz, a las 15.00 horas
+Puerto Nuevo - Gral. Lamadrid, a las 15.00 horas
+Juv. Unida - El Porvenir, a las 15.00 horas
+Ctral. Ballester - Sp. Barracas, a las 15.00 horas
+Def. de Cambaceres - Argentino (Ros.), a las 15.00 horas
+Lunes 7 de octubre 
+Claypole - Luján, a las 15.00 horas
+Atlas - Real Pilar F.C., a las 15.00 horas
+Martes 8 de octubre
+L.N. Alem - Berazategui, a las 15.00 horas
 Fecha 17 
  Argentino (Ros.) Libre 
  Real Pilar - Def. De Cambaceres 
@@ -541,13 +560,18 @@ Fecha 25
  J. Unida - Claypole
 Torneo Promocional Amateur 2024
 Fecha 12
- Dep. Metalúrgico - S.A.T.
- Belgrano (Z.) - Def. De Glew
- Everton (L.P.) - Juv. De Bernal
- F.C Ezeiza - Pcial. De Lobos
- Barrancas F.C - Est. De Berisso
- Est. Del Sur - At. Pilar
- Camioneros - N. Hacoaj
+Viernes 4 de octubre
+F.C. Ezeiza - Provincial (Lobos), a las 15.00 horas en Dep. Coreano
+Sábado 5 de octubre
+Dep. Metalúrgico - S.A.T., a las 15.00 horas en estadio Municipal de Pilar
+Belgrano (Zarate) - Def. de Glew, a las 15.00 horas
+Domingo 6 de octubre
+Estrella del Sur - Atlético Pilar, a las 11.00 horas (TV)
+Everton (L.P.) - Juv. de Bernal, a las 16.00 horas
+Lunes 7 de octubre
+Barrancas F.C. - Estrella de Berisso, a las 15.00 horas en Excursionistas
+Martes 8 de octubre
+Camioneros - Náutico Hacoaj, a las 15.00 horas
 Fecha 13
  N. Hacoaj - Dep. Metalúrgico
  At. Pilar - Camioneros
