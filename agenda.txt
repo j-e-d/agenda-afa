@@ -294,23 +294,28 @@ Miércoles 2 de octubre
  19.00 Independiente – Lanús (Zona B) -Estadio Libertadores De América-
  19.00 Instituto – River (Zona A) -Juan Domingo Perón-
 Fecha 11
- Miércoles 9 de octubre
- 15.00 Godoy Cruz – Unión (Zona B) -Coquimbito-
- 15.00 Atlético Tucumán – Argentinos (Zona A) -San Jorge-
- 15.00 Barracas Central – Gimnasia (Zona A) -AEFIP-
- 15.00 Platense – Central Córdoba (Zona B) -Ciudad de Vicente López-
- Jueves 10
- 15.00 Estudiantes – Sarmiento (Zona B) -City Bell-
- 15.00 Newell’s – Tigre (Zona B) -Jorge Griffa-
- 15.00 Independiente Rivadavia – Instituto (Zona A) -Ciudad Deportiva-
- 19.00 Talleres – Independiente (Zona B) -La Boutique-
- 19.00 River – Deportivo Riestra (Zona A) -River Camp-
- Viernes 11
- 15.00 Lanús – Huracán (Zona B) -Polideportivo-
- 15.00 San Lorenzo – Banfield (Zona A) -Auxiliar-
- 15.00 Racing – Belgrano (Zona A) -Tita Mattiussi-
- 15.00 Vélez – Rosario Central (Zona A) -Villa Olímpica-
- 15.00 Defensa y Justicia – Boca (Zona B) -Predio Campeones del Mundo-
+Zona A
+Miércoles09-10
+Atl. Tucumán c. Argentinos Juniors, a las 19.00 horas enAtl. Tucumán (Principal).
+Barracas Central c. G. y Esgrima (L.P.), a las 15.00 horas en Predio A.E.F.I.P.
+Jueves10-10
+Independiente Riv. (Mza.) c. Instituto A.C.C., a las 15.00 horas en Independiente Riv. (Mza.) (Aux. Cdad. Deportiva).
+Viernes 11-10
+RiverPlate c. Dep. Riestra, a las 19.00 horas en RiverPlate (Aux. Ezeiza).
+San Lorenzo de A. c. Banfield, a las 15.00 horas en San Lorenzo de A. (Aux. Cdad. Deportiva).
+Racing Club c. Belgrano (Cba.), a las 15.00 horas en Racing Club (Aux. T. Mattiussi).
+Vélez Sarsfield c. Rosario Central, a las 15.00 horas en Vélez Sarsfield (Aux. V. Olímpica).
+Zona B
+Miércoles09-10
+Godoy Cruz c. Unión, a las 15.00 horas en Godoy Cruz (Aux. Coquimbito).
+Platense c. Ctral. Córdoba (S.E.), a las 15.00 horas enPlatense (Principal).
+Talleres (Cba.) c. Independiente, a las 19.00 horas en Talleres (Cba.) (Principal).
+Jueves10-10
+Estudiantes de L.P. c. Sarmiento, a las 15.00 horas en Estudiantes de L.P. (Aux. Country).
+Newell´s Old Boys c. Tigre, a las 15.00 horas en Newell´s Old Boys (Aux. Predio).
+Viernes11-10
+Lanús c. Huracán, a las 15.00 horas en Lanús (Aux. Estadio).
+Def. y Justicia c. Boca Juniors, a las 15.00 horas en Def. y Justicia (Aux. Predio Campeones del Mundo).
 Primera Nacional
 Fecha 35 
 Zona “A”
@@ -874,8 +879,8 @@ Viernes 4 de octubre
 Sábado 5 de octubre
  15.00 Excursionistas - Gimnasia, en Estadio
 Domingo 6 de octubre
- 15.00 S.A.T. - Banfield, en Estadio 12 de agosto
-15.00 San Luis - Belgrano, en predio Villa Deportiva
+ 13.00 San Luis - Belgrano, en predio Villa Deportiva
+15.00 S.A.T. - Banfield, en Estadio 12 de agosto
 16.00 Huracán - River, en La Quemita
 Lunes 7 de octubre
  11.00 Platense - Rosario Central, en Predio Galván
