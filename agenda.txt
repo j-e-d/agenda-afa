@@ -590,23 +590,23 @@ Postergado: River - Belgrano
 Fecha 10
 Postergado: Boca - Estudiantes
 Lunes 7 de octubre
- 11.00 Platense - Rosario Central, en Predio Galván
-11.00 UAI Urquiza - Independiente, en Estadio Monumental de Villa Lynch
 15.00 Racing - Ferro, en Predio Tita Mattiussi
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
 ZONA ASCENSO
 Copa Federal de Fútbol Femenino
 CONMEBOL Libertadores 2024 
+Semifinales
 Partido de ida
 Martes 22 de octubre
  21.30 Atlético Mineiro - River Plate
 Partido de vuelta
 Martes 29 de octubre
  21.30 River Plate - Atlético Mineiro
-La final se disputará en Buenos Aires
+La final se disputará en el estadio Monumental, Buenos Aires
 CONMEBOL Sudamericana 2024
-Partidos de ida
+Semifinales
+ Partidos de ida
 Miércoles 23 de octubre
  19.00 Cruzeiro - Lanús
 Jueves 24 de octubre
@@ -618,7 +618,7 @@ Jueves 31 de octubre
  21.30 Racing - Corinthians
 La final se disputará en Asunción.
 CONMEBOL Libertadores Femenina 2024
-El torneo se disputará en Paraguay, del 3 al 19 de octubre del 2024 y participarán 16 clubes pertenecientes a las diez Asociaciones Miembro de la CONMEBOL.
+El torneo se disputa en Paraguay, del 3 al 19 de octubre del 2024 y participarán 16 clubes pertenecientes a las diez Asociaciones Miembro de la CONMEBOL.
 Grupo A: 
 Corinthians, Boca, Venezuela 1 y Libertad.
 Grupo B:
@@ -628,13 +628,7 @@ Grupo C:
 Grupo D:
  Deportivo Cali, Guaraní, Alianza Lima y Santiago Morning.
 CONMEBOL Libertadores Futsal Femenina 2024
-De 21 al 29 de julio en Cochabamba, Bolivia.
- Racing Club, campeón vigente del Torneo de Primera División, será el representante argentino en la competencia, e integrará el Grupo A, junto a Always Ready (Bolivia), el equipo representante de Venezuela, Deportivo Jap (Perú) y el representante de Ecuador.
- Por el Grupo B, en tanto, estarán el campeón vigente Stein Cascavel (Brasil), Exa Ysaty (Paraguay), Peñarol (Uruguay), el representante de Colombia y Universidad de Chile. 
 CONMEBOL Sub 17 Futsal 2024
-Del 17 al 25 de agosto en el Comité Olímpico Paraguayo de la ciudad de Luque. 
-Grupo A: Paraguay, Brasil, Colombia, Ecuador y Bolivia.
- Grupo B: Argentina, Venezuela, Perú, Chile y Uruguay.
 CONMEBOL Sub 20 Futsal Femenina 2024
 El torneo se disputará entre el 26 de octubre y el 3 de noviembre de 2024 en Paraguay.
 CONMEBOL Sub 20 Futsal 2024
@@ -704,14 +698,10 @@ Copa Mundial Femenina FIFA 2027
 El torneo se disputará en Brasil en fecha a designar.
 Selección Sub 20
 CONMEBOL Sub 15 2023
-La Dirección de Competiciones y Operaciones de la CONMEBOL informó que, luego de la postergación de la CONMEBOL Sub15 – 2023, el torneo se desarrollará en la ciudad de Santa Cruz de la Sierra – Bolivia, del 4 al 19 de octubre del 2024.
+La Dirección de Competiciones y Operaciones de la CONMEBOL informó que, luego de la postergación de la CONMEBOL Sub15 – 2023, el torneo se desarrolla en la ciudad de Santa Cruz de la Sierra – Bolivia, del 4 al 19 de octubre del 2024.
 Fixture
 Fase de grupos
 Fecha 2
-Domingo 6 de octubre
-18.00 Perú - Paraguay, en el Estadio Tahuichi Aguilera
-20.30 Chile - Bolivia, en el Estadio Tahuichi Aguilera
-Libre: Colombia
 Lunes 7 de octubre
 18.00 Venezuela - Argentina, en el Estadio Tahuichi Aguilera
 20.30 Uruguay - Brasil, en el Estadio Tahuichi Aguilera
