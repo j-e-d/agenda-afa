@@ -712,11 +712,6 @@ CONMEBOL Sub 15 2023
 La Dirección de Competiciones y Operaciones de la CONMEBOL informó que, luego de la postergación de la CONMEBOL Sub15 – 2023, el torneo se desarrolla en la ciudad de Santa Cruz de la Sierra – Bolivia, del 4 al 19 de octubre del 2024.
 Fixture
 Fase de grupos
-Fecha 2
-Lunes 7 de octubre
-18.00 Venezuela - Argentina, en el Estadio Tahuichi Aguilera
-20.30 Uruguay - Brasil, en el Estadio Tahuichi Aguilera
-Libre: Ecuador
 Fecha 3
 Martes 8 de octubre
 18.00 Perú - Chile, en el Estadio Tahuichi Aguilera
@@ -751,9 +746,28 @@ Final
 CONMEBOL Libertadores Fútbol Playa 2024
 El torneo se disputará del 1 al 8 de diciembre de 2024 en Ecuador.
 Copa Intercontinental FIFA 2024
-El 18 de diciembre de 2024 en sede a confirmar se jugará la final de la Copa Intercontinental.
-Se enfrentarán el campeón de la Liga de Campeones de Europa contra el ganador de las eliminatorias entre los cuatro continentes restantes.
-El campeón de la Copa Libertadores se medirá con el ganador de la Copa de Campeones de la Concacaf se enfrentarán a partido único en el estadio de uno de los dos clubes. En la primera edición, el anfitrión se decidirá por sorteo y en los años posteriores se alternará. Del otro lado, el rival saldrá de una serie entre los representantes de Asia, África y Oceanía.
+Primera ronda
+ El ganador de la Liga de Campeones de la AFC 2023-24 jugará en condición de local contra el ganador de la Liga de Campeones de la OFC 2024 en un partido denominado FIFA Eliminatoria África-Asia-Pacífico.
+ 22 de septiembre 2024 en Al ain
+ Al Ain (Emiratos Árabes Unidos): 6
+ Auckland City (Nueva Zelanda): 2
+Segunda ronda
+ El ganador de la Liga de Campeones de la CAF 2023-24 jugará en condición de local contra el vencedor de la primera ronda por el título de la FIFA Copa África-Asia-Pacífico.
+ 29 de octubre 2024 - En El Cairo
+Al Ahly (Egipto):
+ Al Ain (Emiratos Árabes Unidos):
+ El ganador de la Copa de Campeones de la Concacaf 2024 jugará contra el ganador de la Copa Libertadores 2024 en un partido denominado FIFA Derbi de las Américas.
+ 11 de diciembre 2024 en Doha
+Pachuca (México):
+ Campeón Copa Libertadores 2024:
+Play-off (FIFA Copa Challenger)
+ Los ganadores de los partidos de la segunda ronda se enfrentarán entre sí.
+ 14 de diciembre en Doha
+Final
+ El ganador del partido de play-off enfrentará al ganador de la Liga de Campeones de la UEFA 2023-24 en la misma sede neutral.
+ 18 de diciembre en Doha
+ Real Madrid (España)
+ Ganador Play off
 Copa Mundial Femenina de Futsal 2025
 Se disputará en 2025 como competición independiente y contará con la participación de 16 selecciones. La adjudicación de plazas será la siguiente: AFC (3); CAF (2); Concacaf (2); CONMEBOL (3); OFC (1); UEFA (4); país anfitrión (1).
 La primera edición del evento se llevará a cabo en Filipinas.
