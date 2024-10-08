@@ -2,8 +2,7 @@
 Torneo Betano 2024
 Fecha 3
 Sábado 12 de octubre
-*Los restantes 43 minutos, pendientes de la Fecha 3 del Torneo Betano, se jugarán en dos tiempos de 22’ y 21’, respectivamente.
- 15.30 Godoy Cruz 
+15.30 Godoy Cruz 
 1
  - San Lorenzo 
 1
@@ -14,6 +13,7 @@ Sábado 12 de octubre
  Cuarto árbitro: Gastón Monson Brizuela
  VAR: Mauro Vigliano
  AVAR: Mariana De Almeida
+ *Los restantes 43 minutos, pendientes de la Fecha 3 del Torneo Betano, se jugarán en dos tiempos de 22’ y 21’, respectivamente.
 Fecha 18
 Viernes 18 de octubre
 15.00 Deportivo Riestra – Atlético Tucumán (TNT Sports)
@@ -214,28 +214,35 @@ Viernes11-10
 Lanús c. Huracán, a las 15.00 horas en Lanús (Aux. Estadio).
 Def. y Justicia c. Boca Juniors, a las 15.00 horas en Def. y Justicia (Aux. Predio Campeones del Mundo).
 Primera Nacional
-Fecha 36 
-Zona A
-Gmo. Brown (P.M.) - All Boys
-San Martín (S.J.) - T. Suárez
-Arsenal F.C. - Patronato (P.)
-San Martín (Tuc) - Racing (Cba.)
-Chacarita Jrs. - Alvarado (M.D.P.)
-Estudiantes - Güemes (S.E.)
-Talleres (R.E.) - G. Y Esgrima (J.)
-Quilmes A.C. - Dep. Maipú (Mza.)
-San Miguel - Ferro Carril Oeste
-Zona B
-Atlanta - Dep. Madryn
-Alte. Brown - At. De Rafaela
-Colón - San Telmo
-Estudiantes (R. IV) - Chaco For Ever
-Aldosivi (M.D.P.) - Def. De Belgrano
-Mitre (S.E.) - Almagro
-G. Y Tiro (S.) - Brown (Ad.)
-G. Y Esgrima (Mza.) - Temperley
-Nva. Chicago - Dep. Morón
-Interzonal Def. Unidos - Agropecuario Arg.
+Fecha 36
+Zona “A”
+Sábado 12 de octubre
+San Miguel - Ferro Carril Oeste, a las 15.05 horas (TV)
+Arsenal F.C. - Patronato (Paraná), a las 15.30 horas
+Estudiantes - Güemes (S.E.), a las 16.00 horas
+San Martin (S.J.) - Tristán Suarez, a las 17.00 horas
+Talleres (R.E.) - G. y Esgrima (J.), a las 20.00 horas (TV)
+Domingo 13 de octubre
+Brown (P.M.) - All Boys, a las 15.00 horas
+Quilmes A.C. - Dep. Maipú (Mza.), a las 15.00 horas 
+Chacarita Juniors - Alvarado (M.D.P.), a las 15.30 horas
+San Martin (T.) - Racing (Cba.), a las 20.00 horas
+Zona “B”
+Sábado 12 de octubre
+Aldosivi (M.D.P.) - Def. de Belgrano, a las 15.30 horas en estadio José M. Minella
+Colón - San Telmo, a las 17.00 horas (TV)
+Domingo 13 de octubre
+Nva. Chicago - Dep. Morón, a las 15.00 horas (TV)
+G. y Tiro (Salta) - Brown (Adrogué), a las 16.00 horas 
+Mitre (S.E.) - Almagro, a las 17.00 horas
+Estudiantes (Rio IV) - Chaco For Ever, a las 18.00 horas
+G. y Esgrima (Mza.) - Temperley, a las 19.10 horas (TV)
+Lunes 14 de octubre
+Alte. Brown - At. de Rafaela, a las 15.30 horas
+Atlanta - Dep. Madryn, a las 21.10 horas (TV)
+Interzonal
+Domingo 13 de octubre
+Def. Unidos - Agropecuario Arg., a las 15.30 horas 
 Fecha 37 
 Zona A
 Ferro Carril Oeste - Quilmes A.C.
@@ -294,17 +301,20 @@ Villa San Carlos - Arg. de Merlo, a las 15.00 horas
  Asistente 2: Cecilio Calcagno
  Cuarto árbitro: Matías Ansede
 Fecha 18
- Villa Dálmine - Dep. Laferrere
- Cañuelas F.C. - Dep. Merlo
- Los Andes - Sacachispas F.C.
- F.C. Midland - Excursionistas
- Fénix - Acassuso
- Arg. De Quilmes - San Martín (B.)
- Dep. Armenio - UAI Urquiza
- Comunicaciones - Colegiales
- Liniers - Sp. Dock Sud
- Arg. De Merlo - Flandria
- Sp. Italiano - Villa San Carlos
+Sábado 12 de octubre
+Sp. Italiano - Villa San Carlos, a las 11.00 horas
+F.C. Midland - Excursionistas, a las 13.05 horas (TV)
+Dep. Armenio - UAI - Urquiza, a las 15.00 horas
+Villa Dálmine - Dep. Laferrere, a las 15.00 horas
+Domingo 13 de octubre
+Arg. de Quilmes - San Martin (B.), a las 13.00 horas
+Cañuelas F.C. - Dep. Merlo, a las 15.00 horas
+Los Andes - Sacachispas F.C., a las 15.00 horas
+Liniers - Sp. Dock Sud, a las 15.00 horas
+Arg. de Merlo - Flandria, a las 15.00 horas
+Comunicaciones - Colegiales, a las 17.05 horas (TV)
+Lunes 14 de octubre
+Fénix - Acassuso, a las 15.00 horas en Yupanqui
 Fecha 19
  Villa San Carlos - Villa Dálmine
  Flandria - Sp. Italiano
@@ -349,20 +359,23 @@ Martes 8 de octubre
  Asistente 1: Matías Panozzo 
  Asistente 2: Ariel Ibáñez
  Cuarto árbitro: Nicolás Jara
-Fecha 17 
- Argentino (Ros.) Libre 
- Real Pilar - Def. De Cambaceres 
- Dep. Paraguayo - Atlas 
- J.J. De Urquiza - Dep. Español 
- Yupanqui - Ctro. Re- Español 
- Berazategui - V. Arenas 
- Sp. Barracas - L.N. Alem 
- Luján - Ctral. Ballester 
- El Porvenir - Claypole 
- Ituzaingó - J. Unida 
- Gral. Lamadrid - Lugano 
- Muñiz - Puerto Nuevo 
- Mercedes - Ctral. Cba. (Ros.)
+Fecha 17
+Viernes 11 de octubre
+Yupanqui - Rec. Español, a las 11.00 horas
+Ituzaingó - Juv. Unida, a las 19.00 horas
+Sábado 12 de octubre
+Dep. Paraguayo - Atlas, a las 15.00 horas en Lugano
+Luján - Ctral. Ballester, a las 15.00 horas
+Gral. Lamadrid - Lugano, a las 15.00 horas
+Mercedes - Ctral. Córdoba (Ros.), a las 18.00 horas
+Domingo 13 de octubre
+Real Pilar F.C. - Def. de Cambaceres, a las 15.00 horas en estadio Municipal de Pilar
+J.J. de Urquiza - Dep. Español, a las 15.00 horas
+Sp. Barracas - L.N. Alem, a las 15.00 horas en Almagro
+Muñiz - Puerto Nuevo, a las 15.00 horas en Atlas
+El Porvenir - Claypole, a las 15.00 horas
+Lunes 14 de octubre 
+Berazategui - Victoriano Arenas, a las 15.00 horas en estadio a confirmar.
 Fecha 18 
  Libre Ctral. Cba. (Ros.) 
  Puerto Nuevo - Mercedes 
@@ -485,13 +498,18 @@ Camioneros - Náutico Hacoaj, a las 15.00 horas
  Cuarto árbitro: 
 Iñaki Iparraguirre
 Fecha 13
- N. Hacoaj - Dep. Metalúrgico
- At. Pilar - Camioneros
- Est. De Berisso - Est. Del Sur
- Pcial. De Lobos - Barrancas F.C
- Juv. De Bernal - F.C Ezeiza
- Def. De Glew - Everton (L.P.)
- S.A.T. - Belgrano (Z.)
+Viernes 11 de octubre
+Provincial (Lobos) - Barrancas F.C., a las 11.00 horas
+Sábado 12 de octubre
+At. Pilar - Camioneros, a las 15.00 horas
+S.A.T. - Belgrano (Zarate), a las 15.00 horas
+Domingo 13 de octubre
+Náutico Hacoaj - Dep. Metalúrgico, a las 15.00 horas
+Def. de Glew - Everton (L.P.), a las 15.00 horas
+Lunes 14 de octubre
+Estrella de Berisso - Estrella del Sur, a las 15.00 horas (TV)
+Miércoles 16 de octubre
+Juv. de Bernal - F.C. Ezeiza, a las 15.00 horas en Berazategui (Auxiliar)
 Copa Argentina
 Cuartos de Final
 Miércoles 23 de octubre
