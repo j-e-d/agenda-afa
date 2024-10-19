@@ -3,20 +3,6 @@ Torneo Betano 2024
 Fecha 18
 Fecha 18
 Sábado 19 de octubre
- 17.00 Belgrano – Platense
- Árbitro: Jorge Baliño
- Árbitro asistente 1: Marcelo Bistocco
- Árbitro asistente 2: Gisella Bosso
- Cuarto árbitro: Maximiliano Manduca
- VAR: Felipe Viola
- AVAR: Diego Romero
-17.00 Racing – Defensa y Justicia
- Árbitro: Pablo Dóvalo
- Árbitro asistente 1: Hugo Paez
- Árbitro asistente 2: Juan Mamani
- Cuarto árbitro: José Carreras
- VAR: Andrés Merlos
- AVAR: Iván Núñez
 19.15 Tigre – Boca
  Árbitro: Fernando Echenique
  Árbitro asistente 1: Maximiliano Del Yesso
@@ -229,12 +215,6 @@ Copa Proyección Sur Finanzas Final 2024
 Primera Nacional
 37ª. fecha:
  Zona “A”
- Sábado 19-10
-Racing (Cba.) c. Arsenal F.C., a las 17.00 horas
- Árbitro: Nelson Sosa
- Asistente 1: Manuel Sánchez
- Asistente 2: Martín Saccone
- Cuarto árbitro: Enzo Silvestre
 Domingo 20-10
  G. y Esgrima (J.) c. Estudiantes, a las 16.00 horas
  Árbitro: Álvaro Carranza
@@ -263,12 +243,6 @@ Lunes 21-10
  Asistente 2: Mariano Cichetto
  Cuarto árbitro: Felipe Viola 
 Zona “B”
- Sábado 19-10
- Chaco For Ever c. Aldosivi (M.D.P.), a las 17.05 horas (TV)
- Árbitro: Brian Ferreyra
- Asistente 1: Gonzalo Ferrari
- Asistente 2: Sebastián Osudar
- Cuarto árbitro: Francisco Acosta
 Domingo 20-10
  San Telmo c. Estudiantes (Rio IV), a las 15.30 horas
  Árbitro: Daniel Zamora
@@ -528,12 +502,6 @@ Jueves 24 de octubre
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2024, si el partido señalado precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A
 Reválida - Octavos - Vuelta
-Sábado 19 de octubre
- 15.30 San Martín F. - Olimpo
- Árbitro: José Darío Sandoval
- Asistente 1: Rodrigo Lezcano Garcilano
- Asistente 2: Lautaro Castañola
- Cuarto árbitro: Diego Antonietti
 Domingo 20 de octubre
  11.00 Santamarina - J.U. Universitario
  Árbitro: César Antonio Ceballos
@@ -584,9 +552,6 @@ Postergado: Boca - Estudiantes
 Fecha 11
  Postergado: Ferro - Boca
 Fecha 12
-Sábado 19 de octubre
- 16.30 S.A.T. - Belgrano, en Estadio 12 de agosto
- 17.00 San Luis - Gimnasia, en Estadio J. B. Funes
 Domingo 20 de octubre
  11.00 Racing - San Lorenzo, en Predio Tita Mattiussi
  11.00 Platense - Independiente, en Estadio Ciudad de Vicente López
@@ -596,7 +561,6 @@ Lunes 21 de octubre
 Postergado: Boca - Banfield
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
-ZONA ASCENSO
 Copa Federal de Fútbol Femenino
 CONMEBOL Libertadores 2024 
 Semifinales
@@ -694,59 +658,7 @@ Fecha FIFA - Noviembre
 Copa Mundial Femenina FIFA 2027
 El torneo se disputará en Brasil en fecha a designar.
 Selección Sub 20
-CONMEBOL Sub 15 2023
-Fixture y Resultados
- Fecha 1
- Viernes 4 de octubre
- Chile 1-0 Colombia 
- Bolivia 0-1 Perú 
- Libre: Paraguay
- Sábado 5 de octubre
- Uruguay 1-1 Ecuador 
- Brasil 4-1 Venezuela 
- Libre: Argentina
- Fecha 2
- Domingo 6 de octubre
- Perú 0-2 Paraguay
- Chile 3-0 Bolivia
- Libre: Colombia
- Lunes 7 de octubre
- Venezuela 0-1 Argentina
- Uruguay 1-1 Brasil
- Libre: Ecuador
- Fecha 3
- Martes 8 de octubre
- Perú 1-3 Chile
- Paraguay 1-0 Colombia 
- Libre: Bolivia
- Miércoles 9 de octubre
- Venezuela 2-2 Uruguay
- Argentina 2-2 Ecuador
- Libre: Brasil
- Fecha 4
- Jueves 10 de octubre
- Paraguay 0-1 Chile
- Bolivia 2-1 Colombia
- Libre: Venezuela
- Viernes 11 de octubre
- Argentina 2-1 Uruguay 
- Ecuador 2-1 Brasil
- Libre: Venezuela
- Fecha 5
- Sábado 12 de octubre
- Colombia 3-0 Perú
- Bolivia 0-4 Paraguay
- Libre: Chile
- Domingo 13 de octubre
- Ecuador 0 - Venezuela 4
- Brasil 1 - Argentina 1
- Libre: Uruguay
- Semifinales
- Miércoles 16 de octubre
- 1º del Grupo A vs. 2º del Grupo B - horario a confirmar
- 1º del Grupo B vs. 2º del Grupo A - horario a confirmar
- Final
- Sábado 19 de octubre
+Sub 15 
 CONMEBOL Libertadores Fútbol Playa 2024
 El torneo se disputará del 1 al 8 de diciembre de 2024 en Ecuador.
 Copa Intercontinental FIFA 2024
