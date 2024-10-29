@@ -25,7 +25,7 @@ Sábado 2 de noviembre
 18.00 River – Banfield (ESPN Premium)
 20.00 Belgrano – Defensa y Justicia (TNT Sports)
 Domingo 3 de noviembre
-15.30 Tigre – Platense (TNT Sports)
+17.00 Tigre – Platense (TNT Sports)
 17.30 Racing – Instituto (ESPN Premium)
 19.30 Lanús – Boca (TNT Sports)
 Fecha 21
@@ -38,7 +38,7 @@ Martes 5 de noviembre
 21.00 Independiente – Unión
 21.00 Newell’s – Huracán
 Miércoles 6 de noviembre
-15.00 Barracas Central – Racing (en Deportivo Riestra)
+16.00 Barracas Central – Racing (en Deportivo Riestra)
 17.00 Banfield – Belgrano
 19.30 Boca – Godoy Cruz
 21.30 Instituto – River
@@ -500,27 +500,18 @@ La Copa Mundial de Beach Soccer de la FIFA Seychelles 2025 se celebrará del 1 a
 Eliminatorias Conmebol Copa Mundial Fútbol Playa 2025
 Fechas: 22-28 de febrero de 2025
 Conmebol Sub 20 2025
- El sorteo se realizará el martes 29 de octubre de 2024.
- El torneo se disputará en Perú del 23 de enero al 16 de febrero del 2025, con la participación de las diez selecciones nacionales pertenecientes a las Asociaciones Miembro de la CONMEBOL.
- Formato de Competencia 
- La CONMEBOL Sub 20 2025 se disputará en 2 fases: Fase Preliminar (Fase de Grupos) y Fase Final (Las seis (6) selecciones clasificadas de la fase preliminar participarán de esta fase, con el mismo sistema de juego todos contra todos). Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
- Clasificarán para la Fase Final, los equipos que ocupen las tres primeras posiciones en cada grupo.
- Las Asociaciones Miembro Participantes de la CONMEBOL Sub20 2025 son las representantes de los siguientes países: Argentina; Bolivia; Brasil; Chile; Colombia; Ecuador; Paraguay; Perú (anfitrión); Uruguay; Venezuela.
- Metodología del sorteo 
- Los cabezas de serie de cada grupo de la CONMEBOL Sub20 2025 se definen de la siguiente manera:
- Grupo A (Posición A1): La Asociación Miembro Anfitriona (AMA) se ubicará como cabeza de serie del Grupo A (Perú).
- Grupo B (Posición B1): La Asociación Miembro campeona vigente de la CONMEBOL Sub20 2023 se ubicará como cabeza de serie del Grupo B. En caso la Asociación Miembro Anfitriona y la Asociación Miembro campeona vigente sean la misma, el cabeza de serie del Grupo B será el subcampeón de la CONMEBOL Sub20 2023 (campeón vigente: Brasil).
- En el Bolillero 1 estarán las dos Asociaciones Miembro con mejor ranking (clasificación final de la CONMEBOL Sub 20 2023) que componen la posición 2 de cada grupo (subcampeón: Uruguay; tercer puesto: Colombia). La primera bolilla sorteada será la posición A2 y la segunda bolilla B2;
- En el Bolillero 2 estarán las dos Asociaciones Miembro mejor clasificadas subsecuentes en el ranking (resultado final de la CONMEBOL Sub 20 2023) que componen la posición 3 de cada grupo. (cuarto puesto: Ecuador; quinto puesto: Venezuela). La primera bolilla sorteada será la posición A3 y la segunda bolilla B3;
- En el Bolillero 3 estarán las dos Asociaciones Miembro mejor clasificadas subsecuentes en el ranking (resultado final de la CONMEBOL Sub20 2023) que componen la posición 4 de cada grupo (sexto puesto: Paraguay; séptimo puesto: Chile). La primera bolilla sorteada será la posición A4 y la segunda bolilla B4;
- En el Bolillero 4 estarán las dos Asociaciones Miembro mejor clasificadas subsecuentes en el ranking (resultado final de la CONMEBOL Sub20 2023) que componen la posición 5 de cada grupo (octavo puesto: Argentina; noveno puesto: Bolivia). La primera bolilla sorteada será la posición A5 y la segunda bolilla B5.
- Posiciones y Bolilleros
- Posición A1: Perú
- Posición B1: Brasil
- Bolillero 1: Uruguay y Colombia
- Bolillero 2: Ecuador y Venezuela
- Bolillero 3: Paraguay y Chile
- Bolillero 4: Argentina y Bolivia
+ Grupo A
+Argentina
+Perú
+Uruguay 
+Paraguay
+Venezuela
+Grupo B
+Brasil
+Chile
+Colombia
+Ecuador 
+Bolivia
 CONMEBOL Libertadores Fútbol Playa 2024
 El torneo se disputará del 1 al 8 de diciembre de 2024 en Ecuador.
 Copa Intercontinental FIFA 2024
