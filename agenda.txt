@@ -401,11 +401,6 @@ Sábado 02-11
  Asistente 1: Cristian Rodríguez
  Asistente 2: Lucas Garcia 
  Cuarto árbitro: Martin Morenza 
- Rec. Español c. Luján, a las 15.00 horas en Ituzaingó
- Árbitros: Gonzalo Creimermann
- Asistente 1: Diego Ortiz
- Asistente 2: Julián Fabiani 
- Cuarto árbitro: Mariano Seco
  Atlas c. Berazategui, a las 15.00 horas
  Árbitros: Manuel Girett
  Asistente 1: Leandro Idio 
@@ -453,6 +448,11 @@ Lunes 04-11
  Asistente 1: Matías Pino
  Asistente 2: Tomás Otero 
  Cuarto árbitro: Gonzalo Correa 
+ Rec. Español c. Luján, a las 15.00 horas en Ituzaingó
+ Árbitros: Gonzalo Creimermann
+ Asistente 1: Diego Ortiz
+ Asistente 2: Julián Fabiani 
+ Cuarto árbitro: Mariano Seco
 Partido pendiente:
 14ª. fecha:
  Miércoles 06-11
@@ -591,15 +591,6 @@ La final se disputará en el estadio Monumental, Buenos Aires
 CONMEBOL Sudamericana 2024
 Semifinales
 Partidos de vuelta
-Miércoles 30 de octubre
- 19.00 Lanús - Cruzeiro
- Árbitro: Juan Gabriel Benitez (Paraguay)
- Asistente 1: Eduardo Cardozo (Paraguay)
- Asistente 2: Milciades Saldivar (Paraguay)
- Cuarto Árbitro: Giancarlos Juliadoza (Paraguay)
- Var: Derlis Lopez (Paraguay)
- Avar: Carlos P. Benitez (Paraguay)
- Avar 2: Jose Cuevas (Paraguay)
 Jueves 31 de octubre
  21.30 Racing – Corinthians
  Árbitro: Felipe Gonzalez (Chile)
