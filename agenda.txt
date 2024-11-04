@@ -265,17 +265,17 @@ Lunes 04-11
  Asistente 1: Matías Pino
  Asistente 2: Tomás Otero 
  Cuarto árbitro: Gonzalo Correa 
-Ctral. Ballester c. Gral. Lamadrid, a las 15.00 horas
- Árbitros: Maximiliano López Monti 
- Asistente 1: Ariel Ibáñez
- Asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Julián Beligoy reemplaza a Damián Rubino 
 Martes 5-11
 Rec. Español c. Luján, a las 15.00 horas en Ituzaingó
  Árbitros: Gonzalo Creimermann
  Asistente 1: Diego Ortiz
  Asistente 2: Julián Fabiani 
  Cuarto árbitro: Mariano Seco
+Ctral. Ballester c. Gral. Lamadrid, a las 15.00 horas
+ Árbitros: Maximiliano López Monti 
+ Asistente 1: Ariel Ibáñez
+ Asistente 2: Nicolás Cavagnaro
+ Cuarto árbitro: Julián Beligoy reemplaza a Damián Rubino
 Partido pendiente:
 14ª. fecha:
  Miércoles 06-11
@@ -376,19 +376,37 @@ Torneo Femenino de Primera División 2024
 Fecha 1
 Postergados: Boca - River y Ferro - Gimnasia
 Fecha 2
-Postergado: Independiente - Ferro
+Martes 5 de noviembre
+ 15.00 Independiente - Ferro, en Villa Domínico
 Fecha 4
-Postergado: River - Banfield
+Jueves 7 de noviembre
+ 11.00 River - Banfield, en River Camp
 Fecha 5
 Postergado: River - Banfield
 Fecha 6
 Postergado: River - Belgrano
 Fecha 10
-Postergado: Boca - Estudiantes
+Jueves 7 de noviembre
+ 11.00 Boca - Estudiantes, en Casa Amarilla
 Fecha 11
  Postergado: Ferro - Boca
 Fecha 12
 Postergado: Boca - Banfield
+Fecha 14
+Viernes 8 de noviembre
+ 15.00 Platense - UAI Urquiza, en Predio (Galván)
+ 15.00 Racing - Rosario Central, en Predio Tita Mattiussi
+Sábado 9 de noviembre
+ 11.00 S.A.T. - Gimnasia, en Estadio 12 de agosto
+Domingo 10 de noviembre
+ 11.00 Boca - Belgrano, en Casa Amarilla (TV)
+ 11.00 Ferro - Banfield, en Estadio Arq. Ricardo Etcheverri
+ 15.00 Newell's - Independiente, en Predio Griffa
+ 15.00 Huracán - Excursionistas, en La Quemita
+Lunes 11 de noviembre
+ 15.00 San Luis - River, en Estadio J. B. Funes
+Martes 12 de noviembre
+ 11.00 Estudiantes - San Lorenzo, en Predio Martín Coronado (TV)
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
 CONMEBOL Libertadores 2024 
