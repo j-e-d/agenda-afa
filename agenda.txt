@@ -147,13 +147,13 @@ Viernes 29 de noviembre
  21.00 Estudiantes – River
 Sábado 30 de noviembre
  19.30 Banfield – Lanús
+ 19.30 Rosario Central – Racing
  21.45 Defensa y Justicia – Godoy Cruz
  21.45 Instituto – Deportivo Riestra
 Domingo 1° de diciembre
  17.00 Independiente – Central Córdoba
- 19.15 Rosario Central – Racing
  19.15 Vélez – Sarmiento
- 21.30 Boca – Gimnasia
+ 21.45 Boca – Gimnasia
 Lunes 2 de diciembre
  17.00 Barracas Central – Tigre
  18.30 Platense – Unión
@@ -416,7 +416,7 @@ Postergado: Boca - River
 Miércoles 13 de noviembre
  17.00 Ferro - Gimnasia, en auxiliar
 Fecha 5
-Postergado: River - Banfield
+Postergado: River - San Lorenzo
 Fecha 6
 Postergado: River - Belgrano
 Fecha 11
@@ -424,8 +424,6 @@ Fecha 11
 Fecha 12
 Postergado: Boca - Banfield
 Fecha 14
-Viernes 8 de noviembre
- 15.00 Platense - UAI Urquiza, en Predio (Galván)
  Postergado: Racing - Rosario Central, en Predio Tita Mattiussi
 Sábado 9 de noviembre
  11.00 S.A.T. - Gimnasia, en Estadio 12 de agosto
@@ -566,6 +564,8 @@ Copa Mundial Femenina FIFA 2027
 El torneo se disputará en Brasil en fecha a designar.
 Conmebol Sub 20 2025
 El torneo se jugará en Perú del 23 de enero al 16 de febrero de 2025.
+ Grupo A: Perú, Uruguay, Venezuela, Paraguay y Argentina.
+ Grupo B: Brasil, Colombia, Ecuador, Chile y Bolivia.
 Formato de Competencia 
  La CONMEBOL Sub20 2025 se disputará en 2 fases: Fase Preliminar (Fase de Grupos) y Fase Final (Las seis (6) selecciones clasificadas de la fase preliminar participarán de esta fase, con el mismo sistema de juego todos contra todos). Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
  Clasificarán para la Fase Final, los equipos que ocupen las tres primeras posiciones en cada grupo.
