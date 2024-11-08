@@ -103,53 +103,63 @@ Argentinos Juniors - Banfield, a las 21.00 horas
  VAR: Diego Ceballos
  AVAR: Álvaro Carranza
 Fecha 23
- Semana 20/11
-Newell’s – Central Córdoba
- Independiente – Gimnasia
- Atlético Tucumán – Huracán
- Boca – Unión
- Talleres – Sarmiento
- Platense – Godoy Cruz
- Vélez – Lanús
- Defensa y Justicia – Riestra
- Banfield – Tigre
- Instituto – Argentinos
- Barracas – Belgrano
- Independiente Rivadavia – River
- San Lorenzo – Racing
- Estudiantes – Rosario Central
+Domingo 17 de noviembre
+ 17.30 San Lorenzo – Racing
+Lunes 18 de noviembre
+ 17.00 Banfield – Tigre
+ 19.15 Platense – Godoy Cruz
+ 19.15 Defensa y Justicia – Deportivo Riestra
+ 21.30 Instituto – Argentinos
+ 21.30 Atlético Tucumán – Huracán
+Miércoles 20 de noviembre
+ 17.00 Newell´s – Central Córdoba
+ 19.15 Vélez – Lanús
+ 19.15 Estudiantes – Rosario Central
+ 21.30 Boca – Unión
+Jueves 21 de noviembre
+ 17.00 Barracas Central – Belgrano
+ 19.15 Talleres – Sarmiento
+ 19.15 Independiente – Gimnasia
+ 21.30 Independiente Rivadavia – River
 Fecha 24
- Semana 24/11
-Central Córdoba – Rosario Central
- Racing – Estudiantes
- River – San Lorenzo
- Belgrano – Independiente Rivadavia
- Argentinos – Barracas
- Tigre – Instituto
- Riestra – Banfield
- Lanús – Defensa y Justicia
- Godoy Cruz – Vélez
- Sarmiento – Platense
- Unión – Talleres
- Huracán – Boca
- Gimnasia – Atlético Tucumán
- Newell’s – Independiente
+Sábado 23 de noviembre
+ 19.30 Tigre – Instituto
+ 21.45 Huracán – Boca
+Domingo 24 de noviembre
+ 17.00 Deportivo Riestra – Banfield
+ 17.00 Gimnasia – Atlético Tucumán
+ 19.15 Godoy Cruz – Vélez
+ 21.30 Lanús – Defensa y Justicia
+Lunes 25 de noviembre
+ 19.00 Central Córdoba – Rosario Central
+ 21.15 Argentinos – Barracas Central
+ 21.15 Belgrano – Independiente Rivadavia
+Martes 26 de diciembre
+ 19.00 Newell’s – Independiente
+ 21.15 Sarmiento – Platense
+ 21.15 Unión -Talleres
+Miércoles 4 de diciembre
+ 19.00 Racing – Estudiantes
+ 21.00 River – San Lorenzo
 Fecha 25
- Semana 01/12
-Independiente – Central Córdoba
- Atlético Tucumán – Newell’s
- Boca – Gimnasia
- Talleres – Huracán
- Platense – Unión
- Vélez – Sarmiento
- Defensa y Justicia – Godoy Cruz
- Banfield – Lanús
- Instituto – Riestra
- Barracas – Tigre
- Independiente Rivadavia – Argentinos
- San Lorenzo – Belgrano
- Estudiantes – River
- Rosario Central – Racing
+Viernes 29 de noviembre
+ 19.00 San Lorenzo – Belgrano
+ 21.00 Estudiantes – River
+Sábado 30 de noviembre
+ 19.30 Banfield – Lanús
+ 21.45 Defensa y Justicia – Godoy Cruz
+ 21.45 Instituto – Deportivo Riestra
+Domingo 1° de diciembre
+ 17.00 Independiente – Central Córdoba
+ 19.15 Rosario Central – Racing
+ 19.15 Vélez – Sarmiento
+ 21.30 Boca – Gimnasia
+Lunes 2 de diciembre
+ 17.00 Barracas Central – Tigre
+ 18.30 Platense – Unión
+ 19.45 Talleres – Huracán
+ 21.00 Independiente Rivadavia – Argentinos
+ 22.00 Atlético Tucumán – Newell’s
 Fecha 26
  Semana 08/12
 Central Córdoba – Racing
@@ -416,7 +426,7 @@ Postergado: Boca - Banfield
 Fecha 14
 Viernes 8 de noviembre
  15.00 Platense - UAI Urquiza, en Predio (Galván)
- 15.00 Racing - Rosario Central, en Predio Tita Mattiussi
+ Postergado: Racing - Rosario Central, en Predio Tita Mattiussi
 Sábado 9 de noviembre
  11.00 S.A.T. - Gimnasia, en Estadio 12 de agosto
 Domingo 10 de noviembre
