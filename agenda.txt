@@ -66,10 +66,10 @@ Sábado 23 de noviembre
 Domingo 24 de noviembre
  17.00 Deportivo Riestra – Banfield
  17.00 Gimnasia – Atlético Tucumán
- 19.15 Godoy Cruz – Vélez
+ 19.15 Godoy Cruz – Vélez, en estadio Mendoza
  21.30 Lanús – Defensa y Justicia
 Lunes 25 de noviembre
- 19.00 Central Córdoba – Rosario Central
+ 19.00 Central Córdoba – Rosario Central, en Estadio Madre de Ciudades
  21.15 Argentinos – Barracas Central
  21.15 Belgrano – Independiente Rivadavia
 Martes 26 de noviembre
@@ -133,8 +133,25 @@ Atlético Tucumán – Central Córdoba
 Trofeo de Campeones
 El encuentro se disputará el domingo 22 de diciembre de 2024
 Copa Proyección Sur Finanzas Final 2024
+Cuartos de final
+Miércoles 27 de noviembre
+ 18.00 Newell's - Independiente, en Estadio Marcelo Bielsa
+ 20.00 Estudiantes L.P. - Unión, en Estadio UNO Jorge Luis Hirschi
+Jueves 28 de noviembre
+ 17.00 San Lorenzo - Boca, en Ciudad Deportiva
+ 20.00 River - Rosario Central, en River Camp
 Primera Nacional
+Torneo Reducido por el Segundo Ascenso - Semifinales - Primeros partidos
+Domingo 24 de noviembre
+ 17.00 Nueva Chicago - San Martín (SJ) (TV)
+Lunes 25 de noviembre
+ 21.10 Gimnasia y Esgrima (Mza.) - San Martín (T) (TV)
 Primera B
+Torneo Reducido por el Tercer Ascenso c/Federal - Semifinales - Primeros partidos
+Sábado 23 de noviembre
+ 21.10 Excursionistas - Argentino de Quilmes (TV)
+ Domingo 24 de noviembre
+ 19.15 Los Andes - Deportivo Armenio (TV)
 Primera C
 Fecha 23
 Miércoles 20 de noviembre
@@ -200,19 +217,21 @@ Gral. Lamadrid - Rec. Español, a las 17.00 horas
  Asistente 2: Felipe Arrechea
  Cuarto árbitro: Julián Beligoy
 Fecha 24 
- Libre J. Unida 
- Claypole - Lugano 
- Ctral. Ballester - Puerto Nuevo 
- L.N. Alem - Ctral. Cba. (Ros.) 
- V. Arenas - Mercedes 
- Ctro. Re- Español - Muñiz 
- Dep. Español - Gral. Lamadrid 
- Atlas - Ituzaingó 
- Def. De Cambaceres - El Porvenir 
- Argentino (Ros.) - Luján 
- Real Pilar - Sp. Barracas 
- Dep. Paraguayo - Berazategui 
- J.J. De Urquiza - Yupanqui 
+ Libre: Juventud Unida
+Domingo 24 de noviembre
+ 17.00 Claypole - Lugano
+ 17.00 Ctral. Ballester - Puerto Nuevo
+ 17.00 L.N. Alem - Ctral. Cba. (Ros.)
+ 17.00 V. Arenas - Mercedes
+ 17.00 Argentino (Ros.) - Luján
+ 17.00 Dep. Paraguayo - Berazategui, en Lugano
+ 17.00 J.J. De Urquiza - Yupanqui
+ Lunes 25 de noviembre
+ 17.00 Ctro. Rec. Español - Muñiz, en Ituzaingó
+ 17.00 Dep. Español - Gral. Lamadrid
+ 17.00 Atlas - Ituzaingó
+ 17.00 Def. De Cambaceres - El Porvenir
+ 17.05 Real Pilar - Sp. Barraca, en estadio Municipal de Pilar (TV)
 Fecha 25 
  Yupanqui Libre 
  Berazategui - J.J. De Urquiza 
