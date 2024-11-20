@@ -2,13 +2,6 @@
 Torneo Betano 2024
 Fecha 23
 Miércoles 20 de noviembre
- 17.00 Newell´s – Central Córdoba
- Árbitro: Jorge Baliño
- Asistente 1: Julio Fernández
- Asistente 2: Juan Del Fueyo
- Cuarto árbitro: Carlos Córdoba
- VAR: Silvio Trucco
- AVAR: Walter Ferreyra
  19.15 Vélez – Lanús
  Árbitro: Fernando Echenique
  Asistente 1: Ezequiel Brailovsky
@@ -155,51 +148,6 @@ Sábado 23 de noviembre
 Primera C
 Fecha 23
 Miércoles 20 de noviembre
-Yupanqui - Dep. Paraguayo, a las 17.00 horas
- Árbitro: Ramiro Maglio
- Asistente 1: Matías Pino
- Asistente 2: Franco Boeti
- Cuarto árbitro: Agustín Flores
-Sp. Barracas - Argentino (Ros.), a las 17.00 horas en Almagro
- Árbitro: Iván Mastroieni
- Asistente 1: Cristian Rodríguez
- Asistente 2: Sebastián Valdez
- Cuarto árbitro: Damián Rubino
-Luján - Def. de Cambaceres, a las 17.00 horas
- Árbitro: Iván Castelu Coca
- Asistente 1: Heber Ibáñez
- Asistente 2: Matías Vargas
- Cuarto árbitro: Nicolás Mastroieni
-El Porvenir - Atlas, a las 17.00 horas
- Árbitro: Rodrigo Villalba
- Asistente 1: Lucas Monsalvo
- Asistente 2: Joaquín Fraga
- Cuarto árbitro: Manuel Girett
-Muñiz - Victoriano Arenas, a las 17.00 horas en Atlas
- Árbitro: Guido Mascheroni 
- Asistente 1: Ariel Ibáñez
- Asistente 2: Berenice Avaro
- Cuarto árbitro:Mariano Seco
-Mercedes - L.N. Alem, a las 17.00 horas
- Árbitro: Martín D'Esposito
- Asistente 1: Alan Colman
- Asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Gonzalo Correa
-Puerto Nuevo - Claypole, a las 17.00 horas
- Árbitro: Alejandro Porticella
- Asistente 1: Bruno Castillo
- Asistente 2: Maria Díaz
- Cuarto árbitro: Lucas Brumer
-Lugano - Juv. Unida, a las 17.00 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Diego Ortíz
- Asistente 2: Federico Machuca
- Cuarto árbitro: Joaquín Rodríguez
-Berazategui - Real Pilar F.C., a las 17.05 horas (TV)
- Árbitro: Maximiliano López Monti
- Asistente 1: Federico Bozo
- Asistente 2: Leandro Carril
- Cuarto árbitro: Ignacio Cuicchi
 Ituzaingó c. Dep. Español, a las 19.00 horas
  Árbitro: Gonzalo Creimerman
  Asistente 1: Matías Panozzo
@@ -288,9 +236,18 @@ Lunes 25 de noviembre
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
 CONMEBOL Libertadores 2024 
-La final se disputará en el estadio Monumental, Buenos Aires
+La final se disputará en el estadio Monumental, Buenos Aires.
 Sábado 30 de noviembre
  Atlético Mineiro - Botafogo
+Árbitro: Facundo Tello (Argentina)
+Asistente 1: Ezequiel Brailovsky (Argentina)
+Asistente 2: Gabriel Chade (Argentina)
+Cuarto Árbitro: Yael Falcón (Argentina)
+Quinto Árbitro: Cristian Navarro (Argentina)
+VAR: Mauro Vigliano (Argentina)
+AVAR 1: Christian Lescano (Ecuador)
+AVAR 2: Carlos Orbe (Ecuador)
+AVAR 3: Herán Mastrángelo (Argentina)
 CONMEBOL Sudamericana 2024
 La final se disputará en el estadio “ueno La Nueva Olla” de Asunción, Paraguay
 Sábado 23 de noviembre
@@ -299,7 +256,6 @@ CONMEBOL Sub 20 Futsal 2024
 El torneo se disputará del 16 al 24 de noviembre de 2024 en Perú.
 FASE DE GRUPOS
 Miércoles 20 de noviembre
- 16.30 Venezuela - Brasil
  18.45 Argentina - Ecuador
  21.00 Chile - Perú
  Libres: Paraguay y Uruguay
