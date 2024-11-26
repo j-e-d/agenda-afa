@@ -82,11 +82,27 @@ El encuentro se disputará el domingo 22 de diciembre de 2024
 Copa Proyección Sur Finanzas Final 2024
 Cuartos de final
 Miércoles 27 de noviembre
- 18.00 Newell's - Independiente, en Estadio Marcelo Bielsa
- 20.00 Estudiantes L.P. - Unión, en Estadio UNO Jorge Luis Hirschi
-Jueves 28 de noviembre
- 17.00 San Lorenzo - Boca, en Ciudad Deportiva
- 20.00 River - Rosario Central, en River Camp
+ 18.00 Newell’s – Independiente en el Estadio Marcelo Bielsa
+ Árbitro: Roberta Echevarría
+ Árbitro asistente 1: Heber Ibáñez
+ Árbitro asistente 2: Leandro Idio
+ Cuarto árbitro: Manuel Prieto
+ 20.00 Estudiantes – Unión en el Estadio Jorge Luis Hirschi (UNO)
+ Árbitro: Ulises López
+ Árbitro asistente 1: Jonathan Florentin
+ Árbitro asistente 2: Facundo Maldonado
+ Cuarto árbitro: Sebastian Milessi
+ Jueves 28 de noviembre
+ 17.00 San Lorenzo – Boca en la cancha auxiliar
+ Árbitro: Agustín Flores
+ Árbitro asistente 1: Matías Noli
+ Árbitro asistente 2: Felipe Arrechea
+ Cuarto árbitro: Agustín Panizza
+ 20.00 River – Rosario Central en el River Camp
+ Árbitro: Matías Ansede
+ Árbitro asistente 1: Matías Panozzo
+ Árbitro asistente 2: Matías Vargas
+ Cuarto árbitro: Facundo Carretero
 Primera Nacional
 Primera B
 Martes 26 de noviembre
@@ -131,10 +147,6 @@ Fecha 12
 Postergado: Boca - Banfield
 Fecha 14
  Postergado: Racing - Rosario Central, en Predio Tita Mattiussi
-Fecha 16
-Lunes 25 de noviembre
- 09.00 SAT - River, en Estadio 12 de agosto
- 17.00 Boca - Gimnasia, en Casa Amarilla
 Torneo Femenino de Primera B
 Torneo Femenino de Primera C
 CONMEBOL Libertadores 2024 
@@ -185,13 +197,26 @@ Fecha FIFA - Noviembre
 Copa Mundial Femenina FIFA 2027
 El torneo se disputará en Brasil en fecha a designar.
 Conmebol Sub 20 2025
-El torneo se jugará en Venezuela del 23 de enero al 16 de febrero de 2025.
- Grupo A: Perú, Uruguay, Venezuela, Paraguay y Argentina.
- Grupo B: Brasil, Colombia, Ecuador, Chile y Bolivia.
-Formato de Competencia 
+El torneo se disputará en Venezuela del 23 de enero al 16 de febrero del 2025, con la participación de las diez selecciones nacionales pertenecientes a las Asociaciones Miembro de la CONMEBOL.
+ El 6 de diciembre se realizará el sorteo de grupos.
+ – Metodología del sorteo –
+ Los cabezas de serie de cada grupo de la CONMEBOL Sub20 2025 se definen de la siguiente manera:
+ Grupo A (Posición A1): La Asociación Miembro Anfitriona (AMA) se ubicará como cabeza de serie del Grupo A (Venezuela).
+ Grupo B (Posición B1): La Asociación Miembro campeona vigente de la CONMEBOL Sub20 2023 se ubicará como cabeza de serie del Grupo B. En caso la Asociación Miembro Anfitriona y la Asociación Miembro campeona vigente sean la misma, el cabeza de serie del Grupo B será el subcampeón de la CONMEBOL Sub20 2023 (campeón vigente: Brasil).
+ En el Bolillero 1 estarán las dos Asociaciones Miembro con mejor ranking (clasificación final de la CONMEBOL Sub20 2023) que componen la posición 2 de cada grupo (subcampeón: Uruguay; tercer puesto: Colombia). La primera bolilla sorteada será la posición A2 y la segunda bolilla B2;
+ En el Bolillero 2 estarán las dos Asociaciones Miembro mejor clasificadas subsecuentes en el ranking (resultado final de la CONMEBOL Sub20 2023) que componen la posición 3 de cada grupo. (cuarto puesto: Ecuador; quinto puesto: Paraguay). La primera bolilla sorteada será la posición A3 y la segunda bolilla B3;
+ En el Bolillero 3 estarán las dos Asociaciones Miembro mejor clasificadas subsecuentes en el ranking (resultado final de la CONMEBOL Sub20 2023) que componen la posición 4 de cada grupo (sexto puesto: Chile; séptimo puesto: Argentina). La primera bolilla sorteada será la posición A4 y la segunda bolilla B4;
+ En el Bolillero 4 estarán las dos Asociaciones Miembro mejor clasificadas subsecuentes en el ranking (resultado final de la CONMEBOL Sub20 2023) que componen la posición 5 de cada grupo (octavo puesto: Bolivia; noveno puesto: Perú). La primera bolilla sorteada será la posición A5 y la segunda bolilla B5.
+ – Posiciones y Bolilleros –
+ Posición A1: Venezuela
+ Posición B1: Brasil
+ Bolillero 1: Uruguay y Colombia
+ Bolillero 2: Ecuador y Paraguay
+ Bolillero 3: Chile y Argentina
+ Bolillero 4: Bolivia y Perú
+ Formato de Competencia
  La CONMEBOL Sub20 2025 se disputará en 2 fases: Fase Preliminar (Fase de Grupos) y Fase Final (Las seis (6) selecciones clasificadas de la fase preliminar participarán de esta fase, con el mismo sistema de juego todos contra todos). Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
  Clasificarán para la Fase Final, los equipos que ocupen las tres primeras posiciones en cada grupo.
- Los cuatro mejores clasificados en el Hexagonal Final del torneo sacarán boleto para la Copa Mundial Sub20 de la FIFA 2025.
 Copa Mundial Fútbol Playa 2025
 La Copa Mundial de Beach Soccer de la FIFA Seychelles 2025 se celebrará del 1 al 11 de mayo en Victoria, Isla Mahé
 Eliminatorias Conmebol Copa Mundial Fútbol Playa 2025
