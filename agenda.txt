@@ -156,7 +156,6 @@ Miércoles 11 de diciembre
  17.00 Boca - Banfield, en Casa Amarilla
 Fecha 17
  Sábado 7 de diciembre
- 09.00 Belgrano - Banfield, en Predio Armando Pérez
  17.00 Platense - San Luis, en Predio Mariani Dolan
  Domingo 8 de diciembre
  09.00 Independiente - Boca, en Predio de Villa Domínico
@@ -299,86 +298,101 @@ Grupo H
 Formato de la competición
 Una fase de grupos con formato de liguilla a partido único, con ocho grupos de cuatro equipos cada uno. Los dos primeros equipos de cada grupo se clasifican para octavos de final. Una fase de eliminación directa a partido único desde octavos de final hasta la final. Sin partido por el tercer puesto. 
 FIXTURE
-Grupo A
- Fecha 1
- Al Ahly vs. Inter Miami - 15 de junio - Hard Rock Stadium
- Palmeiras vs. Porto
- Fecha 2
- Palmeiras vs. Al Ahly
- Porto vs. Inter Miami
- Fecha 3
- Palmeiras vs. Inter Miami
- Porto vs. Al Ahly
-Grupo B
- Fecha 1
- PSG vs. Atlético de Madrid
- Botafogo vs. Seattle Sounders
- Fecha 2
- PSG vs. Botafogo
- Atlético de Madrid vs. Seattle Sounders
- Fecha 3
- PSG vs. Seattle Sounders
- Atlético de Madrid vs. Botafogo
-Grupo C
- Fecha 1
- Bayern Múnich vs. Auckland City
- Boca vs. Benfica
- Fecha 2
- Bayern Múnich vs. Boca
- Auckland City vs. Benfica
- Fecha 3
- Bayern Múnich vs. Benfica
- Auckland City vs. Boca
-Grupo D
- Fecha 1
- Flamengo vs. Esperance de Túnez
- Chelsea vs. León
- Fecha 2
- Flamengo vs. Chelsea
- Esperance de Túnez vs. León
- Fecha 3
- Flamengo vs. León
- Esperance de Túnez vs. Chelsea
-Grupo E
- Fecha 1
- River vs. Urawa Red Diamonds
- Monterrey vs. Inter de Milán
- Fecha 2
- River vs. Monterrey
- Urawa Red Diamonds vs. Inter de Milán
- Fecha 3
- River vs. Inter de Milán
- Urawa Red Diamonds vs. Monterrey
-Grupo F
- Fecha 1
- Fluminense vs. Borussia Dortmund
- Ulsan HD vs. Mamelodi Sundowns
- Fecha 2
- Fluminense vs. Ulsan HD
- Borussia Dortmund vs. Mamelodi Sundowns
- Fecha 3
- Fluminense vs. Mamelodi Sundowns
- Borussia Dortmund vs. Ulsan HD
-Grupo G
- Fecha 1
- Manchester City vs. Wydad Casablanca
- Al-Ain vs. Juventus
- Fecha 2
- Manchester City vs. Al-Ain
- Wydad Casablanca vs. Juventus
- Fecha 3
- Manchester City vs. Juventus
- Wydad Casablanca vs. Al-Ain
-Grupo H
- Fecha 1
- Real Madrid vs. Al Hilal
- Pachuca vs. Red Bull Salzburgo
- Fecha 2
- Real Madrid vs. Pachuca
- Al Hilal vs. Red Bull Salzburgo
- Fecha 3
- Real Madrid vs. Red Bull Salzburgo
- Al Hilal vs. Pachuca
+Sábado, 14 de junio 2025
+ Partido 1 – Inter Miami vs. Al Ahly, 20:00, Miami Hard Rock Stadium
+ Domingo, 15 de junio 2025
+ Partido 2: Bayern Múnich vs. Auckland City FC, 12:00, Cincinnati TQL Stadium
+ Partido 3: PSG vs. Atlético de Madrid, 12:00, Los Angeles Rose Bowl Stadium
+ Partido 4: Palmeiras vs. Porto, 18:00, Nueva York Nueva Jersey Metlife Stadium
+ Partido 5: Botafogo vs. Seattle Sounders, 19:00, Seattle Lumen Field
+ Lunes, 16 de junio 2025
+ Partido 6: Chelsea vs. León, 15:00, Atlanta Mercedes-Benz Stadium
+ Partido 7: Boca vs. Benfica, 18:00, Miami Hard Rock Stadium
+ Partido 8: Flamengo vs. Esperance Sportive de Tunis, 21:00, Philadelphia, Lincoln Financial Field
+ Martes, 17 de junio 2025
+ Partido 9: Fluminense vs. Borussia Dortmund, 12:00, Nueva York Nueva Jersey Metlife Stadium
+ Partido 10: River Plate vs. Urawa Red Diamonds, 12:00, Seattle Lumen Field
+ Partido 11: Ulsan HD vs. Mamelodi Sundowns FC, 18:00, Orlando Inter & Co Stadium
+ Partido 12: CF Monterrey vs. Inter de Milán, 18:00, Los Angeles Rose Bowl Stadium
+ Miércoles, 18 de junio 2025
+ Partido 13: Manchester City vs. Wydad AC, 12:00, Philadelphia, Lincoln Financial Field
+ Partido 14: Real Madrid vs. Al Hilal, 15:00, Miami Hard Rock Stadium
+ Partido 15: Pachuca vs. FC Salzburg, 15:00, Cincinnati TQL Stadium
+ Partido 16: Al Ain FC vs. Juventus, 21:00, Washington D.C. Audi Field
+ Jueves, 19 de junio 2025
+ Partido 17: Palmeiras vs. Al Ahly FC, 12:00, Nueva York Nueva Jersey Metlife Stadium
+ Partido 18: Inter Miami vs. Porto, 15:00, Miami Hard Rock Stadium
+ Partido 19: Seattle Sounders vs. Atlético de Madrid, 15:00, Seattle Lumen Field
+ Partido 20: PSG vs. Botafogo, 18:00, Los Angeles Rose Bowl Stadium
+ Viernes, 20 de junio 2025
+ Partido 21: Benfica vs. Auckland City, 12:00, Orlando InterCo Stadium
+ Partido 22: Flamengo vs. Chelsea, 14:00, Philadelphia, Lincoln Financial Field
+ Partido 23: León vs. Espérance Sportive de Tunisie, 17:00, Nashville GEODIS Park
+ Partido 24: Bayern Múnich vs. Boca Juniors, 21:00, Miami Hard Rock Stadium
+ Sábado, 21 de junio 2025
+ Partido 25: Mamelodi Sundowns FC vs. Borussia Dortmund, 12:00, Cincinnati TQL Stadium
+ Partido 26: Inter de Milán vs. Urawa Reds, 12:00, Seattle Lumen Field
+ Partido 27: Fluminense vs. Ulsan HD, 18:00, Nueva York Nueva Jersey Metlife Stadium
+ Partido 28: River Plate vs. FC Monterrey, 18:00, Los Angeles Rose Bowl Stadium
+ Domingo, 22 de junio 2025
+ Partido 29: Juventus vs. Wydad AC, 12:00, Philadelphia, Lincoln Financial Field
+ Partido 30: Real Madrid vs. Pachuca, 15:00, Charlotte Bank of America
+ Stadium
+ Partido 31: C Salzburg vs. Al Hilal, 18:00, Washington D.C. Audi Field
+ Partido 32: Manchester City vs. Al Ain FC, 21:00, Atlanta Mercedes-Benz Stadium
+ Lunes, 23 de junio 2025
+ Partido 33: Seattle Sounders vs. PSG, 12:00, Seattle Lumen Field
+ Partido 34: Atlético de Madrid vs. Botafogo, 12:00, Los Angeles Rose Bowl Stadium
+ Partido 35: Inter Miami vs. Palmeiras, 21:00, Miami Hard Rock Stadium
+ Partido 36: Porto vs. Al Ahly, 21:00, Nueva York Nueva Jersey Metlife Stadium
+ Martes, 24 de junio 2025
+ Partido 37: Auckland City vs. Boca, 14:00, Nashville GEODIS Park
+ Partido 38: Benfica vs. Bayern Munich, 15:00, Charlotte Bank of America
+ Stadium
+ Partido 39: León vs. Flamengo, 21:00, Orlando Camping World
+ Stadium
+ Partido 40: Espérance Sportive de Tunisie vs. Chelsea, 21:00, Philadelphia, Lincoln Financial Field
+ Miércoles, 25 de junio 2025
+ Partido 41: Borussia Dortmund vs. Ulsan HD, 15:00, Cincinnati TQL Stadium
+ Partido 42: Mamelodi Sundowns FC vs. Fluminense, 15:00, Miami Hard Rock Stadium
+ Partido 43: Inter de Milán vs. River Plate, 18:00, Seattle Lumen Field
+ Partido 44: Urawa Red Diamonds vs. Monterrey FC, 18:00, Los Angeles Rose Bowl Stadium
+ Jueves, 26 de junio 2025
+ Partido 45: Juventus vs. Manchester City, 15:00, Orlando Camping World
+ Partido 46: Wydad AC vs. Al Ain FC, 15:00, Washington D.C Audi Field
+ Partido 47: Al Hilal vs. Pachuca, 20:00, Nashville GEODIS Park
+ Partido 48: FC Salzburg vs. Real Madrid, 20:00, Philadelphia, Lincoln Financial Field
+ Octavos de final
+ Sábado, 28 de junio
+ Partido 49: 1A vs. 2B, 12:00, Philadelphia, Lincoln Financial Field
+ Partido 50: 1C vs. 2D, 16:00, Charlotte Bank of America
+ Stadium
+ Domingo, 29 de junio
+ Partido 51: 1B vs. 2A, 12:00, Atlanta Mercedes-Benz Stadium
+ Partido 52: 1D vs. 2C, 16:00, Miami Hard Rock Stadium
+ Lunes, 30 de junio
+ Partido 53: 1E vs. 2F, 15:00, Charlotte Bank of America
+ Stadium
+ Partido 54: 1G vs. 2H, 21:00, Orlando Camping World
+ Martes, 1 de julio
+ Partido 55: 1H vs. 2G, Miami Hard Rock Stadium
+ Partido 56: 1F vs. 2E, Atlanta Mercedes-Benz Stadium
+ Cuartos de final
+ Viernes, 4 de julio
+ Partido 57: G53 vs. G54, 15:00, Orlando Camping World
+ Partido 58: G49 vs. G50, 21:00, Philadelphia, Lincoln Financial Field
+ Sábado, 5 de julio
+ Partido 59: G51 vs. G52, 12:00, Atlanta Mercedes-Benz Stadium
+ Partido 60: G55 vs. G56, 16:00, Nueva York Nueva Jersey Metlife Stadium
+ Semifinales
+ Martes, 8 de julio
+ Partido 61: G57 vs. G58, 15:00, Nueva York Nueva Jersey Metlife Stadium
+ Miércoles, 9 de julio
+ Partido 62: G59 vs. G60, 15:00, Nueva York Nueva Jersey Metlife Stadium
+ Final
+ Domingo, 13 de julio
+ Partido 63: 15:00, Nueva York Nueva Jersey Metlife Stadium
+ (#Todos los horarios son locales de las ciudades correspondientes)
 Copa Mundial Sub 17 Masculina 2025-2029
 Qatar será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 9; CAF: 10; Concacaf: 8; CONMEBOL: 7; OFC: 3; UEFA: 11.
