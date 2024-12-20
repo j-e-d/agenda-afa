@@ -1,5 +1,306 @@
 25/03/2019
-Torneo Betano 2024
+Torneo Apertura 2025
+Fecha 1 (26/01/2025)
+ Zona A
+ Boca – Argentinos
+ Estudiantes – Unión
+ Belgrano – Huracán
+ Barracas Central – Racing
+ Newell’s – Independiente Rivadavia
+ Defensa y Justicia – Banfield
+ Central Córdoba – Aldosivi
+ Zona B
+ Platense – River
+ Instituto – Gimnasia
+ San Lorenzo – Talleres
+ Independiente – Sarmiento
+ Godoy Cruz – Rosario Central
+ Lanús – Deportivo Riestra
+ San Martín (SJ) – Atlético Tucumán
+ Interzonal
+ Tigre – Vélez
+ Fecha 2 (29/01/2025)
+ Zona A
+ Aldosivi – Defensa y Justicia
+ Banfield – Newell’s
+ Independiente Rivadavia – Barracas Central
+ Racing – Belgrano
+ Huracán – Estudiantes
+ Unión – Boca
+ Argentinos – Tigre
+ Zona B
+ Deportivo Riestra – San Martín (SJ)
+ Rosario Central – Lanús
+ Sarmiento – Godoy Cruz
+ Talleres – Independiente
+ Gimnasia – San Lorenzo
+ River – Instituto
+ Vélez – Platense
+ Interzonal
+ Central Córdoba – Atlético Tucumán
+ Fecha 3 -(02/02/2025)
+ Zona A
+ Tigre – Unión
+ Boca – Huracán
+ Estudiantes – Racing
+ Belgrano – Independiente Rivadavia
+ Barracas Central – Banfield
+ Newell’s – Aldosivi
+ Defensa y Justicia -Central Córdoba
+ Zona B
+ Instituto – Vélez
+ San Lorenzo – River
+ Independiente – Gimnasia
+ Godoy Cruz – Talleres
+ Lanús – Sarmiento
+ San Martín (SJ) – Rosario Central
+ Atlético Tucumán – Deportivo Riestra
+ Interzonal
+ Argentinos – Platense
+ Fecha 4 (09/02/22025)
+ Zona A
+ Central Córdoba – Newell’s
+ Aldosivi – Barracas Central
+ Banfield – Belgrano
+ Independiente Rivadavia – Estudiantes
+ Racing – Boca
+ Huracán – Tigre
+ Unión – Argentinos
+ Zona B
+ Rosario Central – Atlético Tucumán
+ Sarmiento – San Martín (SJ)
+ Talleres – Lanús
+ Gimnasia – Godoy Cruz
+ River – Independiente
+ Vélez – San Lorenzo
+ Platense – Instituto
+ Interzonal
+ Deportivo Riestra – Defensa y Justicia
+ Fecha 5 (12/02/2025)
+ Zona A
+ Argentinos – Huracán
+ Tigre – Racing
+ Boca – Independiente Rivadavia
+ Estudiantes – Banfield
+ Belgrano – Aldosivi
+ Barracas Central – Central Córdoba
+ Newell’s – Defensa y Justicia
+ Zona B
+ San Lorenzo – Platense
+ Independiente – Vélez
+ Godoy Cruz – River
+ Lanús – Gimnasia
+ San Martín (SJ) – Talleres
+ Atlético Tucumán – Sarmiento
+ Deportivo Riestra – Rosario Central
+ Interzonal
+ Unión – Instituto
+ Fecha 6 (16/02/2025)
+ Zona A
+ Defensa y Justicia – Barracas Central
+ Central Córdoba – Belgrano
+ Aldosivi – Estudiantes
+ Banfield – Boca
+ Independiente Rivadavia – Tigre
+ Racing – Argentinos
+ Huracán – Unión
+ Zona B
+ Sarmiento – Deportivo Riestra
+ Talleres – Atlético Tucumán
+ Gimnasia – San Martín (SJ)
+ River – Lanús
+ Vélez – Godoy Cruz
+ Platense – Independiente
+ Instituto – San Lorenzo
+ Interzonal
+ Newell’s – Rosario Central
+ Fecha 7 (23/02/2025)
+ Zona A
+ Unión – Racing
+ Argentinos – Independiente Rivadavia
+ Tigre – Banfield
+ Boca – Aldosivi
+ Estudiantes – Central Córdoba
+ Belgrano – Defensa y Justicia
+ Barracas Central – Newell’s
+ Zona B
+ Independiente – Instituto
+ Godoy Cruz -Platense
+ Lanús- Vélez
+ San Martín (SJ) – River
+ Atlético Tucumán – Gimnasia
+ Deportivo Riestra – Talleres
+ Rosario Central – Sarmiento
+ Interzonal
+ Huracán – San Lorenzo
+ Fecha 8 (02/03/2025) – Interzonal
+ Banfield – Independiente
+ River – Estudiantes
+ Vélez – Huracán
+ Barracas Central – Godoy Cruz
+ Independiente Rivadavia – Lanús
+ Atlético Tucumán – Newell’s
+ Argentinos – Instituto
+ Platense – Defensa y Justicia
+ Unión – Gimnasia
+ Talleres – Tigre
+ Central Córdoba – Deportivo Riestra
+ San Lorenzo – Racing
+ San Martín (SJ) – Belgrano
+ Boca – Rosario Central
+ Aldosivi – Sarmiento
+ Fecha 9 (09/03/2025)
+ Zona A
+ Newell’s – Belgrano
+ Defensa y Justicia – Estudiantes
+ Central Córdoba – Boca
+ Aldosivi – Tigre
+ Banfield – Argentinos
+ Independiente Rivadavia – Unión
+ Racing – Huracán
+ Zona B
+ Talleres – Rosario Central
+ Gimnasia – Deportivo Riestra
+ River – Atlético Tucumán
+ Vélez – San Martín (SJ)
+ Platense – Lanús
+ Instituto – Godoy Cruz
+ San Lorenzo – Independiente
+ Interzonal
+ Sarmiento – Barracas Central
+ Fecha 10 (16/03/2025)
+ Zona A
+ Huracán – Independiente Rivadavia
+ Unión – Banfield
+ Argentinos -Aldosivi
+ Tigre – Central Córdoba
+ Boca – Defensa y Justicia
+ Estudiantes – Newell’s
+ Belgrano – Barracas Central
+ Zona B
+ Godoy Cruz – San Lorenzo
+ Lanús – Instituto
+ San Martín (SJ) – Platense
+ Atlético Tucumán – Vélez
+ Deportivo Riestra – River
+ Rosario Central – Gimnasia
+ Sarmiento – Talleres
+ Interzonal
+ Independiente – Racing
+ Fecha 11 (30/03/2025)
+ Zona A
+ Barracas Central – Estudiantes
+ Newell’s – Boca
+ Defensa y Justicia – Tigre
+ Central Córdoba – Argentinos
+ Aldosivi – Unión
+ Banfield – Huracán
+ Independiente Rivadavia – Racing
+ Zona B
+ Gimnasia – Sarmiento
+ River – Rosario Central
+ Vélez – Deportivo Riestra
+ Platense – Atlético Tucumán
+ Instituto – San Martín (SJ)
+ San Lorenzo – Lanús
+ Independiente – Godoy Cruz
+ Interzonal
+ Belgrano – Talleres
+ Fecha 12 (06/04/2025)
+ Zona A
+ Racing – Banfield
+ Huracán – Aldosivi
+ Unión – Central Córdoba
+ Argentinos – Defensa y Justicia
+ Tigre – Newell’s
+ Boca – Barracas Central
+ Estudiantes – Belgrano
+ Zona B
+ Lanús – Independiente
+ San Martín (SJ) – San Lorenzo
+ Atlético Tucumán – Instituto
+ Deportivo Riestra – Platense
+ Rosario Central – Vélez
+ Sarmiento – River
+ Talleres – Gimnasia
+ Interzonal
+ Godoy Cruz – Independiente Rivadavia
+ Fecha 13 (13/04/2025)
+ Zona A
+ Belgrano – Boca
+ Barracas Central – Tigre
+ Newell’s – Argentinos
+ Defensa y Justicia – Unión
+ Central Córdoba – Huracán
+ Aldosivi – Racing
+ Banfield – Independiente Rivadavia
+ Zona B
+ River – Talleres
+ Vélez – Sarmiento
+ Platense – Rosario Central
+ Instituto – Deportivo Riestra
+ San Lorenzo – Atlético Tucumán
+ Independiente – San Martín (SJ)
+ Godoy Cruz – Lanús
+ Interzonal
+ Gimnasia – Estudiantes
+ Fecha 14 (20/04/2025)
+ Zona A
+ Independiente Rivadavia – Aldosivi
+ Racing – Central Córdoba
+ Huracán – Defensa y Justicia
+ Unión – Newell’s
+ Argentinos – Barracas Central
+ Tigre – Belgrano
+ Boca – Estudiantes
+ Zona B
+ San Martín (SJ) – Godoy Cruz
+ Atlético Tucumán – Independiente
+ Deportivo Riestra – San Lorenzo
+ Rosario Central – Instituto
+ Sarmiento – Platense
+ Talleres – Vélez
+ Gimnasia – River
+ Interzonal
+ Lanús – Banfield
+ Fecha 15 (27/04/2025)
+ Zona A
+ Estudiantes – Tigre
+ Belgrano – Argentinos
+ Barracas Central – Unión
+ Newell’s – Huracán
+ Defensa y Justicia – Racing
+ Central Córdoba – Independiente Rivadavia
+ Aldosivi – Banfield
+ Zona B
+ Vélez – Gimnasia
+ Platense – Talleres
+ Instituto – Sarmiento
+ San Lorenzo – Rosario Central
+ Independiente – Deportivo Riestra
+ Godoy Cruz – Atlético Tucumán
+ Lanús – San Martín (SJ)
+ Interzonal
+ River – Boca
+ Fecha 16 (04/05/2025)
+ Zona A
+ Banfield – Central Córdoba
+ Independiente Rivadavia – Defensa y Justicia
+ Racing – Newell’s
+ Huracán – Barracas Central
+ Unión – Belgrano
+ Argentinos – Estudiantes
+ Tigre – Boca
+ Zona B
+ Atlético Tucumán – Lanús
+ Deportivo Riestra – Godoy Cruz
+ Rosario Central – Independiente
+ Sarmiento – San Lorenzo
+ Talleres – Instituto
+ Gimnasia – Platense
+ River – Vélez
+ Interzonal
+ San Martín (SJ) – Aldosivi
 Trofeo de Campeones
 Sábado 21 de diciembre
  21.00 Vélez Sársfield - Estudiantes de La Plata, en estadio Madre de Ciudades
@@ -22,6 +323,72 @@ Sábado 21 de diciembre
  Quinto asistente: Federico Cano
 Primera C
 Copa Argentina
+CRUCES DE LA COPA ARGENTINA 2025
+ 32AVOS DE FINAL
+ Partido 1
+ San Lorenzo - Sportivo Las Parejas
+Partido 2
+ Huracán - San Martín (Formosa)
+Partido 3
+ Boca Juniors - Argentino de Monte Maíz
+Partido 4
+ River Plate - Ciudad de Bolívar
+Partido 5 
+ Racing Club - Santamarina
+Partido 6
+ Independiente - Sportivo Belgrano
+Partido 7
+ Estudiantes LP - Sarmiento de La Banda
+Partido 8
+ Gimnasia LP - Deportivo Español
+Partido 9
+ Platense - Argentino de Quilmes
+Partido 10
+ Argentinos Juniors - Central Norte (Salta)
+Partido 11
+ Belgrano - Real Pilar
+Partido 12
+ Talleres - Deportivo Armenio
+Partido 13
+ Rosario Central - Los Andes
+Partido 14
+ Newell's - Kimberley
+Partido 15
+ Lanús - General Lamadrid
+Partido 16
+ Banfield - Villa Mitre (BB)
+Partido 17
+ Tigre - Berazategui
+Partido 18
+ Vélez - Midland
+Partido 19
+ Defensa y Justicia - Racing de Córdoba
+Partido 20
+ Unión - Colegiales
+Partido 21
+ Deportivo Riestra - San Telmo
+Partido 22
+ Barracas Central - Defensores de Belgrano
+Partido 23
+ Godoy Cruz - Excursionistas
+Partido 24
+ Independiente Rivadavia - Estudiantes
+Partido 25
+ Sarmiento de Junín - Central Córdoba (Rosario)
+Partido 26
+ Aldosivi - Gimnasia y Tiro (Salta)
+Partido 27
+ Gimnasia (Mendoza) - Nueva Chicago
+Partido 28
+ San Martín (SJ) - Gimnasia de Jujuy
+Partido 29
+ San Martín (Tucumán) - Colón
+Partido 30
+ Atlético Tucumán - All Boys
+Partido 31
+ Instituto (Córdoba) - Deportivo Madryn
+Partido 32
+ Central Córdoba (Santiago) - Quilmes
 Torneo Federal A
 Sarmiento de La Banda (Santiago del Estero) disputará la final ante Los Andes, ganador del Repechaje de la Primera B, para determinar quién ascenderá a la Primera Nacional.
 Torneo Femenino de Primera División 2024
