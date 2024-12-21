@@ -517,7 +517,8 @@ El torneo se disputará en Venezuela del 23 de enero al 16 de febrero del 2025, 
  Formato de Competencia
  La CONMEBOL Sub20 2025 se disputará en 2 fases: Fase Preliminar (Fase de Grupos) y Fase Final (Las seis (6) selecciones clasificadas de la fase preliminar participarán de esta fase, con el mismo sistema de juego todos contra todos). Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
  Clasificarán para la Fase Final, los equipos que ocupen las tres primeras posiciones en cada grupo. 
-Conmebol Sub 17 2025
+Conmebol Sub 17 Masculina 2025
+ El certamen se llevará a cabo del 27 de marzo al 12 de abril del 2025 en Colombia.
 Grupo A
 Colombia
 Argentina
@@ -525,13 +526,84 @@ Paraguay
 Chile
 Perú
 Grupo B
-Brasil Ecuador
+Brasil
+ Ecuador
 Venezuela
 Uruguay
 Bolivia
-El certamen se llevará a cabo del 27 de marzo al 12 de abril del 2025 en Colombia.
+Fixture de la Fase de Grupos
+Jueves 27 de marzo
+ Colombia - Chile
+ Perú - Paraguay
+ Viernes 28 de marzo
+ Brasil - Uruguay
+ Bolivia - Venezuela
+ Sábado 29 de marzo
+ Perú - Colombia
+ Chile - Argentina
+ Domingo 30 de marzo
+ Bolivia - Brasil
+ Uruguay - Ecuador
+ Lunes 31 de marzo
+ Argentina - Paraguay
+ Chile - Perú
+ Martes 1° de abril
+ Ecuador - Venezuela
+ Uruguay - Bolivia
+ Miércoles 2 de abril
+ Paraguay - Colombia
+ Argentina - Perú
+ Jueves 3 de abril
+ Venezuela - Brasil
+ Ecuador - Bolivia
+ Viernes 4 de abril
+ Colombia - Argentina
+ Paraguay - Chile
+ Sábado 5 de abril
+ Venezuela - Uruguay
+ Brasil - Ecuador
+Conmebol Sub 17 Femenina 2025
+La Dirección de Competiciones y Operaciones de la Confederación Sudamericana de Fútbol realizó el sorteo para la Fase de Grupos de la CONMEBOL Sub 17 2025, que se disputará del 1 al 25 de mayo en Colombia y en el que participarán las diez selecciones pertenecientes a las Asociaciones Miembro de la CONMEBOL.
+Argentina
+ integrará el grupo A junto con Colombia, Paraguay, Chile y Venezuela.
+ Mientras que el grupo B estará compuesto por Brasil, Ecuador, Uruguay, Perú y Bolivia.
+Fixture de la Primera Fase
+Jueves 1° de mayo
+ Colombia - Argentina
+ Venezuela - Chile
+Viernes 2 de mayo
+ Brasil - Perú
+ Bolivia - Uruguay
+ Sábado 3 de mayo
+ Bolivia - Brasil
+ Perú - Ecuador
+ Domingo 4 de mayo
+ Bolivia - Brasil
+ Perú - Ecuador
+ Lunes 5 de mayo
+ Paraguay - Chile
+ Argentina - Venezuela
+ Martes 6 de mayo
+ Ecuador - Uruguay
+ Perú - Bolivia
+ Miércoles 7 de mayo
+ Chile - Colombia
+ Paraguay - Venezuela
+ Jueves 8 de mayo
+ Uruguay - Brasil
+ Ecuador - Bolivia
+ Viernes 9 de mayo
+ Colombia - Paraguay
+ Chile - Argentina
+ Sábado 10 de mayo
+ Uruguay - Perú
+ Brasil - Ecuador
+Formato de competencia
+ La CONMEBOL Sub 17 Femenina 2025 se disputará en dos fases: Fase Preliminar (Fase de Grupos) y Fase Final. Ambas etapas se jugarán a una sola rueda de partidos con el mismo sistema de todos contra todos.
+ La Fase Preliminar la disputarán las diez selecciones distribuidas en dos grupos de cinco equipos cada uno, conforme con el resultado del sorteo organizado por la CONMEBOL.
+ Clasificarán a la Fase Final, los equipos que ocupen las tres primeras posiciones en cada grupo, sumando un total de seis selecciones clasificadas de la fase preliminar.
 Copa Mundial Fútbol Playa 2025
-La Copa Mundial de Beach Soccer de la FIFA Seychelles 2025 se celebrará del 1 al 11 de mayo en Victoria, Isla Mahé
+La Copa Mundial de Beach Soccer de la FIFA Seychelles 2025 se celebrará del 1 al 11 de mayo en Victoria, Isla Mahé.
 Eliminatorias Conmebol Copa Mundial Fútbol Playa 2025
 Fechas: 22-28 de febrero de 2025
 CONMEBOL Libertadores Fútbol Playa 2024
@@ -680,24 +752,15 @@ Sábado, 14 de junio 2025
  Domingo, 13 de julio
  Partido 63: 15:00, Nueva York Nueva Jersey Metlife Stadium
  (#Todos los horarios son locales de las ciudades correspondientes)
-Copa Mundial Sub 17 Masculina 2025-2029
-El Consejo de la FIFA confirmó que se disputará del 5 al 27 de noviembre de 2025 en Qatar.
-Las plazas se distribuirán de la siguiente manera: AFC: 9; CAF: 10; Concacaf: 8; CONMEBOL: 7; OFC: 3; UEFA: 11.
-Conmebol Sub 17 Femenina
-La Dirección de Competiciones y Operaciones de la Confederación Sudamericana de Fútbol realizó el sorteo para la Fase de Grupos de la CONMEBOL Sub 17 2025, que se disputará del 1 al 25 de mayo en Colombia y en el que participarán las diez selecciones pertenecientes a las Asociaciones Miembro de la CONMEBOL.
- Argentina integrará el grupo A junto con Colombia, Paraguay, Chile y Venezuela.
- Mientras que el grupo B estará compuesto por Brasil, Ecuador, Uruguay, Perú y Bolivia.
-Formato de competencia
- La CONMEBOL Sub 17 Femenina 2025 se disputará en dos fases:
- Fase Preliminar (Fase de Grupos) y Fase Final. Ambas etapas se jugarán a una sola rueda de partidos con el mismo sistema de todos contra todos.
- La Fase Preliminar la disputarán las diez selecciones distribuidas en dos grupos de cinco equipos cada uno, conforme con el resultado del sorteo organizado por la CONMEBOL.
- Clasificarán a la Fase Final, los equipos que ocupen las tres primeras posiciones en cada grupo, sumando un total de seis selecciones clasificadas de la fase preliminar.
-Copa Mundial Sub 17 Femenina 2025-2029
-Marruecos será el país organizador.
-Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 5; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5.
 Copa Mundial Sub 20 Masculina 2025
 La Copa Mundial Sub 20 2025 se jugará del 27 de septiembre al 19 de octubre del 2025. Chile será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 4; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5; país anfitrión: 1.
 Copa Mundial Sub 20 Femenina 2026
 Polonia será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 4; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5; país anfitrión: 1
+Copa Mundial Sub 17 Masculina 2025-2029
+El Consejo de la FIFA confirmó que se disputará del 5 al 27 de noviembre de 2025 en Qatar.
+Las plazas se distribuirán de la siguiente manera: AFC: 9; CAF: 10; Concacaf: 8; CONMEBOL: 7; OFC: 3; UEFA: 11.
+Copa Mundial Sub 17 Femenina 2025-2029
+Marruecos será el país organizador.
+Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 5; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5.
