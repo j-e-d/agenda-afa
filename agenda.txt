@@ -19,7 +19,7 @@ Fecha 1 (26/01/2025)
  San Martín (SJ) – Atlético Tucumán
  Interzonal
  Tigre – Vélez
- Fecha 2 (29/01/2025)
+Fecha 2 (29/01/2025)
  Zona A
  Aldosivi – Defensa y Justicia
  Banfield – Newell’s
@@ -38,7 +38,7 @@ Fecha 1 (26/01/2025)
  Vélez – Platense
  Interzonal
  Central Córdoba – Atlético Tucumán
- Fecha 3 -(02/02/2025)
+Fecha 3 -(02/02/2025)
  Zona A
  Tigre – Unión
  Boca – Huracán
@@ -57,7 +57,7 @@ Fecha 1 (26/01/2025)
  Atlético Tucumán – Deportivo Riestra
  Interzonal
  Argentinos – Platense
- Fecha 4 (09/02/22025)
+Fecha 4 (09/02/22025)
  Zona A
  Central Córdoba – Newell’s
  Aldosivi – Barracas Central
@@ -76,7 +76,7 @@ Fecha 1 (26/01/2025)
  Platense – Instituto
  Interzonal
  Deportivo Riestra – Defensa y Justicia
- Fecha 5 (12/02/2025)
+Fecha 5 (12/02/2025)
  Zona A
  Argentinos – Huracán
  Tigre – Racing
@@ -95,7 +95,7 @@ Fecha 1 (26/01/2025)
  Deportivo Riestra – Rosario Central
  Interzonal
  Unión – Instituto
- Fecha 6 (16/02/2025)
+Fecha 6 (16/02/2025)
  Zona A
  Defensa y Justicia – Barracas Central
  Central Córdoba – Belgrano
@@ -114,7 +114,7 @@ Fecha 1 (26/01/2025)
  Instituto – San Lorenzo
  Interzonal
  Newell’s – Rosario Central
- Fecha 7 (23/02/2025)
+Fecha 7 (23/02/2025)
  Zona A
  Unión – Racing
  Argentinos – Independiente Rivadavia
@@ -133,7 +133,7 @@ Fecha 1 (26/01/2025)
  Rosario Central – Sarmiento
  Interzonal
  Huracán – San Lorenzo
- Fecha 8 (02/03/2025) – Interzonal
+Fecha 8 (02/03/2025) – Interzonal
  Banfield – Independiente
  River – Estudiantes
  Vélez – Huracán
@@ -149,7 +149,7 @@ Fecha 1 (26/01/2025)
  San Martín (SJ) – Belgrano
  Boca – Rosario Central
  Aldosivi – Sarmiento
- Fecha 9 (09/03/2025)
+Fecha 9 (09/03/2025)
  Zona A
  Newell’s – Belgrano
  Defensa y Justicia – Estudiantes
@@ -168,7 +168,7 @@ Fecha 1 (26/01/2025)
  San Lorenzo – Independiente
  Interzonal
  Sarmiento – Barracas Central
- Fecha 10 (16/03/2025)
+Fecha 10 (16/03/2025)
  Zona A
  Huracán – Independiente Rivadavia
  Unión – Banfield
@@ -187,7 +187,7 @@ Fecha 1 (26/01/2025)
  Sarmiento – Talleres
  Interzonal
  Independiente – Racing
- Fecha 11 (30/03/2025)
+Fecha 11 (30/03/2025)
  Zona A
  Barracas Central – Estudiantes
  Newell’s – Boca
@@ -206,7 +206,7 @@ Fecha 1 (26/01/2025)
  Independiente – Godoy Cruz
  Interzonal
  Belgrano – Talleres
- Fecha 12 (06/04/2025)
+Fecha 12 (06/04/2025)
  Zona A
  Racing – Banfield
  Huracán – Aldosivi
@@ -225,7 +225,7 @@ Fecha 1 (26/01/2025)
  Talleres – Gimnasia
  Interzonal
  Godoy Cruz – Independiente Rivadavia
- Fecha 13 (13/04/2025)
+Fecha 13 (13/04/2025)
  Zona A
  Belgrano – Boca
  Barracas Central – Tigre
@@ -244,7 +244,7 @@ Fecha 1 (26/01/2025)
  Godoy Cruz – Lanús
  Interzonal
  Gimnasia – Estudiantes
- Fecha 14 (20/04/2025)
+Fecha 14 (20/04/2025)
  Zona A
  Independiente Rivadavia – Aldosivi
  Racing – Central Córdoba
@@ -263,7 +263,7 @@ Fecha 1 (26/01/2025)
  Gimnasia – River
  Interzonal
  Lanús – Banfield
- Fecha 15 (27/04/2025)
+Fecha 15 (27/04/2025)
  Zona A
  Estudiantes – Tigre
  Belgrano – Argentinos
@@ -282,7 +282,7 @@ Fecha 1 (26/01/2025)
  Lanús – San Martín (SJ)
  Interzonal
  River – Boca
- Fecha 16 (04/05/2025)
+Fecha 16 (04/05/2025)
  Zona A
  Banfield – Central Córdoba
  Independiente Rivadavia – Defensa y Justicia
@@ -301,8 +301,668 @@ Fecha 1 (26/01/2025)
  River – Vélez
  Interzonal
  San Martín (SJ) – Aldosivi
+Torneo Clausura 2025
+Fecha 1 (13/07/2025)
+ Zona A
+ Argentinos – Boca
+ Unión – Estudiantes
+ Huracán – Belgrano
+ Racing – Barracas Central
+ Independiente Rivadavia – Newell’s
+ Banfield – Defensa y Justicia
+ Aldosivi – Central Córdoba
+ Zona B
+ River – Platense
+ Gimnasia – Instituto
+ Talleres – San Lorenzo
+ Sarmiento – Independiente
+ Rosario Central – Godoy Cruz
+ Deportivo Riestra – Lanús
+ Atlético Tucumán – San Martín (SJ)
+ Interzonal
+ Vélez – Tigre
+Fecha 2 (20/07/2025)
+ Zona A
+ Defensa y Justicia – Aldosivi
+ Newell’s – Banfield
+ Barracas Central – Independiente Rivadavia
+ Belgrano – Racing
+ Estudiantes – Huracán
+ Boca – Unión
+ Tigre – Argentinos
+ Zona B
+ San Martín (SJ) – Deportivo Riestra
+ Lanús – Rosario Central
+ Godoy Cruz – Sarmiento
+ Independiente – Talleres
+ San Lorenzo – Gimnasia
+ Instituto -River
+ Platense – Vélez
+ Interzonal
+ Atlético Tucumán – Central Córdoba
+Fecha 3 (27/07/2025)
+ Zona A
+ Unión – Tigre
+ Huracán – Boca
+ Racing – Estudiantes
+ Independiente Rivadavia – Belgrano
+ Banfield – Barracas Central
+ Aldosivi – Newell’s
+ Central Córdoba – Defensa y Justicia
+ Zona B
+ Vélez – Instituto
+ River – San Lorenzo
+ Gimnasia – Independiente
+ Talleres – Godoy Cruz
+ Sarmiento – Lanús
+ Rosario Central – San Martín (SJ)
+ Deportivo Riestra – Atlético Tucumán
+ Interzonal
+ Platense – Argentinos
+Fecha 4 (10/08/2025)
+ Zona A
+ Newell’s – Central Córdoba
+ Barracas Central – Aldosivi
+ Belgrano – Banfield
+ Estudiantes – Independiente Rivadavia
+ Boca – Racing
+ Tigre – Huracán
+ Argentinos – Unión
+ Zona B
+ Atlético Tucumán – Rosario Central
+ San Martín (SJ) – Sarmiento
+ Lanús – Talleres
+ Godoy Cruz – Gimnasia
+ Independiente – River
+ San Lorenzo – Vélez
+ Instituto – Platense
+ Interzonal
+ Defensa y Justicia – Deportivo Riestra
+Fecha 5 (17/08/2025)
+ Zona A
+ Huracán – Argentinos
+ Racing – Tigre
+ Independiente Rivadavia – Boca
+ Banfield – Estudiantes
+ Aldosivi – Belgrano
+ Central Córdoba – Barracas Central
+ Defensa y Justicia – Newell’s
+ Zona B
+ Platense – San Lorenzo
+ Vélez – Independiente
+ River – Godoy Cruz
+ Gimnasia – Lanús
+ Talleres – San Martín (SJ)
+ Sarmiento – Atlético Tucumán
+ Rosario Central – Deportivo Riestra
+ Interzonal
+ Instituto – Unión
+Fecha 6 (24/08/2025)
+ Zona A
+ Barracas Central – Defensa y Justicia
+ Belgrano – Central Córdoba
+ Estudiantes – Aldosivi
+ Boca – Banfield
+ Tigre – Independiente Rivadavia
+ Argentinos – Racing
+ Unión – Huracán
+ Zona B
+ Deportivo Riestra – Sarmiento
+ Atlético Tucumán – Talleres
+ San Martín (SJ) – Gimnasia
+ Lanús – River
+ Godoy Cruz – Vélez
+ Independiente – Platense
+ San Lorenzo – Instituto
+ Interzonal
+ Rosario Central – Newell’s
+Fecha 7 (31/08/2025)
+ Zona A
+ Racing – Unión
+ Independiente Rivadavia – Argentinos
+ Banfield – Tigre
+ Aldosivi – Boca
+ Central Córdoba – Estudiantes
+ Defensa y Justicia – Belgrano
+ Newell’s – Barracas Central
+ Zona B
+ Instituto – Independiente
+ Platense – Godoy Cruz
+ Vélez – Lanús
+ River – San Martín (SJ)
+ Gimnasia – Atlético Tucumán
+ Talleres – Deportivo Riestra
+ Sarmiento – Rosario Central
+ Interzonal
+ San Lorenzo – Huracán
+Fecha 8 (14/09/2025) – Interzonal
+ Independiente – Banfield
+ Estudiantes – River
+ Huracán – Vélez
+ Godoy Cruz – Barracas Central
+ Lanús – Independiente Rivadavia
+ Newell’s – Atlético Tucumán
+ Instituto – Argentinos
+ Defensa y Justicia – Platense
+ Gimnasia – Unión
+ Tigre – Talleres
+ Deportivo Riestra – Central Córdoba
+ Racing – San Lorenzo
+ Belgrano – San Martín (SJ)
+ Rosario Central – Boca
+ Sarmiento – Aldosivi
+Fecha 9 (21/09/2025)
+ Zona A
+ Belgrano – Newell’s
+ Estudiantes – Defensa y Justicia
+ Boca – Central Córdoba
+ Tigre – Aldosivi
+ Argentinos – Banfield
+ Unión – Independiente Rivadavia
+ Huracán – Racing
+ Zona B
+ Rosario Central – Talleres
+ Deportivo Riestra – Gimnasia
+ Atlético Tucumán – River
+ San Martín (SJ) – Vélez
+ Lanús – Platense
+ Godoy Cruz – Instituto
+ Independiente – San Lorenzo
+ Interzonal
+ Barracas Central – Sarmiento
+Fecha 10 (28/09/2025)
+ Zona A
+ Independiente Rivadavia – Huracán
+ Banfield – Unión
+ Aldosivi – Argentinos
+ Central Córdoba – Tigre
+ Defensa y Justicia – Boca
+ Newell’s – Estudiantes
+ Barracas Central – Belgrano
+ Zona B
+ San Lorenzo – Godoy Cruz
+ Instituto – Lanús
+ Platense – San Martín (SJ)
+ Vélez – Atlético Tucumán
+ River – Deportivo Riestra
+ Gimnasia – Rosario Central
+ Talleres – Sarmiento
+ Interzonal
+ Racing – Independiente
+Fecha 11 (05/10/2025)
+ Zona A
+ Estudiantes – Barracas Central
+ Boca – Newell’s
+ Tigre – Defensa y Justicia
+ Argentinos – Central Córdoba
+ Unión – Aldosivi
+ Huracán – Banfield
+ Racing – Independiente Rivadavia
+ Zona B
+ Sarmiento – Gimnasia
+ Rosario Central – River
+ Deportivo Riestra – Vélez
+ Atlético Tucumán – Platense
+ San Martín (SJ) – Instituto
+ Lanús – San Lorenzo
+ Godoy Cruz – Independiente
+ Interzonal
+ Talleres – Belgrano
+Fecha 12 (12/10/2025)
+ Zona A
+ Banfield – Racing
+ Aldosivi – Huracán
+ Central Córdoba – Unión
+ Defensa y Justicia – Argentinos
+ Newell’s – Tigre
+ Barracas Central – Boca
+ Belgrano – Estudiantes
+ Zona B
+ Independiente – Lanús
+ San Lorenzo – San Martín (SJ)
+ Instituto – Atlético Tucumán
+ Platense – Deportivo Riestra
+ Vélez – Rosario Central
+ River – Sarmiento
+ Gimnasia – Talleres
+ Interzonal
+ Independiente Rivadavia – Godoy Cruz
+Fecha 13 (19/10/2025)
+ Zona A
+ Boca – Belgrano
+ Tigre – Barracas Central
+ Argentinos – Newell’s
+ Unión – Defensa y Justicia
+ Huracán – Central Córdoba
+ Racing – Aldosivi
+ Independiente Rivadavia – Banfield
+ Zona B
+ Talleres – River
+ Sarmiento – Vélez
+ Rosario Central – Platense
+ Deportivo Riestra – Instituto
+ Atlético Tucumán – San Lorenzo
+ San Martín (SJ) – Independiente
+ Lanús – Godoy Cruz
+ Interzonal
+ Estudiantes – Gimnasia
+Fecha 14 (02/11/2025)
+ Zona A
+ Aldosivi – Independiente Rivadavia
+ Central Córdoba – Racing
+ Defensa y Justicia – Huracán
+ Newell’s – Unión
+ Barracas Central – Argentinos
+ Belgrano – Tigre
+ Estudiantes – Boca
+ Zona B
+ Godoy Cruz – San Martín (SJ)
+ Independiente – Atlético Tucumán
+ San Lorenzo – Deportivo Riestra
+ Instituto – Rosario Central
+ Platense – Sarmiento
+ Vélez – Talleres
+ River – Gimnasia
+ Interzonal
+ Banfield – Lanús
+Fecha 15 (09/11/2025)
+ Zona A
+ Tigre – Estudiantes
+ Argentinos – Belgrano
+ Unión – Barracas Central
+ Huracán – Newell’s
+ Racing – Defensa y Justicia
+ Independiente Rivadavia – Central Córdoba
+ Banfield – Aldosivi
+ Zona B
+ Gimnasia – Vélez
+ Talleres – Platense
+ Sarmiento – Instituto
+ Rosario Central – San Lorenzo
+ Deportivo Riestra – Independiente
+ Atlético Tucumán – Godoy Cruz
+ San Martín (SJ) – Lanús
+ Interzonal
+ Boca – River
+Fecha 16 (16/11/2025)
+ Zona A
+ Central Córdoba – Banfield
+ Defensa y Justicia – Independiente Rivadavia
+ Newell’s – Racing
+ Barracas Central – Huracán
+ Belgrano – Unión
+ Estudiantes – Argentinos
+ Boca – Tigre
+ Zona B
+ Lanús – Atlético Tucumán
+ Godoy Cruz – Deportivo Riestra
+ Independiente – Rosario Central
+ San Lorenzo – Sarmiento
+ Instituto – Talleres
+ Platense – Gimnasia
+ Vélez – River
+ Interzonal
+ Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Primera Nacional
+Primera rueda
+Fecha 1
+ Zona A
+ Los Andes - Patronato
+ Ferro Carril Oeste - Güemes (SdE)
+ Almagro - San Martín (T)
+ San Miguel - Tristán Suárez
+ Quilmes - Gimnasia y Tiro (S)
+ Racing (C) - Deportivo Maipú
+ Atlanta - Deportivo Madryn
+ Colegiales - Alvarado
+ Arsenal - All Boys
+ Zona B
+ Nueva Chicago - San Telmo
+ Agropecuario - Chacarita Juniors
+ Gimnasia y Esgrima (J) - Defensores de Belgrano
+ Gimnasia y Esgrima (M) - Estudiantes (RC)
+ Central Norte (S) - Talleres (RdE)
+ Almirante Brown - Deportivo Morón
+ Chaco For Ever - Estudiantes (BA)
+ Mitre (SdE) - Defensores Unidos
+ Colón - Temperley
+Fecha 2
+ Zona A
+ Arsenal - Los Andes
+ All Boys - Colegiales
+ Alvarado - Atlanta
+ Deportivo Madryn - Racing (C)
+ Deportivo Maipú - Quilmes
+ Gimnasia y Tiro (S) - San Miguel
+ Tristán Suárez - Almagro
+ San Martín (T) - Ferro Carril Oeste
+ Güemes (SdE) - Patronato
+ Zona B
+ Colón - Nueva Chicago
+ Temperley - Mitre (SdE)
+ Defensores Unidos - Chaco For Ever
+ Estudiantes (BA) - Almirante Brown
+ Deportivo Morón - Central Norte (S)
+ Talleres (RdE) - Gimnasia y Esgrima (M)
+ Estudiantes (RC) - Gimnasia y Esgrima (J)
+ Defensores de Belgrano - Agropecuario
+ Chacarita Juniors - San Telmo
+Fecha 3
+ Zona A
+ Los Andes - Güemes (SdE)
+ Patronato - San Martín (T)
+ Ferro Carril Oeste - Tristán Suárez
+ Almagro - Gimnasia y Tiro (S)
+ San Miguel - Deportivo Maipú
+ Quilmes - Deportivo Madryn
+ Racing (C) - Alvarado
+ Atlanta - All Boys
+ Colegiales - Arsenal
+ Zona B
+ Nueva Chicago - Chacarita Juniors
+ San Telmo - Defensores de Belgrano
+ Agropecuario - Estudiantes (RC)
+ Gimnasia y Esgrima (J) - Talleres (RdE)
+ Gimnasia y Esgrima (M) - Deportivo Morón
+ Central Norte (S) - Estudiantes (BA)
+ Almirante Brown - Defensores Unidos
+ Chaco For Ever - Temperley
+ Mitre (SdE) - Colón
+Fecha 4
+ Zona A
+ Colegiales - Los Andes
+ Arsenal - Atlanta
+ All Boys - Racing (C)
+ Alvarado - Quilmes
+ Deportivo Madryn - San Miguel
+ Deportivo Maipú - Almagro
+ Gimnasia y Tiro (S) - Ferro Carril Oeste
+ Tristán Suárez - Patronato
+ San Martín (T) - Güemes (SdE)
+ Zona B
+ Mitre (SdE) - Nueva Chicago
+ Colón - Chaco For Ever
+ Temperley - Almirante Brown
+ Defensores Unidos - Central Norte (S)
+ Estudiantes (BA) - Gimnasia y Esgrima (M)
+ Deportivo Morón - Gimnasia y Esgrima (J)
+ Talleres (RdE) - Agropecuario
+ Estudiantes (RC) - San Telmo
+ Defensores de Belgrano - Chacarita Juniors
+Fecha 5
+ Zona A
+ Los Andes - San Martín (T)
+ Güemes (SdE) - Tristán Suárez
+ Patronato - Gimnasia y Tiro (S)
+ Ferro Carril Oeste - Deportivo Maipú
+ Almagro - Deportivo Madryn
+ San Miguel - Alvarado
+ Quilmes - All Boys
+ Racing (C) - Arsenal
+ Atlanta - Colegiales
+ Zona B
+ Nueva Chicago - Defensores de Belgrano
+ Chacarita Juniors - Estudiantes (RC)
+ San Telmo - Talleres (RdE)
+ Agropecuario - Deportivo Morón
+ Gimnasia y Esgrima (J) - Estudiantes (BA)
+ Gimnasia y Esgrima (M) - Defensores Unidos
+ Central Norte (S) - Temperley
+ Almirante Brown - Colón
+ Chaco For Ever - Mitre (SdE)
+Fecha 6
+ Zona A
+ Atlanta - Los Andes
+ Colegiales - Racing (C)
+ Arsenal - Quilmes
+ All Boys - San Miguel
+ Alvarado - Almagro
+ Deportivo Madryn - Ferro Carril Oeste
+ Deportivo Maipú - Patronato
+ Gimnasia y Tiro (S) - Güemes (SdE)
+ Tristán Suárez - San Martín (T)
+ Zona B
+ Chaco For Ever - Nueva Chicago
+ Mitre (SdE) - Almirante Brown
+ Colón - Central Norte (S)
+ Temperley - Gimnasia y Esgrima (M)
+ Defensores Unidos - Gimnasia y Esgrima (J)
+ Estudiantes (BA) - Agropecuario
+ Deportivo Morón - San Telmo
+ Talleres (RdE) - Chacarita Juniors
+ Estudiantes (RC) - Defensores de Belgrano
+Fecha 7
+ Zona A
+ Los Andes - Tristán Suárez
+ San Martín (T) - Gimnasia y Tiro (S)
+ Güemes (SdE) - Deportivo Maipú
+ Patronato - Deportivo Madryn
+ Ferro Carril Oeste - Alvarado
+ Almagro - All Boys
+ San Miguel - Arsenal
+ Quilmes - Colegiales
+ Racing (C) - Atlanta
+ Zona B
+ Nueva Chicago - Estudiantes (RC)
+ Defensores de Belgrano - Talleres (RdE)
+ Chacarita Juniors - Deportivo Morón
+ San Telmo - Estudiantes (BA)
+ Agropecuario - Defensores Unidos
+ Gimnasia y Esgrima (J) - Temperley
+ Gimnasia y Esgrima (M) - Colón
+ Central Norte (S) - Mitre (SdE)
+ Almirante Brown - Chaco For Ever
+Fecha 8
+ Zona A
+ Racing (C) - Los Andes
+ Atlanta - Quilmes
+ Colegiales - San Miguel
+ Arsenal - Almagro
+ All Boys - Ferro Carril Oeste
+ Alvarado - Patronato
+ Deportivo Madryn - Güemes (SdE)
+ Deportivo Maipú - San Martín (T)
+ Gimnasia y Tiro (S) - Tristán Suárez
+ Zona B
+ Almirante Brown - Nueva Chicago
+ Chaco For Ever - Central Norte (S)
+ Mitre (SdE) - Gimnasia y Esgrima (M)
+ Colón - Gimnasia y Esgrima (J)
+ Temperley - Agropecuario
+ Defensores Unidos - San Telmo
+ Estudiantes (BA) - Chacarita Juniors
+ Deportivo Morón - Defensores de Belgrano
+ Talleres (RdE) - Estudiantes (RC)
+Fecha 9
+ Zona A
+ Los Andes - Gimnasia y Tiro (S)
+ Tristán Suárez - Deportivo Maipú
+ San Martín (T) - Deportivo Madryn
+ Güemes (SdE) - Alvarado
+ Patronato - All Boys
+ Ferro Carril Oeste - Arsenal
+ Almagro - Colegiales
+ San Miguel - Atlanta
+ Quilmes - Racing (C)
+ Zona B
+ Nueva Chicago - Talleres (RdE)
+ Estudiantes (RC) - Deportivo Morón
+ Defensores de Belgrano - Estudiantes (BA)
+ Chacarita Juniors - Defensores Unidos
+ San Telmo - Temperley
+ Agropecuario - Colón
+ Gimnasia y Esgrima (J) - Mitre (SdE)
+ Gimnasia y Esgrima (M) - Chaco For Ever
+ Central Norte (S) - Almirante Brown
+Fecha 10
+ Zona A
+ Quilmes - Los Andes
+ Racing (C) - San Miguel
+ Atlanta - Almagro
+ Colegiales - Ferro Carril Oeste
+ Arsenal - Patronato
+ All Boys - Güemes (SdE)
+ Alvarado - San Martín (T)
+ Deportivo Madryn - Tristán Suárez
+ Deportivo Maipú - Gimnasia y Tiro (S)
+ Zona B
+ Central Norte (S) - Nueva Chicago
+ Almirante Brown - Gimnasia y Esgrima (M)
+ Chaco For Ever - Gimnasia y Esgrima (J)
+ Mitre (SdE) - Agropecuario
+ Colón - San Telmo
+ Temperley - Chacarita Juniors
+ Defensores Unidos - Defensores de Belgrano
+ Estudiantes (BA) - Estudiantes (RC)
+ Deportivo Morón - Talleres (RdE)
+Fecha 11
+ Zona A
+ Los Andes - Deportivo Maipú
+ Gimnasia y Tiro (S) - Deportivo Madryn
+ Tristán Suárez - Alvarado
+ San Martín (T) - All Boys
+ Güemes (SdE) - Arsenal
+ Patronato - Colegiales
+ Ferro Carril Oeste - Atlanta
+ Almagro - Racing (C)
+ San Miguel - Quilmes
+ Zona B
+ Nueva Chicago - Deportivo Morón
+ Talleres (RdE) - Estudiantes (BA)
+ Estudiantes (RC) - Defensores Unidos
+ Defensores de Belgrano - Temperley
+ Chacarita Juniors - Colón
+ San Telmo - Mitre (SdE)
+ Agropecuario - Chaco For Ever
+ Gimnasia y Esgrima (J) - Almirante Brown
+ Gimnasia y Esgrima (M) - Central Norte (S)
+Fecha 12
+ Zona A
+ San Miguel - Los Andes
+ Quilmes - Almagro
+ Racing (C) - Ferro Carril Oeste
+ Atlanta - Patronato
+ Colegiales - Güemes (SdE)
+ Arsenal - San Martín (T)
+ All Boys - Tristán Suárez
+ Alvarado - Gimnasia y Tiro (S)
+ Deportivo Madryn - Deportivo Maipú
+ Zona B
+ Gimnasia y Esgrima (M) - Nueva Chicago
+ Central Norte (S) - Gimnasia y Esgrima (J)
+ Almirante Brown - Agropecuario
+ Chaco For Ever - San Telmo
+ Mitre (SdE) - Chacarita Juniors
+ Colón - Defensores de Belgrano
+ Temperley - Estudiantes (RC)
+ Defensores Unidos - Talleres (RdE)
+ Estudiantes (BA) - Deportivo Morón
+Fecha 13
+ Zona A
+ Los Andes - Deportivo Madryn
+ Deportivo Maipú - Alvarado
+ Gimnasia y Tiro (S) - All Boys
+ Tristán Suárez - Arsenal
+ San Martín (T) - Colegiales
+ Güemes (SdE) - Atlanta
+ Patronato - Racing (C)
+ Ferro Carril Oeste - Quilmes
+ Almagro - San Miguel
+ Zona B
+ Nueva Chicago - Estudiantes (BA)
+ Deportivo Morón - Defensores Unidos
+ Talleres (RdE) - Temperley
+ Estudiantes (RC) - Colón
+ Defensores de Belgrano - Mitre (SdE)
+ Chacarita Juniors - Chaco For Ever
+ San Telmo - Almirante Brown
+ Agropecuario - Central Norte (S)
+ Gimnasia y Esgrima (J) - Gimnasia y Esgrima (M)
+Fecha 14
+ Zona A
+ Almagro - Los Andes
+ San Miguel - Ferro Carril Oeste
+ Quilmes - Patronato
+ Racing (C) - Güemes (SdE)
+ Atlanta - San Martín (T)
+ Colegiales - Tristán Suárez
+ Arsenal - Gimnasia y Tiro (S)
+ All Boys - Deportivo Maipú
+ Alvarado - Deportivo Madryn
+ Zona B
+ Gimnasia y Esgrima (J) - Nueva Chicago
+ Gimnasia y Esgrima (M) - Agropecuario
+ Central Norte (S) - San Telmo
+ Almirante Brown - Chacarita Juniors
+ Chaco For Ever - Defensores de Belgrano
+ Mitre (SdE) - Estudiantes (RC)
+ Colón - Talleres (RdE)
+ Temperley - Deportivo Morón
+ Defensores Unidos - Estudiantes (BA)
+Fecha 15
+ Zona A
+ Los Andes - Alvarado
+ Deportivo Madryn - All Boys
+ Deportivo Maipú - Arsenal
+ Gimnasia y Tiro (S) - Colegiales
+ Tristán Suárez - Atlanta
+ San Martín (T) - Racing (C)
+ Güemes (SdE) - Quilmes
+ Patronato - San Miguel
+ Ferro Carril Oeste - Almagro
+ Zona B
+ Nueva Chicago - Defensores Unidos
+ Estudiantes (BA) - Temperley
+ Deportivo Morón - Colón
+ Talleres (RdE) - Mitre (SdE)
+ Estudiantes (RC) - Chaco For Ever
+ Defensores de Belgrano - Almirante Brown
+ Chacarita Juniors - Central Norte (S)
+ San Telmo - Gimnasia y Esgrima (M)
+ Agropecuario - Gimnasia y Esgrima (J)
+Fecha 16
+ Zona A
+ Ferro Carril Oeste - Los Andes
+ Almagro - Patronato
+ San Miguel - Güemes (SdE)
+ Quilmes - San Martín (T)
+ Racing (C) - Tristán Suárez
+ Atlanta - Gimnasia y Tiro (S)
+ Colegiales - Deportivo Maipú
+ Arsenal - Deportivo Madryn
+ All Boys - Alvarado
+ Zona B
+ Agropecuario - Nueva Chicago
+ Gimnasia y Esgrima (J) - San Telmo
+ Gimnasia y Esgrima (M) - Chacarita Juniors
+ Central Norte (S) - Defensores de Belgrano
+ Almirante Brown - Estudiantes (RC)
+ Chaco For Ever - Talleres (RdE)
+ Mitre (SdE) - Deportivo Morón
+ Colón - Estudiantes (BA)
+ Temperley - Defensores Unidos
+Fecha 17
+ Zona A
+ Los Andes - All Boys
+ Alvarado - Arsenal
+ Deportivo Madryn - Colegiales
+ Deportivo Maipú - Atlanta
+ Gimnasia y Tiro (S) - Racing (C)
+ Tristán Suárez - Quilmes
+ San Martín (T) - San Miguel
+ Güemes (SdE) - Almagro
+ Patronato - Ferro Carril Oeste
+ Zona B
+ Nueva Chicago - Temperley
+ Defensores Unidos - Colón
+ Estudiantes (BA) - Mitre (SdE)
+ Deportivo Morón - Chaco For Ever
+ Talleres (RdE) - Almirante Brown
+ Estudiantes (RC) - Central Norte (S)
+ Defensores de Belgrano - Gimnasia y Esgrima (M)
+ Chacarita Juniors - Gimnasia y Esgrima (J)
+ San Telmo - Agropecuario 
 Primera B
 Primera C
 Copa Argentina
