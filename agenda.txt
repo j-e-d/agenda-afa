@@ -1,192 +1,204 @@
 25/03/2019
 Torneo Apertura 2025
 Fecha 1 (26/01/2025)
- Zona A
- Boca – Argentinos
- Estudiantes – Unión
- Belgrano – Huracán
- Barracas Central – Racing
- Newell’s – Independiente Rivadavia
- Defensa y Justicia – Banfield
- Central Córdoba – Aldosivi
- Zona B
- Platense – River
- Instituto – Gimnasia
- San Lorenzo – Talleres
- Independiente – Sarmiento
- Godoy Cruz – Rosario Central
- Lanús – Deportivo Riestra
- San Martín (SJ) – Atlético Tucumán
- Interzonal
- Tigre – Vélez
+Jueves 23 de enero
+19.00 Tigre – Vélez (interzonal)
+19.00 Godoy Cruz – Rosario Central (Zona B)
+21.30 Defensa y Justicia – Banfield (Zona A)
+21.30 Newell’s – Independiente Rivadavia (Zona A)
+Viernes 24 de enero
+17.00 Barracas Central – Racing (Zona A)
+17.00 Lanús – Deportivo Riestra (Zona B)
+19.15 Independiente – Sarmiento (Zona B)
+21.00 Belgrano – Huracán (Zona A)
+21.30 San Martín (SJ) – Atlético Tucumán (Zona B)
+Sábado 25 de enero
+17.00 San Lorenzo – Talleres (Zona B)
+19.15 Instituto – Gimnasia (Zona B)
+19.15 Estudiantes – Unión (Zona A)
+21.30 Platense – River (Zona B)
+Domingo 26 de enero
+19.00 Boca – Argentinos (Zona A)
+21.00 Central Córdoba – Aldosivi (Zona A)
 Fecha 2 (29/01/2025)
- Zona A
- Aldosivi – Defensa y Justicia
- Banfield – Newell’s
- Independiente Rivadavia – Barracas Central
- Racing – Belgrano
- Huracán – Estudiantes
- Unión – Boca
- Argentinos – Tigre
- Zona B
- Deportivo Riestra – San Martín (SJ)
- Rosario Central – Lanús
- Sarmiento – Godoy Cruz
- Talleres – Independiente
- Gimnasia – San Lorenzo
- River – Instituto
- Vélez – Platense
- Interzonal
- Central Córdoba – Atlético Tucumán
-Fecha 3 -(02/02/2025)
- Zona A
- Tigre – Unión
- Boca – Huracán
- Estudiantes – Racing
- Belgrano – Independiente Rivadavia
- Barracas Central – Banfield
- Newell’s – Aldosivi
- Defensa y Justicia -Central Córdoba
- Zona B
- Instituto – Vélez
- San Lorenzo – River
- Independiente – Gimnasia
- Godoy Cruz – Talleres
- Lanús – Sarmiento
- San Martín (SJ) – Rosario Central
- Atlético Tucumán – Deportivo Riestra
- Interzonal
- Argentinos – Platense
+Lunes 27 de enero
+20.00 Banfield – Newell’s (Zona A)
+Martes 28 de enero
+17.00 Deportivo Riestra – San Martín (SJ) (Zona B)
+19.15 Sarmiento – Godoy Cruz (Zona B)
+19.15 Rosario Central – Lanús (Zona B)
+21.30 Vélez – Platense (Zona B)
+21.30 Independiente Rivadavia – Barracas Central (Zona A)
+Miércoles 29 de enero
+17.00 Gimnasia – San Lorenzo (Zona B)
+17.00 Talleres – Independiente (Zona A)
+19.15 Huracán – Estudiantes (Zona A)
+19.15 Unión – Boca (Zona A)
+21.30 River – Instituto (Zona B)
+Jueves 30 de enero
+17.00 Aldosivi – Defensa y Justicia (Zona A)
+19.15 Racing – Belgrano (Zona A)
+21.30 Argentinos – Tigre (Zona A)
+21.30 Central Córdoba – Atlético Tucumán (interzonal)
+Fecha 3 - (02/02/2025)
+Sábado 1° de febrero
+17.00 Barracas Central – Banfield (Zona A)
+19.00 San Martín (SJ) – Rosario Central (Zona B)
+21.00 Lanús – Sarmiento (Zona B)
+Domingo 2 de febrero
+17.00 San Lorenzo – River (Zona B)
+19.15 Boca – Huracán (Zona A)
+19.15 Newell’s – Aldosivi (Zona A)
+21.30 Instituto – Vélez (Zona B)
+21.30 Independiente – Gimnasia (Zona B)
+Lunes 3 de febrero
+17.00 Tigre – Unión (Zona A)
+17.00 Defensa y Justicia – Central Córdoba (Zona A)
+19.15 Estudiantes – Racing (Zona A)
+21.30 Belgrano – Independiente Rivadavia (Zona A)
+21.30 Argentinos – Platense (interzonal)
+Martes 4 de febrero
+19.00 Godoy Cruz – Talleres (Zona B)
+21.00 Atlético Tucumán – Deportivo Riestra (Zona B)
 Fecha 4 (09/02/22025)
- Zona A
- Central Córdoba – Newell’s
- Aldosivi – Barracas Central
- Banfield – Belgrano
- Independiente Rivadavia – Estudiantes
- Racing – Boca
- Huracán – Tigre
- Unión – Argentinos
- Zona B
- Rosario Central – Atlético Tucumán
- Sarmiento – San Martín (SJ)
- Talleres – Lanús
- Gimnasia – Godoy Cruz
- River – Independiente
- Vélez – San Lorenzo
- Platense – Instituto
- Interzonal
- Deportivo Riestra – Defensa y Justicia
+Jueves 6 de febrero
+17.00 Aldosivi – Barracas Central (Zona A)
+20.00 Sarmiento – San Martín (SJ) (Zona B)
+Viernes 7 de febrero
+17.00 Banfield – Belgrano (Zona A)
+19.15 Central Córdoba – Newell’s (Zona A)
+19.15 Huracán – Tigre (Zona A)
+21.30 Independiente Rivadavia – Estudiantes (Zona A)
+21.30 Unión – Argentinos (Zona A)
+Sábado 8 de febrero
+17.00 Rosario Central – Atlético Tucumán (Zona B)
+17.00 Vélez – San Lorenzo (Zona B)
+19.15 River – Independiente (Zona B)
+21.30 Racing – Boca (Zona A)
+Domingo 9 de febrero
+17.00 Deportivo Riestra- Defensa y Justicia (interzonal)
+17.00 Platense -Instituto (Zona B)
+19.15 Gimnasia – Godoy Cruz (Zona B)
+21.30 Talleres – Lanús (Zona B)
 Fecha 5 (12/02/2025)
- Zona A
- Argentinos – Huracán
- Tigre – Racing
- Boca – Independiente Rivadavia
- Estudiantes – Banfield
- Belgrano – Aldosivi
- Barracas Central – Central Córdoba
- Newell’s – Defensa y Justicia
- Zona B
- San Lorenzo – Platense
- Independiente – Vélez
- Godoy Cruz – River
- Lanús – Gimnasia
- San Martín (SJ) – Talleres
- Atlético Tucumán – Sarmiento
- Deportivo Riestra – Rosario Central
- Interzonal
- Unión – Instituto
+Martes 11 de febrero
+17.00 Barracas Central – Central Córdoba (Zona A)
+17.00 Tigre – Racing (Zona A)
+19.15 Boca – Independiente Rivadavia (Zona A)
+21.30 Belgrano – Aldosivi (Zona A)
+21.30 Estudiantes – Banfield (Zona A)
+Miércoles 12 de febrero
+17.00 Deportivo Riestra – Rosario Central (Zona B)
+17.00 Newell’s – Defensa y Justicia (Zona A)
+19.15 Independiente – Vélez (Zona B)
+19.15 Argentinos – Huracán (Zona A)
+21.30 Godoy Cruz – River (Zona B)
+Jueves 13 de febrero
+17.45 Lanús – Gimnasia (Zona B)
+20.00 San Martín (SJ) – Talleres (Zona B)
+20.00 San Lorenzo – Platense (Zona B)
+22.15 Unión – Instituto (interzonal)
+22.15 Atlético Tucumán – Sarmiento (Zona B)
 Fecha 6 (16/02/2025)
- Zona A
- Defensa y Justicia – Barracas Central
- Central Córdoba – Belgrano
- Aldosivi – Estudiantes
- Banfield – Boca
- Independiente Rivadavia – Tigre
- Racing – Argentinos
- Huracán – Unión
- Zona B
- Sarmiento – Deportivo Riestra
- Talleres – Atlético Tucumán
- Gimnasia – San Martín (SJ)
- River – Lanús
- Vélez – Godoy Cruz
- Platense – Independiente
- Instituto – San Lorenzo
- Interzonal
- Newell’s – Rosario Central
+Viernes 14 de febrero
+20.00 Banfield – Boca (Zona A)
+Sábado 15 de febrero
+17.00 Aldosivi – Estudiantes (Zona A)
+17.00 Defensa y Justicia – Barracas Central (Zona A)
+19.15 Central Córdoba – Belgrano (Zona A)
+19.15 Independiente Rivadavia – Tigre (Zona A)
+21.30 Racing – Argentinos (Zona A)
+Domingo 16 de febrero
+17.00 Newell’s – Rosario Central (interzonal)
+19.15 River – Lanús (Zona B)
+21.30 Huracán – Unión (Zona A)
+21.30 Talleres – Atlético Tucumán (Zona B)
+Lunes 17 de febrero
+17.00 Sarmiento – Deportivo Riestra (Zona B)
+17.00 Gimnasia – San Martín (SJ) (Zona B)
+19.15 Platense – Independiente (Zona B)
+21.30 Vélez – Godoy Cruz (Zona B)
+21.30 Instituto – San Lorenzo (Zona B)
 Fecha 7 (23/02/2025)
- Zona A
- Unión – Racing
- Argentinos – Independiente Rivadavia
- Tigre – Banfield
- Boca – Aldosivi
- Estudiantes – Central Córdoba
- Belgrano – Defensa y Justicia
- Barracas Central – Newell’s
- Zona B
- Independiente – Instituto
- Godoy Cruz -Platense
- Lanús- Vélez
- San Martín (SJ) – River
- Atlético Tucumán – Gimnasia
- Deportivo Riestra – Talleres
- Rosario Central – Sarmiento
- Interzonal
- Huracán – San Lorenzo
+Viernes 21 de febrero
+17.00 Deportivo Riestra – Talleres (Zona B)
+19.15 Estudiantes – Central Córdoba (Zona A)
+19.15 Godoy Cruz – Platense (Zona B)
+21.30 Lanús – Vélez (Zona B)
+Sábado 22 de febrero
+17.00 Rosario Central – Sarmiento (Zona B)
+17.00 Independiente – Instituto (Zona B)
+19.15 Boca – Aldosivi (Zona A)
+21.30 San Martín (SJ) – River (Zona B)
+Domingo 23 de febrero
+17.00 Huracán – San Lorenzo (interzonal)
+19.15 Atlético Tucumán – Gimnasia (Zona B)
+19.15 Belgrano – Defensa y Justicia (Zona A)
+21.30 Unión – Racing (Zona A)
+Lunes 24 de febrero
+17.00 Barracas Central – Newell’s (Zona A)
+19.00 Argentinos – Independiente Rivadavia (Zona A)
+21.00 Tigre – Banfield (Zona A)
 Fecha 8 (02/03/2025) – Interzonal
- Banfield – Independiente
- River – Estudiantes
- Vélez – Huracán
- Barracas Central – Godoy Cruz
- Independiente Rivadavia – Lanús
- Atlético Tucumán – Newell’s
- Argentinos – Instituto
- Platense – Defensa y Justicia
- Unión – Gimnasia
- Talleres – Tigre
- Central Córdoba – Deportivo Riestra
- San Lorenzo – Racing
- San Martín (SJ) – Belgrano
- Boca – Rosario Central
- Aldosivi – Sarmiento
+Viernes 28 de febrero
+20.00 Boca – Rosario Central
+22.15 San Martín (SJ) – Belgrano
+22.15 Central Córdoba – Deportivo Riestra
+Sábado 1° de marzo
+17.00 Aldosivi – Sarmiento
+19.15 River – Estudiantes
+21.30 Talleres – Tigre
+21.30 Unión – Gimnasia
+Domingo 2 de marzo
+17.00 Argentinos – Instituto
+17.00 Independiente Rivadavia – Lanús
+19.15 Vélez – Huracán
+21.30 Banfield – Independiente
+21.30 Platense – Defensa y Justicia
+Lunes 3 de marzo
+17.00 Barracas Central – Godoy Cruz
+19.00 San Lorenzo – Racing
+21.00 Atlético Tucumán – Newell’s
 Fecha 9 (09/03/2025)
- Zona A
- Newell’s – Belgrano
- Defensa y Justicia – Estudiantes
- Central Córdoba – Boca
- Aldosivi – Tigre
- Banfield – Argentinos
- Independiente Rivadavia – Unión
- Racing – Huracán
- Zona B
- Talleres – Rosario Central
- Gimnasia – Deportivo Riestra
- River – Atlético Tucumán
- Vélez – San Martín (SJ)
- Platense – Lanús
- Instituto – Godoy Cruz
- San Lorenzo – Independiente
- Interzonal
- Sarmiento – Barracas Central
+Viernes 7 de marzo
+19.00 Banfield – Argentinos (Zona A)
+19.00 Vélez – San Martín (SJ) (Zona B)
+21.15 Central Córdoba – Boca (Zona A)
+Sábado 8 de marzo
+17.00 San Lorenzo – Independiente (Zona B)
+19.15 Racing – Huracán (Zona A)
+21.30 Sarmiento – Barracas Central (interzonal)
+21.30 Platense – Lanús (Zona B)
+Domingo 9 de marzo
+17.00 Defensa y Justicia – Estudiantes (Zona A)
+17.00 Aldosivi – Tigre (Zona A)
+19.15 River – Atlético Tucumán (Zona B)
+21.30 Newell’s – Belgrano (Zona A)
+21.30 Instituto – Godoy Cruz (Zona B)
+Lunes 10 de marzo
+19.00 Gimnasia – Deportivo Riestra (Zona B)
+21.15 Talleres – Rosario Central (Zona B)
+21.15 Independiente Rivadavia – Unión (Zona B)
 Fecha 10 (16/03/2025)
- Zona A
- Huracán – Independiente Rivadavia
- Unión – Banfield
- Argentinos -Aldosivi
- Tigre – Central Córdoba
- Boca – Defensa y Justicia
- Estudiantes – Newell’s
- Belgrano – Barracas Central
- Zona B
- Godoy Cruz – San Lorenzo
- Lanús – Instituto
- San Martín (SJ) – Platense
- Atlético Tucumán – Vélez
- Deportivo Riestra – River
- Rosario Central – Gimnasia
- Sarmiento – Talleres
- Interzonal
- Independiente – Racing
+Viernes 14 de marzo
+19.00 Argentinos – Aldosivi (Zona A)
+21.00 Godoy Cruz – San Lorenzo (Zona B)
+Sábado 15 de marzo
+16.00 Deportivo Riestra – River (Zona B)
+18.30 Estudiantes – Newell’s (Zona A)
+18.30 Rosario Central – Gimnasia (Zona B)
+21.00 Sarmiento – Talleres (Zona B)
+21.00 Huracán – Independiente Rivadavia (Zona A)
+Domingo 16 de marzo
+16.00 Independiente – Racing (interzonal)
+18.30 Boca – Defensa y Justicia (Zona A)
+21.00 Lanús – Instituto (Zona B)
+21.00 Belgrano – Barracas Central (Zona A)
+Lunes 17 de marzo
+19.00 Tigre – Central Córdoba (Zona A)
+19.00 Unión – Banfield (Zona A)
+21.15 San Martín (SJ) – Platense (Zona B)
+21.15 Atlético Tucumán – Vélez (Zona B)
 Fecha 11 (30/03/2025)
  Zona A
  Barracas Central – Estudiantes
@@ -604,6 +616,14 @@ Fecha 16 (16/11/2025)
  Interzonal
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
+Supercopa Internacional 2023
+Miércoles 5 de marzo
+ River Plate - Talleres, en horario y estadio a designar (TV)
+ De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa Internacional (Boletín Nro. 6219), si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
+Supercopa Argentina 2024
+Miércoles 12 de marzo
+ Vélez - Central Córdoba (S.E.), en horario y estadio a designar (TV)
+ De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Primera Nacional
 Primera rueda
 Fecha 1
@@ -1220,71 +1240,56 @@ Torneo Apertura 2025
 Primera C
 Copa Argentina
 CRUCES DE LA COPA ARGENTINA 2025
- 32AVOS DE FINAL
- Partido 1
- San Lorenzo - Sportivo Las Parejas
-Partido 2
- Huracán - San Martín (Formosa)
-Partido 3
- Boca Juniors - Argentino de Monte Maíz
-Partido 4
- River Plate - Ciudad de Bolívar
-Partido 5 
- Racing Club - Santamarina
-Partido 6
- Independiente - Sportivo Belgrano
-Partido 7
- Estudiantes LP - Sarmiento de La Banda
-Partido 8
- Gimnasia LP - Deportivo Español
-Partido 9
- Platense - Argentino de Quilmes
-Partido 10
- Argentinos Juniors - Central Norte (Salta)
-Partido 11
- Belgrano - Real Pilar
-Partido 12
- Talleres - Deportivo Armenio
-Partido 13
- Rosario Central - Los Andes
-Partido 14
- Newell's - Kimberley
-Partido 15
- Lanús - General Lamadrid
-Partido 16
- Banfield - Villa Mitre (BB)
-Partido 17
- Tigre - Berazategui
-Partido 18
- Vélez - Midland
-Partido 19
- Defensa y Justicia - Racing de Córdoba
-Partido 20
- Unión - Colegiales
-Partido 21
- Deportivo Riestra - San Telmo
-Partido 22
- Barracas Central - Defensores de Belgrano
-Partido 23
- Godoy Cruz - Excursionistas
-Partido 24
- Independiente Rivadavia - Estudiantes
-Partido 25
- Sarmiento de Junín - Central Córdoba (Rosario)
-Partido 26
- Aldosivi - Gimnasia y Tiro (Salta)
-Partido 27
- Gimnasia (Mendoza) - Nueva Chicago
-Partido 28
- San Martín (SJ) - Gimnasia de Jujuy
-Partido 29
- San Martín (Tucumán) - Colón
-Partido 30
- Atlético Tucumán - All Boys
-Partido 31
- Instituto (Córdoba) - Deportivo Madryn
-Partido 32
- Central Córdoba (Santiago) - Quilmes
+32AVOS. DE FINAL
+Miércoles 22-01
+ Boca Jrs. - Argentino (M. Maíz), en horario y estadio a designar (TV)
+Miércoles 05-02
+ Lanús - Gral. Lamadrid, en horario y estadio a designar (TV)
+ G. y Esgrima L.P. - Dep. Español, en horario y estadio a designar (TV)
+Miércoles 12-02
+ San Martín (Tuc.) - Colón, en horario y estadio a designar (TV)
+ G. y Esgrima (Mza.) - Nva. Chicago, en horario y estadio a designar (TV)
+Miércoles 19-02
+ Def. y Justicia - Racing (Cba.), en horario y estadio a designar (TV)
+Martes 25-02
+ Estudiantes de L.P. - Sarmiento (S.E.), en horario y estadio a designar (TV)
+Miércoles 26-02
+ Independiente - Sp. Belgrano (S. Fco.), en horario y estadio a designar (TV)
+ Vélez Sarsfield - F.C. Midland, en horario y estadio a designar (TV)
+Jueves 27-02
+ Godoy Cruz (Mza.) - Excursionistas, en horario y estadio a designar (TV)
+Miércoles 05-03
+ Unión - Colegiales, en horario y estadio a designar (TV)
+ Dep. Riestra - San Telmo, en horario y estadio a designar (TV)
+Martes 11-03
+ Banfield - Villa Mitre (B.B.), en horario y estadio a designar (TV)
+Miércoles 12-03
+ Huracán - San Martín (Formosa), en horario y estadio a designar (TV)
+ Platense - Arg. de Quilmes, en horario y estadio a designar (TV)
+Miércoles 19-03
+ Aldosivi (M.D.P.) - G. y Tiro (Salta), en horario y estadio a designar (TV)
+Viernes 21-03
+ Ctral. Córdoba (S.E.) - Quilmes A.C., en horario y estadio a designar (TV)
+ Talleres (Cba.) - Dep. Armenio, en horario y estadio a designar (TV)
+Sábado 22-03
+ River Plate - Cdad. de Bolívar, en horario y estadio a designar (TV)
+Domingo 23-03
+ Racing Club - Santamarina (T.), en horario y estadio a designar (TV)
+ San Lorenzo de A. - Sp. Las Parejas, en horario y estadio a designar (TV)
+Miércoles 26-03
+ San Martín (S. Juan) - G. y Esgrima (Jujuy), en horario y estadio a designar (TV)
+Encuentros a disputarse del 02 al 09/04:
+Tigre - Berazategui
+ Sarmiento - Ctral. Córdoba (Ros.)
+ N.O. Boys - Kimberley
+ Argentinos Jrs. - Ctral. Norte (Salta)
+ Rosario Ctral. - Los Andes
+ At. Tucumán - All Boys
+ Instituto A.C. Cba. - Dep. Madryn
+ Belgrano (Cba.) - Real Pilar
+ Sp. Independiente R. (Mza.) - Estudiantes
+ Barracas Ctral. - Def. de Belgrano
+ De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2025, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A
 Torneo Femenino de Primera División 2024
 ​​​​
