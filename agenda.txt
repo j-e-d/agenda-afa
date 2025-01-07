@@ -60,7 +60,7 @@ Lunes 3 de febrero
 Martes 4 de febrero
 19.00 Godoy Cruz – Talleres (Zona B)
 21.00 Atlético Tucumán – Deportivo Riestra (Zona B)
-Fecha 4 (09/02/22025)
+Fecha 4 (09/02/2025)
 Jueves 6 de febrero
 17.00 Aldosivi – Barracas Central (Zona A)
 20.00 Sarmiento – San Martín (SJ) (Zona B)
@@ -1279,7 +1279,7 @@ Domingo 23-03
 Miércoles 26-03
  San Martín (S. Juan) - G. y Esgrima (Jujuy), en horario y estadio a designar (TV)
 Encuentros a disputarse del 02 al 09/04:
-Tigre - Berazategui
+ Tigre - Berazategui
  Sarmiento - Ctral. Córdoba (Ros.)
  N.O. Boys - Kimberley
  Argentinos Jrs. - Ctral. Norte (Salta)
