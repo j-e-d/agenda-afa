@@ -1238,6 +1238,424 @@ Torneo Apertura 2025
  ACASSUSO vs. ARGENTINO DE QUILMES
  BROWN (ADROGUÉ) vs. ARGENTINO (MERLO)
 Primera C
+ZONA A
+Fecha 1 - 08/03/2025
+ Libre: L.N. Alem
+ Mercedes c. Def. de Cambaceres
+ Ctral. Córdoba (Ros.) c. El Porvenir
+ Puerto Nuevo c. J.J. de Urquiza
+ Lugano c. Muñiz
+ Berazategui c. Claypole
+ Ituzaingó c. Dep. Español
+Fecha 2 - 15/03/2025
+ Libre: Ituzaingó
+ Dep. Español c. Berazategui
+ Claypole c. Lugano
+ Muñiz c. Puerto Nuevo
+ J.J. de Urquiza c. Ctral. Córdoba (Ros.)
+ El Porvenir c. Mercedes
+ Def. de Cambaceres c. L.N. Alem
+Fecha 3 - 22/03/2025
+ Libre: Def. de Cambaceres
+ L.N. Alem c. El Porvenir
+ Mercedes c. J.J. de Urquiza
+ Ctral. Córdoba (Ros.) c. Muñiz
+ Puerto Nuevo c. Claypole
+ Lugano c. Dep. Español
+ Berazategui c. Ituzaingó
+Fecha 4 - 29/03/2025
+Libre: Berazategui
+ Ituzaingó c. Lugano
+ Dep. Español c. Puerto Nuevo
+ Claypole c. Ctral. Córdoba (Ros.)
+ Muñiz c. Mercedes
+ J.J. de Urquiza c. L.N. Alem
+ El Porvenir c. Def. de Cambaceres
+Fecha 5 - 05/04/2025
+ Libre: El Porvenir
+ Def. de Cambaceres c. J.J. de Urquiza
+ L.N. Alem c. Muñiz
+ Mercedes c. Claypole
+ Ctral. Córdoba (Ros.) c. Dep. Español
+ Puerto Nuevo c. Ituzaingó
+ Lugano c. Berazategui
+Fecha 6 - 12/04/2025
+ Libre: Lugano
+ Berazategui c. Puerto Nuevo
+ Ituzaingó c. Ctral. Córdoba (Ros.)
+ Dep. Español c. Mercedes
+ Claypole c. L.N. Alem
+ Muñiz c. Def. de Cambaceres
+ J.J. de Urquiza c. El Porvenir
+Fecha 7 - 19/04/2025
+ Libre: J.J. de Urquiza
+ El Porvenir c. Muñiz
+ Def. de Cambaceres c. Claypole
+ L.N. Alem c. Dep. Español
+ Mercedes c. Ituzaingó
+ Ctral. Córdoba (Ros.) c. Berazategui
+ Puerto Nuevo c. Lugano
+Fecha 8 - 26/04/2025
+ Libre: Puerto Nuevo
+ Lugano c. Ctral. Córdoba (Ros.)
+ Berazategui c. Mercedes
+ Ituzaingó c. L.N. Alem
+ Dep. Español c. Def. de Cambaceres
+ Claypole c. El Porvenir
+ Muñiz c. J.J. de Urquiza
+Fecha 9 - 03/05/2025
+ Libre: Muñiz
+ J.J. de Urquiza c. Claypole
+ El Porvenir c. Dep. Español
+ Def. de Cambaceres c. Ituzaingó
+ L.N. Alem c. Berazategui
+ Mercedes c. Lugano
+ Ctral. Córdoba (Ros.) c. Puerto Nuevo
+Fecha 10 - 10/05/2025
+ Libre: Ctral. Córdoba (Ros.)
+ Puerto Nuevo c. Mercedes
+ Lugano c. L.N. Alem
+ Berazategui c. Def. de Cambaceres
+ Ituzaingó c. El Porvenir
+ Dep. Español c. J.J. de Urquiza
+ Claypole c. Muñiz
+Fecha 11 - 17/05/2025
+ Libre: Claypole
+ Muñiz c. Deportivo Español
+ J.J. de Urquiza c. Ituzaingó
+ El Porvenir c. Berazategui
+ Defensores de Cambaceres c. Lugano
+ L.N. Alem c. Puerto Nuevo
+ Mercedes c. Central Córdoba (Ros.)
+Fecha 12 - 24/05/2025
+ Libre: Mercedes
+ Central Córdoba (Ros.) c. L.N. Alem
+ Puerto Nuevo c. Defensores de Cambaceres
+ Lugano c. El Porvenir
+ Berazategui c. J.J. de Urquiza
+ Ituzaingó c. Muñiz
+ Deportivo Español c. Claypole
+Fecha 13 - 31/05/2025
+ Libre: Deportivo Español
+ Claypole c. Ituzaingó
+ Muñiz c. Berazategui
+ J.J. de Urquiza c. Lugano
+ El Porvenir c. Puerto Nuevo
+ Defensores de Cambaceres c. Central Córdoba (Ros.)
+ L.N. Alem c. Mercedes
+Fecha 14
+ Libre: L.N. Alem
+ Defensores de Cambaceres c. Mercedes
+ El Porvenir c. Central Córdoba (Ros.)
+ J.J. de Urquiza c. Puerto Nuevo
+ Muñiz c. Lugano
+ Claypole c. Berazategui
+ Deportivo Español c. Ituzaingó
+Fecha 15
+ Libre: Ituzaingó
+ Berazategui c. Deportivo Español
+ Lugano c. Claypole
+ Puerto Nuevo c. Muñiz
+ Central Córdoba (Ros.) c. J.J. de Urquiza
+ Mercedes c. El Porvenir
+ L.N. Alem c. Defensores de Cambaceres
+Fecha 16
+ Libre: Defensores de Cambaceres
+ El Porvenir c. L.N. Alem
+ J.J. de Urquiza c. Mercedes
+ Muñiz c. Central Córdoba (Ros.)
+ Claypole c. Puerto Nuevo
+ Deportivo Español c. Lugano
+ Ituzaingó c. Berazategui
+Fecha 17
+ Libre: Berazategui
+ Lugano c. Ituzaingó
+ Puerto Nuevo c. Deportivo Español
+ Central Córdoba (Ros.) c. Claypole
+ Mercedes c. Muñiz
+ L.N. Alem c. J.J. de Urquiza
+ Defensores de Cambaceres c. El Porvenir
+Fecha 18
+ Libre: El Porvenir
+ J.J. de Urquiza c. Defensores de Cambaceres
+ Muñiz c. L.N. Alem
+ Claypole c. Mercedes
+ Deportivo Español c. Central Córdoba (Ros.)
+ Ituzaingó c. Puerto Nuevo
+ Berazategui c. Lugano
+Fecha 19
+ Libre: Lugano
+ Puerto Nuevo c. Berazategui
+ Central Córdoba (Ros.) c. Ituzaingó
+ Mercedes c. Deportivo Español
+ L.N. Alem c. Claypole
+ Defensores de Cambaceres c. Muñiz
+ El Porvenir c. J.J. de Urquiza
+Fecha 20
+ Libre: J.J. de Urquiza
+ Muñiz c. El Porvenir
+ Claypole c. Defensores de Cambaceres
+ Deportivo Español c. L.N. Alem
+ Ituzaingó c. Mercedes
+ Berazategui c. Central Córdoba (Ros.)
+ Lugano c. Puerto Nuevo
+Fecha 21
+ Libre: Puerto Nuevo
+ Central Córdoba (Ros.) c. Lugano
+ Mercedes c. Berazategui
+ L.N. Alem c. Ituzaingó
+ Defensores de Cambaceres c. Deportivo Español
+ El Porvenir c. Claypole
+ J.J. de Urquiza c. Muñiz
+Fecha 22
+ Libre: Muñiz
+ Claypole c. J.J. de Urquiza
+ Deportivo Español c. El Porvenir
+ Ituzaingó c. Defensores de Cambaceres
+ Berazategui c. L.N. Alem
+ Lugano c. Mercedes
+ Puerto Nuevo c. Central Córdoba (Ros.)
+Fecha 23
+ Libre: Central Córdoba (Ros.)
+ Mercedes c. Puerto Nuevo
+ L.N. Alem c. Lugano
+ Defensores de Cambaceres c. Berazategui
+ El Porvenir c. Ituzaingó
+ J.J. de Urquiza c. Deportivo Español
+ Muñiz c. Claypole
+Fecha 24
+ Libre: Claypole
+ Deportivo Español c. Muñiz
+ Ituzaingó c. J.J. de Urquiza
+ Berazategui c. El Porvenir
+ Lugano c. Defensores de Cambaceres
+ Puerto Nuevo c. L.N. Alem
+ Central Córdoba (Ros.) c. Mercedes
+Fecha 25
+ Libre: Mercedes
+ L.N. Alem c. Central Córdoba (Ros.)
+ Defensores de Cambaceres c. Puerto Nuevo
+ El Porvenir c. Lugano
+ J.J. de Urquiza c. Berazategui
+ Muñiz c. Ituzaingó
+ Claypole c. Deportivo Español
+Fecha 26
+ Libre: Deportivo Español
+ Ituzaingó c. Claypole
+ Berazategui c. Muñiz
+ Lugano c. J.J. de Urquiza
+ Puerto Nuevo c. El Porvenir
+ Central Córdoba (Ros.) c. Defensores de Cambaceres
+ Mercedes c. L.N. Alem
+ZONA B 
+Fecha 1 - 08/03/2025
+ Atlas c. Dep. Paraguayo
+ Cañuelas F.C. c. Luján
+ V. Arenas c. Argentino (Ros.)
+ Ctral. Ballester c. Camioneros
+ Sp. Barracas c. Yupanqui
+ Estrella del Sur c. J. Unida
+ Gral. Lamadrid c. Rec. Español
+Fecha 2 - 15/03/2025
+ Dep. Paraguayo c. Rec. Español
+ J. Unida c. Gral. Lamadrid
+ Yupanqui c. Estrella del Sur
+ Camioneros c. Sp. Barracas
+ Argentino (Ros.) c. Ctral. Ballester
+ Luján c. V. Arenas
+ Atlas c. Cañuelas F.C.
+Fecha 3 - 22/03/2025
+ Cañuelas F.C. c. Dep. Paraguayo
+ V. Arenas c. Atlas
+ Ctral. Ballester c. Luján
+ Sp. Barracas c. Argentino (Ros.)
+ Estrella del Sur c. Camioneros
+ Gral. Lamadrid c. Yupanqui
+ Rec. Español c. J. Unida
+Fecha 4 - 29/03/2025
+ Dep. Paraguayo c. J. Unida
+ Yupanqui c. Rec. Español
+ Camioneros c. Gral. Lamadrid
+ Argentino (Ros.) c. Estrella del Sur
+ Luján c. Sp. Barracas
+ Atlas c. Ctral. Ballester
+ Cañuelas F.C. c. V. Arenas
+Fecha 5 - 05/04/2025
+ V. Arenas c. Dep. Paraguayo
+ Ctral. Ballester c. Cañuelas F.C.
+ Sp. Barracas c. Atlas
+ Estrella del Sur c. Luján
+ Gral. Lamadrid c. Argentino (Ros.)
+ Rec. Español c. Camioneros
+ J. Unida c. Yupanqui
+Fecha 6 - 12/04/2025
+ Dep. Paraguayo c. Yupanqui
+ Camioneros c. J. Unida
+ Argentino (Ros.) c. Rec. Español
+ Luján c. Gral. Lamadrid
+ Atlas c. Estrella del Sur
+ Cañuelas F.C. c. Sp. Barracas
+ V. Arenas c. Ctral. Ballester
+Fecha 7 - 19/04/2025
+ Ctral. Ballester c. Dep. Paraguayo
+ Sp. Barracas c. V. Arenas
+ Estrella del Sur c. Cañuelas F.C.
+ Gral. Lamadrid c. Atlas
+ Rec. Español c. Luján
+ J. Unida c. Argentino (Ros.)
+ Yupanqui c. Camioneros
+Fecha 8 - 26/04/2025
+ Dep. Paraguayo c. Camioneros
+ Argentino (Ros.) c. Yupanqui
+ Luján c. J. Unida
+ Atlas c. Rec. Español
+ Cañuelas F.C. c. Gral. Lamadrid
+ V. Arenas c. Estrella del Sur
+ Ctral. Ballester c. Sp. Barracas
+Fecha 9 - 03/05/2025
+ Sp. Barracas c. Dep. Paraguayo
+ Estrella del Sur c. Ctral. Ballester
+ Gral. Lamadrid c. V. Arenas
+ Rec. Español c. Cañuelas F.C.
+ J. Unida c. Atlas
+ Yupanqui c. Luján
+ Camioneros c. Argentino (Ros.)
+Fecha 10 - 10/05/2025
+ Dep. Paraguayo c. Argentino (Ros.)
+ Luján c. Camioneros
+ Atlas c. Yupanqui
+ Cañuelas F.C. c. J. Unida
+ V. Arenas c. Rec. Español
+ Ctral. Ballester c. Gral. Lamadrid
+ Sp. Barracas c. Estrella del Sur
+Fecha 11 - 17/05/2025
+ Estrella del Sur c. Dep. Paraguayo
+ Gral. Lamadrid c. Sp. Barracas
+ Rec. Español c. Ctral. Ballester
+ J. Unida c. V. Arenas
+ Yupanqui c. Cañuelas F.C.
+ Camioneros c. Atlas
+ Argentino (Ros.) c. Luján
+Fecha 12 - 24/05/2025
+ Dep. Paraguayo c. Luján
+ Atlas c. Argentino (Ros.)
+ Cañuelas F.C. c. Camioneros
+ V. Arenas c. Yupanqui
+ Ctral. Ballester c. J. Unida
+ Sp. Barracas c. Rec. Español
+ Estrella del Sur c. Gral. Lamadrid
+Fecha 13 - 31/05/2025
+ Gral. Lamadrid c. Dep. Paraguayo
+ Rec. Español c. Estrella del Sur
+ J. Unida c. Sp. Barracas
+ Yupanqui c. Ctral. Ballester
+ Camioneros c. V. Arenas
+ Argentino (Ros.) c. Cañuelas F.C.
+ Luján c. Atlas
+Fecha 14
+ Dep. Paraguayo c. Atlas
+ Luján c. Cañuelas F.C.
+ Argentino (Ros.) c. V. Arenas
+ Camioneros c. Ctral. Ballester
+ Yupanqui c. Sp. Barracas
+ J. Unida c. Estrella del Sur
+ Rec. Español c. Gral. Lamadrid
+Fecha 15
+ Rec. Español c. Dep. Paraguayo
+ Gral. Lamadrid c. J. Unida
+ Estrella del Sur c. Yupanqui
+ Sp. Barracas c. Camioneros
+ Ctral. Ballester c. Argentino (Ros.)
+ V. Arenas c. Luján
+ Cañuelas F.C. c. Atlas
+Fecha 16
+ Dep. Paraguayo c. Cañuelas F.C.
+ Atlas c. V. Arenas
+ Luján c. Ctral. Ballester
+ Argentino (Ros.) c. Sp. Barracas
+ Camioneros c. Estrella del Sur
+ Yupanqui c. Gral. Lamadrid
+ J. Unida c. Rec. Español
+Fecha 17
+ J. Unida c. Dep. Paraguayo
+ Rec. Español c. Yupanqui
+ Gral. Lamadrid c. Camioneros
+ Estrella del Sur c. Argentino (Ros.)
+ Sp. Barracas c. Luján
+ Ctral. Ballester c. Atlas
+ V. Arenas c. Cañuelas F.C.
+Fecha 18
+ Dep. Paraguayo c. V. Arenas
+ Cañuelas F.C. c. Ctral. Ballester
+ Atlas c. Sp. Barracas
+ Luján c. Estrella del Sur
+ Argentino (Ros.) c. Gral. Lamadrid
+ Camioneros c. Rec. Español
+ Yupanqui c. J. Unida
+Fecha 19
+ Yupanqui c. Dep. Paraguayo
+ J. Unida c. Camioneros
+ Rec. Español c. Argentino (Ros.)
+ Gral. Lamadrid c. Luján
+ Estrella del Sur c. Atlas
+ Sp. Barracas c. Cañuelas F.C.
+ Ctral. Ballester c. V. Arenas
+Fecha 20
+ Dep. Paraguayo c. Ctral. Ballester
+ V. Arenas c. Sp. Barracas
+ Cañuelas F.C. c. Estrella del Sur
+ Atlas c. Gral. Lamadrid
+ Luján c. Rec. Español
+ Argentino (Ros.) c. J. Unida
+ Camioneros c. Yupanqui
+Fecha 21
+ Camioneros c. Dep. Paraguayo
+ Yupanqui c. Argentino (Ros.)
+ J. Unida c. Luján
+ Rec. Español c. Atlas
+ Gral. Lamadrid c. Cañuelas F.C.
+ Estrella del Sur c. V. Arenas
+ Sp. Barracas c. Ctral. Ballester
+Fecha 22
+ Dep. Paraguayo c. Sp. Barracas
+ Ctral. Ballester c. Estrella del Sur
+ V. Arenas c. Gral. Lamadrid
+ Cañuelas F.C. c. Rec. Español
+ Atlas c. J. Unida
+ Luján c. Yupanqui
+ Argentino (Ros.) c. Camioneros
+Fecha 23
+ Argentino (Ros.) c. Dep. Paraguayo
+ Camioneros c. Luján
+ Yupanqui c. Atlas
+ J. Unida c. Cañuelas F.C.
+ Rec. Español c. V. Arenas
+ Gral. Lamadrid c. Ctral. Ballester
+ Estrella del Sur c. Sp. Barracas
+Fecha 24
+ Dep. Paraguayo c. Estrella del Sur
+ Sp. Barracas c. Gral. Lamadrid
+ Ctral. Ballester c. Rec. Español
+ V. Arenas c. J. Unida
+ Cañuelas F.C. c. Yupanqui
+ Atlas c. Camioneros
+ Luján c. Argentino (Ros.)
+Fecha 25
+ Luján c. Dep. Paraguayo
+ Argentino (Ros.) c. Atlas
+ Camioneros c. Cañuelas F.C.
+ Yupanqui c. V. Arenas
+ J. Unida c. Ctral. Ballester
+ Rec. Español c. Sp. Barracas
+ Gral. Lamadrid c. Estrella del Sur
+Fecha 26
+ Dep. Paraguayo c. Gral. Lamadrid
+ Estrella del Sur c. Rec. Español
+ Sp. Barracas c. J. Unida
+ Ctral. Ballester c. Yupanqui
+ V. Arenas c. Camioneros
+ Cañuelas F.C. c. Argentino (Ros.)
+ Atlas c. Luján
 Copa Argentina
 CRUCES DE LA COPA ARGENTINA 2025
 32AVOS. DE FINAL
