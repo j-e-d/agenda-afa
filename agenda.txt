@@ -1805,6 +1805,177 @@ Encuentros a disputarse del 02 al 09/04:
 Torneo Federal A
 Torneo Femenino de Primera División 2024
 ​​​​
+Torneo Apertura
+Fecha 1 - 02/02/2025
+ Libre: Banfield
+ Gimnasia (LP) - Racing
+ Huracán - Ferro
+ Boca - Newell's
+ Belgrano - Talleres
+ Rosario Central - River
+ Vélez - San Lorenzo
+ Independiente - S.A.T.
+ Platense - San Luis
+Fecha 2 - 09/02/2025
+ Libre: Platense
+ San Luis - Independiente
+ S.A.T. - Vélez
+ San Lorenzo - Rosario Central
+ River - Belgrano
+ Talleres - Boca
+ Newell's - Huracán
+ Ferro - Gimnasia (LP)
+ Racing - Banfield
+Fecha 3 - 16/02/2025
+ Libre: Racing
+ Banfield - Ferro
+ Gimnasia (LP) - Newell's
+ Huracán - Talleres
+ Boca - River
+ Belgrano - San Lorenzo
+ Rosario Central - S.A.T.
+ Vélez - San Luis
+ Independiente - Platense
+Fecha 4 - 02/03/2025
+ Libre: Independiente
+ Platense - Vélez
+ San Luis - Rosario Central
+ S.A.T. - Belgrano
+ San Lorenzo - Boca
+ River - Huracán
+ Talleres - Gimnasia (LP)
+ Newell's - Banfield
+ Ferro - Racing
+Fecha 5 - 09/03/2025
+ Libre: Ferro
+ Racing - Newell's
+ Banfield - Talleres
+ Gimnasia (LP) - River
+ Huracán - San Lorenzo
+ Boca - S.A.T.
+ Belgrano - San Luis
+ Rosario Central - Platense
+ Vélez - Independiente
+Fecha 6 - 16/03/2025
+ Libre: Vélez
+ Independiente - Rosario Central
+ Platense - Belgrano
+ San Luis - Boca
+ S.A.T. - Huracán
+ San Lorenzo - Gimnasia (LP)
+ River - Banfield
+ Talleres - Racing
+ Newell's - Ferro
+Fecha 7 - Miércoles 19/03/2025
+ Libre: Newell's
+ Ferro - Talleres
+ Racing - River
+ Banfield - San Lorenzo
+ Gimnasia (LP) - S.A.T.
+ Huracán - San Luis
+ Boca - Platense
+ Belgrano - Independiente
+ Rosario Central - Vélez
+Fecha 8 - 23/03/2025
+ Libre: Rosario Central
+ Vélez - Belgrano
+ Independiente - Boca
+ Platense - Huracán
+ San Luis - Gimnasia (LP)
+ S.A.T. - Banfield
+ San Lorenzo - Racing
+ River - Ferro
+ Talleres - Newell's
+Fecha 9 - 30/03/2025
+ Libre: Talleres
+ Newell's - River
+ Ferro - San Lorenzo
+ Racing - S.A.T.
+ Banfield - San Luis
+ Gimnasia (LP) - Platense
+ Huracán - Independiente
+ Boca - Vélez
+ Belgrano - Rosario Central
+Fecha 10 - 13/04/2025
+ Libre: Belgrano
+ Rosario Central - Boca
+ Vélez - Huracán
+ Independiente - Gimnasia (LP)
+ Platense - Banfield
+ San Luis - Racing
+ S.A.T. - Ferro
+ San Lorenzo - Newell's
+ River - Talleres
+Fecha 11 - 20/04/2025
+ Libre: River
+ Talleres - San Lorenzo
+ Newell's - S.A.T.
+ Ferro - San Luis
+ Racing - Platense
+ Banfield - Independiente
+ Gimnasia (LP) - Vélez
+ Huracán - Rosario Central
+ Boca - Belgrano
+Fecha 12 - 27/04/2025
+ Libre: Boca
+ Belgrano - Huracán
+ Rosario Central - Gimnasia (LP)
+ Vélez - Banfield
+ Independiente - Racing
+ Platense - Ferro
+ San Luis - Newell's
+ S.A.T. - Talleres
+ San Lorenzo - River
+Fecha 13 - 04/05/2025
+ Libre: San Lorenzo
+ River - S.A.T.
+ Talleres - San Luis
+ Newell's - Platense
+ Ferro - Independiente
+ Racing - Vélez
+ Banfield - Rosario Central
+ Gimnasia (LP) - Belgrano
+ Huracán - Boca
+Fecha 14 - 07/05/2025
+ Libre: Huracán
+ Boca - Gimnasia (LP)
+ Belgrano - Banfield
+ Rosario Central - Racing
+ Vélez - Ferro
+ Independiente - Newell's
+ Platense - Talleres
+ San Luis - River
+ S.A.T. - San Lorenzo
+Fecha 15 - 11/05/2025
+ Libre: S.A.T.
+ San Lorenzo - San Luis
+ River - Platense
+ Talleres - Independiente
+ Newell's - Vélez
+ Ferro - Rosario Central
+ Racing - Belgrano
+ Banfield - Boca
+ Gimnasia (LP) - Huracán
+Fecha 16 - 18/05/2025
+ Libre: Gimnasia (LP)
+ Huracán - Banfield
+ Boca - Racing
+ Belgrano - Ferro
+ Rosario Central - Newell's
+ Vélez - Talleres
+ Independiente - River
+ Platense - San Lorenzo
+ San Luis - S.A.T.
+Fecha 17 - 25/05/2025
+ Libre: San Luis
+ S.A.T. - Platense
+ San Lorenzo - Independiente
+ River - Vélez
+ Talleres - Rosario Central
+ Newell's - Belgrano
+ Ferro - Boca
+ Racing - Huracán
+ Banfield - Gimnasia (LP)
 Torneo Femenino de Primera B
 Conmebol Recopa Sudamericana 2025
 Será la trigésima tercera edición del torneo organizado por la Confederación Sudamericana de Fútbol, que enfrentará a Botafogo de Brasil, campeón de la Copa Libertadores 2024, ante Racing Club de Argentina, campeón de la Copa Sudamericana 2024. Se jugará a partidos de ida y vuelta.
