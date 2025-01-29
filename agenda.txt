@@ -1732,8 +1732,9 @@ Fecha 1
  17.00 Gimnasia (LP) - Racing, en Estancia Chica
  17.00 Boca - Newell's, en Casa Amarilla
  Domingo 2 de febrero
- 09.00 Huracán - Ferro, en La Quemita
  09.00 Rosario Central - River, en Estadio Gigante de Arroyito
+Martes 4 de febrero
+17.00 Huracán - Ferro, en La Quemita 
  Miércoles 5 de febrero
  20.00 Belgrano - Talleres, en Estadio Julio César Villagra (TV) #+
 Fecha 2 - 09/02/2025
