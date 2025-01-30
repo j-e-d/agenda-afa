@@ -1,37 +1,8 @@
 25/03/2019
 Torneo Apertura 2025
 Fecha 2 (29/01/2025)
-Miércoles 29 de enero
-19.15 Huracán – Estudiantes (Zona A)
- Árbitro: Fernando Echenique
- Asistente 1: Diego Bonfá
- Asistente 2: Ariel Scime
- Cuarto árbitro: Adrián Núñez Rodríguez
- VAR: Germán Delfino
- AVAR: Salomé Di Iorio
-19.15 Unión – Boca (Zona A)
- Árbitro: Pablo Echavarría
- Asistente 1: Sebastián Raineri
- Asistente 2: José Castelli
- Cuarto árbitro: Bryan Ferreyra
- VAR: Silvio Trucco
- AVAR: Lucas Caballero
- 21.30 River – Instituto (Zona B)
- Árbitro: Yael Falcón Pérez
- Asistente 1: Miguel Savorani
- Asistente 2: Pablo Gualtieri
- Cuarto árbitro: Gabriel Gutiérrez
- VAR: Juan Pafundi
- AVAR: Diego Verlota
 Jueves 30 de enero
-17.00 Aldosivi – Defensa y Justicia (Zona A)
- Árbitro: Fernando Espinoza
- Asistente 1: Marcelo Bistocco
- Asistente 2: Mauro Ramos Errasti
- Cuarto árbitro: Luis Martínez
- VAR: Fabrizio Llobet
- AVAR: Gastón Suárez
- 19.15 Racing – Belgrano (Zona A)
+19.15 Racing – Belgrano (Zona A)
  Árbitro: Sebastián Zunino
  Asistente 1: Maximiliano Del Yesso
  Asistente 2: Juan Manuel González
@@ -185,7 +156,7 @@ Domingo 9 de febrero
 Fecha 5 (12/02/2025)
 Martes 11 de febrero
 17.00 Barracas Central – Central Córdoba (Zona A)
-17.00 Tigre – Racing (Zona A)
+19.15 Tigre – Racing (Zona A)
 19.15 Boca – Independiente Rivadavia (Zona A)
 21.30 Belgrano – Aldosivi (Zona A)
 21.30 Estudiantes – Banfield (Zona A)
