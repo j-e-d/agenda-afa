@@ -643,26 +643,107 @@ Miércoles 12 de marzo
 Primera Nacional
 Primera rueda
 Fecha 1
- Zona A
- Los Andes - Patronato
- Ferro Carril Oeste - Güemes (SdE)
- Almagro - San Martín (T)
- San Miguel - Tristán Suárez
- Quilmes - Gimnasia y Tiro (S)
- Racing (C) - Deportivo Maipú
- Atlanta - Deportivo Madryn
- Colegiales - Alvarado
- Arsenal - All Boys
- Zona B
- Nueva Chicago - San Telmo
- Agropecuario - Chacarita Juniors
- Gimnasia y Esgrima (J) - Defensores de Belgrano
- Gimnasia y Esgrima (M) - Estudiantes (RC)
- Central Norte (S) - Talleres (RdE)
- Almirante Brown - Deportivo Morón
- Chaco For Ever - Estudiantes (BA)
- Mitre (SdE) - Defensores Unidos
- Colón - Temperley
+Zona “A”
+Viernes 7 de febrero
+ Arsenal F.C. - All Boys, a las 17.00 horas (TV)
+ Árbitro: Felipe Viola
+ Asistente 1: Erik Grunman
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: Manuel Girett
+Sábado 8 de febrero
+San Miguel - Tristán Suárez, a las 17.00 horas (TV)
+ Árbitro: Daniel Zamora
+ Asistente 1: Juan Manuel González
+ Asistente 2: Mario Bardina
+ Cuarto árbitro: Maximiliano López Monti
+Quilmes A.C. - G. y Tiro (Salta), a las 17.00 horas (TV)
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Julio Fernández
+ Asistente 2: Gerardo Lencina
+ Cuarto árbitro: Enzo Silvestre
+Los Andes - Patronato (Paraná), a las 17.00 horas
+ Árbitro: Julián Jeréz
+ Asistente 1: Ariel Scime
+ Asistente 2: Nahuel Santanocito
+ Cuarto árbitro: Jonathan Barrios
+Almagro - San Martín (Tuc.), a las 17.00 horas
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Mauro Ramos Errasti
+ Asistente 2: Guillermo Yacante
+ Cuarto árbitro: José Díaz
+Colegiales - Alvarado (M.D.P.), a las 17.00 horas
+ Árbitro: Julio Barraza
+ Asistente 1: Mariano Rossetti
+ Asistente 2: Damián Olivetto
+ Cuarto árbitro: Gonzalo Correa
+Domingo 9 de febrero
+Ferro Carril Oeste - Güemes (S.E.), a las 21.30 horas (TV)
+ Árbitro: Pablo Giménez
+ Asistente 1: Mariano Rúas
+ Asistente 2: Marcelo Errante
+ Cuarto árbitro: Kevin Alegre
+Racing (Cba.) - Dep. Maipú (Mza.), a las 19.00 horas 
+ Árbitro: Joaquín Gil
+ Asistente 1: Matías Coria
+ Asistente 2: Martín Grasso
+ Cuarto árbitro: Maximiliano Manduca
+Lunes 10 de febrero
+ Atlanta - Dep. Madryn (P.M.), a las 19.00 horas
+ Árbitro: Javier Delbarba
+ Asistente 1: Federico Pomi
+ Asistente 2: Damián Orellana
+ Cuarto árbitro: Germán Bermúdez
+Zona “B”
+Jueves 6 de febrero
+ Colón - Temperley, a las 21.10 horas (TV)
+ Árbitro: Ariel Penel
+ Asistente 1: Ernesto Callegari
+ Asistente 2: Uriel García Leri
+ Cuarto árbitro: Américo Monsalvo
+Viernes 7 de febrero
+ Nueva Chicago - San Telmo, a las 19.00 horas (TV)
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Lucas Ripoli
+ Asistente 2: Juan Ricciardi
+ Cuarto árbitro: Julián Beligoy
+Chaco For Ever - Estudiantes, a las 21.30 horas
+ Árbitro: Álvaro Carranza
+ Asistente 1: Mariano Ascenzi
+ Asistente 2: Martín Saccone
+ Cuarto árbitro: César Ceballo
+Sábado 8 de febrero
+ G. y Esgrima (Mza.) - Estudiantes (Río IV), a las 20.30 horas
+ Árbitro: Lucas Cavallero
+ Asistente 1: Javier Mihura
+ Asistente 2: Daniel Zamora
+ Cuarto árbitro: Julián Silcan Jerez
+Domingo 9 de febrero
+ Alte. Brown - Dep. Morón, a las 19.15 horas (TV)
+ Árbitro: Juan Pafundi
+ Asistente 1: Adrián Delbarba
+ Asistente 2: Federico García
+ Cuarto árbitro: Damián Rubino
+ G. y Esgrima (Jujuy) - Def. de Belgrano, a las 17.00 horas
+ Árbitro: Bruno Amiconi
+ Asistente 1: Manuel Sánchez
+ Asistente 2: Guido Córdoba
+ Cuarto árbitro: Federico Guaymas
+ Ctral. Norte (Salta) - Talleres (R.E.), a las 17.00 horas en estadio Padre E. Martearena
+ Árbitro: Adrián Franklin
+ Asistente 1: Mariano Viale
+ Asistente 2: Matías Balmaceda
+ Cuarto árbitro: Guillermo González
+Mitre (S.E.) - Def. Unidos, a las 17.00 horas
+ Árbitro: Gastón Monsón Brizuela
+ Asistente 1: Hernán Vallejos
+ Asistente 2: Mariana Dure
+ Cuarto árbitro: Nelson Bejas
+Lunes 10 de febrero
+ Agropecuario Arg. - Chacarita Juniors, a las 21.30 horas
+ Árbitro: Bryan Ferreyra
+ Asistente 1: Diego Martín
+ Asistente 2: Joaquín Badano
+ Cuarto árbitro: Diego Novelli
 Fecha 2
  Zona A
  Arsenal - Los Andes
@@ -1002,57 +1083,60 @@ Fecha 17
 Primera B
 Torneo Apertura 2025
  FECHA 1
- LIBRE BROWN (ADROGUÉ)
-Argentino de Merlo - Acassuso
+ Libre Brown (Adrogué)
+Viernes 7 de febrero
+ Arg. de Merlo - Acassuso, a las 20.00 horas
  Árbitro: Sebastián Bresba
  Asistente 1: Ángel Rebuscini
  Asistente 2: Lucas Monsalvo
  Cuarto árbitro: Tomás Aybar
- Deportivo Armenio - Deportivo Merlo
- Árbitro: Guido Mascheroni
- Asistente 1: Martín Alonso
- Asistente 2: Emiliano Fernández
- Cuarto árbitro: David Cornejo
- Laferrere - Real Pilar
- Árbitro: Marcos Recalde
- Asistente 1: Federico Zuvilivia
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Alejandro Porticella
- Flandria - Sp. Italiano
- Árbitro: Wenceslao Meneses
- Asistente 1: Cristian Amarilla
- Asistente 2: Juan Manuel Díaz
- Cuarto árbitro: Rodrigo Villalba
- San Martín (B) - Sacachispas
+Sábado 8 de febrero
+San Martín (B.) - Sacachispas F.C., a las 19.10 horas (TV)
  Árbitro: Gabriel Gutiérrez
  Asistente 1: Maximiliano Benzoni
  Asistente 2: Lucas Vázquez
  Cuarto árbitro: Martín Depósito
- Argentino de Quilmes - Excursionistas
- Árbitro: Nicolás Mastroieni
- Asistente 1: Hugo Hartung
- Asistente 2: Juan Cingolani
- Cuarto árbitro: Agustín Flores
- Comunicaciones - Dock Sud
+Flandria - Sp. Italiano, a las 17.00 horas
+Árbitro: Wenceslao Meneses
+ Asistente 1: Cristian Amarilla
+ Asistente 2: Juan Manuel Díaz
+ Cuarto árbitro: Rodrigo Villalba
+Dep. Laferrere - Real Pilar F.C., a las 17.00 horas
+ Árbitro: Marcos Recalde
+ Asistente 1: Federico Zuvilivia
+ Asistente 2: Maximiliano Montenegro
+ Cuarto árbitro: Alejandro Porticella
+Dep. Armenio - Dep. Merlo, a las 17.00 horas
+ Árbitro: Guido Mascheroni
+ Asistente 1: Martín Alonso
+ Asistente 2: Emiliano Fernández
+ Cuarto árbitro: David Cornejo
+Domingo 9 de febrero
+ Comunicaciones - Sp. Dock Sud, a las 17.00 horas (TV)
  Árbitro: Juan Cruz Robledo
  Asistente 1: Francisco Gugliota
  Asistente 2: Matías Pino
  Cuarto árbitro: Valentín Bocaccia
- Fénix - UAI Urquiza
- Árbitro: Gonzalo Creimermann
- Asistente 1: Nicolás Gruccio
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Gabriel Flores
- Liniers - Villa San Carlos
- Árbitro: Ignacio Cuicchi
- Asistente 1: Sebastían Pumetti
- Asistente 2: Jonathan Ghiso
- Cuarto árbitro: Mateo Bocaccia
- Villa Dálmine - Midland
+ Arg. de Quilmes - Excursionistas, a las 17.00 horas
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Hugo Hartung
+ Asistente 2: Juan Cingolani
+ Cuarto árbitro: Agustín Flores
+ Villa Dálmine - F.C. Midland, a las 17.00 horas
  Árbitro: Adrián Núñez
  Asistente 1: Cecilio Calcagno
  Asistente 2: Enrique Lanz
  Cuarto árbitro: Lucas Brumer
+ Fénix - UAI Urquiza, a las 17.00 horas en San Miguel (Gral. Las Heras)
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Nicolás Gruccio
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Gabriel Flores
+Liniers - Villa San Carlos, a las 17.00 horas
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Sebastían Pumetti
+ Asistente 2: Jonathan Ghiso
+ Cuarto árbitro: Mateo Bocaccia
  FECHA 2
  LIBRE SAN MARTÍN (BURZACO)
  SACACHISPAS vs. DEPORTIVO ARMENIO
@@ -1955,6 +2039,14 @@ Fecha 17 - 25/05/2025
 Torneo Femenino de Primera B
 Conmebol Recopa Sudamericana 2025
 Será la trigésima tercera edición del torneo organizado por la Confederación Sudamericana de Fútbol, que enfrentará a Botafogo de Brasil, campeón de la Copa Libertadores 2024, ante Racing Club de Argentina, campeón de la Copa Sudamericana 2024. Se jugará a partidos de ida y vuelta.
+CONMEBOL Libertadores Sub 20 2025
+El torneo se llevará a cabo desde el 1 y 16 de marzo en Paraguay.
+ Grupo A: Flamengo (Brasil), O'Higgins (Chile), Danubio (Uruguay), Olimpia (Paraguay).
+ Grupo B: Belgrano (Argentina), Metropolitanos (Venezuela), Fortaleza (Colombia), Universitario (Perú)
+ Grupo C: Palmeiras (Brasil), Independiente del Valle (Ecuador), Cerro Porteño (Paraguay), Blooming (Bolivia).
+ La CONMEBOL Libertadores Sub20 2025 se disputará en 2 fases, Fase Preliminar (Fase de Grupos) y Fase Final (disputa de las Semifinales, 3° Puesto, y Final). Todas las fases se jugarán a una sola rueda de partidos.
+ La Fase Preliminar la disputan los 12 equipos clasificados, distribuidos en 3 grupos de 4 equipos cada uno. La conformación de los 3 grupos corresponderá al resultado del sorteo organizado por la CONMEBOL.
+ Clasificarán para las Semifinales, los equipos que ocupen la primera posición en cada grupo, más el mejor segundo colocado, teniendo en cuenta los 3 grupos (1A, 1B, 1C, y el mejor 2° colocado).
 CONMEBOL Libertadores 2025
 A partir de la semana del 5 de febrero, comenzarán los enfrentamientos entre los 6 equipos clasificados para la Fase 1 con partidos a ida y vuelta.
  Fase 1
