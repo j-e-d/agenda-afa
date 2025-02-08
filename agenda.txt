@@ -696,32 +696,6 @@ Primera Nacional
 Primera rueda
 Fecha 1
 Zona “A”
-Sábado 8 de febrero
-San Miguel - Tristán Suárez, a las 17.00 horas (TV)
- Árbitro: Daniel Zamora
- Asistente 1: Juan Manuel González
- Asistente 2: Mario Bardina
- Cuarto árbitro: Maximiliano López Monti
-Quilmes A.C. - G. y Tiro (Salta), a las 17.00 horas (TV)
- Árbitro: Fabrizio Llobet
- Asistente 1: Julio Fernández
- Asistente 2: Gerardo Lencina
- Cuarto árbitro: Enzo Silvestre
-Los Andes - Patronato (Paraná), a las 17.00 horas
- Árbitro: Julián Jeréz
- Asistente 1: Ariel Scime
- Asistente 2: Nahuel Santanocito
- Cuarto árbitro: Jonathan Barrios
-Almagro - San Martín (Tuc.), a las 17.00 horas
- Árbitro: Maximiliano Macheroni
- Asistente 1: Mauro Ramos Errasti
- Asistente 2: Guillermo Yacante
- Cuarto árbitro: José Díaz
-Colegiales - Alvarado (M.D.P.), a las 17.00 horas
- Árbitro: Julio Barraza
- Asistente 1: Mariano Rossetti
- Asistente 2: Damián Olivetto
- Cuarto árbitro: Gonzalo Correa
 Domingo 9 de febrero
 Ferro Carril Oeste - Güemes (S.E.), a las 21.30 horas (TV)
  Árbitro: Pablo Giménez
@@ -740,12 +714,6 @@ Lunes 10 de febrero
  Asistente 2: Damián Orellana
  Cuarto árbitro: Germán Bermúdez
 Zona “B”
-Viernes 7 de febrero
-Chaco For Ever - Estudiantes, a las 21.30 horas
- Árbitro: Álvaro Carranza
- Asistente 1: Mariano Ascenzi
- Asistente 2: Martín Saccone
- Cuarto árbitro: César Ceballo
 Sábado 8 de febrero
  G. y Esgrima (Mza.) - Estudiantes (Río IV), a las 20.30 horas
  Árbitro: Lucas Cavallero
@@ -1125,21 +1093,6 @@ San Martín (B.) - Sacachispas F.C., a las 19.10 horas (TV)
  Asistente 1: Maximiliano Benzoni
  Asistente 2: Lucas Vázquez
  Cuarto árbitro: Martín Depósito
-Flandria - Sp. Italiano, a las 17.00 horas
-Árbitro: Wenceslao Meneses
- Asistente 1: Cristian Amarilla
- Asistente 2: Juan Manuel Díaz
- Cuarto árbitro: Rodrigo Villalba
-Dep. Laferrere - Real Pilar F.C., a las 17.00 horas
- Árbitro: Marcos Recalde
- Asistente 1: Federico Zuvilivia
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Alejandro Porticella
-Dep. Armenio - Dep. Merlo, a las 17.00 horas
- Árbitro: Guido Mascheroni
- Asistente 1: Martín Alonso
- Asistente 2: Emiliano Fernández
- Cuarto árbitro: David Cornejo
 Domingo 9 de febrero
  Comunicaciones - Sp. Dock Sud, a las 17.00 horas (TV)
  Árbitro: Juan Cruz Robledo
@@ -1908,12 +1861,7 @@ Torneo Femenino de Primera División 2025
 Primer Torneo
 Fecha 2 - 09/02/2025
  Libre: Platense
-Sábado 8 de febrero
- 09.00 River - Belgrano, en River Camp (TV)
- 17.00 S.A.T. - Vélez, en Estadio 12 de agosto
- 17.00 Newell's - Huracán, en Predio Jorge Griffa
- 18.00 San Luis - Independiente, en Estadio J.B. Funes
- Domingo 9 de febrero
+Domingo 9 de febrero
  09.00 San Lorenzo - Rosario Central, en Ciudad Deportiva (TV)
  Lunes 10 de febrero
  09.00 Ferro - Gimnasia (LP), en Predio Pontevedra
