@@ -109,26 +109,31 @@ Jueves 13 de febrero
  Cuarto árbitro: Manuel Girett
  VAR: Álvaro Carranza
  AVAR: Javier Mihura
-Fecha 6 (16/02/2025)
-Viernes 14 de febrero
-20.00 Banfield – Boca (Zona A)
-Sábado 15 de febrero
-17.00 Aldosivi – Estudiantes (Zona A)
-17.00 Defensa y Justicia – Barracas Central (Zona A)
-19.15 Central Córdoba – Belgrano (Zona A)
-19.15 Independiente Rivadavia – Tigre (Zona A)
-21.30 Racing – Argentinos (Zona A)
-Domingo 16 de febrero
-17.00 Newell’s – Rosario Central (interzonal)
-19.15 River – Lanús (Zona B)
-21.30 Huracán – Unión (Zona A)
-21.30 Talleres – Atlético Tucumán (Zona B)
-Lunes 17 de febrero
-17.00 Sarmiento – Deportivo Riestra (Zona B)
-17.00 Gimnasia – San Martín (SJ) (Zona B)
-19.15 Platense – Independiente (Zona B)
-21.30 Vélez – Godoy Cruz (Zona B)
-21.30 Instituto – San Lorenzo (Zona B)
+6ª. Fecha
+Zona “A”
+Viernes 14-02
+ Banfield - Boca Juniors, a las 20.00 horas
+Sábado 15-02
+ Def. y Justicia - Barracas Central, a las 17.00 horas
+ Aldosivi (M.D.P.) - Estudiantes de L.P., a las 17.00 horas en estadio José M. Minella
+ Independiente Riv. (Mza.) - Tigre, a las 19.15 horas
+ Ctral. Córdoba (S.E.) - Belgrano (Cba.), a las19.15 horas en estadio Madre de Ciudades
+ Racing Club - Argentinos Juniors, a las 21.30 horas
+Domingo 16-02
+ Huracán - Unión, a las 21.30 horas
+Zona “B”
+Domingo 16-02
+ River Plate - Lanús, a las 19.15 horas
+ Talleres (Cba.) - Atl. Tucumán, a las 21.30 horas en estadio Mario A. Kempes
+Lunes 17-02
+ Sarmiento - Dep. Riestra, a las 17.00 horas
+ G. y Esgrima (L.P.) - San Martín (S.J.), a las 17.00 horas
+ Platense - Independiente, a las 19.15 horas
+ Vélez Sarsfield - Godoy Cruz, a las 21.30 horas
+ Instituto A.C.C. - San Lorenzo de A., a las 21.30 horas
+Interzonal
+Domingo 16-02
+ Newell´s Old Boys - Rosario Central, a las 17.00 horas 
 Fecha 7 (23/02/2025)
 Viernes 21 de febrero
 17.00 Deportivo Riestra – Talleres (Zona B)
@@ -635,27 +640,34 @@ Miércoles 12 de marzo
  De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Primera Nacional
 Primera rueda
-Fecha 2
- Zona A
- Arsenal - Los Andes
- All Boys - Colegiales
- Alvarado - Atlanta
- Deportivo Madryn - Racing (C)
- Deportivo Maipú - Quilmes
- Gimnasia y Tiro (S) - San Miguel
- Tristán Suárez - Almagro
- San Martín (T) - Ferro Carril Oeste
- Güemes (SdE) - Patronato
- Zona B
- Colón - Nueva Chicago
- Temperley - Mitre (SdE)
- Defensores Unidos - Chaco For Ever
- Estudiantes (BA) - Almirante Brown
- Deportivo Morón - Central Norte (S)
- Talleres (RdE) - Gimnasia y Esgrima (M)
- Estudiantes (RC) - Gimnasia y Esgrima (J)
- Defensores de Belgrano - Agropecuario
- Chacarita Juniors - San Telmo
+2ª. fecha:
+Zona “A”
+Viernes 14-02
+ Tristán Suárez - Almagro, a las 21.00 horas
+ Güemes (S.E.) - Patronato (Paraná), a las 21.30 horas
+Sábado 15-02
+ Dep. Madryn - Racing (Cba.), a las 19.00 horas
+ All Boys - Colegiales, a las 21.00 horas (TV)
+Domingo 16-02
+ Arsenal F.C. - Los Andes, a las 17.00 horas 
+ G. y Tiro (Salta) - San Miguel, a las 17.00 horas
+ Alvarado (M.D.P.) - Atlanta, a las 17.30 horas en estadio José M. Minella
+ Dep. Maipú (Mza.) - Quilmes A.C., a las 18.00 horas
+Lunes 17-02
+ San Martín (T.) - Ferro Carril Oeste, a las 22.00 horas (TV)
+Zona “B”
+Sábado 15-02
+ Def. Unidos - Chaco For Ever, a las 17.00 horas
+ Talleres (R.E.) - G. y Esgrima (Mza.), a las 17.00 horas
+ Estudiantes - Alte. Brown, a las 19.05 horas (TV)
+Domingo 16-02
+ Temperley - Mitre (S.E.), a las 17.00 horas
+ Dep. Morón - Ctral. Norte (S.), a las 17.00 horas
+ Chacarita Juniors - San Telmo, a las 17.00 horas
+ Estudiantes (Rio IV) - G. y Esgrima (J.), a las 18.00 horas
+Lunes 17-02
+ Def. de Belgrano - Agropecuario Arg., a las 17.00 horas en Comunicaciones (TV)
+ Colón - Nva. Chicago, a las 20.00 horas (TV)
 Fecha 3
  Zona A
  Los Andes - Güemes (SdE)
@@ -973,30 +985,32 @@ Fecha 17
  San Telmo - Agropecuario 
 Primera B
 Torneo Apertura 2025
- FECHA 2
- LIBRE SAN MARTÍN (BURZACO)
- SACACHISPAS vs. DEPORTIVO ARMENIO
- DEPORTIVO MERLO vs. COMUNICACIONES
- DOCK SUD vs. LINIERS
- VILLA SAN CARLOS vs. LAFERRERE
- REAL PILAR vs. FÉNIX
- UAI URQUIZA vs. FLANDRIA
- SPORTIVO ITALIANO vs. VILLA DÁLMINE
- MIDLAND vs. ARGENTINO DE QUILMES
- EXCURSIONISTAS vs. ARGENTINO (MERLO)
- ACASSUSO vs. BROWN (ADROGUÉ)
- FECHA 3
- LIBRE ACASSUSO
- BROWN (ADROGUÉ) vs. EXCURSIONISTAS
- ARGENTINO (MERLO) vs. MIDLAND
- ARGENTINO DE QUILMES vs. SPORTIVO ITALIANO
- VILLA DÁLMINE vs. UAI URQUIZA
- FLANDRIA vs. REAL PILAR
- FÉNIX vs. VILLA SAN CARLOS
- LAFERRERE vs. DOCK SUD
- LINIERS vs. DEPORTIVO MERLO
- COMUNICACIONES vs. SACACHISPAS
- DEPORTIVO ARMENIO vs. SAN MARTÍN (BURZACO)
+2ª. fecha:
+Viernes 14-02
+ Sp. Dock Sud - Liniers, a las 17.00 horas
+ UAI Urquiza - Flandria, a las 17.00 horas
+ Sp. Italiano - Villa Dálmine, a las 20.00 horas
+ F.C. Midland - Arg. de Quilmes, a las 20.00 horas
+Sábado 15-02
+ Sacachispas F.C. - Dep. Armenio, a las 17.00 horas
+ Dep. Merlo - Comunicaciones, a las 17.00 horas
+ Villa San Carlos - Dep. Laferrere, a las 17.00 horas
+ Real Pilar F.C. - Fénix, a las 17.00 horas en estadio Municipal de Pilar
+ Excursionistas - Arg. de Merlo, a las 17.00 horas (TV)
+ Acassuso - Brown (Adrogué), partido postergado.
+3ª. fecha:
+Martes 18-02
+ Arg. de Quilmes - Sp. Italiano, a las 17.00 horas (TV)
+ Villa Dálmine - UAI Urquiza, a las 17.00 horas 
+ Flandria - Real Pilar F.C., a las 17.00 horas
+ Liniers - Dep. Merlo, a las 17.00 horas
+ Dep. Armenio - San Martín (B.), a las 17.00 horas
+ Arg. de Merlo - F.C. Midland, a las 20.30 horas
+ Brown (Adrogué) - Excursionistas, a las 21.05 horas (TV)
+Miércoles 19-02
+ Fénix - Villa San Carlos, a las 17.00 horas en San Miguel (Las Heras)
+ Dep. Laferrere - Sp. Dock Sud, a las 17.00 horas (TV)
+ Comunicaciones - Sacachispas F.C., a las 20.00 horas
  FECHA 4
  LIBRE DEPORTIVO ARMENIO
  SAN MARTÍN (BURZACO) vs. COMUNICACIONES
@@ -1692,23 +1706,20 @@ Torneo Regional Amateur
 Torneo Femenino de Primera División 2025
 ​​​​
 Primer Torneo
-Fecha 2 - 09/02/2025
- Libre: Platense
- Lunes 10 de febrero
- 19.00 Talleres - Boca, en Estadio Francisco Cabasés
 Fecha 3
  Libre: Racing
  Viernes 14 de febrero
- 17.00 Gimnasia (LP) - Newell's (TV)
+ 17.00 Gimnasia (LP) - Newell's (TV), en Estancia Chica
 17.00 Belgrano - San Lorenzo, en predio
 Sábado 15 de febrero
 09.00 Boca - River, en Casa Amarilla (TV)
 17.00 Banfield - Ferro, en Estadio Florencio Solá
  17.00 Vélez - San Luis, en Villa Olímpica
 17.00 Independiente - Platense, en Predio de Villa Domínico
-18.00 Rosario Central - S.A.T., en Estadio Gigante de Arroyito
 Domingo 16 de febrero
 09.00 Huracán - Talleres, en La Quemita
+Lunes 17 de febrero
+ 17.30 Rosario Central - S.A.T., en Granadero Baigorria
 Fecha 4 - 02/03/2025
  Libre: Independiente
  Platense - Vélez
@@ -1879,6 +1890,7 @@ A partir de la semana del 5 de febrero, comenzarán los enfrentamientos entre lo
  Boston River (Uruguay) - Ñublense
  Universidad Central (Venezuela) - Corinthians (Brasil)
 Entre las semanas del 5 y 12 de marzo se disputarán los encuentros de Fase 3, que clasificarán a los 4 ganadores para la Fase de Grupos de la CONMEBOL Libertadores 2025, mientras que los 4 perdedores se clasificarán para la Fase de Grupos de la CONMEBOL Sudamericana 2025.
+ El sorteo de la fase de grupos se llevará a cabo el lunes 17 de marzo a partir de las 20 y contará con los 32 clasificados a cada torneo, posterior a las rondas preliminares.
 La Copa Libertadores 2025 contará con siete representantes argentinos: Vélez Sársfield, Estudiantes de La Plata, Central Córdoba de Santiago del Estero, Racing Club, Talleres de Córdoba, River Plate y Boca Juniors .
 CONMEBOL Sudamericana 2025
 La CONMEBOL Sudamericana 2025 inicia con la definición de los primeros enfrentamientos que tendrá el torneo el próximo año. De los 44 equipos clasificados, 32 equipos comenzarán en la Primera Fase, que será disputada entre equipos del mismo país, en una fase nacional a partido único.
@@ -1900,6 +1912,7 @@ La CONMEBOL Sudamericana 2025 inicia con la definición de los primeros enfrenta
  Cerro Largo (Uruguay) - Danubio (Uruguay)
  A. Puerto Cabello (Venezuela) - Metropolitanos (Venezuela)
  Deportivo La Guaira (Venezuela) - Caracas (Venezuela)
+ El sorteo de la fase de grupos se llevará a cabo el lunes 17 de marzo a partir de las 20 y contará con los 32 clasificados a cada torneo, posterior a las rondas preliminares.
 La Copa Sudamericana 2025 contará con la presencia de seis equipos argentinos: Godoy Cruz, Huracán, Independiente, Unión, Lanús y Defensa y Justicia.
 Eliminatorias Sudamericanas
 Fecha 13
@@ -2019,15 +2032,6 @@ Clasificación Mundial Femenina FIFA/Coca-Cola
  previa al sorteo del torneo. Las dos primeras accederán a la segunda fase del torneo clasificatorio intercontinental, que se disputará en febrero de 2027 en una única sede y a la que se sumarán dos representantes de la Concacaf, uno de la CONMEBOL y otro de la UEFA. Las seis selecciones se encuadrarán en tres cruces diferentes, consistentes en sendos partidos de eliminación directa que decidirán los tres equipos clasificados para la Copa Mundial Femenina de la FIFA 2027™. Las selecciones representantes de la misma confederación no podrán quedar encuadradas en un mismo cruce.
 Conmebol Sub 20 2025
 Hexagonal Final
-Lunes 10 de febrero
-19.30 Argentina - Colombia, en el estadio Brigido Iriarte (Caracas)
-Árbitro: Andrea Colombo (Italia)
-Asistente 1: Giovanni Baccini (Italia)
-Asistente 2: Davide Imperiale (Italia)
-Cuarto árbitro: Michael Espinoza (Perú)
-Quinto árbitro: Coty Carrera (Perú)
-Var: Alex Cajas (Ecuador)
-AVAR: Edison Vasquez (Ecuador)
 Jueves 13 de febrero
 22.00 Argentina – Brasil, en el estadio Brigido Iriarte (Caracas)
 Domingo 16 de febrero
