@@ -153,8 +153,6 @@ Domingo 16-02
  VAR: José Carreras
  AVAR: Fabrizio Llobet
 Fecha 7 (23/02/2025)
- Jueves 20 de enero 
- 21.00 Unión – Racing (Zona A)
 Viernes 21 de febrero
 17.00 Deportivo Riestra – Talleres (Zona B)
 19.15 Estudiantes – Central Córdoba (Zona A)
@@ -173,6 +171,8 @@ Lunes 24 de febrero
 17.00 Barracas Central – Newell’s (Zona A)
 19.00 Argentinos – Independiente Rivadavia (Zona A)
 21.00 Tigre – Banfield (Zona A)
+Jueves 20 de marzo
+ 21.00 Unión – Racing (Zona A)
 Fecha 8 (02/03/2025) – Interzonal
 Viernes 28 de febrero
 20.00 Boca – Rosario Central
