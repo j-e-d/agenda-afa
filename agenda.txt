@@ -3,20 +3,6 @@ Torneo Apertura 2025
 6ª. Fecha
 Zona “A”
 Sábado 15-02
- Def. y Justicia - Barracas Central, a las 17.00 horas
- Árbitro: Darío Herrera
- Asistente 1: Juan Mamani
- Asistente 2: Ernesto Callegari
- Cuarto árbitro: Sebastián Bresba
- VAR: Héctor Paletta
- AVAR: Javier Delbarba
- Aldosivi (M.D.P.) - Estudiantes de L.P., a las 17.00 horas en estadio José M. Minella
- Árbitro: Sebastián Martínez
- Asistente 1: Diego Martín
- Asistente 2: Marcos Horticolou
- Cuarto árbitro: Wenceslao Meneses
- VAR: Fernando Espinoza
- AVAR: Julio Fernández
  Independiente Riv. (Mza.) - Tigre, a las 19.15 horas
  Árbitro: Pablo Echavarría
  Asistente 1: Damián Espinoza
@@ -656,17 +642,7 @@ Domingo 16-02
  Cuarto árbitro: Julián Beligoy
 Zona “B”
 Sábado 15-02
- Def. Unidos - Chaco For Ever, a las 17.00 horas
- Árbitro: Marcos Recalde
- Asistente 1: Nicolás Bravo
- Asistente 2: Guillermo Yacante
- Cuarto árbitro: Lucas Brumer
- Talleres (R.E.) - G. y Esgrima (Mza.), a las 17.00 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Uriel García Leri
- Asistente 2: Mariano Cichetto
- Cuarto árbitro: Jonathan Barrios
- Estudiantes - Alte. Brown, a las 19.05 horas (TV)
+Estudiantes - Alte. Brown, a las 19.05 horas (TV)
  Árbitro: Fabrizio Llobet
  Asistente 1: Federico Pomi
  Asistente 2: Carlos Viglietti
@@ -1020,35 +996,6 @@ Fecha 17
  San Telmo - Agropecuario 
 Primera B
 Torneo Apertura 2025
-2ª. fecha:
-Libre: San Martín (B)
-Sábado 15-02
- Sacachispas F.C. - Dep. Armenio, a las 17.00 horas
- Árbitro: Ariel Cruz
- Asistente 1: Rodrigo Arin de Fleitas
- Asistente 2: Matías Panozzo
- Cuarto árbitro: Mateo Bocaccia
- Dep. Merlo - Comunicaciones, a las 17.00 horas
- Árbitro: Gonzalo Pereira
- Asistente 1: Matías Basso
- Asistente 2: Leonardo Aprea
- Cuarto árbitro: Agustín Flores
- Villa San Carlos - Dep. Laferrere, a las 17.00 horas
- Árbitro: Maximiliano López Monti
- Asistente 1: Gonzalo Beloso
- Asistente 2: Ignacio Otegui
- Cuarto árbitro: Manuel Girett
- Real Pilar F.C. - Fénix, a las 17.00 horas en estadio Municipal de Pilar
- Árbitro: Martín Despósito
- Asistente 1: Federico García
- Asistente 2: Diego Fernández
- Cuarto árbitro: Iván Castelu Coca
- Excursionistas - Arg. de Merlo, a las 17.00 horas (TV)
- Árbitro: Juan Cruz Robledo
- Asistente 1: Juan Manuel Acevedo
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Iñaki Iparraguirre
-Acassuso - Brown (Adrogué), partido postergado.
 3ª. fecha:
 Martes 18-02
  Arg. de Quilmes - Sp. Italiano, a las 17.00 horas (TV)
@@ -1963,6 +1910,12 @@ Partidos de vuelta
  Jueves 27/02 21:30 p.m. | Deportes Tolima vs Melgar | Estadio Manuel Murillo Toro.
 Boca vs. Alianza Lima
  Partido de ida: Martes 18 de febrero en Lima, 21:30 de Argentina
+ Árbitro: Esteban Daniel Ostoich Vega (Uruguay)
+ Asistente 1: Nicolás Alfredo Taran Méndez (Uruguay)
+ Asistente 2: Martín Sebastián Soppi San Martín (Uruguay)
+ 4º Árbitro: Alberto Javier Feres Marino (Uruguay)
+ VAR: Leodan Franklin Gonzalez Cabrera (Uruguay)
+ AVAR1: Christian Fred Ferreyra Fernández (Uruguay)
  Partido de vuelta: Martes 25 de febrero en Buenos Aires, 21:30 de Argentina
 Entre las semanas del 5 y 12 de marzo se disputarán los encuentros de Fase 3, que clasificarán a los 4 ganadores para la Fase de Grupos de la CONMEBOL Libertadores 2025, mientras que los 4 perdedores se clasificarán para la Fase de Grupos de la CONMEBOL Sudamericana 2025.
 El sorteo de la fase de grupos se llevará a cabo el lunes 17 de marzo a partir de las 20 y contará con los 32 clasificados a cada torneo, posterior a las rondas preliminares.
