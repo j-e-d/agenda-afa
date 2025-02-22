@@ -44,13 +44,6 @@ Jueves 20-03
  Unión c. Racing Club, a las 21.00 horas
 Zona “B”
 Sábado 22-02
- Independiente c. Instituto A.C.C., a las 18.00 horas
- Árbitro: Yael Falcón Pérez
- Árbitro asistente 1: Adrián Delbarba
- Árbitro asistente 2: Iván Aliende
- Cuarto árbitro: Julio Barraza
- VAR: Nicolás Lamolina
- AVAR: Gerardo Lencina
  San Martín (S.J.) c. River Plate, a las 21.30 horas
  Árbitro: Andrés Gariano
  Árbitro asistente 1: Miguel Savorani
@@ -674,32 +667,6 @@ Primera Nacional
 Primera rueda
 3ª. fecha:
  Zona “A”
-Sábado 22-02
- Los Andes c. Güemes (S.E.), a las 17.00 horas
- Árbitro: Diego Ceballos
- Asistente 1: Lucas Pardo
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Lucas Brumer
- Almagro c. G. y Tiro (Salta), a las 17.00 horas
- Árbitro: Julián Jerez
- Asistente 1: Juan Manuel Gonzalez
- Asistente 2: Eugenia Rocco
- Cuarto árbitro: Jonatan De Oto
- San Miguel c. Dep. Maipú (Mza.), a las 17.00 horas (TV)
- Árbitro: Franco Acita
- Asistente 1: Ernesto Callegari
- Asistente 2: Diego Romero
- Cuarto árbitro: Maximiliano Lopez Monti
- Atlanta c. All Boys, a las 17.00 horas (TV)
- Árbitro: Juan Pafundi
- Asistente 1: Javier Uziga
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Gonzalo Pereira
- Colegiales c. Arsenal F.C., a las 18.00 horas
- Árbitro: Juan Pablo Loustau
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Federico Garcia
- Cuarto árbitro: Julián Beligoy
 Domingo 23-02
  Patronato (Paraná) c. San Martin (T.), a las 19.00 horas
  Árbitro: Nelson Sosa
@@ -724,11 +691,6 @@ Lunes 24-02
  Cuarto árbitro: Luis Martínez
 Zona “B”
 Sábado 22-02
- Alte. Brown c. Def. Unidos, a las 17.00 horas
- Árbitro: Juan Cruz Robledo 
- Asistente 1: Mariano Altavista
- Asistente 2: Francisco Gugliotta
- Cuarto árbitro: Ramiro Maglio
  Chaco For Ever c. Temperley, a las 20.00 horas
  Árbitro: Lucas Cavallero
  Asistente 1: Manuel Sanchez
@@ -1070,11 +1032,6 @@ Torneo Apertura 2025
 Primera B
  4ª. fecha:
 Sábado 22-02
- Real Pilar F.C. c. Villa Dálmine, a las 17.00 horas en estadio Municipal de Pilar
- Árbitro: Jonathan Barrios
- Asistente 1: Rodrigo Arín
- Asistente 2: Gonzalo Beloso
- Cuarto árbitro: Mateo Bocaccia
  F.C. Midland c. Brown (Adrogué), a las 19.00 horas
  Árbitro: Sebastián Bresba
  Asistente 1: Ángel Rebuscini
@@ -1971,6 +1928,11 @@ La Copa Libertadores 2025 contará con siete representantes argentinos: Vélez S
 Fase 2
 Boca Juniors vs. Alianza Lima
  Partido de vuelta: Martes 25 de febrero en Buenos Aires, 21:30 de Argentina
+ Árbitro: Piero Maza
+ Asistente 1: Claudio Urrutia
+ Asistente 2: Juan Serrano
+ Cuarto árbitro: José Cabero 
+ El VAR será Juan Lara y Alejandro Molina, el AVAR. 
 Programación completa Partidos de ida Fase 2
  Martes 18/02 19:00 p.m. | Iquique vs Independiente Santa Fe | Estadio Tierra de Campeones de Iquique, Chile.
  Martes 18/02 21:30 p.m. | The Strongest vs Bahía | Estadio Rafael Mendoza Castellón.
