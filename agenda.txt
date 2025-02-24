@@ -2074,21 +2074,6 @@ Grupo B
  Paraguay
  Perú
  Venezuela
- Sábado 22 de febrero
- 11.30 Venezuela - Paraguay
- 13.15 Brasil - Perú
- 16.15 Ecuador - Uruguay
- 18.00 Chile - Bolivia
- Domingo 23 de febrero
- 11.30 Perú - Argentina
- 13.15 Venezuela - Brasil
- 16.15 Bolivia - Colombia
- 18.00 Ecuador - Chile
- Lunes 24 de febrero
- 11.30 Perú - Venezuela
- 13.15 Argentina - Paraguay
- 16.15 Bolivia - Ecuador
- 18.00 Colombia - Uruguay
  Miércoles 26 de febrero
  11.30 Argentina - Venezuela
  13.15 Paraguay - Brasil
@@ -2288,7 +2273,28 @@ Sábado, 14 de junio 2025
  (#Todos los horarios son locales de las ciudades correspondientes)
 Copa Mundial Sub 20 Masculina 2025
 La Copa Mundial Sub 20 2025 se jugará del 27 de septiembre al 19 de octubre del 2025. Chile será el país organizador.
-Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 4; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5; país anfitrión: 1.
+ os clasificados al Mundial Sub 20 2025 hasta el momento son:
+ Chile (anfitrión)
+ Argentina
+ Brasil
+ Colombia
+ Paraguay
+ Nueva Zelanda
+ Nueva Caledonia
+ Francia
+ Italia
+ Noruega
+ España
+ Ucrania
+ Cuba
+ México
+ Panamá
+ Estados Unidos
+ Australia
+ Corea del Sur
+ Arabia Saudita
+ Japón
+ Aún hay 4 cupos disponibles de África (Copa Africana Sub 20 que se disputará entre el 26 de abril y el 18 de mayo).
 Copa Mundial Sub 20 Femenina 2026
 Polonia será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 4; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5; país anfitrión: 1
