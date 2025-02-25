@@ -7,11 +7,11 @@ Fecha 8 (02/03/2025) – Interzonal
 Viernes 28 de febrero
 20.00 Boca – Rosario Central
 22.15 San Martín (SJ) – Belgrano
-22.15 Central Córdoba – Deportivo Riestra
+22.15 Central Córdoba – Deportivo Riestra, en estadio Madre de Ciudades
 Sábado 1° de marzo
-17.00 Aldosivi – Sarmiento
+17.00 Aldosivi – Sarmiento, en estadio José M. Minella
 19.15 River – Estudiantes
-21.30 Talleres – Tigre
+21.30 Talleres – Tigre, en estadio Mario A. Kempes
 21.30 Unión – Gimnasia
 Domingo 2 de marzo
 17.00 Argentinos – Instituto
@@ -20,7 +20,7 @@ Domingo 2 de marzo
 21.30 Banfield – Independiente
 21.30 Platense – Defensa y Justicia
 Lunes 3 de marzo
-17.00 Barracas Central – Godoy Cruz
+17.00 Barracas Central – Godoy Cruz, en Arsenal
 19.00 San Lorenzo – Racing
 21.00 Atlético Tucumán – Newell’s
 Fecha 9 (09/03/2025)
@@ -594,26 +594,33 @@ Miércoles 12 de marzo
 Primera Nacional
 Primera rueda
 Fecha 4
- Zona A
- Colegiales - Los Andes
- Arsenal - Atlanta
- All Boys - Racing (C)
- Alvarado - Quilmes
- Deportivo Madryn - San Miguel
- Deportivo Maipú - Almagro
- Gimnasia y Tiro (S) - Ferro Carril Oeste
- Tristán Suárez - Patronato
- San Martín (T) - Güemes (SdE)
- Zona B
- Mitre (SdE) - Nueva Chicago
- Colón - Chaco For Ever
- Temperley - Almirante Brown
- Defensores Unidos - Central Norte (S)
- Estudiantes (BA) - Gimnasia y Esgrima (M)
- Deportivo Morón - Gimnasia y Esgrima (J)
- Talleres (RdE) - Agropecuario
- Estudiantes (RC) - San Telmo
- Defensores de Belgrano - Chacarita Juniors
+ Zona “A”
+ Viernes 28-02
+ Arsenal F.C. c. Atlanta, a las 17.00 horas
+ Colegiales c. Los Andes, a las 21.00 horas
+ Sábado 01-03
+ Tristán Suarez c. Patronato (Paraná), a las 20.00 horas
+ Domingo 02-03
+ Alvarado (M.D.P.) c. Quilmes A.C., a las 17.00 horas en estadio José M.Minella
+ Dep. Madryn c. San Miguel, a las 17.00 horas
+ G. y Tiro (Salta) c. Ferro Carril Oeste, a las 17.00 horas
+ Dep. Maipú (Mza.) c. Almagro, a las 18.00 horas
+ San Martin (T.) c. Güemes (S.E.), a las 20.00 horas
+ Lunes 03-03
+ All Boys c. Racing (Cba.), a las 21.10 horas (TV)
+Zona “B”
+ Viernes 28-02
+ Estudiantes (Rio IV) c. San Telmo, a las 21.00 horas
+ Sábado 01-03
+ Talleres (R.E.) c. Agropecuario Arg., a las 17.00 horas
+ Def. Unidos c. Ctral. Norte (Salta), a las 17.00 horas (TV)
+ Temperley c. Alte. Brown, a las 21.30 horas (TV)
+ Domingo 02-03
+ Mitre (S.E.) c. Nva. Chicago, a las 17.00 horas (TV)
+ Estudiantes c. G. y Esgrima (Mza.), a las 17.00 horas
+ Def. de Belgrano c. Chacarita Juniors, a las 19.15 horas (TV)
+ Dep. Morón c. G. y Esgrima (J.), a las 21.15 horas (TV)
+ Colón c. Chaco For Ever, a las 21.30 horas (TV)
 Fecha 5
  Zona A
  Los Andes - San Martín (T)
@@ -890,17 +897,19 @@ Fecha 17
 Primera B
 Torneo Apertura 2025
 FECHA 5
- LIBRE EXCURSIONISTAS
- ACASSUSO vs. MIDLAND
- BROWN (ADROGUÉ) vs. SPORTIVO ITALIANO
- ARGENTINO (MERLO) vs. UAI URQUIZA
- ARGENTINO DE QUILMES vs. REAL PILAR
- VILLA DÁLMINE vs. VILLA SAN CARLOS
- FLANDRIA vs. DOCK SUD
- FÉNIX vs. DEPORTIVO MERLO
- LAFERRERE vs. SACACHISPAS
- LINIERS vs. SAN MARTÍN (BURZACO)
- COMUNICACIONES vs. DEPORTIVO ARMENIO
+Sábado 01-03
+ Arg. de Merlo c. UAI - Urquiza, a las 17.00 horas
+ Arg. de Quilmes c. Real Pilar F.C., a las 17.00 horas
+ Flandria c. Sp. Dock Sud, a las 17.00 horas
+ Fénix c. Dep. Merlo, a las 17.00 horas en San Miguel (Las Heras)
+ Dep. Laferrere c. Sacachispas F.C., a las 17.00 horas (TV)
+Domingo 02-03
+ Villa Dálmine c. Villa San Carlos, a las 17.00 horas
+ Liniers c. San Martin (B.), a las 17.00 horas
+ Lunes 03-03
+ Acassuso c. F.C. Midland, a las 17.00 horas (TV)
+ Comunicaciones c. Dep. Armenio, a las 20.00 horas
+ Brown (Adrogué) c. Sp. Italiano, a las 20.30 horas
  FECHA 6
  LIBRE COMUNICACIONES
  DEPORTIVO ARMENIO vs. LINIERS
