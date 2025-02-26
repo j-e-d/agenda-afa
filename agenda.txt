@@ -5,24 +5,114 @@ Jueves 20-03
  Unión c. Racing Club, a las 21.00 horas
 Fecha 8 (02/03/2025) – Interzonal
 Viernes 28 de febrero
-20.00 Boca – Rosario Central
-22.15 San Martín (SJ) – Belgrano
-22.15 Central Córdoba – Deportivo Riestra, en estadio Madre de Ciudades
+ 20.00 Boca – Rosario Central
+ Árbitro: Hernán Mastrángelo
+ Árbitro asistente 1: Ezequiel Brailovsky
+ Árbitro asistente 2: Agustín Mendez
+ Cuarto árbitro: Julio Barraza
+ VAR: Héctor Paletta
+ AVAR: Diego Romero
+ 22.15 San Martín (SJ) – Belgrano
+ Árbitro: Ariel Penel
+ Árbitro asistente 1: Andrés Barbieri
+ Árbitro asistente 2: Mauro Ramos Errasti
+ Cuarto árbitro: Enzo Silvestre
+ VAR: Andrés Merlos
+ AVAR: Facundo Rodríguez
+ 22.15 Central Córdoba – Deportivo Riestra, en estadio Madre de Ciudades
+ Árbitro: Bryan Ferreyra
+ Árbitro asistente 1: José Castelli
+ Árbitro asistente 2: Damián Espinoza
+ Cuarto árbitro: Federico Benítez
+ VAR: José Carreras
+ AVAR: Walter Ferreyra
 Sábado 1° de marzo
-17.00 Aldosivi – Sarmiento, en estadio José M. Minella
-19.15 River – Estudiantes
-21.30 Talleres – Tigre, en estadio Mario A. Kempes
-21.30 Unión – Gimnasia
+ 17.00 Aldosivi – Sarmiento, en estadio José M. Minella
+ Árbitro: Andrés Gariano
+ Árbitro asistente 1: Juan Mamani
+ Árbitro asistente 2: Juan Pablo Millenaar
+ Cuarto árbitro: Bruno Bocca
+ VAR: Germán Delfino
+ AVAR: Adrián Delbarba
+ 19.15 River – Estudiantes
+ Árbitro: Yael Falcón Pérez
+ Árbitro asistente 1: Facundo Rodríguez
+ Árbitro asistente 2: Mariana De Almeida
+ Cuarto árbitro: Javier Delbarba
+ VAR: Yamil Possi
+ AVAR: Laura Fortunato
+ 21.30 Talleres – Tigre, en estadio Mario A. Kempes
+ Árbitro: Sebastián Martinez
+ Árbitro asistente 1: Miguel Savorani
+ Árbitro asistente 2: Carla López
+ Cuarto árbitro: Federico Manduca
+ VAR: Juan Pafundi
+ AVAR: Diego Verlotta
+ 21.30 Unión – Gimnasia
+ Árbitro: Pablo Echavarría
+ Árbitro asistente 1: Juan Del Fueyo
+ Árbitro asistente 2: Belén Bevilacqua
+ Cuarto árbitro: Matías Billone
+ VAR: Fernando Espinoza
+ AVAR: Julio Fernández
 Domingo 2 de marzo
-17.00 Argentinos – Instituto
-17.00 Independiente Rivadavia – Lanús
-19.15 Vélez – Huracán
-21.30 Banfield – Independiente
-21.30 Platense – Defensa y Justicia
+ 17.00 Argentinos – Instituto
+ Árbitro: Luis Lobo Medina
+ Árbitro asistente 1: Diego Martin
+ Árbitro asistente 2: Lucas Pardo
+ Cuarto árbitro: Cristian Cernadas
+ VAR: Salomé Di Iorio
+ AVAR: Juan Pablo Belatti
+ 17.00 Independiente Rivadavia – Lanús
+ Árbitro: Leandro Rey Hilfer
+ Árbitro asistente 1: Gabriel Chade
+ Árbitro asistente 2: Maximiliano Castelli
+ Cuarto árbitro: Maximiliano Jerez Silcan
+ VAR: Lucas Novelli
+ AVAR: Javier Delbarba
+ 19.15 Vélez – Huracán
+ Árbitro: Nazareno Arasa
+ Árbitro asistente 1: Diego Bonfa
+ Árbitro asistente 2: Walter Ferreyra
+ Cuarto árbitro: Sebastián Bresba
+ VAR: Pablo Dóvalo
+ AVAR: Javier Mihura
+ 21.30 Banfield – Independiente
+ Árbitro: Silvio Trucco
+ Árbitro asistente 1: Maximiliano Del Yesso
+ Árbitro asistente 2: Marcos Horticolou
+ Cuarto árbitro: Marcos Recalde
+ VAR: Darío Herrera
+ AVAR: Nelson Sosa
+ 21.30 Platense – Defensa y Justicia
+ Árbitro: Nicolás Lamolina
+ Árbitro asistente 1: Hugo Paez
+ Árbitro asistente 2: Gisella Trucco
+ Cuarto árbitro: Ignacio Cuicchi
+ VAR: Diego Ceballos
+ AVAR: Juan Pablo Loustau
 Lunes 3 de marzo
-17.00 Barracas Central – Godoy Cruz, en Arsenal
-19.00 San Lorenzo – Racing
-21.00 Atlético Tucumán – Newell’s
+ 17.00 Barracas Central – Godoy Cruz, en Arsenal
+ Árbitro: Fernando Echenique
+ Árbitro asistente 1: Pablo Gualtieri
+ Árbitro asistente 2: Gerardo Lencina
+ Cuarto árbitro: Julián Jerez
+ VAR: Adrian Franklin
+ AVAR: Gastón Suarez
+ 19.00 San Lorenzo – Racing
+ Árbitro: Facundo Tello
+ Árbitro asistente 1: Juan Pablo Belatti
+ Árbitro asistente 2: Cristian Navarro
+ Cuarto árbitro: Juan Pablo Loustau
+ VAR: Mauro Vigliano
+ AVAR: Javier Uziga
+ 21.00 Atlético Tucumán – Newell’s
+ Árbitro: Andrés Merlos
+ Árbitro asistente 1: Iván Núñez
+ Árbitro asistente 2: Marcelo Bistocco
+ Cuarto árbitro: Francisco Acosta
+ VAR: Jorge Baliño
+ AVAR: Carlos Córdoba
 Fecha 9 (09/03/2025)
 Viernes 7 de marzo
 19.00 Banfield – Argentinos (Zona A)
@@ -593,34 +683,106 @@ Miércoles 12 de marzo
  De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Primera Nacional
 Primera rueda
-Fecha 4
- Zona “A”
- Viernes 28-02
+4ª. fecha:
+Zona “A”
+Viernes 28-02
  Arsenal F.C. c. Atlanta, a las 17.00 horas
+ Árbitro: Franco Acita
+ Asistente 1: Mariano Ruas
+ Asistente 2: Hugo Hartung
+ Cuarto árbitro: Lucas Brumer
  Colegiales c. Los Andes, a las 21.00 horas
- Sábado 01-03
- Tristán Suarez c. Patronato (Paraná), a las 20.00 horas
- Domingo 02-03
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Nicolás Bravo
+ Asistente 2:Nahuel Rasullo 
+ Cuarto árbitro: Jonathan De Oto
+Sábado 01-03
+ Tristán Suárez c. Patronato (Paraná), a las 20.00 horas
+ Árbitro: Lucas Comesaña 
+ Asistente 1: Marcelo Errante
+ Asistente 2: Guillermo Yacante
+ Cuarto árbitro: Mateo Bocaccia
+Domingo 02-03
  Alvarado (M.D.P.) c. Quilmes A.C., a las 17.00 horas en estadio José M.Minella
+ Árbitro: Lucas Cavallero
+ Asistente 1: Lucas Germanotta
+ Asistente 2: Carlos Viglietti
+ Cuarto árbitro: Diego Novelli
  Dep. Madryn c. San Miguel, a las 17.00 horas
+ Árbitro: Gastón Monsón Brizuela 
+ Asistente 1: Manuel Sanchez
+ Asistente 2: Matías Balmaceda
+ Cuarto árbitro: José Díaz
  G. y Tiro (Salta) c. Ferro Carril Oeste, a las 17.00 horas
+ Árbitro: Alvaro Carranza
+ Asistente 1: Mariano Viale
+ Asistente 2: Emanuel Serale
+ Cuarto árbitro: Mauricio Martin
  Dep. Maipú (Mza.) c. Almagro, a las 18.00 horas
- San Martin (T.) c. Güemes (S.E.), a las 20.00 horas
- Lunes 03-03
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Matías Bianchi
+ Asistente 2: Alejandro Schneller
+ Cuarto árbitro: Darío Sandoval
+ San Martín (T.) c. Güemes (S.E.), a las 20.00 horas
+ Árbitro: Adrián Franklin 
+ Asistente 1: Eduardo Lucero
+ Asistente 2: Joaquin Badano
+ Cuarto árbitro: Federico Guaymas
+Lunes 03-03
  All Boys c. Racing (Cba.), a las 21.10 horas (TV)
+ Árbitro: Jorge Broggi 
+ Asistente 1: Diego Romero
+ Asistente 2: Nicolás Gruccio
+ Cuarto árbitro: Gonzalo Creimermann
 Zona “B”
- Viernes 28-02
- Estudiantes (Rio IV) c. San Telmo, a las 21.00 horas
- Sábado 01-03
+Viernes 28-02
+ Estudiantes (Río IV) c. San Telmo, a las 21.00 horas
+ Árbitro: Nahuel Viñas
+ Asistente 1: Roque Narvaez
+ Asistente 2: Emiliano Bustos
+ Cuarto árbitro: Juan Nebietti
+Sábado 01-03
  Talleres (R.E.) c. Agropecuario Arg., a las 17.00 horas
+ Árbitro: Joaquin Gil
+ Asistente 1: Mariano Ascensi
+ Asistente 2: Pascual Fernández
+ Cuarto árbitro: Guido Mascheroni
  Def. Unidos c. Ctral. Norte (Salta), a las 17.00 horas (TV)
+ Árbitro: Julio Barraza
+ Asistente 1: Federico Pomi
+ Asistente 2: Javier Mihura
+ Cuarto árbitro: Damián Rubino
  Temperley c. Alte. Brown, a las 21.30 horas (TV)
- Domingo 02-03
+ Árbitro: Gonzalo Pereira 
+ Asistente 1: Lucas Ripolli
+ Asistente 2: Mariano Bardina
+ Cuarto árbitro: Alejandro Porticella
+Domingo 02-03
  Mitre (S.E.) c. Nva. Chicago, a las 17.00 horas (TV)
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Gonzalo Ferrari
+ Asistente 2: Malvina Schiell
+ Cuarto árbitro: Nelson Bejas
  Estudiantes c. G. y Esgrima (Mza.), a las 17.00 horas
- Def. de Belgrano c. Chacarita Juniors, a las 19.05 horas (TV)
+ Árbitro: Bruno Amiconi
+ Asistente 1: Iván Aliende
+ Asistente 2: Ramón Ortíz
+ Cuarto árbitro: Ramiro Maglio
+ Def. de Belgrano c. Chacarita Juniors, a las 19.15 horas (TV)
+ Árbitro: Daniel Zamora
+ Asistente 1: Uriel García
+ Asistente 2: Juan Ricciardi
+ Cuarto árbitro: Rodrigo Villalba
  Dep. Morón c. G. y Esgrima (J.), a las 21.15 horas (TV)
+ Árbitro: Felipe Viola
+ Asistente 1: Ariel Scime
+ Asistente 2: Mariano Cichetto
+ Cuarto árbitro: Jonathan Barrios
  Colón c. Chaco For Ever, a las 21.30 horas (TV)
+ Árbitro: Pablo Giménez
+ Asistente 1: Juan M. Gonzalez
+ Asistente 2: Sebastián Osudar
+ Cuarto árbitro: César Ceballos
 Fecha 5
  Zona A
  Los Andes - San Martín (T)
@@ -896,20 +1058,60 @@ Fecha 17
  San Telmo - Agropecuario 
 Primera B
 Torneo Apertura 2025
-FECHA 5
+5ª. fecha:
 Sábado 01-03
  Arg. de Merlo c. UAI - Urquiza, a las 17.00 horas
+ Árbitro: Martín Despósito
+ Asistente 1: Héctor Bracho Gómez
+ Asistente 2: Federico Brítez
+ Cuarto árbitro: Manuel Girett
  Arg. de Quilmes c. Real Pilar F.C., a las 17.00 horas
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Damián Orellana
+ Asistente 2: Maximiliano montenegro
+ Cuarto árbitro: Joaquín rodríguez
  Flandria c. Sp. Dock Sud, a las 17.00 horas
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Luis Castillo
+ Asistente 2: Jonathan Savoiardo
+ Cuarto árbitro: Gonzalo Correa
  Fénix c. Dep. Merlo, a las 17.00 horas en San Miguel (Las Heras)
+ Árbitro: Ariel Cruz
+ Asistente 1: Martín Giampaolo
+ Asistente 2: Daniela Sanda
+ Cuarto árbitro: Germán Bermúdez
  Dep. Laferrere c. Sacachispas F.C., a las 17.00 horas (TV)
+ Árbitro: Kevin Alegre
+ Asistente 1: Arnaldo Melgarejo
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Eduardo Coyto
 Domingo 02-03
  Villa Dálmine c. Villa San Carlos, a las 17.00 horas
+ Árbitro: Gastón Iglesias
+ Asistente 1: Maximiliano Benzoni
+ Asistente 2: Martín Vaccaro
+ Cuarto árbitro: David Cornejo
  Liniers c. San Martin (B.), a las 17.00 horas
- Lunes 03-03
+ Árbitro: Nicolás Kresta
+ Asistente 1: Matías Arévalo
+ Asistente 2: Ariel López
+ Cuarto árbitro: Iñaki Iparraguirre
+Lunes 03-03
  Acassuso c. F.C. Midland, a las 17.00 horas (TV)
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Lucas Cueto Viñas
+ Asistente 2: Cristian Amarilla
+ Cuarto árbitro: Agustín Panizza
  Comunicaciones c. Dep. Armenio, a las 20.00 horas
+ Árbitro: Adrián Nuñez Rodríguez
+ Asistente 1: Martín Alonso
+ Asistente 2: Jonathan Ghiso
+ Cuarto árbitro: Tomás Aybar
  Brown (Adrogué) c. Sp. Italiano, a las 20.30 horas
+ Árbitro: Juan Cruz Robledo
+ Asistente 1: Fernando Rodríguez
+ Asistente 2: Luis Rotman
+ Cuarto árbitro: Julián Beligoy
  FECHA 6
  LIBRE COMUNICACIONES
  DEPORTIVO ARMENIO vs. LINIERS
