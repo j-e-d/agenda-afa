@@ -1192,8 +1192,8 @@ Muñiz - Puerto Nuevo, a las 15.30 horas en Juv. Unida
  Asistente 1: Federico Bozo
  Asistente 2: Joaquín Fraga
  Cuarto árbitro: Micaela Abelardo
-Partido no programado
-El Porvenir - Mercedes
+Martes 18 de marzo
+15.30 El Porvenir - Mercedes
 Zona “B”
 Sábado 15 de marzo
  Juv. Unida - Gral. Lamadrid, a las 15.30 horas
@@ -1674,6 +1674,95 @@ Encuentros a disputarse del 02 al 09/04:
  Barracas Ctral. - Def. de Belgrano
  De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2025, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A Edición 2025
+Fecha 1
+Viernes 14 de marzo
+21.00 Atenas RC (Río Cuarto) - Atlético Club San Martín (Mendoza)
+ Árbitro: José Darío Sandoval
+ Asistente 1: Guido Córdoba
+ Asistente 2: Diego Antonetti
+ Cuarto árbitro: Lautaro Castañola
+22.00 Juventud Antoniana (Salta) - Sarmiento (Santiago del Estero)
+ Árbitro: Fernando Jesús Rekers
+ Asistente 1: Hugo Fleitas
+ Asistente 2: Cristian Herrera
+ Cuarto árbitro: Jonatan Daniel Mapelli
+Sábado 15 de marzo
+17.00 Deportivo Rincón (Neuquén) - Cipolletti
+ Árbitro: Juan Ignacio Nebbietti
+ Asistente 1: Danilo Viola
+ Asistente 2: Rodrigo Moreno
+ Cuarto árbitro: Agustín Lamberti
+17.00 Santamarina (Tandil) - Villa Mitre (Bahía Blanca)
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Maximiliano Moya
+ Asistente 2: Robertino Rosas
+ Cuarto árbitro: Karim Doussouk
+17.00 Ciudad de Bolívar - Huracán Las Heras (Mendoza)
+ Árbitro: Marcos Ignacio Liuzzi
+ Asistente 1: Martín Daniel Nardelli
+ Asistente 2: Gonzalo Aníbal Roldán
+ Cuarto árbitro: Patricio Jesús Destéfano
+20.00 Atlético Costa Brava (General Pico) - Juventud Unida Universitario (San Luis)
+ Árbitro: Jonathan Daniel Correa
+ Asistente 1: Carlos Javier Viglietti
+ Asistente 2: Oscar Ariel Bono
+ Cuarto árbitro: Thomas Pasquetin
+Domingo 16 de marzo
+11.00 Kimberley (Mar del Plata) - Círculo Deportivo (Mar del Plata)
+ Árbitro: Diego Saúl Novelli
+ Asistente 1: Darío M. Rojas Martines
+ Asistente 2: Lautaro Manuel Paletta
+ Cuarta árbitra: Camila Romero
+16.00 Germinal (Trelew) - Guillermo Brown (Trelew)
+ Árbitro: Fernando Omar Marcos
+ Asistente 1: Leopoldo Gorosito
+ Asistente 2: Nicolás Moreno
+ Cuarto árbitro: Valentín Pompei
+16.45 Sol de América (Formosa) - Atlético Rafaela
+ Árbitro: Guillermo Adrián González
+ Asistente 1: Mariana Beatriz Duré
+ Asistente 2: Rodrigo Edgardo López
+ Cuarto árbitro: Fernando Abel Brillada
+17.00 El Linqueño (Lincoln) - Gimnasia y Esgrima (Concepción del Uruguay)
+ Árbitro: Franco David Morón
+ Asistente 1: Cristian Ramonda
+ Asistente 2: Marcelo Abel Aredondo
+ Cuarto árbitro: Santiago Schmoll
+17.00 Estudiantes (San Luis) - Argentino (Pascanas)
+ Árbitro: Jorge David Etem
+ Asistente 1: Marcelo Gabriel González
+ Asistente 2: Uvab Adriel Araya
+ Cuarto árbitro: Jesús Allegue
+17.00 Gimnasia y Esgrima (Chivilcoy) - Independiente (Chivilcoy)
+ Árbitro: Matías Ezequiel Billione Carpio
+ Asistente 1: Emanuel José Serale
+ Asistente 2: Matías Javier González
+ Cuarto árbitro: Mario Facundo Rojo Casal
+17.00 Crucero del Norte (Posadas) - Mitre (Posadas)
+ Árbitro: Gustavo Federico Benites
+ Asistente 1: Luciano Agustín Díaz
+ Asistente 2: Walter Augusto Cardozo
+ Cuarto árbitro: Diego Pablo Ocampo
+18.30 Sportivo Atlético (Cañada de Gómez) - Ben Hur (Rafaela)
+ Árbitro: José Díaz
+ Asistente 1: Juan Ignacio Flores Roig
+ Asistente 2: Bruno Pezzotta
+ Cuarto árbitro: Leandro Federico Hartfield
+19.05 Sportivo Belgrano (San Francisco) - Douglas Haig (Pergamino)
+ Árbitro: Mauricio Exequiel Martín
+ Asistente 1: José Daniel Ponce
+ Asistente 2: Laureano Ricardo Leiva
+ Cuarto árbitro: Agustín Marto
+19.30 Sarmiento (Resistencia) - Boca Unidos (Corrientes)
+ Árbitro: Rodrigo Héctor Rivero
+ Asistente 1: Luis Fernando Ortiz
+ Asistente 2: Alex Zerda
+ Cuarto árbitro: Williams Ricardo Abdala
+20.00 Nueve de Julio (Rafaela) - Defensores de Belgrano (Villa Ramallo)
+ Árbitro: César Antonio Ceballos
+ Asistente 1: Marcos David Guzmán
+ Asistente 2: Evelyn Romina Luján
+ Cuarto árbitro: Leonel Suárez
 ZONA "1" - PRIMERA FASE
  OLIMPO
  CIPOLLETTI
@@ -1685,13 +1774,7 @@ ZONA "1" - PRIMERA FASE
  SANTAMARINA
  SOL DE MAYO
  DEP. RINCON
-1ra. fecha - 16/03/25
- RINCON vs. CIPOLLETTI
- OLIMPO vs. SOL DE MAYO
- GERMINAL vs. GMO. BROWN
- SANTAMARINA vs. VILLA MITRE
- KIMBERLEY vs. CIRCULO DEP.
- 2da. fecha - 23/03/25
+2da. fecha - 23/03/25
  KIMBERLEY vs. RINCÓN
  CIRCULO DEP. vs. SANTAMARINA
  VILLA MITRE vs. GERMINAL
@@ -1803,13 +1886,7 @@ ZONA "2" - PRIMERA FASE
  HURACAN LH
  ARGENTINO M. MAIZ
  SAN MARTÍN AC
- 1ra. fecha - 16/03/25
- COSTA BRAVA vs. JUV UNIDA U.
- ATENAS vs. SAN MARTIN
- ESTUDIANTES vs. ARGENTINO M.M.
- CIUDAD vs. HURACAN LH
- LIBRE: GUTIERREZ
- 2da. fecha - 23/03/25
+2da. fecha - 23/03/25
  HURACAN LH vs. ESTUDIANTES
  ARGENTINO M.M. vs. ATENAS
  SAN MARTIN vs. COSTA BRAVA
@@ -1922,13 +1999,7 @@ ZONA "3" - PRIMERA FASE
  BEN HUR
  DEF. BELGRANO VR
  G. ESGRIMA CU
- 1ra. fecha - 16/03/25
- 9 DE JULIO R. vs. DEF. BELGRANO
- EL LINQUEÑO vs. GIMNASIA E. CU
- G. ESGRIMA CH vs. INDEPENDIENTE
- SP. BELGRANO vs. D. HAIG
- SPORTIVO AC vs. BEN HUR
- 2da. fecha - 23/03/25
+2da. fecha - 23/03/25
  SPORTIVO AC vs. 9 DE JULIO R.
  BEN HUR vs. SP. BELGRANO
  D. HAIG vs. G. ESGRIMA CH
@@ -2040,12 +2111,6 @@ ZONA "4" - PRIMERA FASE
  BMA. INGLETO
  BOCA UNIDOS
  JUVENTUD ANTONIANA
-1ra. fecha - 16/03/25
- SARMIENTO R. vs. BOCA UNIDOS
- CRUCERO N. vs. MITRE P.
- J. ANTONIANA vs. SARMIENTO LB.
- SOL DE AMÉRICA vs.AT. RAFAELA
- LIBRE: SAN MARTIN F.
 2da fecha - 23/03/25
  AT. RAFAELA vs. J. ANTONIANA
  SARMIENTO LB. vs. CRUCERO N.
