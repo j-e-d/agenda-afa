@@ -63,7 +63,7 @@ Domingo 16 de marzo
  Cuarto árbitro: Nicolás Lamolina
  VAR: Héctor Paletta
  AVAR: Juan Del Fueyo
-18.30 Boca – Defensa y Justicia (Zona A)
+18.15 Boca – Defensa y Justicia (Zona A)
  Árbitro: Pablo Dóvalo
  Asistente 1: Sebastián Raineri
  Asistente 2: Lucas Pardo
@@ -608,7 +608,7 @@ Tristán Suarez - San Martin (T.), a las 19.00 horas
 Domingo 16 de marzo
 Dep. Madryn - Ferro Carril Oeste, a las 16.00 horas
  Árbitro: Juan Pafundi
- Asistente 1: Eduardo Lucero
+ Asistente 1: Daniel Zamora
  Asistente 2: Joaquín Badano
  Cuarto árbitro: Marcelo Sanz
  Colegiales - Racing (Cba.), a las 16.00 horas
@@ -1194,6 +1194,10 @@ Muñiz - Puerto Nuevo, a las 15.30 horas en Juv. Unida
  Cuarto árbitro: Micaela Abelardo
 Martes 18 de marzo
 15.30 El Porvenir - Mercedes
+ Árbitro: David Cornejo
+Asistente 1: Diego Ortiz
+Asistente 2: Nicolás Cavagnaro
+Cuarto árbitro: Julian Beligoy
 Zona “B”
 Sábado 15 de marzo
  Juv. Unida - Gral. Lamadrid, a las 15.30 horas
@@ -1644,14 +1648,14 @@ Miércoles 19-03
  Asistente 2: Ramón Ortiz
  Cuarto árbitro: Francisco Acosta
 Sábado 22-03
- 20.15 Ctral. Córdoba (S.E.) - Quilmes A.C., en Belgrano (TV)
+ 16.00 Tigre - Berazategui, en Morón (TV)
+ 20.30 Ctral. Córdoba (S.E.) - Quilmes A.C., en Belgrano (TV)
 Domingo 23-03
  17.00 Racing Club - Santamarina (T.), en Lanús (TV)
  19.15 San Lorenzo de A.- Sp. Las Parejas, en Estadio Ciudad de San Nicolás (TV)
 Miércoles 26-03
  17.00 San Martín (S. Juan) - G. y Esgrima (Jujuy), en Belgrano (TV)
 Encuentros a disputarse del 02 al 09/04:
- Tigre - Berazategui
  Sarmiento - Ctral. Córdoba (Ros.)
  N.O. Boys - Kimberley
  Argentinos Jrs. - Ctral. Norte (Salta)
