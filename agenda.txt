@@ -1992,48 +1992,88 @@ El torneo se llevará a cabo desde el 1 y 16 de marzo en Paraguay.
  La Fase Preliminar la disputan los 12 equipos clasificados, distribuidos en 3 grupos de 4 equipos cada uno. La conformación de los 3 grupos corresponderá al resultado del sorteo organizado por la CONMEBOL.
  Clasificarán para las Semifinales, los equipos que ocupen la primera posición en cada grupo, más el mejor segundo colocado, teniendo en cuenta los 3 grupos (1A, 1B, 1C, y el mejor 2° colocado).
 CONMEBOL Libertadores 2025
-La Copa Libertadores 2025 contará con siete representantes argentinos: Vélez Sársfield, Estudiantes de La Plata, Central Córdoba de Santiago del Estero, Racing Club, Talleres de Córdoba, River Plate y Boca Juniors .
-Programación completa Partidos de ida Fase 2
- Martes 18/02 19:00 p.m. | Iquique vs Independiente Santa Fe | Estadio Tierra de Campeones de Iquique, Chile.
- Martes 18/02 21:30 p.m. | The Strongest vs Bahía | Estadio Rafael Mendoza Castellón.
- Martes 18/02 21.30 p.m. | Alianza Lima vs Boca Juniors | Estadio Alejandro Villanueva.
- Miércoles 19/02 19:00 p.m. | Boston River vs Ñublense | Estadio Complejo Rentistas.
- Miércoles 19/02 21:30 p.m. | Universidad Central vs Corinthians | Estadio Olímpico de la Universidad Central de Venezuela.
- Miércoles 19/02 21:30 p.m. | (Blooming vs El Nacional ) vs Barcelona SC | Pendiente por definirse.
- Jueves 20/02 19:00 p.m. | Monagas vs Cerro Porteño | Estadio Monumental de Maturín.
- Jueves 20/02 21:30 p.m. | Deportes Tolima vs Melgar | Estadio Manuel Murillo Toro.
-Programación completa Partidos de vuelta Fase 2
- Martes 25/02 19:00 p.m. | Independiente Santa Fe vs Iquique | Estadio Metropolitano de Techo, Bogotá.
- Martes 25/02 21:30 p.m. | Bahía vs The Strongest | Estadio Arena Fonteva.
- Martes 25/02 21:30 p.m. | Boca Juniors vs Alianza Lima | Estadio La Bombonera
- Miércoles 26/02 19:00 p.m. | Ñublense vs Boston River | Estadio Nelson Oyarzún.
- Miércoles 26/02 21:30 p.m. | Barcelona SC vs (Blooming vs El Nacional ) | Estadio Monumental Banco Pichincha
- Jueves 27/02 21:30 p.m. | Cerro Porteño vs Monagas | Estadio La Nueva Olla.
- Jueves 27/02 21:30 p.m. | Deportes Tolima vs Melgar | Estadio Manuel Murillo Toro.
- Entre las semanas del 5 y 12 de marzo se disputarán los encuentros de Fase 3, que clasificarán a los 4 ganadores para la Fase de Grupos de la CONMEBOL Libertadores 2025, mientras que los 4 perdedores se clasificarán para la Fase de Grupos de la CONMEBOL Sudamericana 2025.
- El sorteo de la fase de grupos se llevará a cabo el lunes 17 de marzo a partir de las 20 y contará con los 32 clasificados a cada torneo, posterior a las rondas preliminares.
+Grupo A
+Botafogo (Brasil)
+ Estudiantes (Argentina)
+ Universidad (Chile)
+ Carabobo (Venezuela)
+Grupo B
+River Plate (Argentina)
+ Independiente del Valle (Ecuador)
+ Universitario (Perú)
+ Barcelona (Ecuador)
+Grupo C
+Flamengo (Brasil)
+ Liga de Quito (Ecuador)
+ Deportivo Táchira (Venezuela)
+ Central Córdoba (Argentina)
+Grupo D
+San Pablo (Brasil)
+ Libertad (Paraguay)
+ Talleres (Argentina)
+ Alianza Lima (Perú)
+Grupo E
+Racing Club (Argentina)
+ Colo Colo (Chile)
+ Fortaleza (Brasil)
+ Atlético Bucaramanga (Colombia)
+Grupo F
+Nacional (Uruguay)
+ Internacional (Brasil)
+ Atlético Nacional (Colombia)
+ Bahía (Brasil)
+Grupo G
+Palmeiras (Brasil)
+ Bolivar (Bolivia)
+ Sporting Cristal (Perú)
+ Cerro Porteño (Paraguay)
+Grupo H
+Peñarol (Uruguay)
+ Olimpia (Paraguay)
+ Vélez (Argentina)
+ San Antonio (Bolivia)
 CONMEBOL Sudamericana 2025
-La CONMEBOL Sudamericana 2025 inicia con la definición de los primeros enfrentamientos que tendrá el torneo el próximo año. De los 44 equipos clasificados, 32 equipos comenzarán en la Primera Fase, que será disputada entre equipos del mismo país, en una fase nacional a partido único.
- Bolivia, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela tendrán representantes en esta etapa del torneo, que buscarán obtener uno de los cupos clasificatorios para la Fase de Grupos de la competencia continental.
- CONMEBOL Sudamericana - Primera Fase
- Universitario (Bolivia) - Bolivia 3
- Bolivia 2 - Bolivia 4
- Universidad Católica (Chile) - Palestino (Chile)
- Unión Española (Chile) - Everton (Chile)
- Junior (Colombia) - América de Cali (Colombia)
- Once Caldas (Colombia) - Representante de Colombia
- Mushuc Runa (Ecuador) - Orense (Ecuador)
- Universidad Católica (Ecuador) - Aucas (Ecuador)
- Sportivo Luqueño (Paraguay) - Sportivo Ameliano (Paraguay)
- Guaraní (Paraguay) - 2 de mayo (Paraguay)
- Asoc. Dep. Tarma (Perú) - Cienciano (Perú)
- Atl. Grau (Perú) - Cusco (Perú)
- Racing (Uruguay) - Montevideo Wanderers (Uruguay)
- Cerro Largo (Uruguay) - Danubio (Uruguay)
- A. Puerto Cabello (Venezuela) - Metropolitanos (Venezuela)
- Deportivo La Guaira (Venezuela) - Caracas (Venezuela)
- El sorteo de la fase de grupos se llevará a cabo el lunes 17 de marzo a partir de las 20 y contará con los 32 clasificados a cada torneo, posterior a las rondas preliminares.
-La Copa Sudamericana 2025 contará con la presencia de seis equipos argentinos: Godoy Cruz, Huracán, Independiente, Unión, Lanús y Defensa y Justicia.
+Grupo A
+Independiente (Argentina)
+ Guaraní (Paraguay)
+ Nacional de Potosí (Bolivia)
+ Boston River (Uruguay)
+Grupo B
+ Defensa y Justicia
+ U. Católica (Chile)
+ Cerro Largo (Uruguay)
+ Vitoria (Brasil)
+Grupo C
+América de Cali (Colombia)
+ Huracán (Argentina)
+ Racing de Montevideo (Uruguay)
+ Corinthians (Brasil)
+Grupo D
+Gremio
+(Brasil)
+ Godoy Cruz (Argentina)
+ Sp. Luqueño (Paraguay)
+ Atlético Grau (Perú)
+Grupo E
+Cruzeiro (Brasil)
+ Palestino (Chile)
+ Unión de Santa Fe (Argentina)
+ Mushuc Runa (Ecuador)
+Grupo F
+Fluminense (Brasil)
+ Unión Española (Chile)
+ Once Caldas (Colombia)
+ GV San José (Bolivia)
+Grupo G
+Lanús (Argentina)
+ Vasco da Gama (Brasil)
+ Puerto Cabello (Venezuela)
+ Melgar (Perú)
+Grupo H
+Atlético Mineiro (Brasil)
+ Caracas (Venezuela)
+ Cienciano (Perú)
+ Dep. Iquique (Chile)
 Eliminatorias Sudamericanas
 Fecha 13
 Jueves 20 de marzo
