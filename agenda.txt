@@ -451,11 +451,6 @@ Fecha 4:
  17:00 Dep. Riestra – Defensa y Justicia (Interzonal) – La Candela
  19:00 River – Independiente (Zona B) – River Camp
 Fecha 5:
- Martes 18 de marzo
- 15:00 Argentinos – Huracán (Zona A) – CEFFA
- 15:00 Tigre – Racing (Zona A) – Nito San Andrés
- 15:00 Estudiantes – Banfield (Zona A) – City Bell
- 15:00 Lanús – Gimnasia (Zona B) – Auxiliar
  Miércoles 19 de marzo
  15:00 Unión – Instituto (Interzonal) – La Tatenguita
  15:00 San Martín SJ – Talleres (Zona B) – Auxiliar
@@ -2025,16 +2020,19 @@ Jueves 20 de marzo
  Asistente 1: Tomás Otero
  Asistente 2: Facundo Mendiolar
  Cuarto árbitro: Facundo Fuentes
-Fecha 8 - 23/03/2025
+Fecha 8
  Libre: Rosario Central
- Vélez - Belgrano
- Independiente - Boca
- Platense - Huracán
- San Luis - Gimnasia (LP)
- S.A.T. - Banfield
- San Lorenzo - Racing
- River - Ferro
- Talleres - Newell's
+Domingo 23 de marzo
+10.00 River - Ferro, en River Camp (TV)
+14.00 San Lorenzo - Racing, en Ciudad Deportiva (TV)
+15.30 Vélez - Belgrano, en Villa Olímpica
+Martes 25 de marzo 
+ 10.00 Platense - Huracán, en Predio Mariani Dolan
+10.00 San Luis - Gimnasia (LP), en Estadio Juan Gilberto Funes
+11.00 S.A.T. - Banfield, en Estadio 12 de agosto
+12.00 Independiente - Boca, en Predio de Villa Domínico
+Miércoles 26 de marzo
+16.00 Talleres - Newell's, en Estadio Boutique
 Fecha 9 - 30/03/2025
  Libre: Talleres
  Newell's - River
