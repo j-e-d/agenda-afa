@@ -1456,17 +1456,6 @@ Postergado
  Asistente 1: Gerardo Lencina
  Asistente 2: Uriel García Leri
  Cuarto árbitro: Antonella Alvarez
-Miércoles 19-03
- 18.00 Talleres (Cba.) - Dep. Armenio, en Colón (TV)
- Árbitro: Nicolás Lamolina
- Asistente 1: Diego Bonfá
- Asistente 2: Maximiliano Castelli
- Cuarto árbitro: Adrián Franklin
- 21.15 River Plate - Cdad. de Bolívar, Estadio Madre de Ciudades (TV)
- Árbitro: Sebastián Martínez
- Asistente 1: Ezequiel Brailovsky
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Francisco Acosta
 Sábado 22-03
  16.00 Tigre - Berazategui, en Morón (TV)
  Árbitro: Lucas Comesaña
@@ -2261,6 +2250,56 @@ Atlético Mineiro (Brasil)
  Caracas (Venezuela)
  Cienciano (Perú)
  Dep. Iquique (Chile)
+Fixture Copa Sudamericana 2025 equipos argentinos
+Grupo A
+ Martes 1 de abril, 19:00 | Nacional Potosí vs. Independiente
+ Martes 8 de abril, 19:00 | Independiente vs. Boston River
+ Martes 22 de abril, 19:00 | Guaraní vs. Independiente
+ Martes 6 de mayo, 21:30 | Boston River vs. Independiente
+ Jueves 15 de mayo, 19:00 | Independiente vs. Guaraní
+ Miércoles 28 de mayo, 19:00 | Independiente vs. Nacional Potosí
+Grupo B
+ Jueves 3 de abril, 21:30 |Cerro Largo vs. Defensa y Justicia
+ Jueves 10 de abril, 19:00 | Defensa y Justicia vs. Vitória
+ Jueves 24 de abril, 23:00 | Universidad Católica (Ecuador) vs. Defensa y Justicia
+ Martes 6 de mayo, 19:00 | Vitória vs. Defensa y Justicia
+ Miércoles 14 de mayo, 19:00 | Defensa y Justicia vs. Universidad Católica (Ecuador)
+ Miércoles 28 de mayo, 21:30 | Defensa y Justicia vs. Cerro Largo
+Grupo C
+ Miércoles 2 de abril, 19:00 | Corinthians vs. Huracán
+ Miércoles 9 de abril, 19:00 | Huracán vs. Racing (Montevideo)
+ Miércoles 23 de abril, 19:00 | Huracán vs. América de Cali
+ Jueves 8 de mayo, 19:00 | Racing (Montevideo) vs. Huracán
+ Miércoles 14 de mayo, 23:00 | América de Cali vs. Huracán
+ Martes 27 de mayo, 21:30 | Huracán vs. Corinthians
+Grupo D
+ Miércoles 2 de abril, 23:00 | Atlético Grau vs. Godoy Cruz
+ Martes 8 de abril, 21:30 | Godoy Cruz vs. Sportivo Luqueño
+ Jueves 24 de abril, 19:00 | Godoy Cruz vs. Gremio
+ Martes 6 de mayo, 19:00 | Sportivo Luqueño vs. Godoy Cruz
+ Martes 13 de mayo, 19:00 | Gremio vs. Godoy Cruz
+ Jueves 29 de mayo, 19:00 | Godoy Cruz vs. Atlético Grau
+Grupo E
+ Martes 1 de abril, 19:00 | Unión (Santa Fe) vs. Cruzeiro
+ Miércoles 9 de abril, 19:00 | Palestino vs. Unión (Santa Fe)
+ Miércoles 23 de abril, 23:00 | Mushuc Runa vs. Unión (Santa Fe)
+ Miércoles 7 de mayo, 19:00 | Unión (Santa Fe) vs. Palestino
+ Martes 13 de mayo, 21:30 | Unión (Santa Fe) vs. Mushuc Runa
+ Miércoles 28 de mayo, 21:30 | Cruzeiro vs. Unión (Santa Fe)
+Grupo G
+ Jueves 3 de abril, 19:00 | Academia Puerto Cabello vs. Lanús
+ Miércoles 9 de abril, 21:30 | Lanús vs. Melgar
+ Martes 22 de abril, 21:30 | Vasco da Gama vs. Lanús
+ Martes 6 de mayo, 23:00 | Melgar vs. Lanús
+ Martes 13 de mayo, 21:30 | Lanús vs. Vasco da Gama
+ Martes 27 de mayo, 19:00 | Lanús vs. Academia Puerto Cabello
+Las fechas de la Copa Sudamericana 2025
+Fase de grupos: del 1/4 al 29/5
+ Playoffs Octavos: del 15/7 al 24/7
+ Octavos de final: del 12/8 al 21/8
+ Cuartos de final: del 16/9 al 25/9
+ Semifinales: del 22/10 al 30/10
+ Final: el 22/11
 Eliminatorias Sudamericanas
 Fecha 13
 Jueves 20 de marzo
@@ -2431,7 +2470,7 @@ Jueves 27 de marzo
  Venezuela - Uruguay
  Brasil - Ecuador
 Conmebol Sub 17 Femenina 2025
-La Dirección de Competiciones y Operaciones de la Confederación Sudamericana de Fútbol realizó el sorteo para la Fase de Grupos de la CONMEBOL Sub 17 2025, que se disputará del 1 al 25 de mayo en Colombia y en el que participarán las diez selecciones pertenecientes a las Asociaciones Miembro de la CONMEBOL.
+El torneo se desarrollará del 30 de abril al 24 de mayo del 2025, en las ciudades de Manizales; Palmira y Cali de Colombia.
 Argentina
  integrará el grupo A junto con Colombia, Paraguay, Chile y Venezuela.
  Mientras que el grupo B estará compuesto por Brasil, Ecuador, Uruguay, Perú y Bolivia.
