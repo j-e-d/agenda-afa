@@ -437,24 +437,8 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Apertura
-Fecha 4:
- Miércoles 12 de marzo
- 17:00 Racing – Boca (Zona A) – Tita Mattiussi
- 17:00 Banfield – Belgrano (Zona A) – Alfredo Palacios
- 17:00 Unión – Argentinos (Zona A) – La Tatenguita
- 17:00 Rosario Central – Atlético Tucumán (Zona B) – Arroyo Seco
- 19:00 Talleres – Lanús (Zona B) – La Boutique
- Jueves 13 de marzo
- 17:00 Gimnasia – Godoy Cruz (Zona B) – Estancia Chica
- 17:00 Vélez – San Lorenzo (Zona B) – Villa Olímpica
- 17:00 Platense – Instituto (Zona B) – Predio
- 17:00 Dep. Riestra – Defensa y Justicia (Interzonal) – La Candela
- 19:00 River – Independiente (Zona B) – River Camp
-Fecha 5:
+Fecha 5
  Miércoles 19 de marzo
- 15:00 Unión – Instituto (Interzonal) – La Tatenguita
- 15:00 San Martín SJ – Talleres (Zona B) – Auxiliar
- 15:00 Belgrano – Aldosivi (Zona A) – Armando Pérez
  19:00 Boca – Indepte. Rivadavia (Zona A) – Boca Ezeiza
  19:00 Atlético Tucumán – Sarmiento (Zona B) – José Fierro
  Jueves 20 de marzo
@@ -798,12 +782,6 @@ Fecha 17
 Primera B
 Torneo Apertura 2025
 Fecha 2
-Miércoles 19 de marzo
- 15.30 Acassuso - Brown de Adrogué
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Martín Alonso
- Asistente 2: Damián Alcaraz
- Cuarto árbitro: Guido Mascheroni
 Postergados:
  Acassuso c. F.C. Midland
  Árbitro: Nicolás Mastroieni
@@ -1479,12 +1457,7 @@ Postergado
  Asistente 2: Uriel García Leri
  Cuarto árbitro: Antonella Alvarez
 Miércoles 19-03
- 15.45 Aldosivi (M.D.P.) - G. y Tiro (Salta), en Arsenal (TV)
- Árbitro: Bruno Amiconi
- Asistente 1: Juan Del Fueyo
- Asistente 2: Guillermo yacante
- Cuarto árbitro: Ramiro Maglio
-18.00 Talleres (Cba.) - Dep. Armenio, en Colón (TV)
+ 18.00 Talleres (Cba.) - Dep. Armenio, en Colón (TV)
  Árbitro: Nicolás Lamolina
  Asistente 1: Diego Bonfá
  Asistente 2: Maximiliano Castelli
@@ -2085,32 +2058,6 @@ Torneo Femenino de Primera División 2025
 Primer Torneo
 Fecha 7
 Libre: Newell's 
-Miércoles 19 de marzo
- 10.00 Huracán -San Luis, en La Quemita (TV)
- Árbitra: María Laura Fortunato
- Asistente 1: Julieta Fernández
- Asistente 2: Jennifer Mendoza
- Cuarta árbitra: Camila Gette
- 15.00 Banfield - San Lorenzo, en Estadio Florencio Solá
- Árbitra: Antonella Álvarez de Olivera
- Asistente 1: Mariana de Almeida
- Asistente 2: Ludmila Capelli Caligiuri
- Cuarta árbitra: Bettina Cingari
-15.30 Racing - River, en Predio Tita Mattiussi
- Árbitra:Mariela Martino 
- Asistente 1: Carla López
- Asistente 2: Sofía Curto
- Cuarta árbitra: Julieta Fernández
- 15.30 Gimnasia - SAT, en Estancia Chica
- Árbitra: Micaela Abelardo 
- Asistente 1: Analía Fernández
- Asistente 2: Daniela Sanda
- Cuarta árbitra: Salomé Di Iorio
- 15.30 Rosario Central - Vélez, en Ciudad Deportiva
- Árbitra: Violeta Vázquez 
- Asistente 1: Berenice Avaro
- Asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Elías Viglione
 Jueves 20 de marzo
  10.00 Boca - Platense, en Casa Amarilla (TV)
  Árbitra: Bettina Cingari 
@@ -2231,14 +2178,6 @@ Fecha 17 - 25/05/2025
  Racing - Huracán
  Banfield - Gimnasia (LP)
 Torneo Femenino de Primera B
-CONMEBOL Libertadores Sub 20 2025
-El torneo se llevará a cabo desde el 1 y 16 de marzo en Paraguay.
- Grupo A: Flamengo (Brasil), O'Higgins (Chile), Danubio (Uruguay), Olimpia (Paraguay).
- Grupo B: Belgrano (Argentina), Metropolitanos (Venezuela), Fortaleza (Colombia), Universitario (Perú)
- Grupo C: Palmeiras (Brasil), Independiente del Valle (Ecuador), Cerro Porteño (Paraguay), Blooming (Bolivia).
- La CONMEBOL Libertadores Sub20 2025 se disputará en 2 fases, Fase Preliminar (Fase de Grupos) y Fase Final (disputa de las Semifinales, 3° Puesto, y Final). Todas las fases se jugarán a una sola rueda de partidos.
- La Fase Preliminar la disputan los 12 equipos clasificados, distribuidos en 3 grupos de 4 equipos cada uno. La conformación de los 3 grupos corresponderá al resultado del sorteo organizado por la CONMEBOL.
- Clasificarán para las Semifinales, los equipos que ocupen la primera posición en cada grupo, más el mejor segundo colocado, teniendo en cuenta los 3 grupos (1A, 1B, 1C, y el mejor 2° colocado).
 CONMEBOL Libertadores 2025
 Grupo A
 Botafogo (Brasil)
