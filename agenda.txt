@@ -19,101 +19,107 @@ Jueves 20-03
  Cuarto árbitro: Julio Barraza
  Var: Mauro Vigliano
  Avar: Carla López
-Fecha 11 (30/03/2025)
- Zona A
- Barracas Central – Estudiantes
- Newell’s – Boca
- Defensa y Justicia – Tigre
- Central Córdoba – Argentinos
- Aldosivi – Unión
- Banfield – Huracán
- Independiente Rivadavia – Racing
- Zona B
- Gimnasia – Sarmiento
- River – Rosario Central
- Vélez – Deportivo Riestra
- Platense – Atlético Tucumán
- Instituto – San Martín (SJ)
- San Lorenzo – Lanús
- Independiente – Godoy Cruz
- Interzonal
- Belgrano – Talleres
-Fecha 12 (06/04/2025)
- Zona A
- Racing – Banfield
- Huracán – Aldosivi
- Unión – Central Córdoba
- Argentinos – Defensa y Justicia
- Tigre – Newell’s
- Boca – Barracas Central
- Estudiantes – Belgrano
- Zona B
- Lanús – Independiente
- San Martín (SJ) – San Lorenzo
- Atlético Tucumán – Instituto
- Deportivo Riestra – Platense
- Rosario Central – Vélez
- Sarmiento – River
- Talleres – Gimnasia
- Interzonal
- Godoy Cruz – Independiente Rivadavia
-Fecha 13 (13/04/2025)
- Zona A
- Belgrano – Boca
- Barracas Central – Tigre
- Newell’s – Argentinos
- Defensa y Justicia – Unión
- Central Córdoba – Huracán
- Aldosivi – Racing
- Banfield – Independiente Rivadavia
- Zona B
- River – Talleres
- Vélez – Sarmiento
- Platense – Rosario Central
- Instituto – Deportivo Riestra
- San Lorenzo – Atlético Tucumán
- Independiente – San Martín (SJ)
- Godoy Cruz – Lanús
- Interzonal
- Gimnasia – Estudiantes
-Fecha 14 (20/04/2025)
- Zona A
- Independiente Rivadavia – Aldosivi
- Racing – Central Córdoba
- Huracán – Defensa y Justicia
- Unión – Newell’s
- Argentinos – Barracas Central
- Tigre – Belgrano
- Boca – Estudiantes
- Zona B
- San Martín (SJ) – Godoy Cruz
- Atlético Tucumán – Independiente
- Deportivo Riestra – San Lorenzo
- Rosario Central – Instituto
- Sarmiento – Platense
- Talleres – Vélez
- Gimnasia – River
- Interzonal
- Lanús – Banfield
-Fecha 15 (27/04/2025)
- Zona A
- Estudiantes – Tigre
- Belgrano – Argentinos
- Barracas Central – Unión
- Newell’s – Huracán
- Defensa y Justicia – Racing
- Central Córdoba – Independiente Rivadavia
- Aldosivi – Banfield
- Zona B
- Vélez – Gimnasia
- Platense – Talleres
- Instituto – Sarmiento
- San Lorenzo – Rosario Central
- Independiente – Deportivo Riestra
- Godoy Cruz – Atlético Tucumán
- Lanús – San Martín (SJ)
- Interzonal
- River – Boca
+Fecha 11
+Jueves 27 de marzo
+ 15.30 Aldosivi – Unión
+ 18.00 Barracas Central – Estudiantes
+ 21.00 Independiente Rivadavia – Racing
+Viernes 28 de marzo
+ 17.00 Defensa y Justicia – Tigre
+ 19.15 Banfield – Huracán
+ 19.15 San Lorenzo – Lanús
+ 21.30 Vélez – Deportivo Riestra
+ 21.30 Platense – Atlético Tucumán
+Sábado 29 de marzo
+ 16.30 Instituto – San Martín (SJ)
+ 18.30 Central Córdoba – Argentinos
+ 18.45 Independiente – Godoy Cruz
+ 21.00 River – Rosario Central
+Domingo 30 de marzo
+ 15.00 Belgrano – Talleres
+ 17.30 Gimnasia – Sarmiento
+ 19.30 Newell’s – Boca
+Fecha 12
+Viernes 4 de abril
+ 19.00 Estudiantes – Belgrano
+ 22.00 San Martín (SJ) – San Lorenzo
+Sábado 5 de abril
+ 15.30 Godoy Cruz – Independiente Rivadavia
+ 15.30 Rosario Central – Vélez
+ 18.00 Talleres – Gimnasia
+ 18.00 Huracán – Aldosivi
+ 20.30 Sarmiento – River
+Domingo 6 de abril
+ 15.30 Unión – Central Córdoba
+ 15.30 Lanús – Independiente
+ 18.00 Boca – Barracas Central
+ 20.15 Racing – Banfield
+ 20.15 Argentinos – Defensa y Justicia
+Lunes 7 de abril
+ 15.30 Deportivo Riestra – Platense
+ 19.00 Tigre – Newell’s
+ 21.00 Atlético Tucumán – Instituto
+Fecha 13
+Viernes 11 de abril
+ 19.00 Banfield – Independiente Rivadavia
+ 21.00 Newell’s – Argentinos
+Sábado 12 de abril
+ 15.30 San Lorenzo – Atlético Tucumán
+ 18.00 Barracas Central – Tigre
+ 20.30 Belgrano – Boca
+Domingo 13 de abril
+ 15.30 Gimnasia – Estudiantes
+ 15.30 Instituto – Deportivo Riestra
+ 18.00 Independiente – San Martín (SJ)
+ 20.15 River – Talleres
+Lunes 14 de abril
+ 15.30 Aldosivi – Racing
+ 19.00 Defensa y Justicia – Unión
+ 19.00 Central Córdoba – Huracán
+ 21.15 Godoy Cruz – Lanús
+ 21.15 Vélez – Sarmiento
+Martes 15 de abril
+ 20.00 Platense – Rosario Central
+Fecha 14
+Viernes 18 de abril
+ 17.00 Gimnasia – River
+ 19.15 Racing – Central Córdoba
+ 19.15 Talleres – Vélez
+ 21.30 Unión – Newell’s
+ 21.30 Atético Tucumán – Independiente
+Sábado 19 de abril
+ 16.15 Lanús – Banfield
+ 18.15 Huracán – Defensa y Justicia
+ 20.30 Boca – Estudiantes
+Domingo 20 de abril
+ 15.30 Deportivo Riestra – San Lorenzo
+ 18.00 San Martín (SJ) – Godoy Cruz
+ 18.00 Sarmiento – Platense
+ 20.30 Rosario Central – Instituto
+Lunes 21 de abril
+ 19.00 Tigre – Belgrano
+ 21.15 Argentinos – Barracas Central
+ 21.15 Independiente Rivadavia – Aldosivi
+Fecha 15
+Sábado 26 de abril
+ 15.00 Aldosivi – Banfield
+ 17.00 San Lorenzo – Rosario Central
+ 19.00 Belgrano – Argentinos
+Domingo 27 de abril
+ 15.30 River – Boca
+ 19.00 Instituto – Sarmiento
+ 19.00 Lanús – San Martín (SJ)
+ 21.15 Independiente – Deportivo Riestra
+Lunes 28 de abril
+ 15.00 Barracas Central – Unión
+ 17.15 Godoy Cruz – Atlético Tucumán
+ 19.30 Defensa y Justicia – Racing
+ 19.30 Estudiantes – Tigre
+ 21.45 Central Córdoba – Independiente Rivadavia
+ 21.45 Vélez – Gimnasia
+Martes 29 de abril
+ 19.00 Newell’s – Huracán
+ 19.00 Platense – Talleres
 Fecha 16 (04/05/2025)
  Zona A
  Banfield – Central Córdoba
