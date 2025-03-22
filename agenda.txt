@@ -1057,11 +1057,6 @@ Domingo 23 de marzo
  Asistente 1: Alan Colman
  Asistente 2: Ezequiel Rabasa
  Cuarto árbitro: Manuel Prieto
-18.00 Mercedes c. J.J. de Urquiza
- Árbitro: Valentín Boccaccia
- Asistente 1: Federico Lapalma
- Asistente 2: Nahuel Valdeón
- Cuarto árbitro: Valentín Persico
 20.00 Estrella del Sur c. Camioneros, en Brown (Adrogué)
  Árbitro: Agustín Flores
  Asistente 1: Lucas Monsalvo
@@ -1073,6 +1068,11 @@ Miércoles 26 de marzo
  Asistente 1: Jonathan Florentín
  Asistente 2: Lucas García
  Cuarto árbitro: David Cornejo
+ 19.00 Mercedes - J.J. de Urquiza
+ Árbitro: Valentín Boccaccia
+ Asistente 1: Federico Lapalma
+ Asistente 2: Nahuel Valdeón
+ Cuarto árbitro: Valentín Persico
 Fecha 4 - 29/03/2025
 Libre: Berazategui
  Ituzaingó c. Lugano
@@ -2272,20 +2272,6 @@ Fase de grupos: del 1/4 al 29/5
  Semifinales: del 22/10 al 30/10
  Final: el 22/11
 Eliminatorias Sudamericanas
-Fecha 13
-Jueves 20 de marzo
-20.00 Paraguay - Chile
- 21.45 Brasil - Colombia
- 22.30 Perú - Bolivia
-Viernes 21 de marzo
-18.00 Ecuador - Venezuela
-20.30 Uruguay - Argentina, en Estadio Centenario (Montevideo)
- Árbitro: Juan Benítez (Paraguay)
- Asistente 1: Eduardo Cardozo (Paraguay)
- Asistente 2: Milciades Saldívar (Paraguay)
- Cuarto árbitro: Carlos Benítez (Paraguay)
- VAR: Derlis López (Paraguay)
- AVAR: José Cuevas (Paraguay)
 Fecha 14
 Martes 25 de marzo
 17.00 Bolivia - Uruguay
