@@ -1779,13 +1779,25 @@ Atlético Mineiro (Brasil)
 Fixture Copa Sudamericana 2025 equipos argentinos
 Grupo A
  Martes 1 de abril, 19:00 | Nacional Potosí vs. Independiente
+ Árbitro: Edina Alves (BRA)
+ Asistente 1: Bruno Pires (BRA)
+ Asistente 2: Fabrini Bevilaqua (BRA)
+ Cuarto árbitro: Rodrigo Pereira (BRA)
+ VAR: Daiane Muniz (BRA)
+ VAR: Diego Pombo (BRA)
  Martes 8 de abril, 19:00 | Independiente vs. Boston River
  Martes 22 de abril, 19:00 | Guaraní vs. Independiente
  Martes 6 de mayo, 21:30 | Boston River vs. Independiente
  Jueves 15 de mayo, 19:00 | Independiente vs. Guaraní
  Miércoles 28 de mayo, 19:00 | Independiente vs. Nacional Potosí
 Grupo B
- Jueves 3 de abril, 21:30 |Cerro Largo vs. Defensa y Justicia
+ Jueves 3 de abril, 21:30 | Cerro Largo vs. Defensa y Justicia
+ Árbitro: Ivo Méndez (BOL)
+ Asistente 1: Carlos Tapia (BOL)
+ Asistente 2: Rubén Flores (BOL)
+ Cuarto árbitro: Christian Aleman (BOL)
+ VAR: Jorge Justiniano (BOL)
+ AVAR: Ariel Guizada (BOL)
  Jueves 10 de abril, 19:00 | Defensa y Justicia vs. Vitória
  Jueves 24 de abril, 23:00 | Universidad Católica (Ecuador) vs. Defensa y Justicia
  Martes 6 de mayo, 19:00 | Vitória vs. Defensa y Justicia
@@ -1793,6 +1805,12 @@ Grupo B
  Miércoles 28 de mayo, 21:30 | Defensa y Justicia vs. Cerro Largo
 Grupo C
  Miércoles 2 de abril, 19:00 | Corinthians vs. Huracán
+ Árbitro: Cristian Garay (CHI)
+ Asistente 1: José Retamal (CHI)
+ Asistente 2: Miguel Rocha (CHI)
+ Cuarto árbitro: Fernando Vejar (CHI)
+ VAR: Juan Lara (CHI)
+ AVAR: Matías Riquelme (CHI)
  Miércoles 9 de abril, 19:00 | Huracán vs. Racing (Montevideo)
  Miércoles 23 de abril, 19:00 | Huracán vs. América de Cali
  Jueves 8 de mayo, 19:00 | Racing (Montevideo) vs. Huracán
@@ -1800,6 +1818,12 @@ Grupo C
  Martes 27 de mayo, 21:30 | Huracán vs. Corinthians
 Grupo D
  Miércoles 2 de abril, 23:00 | Atlético Grau vs. Godoy Cruz
+ Árbitro: Guillermo Guerrero (ECU)
+ Asistente 1: Edison Vásquez (ECU)
+ Asistente 2: David Vacacela (ECU)
+ Cuarto árbitro: Robert Cabrera (ECU)
+ VAR: Jefferson Macias (ECU)
+ AVAR: Susana Corella (ECU)
  Martes 8 de abril, 21:30 | Godoy Cruz vs. Sportivo Luqueño
  Jueves 24 de abril, 19:00 | Godoy Cruz vs. Gremio
  Martes 6 de mayo, 19:00 | Sportivo Luqueño vs. Godoy Cruz
@@ -1807,6 +1831,12 @@ Grupo D
  Jueves 29 de mayo, 19:00 | Godoy Cruz vs. Atlético Grau
 Grupo E
  Martes 1 de abril, 19:00 | Unión (Santa Fe) vs. Cruzeiro
+ Árbitro: Andrés Matonte (URU)
+ Asistente 1: Nicolás Tarán (URU)
+ Asistente 2: Héctor Bergalo (URU)
+ Cuarto árbitro: Leodán González (URU)
+ VAR: Andrés Cunha (URU)
+ AVAR: Santiago Fernández (URU)
  Miércoles 9 de abril, 19:00 | Palestino vs. Unión (Santa Fe)
  Miércoles 23 de abril, 23:00 | Mushuc Runa vs. Unión (Santa Fe)
  Miércoles 7 de mayo, 19:00 | Unión (Santa Fe) vs. Palestino
@@ -1814,6 +1844,12 @@ Grupo E
  Miércoles 28 de mayo, 21:30 | Cruzeiro vs. Unión (Santa Fe)
 Grupo G
  Jueves 3 de abril, 19:00 | Academia Puerto Cabello vs. Lanús
+ Árbitro: Carlos Ortega (COL)
+ Asistente 1: Sebastián Vela (COL)
+ Asistente 2: Jhon Gallego (COL)
+ Cuarto árbitro: Jhon Ospina (COL)
+ VAR: Nicolás Gallo (COL)
+ AVAR: Mary Cristina Blanco (COL)
  Miércoles 9 de abril, 21:30 | Lanús vs. Melgar
  Martes 22 de abril, 21:30 | Vasco da Gama vs. Lanús
  Martes 6 de mayo, 23:00 | Melgar vs. Lanús
@@ -1953,17 +1989,17 @@ Uruguay
 Bolivia
 Fixture de la Fase de Grupos
 Jueves 27 de marzo
- Colombia - Chile
- Perú - Paraguay
- Viernes 28 de marzo
- Brasil - Uruguay
- Bolivia - Venezuela
+Colombia 1 - Chile 0
+ Perú 0 - Paraguay 5
+Viernes 28 de marzo
+Brasil 1 - Uruguay 1
+ Bolivia 0 - Venezuela 2
  Sábado 29 de marzo
- Perú - Colombia
- Chile - Argentina
- Domingo 30 de marzo
- Bolivia - Brasil
- Uruguay - Ecuador
+Perú 0 - Colombia 2 
+ Chile 3 - Argentina 2
+Domingo 30 de marzo
+Bolivia 0 - Brasil 3
+ Uruguay 0 - Ecuador 4
  Lunes 31 de marzo
  Argentina - Paraguay
  Chile - Perú
