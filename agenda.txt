@@ -429,26 +429,32 @@ POSTERGADO
  Asistente 2: Damián Orellana
  Cuarto árbitro: Rodrigo Villalba
 Fecha 9
- Zona A
- Los Andes - Gimnasia y Tiro (S)
- Tristán Suárez - Deportivo Maipú
- San Martín (T) - Deportivo Madryn
- Güemes (SdE) - Alvarado
- Patronato - All Boys
- Ferro Carril Oeste - Arsenal
- Almagro - Colegiales
- San Miguel - Atlanta
- Quilmes - Racing (C)
- Zona B
- Nueva Chicago - Talleres (RdE)
- Estudiantes (RC) - Deportivo Morón
- Defensores de Belgrano - Estudiantes (BA)
- Chacarita Juniors - Defensores Unidos
- San Telmo - Temperley
- Agropecuario - Colón
- Gimnasia y Esgrima (J) - Mitre (SdE)
- Gimnasia y Esgrima (M) - Chaco For Ever
- Central Norte (S) - Almirante Brown
+ Zona “A”
+Sábado 5 de abril
+ Güemes (S.E.) - Alvarado (M.D.P.), a las 15.00 horas
+ Los Andes - G. y Tiro (Salta), a las 15.30 horas
+ San Miguel - Atlanta, a las 15.30 horas(TV)
+ Tristán Suarez - Dep. Maipú (Mza.), a las 19.00 horas
+Domingo 6 de abril
+ Almagro - Colegiales, a las 15.30 horas
+ San Martin (T.) - Dep. Madryn, a las 15.30 horas(TV)
+Lunes 7 de abril
+ Ferro Carril Oeste - Arsenal F.-, a las 19.00 horas
+ Patronato (Paraná) - All Boys, a las 20.30 horas
+ Quilmes A.C. - Racing (Cba.), a las 21.10 horas (TV)
+ Zona “B”
+Sábado 5 de abril
+ Chacarita Juniors - Def. Unidos, a las 13.30 horas (TV)
+ Def. de Belgrano - Estudiantes, a las 15.30 horas
+ San Telmo - Temperley, a las 15.30 horas
+ Nva. Chicago - Talleres (R.E.), a las 17.30 horas(TV)
+Domingo 6 de abril
+ G. y Esgrima (J.) - Mitre (S.E.), a las 16.00 horas
+ G. y Esgrima (Mza.) - Chaco For Ever, a las 16.30 horas
+ Ctral. Norte (Salta) - Alte. Brown, a las 18.00 horas en estadio Padre E. Martearena
+ Estudiantes (Rio IV) - Dep. Morón, a las 19.00 horas
+Lunes 7 de abril
+ Agropecuario Arg. - Colón, a las 18.00 horas (TV)
 Fecha 10
  Zona A
  Quilmes - Los Andes
@@ -632,17 +638,22 @@ Postergados:
  Asistente 2: Luis Rotman
  Cuarto árbitro: Julián Beligoy
  FECHA 10
- LIBRE LAFERRERE
- LINIERS vs. FÉNIX
- COMUNICACIONES vs. FLANDRIA
- DEPORTIVO ARMENIO vs. VILLA DÁLMINE
- SAN MARTÍN (BURZACO) vs. ARGENTINO DE QUILMES
- SACACHISPAS vs. ARGENTINO (MERLO)
- DEPORTIVO MERLO vs. BROWN (ADROGUÉ)
- DOCK SUD vs. ACASSUSO
- VILLA SAN CARLOS vs. EXCURSIONISTAS
- REAL PILAR vs. MIDLAND
- UAI URQUIZA vs. SPORTIVO ITALIANO
+ Libre Laferrere
+Viernes 4 de abril
+ Comunicaciones - Flandria, a las 20.00 horas (TV)
+Sábado 5 de abril
+ Liniers - Fénix, a las 15.30 horas
+ Dep. Armenio - Villa Dálmine, a las 15.30 horas
+ Villa San Carlos - Excursionistas, a las 15.30 horas
+ Real Pilar F.C. - F.- Midland, a las 18.00 horas en estadio Municipal de Pilar
+ San Martin (B.) - Arg. de Quilmes, a las 19.00 horas
+ Dep. Merlo - Brown (Adrogué), a las 19.05 horas (TV)
+Domingo 6 de abril
+ UAI – Urquiza - Sp. Italiano, a las 15.30 horas
+Lunes 7 de abril
+ Sp. Dock Sud - Acassuso, a las 15.30 horas
+Martes 8 de abril
+ Sacachispas F.C. - Arg. de Merlo, a las 15.30 horas 
  FECHA 11
  LIBRE UAI URQUIZA
  SPORTIVO ITALIANO vs. REAL PILAR
@@ -795,14 +806,28 @@ Lunes 31-03
  Asistente 1: Diego Ortiz
  Asistente 2: Nicolás Cavagnaro
  Cuarto árbitro: Facundo Fuentes
-Fecha 5 - 05/04/2025
+Fecha 5
  Libre: El Porvenir
- Def. de Cambaceres c. J.J. de Urquiza
- L.N. Alem c. Muñiz
- Mercedes c. Claypole
- Ctral. Córdoba (Ros.) c. Dep. Español
- Puerto Nuevo c. Ituzaingó
- Lugano c. Berazategui
+Zona “A”
+Sábado 5 de abril
+ L.N. Alem - Muñiz, a las 15.30 horas
+ Ctral. Córdoba (Ros.) - Dep. Español, a las 15.30 horas
+ Puerto Nuevo - Ituzaingó, a las 15.30 horas
+ Lugano - Berazategui, a las 15.30 horas
+ Mercedes - Claypole, a las 18.00 horas
+Domingo 6 de abril
+ Def. de Cambaceres - J.J. de Urquiza, a las 15.30 horas
+Zona “B”
+Sábado 5 de abril
+ Victoriano Arenas - Dep. Paraguayo, a las 15.30 horas
+Domingo 6 de abril
+ Ctral. Ballester - Cañuelas F.C, a las 15.30 horas 
+ Estrella del Sur -Luján, a las 15.30 horas en Claypole
+ Juv. Unida - Yupanqui, a las 15.30 horas
+Lunes 7 de abril
+ Gral. Lamadrid -Argentino (Ros.), a las 15.05 horas (TV)
+ Sp. Barracas - Atlas, a las 15.30 horas en Almagro
+ Rec. Español - Camioneros, a las 15.30 horas en Ituzaingó
 Fecha 6 - 12/04/2025
  Libre: Lugano
  Berazategui c. Puerto Nuevo
