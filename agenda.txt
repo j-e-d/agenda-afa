@@ -2,20 +2,6 @@
 Torneo Apertura 2025
 Fecha 12
 Domingo 6 de abril
- 15.30 Unión – Central Córdoba
- Árbitro: Nazareno Arasa
- Asistente 1: Damián Espinoza
- Asistente 2: Marcelo Bistocco
- Cuarto árbitro: Emanuel Ejarque
- VAR: Fabrizio Llobet
- AVAR: Gastón Brizuela
-15.30 Lanús – Independiente
- Árbitro: Leandro Rey Hilfer 
- Asistente 1: Adrián Delbarba
- Asistente 2: Erik Grunmann
- Cuarto árbitro: Sebastián Zunino
- VAR: Diego Ceballos
- AVAR: Julio Fernández
 18.00 Boca – Barracas Central
  Árbitro: Fernando Echenique
  Asistente 1: Walter Ferreyra
@@ -462,17 +448,6 @@ POSTERGADO
  Cuarto árbitro: Rodrigo Villalba
 Fecha 9
 Zona “A”
- Domingo 6 de abril
- Almagro - Colegiales, a las 15.30 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Damián Oliveto
- Asistente 2: Matías Basso
- Cuarto árbitro: Germán Bermúdez
- San Martin (T.) - Dep. Madryn, a las 15.30 horas(TV)
- Árbitro: Pablo Giménez
- Asistente 1: Iván Núñez
- Asistente 2: Mariano Ruas
- Cuarto árbitro: Sebastián Bresba
  Lunes 7 de abril
  Ferro Carril Oeste - Arsenal F.C, a las 19.00 horas
  Árbitro: Juan Cruz Robledo
@@ -491,16 +466,6 @@ Zona “A”
  Cuarto árbitro: Lucas Brumer
 Zona “B”
  Domingo 6 de abril
- G. y Esgrima (J.) - Mitre (S.E.), a las 16.00 horas
- Árbitro: Lucas Cavallero
- Asistente 1: Hernán Vallejos
- Asistente 2: Emanuel Serale
- Cuarto árbitro: Federico Guaymas
- G. y Esgrima (Mza.) - Chaco For Ever, a las 16.30 horas
- Árbitro: Bruno Amiconi
- Asistente 1: Manuel Sánchez
- Asistente 2: Guido Córdoba
- Cuarto árbitro: Julio Luciano
  Ctral. Norte (Salta) - Alte. Brown, a las 18.00 horas en estadio Padre E. Martearena
  Árbitro: Álvaro Carranza
  Asistente 1: Matías Balmaceda
@@ -701,13 +666,7 @@ Postergados:
  Cuarto árbitro: Julián Beligoy
  FECHA 10
  Libre Laferrere
- Domingo 6 de abril
- UAI – Urquiza - Sp. Italiano, a las 15.30 horas
- Árbitro: Gonzalo Creimermann
- Asistente 1: Federico Zuvilivia
- Asistente 2: Matías Noli
- Cuarto árbitro: Laura Fortunato
-Lunes 7 de abril
+ Lunes 7 de abril
  Sp. Dock Sud - Acassuso, a las 15.30 horas
  Árbitro: Ramiro Maglio
  Asistente 1: Tomás Diulio
@@ -858,26 +817,7 @@ Partido no programado
 Ctral. Córdoba (Ros.) - El Porvenir.
 Fecha 5
  Libre: El Porvenir
-Zona “A”
-Domingo 6 de abril
- Def. de Cambaceres - J.J. de Urquiza, a las 15.30 horas
 Zona “B”
- Domingo 6 de abril
- Ctral. Ballester - Cañuelas F.C, a las 15.30 horas 
- Árbitro: Valentín Bocaccia
- Asistente 1: Mario Vargas
- Asistente 2: Julieta Fernández
- Cuarto árbitro: Valentín Persico
-Estrella del Sur -Luján, a las 15.30 horas en Claypole
- Árbitro: Manuel Girett
- Asistente 1: Federico Bozo
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: Manuel Prieto
-Juv. Unida - Yupanqui, a las 15.30 horas
- Árbitro: Agustín Flores
- Asistente 1: Heber Ibáñez Meza
- Asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Leandro Fedele 
 Lunes 7 de abril
  Gral. Lamadrid -Argentino (Ros.), a las 15.05 horas (TV)
  Árbitro: Gabriel Flores
@@ -1817,13 +1757,6 @@ Miércoles 7 de mayo, 21:30 | Univ. de Chile vs. Estudiantes (LP)
 Miércoles 14 de mayo, 21:30 | Botafogo vs. Estudiantes (LP)
 Martes 27 de mayo, 21:30 | Estudiantes (LP) vs. Carabobo
 Grupo B
-Miércoles 2 de abril, 21:30 | Universitario vs. River Plate
- Árbitro: Gustavo Tejera (URU)
- Asistente 1: Carlos Barreiro (URU)
- Asistente 2: Andrés Nievas (URU) 
- Cuarto árbitro: Javier Feres (URU)
- VAR: Christhian Ferreyra (URU)
- AVAR: Richard Trinidad (URU)
 Martes 8 de abril, 21:30 | River Plate vs. Barcelona (Ecuador)
  Jueves 24 de abril, 21:30 | Independiente del Valle vs. River Plate
  Jueves 8 de mayo, 21:30 | Barcelona (Ecuador) vs. River Plate
@@ -1977,12 +1910,6 @@ Finalissima 2025
 La Selección Argentina, campeona de la Copa América 2024, y la Selección de España, campeona de la Eurocopa 2024, disputarán el próximo año la Finalissima en un partido único con fecha y sede a confirmar. 
 Selección Femenina
 Amistosos internacionales
-Viernes 4 de abril
-23.30 Canadá - Argentina, en British Colombia BC Place, Vancouver
-Árbitra: Nathalie Simon (Estados Unidos)
-Asistente 1: Kali Smith (Estados Unidos)
-Asistente 2: Katarzyna Wasiak (Estados Unidos)
-Cuarto árbitro: Katja Koroleva
 Martes 8 de abril
 23.00 Canadá - Argentina, en British Colombia Starlight Stadium, Langford
 Copa América Femenina 2025 
@@ -2060,50 +1987,7 @@ La primera fase del torneo clasificatorio intercontinental tendrá lugar en novi
 Clasificación Mundial Femenina FIFA/Coca-Cola
  previa al sorteo del torneo. Las dos primeras accederán a la segunda fase del torneo clasificatorio intercontinental, que se disputará en febrero de 2027 en una única sede y a la que se sumarán dos representantes de la Concacaf, uno de la CONMEBOL y otro de la UEFA. Las seis selecciones se encuadrarán en tres cruces diferentes, consistentes en sendos partidos de eliminación directa que decidirán los tres equipos clasificados para la Copa Mundial Femenina de la FIFA 2027™. Las selecciones representantes de la misma confederación no podrán quedar encuadradas en un mismo cruce.
 Conmebol Sub 17 Masculina 2025
- El certamen se llevará a cabo del 27 de marzo al 12 de abril del 2025 en Colombia.
-Grupo A
-Colombia
-Argentina
-Paraguay
-Chile
-Perú
-Grupo B
-Brasil
- Ecuador
-Venezuela
-Uruguay
-Bolivia
-Fixture de la Fase de Grupos
-Jueves 27 de marzo
-Colombia 1 - Chile 0
- Perú 0 - Paraguay 5
-Viernes 28 de marzo
-Brasil 1 - Uruguay 1
- Bolivia 0 - Venezuela 2
- Sábado 29 de marzo
-Perú 0 - Colombia 2 
- Chile 3 - Argentina 2
-Domingo 30 de marzo
-Bolivia 0 - Brasil 3
- Uruguay 0 - Ecuador 4
- Lunes 31 de marzo
- Argentina 4 - Paraguay 1
- Chile 5 - Perú 0
- Martes 1° de abril
- Ecuador - Venezuela
- Uruguay - Bolivia
- Miércoles 2 de abril
- Paraguay - Colombia
- Argentina - Perú
- Jueves 3 de abril
- Venezuela - Brasil
- Ecuador - Bolivia
- Viernes 4 de abril
- Colombia - Argentina
- Paraguay - Chile
- Sábado 5 de abril
- Venezuela - Uruguay
- Brasil - Ecuador
+ El certamen se lleva a cabo del 27 de marzo al 12 de abril del 2025 en Colombia.
 Conmebol Sub 17 Femenina 2025
 El torneo se desarrollará del 30 de abril al 24 de mayo del 2025, en las ciudades de Manizales; Palmira y Cali de Colombia.
 Argentina
