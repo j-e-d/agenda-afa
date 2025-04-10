@@ -476,7 +476,7 @@ Fecha 16 (16/11/2025)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Apertura
 Supercopa Internacional 2024
-Sábado 5 de julio
+Domingo 6 de julio
 Estudiantes de L.P. - Vélez, en horario y estadio a designar (TV)
 Supercopa Argentina 2024
 Sábado 6 de septiembre
@@ -1333,17 +1333,6 @@ Fecha 26
 Copa Argentina
 CRUCES DE LA COPA ARGENTINA 2025
 32AVOS. DE FINAL
-Miércoles 9 de abril
- 16.00 Rosario Ctral. - Los Andes, en San Nicolás (TV)
-Árbitro: Pablo Dóvalo 
-Asistente 1: Ezequiel Brailovsky 
-Asistente 2: Iván Aliende 
-Cuarto árbitro: Adrián Núñez 
-21.10 Sarmiento - Ctral. Córdoba (Ros.), en Estudiantes (Caseros) (TV)
-Árbitro: Bruno Amiconi 
-Asistente 1: Walter Ferreyra 
-Asistente 2: Ernesto Callegari 
-Cuarto árbitro: Cristian Cernadas 
 Miércoles 16 de abril
 Independiente Riv. (Mza.) - Estudiantes (Bs. As.), a las 16.10 horas en el estadio Juan Gilberto Funes.
 Argentinos Juniors - Ctral. Norte (Salta), a las 18.35 horas en Estudiantes (Bs. As.)
@@ -1908,13 +1897,6 @@ Jueves 24 de abril, 21:30 | Independiente del Valle vs. River Plate
  Jueves 15 de mayo, 21:30 | River Plate vs. Independiente del Valle 
 Martes 27 de mayo, 21:30 | River Plate vs. Universitario
 Grupo C
-Miércoles 9 de abril, 21:30 | Flamengo vs. Central Córdoba
- Árbitro: Cristian Garay (Chile)
- Asistente 1: Alejandro Molina (Chile)
- Asistente 2: Claudio Urrutia (Chile)
- Cuarto árbitro: José Cabero (Chile)
- VAR: Rodrigo Carvajal (Chile)
- AVAR: Mathias Riquelme (Chile)
 Jueves 24 de abril, 19:00 | Central Córdoba vs. Dep. Táchira
 Miércoles 7 de mayo, 21:30 | Central Córdoba vs. Flamengo
 Martes 13 de mayo, 19:00 | Dep. Táchira vs. Central Córdoba
@@ -1925,25 +1907,11 @@ Jueves 8 de mayo, 19:00 | Talleres vs. Libertad
 Jueves 15 de mayo, 19:00 | Talleres vs. Alianza Lima
 Martes 27 de mayo, 19:00 | São Paulo vs. Talleres
 Grupo E
-Jueves 10 de abril, 19:00 | Racing Club vs. Bucaramanga
- Árbitro: Andrés Matonte (Uruguay)
- Asistente 1: Nicolás Tarán (Uruguay)
- Asistente 2: Héctor Bergalo (Uruguay)
- Cuarto árbitro: Mathías de Armas (Uruguay)
- VAR: Cristhian Ferreyra (Uruguay)
- AVAR: Richard Trinidad (Uruguay)
 Martes 22 de abril, 21:30 | Colo Colo vs. Racing Club
 Martes 6 de mayo, 19:00 | Bucaramanga vs. Racing Club
 Miércoles 14 de mayo, 21:30 | Racing Club vs. Colo Colo
 Jueves 29 de mayo, 21:30 | Racing Club vs. Fortaleza
 Grupo H
-Miércoles 9 de abril, 19:00 | Olimpia vs. Vélez
- Árbitro: Piero Maza (Chile)
- Asistente 1: José Retamal (Chile)
- Asistente 2: Juan Serrano (Chile)
- Cuarto árbitro: Fernando Vejar (Chile)
- VAR: Juan Lara (Chile)
- AVAR: Edson Cisternas (Chile)
 Miércoles 23 de abril, 19:00 | San Antonio (Bulo Bulo) vs. Vélez
 Martes 6 de mayo, 21:30 | Vélez vs. Olimpia
 Miércoles 14 de mayo, 19:00 | Vélez vs. San Antonio (Bulo Bulo)
@@ -1997,25 +1965,11 @@ Grupo A
  Jueves 15 de mayo, 19:00 | Independiente vs. Guaraní
  Miércoles 28 de mayo, 19:00 | Independiente vs. Nacional Potosí
 Grupo B
- Jueves 10 de abril, 19:00 | Defensa y Justicia vs. Vitória
- Árbitro: Augusto Menéndez (Perú)
- Asistente 1: Michael Orué (Perú)
- Asistente 2: José Castillo (Perú)
- Cuarto árbitro: Elizabeth Tintaya (Perú)
- VAR: Milagros Arruela (Perú)
- AVAR: Mariana Aquino (Perú)
  Jueves 24 de abril, 23:00 | Universidad Católica (Ecuador) vs. Defensa y Justicia
  Martes 6 de mayo, 19:00 | Vitória vs. Defensa y Justicia
  Miércoles 14 de mayo, 19:00 | Defensa y Justicia vs. Universidad Católica (Ecuador)
  Miércoles 28 de mayo, 21:30 | Defensa y Justicia vs. Cerro Largo
 Grupo C
- Miércoles 9 de abril, 19:00 | Huracán vs. Racing (Montevideo)
- Árbitro: Francisco Gilabert (Chile)
- Asistente 1: Alan Saldoval (Chile) 
- Asistente 2: Carlos Poblete (Chile)
- Cuarto árbitro: Edwin Ordóñez (Perú)
- VAR: José Méndez (Paraguay)
- AVAR: José Villagra (Paraguay)
  Miércoles 23 de abril, 19:00 | Huracán vs. América de Cali
  Jueves 8 de mayo, 19:00 | Racing (Montevideo) vs. Huracán
  Miércoles 14 de mayo, 23:00 | América de Cali vs. Huracán
@@ -2026,25 +1980,11 @@ Grupo D
  Martes 13 de mayo, 19:00 | Gremio vs. Godoy Cruz
  Jueves 29 de mayo, 19:00 | Godoy Cruz vs. Atlético Grau
 Grupo E
- Miércoles 9 de abril, 19:00 | Palestino vs. Unión (Santa Fe)
- Árbitro: Carlos Benítez (Paraguay)
- Asistente 1: Milciades Saldivar (Paraguay)
- Asistente 2: Nadia Weiler (Paraguay)
- Cuarto árbitro: Derlis Benítez (Paraguay)
- VAR: Fernando López (Paraguay)
- AVAR: Julio Aranda (Paraguay)
  Miércoles 23 de abril, 23:00 | Mushuc Runa vs. Unión (Santa Fe)
  Miércoles 7 de mayo, 19:00 | Unión (Santa Fe) vs. Palestino
  Martes 13 de mayo, 21:30 | Unión (Santa Fe) vs. Mushuc Runa
  Miércoles 28 de mayo, 21:30 | Cruzeiro vs. Unión (Santa Fe)
 Grupo G
- Miércoles 9 de abril, 21:30 | Lanús vs. Melgar
- Árbitro: Mathias de Armas (Uruguay)
- Asistente 1: Nicolás Tarán (Uruguay)
- Asistente 2: Héctor Bergalo (Uruguay)
- Cuarto árbitro: Andrés Matonte (Uruguay)
- VAR: Diego Dunajec (Uruguay)
- AVAR: Jonathan Fuentes (Uruguay)
  Martes 22 de abril, 21:30 | Vasco da Gama vs. Lanús
  Martes 6 de mayo, 23:00 | Melgar vs. Lanús
  Martes 13 de mayo, 21:30 | Lanús vs. Vasco da Gama
