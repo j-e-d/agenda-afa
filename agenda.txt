@@ -1335,10 +1335,26 @@ CRUCES DE LA COPA ARGENTINA 2025
 32AVOS. DE FINAL
 Miércoles 16 de abril
 Independiente Riv. (Mza.) - Estudiantes (Bs. As.), a las 16.10 horas en el estadio Juan Gilberto Funes.
+ Árbitro: Fernando Echenique
+ Asistente 1: Pablo Acevedo
+ Asistente 2: Federico Cano
+ Cuarto árbitro: César Ceballo
 Argentinos Juniors - Ctral. Norte (Salta), a las 18.35 horas en Estudiantes (Bs. As.)
+ Árbitro: Andrés Gariano
+ Asistente 1: Juan Mamani
+ Asistente 2: Ernesto Callegari
+ Cuarto árbitro: Gonzalo Creimermann
 Belgrano (Cba.) - Real Pilar a las 21.10 horas en At. de Rafaela (TV)
+ Árbitro: Nazareno Arasa
+ Asistente 1: Damián Espinoza
+ Asistente 2: Sebastián Osudar
+ Cuarto árbitro: Nahuel Viñas
 Jueves 17 de abril
 Barracas Central - Def. de Belgrano, a las 17.00 horas en Arsenal F.C.
+ Árbitro: Nicolás Lamolina
+ Asistente 1: Hugo Páez
+ Asistente 2: Iván Aliende
+ Cuarto árbitro: Wenceslao Meneses
  De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2025, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A Edición 2025
 ZONA "1" - PRIMERA FASE
@@ -1352,12 +1368,6 @@ ZONA "1" - PRIMERA FASE
  SANTAMARINA
  SOL DE MAYO
  DEP. RINCON
-4ta. fecha - 06/04/25
- SANTAMARINA vs. RINCÓN
- KIMBERLEY vs. GERMINAL
- CIRCULO DEP. vs. OLIMPO
- VILLA MITRE vs. CIPOLLETTI
- GMO. BROWN vs. SOL DE MAYO
  5ta. fecha - 13/04/25
  RINCON vs. GMO. BROWN
  SOL DE MAYO vs. VILLA MITRE
@@ -1452,12 +1462,6 @@ ZONA "2" - PRIMERA FASE
  HURACAN LH
  ARGENTINO M. MAIZ
  SAN MARTÍN AC
- 4ta. fecha - 06/04/25
- CIUDAD vs. ATENAS
- HURACAN LH vs. COSTA BRAVA
- ARGENTINO M.M. vs. GUTIERREZ
- SAN MARTIN vs. JUV UNIDA U.
- LIBRE: ESTUDIANTES
  5ta. fecha - 13/04/25
  JUV UNIDA U. vs. ARGENTINO M.M.
  GUTIERREZ vs. HURACAN LH
@@ -1553,24 +1557,6 @@ ZONA "3" - PRIMERA FASE
  BEN HUR
  DEF. BELGRANO VR
  G. ESGRIMA CU
-2da. fecha - 23/03/25
- SPORTIVO AC vs. 9 DE JULIO R.
- BEN HUR vs. SP. BELGRANO
- D. HAIG vs. G. ESGRIMA CH
- INDEPENDIENTE vs. EL LINQUEÑO
- GIMNASIA E. CU vs. DEF. BELGRANO
- 3ra. fecha - 30/03/25
- 9 DE JULIO R. vs. GIMNASIA E. CU
- DEF. BELGRANO vs. INDEPENDIENTE
- EL LINQUEÑO vs. D. HAIG
- G. ESGRIMA CH vs. BEN HUR
- SP. BELGRANO vs. SPORTIVO AC
- 4ta. fecha - 06/04/25
- SP. BELGRANO vs. 9 DE JULIO R.
- SPORTIVO AC vs. G. ESGRIMA CH
- BEN HUR vs. EL LINQUEÑO
- D. HAIG vs. DEF. BELGRANO
- INDEPENDIENTE vs. GIMNASIA E. CU
  5ta. fecha - 13/04/25
  9 DE JULIO R. vs. INDEPENDIENTE
  GIMNASIA E. CU vs. D. HAIG
@@ -1665,12 +1651,6 @@ ZONA "4" - PRIMERA FASE
  BMA. INGLETO
  BOCA UNIDOS
  JUVENTUD ANTONIANA
-4ta. fecha - 06/04/25
- SOL DE AMERICA vs. CRUCERO N.
- AT. RAFAELA vs. SARMIENTO R.
- SARMIENTO LB. vs. SAN MARTIN F.
- MITRE P. vs. BOCA UNIDOS
- LIBRO: J. ANTONIANA
 5ta fecha - 13/04/25
  BOCA UNIDOS vs. SARMIENTO LB.
  SAN MARTIN F. vs. AT. RAFAELA
@@ -1762,7 +1742,6 @@ Primera División A 2025 - 1er Torneo
 Fecha 10
 Libre: Belgrano
 Viernes 11 de abril
-10.00 Rosario Central - Boca, en Predio Cristalería
 15.00 Independiente - Gimnasia (LP), en Predio Domínico 
 15.30 River - Talleres, en River Camp Cancha 7
 Sábado 12 de abril 
