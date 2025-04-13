@@ -1,35 +1,6 @@
 25/03/2019
 Torneo Apertura 2025
 Fecha 13
-Domingo 13 de abril
- 15.30 Gimnasia – Estudiantes
- Árbitro: Darío Herrera
- Asistente 1: Gabriel Chade
- Asistente 2: Adrián Delbarba
- Cuarto árbitro: Fernando Echenique
- VAR: José Carreras
- AVAR: Mariana De Almeida
- 15.30 Instituto – Deportivo Riestra
- Árbitro: Andrés Merlos
- Asistente 1: Facundo Rodríguez
- Asistente 2: Iván Aliende
- Cuarto árbitro: Federico Benítez
- VAR: Lucas Novelli
- AVAR: Javier Mihura
- 18.00 Independiente – San Martín (SJ)
- Árbitro: Nicolás Lamolina
- Asistente 1: Sebastián Raineri
- Asistente 2: Juan Del Fueyo
- Cuarto árbitro: Gastón Iglesias
- VAR: Álvaro Carranza
- AVAR: Diego Romero
- 20.15 River – Talleres
- Árbitro: Nazareno Arasa
- Asistente 1: Pablo Acevedo
- Asistente 2: Lucio Méndez
- Cuarto árbitro: Maximiliano Macheroni
- VAR: Germán Delfino
- AVAR: Javier Uziga
 Lunes 14 de abril
  15.30 Aldosivi – Racing, en estadio José M. Minella
  Árbitro: Bryan Ferreyra
@@ -683,20 +654,6 @@ Postergado:
  Asistente 1: Fernando Rodríguez
  Asistente 2: Luis Rotman
  Cuarto árbitro: Julián Beligoy
- FE
-CHA 11
- LIBRE UAI URQUIZA
- Domingo 13-04
- Fénix c. Dep. Laferrere, a las 13.00 horas en estadio San Miguel (Las Heras) (TV)
- Árbitro: Wenceslao Meneses
- Asistente 1: Maximiliano Montenegro
- Asistente 2: Heber Ibáñez Mesa
- Cuarto árbitro: Martín Depósito
- Arg. de Merlo c. San Martin (B.), a las 15.30 horas
- Árbitro: Sebastián Bresba
- Asistente 1: Martín Gimapaolo
- Asistente 2: Leonardo Aranda
- Cuarto árbitro: Lucas Brumer
  FECHA 12
  LIBRE FÉNIX
  LAFERRERE vs. FLANDRIA
@@ -824,28 +781,6 @@ Partido no programado
 Ctral. Córdoba (Ros.) - El Porvenir.
 Fecha 6
  Libre: Lugano
-Zona “A”
- Domingo 13-04
- Dep. Español c. Mercedes, a las 15.30 horas
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Juan Etchepare
- Asistente 2: Mariela Martino
- Cuarto árbitro: Eduardo Coyto
- Claypole c. L.N. Alem, a las 15.30 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Matías Noli
- Asistente 2: Joaquín Fraga
- Cuarto árbitro: Ignacio Domínguez
- J.J. de Urquiza c. El Porvenir, a las 15.30 horas
- Árbitro: Rodrigo Villalba
- Asistente 1: Matías Pino
- Asistente 2: Matías Vargas
- Cuarto árbitro: Facundo Carretero
- Ituzaingó c. Ctral. Córdoba (Ros.), a las 17.45 horas (TV)
- Árbitro: Valentín Bocaccia
- Asistente 1: Damián Alcaraz
- Asistente 2: Federico Bozo
- Cuarto árbitro:Iván Coca Castelu
  Lunes 14-04
  Muñiz c. Def. de Cambaceres, a las 15.30 horas en Juv. Unida
  Árbitro: Gonzalo Correa
@@ -853,22 +788,6 @@ Zona “A”
  Asistente 2: Berenice Avaro
  Cuarto árbitro: Lucas Brumer
  Zona “B”
- Domingo 13-04
- Camioneros c. Juv. Unida, a las 11.00 horas
- Árbitro: Iván Mastroieni
- Asistente 1: Jonathan Florentín
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: Matías Ansede
- Luján c. Gral. Lamadrid, a las 15.30 horas
- Árbitro: Gonzalo Creimermann
- Asistente 1: Ignacio Otegui
- Asistente 2: Nahuel Valdón 
- Cuarto árbitro: David Cornejo
- Atlas c. Estrella del Sur, a las 15.30 horas
- Árbitro: Joaquín Rodríguez
- Asistente 1: Alan Colman
- Asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Fabrizio de la Cruz
  Lunes 14-04
  Argentino (Ros.) c. Rec. Español, a las 15.30 horas
  Árbitro: Guido Mascheroni 
@@ -1234,12 +1153,6 @@ ZONA "1" - PRIMERA FASE
  SANTAMARINA
  SOL DE MAYO
  DEP. RINCON
- 5ta. fecha - 13/04/25
- RINCON vs. GMO. BROWN
- SOL DE MAYO vs. VILLA MITRE
- CIPOLLETTI vs. CIRCULO DEP.
- OLIMPO vs. KIMBERLEY
- GERMINAL vs. SANTAMARINA
  6ta. fecha - 20/04/25
  GERMINAL vs. RINCON
  SANTAMARINA vs. OLIMPO
@@ -1328,12 +1241,6 @@ ZONA "2" - PRIMERA FASE
  HURACAN LH
  ARGENTINO M. MAIZ
  SAN MARTÍN AC
- 5ta. fecha - 13/04/25
- JUV UNIDA U. vs. ARGENTINO M.M.
- GUTIERREZ vs. HURACAN LH
- COSTA BRAVA vs. CIUDAD
- ATENAS vs. ESTUDIANTES
- LIBRE: SAN MARTÍN
  6ta. fecha - 20/04/25
  ESTUDIANTES vs. COSTA BRAVA
  CIUDAD vs. GUTIERREZ
@@ -1607,12 +1514,6 @@ Torneo Femenino de Primera División 2025
 Primera División A 2025 - 1er Torneo 
 Fecha 10
 Libre: Belgrano
-Sábado 12 de abril 
-10.00 San Lorenzo - Newell's, en Ciudad Deportiva (TV)
-17.00 San Luis - Racing, en Estadio Juan G. Funes
-18.30 Vélez - Huracán, en Villa Olímpica
-Domingo 13 de abril 
-10.00 SAT - Ferro, en Estadio (TV)
 Lunes 14 de abril 
 10.00 Platense - Banfield, en Predio Mariani Dolan
 Fecha 11 - 20/04/2025
