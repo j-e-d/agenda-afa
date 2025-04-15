@@ -13,7 +13,7 @@ Fecha 14
 Viernes 18 de abril
  17.00 Gimnasia – River
  19.15 Racing – Central Córdoba
- 19.15 Talleres – Vélez
+ 19.15 Talleres – Vélez, en estadio Mario A. Kempes
  21.30 Unión – Newell’s
  21.30 Atético Tucumán – Independiente
 Sábado 19 de abril
@@ -461,35 +461,33 @@ POSTERGADO
  Asistente 1: Agustín Méndez
  Asistente 2: Damián Orellana
  Cuarto árbitro: Rodrigo Villalba
-Fecha 10
-Zona “A”
-Lunes 14-04
- Atlanta c. Almagro, a las 21.10 horas (TV)
- Árbitro: Yamil Possi
- Asistente 1: Juan Manuel González
- Asistente 2: Mariano Ascenzi
- Cuarto árbitro: Gastón Iglesias
-Fecha 11
- Zona A
- Los Andes - Deportivo Maipú
- Gimnasia y Tiro (S) - Deportivo Madryn
- Tristán Suárez - Alvarado
- San Martín (T) - All Boys
- Güemes (SdE) - Arsenal
- Patronato - Colegiales
- Ferro Carril Oeste - Atlanta
- Almagro - Racing (C)
- San Miguel - Quilmes
- Zona B
- Nueva Chicago - Deportivo Morón
- Talleres (RdE) - Estudiantes (BA)
- Estudiantes (RC) - Defensores Unidos
- Defensores de Belgrano - Temperley
- Chacarita Juniors - Colón
- San Telmo - Mitre (SdE)
- Agropecuario - Chaco For Ever
- Gimnasia y Esgrima (J) - Almirante Brown
- Gimnasia y Esgrima (M) - Central Norte (S)
+11ª. fecha:
+ Zona “A”
+ Sábado 19-04
+ Güemes (S.E.) c. Arsenal F.C., a las 15.00 horas
+ Tristán Suarez c. Alvarado (M.D.P.), a las 15.30 horas
+ Almagro c. Racing (Cba.), a las 15.30 horas
+ San Miguel c. Quilmes A.C., a las 15.35 horas (TV)
+ San Martin (T.) c. All Boys, a las 16.00 horas (TV)
+ Domingo 20-04
+ Los Andes c. Dep. Maipú (Mza.), a las 15.30 horas
+ G. y Tiro (Salta) c. Dep. Madryn, a las 17.00 horas
+ Patronato (Paraná) c. Colegiales, a las 17.00 horas
+ Lunes 21-04
+ Ferro Carril Oeste c. Atlanta, a las 21.10 horas (TV)
+Zona “B”
+ Sábado 19-04
+ G. y Esgrima (Mza.) c. Ctral. Norte (Salta), a las 16.00 horas
+ Agropecuario Arg. c. Chaco For Ever, a las 17.00 horas
+ G. y Esgrima (J.) c. Alte. Brown, a las 21.00 horas
+ Domingo 20-04
+ Chacarita Juniors c. Colón, a las 15.00 horas (TV)
+ San Telmo c. Mitre (S.E.), a las 15.30 horas
+ Estudiantes (Rio IV) c. Def. Unidos, a las 15.30 horas
+ Talleres (R.E.) c. Estudiantes, a las 15.30 horas
+ Nva. Chicago c. Dep. Morón, a las 17.10 horas (TV)
+ Lunes 21-04
+ Def. de Belgrano c. Temperley, a las 17.10 horas (TV)
 Fecha 12
  Zona A
  San Miguel - Los Andes
@@ -625,24 +623,28 @@ Fecha 2
  Asistente 1: Damián Orellana reemplaza aLucas Cueto Viñas
  Asistente 2: Cristian Amarilla
  Cuarto árbitro: Agustín Panizza
-Postergado:
- Brown (Adrogué) c. Sp. Italiano
+Fecha 5
+Miércoles 20 de abril
+ 20.00 Brown (Adrogué) c. Sp. Italiano
  Árbitro: Juan Cruz Robledo
  Asistente 1: Fernando Rodríguez
  Asistente 2: Luis Rotman
  Cuarto árbitro: Julián Beligoy
- FECHA 12
- LIBRE FÉNIX
- LAFERRERE vs. FLANDRIA
- LINIERS vs. VILLA DÁLMINE
- COMUNICACIONES vs. ARGENTINO DE QUILMES
- DEPORTIVO ARMENIO vs. ARGENTINO (MERLO)
- SAN MARTÍN (BURZACO) vs. BROWN (ADROGUÉ)
- SACACHISPAS vs. ACASSUSO
- DEPORTIVO MERLO vs. EXCURSIONISTAS
- DOCK SUD vs. MIDLAND
- VILLA SAN CARLOS vs. SPORTIVO ITALIANO
- REAL PILAR vs. UAI URQUIZA
+12ª. fecha:
+ Viernes 18-04
+ Comunicaciones c. Arg. de Quilmes, a las 15.30 horas
+ Sábado 19-04
+ Dep. Laferrere c. Flandria, a las 15.30 horas
+ Dep. Armenio c. Arg. de Merlo, a las 15.30 horas
+ Sp. Dock Sud c. F.C. Midland, a las 15.30 horas
+ Villa San Carlos c. Sp. Italiano, a las 15.30 horas
+ San Martin (B.) c. Brown (Adrogué), a las 17.45 horas (TV)
+ Domingo 20-04
+ Real Pilar F.C. c. UAI - Urquiza, a las 13.00 horas en estadio Municipal de Pilar (TV)
+ Liniers c. Villa Dálmine, a las 15.30 horas
+ Dep. Merlo c. Excursionistas, a las 15.30 horas
+ Lunes 21-04
+ Sacachispas F.C. c. Acassuso, a las 15.30 horas
  FECHA 13
  LIBRE REAL PILAR
  UAI URQUIZA vs. VILLA SAN CARLOS
@@ -754,16 +756,30 @@ Postergado:
 Primera C
 1ª. Fecha:
 Zona “A”
-Partido no programado
-Ctral. Córdoba (Ros.) - El Porvenir.
-Fecha 7 - 19/04/2025
- Libre: J.J. de Urquiza
- El Porvenir c. Muñiz
- Def. de Cambaceres c. Claypole
- L.N. Alem c. Dep. Español
- Mercedes c. Ituzaingó
- Ctral. Córdoba (Ros.) c. Berazategui
- Puerto Nuevo c. Lugano
+Miércoles 23 de abril
+19.00 Ctral. Córdoba (Ros.) - El Porvenir.
+7ª. Fecha:
+ Zona “A”
+ Viernes 18-04
+ El Porvenir c. Muñiz, a las 15.30 horas
+ Mercedes c. Ituzaingó, a las 15.30 horas
+ Sábado 19-04
+ Ctral. Córdoba (Ros.) c. Berazategui, a las 15.30 horas
+ Puerto Nuevo c. Lugano, a las 15.30 horas
+ Domingo 20-04
+ L.N. Alem c. Dep. Español, a las 14.05 horas (TV)
+ Def. de Cambaceres c. Claypole, a las 15.30 horas
+ Zona “B”
+ Viernes 18-04
+ Yupanqui c. Camioneros, a las 12.00 horas
+ Juv. Unida c. Argentino (Ros.), a las 15.30 horas
+ Ctral. Ballester c. Dep. Paraguayo, a las 15.30 horas
+ Domingo 20-04
+ Estrella del Sur c. Cañuelas F.C., a las 15.30 horas en Brown (Adrogué)
+ Gral. Lamadrid c. Atlas, a las 15.30 horas
+ Lunes 21-04
+ Sp. Barracas c. Victoriano Arenas, a las 15.30 horas en Almagro
+ Rec. Español c. Luján, a las 15.30 horas en Ituzaingó
 Fecha 8 - 26/04/2025
  Libre: Puerto Nuevo
  Lugano c. Ctral. Córdoba (Ros.)
@@ -917,14 +933,6 @@ Fecha 26
  Central Córdoba (Ros.) c. Defensores de Cambaceres
  Mercedes c. L.N. Alem
 ZONA B 
-Fecha 7 - 19/04/2025
- Ctral. Ballester c. Dep. Paraguayo
- Sp. Barracas c. V. Arenas
- Estrella del Sur c. Cañuelas F.C.
- Gral. Lamadrid c. Atlas
- Rec. Español c. Luján
- J. Unida c. Argentino (Ros.)
- Yupanqui c. Camioneros
 Fecha 8 - 26/04/2025
  Dep. Paraguayo c. Camioneros
  Argentino (Ros.) c. Yupanqui
