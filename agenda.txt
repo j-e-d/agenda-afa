@@ -617,7 +617,7 @@ Miércoles 23 de abril
  Árbitro: A. Núñez Rodríguez
  Asistente 1: Martín Alonso
  Asistente 2: Jonathan Florentín
- Cuarto árbitro: Leandro Fedele
+ Cuarto árbitro: Tomás Aybar
  FECHA 13
  LIBRE REAL PILAR
  UAI URQUIZA vs. VILLA SAN CARLOS
@@ -749,7 +749,7 @@ Zona “B”
  Asistente 2: Tomás Otero
  Cuarto árbitro: Elías Viglione
  Ctral. Ballester c. Dep. Paraguayo, a las 15.30 horas
- Árbitro: Rodrigo Villalba
+ Árbitro: Agustín Flores
  Asistente 1: Bruno Castillo
  Asistente 2: Alexis Escobar
  Cuarto árbitro: Valentín Persico reemplaza a Lucas Brumer
@@ -1413,16 +1413,19 @@ Torneo Regional Amateur
 Torneo Femenino de Primera División 2025
 ​​​​
 Primera División A 2025 - 1er Torneo 
-Fecha 12 - 27/04/2025
- Libre: Boca
- Belgrano - Huracán
- Rosario Central - Gimnasia (LP)
- Vélez - Banfield
- Independiente - Racing
- Platense - Ferro
- San Luis - Newell's
- S.A.T. - Talleres
- San Lorenzo - River
+Fecha 12
+ Viernes 25 de abril
+ 11.00 Platense - Ferro
+ 15.00 Belgrano - Huracán
+ 15.00 Independiente - Racing
+ Sábado 26 de abril
+ 12.00 San Luis - Newell's
+ 15.00 Rosario Central - Gimnasia
+ 18.00 Vélez - Banfield
+Domingo 27 de abril
+ 12.00 SAT - Talleres
+ Lunes 28 de abril
+ 14.00 San Lorenzo - River
 Fecha 13 - 04/05/2025
  Libre: San Lorenzo
  River - S.A.T.
