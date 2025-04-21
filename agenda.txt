@@ -8,7 +8,7 @@ Fecha 14
  Cuarto árbitro: Enzo Silvestre
  VAR: Mauro Vigliano
  AVAR: Carla López
-Lunes 21 de abril
+Martes 22 de abril
  19.00 Tigre – Belgrano
  Árbitro: Ariel Penel
  Asistente 1: Javier Uziga
@@ -16,7 +16,7 @@ Lunes 21 de abril
  Cuarto árbitro: Julio Barraza
  VAR: Felipe Viola
  AVAR: Pablo González
- 21.15 Argentinos – Barracas Central
+ 19.00 Argentinos – Barracas Central
  Árbitro: Silvio Trucco
  Asistente 1: Sebastián Raineri
  Asistente 2: Adrián Delbarba
@@ -392,14 +392,14 @@ POSTERGADO
  Cuarto árbitro: Rodrigo Villalba
 11ª. fecha:
 Zona “A"
- Lunes 21-04
+ Martes 22-04
  Ferro Carril Oeste c. Atlanta, a las 21.10 horas (TV)
  Árbitro: Juan Pafundi
  Asistente 1: Federico Pomi
  Asistente 2: Mariano Bardina
  Cuarto árbitro: Damián Rubino
 Zona “B”
- Lunes 21-04
+ Martes 22-04
  Def. de Belgrano c. Temperley, a las 17.10 horas (TV)
  Árbitro: Adrian Franklin
  Asistente 1: Juan Pablo Millenar
@@ -541,7 +541,7 @@ Miércoles 23 de abril
  Asistente 2: Luis Rotman
  Cuarto árbitro: Maximiliano López Monti
 12ª. fecha:
- Lunes 21-04
+ Martes 22-04
  Sacachispas F.C. c. Acassuso, a las 15.30 horas
  Árbitro: A. Núñez Rodríguez
  Asistente 1: Martín Alonso
@@ -666,7 +666,7 @@ Miércoles 23 de abril
  Cuarto árbitro: Franco Porotelli
 7ª. Fecha:
 Zona “B”
- Lunes 21-04
+ Martes 22-04
  Sp. Barracas c. Victoriano Arenas, a las 15.30 horas en Almagro
  Árbitro: Gabriel Flores
  Asistente 1: Leandro Idio
