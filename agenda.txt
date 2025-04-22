@@ -570,35 +570,101 @@ Zona “B”
 Fecha 12
 Zona “A”
 Sábado 26 de abril
-Atlanta - Patronato (Paraná), a las 13.40 horas 
-(TV)
- San Miguel - Los Andes, a las 15.30 horas
+Atlanta - Patronato (Paraná), a las 13.40 horas (TV)
+ Árbitro: Pablo Giménez
+ Asistente 1: Mariano Ruas
+ Asistente 2: Rodrigo Arin
+ Cuarto árbitro: Marcos Recalde
+San Miguel - Los Andes, a las 15.30 horas
+ Árbitro: Jorge Broggi
+ Asistente 1: Maximiliano Castelli
+ Asistente 2: Mariano Rossetti
+ Cuarto árbitro: Nicolás Mastroieni
  Colegiales - Güemes (S.E.), a las 15.30 horas
+ Árbitro: Nelson Sosa
+ Asistente 1: Mariano Altavista
+ Asistente 2: Eugenia Rocco
+ Cuarto árbitro: Germán Bermúdez
  Dep. Madryn - Dep. Maipú (Mza.), a las 18.00 horas
- Quilmes A.C - Almagro, a las 19.10 horas
- (TV)
- Arsenal F.C - San Martin (T.), a las 20.00 horas
- (TV)
+ Árbitro: Álvaro Carranza 
+ Asistente 1: Manuel Sánchez
+ Asistente 2: Alejandro Schneller
+ Cuarto árbitro: Facundo Rojo Casal
+ Quilmes A.C - Almagro, a las 19.10 horas (TV)
+ Árbitro: Brian Ferreyra
+ Asistente 1: Walter Ferreyra
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: Iñaki Iparraguirre
+ Arsenal F.C - San Martin (T.), a las 20.00 horas (TV)
+ Árbitro: Juan Pablo Loustau
+ Asistente 1: Juan Manuel Vázquez
+ Asistente 2: Diego Romero
+ Cuarto árbitro: Lucas Brumer
 Domingo 27 de abril
- Alvarado (M.D.P.) - G. y Tiro (Salta), a las 12.00 horasen estadio José M. Minella
- Racing (Cba.) - Ferro Carril Oeste, a las 16.00 horas
+Alvarado (M.D.P.) - G. y Tiro (Salta), a las 12.00 horasen estadio José M. Minella
+ Árbitro: Lucas Cavallero
+ Asistente 1: Joaquín Badano
+ Asistente 2: Mariana Dure
+ Cuarto árbitro: Bruno Bocca
+Racing (Cba.) - Ferro Carril Oeste, a las 16.00 horas
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Daniel Zamora
+ Asistente 2: Martín Grasso
+ Cuarto árbitro: Cristian Rubbiano
 Lunes 28 de abril
- All Boys - Tristán Suarez, a las 21.10 horas 
-(TV)
+All Boys - Tristán Suarez, a las 21.10 horas (TV)
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Marcos Horticolou
+ Asistente 2: Juan Viglietti
+ Cuarto árbitro: Adrián Núñez Rodríguez
 Zona “B”
 Sábado 26 de abril
 Def. Unidos - Talleres (R.E.), a las 15.30 horas
+ Árbitro: Franco Acita
+ Asistente 1: Juan Manuel González
+ Asistente 2: Federico Pomi
+ Cuarto árbitro: Martín Morenza
  Chaco For Ever - San Telmo, a las 16.30 horas
- Estudiantes - Dep. Morón, a las 17.10 horas 
-(TV)
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Matías Coria
+ Asistente 2: Federico Cuello
+ Cuarto árbitro: Federico Guaymas
+ Estudiantes - Dep. Morón, a las 17.10 horas (TV)
+ Árbitro: Ariel Penel
+ Asistente 1: Gerardo Lencina
+ Asistente 2: Federico García
+ Cuarto árbitro: Laura Fortunato
 Domingo 27 de abril
  Alte. Brown - Agropecuario Arg., a las 15.00 horas
+ Árbitro: Julio Barraza
+ Asistente 1: Mariano Cichetto
+ Asistente 2: Guillermo Yacante
+ Cuarto árbitro: Mateo Bocaccia
  Temperley - Estudiantes (Rio IV), a las 15.30 horas
+ Árbitro: Carlos Córdoba
+ Asistente 1: Ernesto Callegari
+ Asistente 2: Nahuel Santanocito
+ Cuarto árbitro: Nicolás Kresta
  G. y Esgrima (Mza.) - Nva. Chicago, a las 16.00 horas
+ Árbitro: Gastón Monsón Brizuela
+ Asistente 1: Sebastián Osudar
+ Asistente 2: Darío Rojas Martínez
+ Cuarto árbitro: Pablo Núñez
 Mitre (S.E.) - Chacarita Juniors, a las 17.00 horas
+ Árbitro: Javier Delbarba
+ Asistente 1: Juan Pablo Millenaar
+ Asistente 2: Mario Bardina
+ Cuarto árbitro: Mauricio Martín
  Ctral. Norte (Salta) - G. y Esgrima (Jujuy), a las 18.30 horas
- Colón - Def. de Belgrano, a las 20.15 horas 
-(TV)
+ Árbitro: Nahuel Viñas
+ Asistente 1: Gonzalo Ferrari
+ Asistente 2: Hernán Salado Paz
+ Cuarto árbitro: Maximiliano Silcan Jeréz
+ Colón - Def. de Belgrano, a las 20.15 horas (TV)
+ Árbitro: Juan Pafundi
+ Asistente 1: Ariel Scime
+ Asistente 2: Emanuel Serale
+ Cuarto árbitro: Mariano Agli
 Fecha 13
  Zona A
  Los Andes - Deportivo Madryn
@@ -713,32 +779,63 @@ Miércoles 23 de abril
  Asistente 1: Fernando Rodríguez
  Asistente 2: Luis Rotman
  Cuarto árbitro: Maximiliano López Monti
-12ª. fecha:
- Martes 22-04
- Sacachispas F.C. c. Acassuso, a las 15.30 horas
- Árbitro: A. Núñez Rodríguez
- Asistente 1: Martín Alonso
- Asistente 2: Jonathan Florentín
- Cuarto árbitro: Tomás Aybar
- FECHA 13
+FECHA 13
  LIBRE REAL PILAR
 Viernes 25 de abril
- Excursionistas - Sacachispas F.C, a las 20.00 horas
+Excursionistas - Sacachispas F.C, a las 20.00 horas
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Ángel Rebuscini
+ Asistente 2: Yamil Galván
+ Cuarto árbitro: Lucas Brumer
  Arg. de Merlo - Comunicaciones, a las 20.00 horas
+ Árbitro: Jonathan Barrios
+ Asistente 1: Federico Zuvilivia
+ Asistente 2: Carlos Suárez
+ Cuarto árbitro: Martín Morenza
 Sábado 26 de abril
  Arg. de Quilmes - Liniers, a las 15.30 horas
+ Árbitro: Sebastián Bresba
+ Asistente 1: Luis Rotman
+ Asistente 2: Damián Alcaráz
+ Cuarto árbitro: Valentín Bocaccia
  Flandria - Fénix, a las 15.30 horas
- F.C. Midland - Dep. Merlo, a las 17.45 horas 
-(TV)
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Arnaldo Melgarejo
+ Asistente 2: Néstor Olivera
+ Cuarto árbitro: Facundo Fuentes
+ F.C. Midland - Dep. Merlo, a las 17.45 horas (TV)
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Juan Manuel Díaz
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Mateo Bocaccia
 Domingo 27 de abril
 Villa Dálmine - Dep. Laferrere, a las 11.00 horas
+ Árbitro: Juan Cruz Robledo
+ Asistente 1: Cecilio Calcagno
+ Asistente 2: Federico Bozo
+ Cuarto árbitro: Ulises López
  Brown (Adrogué) - Dep. Armenio, a las 11.45 horas
+ Árbitro: Ramiro Maglio
+ Asistente 1: Damián Orellanada
+ Asistente 2: Héctor Bracho Gómez
+ Cuarto árbitro: Joaquín Rodríguez
  UAI – Urquiza - Villa San Carlos, a las 15.30 horas
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Martín Vaccaro
+ Asistente 2: Daniela Sanda
+ Cuarto árbitro: Leandro Fedele
 Lunes 28 de abril
  Acassuso -San Martin (B.), a las 15.30 horas
+ Árbitro: Ariel Cruz
+ Asistente 1: Fernando Rodríguez
+ Asistente 2: Matías Pino
+ Cuarto árbitro: Iñaki Iparraguirre
 Martes 29 de abril
- Sp. Italiano - Sp. Dock Sud, a las 20.00 horas 
-(TV)
+ Sp. Italiano - Sp. Dock Sud, a las 20.00 horas (TV)
+ Árbitro: Martín Despósito
+ Asistente 1: Martín Giampaolo
+ Asistente 2: Ignacio Otegui
+ Cuarto árbitro: Agustín Panizza
  FECHA 14
  LIBRE FLANDRIA
  FÉNIX vs. VILLA DÁLMINE
@@ -844,47 +941,81 @@ Miércoles 23 de abril
  Asistente 1: Federico Lapalma
  Asistente 2: Roberto Rodríguez
  Cuarto árbitro: Franco Porotelli
-7ª. Fecha:
-Zona “B”
- Martes 22-04
- Sp. Barracas c. Victoriano Arenas, a las 15.30 horas en Almagro
- Árbitro: Gabriel Flores
- Asistente 1: Leandro Idio
- Asistente 2: Sofia Curto
- Cuarto árbitro: Rodrigo Maidana
- Rec. Español c. Luján, a las 15.30 horas en Ituzaingó
- Árbitro: Martín Despósito
- Asistente 1: Damián Alcaráz
- Asistente 2: Tomás Otero
- Cuarto árbitro: Elías Viglione
- Ctral. Ballester c. Dep. Paraguayo, a las 15.30 horas
- Árbitro: Agustín Flores
- Asistente 1: Bruno Castillo
- Asistente 2: Alexis Escobar
- Cuarto árbitro: Valentín Persico reemplaza a Lucas Brumer
 Fecha 8 
  Libre: Puerto Nuevo
 Zona “A”
 Viernes 25 de abril
  Ituzaingó - L.N. Alem, a las 19.00 horas
+ Árbitro: Damián Rubino
+ Asistente 1: Matías Panozzo
+ Asistente 2: Matías Vargas
+ Cuarto árbitro: Matías Ansese
 Sábado 26 de abril
  Lugano - Ctral. Córdoba (Ros.), a las 15.30 horas
+ Árbitro: Alejandro Porticella
+ Asistente 1: Heber Ibáñez Meza
+ Asistente 2: Lucas García
+ Cuarto árbitro: Gabriela Coronel
  Claypole - El Porvenir, a las 15.30 horas
+ Árbitro: Iván Castelu
+ Asistente 1: Cristian Rodríguez
+ Asistente 2: Sergio Benítez
+ Cuarto árbitro: Nicolás Díaz
 Domingo 27 de abril
  Muñiz - J.J. de Urquiza, a las 15.30 horas en Juv. Unida
+ Árbitro: Gabriel Flores
+ Asistente 1: Diego Fernández
+ Asistente 2: Nicolás Cavagnaro
+ Cuarto árbitro: Fabrizio De La Cruz
  Berazategui - Mercedes, a las 15.30 horas
+ Árbitro: Tomás Aybar
+ Asistente 1: Leandro Carril
+ Asistente 2: Joaquín Fraga
+ Cuarto árbitro: Manuel Prieto
 Lunes 28 de abril
  Dep. Español - Def. de Cambaceres, a las 15.30 horas
+ Árbitro: David Cornejo
+ Asistente 1: Diego Ortiz
+ Asistente 2: Julieta Fernández
+ Cuarto árbitro: Ignacio Domínguez
 Zona “B”
 Sábado 26 de abril
- Dep. Paraguayo - Camioneros, a las 15.30 horas
+Dep. Paraguayo - Camioneros, a las 15.30 horas
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Alan Colman
+ Asistente 2: Facundo Maldonado
+ Cuarto árbitro: Facundo Carretero
  Victoriano Arenas - Estrella del Sur, a las 15.30 horas
+ Árbitro: Agustín Flores
+ Asistente 1: Rodrigo Mansilla
+ Asistente 2: Alexis Escobar
+ Cuarto árbitro: Sebastián Milessi
  Argentino (Ros.) - Yupanqui, a las 15.35 horas
+ Árbitro: Manuel Girett
+ Asistente 1: Jonathan Florentín
+ Asistente 2: Ariel Ibáñez
+ Cuarto árbitro: Rodrigo Maidana
 Domingo 27 de abril
  Luján - Juv. Unida, a las 13.00 horas
+ Árbitro: Guido Mascheroni
+ Asistente 1: Matías Noli
+ Asistente 2: Felipe Arrechea
+ Cuarto árbitro: Juan Ferreyra
  Atlas - Rec. Español, a las 15.30 horas
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Juan Etchepare
+ Asistente 2: Alejo Milone
+ Cuarto árbitro: Eduardo Coyto
  Cañuelas F.C - Gral. Lamadrid, a las 15.30 horas
+ Árbitro: Gonzalo Correa
+ Asistente 1: Lucas Monsalvo
+ Asistente 2: Oscar Maidana
+ Cuarto árbitro: Valentín Persico
  Ctral. Ballester - Sp. Barracas, a las 15.30 horas
+ Árbitro: Iván Mastroieni
+ Asistente 1: Facundo Mendiolar
+ Asistente 2: Mara Díaz
+ Cuarto árbitro: Elías Viglione
 Fecha 9 - 03/05/2025
  Libre: Muñiz
  J.J. de Urquiza c. Claypole
