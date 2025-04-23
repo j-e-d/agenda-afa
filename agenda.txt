@@ -8,28 +8,6 @@ Fecha 14
  Cuarto árbitro: Enzo Silvestre
  VAR: Mauro Vigliano
  AVAR: Carla López
-Martes 22 de abril
- 19.00 Tigre – Belgrano
- Árbitro: Ariel Penel
- Asistente 1: Javier Uziga
- Asistente 2: Javier Mihura
- Cuarto árbitro: Julio Barraza
- VAR: Felipe Viola
- AVAR: Pablo González
- 19.00 Argentinos – Barracas Central
- Árbitro: Silvio Trucco
- Asistente 1: Sebastián Raineri
- Asistente 2: Adrián Delbarba
- Cuarto árbitro: Alejandro Porticella
- VAR: Fabrizio Llobet
- AVAR: Pablo González
- 21.15 Independiente Rivadavia – Aldosivi
- Árbitro: Pablo Echavarría
- Asistente 1: Damián Espinoza
- Asistente 2: Diego Martín
- Cuarto árbitro: Manuel Ejarque
- VAR: Leandro Rey Hilfer reemplaza a Héctor Paletta (reprogramación de partido se superpone con designación internacional)
- AVAR: Diego Verlotta reemplaza a Laura Fortunato (reprogramación de partido se superpone con designación internacional)
 Fecha 15
 Sábado 26 de abril
  15.00 Aldosivi – Banfield -Zona A- (TNT Sports)
@@ -466,29 +444,6 @@ Fecha 16 (16/11/2025)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Apertura
  Fecha 10
- Martes 22 de abril
- 15.00 Newell’s – Boca (Zona A) – Marcelo Bielsa
- Árbitro: Leandro Fedele
- Árbitro asistente 1: Gonzalo Cubillas
- Árbitro asistente 2: Nahuel Valdeon
- 15.00 Banfield – Huracán (Zona A) – Alfredo Palacios
- Árbitro: Facundo Fuentes
- Árbitro asistente 1: Rodrigo Mansilla
- Árbitro asistente 2: Fabricio Osorio
- Cuarto árbitro: Sebastián Milessi
- 15.00 Vélez – Deportivo Riestra (Zona B) – Villa Olímpica
- Árbitro: Manuel Prieto
- Árbitro asistente 1: Joaquín Fraga
- Árbitro asistente 2: Rodrigo Díaz
- 15.00 Platense – Atlético Tucumán (Zona B) – Predio
- Árbitro: Ignacio Domínguez
- Árbitro asistente 1: Luciano Cabral
- Árbitro asistente 2: Tomás Pérez
- 19.00 River – Rosario Central (Zona B) – River Camp
- Árbitro: Ulises López
- Árbitro asistente 1: Ariel Ibañez
- Árbitro asistente 2: Alejo Milone
- Cuarto árbitro: Ariadna Palacios
  Miércoles 23 de abril
  15.00 Defensa y Justicia – Tigre (Zona A) – Predio La Capilla
  Árbitro: Facundo Carretero
@@ -552,21 +507,6 @@ POSTERGADO
  Asistente 1: Agustín Méndez
  Asistente 2: Damián Orellana
  Cuarto árbitro: Rodrigo Villalba
-11ª. fecha:
-Zona “A"
- Martes 22-04
- Ferro Carril Oeste c. Atlanta, a las 21.10 horas (TV)
- Árbitro: Juan Pafundi
- Asistente 1: Federico Pomi
- Asistente 2: Mariano Bardina
- Cuarto árbitro: Damián Rubino
-Zona “B”
- Martes 22-04
- Def. de Belgrano c. Temperley, a las 17.10 horas (TV)
- Árbitro: Adrian Franklin
- Asistente 1: Juan Pablo Millenar
- Asistente 2: Francisco Gugliota
- Cuarto árbitro: Lucas Brumer
 Fecha 12
 Zona “A”
 Sábado 26 de abril
@@ -1790,12 +1730,10 @@ Miércoles 7 de mayo, 21:30 | Central Córdoba vs. Flamengo
 Martes 13 de mayo, 19:00 | Dep. Táchira vs. Central Córdoba
 Miércoles 28 de mayo, 21:30 | Liga de Quito vs. Central Córdoba
 Grupo D
-Martes 22 de abril, 21:30 | Alianza Lima vs. Talleres
 Jueves 8 de mayo, 19:00 | Talleres vs. Libertad
 Jueves 15 de mayo, 19:00 | Talleres vs. Alianza Lima
 Martes 27 de mayo, 19:00 | São Paulo vs. Talleres
 Grupo E
-Martes 22 de abril, 21:30 | Colo Colo vs. Racing Club
 Martes 6 de mayo, 19:00 | Bucaramanga vs. Racing Club
 Miércoles 14 de mayo, 21:30 | Racing Club vs. Colo Colo
 Jueves 29 de mayo, 21:30 | Racing Club vs. Fortaleza
@@ -1848,7 +1786,6 @@ Atlético Mineiro (Brasil)
  Dep. Iquique (Chile)
 Fixture Copa Sudamericana 2025 equipos argentinos
 Grupo A
- Martes 22 de abril, 19:00 | Guaraní vs. Independiente
  Martes 6 de mayo, 21:30 | Boston River vs. Independiente
  Jueves 15 de mayo, 19:00 | Independiente vs. Guaraní
  Miércoles 28 de mayo, 19:00 | Independiente vs. Nacional Potosí
@@ -1873,7 +1810,6 @@ Grupo E
  Martes 13 de mayo, 21:30 | Unión (Santa Fe) vs. Mushuc Runa
  Miércoles 28 de mayo, 21:30 | Cruzeiro vs. Unión (Santa Fe)
 Grupo G
- Martes 22 de abril, 21:30 | Vasco da Gama vs. Lanús
  Martes 6 de mayo, 23:00 | Melgar vs. Lanús
  Martes 13 de mayo, 21:30 | Lanús vs. Vasco da Gama
  Martes 27 de mayo, 19:00 | Lanús vs. Academia Puerto Cabello
