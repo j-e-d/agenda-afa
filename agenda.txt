@@ -1722,7 +1722,6 @@ Jueves 8 de mayo, 21:30 | Barcelona (Ecuador) vs. River Plate
  Jueves 15 de mayo, 21:30 | River Plate vs. Independiente del Valle 
 Martes 27 de mayo, 21:30 | River Plate vs. Universitario
 Grupo C
-Jueves 24 de abril, 19:00 | Central Córdoba vs. Dep. Táchira
 Miércoles 7 de mayo, 21:30 | Central Córdoba vs. Flamengo
 Martes 13 de mayo, 19:00 | Dep. Táchira vs. Central Córdoba
 Miércoles 28 de mayo, 21:30 | Liga de Quito vs. Central Córdoba
@@ -1786,7 +1785,6 @@ Grupo A
  Jueves 15 de mayo, 19:00 | Independiente vs. Guaraní
  Miércoles 28 de mayo, 19:00 | Independiente vs. Nacional Potosí
 Grupo B
- Jueves 24 de abril, 23:00 | Universidad Católica (Ecuador) vs. Defensa y Justicia
  Martes 6 de mayo, 19:00 | Vitória vs. Defensa y Justicia
  Miércoles 14 de mayo, 19:00 | Defensa y Justicia vs. Universidad Católica (Ecuador)
  Miércoles 28 de mayo, 21:30 | Defensa y Justicia vs. Cerro Largo
@@ -1795,7 +1793,6 @@ Grupo C
  Miércoles 14 de mayo, 23:00 | América de Cali vs. Huracán
  Martes 27 de mayo, 21:30 | Huracán vs. Corinthians
 Grupo D
- Jueves 24 de abril, 19:00 | Godoy Cruz vs. Gremio
  Martes 6 de mayo, 19:00 | Sportivo Luqueño vs. Godoy Cruz
  Martes 13 de mayo, 19:00 | Gremio vs. Godoy Cruz
  Jueves 29 de mayo, 19:00 | Godoy Cruz vs. Atlético Grau
