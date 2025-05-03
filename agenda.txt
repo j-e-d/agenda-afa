@@ -581,14 +581,6 @@ Fecha 17
  San Telmo - Agropecuario 
 Primera B
 Torneo Apertura 2025
-FECHA 13
- LIBRE REAL PILAR
-Martes 29 de abril
- Sp. Italiano - Sp. Dock Sud, a las 20.00 horas (TV)
- Árbitro: Martín Despósito
- Asistente 1: Martín Giampaolo
- Asistente 2: Ignacio Otegui
- Cuarto árbitro: Agustín Panizza
 14ª. fecha
 :
 Sábado 03-05
@@ -732,22 +724,6 @@ Martes 06-05
 Primera C
 9ª. Fecha:
 Zona “A”
-Viernes 02-05
-L.N. Alem c. Berazategui, a las 15.05 horas(TV)
- Árbitro: Rodrigo Villalba
- Asistente 1: Ignacio Otegui
- Asistente 2: Roberto Rodríguez
- Cuarto árbitro: Rodrigo Maidana
-Def. de Cambaceres c. Ituzaingó, a las 15.30 horas
- Árbitro: Gabriel Flores
- Asistente 1: Lucas García
- Asistente 2: Mauro Soria
- Cuarto árbitro: Franco Porotelli
-Mercedes c. Lugano, a las 15.30 horas
- Árbitro: Mateo Bocaccia
- Asistente 1: Mario Vargas
- Asistente 2: Ludmila Capelli
- Cuarto árbitro: Elías Viglione
 Sábado 03-05
 J.J. de Urquiza c. Claypole, a las 15.30 horas
  Árbitro: Ignacio Cuicchi
@@ -766,17 +742,6 @@ Ctral. Córdoba (Ros.) c. Puerto Nuevo, a las 15.30 horas
  Asistente 2: Diego Ortiz
  Cuarto árbitro: Nicolás Díaz
 Zona “B”
-Viernes 02-05
-Yupanqui c. Luján, a las 12.00 horas
- Árbitro: Valentín Bocaccia
- Asistente 1: Felipe Onufrik
- Asistente 2: Andrés Belén
- Cuarto árbitro: Ignacio Domínguez
-Rec. Español c. Cañuelas F.C., a las 15.30 horas en Ituzaingó
- Árbitro: Manuel Girett
- Asistente 1: Ezequiel Rabasa
- Asistente 2: Franco Boetti
- Cuarto árbitro: Juan Ferreyra
 Sábado 03-05
 Estrella del Sur c. Ctral. Ballester, a las 11.00 horas en Brown (Adrogué)
  Árbitro: Martín Despósito
@@ -1126,12 +1091,6 @@ ZONA "1" - PRIMERA FASE
  SANTAMARINA
  SOL DE MAYO
  DEP. RINCON
- 8va. fecha - 04/05/25
- OLIMPO vs. RINCÓN
- GERMINAL vs. CIPOLLETTI
- SANTAMARINA vs. SOL DE MAYO
- KIMBERLEY vs. GMO. BROWN
- CIRCULO DEP. vs. VILLA MITRE
 9na. fecha - 11/05/25
  RINCON vs. CIRCULO DEP.
  VILLA MITRE vs. KIMBERLEY
@@ -1202,12 +1161,6 @@ ZONA "2" - PRIMERA FASE
  HURACAN LH
  ARGENTINO M. MAIZ
  SAN MARTÍN AC
- 8va. fecha - 04/05/25
- ATENAS vs. GUTIÉRREZ
- ESTUDIANTES vs. JUV UNIDA U.
- CIUDAD vs. SAN MARTIN
- HURACAN LH vs. ARGENTINO M.M.
- LIBRE: COSTA BRAVA
 9na. fecha - 11/05/25
  ARGENTINO M.M. vs. CIUDAD
  SAN MARTIN vs. ESTUDIANTES
@@ -1279,12 +1232,6 @@ ZONA "3" - PRIMERA FASE
  BEN HUR
  DEF. BELGRANO VR
  G. ESGRIMA CU
- 8va. fecha - 04/05/25
- EL LINQUEÑO vs. 9 DE JULIO R.
- G. ESGRIMA CH vs. DEF. BELGRANO
- SP. BELGRANO vs. GIMNASIA E. CU
- SPORTIVO AC vs. INDEPENDIENTE
- BEN HUR vs. D. HAIG
 9na. fecha - 11/05/25
  9 DE JULIO R. vs. BEN HUR
  D. HAIG vs. SPORTIVO AC
@@ -1355,12 +1302,6 @@ ZONA "4" - PRIMERA FASE
  BMA. INGLETO
  BOCA UNIDOS
  JUVENTUD ANTONIANA
-8va. fecha - 04/05/25
- CRUCERO N. vs. SAN MARTIN F.
- J. ANTONIANA vs. BOCA UNIDOS
- SOL DE AMERICA vs. MITRE P.
- AT. RAFAELA vs. SARMIENTO LB.
- LIBRE: SARMIENTO R.
 9na. fecha - 11/05/25
  SARMIENTO LB. vs SOL DE AMÉRICA
  MITRE P. contra J. ANTONIANA
@@ -1426,12 +1367,6 @@ Torneo Femenino de Primera División 2025
 ​​​​
 Primera División A 2025 - 1er Torneo 
 Fecha 13 
-Sábado 3 de mayo
-11.10 Talleres - San Luis
- Árbitro: Ariadna Palacios
- Asistente 1: Julieta Fernández
- Asistente 2: Daniela Sanda
- Cuarto árbitro: Jessica Laborde
 Domingo 4 de mayo
 18.00 Huracán - Boca 
  Árbitro: Mariela Martino
@@ -1739,37 +1674,6 @@ El torneo se desarrollará del 30 de abril al 24 de mayo del 2025, en las ciudad
 Argentina
  integrará el grupo A junto con Colombia, Paraguay, Chile y Venezuela.
  Mientras que el grupo B estará compuesto por Brasil, Ecuador, Uruguay, Perú y Bolivia.
-Fixture de la Primera Fase
-Jueves 1° de mayo
- Colombia - Argentina
- Venezuela - Chile
-Viernes 2 de mayo
- Brasil - Perú
- Bolivia - Uruguay
- Sábado 3 de mayo
- Bolivia - Brasil
- Perú - Ecuador
- Domingo 4 de mayo
- Bolivia - Brasil
- Perú - Ecuador
- Lunes 5 de mayo
- Paraguay - Chile
- Argentina - Venezuela
- Martes 6 de mayo
- Ecuador - Uruguay
- Perú - Bolivia
- Miércoles 7 de mayo
- Chile - Colombia
- Paraguay - Venezuela
- Jueves 8 de mayo
- Uruguay - Brasil
- Ecuador - Bolivia
- Viernes 9 de mayo
- Colombia - Paraguay
- Chile - Argentina
- Sábado 10 de mayo
- Uruguay - Perú
- Brasil - Ecuador
 Formato de competencia
  La CONMEBOL Sub 17 Femenina 2025 se disputará en dos fases: Fase Preliminar (Fase de Grupos) y Fase Final. Ambas etapas se jugarán a una sola rueda de partidos con el mismo sistema de todos contra todos.
  La Fase Preliminar la disputarán las diez selecciones distribuidas en dos grupos de cinco equipos cada uno, conforme con el resultado del sorteo organizado por la CONMEBOL.
