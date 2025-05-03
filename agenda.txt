@@ -2,27 +2,6 @@
 Torneo Apertura 2025
 Fecha 16
  Sábado 3 de mayo
- 16.00 Deportivo Riestra-Godoy Cruz (Mza) (Zona B)
- Árbitro: Nicolás Lamolina
- Asistente 1: Ernesto Callegari
- Asistente 2: Agustín Méndez
- Cuarto árbitro: Kevin Alegre
- VAR: Álvaro Carranza
- AVAR: José Castelli
- 16.00 Sarmiento-San Lorenzo (Zona B)
- Árbitro: Sebastián Martínez
- Asistente 1: Juan Pablo Belatti
- Asistente 2: Matías Balmaceda
- Cuarto árbitro: Cristian Cernadas
- VAR: Héctor Paletta
- AVAR: Daiana Milone
-16.00 Talleres (Cba.) - Instituto (Cba.) (Zona B)
- Árbitro: Darío Herrera
- Asistente 1: Gabriel Chade
- Asistente 2: Miguel Savorani
- Cuarto árbitro: Andrés Gariano
- VAR: José Carreras
- AVAR: Laura Fortunato
  18.30 Rosario Central - Independiente (Zona B)
  Árbitro: Yael Falcón Pérez
  Asistente 1: Cristian Navarro
@@ -398,16 +377,6 @@ POSTERGADO
 :
 Zona “A”
 Sábado 03-05
- Güemes (S.E.) c. Atlanta, a las 15.00 horas
- Árbitro: Nahuel Viñas
- Asistente 1: Manuel Sánchez
- Asistente 2: Emanuel Serale
- Cuarto árbitro: Darío Sandoval
- Almagro c. San Miguel, a las 15.30 horas
- Árbitro: Felipe Viola
- Asistente 1: Juan Manuel Vázquez
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Damián Rubino
  Los Andes c. Dep. Madryn, a las 17.05 horas
 (TV)
  Árbitro: Pablo Dóvalo
@@ -444,11 +413,6 @@ Domingo 04-05
  Cuarto árbitro: Mariano Agli
 Zona “B”
 Sábado 03-05
- San Telmo c. Alte. Brown, a las 15.30 horas
- Árbitro: Gastón Monson Brizuela
- Asistente 1: Mariano Ascenzi
- Asistente 2: Guido Córdoba
- Cuarto árbitro: Marcelo Sanz
  Dep. Morón c. Def. Unidos, a las 19.05 horas
 (TV)
  Árbitro: Wenceslao Meneses
@@ -584,26 +548,6 @@ Torneo Apertura 2025
 14ª. fecha
 :
 Sábado 03-05
- Dep. Laferrere c. Arg. de Quilmes, a las 15.30 horas
- Árbitro: Adrián Nuñez Rodríguez
- Asistente 1: Fernando Rodríguez
- Asistente 2: Matías Pino
- Cuarto árbitro: Facundo Fuentes
- Dep. Armenio c. Acassuso, a las 15.30 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Pablo Pastor
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Martín Morenza
- San Martin (B.) c. Excursionistas, a las 15.30 horas
- Árbitro: Nicolás Mastroieni
- Asistente 1: Damián Orellana
- Asistente 2: Leonardo Aranda
- Cuarto árbitro: Matías Ansede
- Villa San Carlos c. Real Pilar F.C., a las 15.30 horas
- Árbitro: Gonzalo Pereira
- Asistente 1: Ángel Rebuscini
- Asistente 2: Federico Josa
- Cuarto árbitro: Ulises López
  Dep. Merlo c. Sp. Italiano, a las 20.10 horas(TV)
  Árbitro: Guido Mascheroni
  Asistente 1: Lucas Cueto Viñas
@@ -724,17 +668,6 @@ Martes 06-05
 Primera C
 9ª. Fecha:
 Zona “A”
-Sábado 03-05
-J.J. de Urquiza c. Claypole, a las 15.30 horas
- Árbitro: Ignacio Cuicchi
- Asistente 1: Leandro Idio
- Asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Gabriela Coronel
-El Porvenir c. Dep. Español, a las 15.30 horas
- Árbitro: Alejandro Porticella
- Asistente 1: Nahuel Valdeon
- Asistente 2: Berenice Avaro
- Cuarto árbitro: Valentín Pérsico
 Domingo 04-05
 Ctral. Córdoba (Ros.) c. Puerto Nuevo, a las 15.30 horas
  Árbitro: Maximiliano López Monti
@@ -742,22 +675,6 @@ Ctral. Córdoba (Ros.) c. Puerto Nuevo, a las 15.30 horas
  Asistente 2: Diego Ortiz
  Cuarto árbitro: Nicolás Díaz
 Zona “B”
-Sábado 03-05
-Estrella del Sur c. Ctral. Ballester, a las 11.00 horas en Brown (Adrogué)
- Árbitro: Martín Despósito
- Asistente 1: Felipe Arrechea
- Asistente 2: Sebastián Valdéz
- Cuarto árbitro: Manuel Prieto
-Juv. Unida c. Atlas, a las 15.30 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Federico Lapalma
- Asistente 2: Matías Vargas
- Cuarto árbitro: Sebastián Milessi
-Camioneros c. Argentino (Ros.), a las 15.30 horas
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Leandro Carril
- Asistente 2: Tomás Otero
- Cuarto árbitro: Tomás Aybar
 Lunes 05-05
 Sp. Barracas c. Dep. Paraguayo, a las 15.30 horas en Almagro
  Árbitro: Gonzalo Correa
