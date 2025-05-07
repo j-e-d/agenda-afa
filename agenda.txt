@@ -365,7 +365,6 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Apertura
- Fecha 12
  Miércoles 7 de mayo
  15.00 Aldosivi – Racing (Zona A) – Predio
  Árbitro: Eduardo Coyto
@@ -401,6 +400,44 @@ Proyección Sur Finanzas - Torneo Apertura
  Árbitro: Manuel Prieto
  Árbitro asistente 1: Sergio Benítez
  Árbitro asistente 2: Gonzalo Calo
+Fecha 13
+Martes 13 de mayo
+ 15.00 Deportivo Riestra – San Lorenzo (Zona B) – Estadio Guillermo Laza
+ 15.00 Rosario Central – Instituto (Zona B) – Arroyo Seco
+ 19.00 Talleres – Vélez (Zona B) – La Boutique
+ Miércoles 14 de mayo
+ 15.00 Unión – Newell’s (Zona A) – La Tatenguita
+ 15.00 San Martín (SJ) – Godoy Cruz (Zona B) – Auxiliar
+ 15.00 Gimnasia – River (Zona B) – Estancia Chica
+ 15.00 Lanús – Banfield (Interzonal) – Ciudad de Lanús
+ 15.00 Argentinos – Barracas Central (Zona A) – CEFFA
+ 19.00 Atlético Tucumán – Independiente (Zona B) – José Fierro
+ Jueves 15 de mayo
+ 15.00 Huracán – Defensa y Justicia (Zona A) – La Quemita
+ 15.00 Tigre – Belgrano (Zona A) – Nito San Andrés
+ 15.00 Independiente Rivadavia – Aldosivi (Zona A) – Ciudad Deportiva
+ 15.00 Racing – Central Córdoba (Zona A) – Tita Matiussi
+ 15.00 Sarmiento – Platense (Zona B) – CAR
+ 19.00 Boca- Estudiantes (Zona A) – Boca Predio
+Fecha 14
+ Martes 20 de mayo
+ 15.00 Independiente – Deportivo Riestra (Zona B) – Villa Domínico
+ 15.00 Newell’s – Huracán (Zona A) – Jorge Griffa
+ 15.00 Defensa y Justicia – Racing (Zona A) – Campeones del Mundo
+ 15.00 San Lorenzo – Rosario Central (Zona B) – Auxiliar
+ 15.00 Barracas Central – Unión (Zona A) – AEFIP
+ Miércoles 21 de mayo
+ 15.00 Estudiantes – Tigre (Zona A) – City Bell
+ 15.00 Belgrano – Argentinos (Zona A) – Predio
+ 15.00 Vélez – Gimnasia (Zona B) – Villa Olímpica
+ 15.00 Godoy Cruz – Atlético Tucumán (Zona B) – Coquimbito
+ 19.00 River – Boca (Interzonal) – River Camp
+ Jueves 22 de mayo
+ 15.00 Lanús – San Martín (SJ) (Zona B) – Auxiliar
+ 15.00 Aldosivi – Banfield (Zona A) – Predio
+ 15.00 Platense – Talleres (Zona B) – Predio
+ 15.00 Instituto – Sarmiento (Zona B) – La Agustina
+ 19.00 Central Córdoba – Independiente Rivadavia (Zona A) – Alfredo Terrera
 Supercopa Internacional 2024
 Domingo 6 de julio
 Estudiantes de L.P. - Vélez, en horario y estadio a designar (TV)
@@ -1739,7 +1776,7 @@ Grupo D
  Flamengo (Brasil)
  Espérance Sportive de Tunis (Túnez)
  Chelsea (Inglaterra)
- León (México)
+ Los Ángeles FC (EE.UU.) o Club América (México)
 Grupo E
  River Plate (Argentina)
  Urawa Red Diamonds (Japón)
@@ -1771,7 +1808,7 @@ Sábado, 14 de junio 2025
  Partido 4: Palmeiras vs. Porto, 18:00, Nueva York Nueva Jersey Metlife Stadium
  Partido 5: Botafogo vs. Seattle Sounders, 19:00, Seattle Lumen Field
  Lunes, 16 de junio 2025
- Partido 6: Chelsea vs. León, 15:00, Atlanta Mercedes-Benz Stadium
+ Partido 6: Chelsea vs.Los Ángeles FC (EE.UU.) o Club América (México), 15:00, Atlanta Mercedes-Benz Stadium
  Partido 7: Boca vs. Benfica, 18:00, Miami Hard Rock Stadium
  Partido 8: Flamengo vs. Esperance Sportive de Tunis, 21:00, Philadelphia, Lincoln Financial Field
  Martes, 17 de junio 2025
@@ -1792,7 +1829,7 @@ Sábado, 14 de junio 2025
  Viernes, 20 de junio 2025
  Partido 21: Benfica vs. Auckland City, 12:00, Orlando InterCo Stadium
  Partido 22: Flamengo vs. Chelsea, 14:00, Philadelphia, Lincoln Financial Field
- Partido 23: León vs. Espérance Sportive de Tunisie, 17:00, Nashville GEODIS Park
+ Partido 23: Los Ángeles FC (EE.UU.) o Club América (México) vs. Espérance Sportive de Tunisie, 17:00, Nashville GEODIS Park
  Partido 24: Bayern Múnich vs. Boca Juniors, 21:00, Miami Hard Rock Stadium
  Sábado, 21 de junio 2025
  Partido 25: Mamelodi Sundowns FC vs. Borussia Dortmund, 12:00, Cincinnati TQL Stadium
@@ -1814,7 +1851,7 @@ Sábado, 14 de junio 2025
  Partido 37: Auckland City vs. Boca, 14:00, Nashville GEODIS Park
  Partido 38: Benfica vs. Bayern Munich, 15:00, Charlotte Bank of America
  Stadium
- Partido 39: León vs. Flamengo, 21:00, Orlando Camping World
+ Partido 39: Los Ángeles FC (EE.UU.) o Club América (México) vs. Flamengo, 21:00, Orlando Camping World
  Stadium
  Partido 40: Espérance Sportive de Tunisie vs. Chelsea, 21:00, Philadelphia, Lincoln Financial Field
  Miércoles, 25 de junio 2025
