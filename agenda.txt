@@ -365,23 +365,6 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Apertura
- Miércoles 7 de mayo
- 15.00 Aldosivi – Racing (Zona A) – Predio
- Árbitro: Eduardo Coyto
- Árbitro asistente 1: Christian Rodríguez
- Árbitro asistente 2: Nicolás Rovira
- 15.00 Independiente – San Martín (SJ) (Zona B) – Villa Domínico
- Árbitro: Juan Ferreyra
- Árbitro asistente 1: Oscar Maidana
- Árbitro asistente 2: Rodrigo Díaz
- 15.00 Godoy Cruz – Lanús (Zona B) – Coquimbito
- Árbitro: Gabriel Oroño
- Árbitro asistente 1: Nahuel Martin
- Árbitro asistente 2: Sebastian Krojzl
- 19.00 Belgrano – Boca (Zona A) – Julio César Villagra
- Árbitro: Matías Ansede
- Árbitro asistente 1: Facundo Maldonado
- Árbitro asistente 2: Marcos Pueyo
  Jueves 8 de mayo
  15.00 Instituto – Deportivo Riestra (Zona B) – La Agustina
  Árbitro: Facundo Fuentes
@@ -522,12 +505,6 @@ G. y Esgrima (Mza.) - Agropecuario Arg., a las 15.30 horas
  Asistente 1: Manuel Sánchez
  Asistente 2: Matías Coria
  Cuarto árbitro: Marcelo Sanz
-Alte. Brown - Chacarita Juniors, a las 15.30 horas 
-(TV)
- Árbitro: Jorge Baliño
- Asistente 1: Gerardo Lencina
- Asistente 2: Eric Grunman
- Cuarto árbitro: Lucas Brumer
 Def. Unidos - Estudiantes, a las 15.30 horas
  Árbitro: Diego Ceballos
  Asistente 1: Lucio Méndez
@@ -543,7 +520,13 @@ Colón - Talleres (R.E.), a las 17.00 horas
  Asistente 1: Lucas Germanotta
  Asistente 2: Diego Martín
  Cuarto árbitro: Alejandro Scionti
-Temperley - Dep. Morón, a las 17.30 horas 
+Alte. Brown - Chacarita Juniors, a las 17.45 horas 
+(TV)
+ Árbitro: Jorge Baliño
+ Asistente 1: Gerardo Lencina
+ Asistente 2: Eric Grunman
+ Cuarto árbitro: Lucas Brumer
+ Temperley - Dep. Morón, a las 19.45 horas 
 (TV)
  Árbitro: Felipe Viola
  Asistente 1: Ariel Scime
