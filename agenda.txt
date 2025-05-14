@@ -595,7 +595,7 @@ Comunicaciones - Excursionistas, a las 15.30 horas
  Árbitro: Adrián Núñez
  Asistente 1: Fernando Rodríguez
  Asistente 2: Ramiro Ortíz Biondi
- Cuarto árbitro: Agustín Panizza
+ Cuarto árbitro: Maximiliano López Monti
  Libre: Villa Dálmine
  FECHA 17
  LIBRE DOCK SUD
@@ -692,7 +692,7 @@ El Porvenir - Berazategui, a las 15.30 horas
  Muñiz - Dep. Español, a las 15.30 horas en Juv. Unida
  Árbitro: Valentín Bocaccia
  Asistente 1: Matías Vargas
- Asistente 2: Luciano Cabral
+ Asistente 2: Leandro Idio
  Cuarto árbitro: Iván Mastroieni
  Zona “B”
  Sábado 17 de mayo
@@ -1009,12 +1009,99 @@ ZONA "1" - PRIMERA FASE
  SANTAMARINA
  SOL DE MAYO
  DEP. RINCON
- 10ma. fecha - 18/05/25
- CIPOLLETTI vs. RINCON
- SOL DE MAYO vs. OLIMPO
- GMO. BROWN vs. GERMINAL
- VILLA MITRE vs. SANTAMARINA
- CIRCULO DEP. vs. KIMBERLEY
+Viernes 16 de mayo
+ 21:00 Atlético San Martín - Atenas RC
+ Árbitro: Francisco Acosta
+ Asistente 1: Luis Ortiz
+ Asistente 2: Néstor Cáceres
+ Cuarto árbitro: Williams Abdala
+Sábado 17 de mayo
+ 15:45 Argentino - Estudiantes
+ Árbitro: Guillermo González
+ Asistente 1: Rodrigo López
+ Asistente 2: Mariana Duré
+ Cuarto árbitro: Fernando Brillada
+ 18:00 Atlético Rafaela - Sol de América
+ Árbitro: Gustavo Benites
+ Asistente 1: Luciano Díaz
+ Asistente 2: Diego Ocampo
+ Cuarto árbitro: Alejo Cid
+Domingo 18 de mayo
+ 11:00 Guillermo Brown - Germinal
+ Árbitro: Cristian Rubiano
+ Asistente 1: Agustín Lamberti
+ Asistente 2: Rodrigo Moreno
+ Cuarto árbitro: Danilo Viola
+ 15:00 Sol de Mayo - Olimpo
+ Árbitro: Diego Novelli
+ Asistente 1: Lautaro Paletta
+ Asistente 2: Fernando Zabalza
+ Cuarto árbitro: Anahí Soto
+ 15:00 Círculo Deportivo - Kimberley
+ Árbitro: José Díaz
+ Asistente 1: Juan Flores Roig
+ Asistente 2: Federico Ojeda
+ Cuarto árbitro: Denis Chávez
+ 15:00 Independiente - Gimnasia y Esgrima
+ Árbitro: Fernando Marcos
+ Asistente 1: Leopoldo Gorosito
+ Asistente 2: Hugo Fleitas
+ Cuarto árbitro: Jonatan Mapelli
+ 15:30 Cipolletti - Deportivo Rincón
+ Árbitro: Juan Nebbietti
+ Asistente 1: Carlos Viglietti
+ Asistente 2: Oscar Bono
+ Cuarto árbitro: Santiago Schmoll
+ 15:30 Villa Mitre - Santamarina
+ Árbitro: Luis Martínez
+ Asistente 1: Rodrigo Jara
+ Asistente 2: Fernando Muñoz
+ Cuarto árbitro: Jorge Cabrera
+ 15:30 Boca Unidos - Sarmiento
+ Árbitro: Mariano Agli
+ Asistente 1: Emilio Maguna
+ Asistente 2: Diego Antonetti
+ Cuarto árbitro: Brisa Zapata
+ 15:45 J. U. Universitario - Atlético Costa Brava
+ Árbitro: Enzo Silvestre
+ Asistente 1: Mariano González
+ Asistente 2: Bruno Pezzotta
+ Cuarto árbitro: Bruno Cejas
+ 16:00 Huracán Las Heras - Ciudad de Bolívar
+ Árbitro: César Ceballo
+ Asistente 1: Matías González
+ Asistente 2: Marcos Guzmán
+ Cuarto árbitro: Evelyn Luján
+ 16:00 Defensores de Belgrano (V.R.) - Nueve de Julio
+ Árbitro: Marcos Liuzzi
+ Asistente 1: Martín Nardelli
+ Asistente 2: Gonzalo Roldán
+ Cuarto árbitro: Patricio Destefano
+ 16:00 Gimnasia y Esgrima - El Linqueño
+ Árbitro: Matías Billone Carpio
+ Asistente 1: Víctor Rojas Aguirre
+ Asistente 2: Nicolás Sosa
+ Cuarto árbitro: Andrés Franco
+ 16:05 Douglas Haig - Sportivo Belgrano
+ Árbitro: José Sandoval
+ Asistente 1: Guido Córdoba
+ Asistente 2: Rodrigo Lezcano Garcilano
+ Cuarto árbitro: Daiana Ilari
+ 16:30 Mitre - Crucero del Norte
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Maximiliano Moya
+ Asistente 2: Robertino Rosas
+ Cuarto árbitro: Franco Rioja
+ 17:00 Ben Hur - Sportivo Atlético
+ Árbitro: Nelson Bejas
+ Asistente 1: José Ponce
+ Asistente 2: Leila Argañaraz
+ Cuarto árbitro: Agustín Marto
+17:00 Sarmiento - Juventud Antoniana
+ Árbitro: Jorge Etem
+ Asistente 1: Cristian Herrera
+ Asistente 2: Uvab Adriel Araya
+ Cuarto árbitro: Pablo Ramírez
 11ra. fecha - 24/05/25
  RINCON vs. KIMBERLEY
  SANTAMARINA vs. CIRCULO DEP.
@@ -1073,12 +1160,6 @@ ZONA "2" - PRIMERA FASE
  HURACAN LH
  ARGENTINO M. MAIZ
  SAN MARTÍN AC
-10ma. fecha - 18/05/25
- JUV UNIDA U. vs. COSTA BRAVA
- SAN MARTIN vs. ATENAS
- ARGENTINO M.M. vs. ESTUDIANTES
- HURACAN LH vs. CIUDAD
- LIBRE: GUTIERREZ
  11ra. fecha - 24/05/25
  ESTUDIANTES vs. HURACAN LH
  ATENAS vs. ARGENTINO M.M.
@@ -1138,12 +1219,6 @@ ZONA "3" - PRIMERA FASE
  BEN HUR
  DEF. BELGRANO VR
  G. ESGRIMA CU
-10ma. fecha - 18/05/25
- DEF. BELGRANO vs. 9 DE JULIO R.
- GIMNASIA E. CU vs. EL LINQUEÑO
- INDEPENDIENTE vs. G. ESGRIMA CH
- D. HAIG vs. SP. BELGRANO
- BEN HUR vs. SPORTIVO AC
  11ra. fecha - 24/05/25
  9 DE JULIO R. vs. SPORTIVO AC
  SP. BELGRANO vs. BEN HUR
@@ -1202,12 +1277,6 @@ ZONA "4" - PRIMERA FASE
  BMA. INGLETO
  BOCA UNIDOS
  JUVENTUD ANTONIANA
-10ma. fecha - 18/05/25
- BOCA UNIDOS vs. SARMIENTO R.
- MITRE P. contra CRUCERO N.
- SARMIENTO LB. contra J. ANTONIANA
- EN. RAFAELA vs.SOL DE AMÉRICA
- LIBRE: SAN MARTIN F.
 11ra. fecha - 24/05/25
  J. ANTONIANA vs. AT. RAFAELA
  CRUCERO N. vs. SARMIENTO LB.
