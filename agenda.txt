@@ -338,13 +338,6 @@ Fecha 16 (16/11/2025)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Apertura
 Fecha 13
- Miércoles 14 de mayo
- 15.00 Unión – Newell’s (Zona A) – La Tatenguita
- 15.00 San Martín (SJ) – Godoy Cruz (Zona B) – Auxiliar
- 15.00 Gimnasia – River (Zona B) – Estancia Chica
- 15.00 Lanús – Banfield (Interzonal) – Ciudad de Lanús
- 15.00 Argentinos – Barracas Central (Zona A) – CEFFA
- 19.00 Atlético Tucumán – Independiente (Zona B) – José Fierro
  Jueves 15 de mayo
  15.00 Huracán – Defensa y Justicia (Zona A) – La Quemita
  15.00 Tigre – Belgrano (Zona A) – Nito San Andrés
@@ -1397,13 +1390,6 @@ Peñarol (Uruguay)
  San Antonio (Bolivia)
  Fecha 5
  Miércoles 14 de mayo
- 19.00 Vélez - San Antonio
- Árbitro: Alexis Herrera (Venezuela)
- Asistente 1: Tulio Moreno (Venezuela) 
- Asistente 2: Lubin Torrealba (Venezuela)
- Cuarto árbitro: Jesús Valenzuela (Venezuela)
- VAR: Juan Lara (Venezuela)
- AVAR: Edson Cisternas (Venezuela)
  21.30 Botafogo - Estudiantes
  Árbitro: Juan Benítez (Paraguay)
  Asistente 1: Eduardo Cardozo (Paraguay)
@@ -1490,14 +1476,7 @@ Atlético Mineiro (Brasil)
  Dep. Iquique (Chile)
  Fecha 5
 Miércoles 14 de mayo
- 19.00 Defensa y Justicia - Universidad Católica
- Árbitro: José Méndez (Paraguay)
- Asistente 1: Roberto Cañete (Paraguay)
- Asistente 2: José Villagra (Paraguay)
- Cuarto árbitro: Dilio Rodríguez (Paraguay)
- VAR: Fernando López (Paraguay)
- AVAR: Nadia Weiler (Paraguay)
-21.00 América de Cali - Huracán 
+ 23.00 América de Cali - Huracán 
  Árbitro: Cristian Garay (Chile)
  Asistente 1: Miguel Rocha (Chile)
  Asistente 2: Carlos Poblete (Chile) 
