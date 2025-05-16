@@ -525,27 +525,6 @@ Fecha 17
 Primera B
 Torneo Apertura 2025
 FECHA 16
-Sábado 17 de mayo
-Flandria - Arg. de Quilmes, a las 15.30 horas
- Árbitro: Marcos Recalde
- Asistente 1: Lucas Cueto Viñas
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Rodrigo Maiana
-Dep. Laferrere - Brown (Adrogué), a las 15.30 horas
- Árbitro: Ariel Cruz
- Asistente 1: Maximiliano Benzoni
- Asistente 2: Giuliano Grillo
- Cuarto árbitro: Franco Porotelli
-San Martin (B.) - Sp. Italiano, a las 15.30 horas
- Árbitro: Ignacio Cuicchi
- Asistente 1: Ángel Rebuscini
- Asistente 2: Julián Beloso
- Cuarto árbitro: Manuel Prieto
-Sp. Dock Sud - Villa San Carlos, a las 15.30 horas(TV)
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Cecilio Calcagno
- Asistente 2: Ariel López
- Cuarto árbitro: Matías Ansede
 Domingo 18 de mayo
 Dep. Armenio - F.C. Midland, a las 12.00 horas
  Árbitro: Wenceslao Meneses
@@ -568,6 +547,27 @@ Fénix - Arg. de Merlo, a las 15.30 horas en Juv. Unida
  Asistente 1: Martín Vaccaro
  Asistente 2: Ariel Medina
  Cuarto árbitro: Martín Morenza
+Martes 20 de mayo
+Flandria - Arg. de Quilmes, a las 15.30 horas
+ Árbitro: Marcos Recalde
+ Asistente 1: Lucas Cueto Viñas
+ Asistente 2: Maximiliano Montenegro
+ Cuarto árbitro: Rodrigo Maiana
+Dep. Laferrere - Brown (Adrogué), a las 15.30 horas
+ Árbitro: Ariel Cruz
+ Asistente 1: Maximiliano Benzoni
+ Asistente 2: Giuliano Grillo
+ Cuarto árbitro: Franco Porotelli
+San Martin (B.) - Sp. Italiano, a las 15.30 horas
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Ángel Rebuscini
+ Asistente 2: Julián Beloso
+ Cuarto árbitro: Manuel Prieto
+Sp. Dock Sud - Villa San Carlos, a las 15.30 horas(TV)
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Cecilio Calcagno
+ Asistente 2: Ariel López
+ Cuarto árbitro: Matías Ansede
 Miércoles 21 de mayo
 Comunicaciones - Excursionistas, a las 15.30 horas
  Árbitro: Adrián Núñez
@@ -974,19 +974,53 @@ Jueves 22 de mayo
  Cuarto árbitro: Joaquín Gil
  Sábado 24 de mayo
  Deportivo Riestra - Deportivo Armenio, en Estudiantes de Buenos Aires (horario a confirmar)
-San Lorenzo-Quilmes
- Tigre-Banfield
- Platense-Independiente Rivadavia
- Racing-San Martín (SJ)
- Rosario Central-Unión
- San Martín (T)-River
- Boca-Atlético Tucumán
- Belgrano-Defensores de Belgrano
- Gimnasia (M)-Independiente
- Estudiantes de La Plata-Aldosivi
- Excursionistas-Argentinos
- Instituto-Huracán
- De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2025, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
+Domingo 1 de junio
+Estudiantes de L.P. - Aldosivi (M. el P.), 
+horario y estadio a confirmar 
+(TV)
+Lunes 2 de junio
+Racing Club - San Martín (S. Juan), horario y estadio a confirmar 
+(TV)
+Miércoles 4 de junio
+G. y Esgrima (Mza.) - Independiente,
+horario y estadio a confirmar 
+(TV)
+San Lorenzo de A. - Quilmes A.C.
+, 
+horario y estadio a confirmar 
+(TV)
+.
+Sábado 7 de junio
+Excursionistas - Argentinos Jrs.,
+horario y estadio a confirmar 
+(TV)
+Domingo 8 de junio
+Unión - Rosario Ctral.
+, 
+horario y estadio a confirmar 
+(TV)
+Platense - Independiente Riv. (Mza.),
+horario y estadio a confirmar 
+(TV)
+Domingo 15 de junio
+Tigre - Banfield, horario y estadio a confirmar 
+(TV)
+Viernes 27 de junio
+Belgrano (Cba.) - Defensores de Belgrano, horario y estadio a confirmar 
+(TV)
+Instituto (Cba.) - Huracán, horario y estadio a confirmar 
+(TV)
+NOTA
+San Martín (Tuc.) - 
+River Plate
+(X)
+Boca Jrs.
+(X)
+ - At. Tucumán 
+(X) Fecha a determinar conforme la participación en el Mundial de Clubes, 
+de River Plate y Boca Jrs., estableciéndose como día límite para la disputa
+de los encuentros aquí antes citados el 31/07/25.
+De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2025, si el partido señalado precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A Edición 2025
 ZONA "1" - PRIMERA FASE
  OLIMPO
