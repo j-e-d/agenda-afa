@@ -525,12 +525,6 @@ Fecha 17
 Primera B
 Torneo Apertura 2025
 FECHA 16
-Suspendido: 
-Sacachispas F.C. - UAI Urquiza
- Árbitro: Alejandro Porticella
- Asistente 1: Diego Molina
- Asistente 2: Roberto Paz
- Cuarto árbitro: Gonzalo Correa
 Sábado 17 de mayo
 Flandria - Arg. de Quilmes, a las 15.30 horas
  Árbitro: Marcos Recalde
@@ -580,6 +574,12 @@ Comunicaciones - Excursionistas, a las 15.30 horas
  Asistente 1: Fernando Rodríguez
  Asistente 2: Ramiro Ortíz Biondi
  Cuarto árbitro: Maximiliano López Monti
+Miércoles 28 de mayo 
+Sacachispas F.C. - UAI Urquiza
+ Árbitro: Alejandro Porticella
+ Asistente 1: Diego Molina
+ Asistente 2: Roberto Paz
+ Cuarto árbitro: Gonzalo Correa
  Libre: Villa Dálmine
  FECHA 17
  LIBRE DOCK SUD
@@ -644,23 +644,12 @@ Comunicaciones - Excursionistas, a las 15.30 horas
 Primera C
 Fecha 11
 Zona “A”
-Suspendido:
+Suspendido con fecha a establecer:
  Mercedes - Ctral. Córdoba (Ros.)
  Árbitro: Jonathan Barrios
  Asistente 1: Diego Fernández
  Asistente 2: Ariel Ibáñez
  Cuarto árbitro: Facundo Carretero
- Sábado 17 de mayo
-Def. de Cambaceres - Lugano, a las 15.30 horas
- Árbitro: Damián Rubino
- Asistente 1: Gonzalo Cubillas
- Asistente 2: Oscar Maidana
- Cuarto árbitro: Valentín Persico
- J.J. de Urquiza - Ituzaingó, a las 15.30 horas
- Árbitro: Agustín Flores
- Asistente 1: Matías Noli
- Asistente 2: Jonathan Florentín
- Cuarto árbitro: Ulises López
  Domingo 18 de mayo
 El Porvenir - Berazategui, a las 15.30 horas
  Árbitro: Manuel Girett
@@ -678,14 +667,31 @@ El Porvenir - Berazategui, a las 15.30 horas
  Asistente 1: Matías Vargas
  Asistente 2: Leandro Idio
  Cuarto árbitro: Iván Mastroieni
+Def. de Cambaceres - Lugano, a las 15.30 horas
+ Árbitro: Damián Rubino
+ Asistente 1: Gonzalo Cubillas
+ Asistente 2: Oscar Maidana
+ Cuarto árbitro: Valentín Persico
+ J.J. de Urquiza - Ituzaingó, a las 15.30 horas
+ Árbitro: Agustín Flores
+ Asistente 1: Matías Noli
+ Asistente 2: Jonathan Florentín
+ Cuarto árbitro: Ulises López
  Zona “B”
- Sábado 17 de mayo
-Juv. Unida - Victoriano Arenas, a las 15.30 horas
- Árbitro: Tomás Aybar
- Asistente 1: Damián Alcaráz
- Asistente 2: Nahuel Valdeón
- Cuarto árbitro: Roberta Echavarría
- Yupanqui - Cañuelas F.C., a las 15.30 horas
+ Domingo 18 de mayo
+Estrella del Sur - Dep. Paraguayo, a las 15.30 horas en Brown (Adrogué)
+ Árbitro: Iván Castelu Coca
+ Asistente 1: Ezequiel Rabasa
+ Asistente 2: Alejo Milone
+ Cuarto árbitro: Elías Viglione
+ Lunes 19 de mayo
+Rec. Español - Ctral. Ballester, a las 15.30 horas en Ituzaingó
+ Árbitro: Ramiro Maglio
+ Asistente 1: Cristian Rodríguez
+ Asistente 2: Julieta Fernández
+ Cuarto árbitro: Leandro Fedele
+ Martes 20 de mayo
+Yupanqui - Cañuelas F.C., a las 15.30 horas
  Árbitro: Mateo Bocaccia
  Asistente 1: Bruno Castillo
  Asistente 2: Tomás Otero
@@ -700,24 +706,16 @@ Juv. Unida - Victoriano Arenas, a las 15.30 horas
  Asistente 1: Felipe Arrechea 
  Asistente 2: Joaquín Fraga
  Cuarto árbitro: Sebastián Milessi
- Domingo 18 de mayo
-Estrella del Sur - Dep. Paraguayo, a las 15.30 horas en Brown (Adrogué)
- Árbitro: Iván Castelu Coca
- Asistente 1: Ezequiel Rabasa
- Asistente 2: Alejo Milone
- Cuarto árbitro: Elías Viglione
- Lunes 19 de mayo
-Rec. Español - Ctral. Ballester, a las 15.30 horas en Ituzaingó
- Árbitro: Ramiro Maglio
- Asistente 1: Cristian Rodríguez
- Asistente 2: Julieta Fernández
- Cuarto árbitro: Leandro Fedele
- Martes 20 de mayo
 Gral. Lamadrid - Sp. Barracas, a las 15.35 horas (TV)
  Árbitro: Julián Beligoy
  Asistente 1: Iván Pino
  Asistente 2: Lucas García
  Cuarto árbitro: Martín Despósito
+ Juv. Unida - Victoriano Arenas, a las 15.30 horas
+ Árbitro: Tomás Aybar
+ Asistente 1: Damián Alcaráz
+ Asistente 2: Nahuel Valdeón
+ Cuarto árbitro: Roberta Echavarría
 Fecha 12 - 24/05/2025
  Libre: Mercedes
  Central Córdoba (Ros.) c. L.N. Alem
