@@ -337,14 +337,6 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Apertura
-Fecha 13
- Jueves 15 de mayo
- 15.00 Huracán – Defensa y Justicia (Zona A) – La Quemita
- 15.00 Tigre – Belgrano (Zona A) – Nito San Andrés
- 15.00 Independiente Rivadavia – Aldosivi (Zona A) – Ciudad Deportiva
- 15.00 Racing – Central Córdoba (Zona A) – Tita Matiussi
- 15.00 Sarmiento – Platense (Zona B) – CAR
- 19.00 Boca- Estudiantes (Zona A) – Boca Predio
 Fecha 14
  Martes 20 de mayo
  15.00 Independiente – Deportivo Riestra (Zona B) – Villa Domínico
@@ -534,8 +526,8 @@ Fecha 17
 Primera B
 Torneo Apertura 2025
 FECHA 16
-Viernes 16 de mayo
-Sacachispas F.C. - UAI Urquiza, a las 15.30 horas
+Suspendido: 
+Sacachispas F.C. - UAI Urquiza
  Árbitro: Alejandro Porticella
  Asistente 1: Diego Molina
  Asistente 2: Roberto Paz
@@ -653,8 +645,8 @@ Comunicaciones - Excursionistas, a las 15.30 horas
 Primera C
 Fecha 11
 Zona “A”
- Viernes 16 de mayo
-Mercedes - Ctral. Córdoba (Ros.), a las 19.00 horas
+Suspendido:
+ Mercedes - Ctral. Córdoba (Ros.)
  Árbitro: Jonathan Barrios
  Asistente 1: Diego Fernández
  Asistente 2: Ariel Ibáñez
@@ -973,8 +965,16 @@ CRUCES DE LA COPA ARGENTINA 2025
 16AVOS. DE FINAL
  Miércoles 21 de mayo
  21.10 Lanús - Vélez, en Morón
+ Árbitro: Andrés Gariano
+ Asistente 1: José Castelli
+ Asistente 2: Juan Del Fueyo
+ Cuarto árbitro: Lucas Comesaña
 Jueves 22 de mayo
  21.10 Defensa y Justicia - Newell's, en estadio San Nicolás
+ Árbitro: Pablo Dóvalo
+ Asistente 1: Ezequiel Brailovsky
+ Asistente 2: Andrés Barbieri
+ Cuarto árbitro: Joaquín Gil
  Sábado 24 de mayo
  Deportivo Riestra - Deportivo Armenio, en Estudiantes de Buenos Aires (horario a confirmar)
 San Lorenzo-Quilmes
@@ -1153,12 +1153,6 @@ ZONA "2" - PRIMERA FASE
  HURACAN LH
  ARGENTINO M. MAIZ
  SAN MARTÍN AC
- 11ra. fecha - 24/05/25
- ESTUDIANTES vs. HURACAN LH
- ATENAS vs. ARGENTINO M.M.
- COSTA BRAVA vs. SAN MARTIN
- GUTIERREZ vs. JUV UNIDA U.
- LIBRE: CIUDAD
  12da. fecha - 01/06/25
  SAN MARTIN vs. GUTIÉRREZ
  ARGENTINO M.M. vs. COSTA BRAVA
@@ -1388,37 +1382,6 @@ Peñarol (Uruguay)
  Olimpia (Paraguay)
  Vélez (Argentina)
  San Antonio (Bolivia)
- Fecha 5
- Miércoles 14 de mayo
- 21.30 Botafogo - Estudiantes
- Árbitro: Juan Benítez (Paraguay)
- Asistente 1: Eduardo Cardozo (Paraguay)
- Asistente 2: Julio Aranda (Paraguay)
- Cuarto árbitro: Blas Romero (Paraguay)
- VAR: Ulises Mereles (Paraguay)
- AVAR: José Cuevas (Paraguay)
- 21.30 Racing - Colo Colo
- Árbitro: Gustavo Tejera (Uruguay)
- Asistente 1: Carlos Barreriro (Uruguay)
- Asistente 2: Horacio Ferreiro (Uruguay)
- Cuarto árbitro: Nadia Fuques (Uruguay)
- VAR: Andrés Cunha (Uruguay)
- AVAR: Santiago Fernández (Uruguay)
- Jueves 15 de mayo
- 19.00 Talleres - Alianza Lima
- Árbitro: Gery Vargas (Bolivia)
- Asistente 1: José Antelo (Bolivia)
- Asistente 2: Edwin Saavedra (Bolivia)
- Cuarto árbitro: Javier Revollo (Bolivia)
- VAR: Álvaro Campos (Bolivia)
- AVAR: Gaad Flores (Bolivia)
- 21.30 River - Independiente del Valle
- Árbitro: Jesús Valenzuela (Venezuela)
- Asistente 1: Tulio Moreno (Venezuela)
- Asistente 2: Lubin Torrealba (Venezuela)
- Cuarto árbitro: Alexis Herrera (Venezuela)
- VAR: Juan Lara (Chile)
- AVAR: Edson Cisternas (Chile)
 FIXTURE COMPLETO CONMEBOL LIBERTADORES 2025
 Grupo A
 Martes 27 de mayo, 21:30 | Estudiantes (LP) vs. Carabobo
@@ -1474,15 +1437,6 @@ Atlético Mineiro (Brasil)
  Caracas (Venezuela)
  Cienciano (Perú)
  Dep. Iquique (Chile)
- Fecha 5
-Jueves 15 de mayo
- 19.00 Independiente - Guaraní
- Árbitro: Flavio De Souza (Brasil)
- Asistente 1: Bruno Pires (Brasil)
- Asistente 2: Victor Mazu (Brasil)
- Cuarto árbitro: Matheus Candancan ((Brasil)
- VAR: Rodrigo Dalonso (Brasil)
- AVAR: Diego Pombo (Brasil)
 Fixture Copa Sudamericana 2025 equipos argentinos
 Grupo A
  Miércoles 28 de mayo, 19:00 | Independiente vs. Nacional Potosí
