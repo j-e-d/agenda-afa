@@ -641,19 +641,8 @@ Suspendido con fecha a establecer:
  Asistente 1: Diego Fernández
  Asistente 2: Ariel Ibáñez
  Cuarto árbitro: Facundo Carretero
- Domingo 18 de mayo
-El Porvenir - Berazategui, a las 15.30 horas
- Árbitro: Manuel Girett
- Asistente 1: Lucas Monsalvo
- Asistente 2: Mara Díaz
- Cuarto árbitro: Fabrizio De La Cruz
- L.N. Alem - Puerto Nuevo, a las 15.30 horas
- Árbitro: Gabriel Flores
- Asistente 1: Mario Vargas
- Asistente 2: Franco Boetti
- Cuarto árbitro: Juan Ferreyra
  Martes 20 de mayo
-Def. de Cambaceres - Lugano, a las 15.30 horas
+ Def. de Cambaceres - Lugano, a las 15.30 horas
  Árbitro: Damián Rubino
  Asistente 1: Gonzalo Cubillas
  Asistente 2: Oscar Maidana
@@ -663,19 +652,23 @@ Def. de Cambaceres - Lugano, a las 15.30 horas
  Asistente 1: Matías Noli
  Asistente 2: Jonathan Florentín
  Cuarto árbitro: Ulises López
+ El Porvenir - Berazategui, a las 15.30 horas
+ Árbitro: Manuel Girett
+ Asistente 1: Lucas Monsalvo
+ Asistente 2: Mara Díaz
+ Cuarto árbitro: Fabrizio De La Cruz
  Miércoles 21 de mayo
  Muñiz - Dep. Español, a las 15.30 horas en Juv. Unida
  Árbitro: Valentín Bocaccia
  Asistente 1: Matías Vargas
  Asistente 2: Leandro Idio
  Cuarto árbitro: Iván Mastroieni
+ L.N. Alem - Puerto Nuevo, a las 15.30 horas
+ Árbitro: Gabriel Flores
+ Asistente 1: Mario Vargas
+ Asistente 2: Franco Boetti
+ Cuarto árbitro: Juan Ferreyra
  Zona “B”
- Domingo 18 de mayo
-Estrella del Sur - Dep. Paraguayo, a las 15.30 horas en Brown (Adrogué)
- Árbitro: Iván Castelu Coca
- Asistente 1: Ezequiel Rabasa
- Asistente 2: Alejo Milone
- Cuarto árbitro: Elías Viglione
  Lunes 19 de mayo
 Rec. Español - Ctral. Ballester, a las 15.30 horas en Ituzaingó
  Árbitro: Ramiro Maglio
@@ -708,6 +701,12 @@ Gral. Lamadrid - Sp. Barracas, a las 15.35 horas (TV)
  Asistente 1: Damián Alcaráz
  Asistente 2: Nahuel Valdeón
  Cuarto árbitro: Roberta Echavarría
+ Miércoles 21 de mayo
+ Estrella del Sur - Dep. Paraguayo, a las 15.30 horas en Brown (Adrogué)
+ Árbitro: Iván Castelu Coca
+ Asistente 1: Ezequiel Rabasa
+ Asistente 2: Alejo Milone
+ Cuarto árbitro: Elías Viglione
 Fecha 12 - 24/05/2025
  Libre: Mercedes
  Central Córdoba (Ros.) c. L.N. Alem
