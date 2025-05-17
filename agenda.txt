@@ -375,24 +375,12 @@ POSTERGADO
 15ª. fecha
 :
 Zona “A”
-Viernes 16-05
- Ferro Carril Oeste - Almagro, a las 20.05 horas
- (TV)
- Árbitro: Juan Pablo Loustau
- Asistente 1: Gerardo Lencina
- Asistente 2: Damián Olivetto
- Cuarto árbitro: Gonzalo Creimermann
 Sábado 17-05
 Los Andes - Alvarado (M.D.P.), a las 15.30 horas
  Árbitro: Julio Barraza
  Asistente 1: Juan Manuel Vázquez
  Asistente 2: Daiana Milone
  Cuarto árbitro: Germán Bermúdez
-Tristán Suárez - Atlanta, a las 15.30 horas
- Árbitro: Juan Pafundi
- Asistente 1: Juan Manuel González
- Asistente 2: Francisco Gugliotta
- Cuarto árbitro: Maximiliano López Monti
 San Martin (T.) - Racing (Cba.), a las 21.10 horas 
 (TV)
  Árbitro: Bryan Ferreyra
@@ -400,6 +388,11 @@ San Martin (T.) - Racing (Cba.), a las 21.10 horas
  Asistente 2: Emiliano Bustos
  Cuarto árbitro: Nahuel Viñas
 Domingo 18-05
+ Tristán Suárez - Atlanta, a las 15.30 horas
+ Árbitro: Juan Pafundi
+ Asistente 1: Juan Manuel González
+ Asistente 2: Francisco Gugliotta
+ Cuarto árbitro: Maximiliano López Monti
 Güemes (S.E.) - Quilmes A.C., a las 15.00 horas
  Árbitro: Jorge Broggi
  Asistente 1: Hernán Vallejos
@@ -662,11 +655,6 @@ El Porvenir - Berazategui, a las 15.30 horas
  Asistente 2: Franco Boetti
  Cuarto árbitro: Juan Ferreyra
  Martes 20 de mayo
- Muñiz - Dep. Español, a las 15.30 horas en Juv. Unida
- Árbitro: Valentín Bocaccia
- Asistente 1: Matías Vargas
- Asistente 2: Leandro Idio
- Cuarto árbitro: Iván Mastroieni
 Def. de Cambaceres - Lugano, a las 15.30 horas
  Árbitro: Damián Rubino
  Asistente 1: Gonzalo Cubillas
@@ -677,6 +665,12 @@ Def. de Cambaceres - Lugano, a las 15.30 horas
  Asistente 1: Matías Noli
  Asistente 2: Jonathan Florentín
  Cuarto árbitro: Ulises López
+ Miércoles 21 de mayo
+ Muñiz - Dep. Español, a las 15.30 horas en Juv. Unida
+ Árbitro: Valentín Bocaccia
+ Asistente 1: Matías Vargas
+ Asistente 2: Leandro Idio
+ Cuarto árbitro: Iván Mastroieni
  Zona “B”
  Domingo 18 de mayo
 Estrella del Sur - Dep. Paraguayo, a las 15.30 horas en Brown (Adrogué)
