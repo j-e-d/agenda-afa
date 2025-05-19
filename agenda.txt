@@ -920,20 +920,21 @@ Excursionistas - Argentinos Jrs.,
 horario y estadio a confirmar 
 (TV)
 Domingo 8 de junio
-Unión - Rosario Ctral.
-, 
-horario y estadio a confirmar 
-(TV)
 Platense - Independiente Riv. (Mza.),
 horario y estadio a confirmar 
 (TV)
-Domingo 15 de junio
+Jueves 26 de junio
 Tigre - Banfield, horario y estadio a confirmar 
 (TV)
 Viernes 27 de junio
 Belgrano (Cba.) - Defensores de Belgrano, horario y estadio a confirmar 
 (TV)
 Instituto (Cba.) - Huracán, horario y estadio a confirmar 
+(TV)
+ Sábado 28 de junio
+ Unión - Rosario Ctral.
+, 
+horario y estadio a confirmar 
 (TV)
 NOTA
 San Martín (Tuc.) - 
@@ -1181,8 +1182,6 @@ Torneo Femenino de Primera División 2025
 Primera División A 2025 - 1er Torneo
 Fecha 16
 Libre: Gimnasia y Esgrima de La Plata
- Domingo 19 de mayo
- 16.00 Belgrano - Ferro, Alberdi
  Lunes 19 de mayo 
 11.00 San Luis - SAT, Cancha 1 Predio Juventud Unida Universitario
 12.00 Huracán - Banfield, Quemita Cancha 5
