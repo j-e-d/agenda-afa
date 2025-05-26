@@ -1064,114 +1064,105 @@ Lunes 26 de mayo
  Libre: San Luis
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2025
-Grupo A
-Botafogo (Brasil)
- Estudiantes (Argentina)
- Universidad (Chile)
- Carabobo (Venezuela)
-Grupo B
-River Plate (Argentina)
- Independiente del Valle (Ecuador)
- Universitario (Perú)
- Barcelona (Ecuador)
-Grupo C
-Flamengo (Brasil)
- Liga de Quito (Ecuador)
- Deportivo Táchira (Venezuela)
- Central Córdoba (Argentina)
-Grupo D
-San Pablo (Brasil)
- Libertad (Paraguay)
- Talleres (Argentina)
- Alianza Lima (Perú)
-Grupo E
-Racing Club (Argentina)
- Colo Colo (Chile)
- Fortaleza (Brasil)
- Atlético Bucaramanga (Colombia)
-Grupo F
-Nacional (Uruguay)
- Internacional (Brasil)
- Atlético Nacional (Colombia)
- Bahía (Brasil)
-Grupo G
-Palmeiras (Brasil)
- Bolivar (Bolivia)
- Sporting Cristal (Perú)
- Cerro Porteño (Paraguay)
-Grupo H
-Peñarol (Uruguay)
- Olimpia (Paraguay)
- Vélez (Argentina)
- San Antonio (Bolivia)
-FIXTURE COMPLETO CONMEBOL LIBERTADORES 2025
+Fixture Copa Libertadores 2025 equipos argentinos
 Grupo A
 Martes 27 de mayo, 21:30 | Estudiantes (LP) vs. Carabobo
+ Árbitro: Augusto Menéndez (Perú)
+ Asistente 1: Jesús Sánchez (Perú)
+ Asistente 2: José Castillo (Perú)
+ Cuarto árbitro: Daniel Ureta (Perú)
+ VAR: Joel Alarcón (Perú)
+ AVAR: Diego Jaimes (Perú)
 Grupo B
-Martes 27 de mayo, 21:30 | River Plate vs. Universitario
-Grupo C
+ Martes 27 de mayo, 21:30 | River Plate vs. Universitario
+ Árbitro: Raphael Claus (Brasil)
+ Asistente 1: Danilo Manis (Brasil)
+ Asistente 2: Nailton Souza (Brasil)
+ Cuarto árbitro: Bruno Arleu (Brasil)
+ VAR: Daniel Nobre (Brasil)
+ AVAR: Pablo Goncalvez (Brasil)
+ Grupo C
 Miércoles 28 de mayo, 21:30 | Liga de Quito vs. Central Córdoba
-Grupo D
+ Árbitro: Felipe González (Chile)
+ Asistente 1: José Retamal (Chile)
+ Asistente 2: Alejandro Molina (Chile)
+ Cuarto árbitro: Dione Rissios (Chile) 
+ VAR: Benjamín Saravia (Chile)
+ AVAR: Miguel Araos (Chile)
+ Grupo D
 Martes 27 de mayo, 19:00 | São Paulo vs. Talleres
+ Árbitro: Piero Maza (Chile)
+ Asistente 1: Miguel Rocha (Chile)
+ Asistente 2: Carlos Venegas (Chile)
+ Cuarto árbitro: Digo Flores (Chile)
+ VAR: Francisco Gilabert (Chile)
+ AVAR: Edson Cisternas (Chile)
 Grupo E
 Jueves 29 de mayo, 21:30 | Racing Club vs. Fortaleza
+ Árbitro: Alexis Herrera (Venezuela)
+ Asistente 1: Lubin Torrealba (Venezuela)
+ Asistente 2: Antoni García (Venezuela)
+ Cuarto árbitro: Rony Cueva (Venezuela)
+ VAR: Juan Soto (Venezuela)
+ AVAR: Marco Suárez (Venezuela)
 Grupo H
 Jueves 29 de mayo, 19:00 | Peñarol vs. Vélez
+ Árbitro: Anderson Daronco (Brasil)
+ Asistente 1: Rodrigo Correa (Brasil)
+ Asistente 2: Alez Ang (Brasil)
+ Cuarto árbitro: Rodrigo Pereira (Brasil)
+ VAR: Rodolpho Toski (Brasil)
+ AVAR: ROdrigo Dalonso (Brasil)
 CONMEBOL Sudamericana 2025
-Grupo A
-Independiente (Argentina)
- Guaraní (Paraguay)
- Nacional de Potosí (Bolivia)
- Boston River (Uruguay)
-Grupo B
- Defensa y Justicia
- U. Católica (Chile)
- Cerro Largo (Uruguay)
- Vitoria (Brasil)
-Grupo C
-América de Cali (Colombia)
- Huracán (Argentina)
- Racing de Montevideo (Uruguay)
- Corinthians (Brasil)
-Grupo D
-Gremio
-(Brasil)
- Godoy Cruz (Argentina)
- Sp. Luqueño (Paraguay)
- Atlético Grau (Perú)
-Grupo E
-Cruzeiro (Brasil)
- Palestino (Chile)
- Unión de Santa Fe (Argentina)
- Mushuc Runa (Ecuador)
-Grupo F
-Fluminense (Brasil)
- Unión Española (Chile)
- Once Caldas (Colombia)
- GV San José (Bolivia)
-Grupo G
-Lanús (Argentina)
- Vasco da Gama (Brasil)
- Puerto Cabello (Venezuela)
- Melgar (Perú)
-Grupo H
-Atlético Mineiro (Brasil)
- Caracas (Venezuela)
- Cienciano (Perú)
- Dep. Iquique (Chile)
 Fixture Copa Sudamericana 2025 equipos argentinos
 Grupo A
  Miércoles 28 de mayo, 19:00 | Independiente vs. Nacional Potosí
-Grupo B
+ Árbitro: Paulo Zanovelli (Brasil)
+ Asistente 1: Danilo Manis (Brasil)
+ Asistente 2: Nailton Souza (Brasil)
+ Cuarto árbitro: Rafael Klein (Brasil)
+ VAR: Pablo Gonzalves (Brasil)
+ AVAR: Daniel Nobre (Brasil)
+ Grupo B
  Miércoles 28 de mayo, 21:30 | Defensa y Justicia vs. Cerro Largo
-Grupo C
+ Árbitro: Emikar Caldera (Venezuela)
+ Asistente 1: Migdalia Rodríguez (Venezuela)
+ Asistente 2: Mary Blanco (Colombia)
+ Cuarto árbitro: Paula Fernández (Colombia)
+ VAR: Milagros Arruela (Perú)
+ AVAR: Stefani Escobar (Venezuela)
+ Grupo C
  Martes 27 de mayo, 21:30 | Huracán vs. Corinthians
+ Árbitro: Gery Vargas (Bolivia)
+ Asistente 1: José Antelo (Bolivia)
+ Asistente 2: Edwar Saavedra (Bolivia)
+ Cuarto árbitro: Javier Revollo (Bolivia)
+ VAR: Wilfredo Campos (Bolivia)
+ AVAR: Juan García (Bolivia)
 Grupo D
  Jueves 29 de mayo, 19:00 | Godoy Cruz vs. Atlético Grau
-Grupo E
+ Árbitro: Javier Revollo (Bolovia)
+ Asistente 1: José Antelo (Bolovia)
+ Asistente 2: Edwar Saavedra (Bolovia)
+ Cuarto árbitro: Gery Vargas (Bolovia)
+ VAR: Jorge Justiniano (Bolovia)
+ AVAR: Alejandra Quisbert (Bolovia)
+ Grupo E
  Miércoles 28 de mayo, 21:30 | Cruzeiro vs. Unión (Santa Fe)
+ Árbitro: Blas Romero (Paraguay)
+ Asistente 1: Eduardo Cardozo (Paraguay)
+ Asistente 2: Roberto Cañete (Paraguay)
+ Cuarto árbitro: David Ojeda (Paraguay)
+ VAR: José Méndez (Paraguay)
+ AVAR: Luis Anieva (Paraguay)
 Grupo G
  Martes 27 de mayo, 19:00 | Lanús vs. Academia Puerto Cabello
+ Árbitro: Ivo Méndez (Bolivia)
+ Asistente 1: Carlos Tapia (Bolivia)
+ Asistente 2: Rubén Flores (Bolivia)
+ Cuarto árbitro: Cristhian Aleman (Bolivia)
+ VAR: Jorge Justiniano (Bolivia)
+ AVAR: Alejandra Quisbert (Bolivia)
 Las fechas de la Copa Sudamericana 2025
 Fase de grupos: del 1/4 al 29/5
  Playoffs Octavos: del 15/7 al 24/7
