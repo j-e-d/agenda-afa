@@ -307,6 +307,77 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Apertura
+Fecha 15
+ Martes 27 de mayo
+ 15:00 Racing – Newell’s (Zona A) – Tita Mattiussi
+ Árbitro: Ariadna Palacios
+ Árbitro asistente 1: Facundo Maldonado
+ Árbitro asistente 2: Gonzalo Calo
+ Cuarto árbitro: Franco Porotelli
+ 15:00 Banfield – Central Córdoba (Zona A) – Predio
+ Árbitro: Roberta Echeverría
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Luis Colli
+ 15:00 Independiente Rivadavia – Defensa y Justicia (Zona A) – Ciudad Deportiva
+ Árbitro: Sebastián Milessi
+ Árbitro asistente 1: Daniel Villarreal
+ Árbitro asistente 2: Enzo Nell
+ 15:00 Argentinos – Estudiantes (Zona A) – CEFFA
+ Árbitro: Ignacio Domínguez
+ Árbitro asistente 1: Matías Vargas
+ Árbitro asistente 2: Mariela Martino
+ Cuarto árbitro: Fabricio De La Cruz
+ 15:00 San Martín (SJ) – Aldosivi (Interzonal) – Auxiliar
+ Árbitro: Micaela Abelardo
+ Árbitro asistente 1: Roberto Rodriguez
+ Árbitro asistente 2: Daniel Alegre
+ Miércoles 28 de mayo
+ 15:10 Atlético Tucumán – Lanús (Zona B) – San Jorge
+ Árbitro: Ulises López
+ Árbitro asistente 1: Diego Fernandez
+ Árbitro asistente 2: Lucas García
+ 15:10 Dep. Riestra – Godoy Cruz (Zona B) – La Candela
+ Árbitro: Leandro Fedele
+ Árbitro asistente 1: Nahuel Valdeon
+ Árbitro asistente 2: Patricio Acuña
+ Cuarto árbitro: Gabriel Oroño
+ 15:10 Rosario Central – Independiente (Zona B) – Arroyo Seco
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Leandro Idio
+ Árbitro asistente 2: Nahuel Martin
+ 15:10 Talleres – Instituto (Zona B) – La Boutique
+ Árbitro: Matías Ansede
+ Árbitro asistente 1: Felipe Arrechea
+ Árbitro asistente 2: Joaquin Fraga
+ 15:10 Gimnasia – Platense (Zona B) – Estancia Chica
+ Árbitro: Gabriela Coronel
+ Árbitro asistente 1: Tomás Otero
+ Árbitro asistente 2: Alejo Milone
+ Cuarto árbitro: Nicolás Díaz
+ 19:00 River – Vélez (Zona B) – River Camp
+ Árbitro: Facundo Carretero
+ Árbitro asistente 1: Ezequiel Rabasa
+ Árbitro asistente 2: Valentino Gaillard
+ Cuarto árbitro: Manuel Prieto
+ Jueves 29 de mayo
+ 15:00 Unión – Belgrano (Zona A) – La Tatenguita
+ Árbitro: Elías Viglione
+ Árbitro asistente 1: Mario Vargas
+ Árbitro asistente 2: Sofía Curto
+ 15:00 Sarmiento – San Lorenzo (Zona B) – CAR
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Nicolás Cavagnaro
+ Árbitro asistente 2: Agustín Baleman
+ 15:00 Huracán – Barracas Central (Zona A) – La Quemita
+ Árbitro: Valentín Pérsico
+ Árbitro asistente 1: Christian Rodríguez
+ Árbitro asistente 2: Bruno Santillan
+ Cuarto árbitro: Agustín Panizza
+ 15:10 Tigre – Boca (Zona A) – José Dellagiovanna
+ Árbitro: Rodrigo Maidana
+ Árbitro asistente 1: Gonzalo Cubillas
+ Árbitro asistente 2: Fabrizio Osorio
+ Cuarto árbitro: Manuel Prieto
 Supercopa Internacional 2024
 Domingo 6 de julio
 Estudiantes de L.P. - Vélez, en horario y estadio a designar (TV)
@@ -1404,14 +1475,67 @@ Copa Mundial Sub 20 Femenina 2026
 Polonia será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 4; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5; país anfitrión: 1
 Copa Mundial Sub 17 Masculina 2025
-El Consejo de la FIFA confirmó que se disputará del 5 al 27 de noviembre de 2025 en Qatar.
- Selecciones clasificadas a la Copa Mundial Sub-17 de la FIFA:
- AFC: Qatar (anfitrión), Indonesia, Japón, RPD de Corea, República de Corea, Arabia Saudí, Tayikistán, Emiratos Árabes Unidos, Uzbekistán
- CAF: Burkina Faso, Costa de Marfil, Egipto, Malí, Marruecos, Senegal, Sudáfrica, Túnez, Uganda, Zambia
- Concacaf: Canadá, Costa Rica, El Salvador, Haití, Honduras, México, Panamá, Estados Unidos
- CONMEBOL: Argentina, Brasil, Chile, Colombia, Paraguay, Venezuela, Bolivia
- OFC: Fiyi, Nueva Caledonia, Nueva Zelanda
- UEFA: Austria, Bélgica, Croacia, República Checa, Inglaterra, Francia, Alemania, Italia, Portugal, República de Irlanda, Suiza
+Se disputará del 5 al 27 de noviembre de 2025 en Qatar. Los grupos quedaron conformados de la siguiente manera:
+ Grupo A
+ Qatar
+ Italia
+ Sudáfrica
+ Bolivia
+ Grupo B
+ Japón
+ Marruecos
+ Nueva Caledonia
+ Portugal
+ Grupo C
+ Senegal
+ Croacia
+ Costa Rica
+ Emiratos Árabes Unidos
+ Grupo D
+ Argentina
+ Bélgica
+ Túnez
+ Fiji
+ Grupo E
+ Inglaterra
+ Venezuela
+ Haití
+ Egipto
+ Grupo F
+ México
+ República de Corea
+ Costa de Marfil
+ Suiza
+ Grupo G
+ Alemania
+ Colombia
+ RPD de Corea
+ El Salvador
+ Grupo H
+ Brasil
+ Honduras
+ Indonesia
+ Zambia
+ Grupo I
+ Estados Unidos
+ Burkina Faso
+ Tajikistan
+ Chequia
+ Grupo J
+ Paraguay
+ Uzbekistán
+ Panamá
+ República de Irlanda
+ Grupo K
+ Francia
+ Chile
+ Canadá
+ Uganda
+ Grupo L
+ Mali
+ Nueva Zelanda
+ Austria
+ Arabia Saudí
 Copa Mundial Sub 17 Femenina 2025-2029
 Marruecos será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 5; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5.
