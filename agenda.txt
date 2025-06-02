@@ -1033,50 +1033,50 @@ La primera edición del evento se llevará a cabo en Filipinas.
 Los 16 equipos serán divididos en cuatro grupos de cuatro. Los primeros dos de cada zona avanzarán a los cuartos de final. A esa instancia la seguirán las semifinales, el partido por el tercer puesto y la final.
 Mundial de Clubes de la FIFA 2025
 Con 32 equipos se disputará en Estados Unidos del 15 de junio al 13 de julio de 2025.
-Grupo A
+ Grupo A
  Palmeiras (Brasil)
  Porto (Portugal)
  Al Ahly FC (Egipto)
  Inter Miami (Estados Unidos)
-Grupo B
+ Grupo B
  Paris Saint Germain (Francia)
  Atlético de Madrid (España)
  Botafogo (Brasil)
  Seattle Sounders (Estados Unidos)
-Grupo C
+ Grupo C
  Bayern Munich (Alemania)
  Auckland City (Nueva Zelanda)
  Boca Juniors (Argentina)
  Benfica (Portugal)
-Grupo D
+ Grupo D
  Flamengo (Brasil)
  Espérance Sportive de Tunis (Túnez)
  Chelsea (Inglaterra)
- Los Ángeles FC (EE.UU.) o Club América (México)
-Grupo E
+ Los Ángeles FC (EE.UU.)
+ Grupo E
  River Plate (Argentina)
  Urawa Red Diamonds (Japón)
  Monterrey (México)
  Inter de Milán (Italia)
-Grupo F
+ Grupo F
  Fluminense (Brasil)
  Borussia Dortmund (Alemania)
  Ulsan HD (Corea del Sur)
  Mamelodi Sundowns (Sudáfrica)
-Grupo G
+ Grupo G
  Manchester City (Inglaterra)
  Wydad AC (Marruecos)
  Al Ain (Emiratos Árabes)
  Juventus (Italia)
-Grupo H
+ Grupo H
  Real Madrid (España)
  Al-Hilal (Arabia Saudita)
  Pachuca (México)
  Salzburgo (Austria)
-Formato de la competición
-Una fase de grupos con formato de liguilla a partido único, con ocho grupos de cuatro equipos cada uno. Los dos primeros equipos de cada grupo se clasifican para octavos de final. Una fase de eliminación directa a partido único desde octavos de final hasta la final. Sin partido por el tercer puesto. 
-FIXTURE
-Sábado, 14 de junio 2025
+ Formato de la competición
+ Una fase de grupos con formato de liguilla a partido único, con ocho grupos de cuatro equipos cada uno. Los dos primeros equipos de cada grupo se clasifican para octavos de final. Una fase de eliminación directa a partido único desde octavos de final hasta la final. Sin partido por el tercer puesto. 
+ FIXTURE
+ Sábado, 14 de junio 2025
  Partido 1 – Inter Miami vs. Al Ahly, 20:00, Miami Hard Rock Stadium
  Domingo, 15 de junio 2025
  Partido 2: Bayern Múnich vs. Auckland City FC, 12:00, Cincinnati TQL Stadium
@@ -1084,7 +1084,7 @@ Sábado, 14 de junio 2025
  Partido 4: Palmeiras vs. Porto, 18:00, Nueva York Nueva Jersey Metlife Stadium
  Partido 5: Botafogo vs. Seattle Sounders, 19:00, Seattle Lumen Field
  Lunes, 16 de junio 2025
- Partido 6: Chelsea vs.Los Ángeles FC (EE.UU.) o Club América (México), 15:00, Atlanta Mercedes-Benz Stadium
+ Partido 6: Chelsea vs.Los Ángeles FC (EE.UU.), 15:00, Atlanta Mercedes-Benz Stadium
  Partido 7: Boca vs. Benfica, 18:00, Miami Hard Rock Stadium
  Partido 8: Flamengo vs. Esperance Sportive de Tunis, 21:00, Philadelphia, Lincoln Financial Field
  Martes, 17 de junio 2025
@@ -1105,7 +1105,7 @@ Sábado, 14 de junio 2025
  Viernes, 20 de junio 2025
  Partido 21: Benfica vs. Auckland City, 12:00, Orlando InterCo Stadium
  Partido 22: Flamengo vs. Chelsea, 14:00, Philadelphia, Lincoln Financial Field
- Partido 23: Los Ángeles FC (EE.UU.) o Club América (México) vs. Espérance Sportive de Tunisie, 17:00, Nashville GEODIS Park
+ Partido 23: Los Ángeles FC (EE.UU.) vs. Espérance Sportive de Tunisie, 17:00, Nashville GEODIS Park
  Partido 24: Bayern Múnich vs. Boca Juniors, 21:00, Miami Hard Rock Stadium
  Sábado, 21 de junio 2025
  Partido 25: Mamelodi Sundowns FC vs. Borussia Dortmund, 12:00, Cincinnati TQL Stadium
@@ -1127,7 +1127,7 @@ Sábado, 14 de junio 2025
  Partido 37: Auckland City vs. Boca, 14:00, Nashville GEODIS Park
  Partido 38: Benfica vs. Bayern Munich, 15:00, Charlotte Bank of America
  Stadium
- Partido 39: Los Ángeles FC (EE.UU.) o Club América (México) vs. Flamengo, 21:00, Orlando Camping World
+ Partido 39: Los Ángeles FC (EE.UU.) vs. Flamengo, 21:00, Orlando Camping World
  Stadium
  Partido 40: Espérance Sportive de Tunisie vs. Chelsea, 21:00, Philadelphia, Lincoln Financial Field
  Miércoles, 25 de junio 2025
