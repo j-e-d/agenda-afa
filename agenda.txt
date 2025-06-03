@@ -891,14 +891,30 @@ Torneo Femenino de Primera División 2025
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2025
 Así quedaron conformados los cruces de octavos de final
- Atlético Nacional (Colombia) - San Pablo (Brasil)
- Fortaleza (Brasil) - Vélez (Argentina)
- Flamengo (Brasil) - Internacional (Brasil)
- Universitario (Perú) - Palmeiras (Brasil)
- Libertad (Paraguay) - River (Argentina)
- Cerro Porteño (Paraguay) - Estudiantes (Argentina)
- Peñarol (Uruguay) - Racing (Argentina)
- Botafogo (Brasil) - Liga de Quito (Ecuador)
+Partidos de IDA
+Martes 12 de agosto
+19:00 Fortaleza (Brasil) - Velez Sarsfield (Argentina)
+ 21:30 Atlético Nacional (Colombia) - São Paulo (Brasil)
+ 21:30 Peñarol (Uruguay) - Racing (Argentina)
+Miércoles 13 de agosto
+19:00 Cerro Porteño (Paraguay) - Estudiantes de La Plata (Argentina)
+ 21:30 Flamengo (Brasil) - Internacional (Brasil)
+Jueves 14 de agosto
+19:00 Botafogo (Brasil) - Liga de Quito (Ecuador)
+ 21:30 Universitario (Perú) - Palmeiras (Brasil)
+ 21:30 Libertad (Paraguay) - River Plate (Argentina)
+Partidos de VUELTA
+Martes 19 de agosto
+19:00 Vélez Sarsfield (Argentina) - Fortaleza (Brasil)
+ 21:30 São Paulo (Brasil) - Atlético Nacional (Colombia)
+ 21:30 Racing (Argentina) - Peñarol (Uruguay)
+Miércoles 20 de agosto
+19:00 Estudiantes de La Plata (Argentina) - Cerro Porteño (Paraguay)
+ 21:30 Internacional (Brasil) - Flamengo (Brasil)
+Jueves 21 de agosto
+19:00 Liga de Quito (Ecuador) - Botafogo (Brasil)
+ 21:30 Palmeiras (Brasil) - Universitario (Perú)
+ 21:30 River Plate (Argentina) - Libertad (Paraguay)
 CONMEBOL Sudamericana 2025
 Así quedaron conformados los cruces de octavos de final
  Alianza Lima / Gremio - Universidad Católica (Ecuador)
@@ -909,6 +925,30 @@ Así quedaron conformados los cruces de octavos de final
  Independiente del Valle / Vasco Da Gama - Mushuc Runa (Ecuador)
  Atlético Bucaramanga / Atlético Mineiro - Godoy Cruz (Argentina)
  Universidad de Chile / Guaraní - Independiente (Argentina)
+Partidos de IDA
+Martes 15 de julio
+19:00 Central Córdoba (Argentina) - Cerro Largo (Uruguay)
+ 21:30 Bahia (Brasil) - América de Cali (Colombia)
+ 21:30 Independiente del Valle (Ecuador) - Vasco da Gama (Brasil)
+Miércoles 16 de julio
+19:00 Bolívar (Bolivia) - Palestino (Chile)
+ 21:30 Alianza Lima (Perú) - Grêmio (Brasil)
+ 21:30 San Antonio (Bolivia) - Once Caldas (Colombia)
+Jueves 17 de julio
+19:00 Universitario de Chile (Chile) - Guaraní (Paraguay)
+ 21:30 Atlético Bucaramanga (Colombia) - Atlético Mineiro (Brasil)
+Partidos de VUELTA
+Martes 22 de julio
+19:00 Cerro Largo (Uruguay) - Central Córdoba (Argentina)
+ 21:30 América de Cali (Colombia) - Bahia (Brasil)
+ 21:30 Vasco da Gama (Brasil) - Independiente del Valle (Ecuador)
+ Miércoles 23 de julio
+19:00 Palestino (Chile) - Bolívar (Bolivia)
+ 21:30 Grêmio (Brasil) - Alianza Lima (Perú)
+ 21:30 Once Caldas (Colombia) - San Antonio (Bolivia)
+Jueves 24 de julio
+19:00 Guaraní (Paraguay) - Universitario de Chile (Chile)
+ 21:30 Atlético Mineiro (Brasil) - Atlético Bucaramanga (Colombia)
 Las fechas de la Copa Sudamericana 2025
 Fase de grupos: del 1/4 al 29/5
  Playoffs Octavos: del 15/7 al 24/7
