@@ -325,17 +325,6 @@ Primera Nacional
 19ª. fecha
 :
  Zona “A”
- Sábado 21-06
- Quilmes A.C. c. Dep. Maipú (Mza.), a las 17.10 horas (TV)
- Árbitro: Juan Pablo Loustau
- Asistente 1: Gerardo Lencina
- Asistente 2: Erik Grunman
- Cuarto árbitro: Julio Barraza
- Colegiales c. All Boys, a las 19.10 horas (TV)
- Árbitro: Franco Acita
- Asistente 1: Juan Manuel González
- Asistente 2: Carla López
- Cuarto árbitro: Germán Bermúdez
  Domingo 22-06
  Atlanta c. Alvarado (M.D.P.), a las 13.10 horas (TV)
  Árbitro: Juan Pafundi
@@ -1088,39 +1077,34 @@ Mundial de Clubes de la FIFA 2025
  Formato de la competición
  Una fase de grupos con formato de liguilla a partido único, con ocho grupos de cuatro equipos cada uno. Los dos primeros equipos de cada grupo se clasifican para octavos de final. Una fase de eliminación directa a partido único desde octavos de final hasta la final. Sin partido por el tercer puesto. 
  FIXTURE
- Sábado, 21 de junio 2025
- Partido 25: Mamelodi Sundowns FC vs. Borussia Dortmund, 12:00, Cincinnati TQL Stadium
- Partido 26: Inter de Milán vs. Urawa Reds, 12:00, Seattle Lumen Field
- Partido 27: Fluminense vs. Ulsan HD, 18:00, Nueva York Nueva Jersey Metlife Stadium
- Partido 28: River Plate vs. FC Monterrey, 18:00, Los Angeles Rose Bowl Stadium
  Domingo, 22 de junio 2025
- Partido 29: Juventus vs. Wydad AC, 12:00, Philadelphia, Lincoln Financial Field
- Partido 30: Real Madrid vs. Pachuca, 15:00, Charlotte Bank of America
+ Partido 29: Juventus vs. Wydad AC, 13:00, Philadelphia, Lincoln Financial Field
+ Partido 30: Real Madrid vs. Pachuca, 16:00, Charlotte Bank of America
  Stadium
- Partido 31: C Salzburg vs. Al Hilal, 18:00, Washington D.C. Audi Field
- Partido 32: Manchester City vs. Al Ain FC, 21:00, Atlanta Mercedes-Benz Stadium
+ Partido 31: C Salzburg vs. Al Hilal, 19:00, Washington D.C. Audi Field
+ Partido 32: Manchester City vs. Al Ain FC, 22:00, Atlanta Mercedes-Benz Stadium
  Lunes, 23 de junio 2025
- Partido 33: Seattle Sounders vs. PSG, 12:00, Seattle Lumen Field
- Partido 34: Atlético de Madrid vs. Botafogo, 12:00, Los Angeles Rose Bowl Stadium
- Partido 35: Inter Miami vs. Palmeiras, 21:00, Miami Hard Rock Stadium
- Partido 36: Porto vs. Al Ahly, 21:00, Nueva York Nueva Jersey Metlife Stadium
+ Partido 33: Seattle Sounders vs. PSG, 13:00, Seattle Lumen Field
+ Partido 34: Atlético de Madrid vs. Botafogo, 13:00, Los Angeles Rose Bowl Stadium
+ Partido 35: Inter Miami vs. Palmeiras, 22:00, Miami Hard Rock Stadium
+ Partido 36: Porto vs. Al Ahly, 22:00, Nueva York Nueva Jersey Metlife Stadium
  Martes, 24 de junio 2025
- Partido 37: Auckland City vs. Boca, 14:00, Nashville GEODIS Park
- Partido 38: Benfica vs. Bayern Munich, 15:00, Charlotte Bank of America
+ Partido 37: Auckland City vs. Boca, 16:00, Nashville GEODIS Park
+ Partido 38: Benfica vs. Bayern Munich, 16:00, Charlotte Bank of America
  Stadium
- Partido 39: Los Ángeles FC (EE.UU.) vs. Flamengo, 21:00, Orlando Camping World
+ Partido 39: Los Ángeles FC (EE.UU.) vs. Flamengo, 22:00, Orlando Camping World
  Stadium
- Partido 40: Espérance Sportive de Tunisie vs. Chelsea, 21:00, Philadelphia, Lincoln Financial Field
+ Partido 40: Espérance Sportive de Tunisie vs. Chelsea, 22:00, Philadelphia, Lincoln Financial Field
  Miércoles, 25 de junio 2025
- Partido 41: Borussia Dortmund vs. Ulsan HD, 15:00, Cincinnati TQL Stadium
- Partido 42: Mamelodi Sundowns FC vs. Fluminense, 15:00, Miami Hard Rock Stadium
- Partido 43: Inter de Milán vs. River Plate, 18:00, Seattle Lumen Field
- Partido 44: Urawa Red Diamonds vs. Monterrey FC, 18:00, Los Angeles Rose Bowl Stadium
+ Partido 41: Borussia Dortmund vs. Ulsan HD, 16:00, Cincinnati TQL Stadium
+ Partido 42: Mamelodi Sundowns FC vs. Fluminense, 16:00, Miami Hard Rock Stadium
+ Partido 43: Inter de Milán vs. River Plate, 22:00, Seattle Lumen Field
+ Partido 44: Urawa Red Diamonds vs. Monterrey FC, 22:00, Los Angeles Rose Bowl Stadium
  Jueves, 26 de junio 2025
- Partido 45: Juventus vs. Manchester City, 15:00, Orlando Camping World
- Partido 46: Wydad AC vs. Al Ain FC, 15:00, Washington D.C Audi Field
- Partido 47: Al Hilal vs. Pachuca, 20:00, Nashville GEODIS Park
- Partido 48: FC Salzburg vs. Real Madrid, 20:00, Philadelphia, Lincoln Financial Field
+ Partido 45: Juventus vs. Manchester City, 16:00, Orlando Camping World
+ Partido 46: Wydad AC vs. Al Ain FC, 16:00, Washington D.C Audi Field
+ Partido 47: Al Hilal vs. Pachuca, 22:00, Nashville GEODIS Park
+ Partido 48: FC Salzburg vs. Real Madrid, 22:00, Philadelphia, Lincoln Financial Field
  Octavos de final
  Sábado, 28 de junio
  Partido 49: 1A vs. 2B, 12:00, Philadelphia, Lincoln Financial Field
