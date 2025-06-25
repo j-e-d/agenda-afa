@@ -309,7 +309,7 @@ Final Torneo Proyección Sur Finanzas Apertura
  Asistente 1: Federico Lapalma
  Asistente 2: Damián Alcaraz
  Cuarto árbitro: Facundo Carretero
-El mejor clasificado en la primera fase del Torneo mantiene la localía y en caso de igualdad en los 90 minutos habrá alargue y, en caso de persistir la paridad, se definirá el certamen tras una tanda de penales.
+En caso de igualdad en los 90 minutos habrá alargue y, en caso de persistir la paridad, se definirá el certamen tras una tanda de penales.
 Supercopa Internacional 2024
 Martes 8 de julio 
  Estudiantes de L.P. vs Vélez Sarsfield, a las 20.30 horas en Independiente (TV)
@@ -953,21 +953,20 @@ Fase de grupos: del 1/4 al 29/5
  Semifinales: del 22/10 al 30/10
  Final: el 22/11
 Eliminatorias Sudamericanas
-Los clasificados al Mundial hasta el momento:
-Argentina
-: disputó 18 Mundiales. Mejores participaciones: campeón en 1978, 1986 y 2022, y final en 1930, 1990 y 2014.
-Estados Unidos: 
-disputó 11 Mundiales. Mejores participaciones: tercer puesto en 1930 y cuartos de final en 2002.
-México:
- disputó 17 Mundiales. Mejores participaciones: cuartos de final en 1970 y 1986.
-Canadá:
- disputó 2 Mundiales (1986 y 2022). Nunca superó la fase de grupos.
-Japón:
- disputó 7 Mundiales. Mejores participaciones: octavos de final en 2002, 2010, 2018 y 2022.
-Nueva Zelanda
-: disputó 2 Mundiales (1982 y 2010). Nunca superó la fase de grupos.
-Irán:
- disputó 6 Mundiales (1978,1998,2006,2014,2018 y 2022). Nunca superó la fase de grupos.
+Fecha 17
+ Septiembre de 2025
+ Uruguay vs Perú
+ Colombia vs Bolivia
+ Brasil vs Chile
+ Paraguay vs Ecuador
+ Argentina vs Venezuela
+Fecha 18
+ Septiembre de 2025
+ Perú vs Paraguay
+ Venezuela vs Colombia
+ Bolivia vs Brasil
+ Chile vs Uruguay
+ Ecuador vs Argentina
 Amistosos Selección Mayor
 Copa del Mundo 2026
 El partido inaugural de la Copa del Mundo 2026 que organizan en conjunto los Estados Unidos, México y Canadá, se jugará en el Estadio Azteca el 11 de junio.
@@ -1150,20 +1149,18 @@ Mundial de Clubes de la FIFA 2025
  Partido 47: Al Hilal vs. Pachuca, 20:00, Nashville GEODIS Park
  Partido 48: FC Salzburg vs. Real Madrid, 21:00, Philadelphia, Lincoln Financial Field
  Octavos de final
- Sábado, 28 de junio
- Partido 49: 1A vs. 2B, 12:00, Philadelphia, Lincoln Financial Field
- Partido 50: 1C vs. 2D, 16:00, Charlotte Bank of America
- Stadium
- Domingo, 29 de junio
- Partido 51: 1B vs. 2A, 12:00, Atlanta Mercedes-Benz Stadium
- Partido 52: 1D vs. 2C, 16:00, Miami Hard Rock Stadium
- Lunes, 30 de junio
- Partido 53: 1E vs. 2F, 15:00, Charlotte Bank of America
- Stadium
- Partido 54: 1G vs. 2H, 21:00, Orlando Camping World
- Martes, 1 de julio
- Partido 55: 1H vs. 2G, Miami Hard Rock Stadium
- Partido 56: 1F vs. 2E, Atlanta Mercedes-Benz Stadium
+ 49 Sábado 28 de junio, 13:00 Palmeiras vs. Botafogo Lincoln Financial
+ Field, Philadelphia
+ 51 Domingo 29 de junio, 13:00 PSG vs. Inter Miami Mercedes-Benz
+ Stadium, Atlanta
+ 50 Sábado 28 de junio, 17:00 Benfica vs. Chelsea Bank of America
+ Stadium, Charlotte
+ 52 Domingo 29 de junio, 17:00 Flamengo vs. Bayern Múnich Hard Rock Stadium, Miami
+ 53 Lunes 30 de junio, 16:00 Ganador Grupo E vs. Segundo Grupo F Bank of America
+ Stadium, Charlotte
+ 56 Martes 1 de julio, 22:00 Ganador Grupo F vs. Segundo Grupo E Mercedes-Benz Stadium, Atlanta
+ 54 Lunes 30 de junio, 22:00 Ganador Grupo G vs. Segundo Grupo H Inter&Co Stadium, Orlando
+ 55 Martes 1 de julio, 16:00 Ganador Grupo H vs. Segundo Grupo G Hard Rock Stadium, Miami 
  Cuartos de final
  Viernes, 4 de julio
  Partido 57: G53 vs. G54, 15:00, Orlando Camping World
