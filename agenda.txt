@@ -333,16 +333,16 @@ Zona “A”
  Asistente 1: Ernesto Callegari
  Asistente 2: Mariana Dure
  Cuarto árbitro: Nicolás Mastroieni
- San Martin (T.) c. Patronato (Paraná), a las 18.00 horas
- Árbitro: Lucas Cavallero
- Asistente 1: Eduardo Lucero
- Asistente 2: Matías Bianchi
- Cuarto árbitro: Alejandro Scionti
  Dep. Madryn c. Quilmes A.C., a las 18.00 horas
  Árbitro: Fabrizio Llobet
  Asistente 1: Julio Fernández
  Asistente 2: Martín Grasso
  Cuarto árbitro: Luciano Julio
+ San Martin (T.) c. Patronato (Paraná), a las 20.00 horas
+ Árbitro: Lucas Cavallero
+ Asistente 1: Eduardo Lucero
+ Asistente 2: Matías Bianchi
+ Cuarto árbitro: Alejandro Scionti
  Domingo 29-06
  All Boys c. Atlanta, a las 14.45 horas (TV)
  Árbitro: Ariel Penel
@@ -779,12 +779,101 @@ Boca Jrs.
 de los encuentros aquí antes citados el 31/07/25.
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2025, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A Edición 2025
- 16ta. fecha - 29/06/25
- VILLA MITRE vs. RINCÓN
- CIRCULO DEP. vs. GMO. BROWN
- KIMBERLEY vs. SOL DE MAYO
- SANTAMARINA vs. CIPOLLETTI
- GERMINAL vs. OLIMPO
+FECHA 16
+Viernes 27 de junio
+ 15.30 Sol de América - Boca Unidos
+ Árbitro: Guillermo Adrián González
+ Asistente 1: Hernan José Vallejos
+ Asistente 2: Maria Soledad Rios
+ Cuarto árbitro: Rodrigo Edgardo Lopez
+ 20.30 Ben Hur R - Independiente (Chi)
+ Árbitro: Gustavo Federico Benites
+ Asistente 1: Luciano Agustín Diaz
+ Asistente 2: Diego Pablo Ocampo
+ Cuarto árbitro: Patricio Jesus Destefano
+ 22.00 Juv Antoniana - San Martin F.
+ Árbitro: Jorge David Etem
+ Asistente 1: Uvab Adriel Araya
+ Asistente 2: Cristian Herrera
+ Cuarto árbitro: Pablo Alberto Ramirez
+Sábado 28 de junio
+ 14.00 Estudiantes S L - Gutierrez SC
+ Árbitro: Rodrigo Héctor Rivero
+ Asistente 1: Emilio José Maguna
+ Asistente 2: Nestor Fabian Caceres
+ Cuarto árbitro: Williams Ricardo Abdala
+ 15.00 Kimberley MDQ - Sol de Mayo
+ Árbitro: Cristian Rubiano
+ Asistente 1: Carlos Javier Viglietti
+ Asistente 2: Joaquin Badano
+ Cuarto árbitro: Daiana Luz Ilari
+ 15.00 Gim y Esgrima Ch - El Linqueño
+ Árbitro: Lautaro Castañola
+ Asistente 1: Guido Córdoba
+ Asistente 2: Antonella Silvia Pajon
+ Cuarto árbitro: Diego Antonetti
+ 15.00 At Rafaela - Mitre Posadas
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Maximiliano Moya
+ Asistente 2: Hugo Fleitas
+ Cuarto árbitro: Robertino Rosas
+ 15.30 Ciudad de Bolivar - J. U. Universitario
+ Árbitro: Franco David Moron
+ Asistente 1: Malvina Lujan Schiel
+ Asistente 2: Abel Marcelo Aredondo
+ Cuarto árbitro: Alejo Cid
+ 15.30 Crucero del Norte - Sarmiento Rcia.
+ Árbitro: Matias Ezequiel Billone Carpio
+ Asistente 1: Emanuel Jose Serale
+ Asistente 2: Marcos David Guzman
+ Cuarto árbitro: Dalma Perez
+ 16.00 Sportivo At. - G. y Esgrima CU
+ Árbitro: Cesar Antonio Ceballo
+ Asistente 1: Matias Ezequiel Balmaceda
+ Asistente 2: Matias Javier Gonzalez
+ Cuarto árbitro: Evelyn Romina Lujan
+Domingo 29 de junio
+ 15.00 Germinal - Olimpo
+ Árbitro: Pablo Federico Núñez
+ Asistente 1: Marcelo Gabriel González
+ Asistente 2: Danilo Ariel Viola
+ Cuarto árbitro: Rodrigo Moreno
+ 15.00 Círculo Deportivo - Guillermo Brown
+ Árbitro: Juan Ignacio Nebbietti
+ Asistente 1: Leopoldo Gorosito
+ Asistente 2: Emiliano Nicolas Bustos
+ Cuarto árbitro: Agustina Loos
+ 15.00 Villa Mitre - Dep Rincón
+ Árbitro: Fernando Jesus Rekers
+ Asistente 1: Oscar Ariel Bono
+ Asistente 2: Thomas Pasquetin
+ Cuarto árbitro: Santiago Schmoll
+ 15.00 Santamarina - Cipolletti
+ Árbitro: Jonathan Daniel Correa
+ Asistente 1: Valentin Pompei
+ Asistente 2: Nicolás Dario Moreno
+ Cuarto árbitro: Facundo Hector Alvez
+ 15.30 Huracán L. Heras - At. C. San Martín
+ Árbitro: Luis Damian Martinez
+ Asistente 1: Rodrigo Ariel Jara
+ Asistente 2: Fernando S. Muñoz
+ Cuarto árbitro: Siserol Gomez
+ 15.35 Sp. Belgrano - Def. Belgrano (V.R.)
+ Árbitro: Mauricio Exequiel Martin
+ Asistente 1: Leila Romina Argañaraz
+ Asistente 2: Bruno Pezzotta
+ Cuarto árbitro: Agustín Marto
+ 16.15 Douglas Haig - Nueve de Julio
+ Árbitro: Marcos Ignacio Liuzzi
+ Asistente 1: Martin Daniel Nardelli
+ Asistente 2: Gonzalo Anibal Roldan
+ Cuarto árbitro: Leonel Matias Suarez
+Lunes 30 de junio
+ 13.30 Atenas RC - At. Costa Brava
+ Árbitro: Diego Saul Novelli
+ Asistente 1: Lautaro Manuel Paletta
+ Asistente 2: Andres Leonardo Franco
+ Cuarto árbitro: Nicolás Matias Sosa
  17ma. fecha - 06/07/25
  RINCON vs. OLIMPO
  CIPOLLETTI vs. GERMINAL
@@ -807,12 +896,6 @@ ZONA "2" - PRIMERA FASE
  HURACAN LH
  ARGENTINO M. MAIZ
  SAN MARTÍN AC
- 16ta. fecha - 29/06/25
- HURACAN LH vs. SAN MARTIN
- CIUDAD vs. JUV UNIDA U.
- ESTUDIANTES vs. GUTIERREZ
- ATENAS vs. COSTA BRAVA
- LIBRE: ARGENTINO M.M.
  17ma. fecha - 06/07/25
  GUTIERREZ vs. ATENAS
  JUV UNIDA U. vs. ESTUDIANTES
@@ -836,12 +919,6 @@ ZONA "3" - PRIMERA FASE
  BEN HUR
  DEF. BELGRANO VR
  G. ESGRIMA CU
- 16ta. fecha - 29/06/25
- D. HAIG vs. 9 DE JULIO R.
- BEN HUR vs. INDEPENDIENTE
- SPORTIVO AC vs. GIMNASIA E. CU
- SP. BELGRANO vs. DEF. BELGRANO
- G. ESGRIMA CH vs. EL LINQUEÑO
  17ma. fecha - 06/07/25
  9 DE JULIO R. vs. EL LINQUEÑO
  DEF. BELGRANO vs. G. ESGRIMA CH
@@ -864,12 +941,6 @@ ZONA "4" - PRIMERA FASE
  BMA. INGLETO
  BOCA UNIDOS
  JUVENTUD ANTONIANA
-16ta fecha - 29/06/25
- AT. RAFAELA vs. MITRE P.
- SOL DE AMÉRICA vs. BOCA UNIDOS
- J. ANTONIANA vs. SAN MARTÍN F.
- CRUCERO N. vs. SARMIENTO R.
- LIBRE: SARMIENTO LB.
 17ma. fecha - 06/07/25
  SAN MARTIN F. vs. CRUCERO N.
  BOCA UNIDOS vs. J. ANTONIANA
@@ -882,10 +953,217 @@ ZONA "4" - PRIMERA FASE
  CRUCERO N. vs. BOCA UNIDOS
  SARMIENTO R. vs. SAN MARTIN F.
  LIBRE: AT. RAFAELA
-Torneo Regional Amateur
+Copa País
+Domingo 29 de junio
+ 16.00 Selección Tupungato - Selección Tunuyán
+ Árbitro: Matías Fernández
+ Asistente 1: Diego Esposito
+ Asistente 2: María Elena Siciliano
+Miércoles 2 de julio
+ 15.00 Selección Jáchal - Selección Rodeo
+ Árbitro: Rubén Ariel Fernández
+ Asistente 1: Ruth Díaz
+ Asistente 2: Jorge Cruceño
+ 15.00 Selección Calingasta - Selección San Juan
+ Árbitro: Luis Levis
+ Asistente 1: Mauricio Vaporaki
+ Asistente 2: Samir Ismael Tejada
+ 15.30 Selección San Pedro - Selección Junín
+ Árbitro: Alejandro Ezequiel Domínguez
+ Asistente 1: Jorge Luis Morán
+ Asistente 2: Miguel Alejandro Santa Cruz
+ 15.30 Selección Posadas - Selección Eldorado
+ Árbitro: Leonardo Daniel Schunke
+ Asistente 1: Jonathan Alejandro Ferreyra
+ Asistente 2: Zayra Weiss
+ 15.30 Selección La Plata - Selección Escobar
+ Árbitro: José Hornos
+ Asistente 1: Pablo Celi
+ Asistente 2: Ariel Pacheco
+ 16.00 Selección Valle Viejo - Selección Recreo
+ Árbitro: Erik Santiago Godoy
+ Asistente 1: Gerardo Matías Oviedo
+ Asistente 2: Gustavo Ariel Aguirre
+ 16.00 Selección Belén - Selección Catamarca
+ Árbitro: Juan Esteban Pereyra
+ Asistente 1: Damián Antonio Astrada
+ Asistente 2: Carlos Eduardo Jerez
+ 16.00 Selección Media Agua - Selección Caucete
+ Árbitro: Alfredo César
+ Asistente 1: Guillermo Vega
+ Asistente 2: Diego Gaille
+ 16.00 Selección Villa Sta Rosa - Selección Albardón
+ Árbitro: César Manuel Castro
+ Asistente 1: Horacio Salinas
+ Asistente 2: Alexander Agustín Moreta
+ 20.30 Selección Rafaela - Selección San Jorge
+ Árbitro: Luca Pedrozo
+ Asistente 1: Carlos Colazo
+ Asistente 2: Franco Corraz
+ 20.45 Selección Jesús María - Selección Oncativo
+ Árbitro: Marcos Vilta
+ Asistente 1: Mishqui de los Reyes
+ Asistente 2: Alexis Zalazar
+ 21.00 Selección Chacabuco - Selección Pergamino
+ Árbitro: Enzo Damián Gutiérrez
+ Asistente 1: Alejandro Tawel Barrientos
+ Asistente 2: Mauro Agustín De Stéfano
+ 21.00 Selección Río Cuarto - Selección Villa María
+ Árbitro: Leonardo Reguero
+ Asistente 1: Juan Domínguez
+ Asistente 2: Maximiliano Merlos
+Miércoles 16 de julio
+ 16.00 Selección Mar del Tuyú - Selección Gral Madariaga
+ Árbitro: Gonzalo Ceferino López
+ Asistente 1: Juan Alberto Giardini
+ Asistente 2: Rodrigo Eduardo Navarro
 Torneo Femenino de Primera División 2025
 ​​​​
 Torneo Femenino de Primera B
+Copa Federal Femenina
+Viernes 27 de junio
+16.00 At. El Carmen - Def. Monterrico
+ Árbitro: Alexis Balderrama
+ Asistente 1: Cristian Ortega
+ Asistente 2: Ángel Ajalla
+20.00 Somisa - Paraná FC
+ Árbitro: Melina Mariel Eizaguirre
+ Asistente 1: Francisco Yopolo
+ Asistente 2: Juan González
+Sábado 28 de junio
+11.00 Tiro y Gimnasia - Monterrico San Vicente
+ Árbitro: Víctor Julio Terán
+ Asistente 1: Rodrigo Facundo Rioja
+ Asistente 2: Diego Martín Pereyra
+11.00 La Conty - El Auténtico
+ Árbitro: José Miguel Barahona
+ Asistente 1: Jesús Ariel Montivero
+ Asistente 2: Héctor Gabriel Barrera
+11.00 Américo Tesorieri - San Martín del Bañado
+ Árbitro: Erik Santiago Godoy
+ Asistente 1: Matías Alejandro Páez
+ Asistente 2: Ramón Nicolás Enrique
+11.00 Racing FC - Costa Brava
+ Árbitro: Emanuel Leguizamón
+ Asistente 1: Lucas Yael D’Onofrio
+ Asistente 2: Esteban Cabrera
+12.00 Polideportivo Videla - C.A. Provincial
+ Árbitro: Sebastián Medina
+ Asistente 1: Iago Santiago Supertino
+ Asistente 2: Maximiliano Crucci
+15.00 San Benito - Academia Crack Fútbol Total
+ Árbitro: Maximiliano Emanuel Durán
+ Asistente 1: Ramiro Gastón Nadalín
+ Asistente 2: Santino Gaioli
+15.00 Arenas FC - Santa María de Oro
+ Árbitro: Sebastián López
+ Asistente 1: Alcides Alexis Arredondo
+ Asistente 2: Daniel Raúl Voisard
+15.00 Ferrocarril del Estado - Nocheros CO
+ Árbitro: Lautaro Ezequiel Carro
+ Asistente 1: Nicolás Conejero
+ Asistente 2: Gonzalo Andrés Suárez
+15.00 At. Lamarque - Dep. Rincón
+ Árbitro: Ezequiel Oscar Escobar
+ Asistente 1: José Hernán Huaiquipan
+ Asistente 2: Pedro Javier Mareco
+15.00 Huracán - Provincial P
+ Árbitro: Elías Ezequiel Contreras
+ Asistente 1: Juan Carlos Burgos
+ Asistente 2: Elías Nahuel Parrucci
+15.00 Universidad - Instituto
+ Árbitro: Alba León
+ Asistente 1: Kevin Morán
+ Asistente 2: Hugo Gastón Domínguez
+16.00 Juventud FC - At. Gimnasia y Esgrima
+ Árbitro: Pablo Ruiz
+ Asistente 1: Fabio Ayuza
+ Asistente 2: Facundo Agustín Almazán
+16.00 Sp. Palermo - Def. de Belgrano
+ Árbitro: Jesús Roberto Lambertín
+ Asistente 1: Matías Emanuel Sepúlveda
+ Asistente 2: Eduardo Ezequiel Campbell
+16.00 Redes de la Patria - Juventud Antoniana
+ Árbitro: Cristian Jesús Lambertín
+ Asistente 1: José Alejandro Liendro
+ Asistente 2: Braian Salto
+16.00 Ctral. Norte - San Lorenzo
+ Árbitro: Joaquín Pospos
+ Asistente 1: Mauricio Ricardo López
+ Asistente 2: Tiago Rueda
+16.00 UTHGRA - Progreso
+ Árbitro: Ángel Misael Argañaraz
+ Asistente 1: Mario Andrés Marcos
+ Asistente 2: Rodrigo Emmanuel Jiménez
+16.00 Escuela Dep. Junín - Sp. San Carlos
+ Árbitro: María Elena Siciliano
+ Asistente 1: Rocío Lira
+ Asistente 2: Wanda Vilurón
+16.00 Dep. Confluencia - At. Pacífico
+ Árbitro: Nelson Martín Garrido
+ Asistente 1: Ulises Benjamín Chandía
+ Asistente 2: Adrián Hernán Agurto
+16.00 San José Azul - Ciudad de Olavarría
+ Árbitro: Camila Romero
+ Asistente 1: Mauro Ignacio Echarren
+ Asistente 2: Mauro Fernando Cejas
+16.00 San José MdQ - Juventud Unida
+ Árbitro: Lucas González
+ Asistente 1: Pablo Peón
+ Asistente 2: Eduardo Javier Gómez
+16.00 Verónica - Asociación Iris
+ Árbitro: Mauro Falcón
+ Asistente 1: Abigail Andrea López
+ Asistente 2: Belén Arce
+16.00 At. San Martín - Colón Juniors
+ (Sin designación arbitral)
+16.15 Pabellón Argentino - Estrella de Jeppener
+ Árbitro: Horacio Nicolás Corrao
+ Asistente 1: Pablo Corsini
+ Asistente 2: Diego David García
+16.30 Sp. Pedal - El Porvenir
+ Árbitro: Carla González
+ Asistente 1: Carla Milena Fuster
+ Asistente 2: Silvia Soledad Perafán
+18.00 At. Libertad - At. Tucumán
+ Árbitro: Facundo Maximiliano Gutiérrez Volo
+ Asistente 1: Fabrizzio Aichino
+ Asistente 2: Fátima Noemí Rodríguez
+Domingo 29 de junio
+11.00 Vialidad Nacional - Dep. Argentino (SR)
+ Árbitro: Martín Olate
+ Asistente 1: Nahir Shirley Arena
+ Asistente 2: Brian Javier Almonacid
+13.00 Juventud Unida Q. - Defensores M. Quemado
+ Árbitro: Juan Alberto Carrillo
+ Asistente 1: Domingo Rafael Acosta
+ Asistente 2: Emilio Celiz
+14.00 Las Guerreras - Fusión
+ Árbitro: Matías Arabel
+ Asistente 1: Brian José Velázquez
+ Asistente 2: Juan Pablo Brito
+14.00 Rivadavia Chacabuco - UNNOBA
+ Árbitro: Martín Bonomi
+ Asistente 1: Fabricio País Ferradas
+ Asistente 2: Alan Francisco Sosa Barrios
+16.00 Ctral Córdoba - La Ensenada
+ Árbitro: Marcos Gabriel Ledesma
+ Asistente 1: Marianela Nicole Moreno
+ Asistente 2: María Raquel Enríquez
+Miércoles 2 de julio
+16.00 Dep. Godoy Cruz A.T. - Gimnasia y Esgrima
+ Árbitro: Agustín Lira
+ Asistente 1: Pablo Vega
+ Asistente 2: Lautaro Leonel Rodríguez
+Sábado 5 de julio
+16.00 At. Oberá - Guaraní A. Franco
+ Árbitro: Armindo Andrés Lovera
+ Asistente 1: Pablo Julián Rivero
+ Asistente 2: Diego Chávez
+16.00 Sp. Comercio - Def. de Evita
+ Árbitro: Leandro Gabriel Díaz Doroñuk
+ Asistente 1: Ignacio Eliceo Coria
+ Asistente 2: Lautaro Nalda Agüero
 CONMEBOL Libertadores 2025
 Así quedaron conformados los cruces de octavos de final
 Partidos de IDA
