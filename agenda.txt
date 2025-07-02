@@ -491,7 +491,7 @@ Fecha 16
 Zona “A”
 Viernes 4 de julio
 Ituzaingó - Berazategui, a las 19.05 horas (TV)
- Árbitro:Ignacio Cuicchi
+ Árbitro: Ignacio Cuicchi
  Asistente 1: Juan Etchepare
  Asistente 2: Matías Vargas
  Cuarto árbitro: Sebastián Milessi 
@@ -546,7 +546,7 @@ Dep. Paraguayo - Cañuelas F.C, a las 15.30 horas
  Árbitro: Manuel Girett
  Asistente 1: Ariel Ibañez
  Asistente 2: Joaquín Fraga
- Cuarto árbitro: Elías Viglione
+ Cuarto árbitro: Jonathan Barrios
 Atlas - Victoriano Arenas, a las 15.30 horas
  Árbitro: Gonzalo Creimermann
  Asistente 1: Nahuel Valdeon
@@ -785,6 +785,99 @@ Boca Jrs.
 de los encuentros aquí antes citados el 31/07/25.
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2025, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A Edición 2025
+Fecha 17
+Sábado 5 de julio
+GUILLERMO BROWN - KIMBERLEY MDQ, a las 14:00
+ Árbitro: Jonathan Daniel Correa
+ Asistente 1: Rodrigo Moreno
+ Asistente 2: Danilo Ariel Viola
+ Cuarto árbitro: Marcos David Guzmán
+DEP RINCÓN - OLIMPO, a las 15:00
+ Árbitro: Diego Saul Novelli
+ Asistente 1: Lautaro Manuel Paletta
+ Asistente 2: Fernando Zabalza
+ Cuarto árbitro: Camila Romero
+INDEPENDIENTE (CHI) - SPORTIVO AT., a las 15:00
+ Árbitro: Juan Ignacio Nebbietti
+ Asistente 1: Martín Daniel Nardelli
+ Asistente 2: Gonzalo Aníbal Roldán
+ Cuarto árbitro: Daiana Luz Ilari
+BOCA UNIDOS - JUV ANTONIANA, a las 15:00
+ Árbitro: Matáas Ezequiel Billone Carpio
+ Asistente 1: Emanuel José Serale
+ Asistente 2: Matías Javier González
+ Cuarto árbitro: Mario Facundo Rojo Casal
+CIPOLLETTI - GERMINAL, a las 15:30
+ Árbitro: Franco David Morón
+ Asistente 1: Maximiliano Moya
+ Asistente 2: Bruno Pezzotta
+ Cuarto árbitro: Valentín Pompei
+MITRE POSADAS - SOL DE AMERICA, a las 15:30
+ Árbitro: Marcos Ignacio Liuzzi
+ Asistente 1: Cristian Herrera
+ Asistente 2: Pablo Alberto Ramírez
+ Cuarto árbitro: Agustín Vegetti
+Domingo 6 de julio
+SOL DE MAYO - SANTAMARINA, a las 11:00
+ Árbitro: Luciano Ezequiel Julio
+ Asistente 1: Diego Maximiliano Álvarez
+ Asistente 2: Karim Doussouk
+ Cuarto árbitro: Claudio Agustín Cabrelli
+VILLA MITRE - CIRCULO DEPORTIVO, a las 15:00
+ Árbitro: Cristian Rubiano
+ Asistente 1: Nicolás Darío Moreno
+ Asistente 2: Thomas Pasquetin
+ Cuarto árbitro: Alejo Cid
+J. U. UNIVERSITARIO - ESTUDIANTES S L, a las 15:00
+ Árbitro: Fernando Omar Marcos
+ Asistente 1: Leopoldo Gorosito
+ Asistente 2: Emiliano Nicolás Bustos
+ Cuarto árbitro: Matías Edgardo Noguera
+GUTIERREZ SC - ATENAS RC, a las 15:00
+ Árbitro: José Manuel Díaz
+ Asistente 1: Juan Ignacio Flores Roig
+ Asistente 2: Federico Hernán Ojeda
+ Cuarto árbitro: Leandro Federico Hartfield
+G. Y ESGRIMA CU - SP. BELGRANO, a las 15:00
+ Árbitro: Jorge David Etem
+ Asistente 1: Hugo Fleitas
+ Asistente 2: Uvab Adriel Araya
+ Cuarto árbitro: Antonella Silvia Pajón
+NUEVE DE JULIO - EL LINQUEÑO, a las 15:00
+ Árbitro: Nelson Matías Bejas
+ Asistente 1: Leila Romina Argañaraz
+ Asistente 2: José Daniel Ponce
+ Cuarto árbitro: Rodrigo Ballestero
+SAN MARTIN F. - CRUCERO DEL NORTE, a las 15:00
+ Árbitro: Francisco Martín Acosta
+ Asistente 1: Emilio José Maguna
+ Asistente 2: Nestor Fabian Cáceres
+ Cuarto árbitro: Williams Ricardo Abdala
+AT. C. SAN MARTIN - CIUDAD DE BOLIVAR, a las 15:30
+ Árbitro: Rodrigo Héctor Rivero
+ Asistente 1: Luis Fernando Ortíz
+ Asistente 2: Alex Zerda
+ Cuarto árbitro: Denis Emanuel Chávez
+ARGENTINO P - HURACAN L.HERAS, a las 15:30
+ Árbitro: Guillermo Adrián González
+ Asistente 1: Hernán José Vallejos
+ Asistente 2: Mariana Beatriz Dure
+ Cuarto árbitro: Rodrigo Edgardo López
+DEF. BELGRANO (V.R.) - GIM Y ESGRIMA CH, a las 15:30
+ Árbitro: Fernando Jesús Rekes
+ Asistente 1: Oscar Ariel Bono
+ Asistente 2: Leonel Matías Suarez
+ Cuarto árbitro: Santiago Schmoll
+SARMIENTO SGO - AT RAFAELA, a las 16:00
+ Árbitro: José Darío Sandoval
+ Asistente 1: Guido Córdoba
+ Asistente 2: Rodrigo Lezcano Garcilano
+ Cuarto árbitro: Diego Antonetti
+DOUGLAS HAIG - BEN HUR R, a las 16:05
+ Árbitro: Luis Damián Martínez
+ Asistente 1: Carlos Javier Viglietti
+ Asistente 2: Fernando S. Muñoz
+ Cuarto árbitro: Rodrigo Ariel Jara
 ZONA "1" - PRIMERA FASE
  CÍRCULO DEP.
  RINCÓN
