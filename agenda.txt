@@ -785,19 +785,17 @@ Boca Jrs.
 de los encuentros aquí antes citados el 31/07/25.
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2025, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Torneo Federal A Edición 2025
-FECHA 16
-Lunes 30 de junio
- 13.30 Atenas RC - At. Costa Brava
- Árbitro: Diego Saul Novelli
- Asistente 1: Lautaro Manuel Paletta
- Asistente 2: Andres Leonardo Franco
- Cuarto árbitro: Nicolás Matias Sosa
- 17ma. fecha - 06/07/25
- RINCON vs. OLIMPO
- CIPOLLETTI vs. GERMINAL
- SOL DE MAYO vs. SANTAMARINA
- GMO. BROWN vs. KIMBERLEY
- VILLA MITRE vs. CIRCULO DEP.
+ZONA "1" - PRIMERA FASE
+ CÍRCULO DEP.
+ RINCÓN
+ KIMBERLEY
+ VILLA MITRE
+ SANTAMARINA
+ GMO BROWN
+ GERMINAL
+ SOL DE MAYO
+ OLIMPO
+ CIPOLLETTI
  18va. fecha - 13/07/25
  CIRCULO DEP. vs. RINCÓN
  KIMBERLEY vs. VILLA MITRE
@@ -814,12 +812,6 @@ ZONA "2" - PRIMERA FASE
  HURACAN LH
  ARGENTINO M. MAIZ
  SAN MARTÍN AC
- 17ma. fecha - 06/07/25
- GUTIERREZ vs. ATENAS
- JUV UNIDA U. vs. ESTUDIANTES
- SAN MARTIN vs. CIUDAD
- ARGENTINO M.M. vs. HURACAN LH
- LIBRE: COSTA BRAVA
  18va. fecha - 13/07/25
  CIUDAD vs. ARGENTINO M.M.
  ESTUDIANTES vs. SAN MARTÍN
@@ -837,12 +829,6 @@ ZONA "3" - PRIMERA FASE
  BEN HUR
  DEF. BELGRANO VR
  G. ESGRIMA CU
- 17ma. fecha - 06/07/25
- 9 DE JULIO R. vs. EL LINQUEÑO
- DEF. BELGRANO vs. G. ESGRIMA CH
- GIMNASIA E. CU vs. SP. BELGRANO
- INDEPENDIENTE vs. SPORTIVO AC
- D. HAIG vs. BEN HUR
 18va. fecha - 13/07/25
  BEN HUR vs. 9 DE JULIO R.
  SPORTIVO AC vs. D. HAIG
@@ -859,12 +845,6 @@ ZONA "4" - PRIMERA FASE
  BMA. INGLETO
  BOCA UNIDOS
  JUVENTUD ANTONIANA
-17ma. fecha - 06/07/25
- SAN MARTIN F. vs. CRUCERO N.
- BOCA UNIDOS vs. J. ANTONIANA
- MITRE P. vs. SOL DE AMÉRICA
- SARMIENTO LB. vs. AT. RAFAELA
- LIBRE: SARMIENTO R.
 18va. fecha - 13/07/25
  SOL DE AMÉRICA vs. SARMIENTO LB.
  J. ANTONIANA contra MITRE P.
