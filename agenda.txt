@@ -939,59 +939,6 @@ ZONA "4" - PRIMERA FASE
  SARMIENTO R. vs. SAN MARTIN F.
  LIBRE: AT. RAFAELA
 Copa País
-Miércoles 2 de julio
- 15.00 Selección Jáchal - Selección Rodeo
- Árbitro: Rubén Ariel Fernández
- Asistente 1: Ruth Díaz
- Asistente 2: Jorge Cruceño
- 15.00 Selección Calingasta - Selección San Juan
- Árbitro: Luis Levis
- Asistente 1: Mauricio Vaporaki
- Asistente 2: Samir Ismael Tejada
- 15.30 Selección San Pedro - Selección Junín
- Árbitro: Alejandro Ezequiel Domínguez
- Asistente 1: Jorge Luis Morán
- Asistente 2: Miguel Alejandro Santa Cruz
- 15.30 Selección Posadas - Selección Eldorado
- Árbitro: Leonardo Daniel Schunke
- Asistente 1: Jonathan Alejandro Ferreyra
- Asistente 2: Zayra Weiss
- 15.30 Selección La Plata - Selección Escobar
- Árbitro: José Hornos
- Asistente 1: Pablo Celi
- Asistente 2: Ariel Pacheco
- 16.00 Selección Valle Viejo - Selección Recreo
- Árbitro: Erik Santiago Godoy
- Asistente 1: Gerardo Matías Oviedo
- Asistente 2: Gustavo Ariel Aguirre
- 16.00 Selección Belén - Selección Catamarca
- Árbitro: Juan Esteban Pereyra
- Asistente 1: Damián Antonio Astrada
- Asistente 2: Carlos Eduardo Jerez
- 16.00 Selección Media Agua - Selección Caucete
- Árbitro: Alfredo César
- Asistente 1: Guillermo Vega
- Asistente 2: Diego Gaille
- 16.00 Selección Villa Sta Rosa - Selección Albardón
- Árbitro: César Manuel Castro
- Asistente 1: Horacio Salinas
- Asistente 2: Alexander Agustín Moreta
- 20.30 Selección Rafaela - Selección San Jorge
- Árbitro: Luca Pedrozo
- Asistente 1: Carlos Colazo
- Asistente 2: Franco Corraz
- 20.45 Selección Jesús María - Selección Oncativo
- Árbitro: Marcos Vilta
- Asistente 1: Mishqui de los Reyes
- Asistente 2: Alexis Zalazar
- 21.00 Selección Chacabuco - Selección Pergamino
- Árbitro: Enzo Damián Gutiérrez
- Asistente 1: Alejandro Tawel Barrientos
- Asistente 2: Mauro Agustín De Stéfano
- 21.00 Selección Río Cuarto - Selección Villa María
- Árbitro: Leonardo Reguero
- Asistente 1: Juan Domínguez
- Asistente 2: Maximiliano Merlos
 Miércoles 16 de julio
  16.00 Selección Mar del Tuyú - Selección Gral Madariaga
  Árbitro: Gonzalo Ceferino López
@@ -1448,3 +1395,22 @@ Martes 11 de noviembre
 Copa Mundial Sub 17 Femenina 2025-2029
 Marruecos será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 5; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5.
+COTIF 2025
+El plantel albiceleste estará integrado por juveniles de la categoría 2008, quienes en su mayoría participaron del último Sudamericano Sub 17 realizado en Colombia.
+ Argentina integra el grupo B junto con Chile, ADH Brasil y Valencia. La otra zona estará compuesta por Mauritania, Arabia Saudita, Uruguay y Venezuela.
+Domingo 21 de julio
+ 17.45 Argentina - Chile
+Miércoles 23 de julio
+ 17.45 Argentina - Valencia
+Viernes 25 de julio
+ 15.30 Argentina - ADH Brasil
+Sábado 26 de julio
+ 17.30 4t Grup. A - 4t. Grup B
+Domingo 27 de julio
+ 17.30 3r Grup. A - 3r Grup. B
+Lunes 28 de julio
+ 15.00 Primera semifinal
+ 17.30 Segunda semifinal
+Miércoles 30 de julio
+ 17.30 Final
+ *Todos los horarios pertenecen a la hora de Argentina
