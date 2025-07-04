@@ -1,62 +1,65 @@
 25/03/2019
 Torneo Clausura 2025
-Fecha 1 (13/07/2025)
- Zona A
- Argentinos – Boca
- Unión – Estudiantes
- Huracán – Belgrano
- Racing – Barracas Central
- Independiente Rivadavia – Newell’s
- Banfield – Defensa y Justicia
- Aldosivi – Central Córdoba
- Zona B
- River – Platense
- Gimnasia – Instituto
- Talleres – San Lorenzo
- Sarmiento – Independiente
- Rosario Central – Godoy Cruz
- Deportivo Riestra – Lanús
- Atlético Tucumán – San Martín (SJ)
- Interzonal
- Vélez – Tigre
-Fecha 2 (20/07/2025)
- Zona A
- Defensa y Justicia – Aldosivi
- Newell’s – Banfield
- Barracas Central – Independiente Rivadavia
- Belgrano – Racing
- Estudiantes – Huracán
- Boca – Unión
- Tigre – Argentinos
- Zona B
- San Martín (SJ) – Deportivo Riestra
- Lanús – Rosario Central
- Godoy Cruz – Sarmiento
- Independiente – Talleres
- San Lorenzo – Gimnasia
- Instituto -River
- Platense – Vélez
- Interzonal
- Atlético Tucumán – Central Córdoba
-Fecha 3 (27/07/2025)
- Zona A
- Unión – Tigre
- Huracán – Boca
- Racing – Estudiantes
- Independiente Rivadavia – Belgrano
- Banfield – Barracas Central
- Aldosivi – Newell’s
- Central Córdoba – Defensa y Justicia
- Zona B
- Vélez – Instituto
- River – San Lorenzo
- Gimnasia – Independiente
- Talleres – Godoy Cruz
- Sarmiento – Lanús
- Rosario Central – San Martín (SJ)
- Deportivo Riestra – Atlético Tucumán
- Interzonal
- Platense – Argentinos
+Fecha 1
+ Viernes 11 de julio
+ 15.30 Aldosivi – Central Córdoba
+ 20.00 Talleres – San Lorenzo
+ Sábado 12 de julio
+ 16.00 Rosario Central – Godoy Cruz
+ 18.30 Huracán – Belgrano
+ 18.30 Gimnasia – Instituto
+ 20.45 Racing – Barracas Central
+ Domingo 13 de julio
+ 14.15 Sarmiento – Independiente
+ 16.30 Atlético Tucumán – San Martín (SJ)
+ 16.30 Independiente Rivadavia – Newell’s
+ 18.45 Argentinos – Boca
+ 21.00 River – Platense
+ Lunes 14 de julio
+ 16.30 Deportivo Riestra – Lanús
+ 19.00 Banfield – Defensa y Justicia
+ 21.15 Vélez – Tigre
+ 21.15 Unión – Estudiantes
+Fecha 2
+ Viernes 18 de julio
+ 19.30 Boca – Unión
+ 21.30 Atlético Tucumán – Central Córdoba
+ Sábado 19 de julio
+ 14.30 San Lorenzo – Gimnasia
+ 16.30 Lanús – Rosario Central
+ 18.45 Godoy Cruz – Sarmiento
+ 18.45 Platense – Vélez
+ 21.00 Instituto – River
+ Domingo 20 de julio
+ 14.30 Barracas Central – Independiente Rivadavia
+ 16.45 Tigre – Argentinos
+ 16.45 Newell’s – Banfield
+ 19.00 Belgrano – Racing
+ 21.00 Independiente – Talleres
+ Lunes 21 de julio
+ 19.00 Estudiantes – Huracán
+ 21.15 Defensa y Justicia – Aldosivi
+ 21.15 San Martín (SJ) – Deportivo Riestra
+Fecha 3
+ Viernes 25 de julio
+ 19.00 Sarmiento – Lanús
+ 21.15 Unión – Tigre
+ 21.15 Independiente Rivadavia – Belgrano
+ Sábado 26 de julio
+ 14.30 Aldosivi – Newell’s
+ 16.45 Rosario Central – San Martín (SJ)
+ 19.00 Vélez – Instituto
+ 19.00 Platense – Argentinos
+ 21.15 Racing – Estudiantes
+ Domingo 27 de julio
+ 14.15 Talleres – Godoy Cruz
+ 16.00 Gimnasia – Independiente
+ 18.30 Huracán – Boca
+ 20.45 River – San Lorenzo
+ Lunes 28 de julio
+ 16.00 Deportivo Riestra – Atlético Tucumán
+ 18.00 Central Córdoba – Defensa y Justicia
+ 20.00 Banfield – Barracas Central
 Fecha 4 (10/08/2025)
  Zona A
  Newell’s – Central Córdoba
@@ -311,6 +314,88 @@ Domingo 6 de julio
  Árbitro asistente 2: Damián Alcaraz
  Cuarto árbitro: Facundo Carretero
 En caso de igualdad en los 90 minutos habrá alargue y, en caso de persistir la paridad, se definirá el certamen tras una tanda de penales.
+Proyección Sur Finanzas - Torneo Clausura
+Fecha 1
+ Martes 15 de julio
+ 15:00 Banfield - Defensa y Justicia (Zona A), en Predio
+ 15:00 Dep. Riestra - Lanús (Zona B), en La Candela
+ 15:00 Sarmiento - Independiente (Zona B), en CAR
+ 15:00 Huracán - Belgrano (Zona A), en La Quemita
+ Miércoles 16 de julio
+ 15:00 Tigre - Colón (Zona A), en Predio
+ 15:00 Racing - Barracas Central (Zona A), en Tita Mattiussi
+ 15:00 Rosario Central - Godoy Cruz (Zona B), en Arroyo Seco
+ 15:00 Gimnasia - Instituto (Zona B), en Estancia Chica
+ 18:00 River - Platense (Zona B), en River Camp
+ Jueves 17 de julio
+ 15:00 Unión - Estudiantes (Zona A), en La Tatenguita
+ 15:00 Ind. Rivadavia - Newell’s (Zona A), en Ciudad Deportiva
+ 15:00 Aldosivi - Central Córdoba (Zona A), en Predio
+ 15:00 Argentinos - Boca (Zona A), en CEFFA
+ 15:00 At. Tucumán - San Martín SJ (Zona B), en San Jorge
+ Viernes 18 de julio
+ 17:30 Talleres - San Lorenzo (Zona B), en La Boutique
+ Domingo 3 de agosto
+ 15:00 Ferro - Vélez (Zona B), en Pontevedra
+Fecha 2
+Martes 22 de julio
+ 15:00 Lanús - Rosario Central (Zona B), en Auxiliar
+ 15:00 Godoy Cruz - Sarmiento (Zona B), en Coquimbito
+ 15:00 Tigre - Argentinos (Zona A), en Predio
+ 15:00 Platense - Vélez (Zona B), en Predio
+ 18:00 At. Tucumán - Ferro (Zona B), en José Fierro
+ Miércoles 23 de julio
+ 15:00 Newell’s - Banfield (Zona A), en Marcelo Bielsa
+ 15:00 Estudiantes - Huracán (Zona A), en City Bell
+ 15:00 Instituto - River (Zona B), en La Agustina
+ 15:00 Defensa y Justicia - Aldosivi (Zona A), en Campeones del Mundo
+ 18:00 Belgrano - Racing (Zona A), en Julio César Villagra
+ Jueves 24 de julio
+ 15:00 Colón - Central Córdoba (Zona A), en Predio
+ 15:00 San Martín SJ - Dep. Riestra (Zona B), en Predio
+ 15:00 San Lorenzo - Gimnasia (Zona B), en Auxiliar
+ 15:00 Barracas Central - Ind. Rivadavia (Zona A), en AEFIP
+ 18:00 Boca - Unión (Zona A), en Boca Ezeiza
+Fecha 3
+Martes 29 de julio
+ 15:00 Sarmiento - Lanús (Zona B), en CAR
+ 15:00 Ferro - Platense (Zona B), en Predio
+ 15:00 Banfield - Barracas Central (Zona A), en Predio
+ 15:00 Gimnasia - Independiente (Zona B), en Estancia Chica
+ 18:00 Talleres - Godoy Cruz (Zona B), en La Boutique
+ 18:00 River - San Lorenzo (Zona B), en River Camp
+ Miércoles 30 de julio
+ 15:00 Rosario Central - San Martín SJ (Zona B), en Arroyo Seco
+ 15:00 Huracán - Boca (Zona A), en La Quemita
+ 15:00 Racing - Estudiantes (Zona A), en Tita Mattiussi
+ 15:00 Unión - Tigre (Zona A), en La Tatenguita
+ 15:00 Vélez - Instituto (Zona B), en Villa Olímpica
+ Jueves 31 de julio
+ 15:00 Ind. Rivadavia - Belgrano (Zona A), en Ciudad Deportiva
+ 15:00 Dep. Riestra - At. Tucumán (Zona B), en La Candela
+ 15:00 Aldosivi - Newell’s (Zona A), en Predio
+ 15:00 Argentinos - Colón (Zona A), en CEFFA
+ 18:00 Central Córdoba - Defensa y Justicia (Zona A), en Alfredo Terrera
+Fecha 4
+Martes 5 de agosto
+ 15:00 Tigre - Huracán (Zona A), en Predio
+ 15:00 San Martín SJ - Sarmiento (Zona B), en Predio
+ 15:00 Instituto - Platense (Zona B), en La Agustina
+ 15:00 Estudiantes - Ind. Rivadavia (Zona A), en Ciudad Deportiva
+ 18:00 Boca - Racing (Zona A), en Boca Ezeiza
+ Miércoles 6 de agosto
+ 15:00 Newell’s - Central Córdoba (Zona A), en Marcelo Bielsa
+ 15:00 Godoy Cruz - Gimnasia (Zona B), en Coquimbito
+ 15:00 Colón - Defensa y Justicia (Zona A), en Predio
+ 15:00 Belgrano - Banfield (Zona A), en Predio
+ 18:00 Independiente - River (Zona B), en Libertadores de América
+ Jueves 7 de agosto
+ 15:00 Barracas Central - Aldosivi (Zona A), en AEFIP
+ 15:00 Argentinos - Unión (Zona A), en CEFFA
+ 15:00 Lanús - Talleres (Zona B), en Auxiliar
+ 15:00 San Lorenzo - Vélez (Zona B), en Auxiliar
+ 15:00 Dep. Riestra - Ferro (Zona B), en Guillermo Laza
+ 18:00 At. Tucumán - Rosario Central (Zona B), en José Fierro
 Supercopa Internacional 2024
 Martes 8 de julio 
  Estudiantes de L.P. vs Vélez Sarsfield, a las 20.30 horas en Independiente (TV)
