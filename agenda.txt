@@ -408,6 +408,32 @@ Fecha 21
 Zona “A”
 Partido postergado
 Quilmes A.C. - Alvarado (M.D.P.).
+Fecha 22
+Zona “A”
+Viernes 11 de julio
+ G. y Tiro (Salta) - Patronato (Paraná), a las 22.00 horas
+Sábado 12 de julio
+ All Boys - Quilmes A.C, a las 13.00 horas (TV)
+Tristán Suarez - Güemes (S.E.), a las 15.00 horas
+ Colegiales - Atlanta, a las 15.05 horas(TV)
+ San Martin (T.) - Los Andes, a las 19.00 horas 
+Domingo 13 de julio
+ Dep. Madryn - Almagro, a las 14.00 horas
+Dep. Maipú (Mza.) - Ferro Carril Oeste, a las 15.00 horas
+ Alvarado (M.D.P.) - San Miguel, a las 15.00 horas en estadio José M. Minella
+ Arsenal F.C. - Racing (Cba.), a las 15.00 horas
+Zona “B”
+Sábado 12 de julio
+ Talleres (R.E.) - San Telmo, a las 15.00 horas
+ Dep. Morón - Agropecuario Arg., a las 15.15 horas (TV)
+ Def. Unidos - G. y Esgrima (Mza.), a las 15.30 horas 
+ Temperley - Ctral. Norte (Salta), a las 15.30 horas
+ Estudiantes - G. y Esgrima (J.), a las 17.10 horas (TV)
+ Def. de Belgrano - Nva. Chicago, a las 19.10 horas(TV)
+Domingo 13 de julio
+ Colón - Alte. Brown, a las 13.40 horas (TV)
+ Mitre (S.E.) - Chaco ForEver, a las 15.30 horas
+ Estudiantes (Rio IV) - Chacarita Juniors, a las 15.45 horas (TV)
 Primera B
 Fecha 3
 Martes 8 de julio
@@ -464,6 +490,20 @@ Miércoles 9 de julio
  Asistente 1: Rodrigo Arin
  Asistente 2: Lucas Vázquez
  Cuarto árbitro: G. Creimermann
+Fecha 4
+Sábado 12 de julio
+ Dep. Laferrere - Dep. Merlo, a las 13.10 horas (TV)
+Domingo 13 de julio
+ Brown (Adrogué) - F.C. Midland, a las 15.00 horas
+ Arg. de Merlo - Sp. Italiano, a las 15.30 horas
+ Acassuso -Excursionistas, a las 15.30 horas
+ Arg. de Quilmes - UAI - Urquiza, a las 15.30 horas
+ Liniers - Sacachispas F.C, a las 15.30 horas
+ Fénix -Sp. Dock Sud, a las 15.30 horas en Juv. Unida
+ Flandria - Villa San Carlos, a las 15.30 horas
+ Villa Dálmine - Real Pilar F.C, a las 15.30 horas
+Lunes 14 de julio
+ Comunicaciones - San Martin (B.), a las 21.10 horas (TV)
 Primera C
 Fecha 16
 Zona “A”
@@ -482,15 +522,29 @@ Atlas - Victoriano Arenas, a las 15.30 horas (en Lugano)
  Cuarto árbitro: Iván Mastroieni
 Libre
 : Defensores de Cambaceres
-ZONA A 
 Fecha 17
- Libre: Berazategui
- Lugano c. Ituzaingó
- Puerto Nuevo c. Deportivo Español
- Central Córdoba (Ros.) c. Claypole
- Mercedes c. Muñiz
- L.N. Alem c. J.J. de Urquiza
- Defensores de Cambaceres c. El Porvenir
+Zona “A”
+Sábado 12 de julio
+ Lugano - Ituzaingó, a las 15.30 horas
+ Puerto Nuevo - Dep. Español, a las 15.30 horas 
+ Mercedes -Muñiz, a las 15.30 horas
+Domingo 13 de julio
+ L.N. Alem -J.J. de Urquiza, a las 13.05 horas (TV)
+ Ctral. Córdoba (Ros.) -Claypole, a las 15.30 horas
+ Def. de Cambaceres - El Porvenir, a las 15.30 horas
+Zona “B”
+Viernes 11 de julio
+ Gral. Lamadrid - Camioneros, a las 15.30 horas
+Sábado 12 de julio
+ Juv. Unida -Dep. Paraguayo, a las 15.30 horas
+ Rec. Español - Yupanqui, a las 15.30 horas en Ituzaingó
+Domingo 13 de julio
+ Ctral. Ballester - Atlas, a las 15.30 horas
+ Victoriano Arenas - Cañuelas F.C, a las 15.30 horas
+Lunes 14 de julio
+ Estrella del Sur - Argentino (Ros.), a las 15.00 horasen Brown (Adrogué)
+ Sp. Barracas - Luján, a las 15.30 horas en Almagro
+ZONA A 
 Fecha 18
  Libre: El Porvenir
  J.J. de Urquiza c. Defensores de Cambaceres
@@ -564,14 +618,6 @@ Fecha 26
  Central Córdoba (Ros.) c. Defensores de Cambaceres
  Mercedes c. L.N. Alem
 ZONA B 
-Fecha 17
- J. Unida c. Dep. Paraguayo
- Rec. Español c. Yupanqui
- Gral. Lamadrid c. Camioneros
- Estrella del Sur c. Argentino (Ros.)
- Sp. Barracas c. Luján
- Ctral. Ballester c. Atlas
- V. Arenas c. Cañuelas F.C.
 Fecha 18
  Dep. Paraguayo c. V. Arenas
  Cañuelas F.C. c. Ctral. Ballester
