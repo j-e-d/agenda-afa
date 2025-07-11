@@ -978,12 +978,12 @@ CIRCULO DEPORTIVO - DEP RINCON, a las 15:30
  Asistente 1: Juan Ignacio Flores Roig
  Asistente 2: Federico Hernán Ojeda
  Cuarto árbitro: Leandro Federico Hartfield
-OLIMPO - CIPOLLETTI, a las 15:30
+OLIMPO - CIPOLLETTI, a las 15:00
  Árbitro: José Darío Sandoval
  Asistente 1: Danilo Ariel Viola
  Asistente 2: Rodrigo Lezcano Garcilano
  Cuarto árbitro: Rodrigo Moreno
-SANTAMARINA - GUILLERMO BROWN, a las 16:00
+SANTAMARINA - GUILLERMO BROWN, a las 15:15
  Árbitro: Fernando Jesús Rekers
  Asistente 1: Maximiliano Moya
  Asistente 2: Robertino Rosas
@@ -1106,14 +1106,10 @@ Miércoles 16 de julio
  Árbitro: Ozan David Emanuel
  Asistente 1: Perez Esteban
  Asistente 2: Fernandez Vega Ricardo Rodolfo
-16:00 Selección Tupungato - Selección Mendoza
+15:30 Selección Tupungato - Selección Mendoza
  Árbitro: Aguilera Sergio Javier
  Asistente 1: Villafaña Benjamin Jesus
  Asistente 2: Arenas Lucas
-16:00 Selección Oberá - Selección Posadas
- Árbitro: Franco Juan Carlos
- Asistente 1: Rivero Pablo Julian
- Asistente 2: Chavez Diego
 16:00 Selección Albardón - Selección Caucete
  Árbitro: Coria Cervera Pedro
  Asistente 1: Pereira Fernando José
@@ -1138,18 +1134,22 @@ Miércoles 16 de julio
  Árbitro: Diaz Carlos Adrian
  Asistente 1: Aguero Walter Daniel
  Asistente 2: Astrada Damian Antonio
-16:00 Selección Oncativo - Selección Río Tercero
- Árbitro: Lipari Fabrizio
- Asistente 1: Ariza Alexis Gaston
- Asistente 2: Alfonso Alejo Valentin
 18:00 Selección Escobar - Selección San Vicente
  Árbitro: Pastor Ignacio Victor
  Asistente 1: Olivo Maximiliano
  Asistente 2: Calfunao Fernando Martin
+20:00 Selección Oberá - Selección Posadas
+ Árbitro: Franco Juan Carlos
+ Asistente 1: Rivero Pablo Julian
+ Asistente 2: Chavez Diego
 20:00 Selección Rafaela - Selección Santa Fe
  Árbitro: Rossi Agustin
  Asistente 1: Toloza Jorge Ariel
  Asistente 2: Schwartzmann Fernando
+20:30 Selección Oncativo - Selección Río Tercero
+ Árbitro: Lipari Fabrizio
+ Asistente 1: Ariza Alexis Gaston
+ Asistente 2: Alfonso Alejo Valentin
 Miércoles 23 de julio
  16:00 Selección Mar del Tuyú - Selección Tandil
  Árbitro: Tormey Braian Ezequiel
@@ -1172,14 +1172,14 @@ Sábado 12 de julio
  Árbitro: Matías Fernández
  Asistente 1: María Elena Siciliano
  Asistente 2: Rocío Lira
+ 11.00 La Conty - San Martín del Bañado
+ Árbitro: Ramón Nicolás Enrique
+ Asistente 1: David Nicolás Cabrera
+ Asistente 2: Rubén Santiago Fuentes
 15.00 Atlético Libertad - J. Antoniana
  Árbitro: Carlos Rubén Herrera
  Asistente 1: Facundo R. Ávila
  Asistente 2: Diego Orlando Cuellar
-15.00 La Conty - San Martín del Bañado
- Árbitro: Ramón Nicolás Enrique
- Asistente 1: David Nicolás Cabrera
- Asistente 2: Rubén Santiago Fuentes
 15.00 Las Guerreras - SP Pedal
  Árbitro: Sabathiel Urias Del Castillo Leal
  Asistente 1: Eliana Quiroga
@@ -1189,7 +1189,7 @@ Sábado 12 de julio
  Asistente 1: Gimena Córdoba
  Asistente 2: Sofía Galeano
 15.00 Unnoba - Provincial P
- Árbitro: Darío Fernando López
+ Árbitro: Juan Pablo Muñoz
  Asistente 1: Lucas Tomás Ramos Mendoza
  Asistente 2: Augusto Devita
 15.00 Ciudad de Olavarría - Juventud Unida
