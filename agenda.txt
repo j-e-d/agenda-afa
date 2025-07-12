@@ -2,13 +2,6 @@
 Torneo Clausura 2025
 Fecha 1
  Sábado 12 de julio
- 16.00 Rosario Central – Godoy Cruz
- Árbitro: Pablo Dóvalo
- Asistente 1: Adrián Delbarba
- Asistente 2: Uriel García Leri
- Cuarto árbitro: César Ceballo
- VAR: Gastón Monson Brizuela
- AVAR: Gastón Suárez
  18.30 Huracán – Belgrano
  Árbitro: Sebastián Zunino
  Asistente 1: Hugo Páez
@@ -474,21 +467,6 @@ Quilmes A.C. - Alvarado (M.D.P.).
 Fecha 22
 Zona “A”
 Sábado 12 de julio
- All Boys - Quilmes A.C, a las 13.00 horas (TV)
- Árbitro: Felipe Viola
- Asistente 1: Mario Bardina
- Asistente 2: Matías Noli
- Cuarto árbitro: Gabriel Gutiérrez
-Tristán Suárez - Güemes (S.E.), a las 15.00 horas
- Árbitro: Franco Acita
- Asistente 1: Mariano Rúas
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Julio Barraza
- Colegiales - Atlanta, a las 15.05 horas (TV)
- Árbitro: Pablo Giménez
- Asistente 1: Mauro Ramos Errasti
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Agustín Panizza
  San Martin (T.) - Los Andes, a las 19.00 horas 
  Árbitro: Maximiliano Macheroni
  Asistente 1: Manuel Sánchez
@@ -517,31 +495,6 @@ Dep. Maipú (Mza.) - Ferro Carril Oeste, a las 15.00 horas
  Cuarto árbitro: Lucas Comesaña
 Zona “B”
 Sábado 12 de julio
- Talleres (R.E.) - San Telmo, a las 15.00 horas
- Árbitro: Juan Cruz Robledo
- Asistente 1: Mariano Rosetti
- Asistente 2: Diego Romero
- Cuarto árbitro: Kevin Alegre
- Dep. Morón - Agropecuario Arg., a las 15.15 horas (TV)
- Árbitro: Juan Pablo Loustau
- Asistente 1: Juan Manuel Vázquez
- Asistente 2: Damián Olivetto
- Cuarto árbitro: Ariel Cruz
- Def. Unidos - G. y Esgrima (Mza.), a las 15.30 horas 
- Árbitro: Lucas Cavallero
- Asistente 1: Marcelo Errante
- Asistente 2: Damián Alcaraz
- Cuarto árbitro: Nicolás Kresta
- Temperley - Ctral. Norte (Salta), a las 15.30 horas
- Árbitro: Nicolás Mastroieni
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Jorge Broggi
- Estudiantes - G. y Esgrima (J.), a las 17.10 horas (TV)
- Árbitro: Gonzalo Pereira
- Asistente 1: Juan Manuel González
- Asistente 2: Federico Pomi
- Cuarto árbitro: Martín Despósito
  Def. de Belgrano - Nva. Chicago, a las 19.10 horas (TV)
  Árbitro: Bruno Amiconi
  Asistente 1: Andrés Barbieri
@@ -568,12 +521,6 @@ Fecha 4
 PRIMERA B
 Fecha 4
 Libre: Deportivo Armenio
-Sábado 12 de julio
- Dep. Laferrere - Dep. Merlo, a las 13.10 horas (TV)
- Árbitro: Sebastián Bresba
- Asistente 1: Yamil Galván
- Asistente 2: Jonathan Florentín
- Cuarto árbitro: Tomás Aybar
  Domingo 13 de julio
  Brown (Adrogué) - F.C. Midland, a las 15.00 horas
  Árbitro: Gastón Iglesias
@@ -624,22 +571,6 @@ Arg. de Quilmes - UAI - Urquiza, a las 15.30 horas
 Primera C
 Fecha 17
 Zona “A”
-Sábado 12 de julio
- Lugano - Ituzaingó, a las 15.30 horas
- Árbitro: Agustín Flores
- Asistente 1: Felipe Onufrik
- Asistente 2: Cristian Rodríguez
- Cuarto árbitro: Fabrizio De La Cruz
-Puerto Nuevo - Dep. Español, a las 15.30 horas
- Árbitro: Alejandro Porticella
- Asistente 1: Federico Machuca
- Asistente 2: Luciano Cabral
- Cuarto árbitro: Gabriela Coronel
-Mercedes -Muñiz, a las 15.30 horas
- Árbitro: Gonzalo Correa
- Asistente 1: Juan Etchepare
- Asistente 2: Tomás Otero
- Cuarto árbitro: Leandro Fedele
 Domingo 13 de julio
  L.N. Alem -J.J. de Urquiza, a las 13.05 horas (TV)
  Árbitro: Iñaki Iparraguirre
@@ -656,18 +587,7 @@ Def. de Cambaceres - El Porvenir, a las 15.30 horas
  Asistente 1: Alan Colman
  Asistente 2: Valentino Gaillard
  Cuarto árbitro: Valentín Persico
-Zona “B”
-Sábado 12 de julio
- Juv. Unida -Dep. Paraguayo, a las 15.30 horas
- Árbitro: Ignacio Cuicchi
- Asistente 1: Mario Vargas
- Asistente 2: Berenice Avaro
- Cuarto árbitro: Eduardo Coyto
-Rec. Español - Yupanqui, a las 15.30 horas en Ituzaingó
- Árbitro: Gabriel Flores
- Asistente 1: Facundo Maldonado
- Asistente 2: Mauro Soria
- Cuarto árbitro: Facundo Fuentes
+Zona “B
 Domingo 13 de julio
  Ctral. Ballester - Atlas, a las 15.30 horas
  Árbitro: Iván Castelu Coca
