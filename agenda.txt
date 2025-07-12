@@ -1,21 +1,6 @@
 25/03/2019
 Torneo Clausura 2025
 Fecha 1
- Viernes 11 de julio
- 15.30 Aldosivi – Central Córdoba
- Árbitro: Nazareno Arasa
- Asistente 1: Juan Del Fueyo
- Asistente 2: Diego Martin
- Cuarto árbitro: Nelson Sosa
- VAR: Fabrizio Llobet
- AVAR: Javier Mihura
- 20.00 Talleres – San Lorenzo
- Árbitro: Andrés Gariano
- Asistente 1: Cristian Navarro
- Asistente 2: Federico Cano
- Cuarto árbitro: Franco Morón
- VAR: Ariel Penel
- AVAR: Javier Delbarba
  Sábado 12 de julio
  16.00 Rosario Central – Godoy Cruz
  Árbitro: Pablo Dóvalo
@@ -488,12 +473,6 @@ Partido postergado
 Quilmes A.C. - Alvarado (M.D.P.).
 Fecha 22
 Zona “A”
-Viernes 11 de julio
- G. y Tiro (Salta) - Patronato (Paraná), a las 22.00 horas
- Árbitro: Adrián Franklin
- Asistente 1: Hernán Vallejos
- Asistente 2: Mariano Viale
- Cuarto árbitro: Francisco Acosta
 Sábado 12 de julio
  All Boys - Quilmes A.C, a las 13.00 horas (TV)
  Árbitro: Felipe Viola
@@ -585,55 +564,6 @@ Domingo 13 de julio
  Asistente 2: Emiliano Bustos
  Cuarto árbitro: Luis Martínez
 Primera B
-Fecha 3
-Miércoles 9 de julio
- Real Pilar F.C. - Flandria, a las 15.05 horas en estadio Municipal de Pilar 
-(TV)
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Cecilio Calcagno
- Asistente 2: Matías Pino
- Cuarto árbitro: Fabrizio De La Cruz
- Villa San Carlos -Fénix, a las 15.30 horas
- Árbitro: Ignacio Cuicchi
- Asistente 1: Hugo Hartung
- Asistente 2: Daniela Sanda
- Cuarto árbitro: Facundo Carretero
- Sp. Dock Sud -Dep. Laferrere, a las 15.30 horas
- Árbitro: Marcos Recalde
- Asistente 1: Gonzalo Beloso
- Asistente 2: Hugo Carbo
- Cuarto árbitro: Elías Viglione
- Sacachispas F.C. - Comunicaciones, a las 15.30 horas
- Árbitro: Valentín Bocaccia
- Asistente 1: Juan Ricciardi
- Asistente 2: Lucas García
- Cuarto árbitro: Agustín Flores
- San Martin (B.) - Dep. Armenio, a las 15.30 horas
- Árbitro: Ariel Cruz
- Asistente 1: Maxi Benzoni
- Asistente 2: Santiago Scalerandi
- Cuarto árbitro: Rodrigo Maidana
- Sp. Italiano - Arg. de Quilmes, a las 15.30 horas
- Árbitro: Julián Beligoy
- Asistente 1: Pablo Pastor
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Iván Castelu Coca
- UAI – Urquiza - Villa Dálmine, a las 15.30 horas
- Árbitro: Nicolás Mastroieni
- Asistente 1: Martín Giampaolo
- Asistente 2: D. Rodríguez Lazarte
- Cuarto árbitro: Sebastián Habib
- Excursionistas - Brown (Adrogué), a las 17.00 horas
- Árbitro: Wenceslao Meneses
- Asistente 1: Matías Basso
- Asistente 2: Lucas Isla
- Cuarto árbitro: Rodrigo Villalba
- F.C. Midland - Arg. de Merlo, a las 20.05 horas 
-(TV)
- Árbitro: Martín Despósito
- Asistente 1: Rodrigo Arin
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: G. Creimermann
 Fecha 4
 PRIMERA B
 Fecha 4
@@ -727,12 +657,6 @@ Def. de Cambaceres - El Porvenir, a las 15.30 horas
  Asistente 2: Valentino Gaillard
  Cuarto árbitro: Valentín Persico
 Zona “B”
-Viernes 11 de julio
- Gral. Lamadrid - Camioneros, a las 15.30 horas
- Árbitro: David Cornejo
- Asistente 1: Diego Fernández
- Asistente 2: Matías Panozzo
- Cuarto árbitro: Antonella Álvarez
 Sábado 12 de julio
  Juv. Unida -Dep. Paraguayo, a las 15.30 horas
  Árbitro: Ignacio Cuicchi
@@ -961,12 +885,6 @@ ZONA "1" - PRIMERA FASE
  OLIMPO
  CIPOLLETTI
 18va. fecha
-11 de julio
-KIMBERLEY MDQ - VILLA MITRE, a las 15:00
- Árbitro: Alejandro Scionti
- Asistente 1: Valentín Pompei
- Asistente 2: Nicolás Darío Moreno
- Cuarto árbitro: Agustina Loos
 13 de julio
 GERMINAL - SOL DE MAYO, a las 15:00
  Árbitro: Jorge David Etem
@@ -1034,12 +952,6 @@ ZONA "3" - PRIMERA FASE
  DEF. BELGRANO VR
  G. ESGRIMA CU
 18va. fecha
- 11 de julio
-SP. BELGRANO - INDEPENDIENTE (CHI), a las 20:30
- Árbitro: Rodrigo Héctor Rivero
- Asistente 1: Luis Fernando Ortíz
- Asistente 2: Alex Zerda
- Cuarto árbitro: Williams Ricardo Abdala
 13 de julio
 BEN HUR R - NUEVE DE JULIO, a las 15:30
  Árbitro: Matías Ezequiel Billone Carpio
