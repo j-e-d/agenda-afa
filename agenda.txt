@@ -803,17 +803,6 @@ ZONA "2" - PRIMERA FASE
  ARGENTINO M. MAIZ
  SAN MARTÍN AC
 18va. fecha
-12 de julio
-CIUDAD DE BOLIVAR - ARGENTINO P, a las 15:00
- Árbitro: Marcelo Alejandro Sanz
- Asistente 1: Darío M. Rojas Martínez
- Asistente 2: Claudio Agustín Cabrelli
- Cuarto árbitro: José Luis Orellana
-ATENAS RC - J. U. UNIVERSITARIO, a las 16:30
- Árbitro: Marcos Ignacio Liuzzi
- Asistente 1: Martín Daniel Nardelli
- Asistente 2: Leonel Matías Suárez
- Cuarto árbitro: Santiago Schmoll
 13 de julio
 ESTUDIANTES S L - AT. C. SAN MARTIN, a las 15:00
  Árbitro: Mauricio Exequiel Martín
@@ -870,12 +859,6 @@ SARMIENTO LB
  BOCA UNIDOS
  JUVENTUD ANTONIANA
 18va. fecha
-12 de julio
-CRUCERO DEL NORTE - BOCA UNIDOS, a las 15:00
- Árbitro: Nelson Matías Bejas
- Asistente 1: Leila Romina Argañaraz
- Asistente 2: José Daniel Ponce
- Cuarto árbitro: Rodrigo Ballestero
  13 de julio
 SOL DE AMERICA - SARMIENTO SGO, a las 15:30
  Árbitro: Guillermo Adrian González
