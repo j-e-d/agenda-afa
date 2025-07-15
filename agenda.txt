@@ -433,9 +433,6 @@ Partido postergado
 Quilmes A.C. - Alvarado (M.D.P.).
 FECHA 23
 Zona “A”
-Viernes 18-07
-Los Andes - Atlanta, a las 18.45 horas 
-(TV)
 Sábado 19-07 
 San Miguel - All Boys, a las 15.30 horas
 Almagro - Alvarado (M.D.P.), a las 15.30 horas
@@ -443,6 +440,8 @@ Racing (Cba.) - Colegiales, a las 16.00 horas
 San Martin (T.) - Tristán Suarez, a las 16.40 horas 
 (TV)
 Quilmes A.C. - Arsenal F.C., a las 18.30 horas
+ Los Andes - Atlanta, a las 18.45 horas 
+(TV)
 Ferro Carril Oeste - Dep. Madryn, a las 19.00 horas 
 (TV)
 Domingo 20-07
@@ -506,8 +505,7 @@ Luján - Estrella del Sur, a las 15.30 horas
 Argentino (Ros.) - Gral. Lamadrid, a las 15.30 horas
 Camioneros - Rec. Español, a las 15.30 horas
 Martes 22-07
-Atlas - Sp. Barracas, a las 15.30 horas en 
-estadio a confirmar.
+Atlas - Sp. Barracas, a las 15.30 horas en Lugano
 Fecha 19
  Libre: Lugano
  Puerto Nuevo c. Berazategui
