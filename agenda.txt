@@ -1,28 +1,6 @@
 25/03/2019
 Torneo Clausura 2025
 Fecha 2
-Sábado 19 de julio
- 18.45 Godoy Cruz – Sarmiento
- Árbitro: Bryan Ferreyra
- Asistente 1: Miguel Savorani
- Asistente 2: Marcos Horticolou
- Cuarto árbitro: Alejandro Scionti
- VAR: Pablo Echavarría
- AVAR: Iván Núñez
- 18.45 Platense – Vélez
- Árbitro: Hernán Mastrángelo
- Asistente 1: Diego Bonfá
- Asistente 2: Juan Pablo Millenaar
- Cuarto árbitro: Sebastián Bresba
- VAR: Nazareno Arasa
- AVAR: Juan Del Fueyo
- 21.00 Instituto – River, en estadio Mario A. Kempes
- Árbitro: Luis Lobo Medina
- Asistente 1: Facundo Rodríguez
- Asistente 2: Federico Cano
- Cuarto árbitro: Nahuel Viñas
- VAR: Héctor Paletta
- AVAR: Gerardo Lencina
 Domingo 20 de julio
  14.30 Barracas Central – Independiente Rivadavia
  Árbitro: Nicolás Ramírez
@@ -423,27 +401,6 @@ Partido postergado
 Quilmes A.C. - Alvarado (M.D.P.).
 FECHA 23
 Zona “A”
-Sábado 19 de julio
-San Martín (T.) - Tristán Suárez, a las 16.40 horas (TV)
- Árbitro: Fabrizio Llobet
- Asistente 1: Diego Martín
- Asistente 2: Mariano Viale
- Cuarto árbitro: Facundo Rojo Casal
-Quilmes A.C. - Arsenal F.C., a las 18.30 horas
- Árbitro: Juan Pablo Loustau 
- Asistente 1: Lucas Ripoli
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Rodrigo Villalba
-Los Andes - Atlanta, a las 18.45 horas (TV)
- Árbitro: Daniel Zamora
- Asistente 1: Juan Manuel González 
- Asistente 2: Federico Pomi
- Cuarto árbitro: Mariano Negrete
-Ferro Carril Oeste - Dep. Madryn, a las 19.00 horas (TV)
- Árbitro: Juan Pafundi
- Asistente 1: Maximiliano Castelli
- Asistente 2: Mariano Ruas
- Cuarto árbitro: Gastón Iglesias
 Domingo 20 de julio
 Patronato (Paraná) - Dep. Maipú, a las 15.30 horas
  Árbitro: Joaquín Gil
@@ -505,12 +462,6 @@ Agropecuario Arg. - Estudiantes, a las 14.00 horas
  Cuarto árbitro: Marcelo Sainz
 Primera B
 Fecha 5
-Sábado 19-07
- San Martin (B.) - Liniers, a las 19.00 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Diego Molina
- Asistente 2: Martín Cingolani
- Cuarto árbitro: Joaquín Rodríguez
 Domingo 20-07
  F.C. Midland - Acassuso, a las 17.00 horas 
 (TV)
@@ -1149,10 +1100,6 @@ Grupo B
  Venezuela
  Bolivia
 Fixture
- Sábado 19 de julio
- Venezuela-Bolivia: 18 horas (Grupo B, Estadio Gonzalo Pozo Ripalda)
- Colombia-Paraguay: 21 horas (Grupo B, Estadio Gonzalo Pozo Ripalda)
- Libre: Brasil
  Lunes 21 de julio
  Argentina-Perú: 18 horas (Grupo A, Estadio Banco Guayaquil)
  Chile-Ecuador: 21 horas (Grupo A, Estadio Banco Guayaquil)
