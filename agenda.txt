@@ -111,24 +111,27 @@ Fecha 3
  VAR: Adrian Franklin
  AVAR: Gabriel Chade
 Fecha 4 (10/08/2025)
- Zona A
- Newell’s – Central Córdoba
- Barracas Central – Aldosivi
- Belgrano – Banfield
- Estudiantes – Independiente Rivadavia
- Boca – Racing
- Tigre – Huracán
- Argentinos – Unión
- Zona B
- Atlético Tucumán – Rosario Central
- San Martín (SJ) – Sarmiento
- Lanús – Talleres
- Godoy Cruz – Gimnasia
- Independiente – River
- San Lorenzo – Vélez
- Instituto – Platense
- Interzonal
- Defensa y Justicia – Deportivo Riestra
+Jueves 7 de agosto
+ 17.00 Godoy Cruz – Gimnasia
+ 19.00 San Lorenzo – Vélez
+ 21.15 Estudiantes – Independiente Rivadavia
+ 21.15 Lanús – Talleres
+Viernes 8 de agosto
+ 19.00 Tigre – Huracán
+ 21.00 Newell’s – Central Córdoba
+Sábado 9 de agosto
+ 14.30 San Martín (SJ) – Sarmiento
+ 16.30 Boca – Racing
+ 18.30 Independiente – River
+ 20.45 Belgrano – Banfield
+ 20.45 Atlético Tucumán – Rosario Central
+El partido entre Atlético Tucumán y Rosario Central se jugará con la asistencia de público visitante. La LPF y la AFA agradecen a las fuerzas del orden que participarán del operativo de seguridad, especialmente a las de la provincia de Tucumán.
+Domingo 10 de agosto
+ 15.00 Barracas Central – Aldosivi
+ 17.00 Instituto – Platense
+ 19.00 Argentinos – Unión
+Lunes 11 de agosto
+ 19.00 Defensa y Justicia – Deportivo Riestra
 Fecha 5 (17/08/2025)
  Zona A
  Huracán – Argentinos
