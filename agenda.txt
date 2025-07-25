@@ -114,11 +114,11 @@ Fecha 4 (10/08/2025)
 Jueves 7 de agosto
  17.00 Godoy Cruz – Gimnasia
  19.00 San Lorenzo – Vélez
- 21.15 Estudiantes – Independiente Rivadavia
- 21.15 Lanús – Talleres
+ 21.00 Estudiantes – Independiente Rivadavia
 Viernes 8 de agosto
  19.00 Tigre – Huracán
  21.00 Newell’s – Central Córdoba
+ 21.15 Lanús – Talleres
 Sábado 9 de agosto
  14.30 San Martín (SJ) – Sarmiento
  16.30 Boca – Racing
@@ -365,103 +365,83 @@ Fecha 1
  Árbitro: Antonela Álvarez
  Árbitro asistente 1: Facundo Maldonado
  Árbitro asistente 2: Tomás Otero
-Fecha 2
-Martes 22 de julio
- 15:00 Lanús – Rosario Central (B) – Auxiliar
- Árbitro: Rodrigo Maidana
- Árbitro asistente 1: Facundo Maldonado
- Árbitro asistente 2: Daniel Villarreal
- Cuarto árbitro: Mauro Trinidad
- 15:00 Godoy Cruz – Sarmiento (B) – Coquimbito
- Árbitro: Gabriela Coronel
- Árbitro asistente 1: Tomás Otero
- Árbitro asistente 2: Sebastián Krojzl
- 15:00 Platense – Vélez (B) – Predio
- Árbitro: Manuel Prieto
- Árbitro asistente 1: Leandro Idio
- Árbitro asistente 2: Ludmila Capelli
- Cuarto árbitro: Valentín Ibañez Mesa
- 18:00 At. Tucumán – Ferro (B) – José Fierro
- Árbitro: Micaela Abelardo
- Árbitro asistente 1: Valentino Gaillard
- Árbitro asistente 2: Patricio Acuña
- Miércoles 23 de julio
- 15:00 Independiente – Talleres (B) – Villa Domínico
- Árbitro: Leandro Fedele
- Árbitro asistente 1: Felipe Arrechea
- Árbitro asistente 2: Nicolás Rovira
- Cuarto árbitro: Valentin Pérsico
- 15:00 Newell’s – Banfield (A) – Marcelo Bielsa
- Árbitro: Facundo Carretero
- Árbitro asistente 1: Mauro Soria
- Árbitro asistente 2: Matías Chena
- 15:00 Estudiantes – Huracán (A) – City Bell
- Árbitro: Elías Viglione
- Árbitro asistente 1: Gonzalo Cubillas
- Árbitro asistente 2: Daniela Sanda
- Cuarto árbitro: Nazareno Galeano
- 15:00 Instituto – River (B) – La Agustina
- Árbitro: Franco Porotelli
- Árbitro asistente 1: Alan Colman
- Árbitro asistente 2: Tomás Pérez
- 15:00 Defensa y Justicia – Aldosivi (A) – Campeones del Mundo
- Árbitro: Juan Ferreyra
- Árbitro asistente 1: Andrés Belen
- Árbitro asistente 2: Agustina Baleman
- Cuarto árbitro: Gabriel Oroño
- 18:00 Belgrano – Racing (A) – Julio César Villagra
- Árbitro: Sebastián Milessi
- Árbitro asistente 1: Lucas García
- Árbitro asistente 2: Marcos Pueyo
- Jueves 24 de julio
- 15:00 Tigre – Argentinos (A) – Predio
+Fecha 3
+ Martes 29 de julio
+ 15:00 Sarmiento – Lanús (B) – CAR
  Árbitro: Ulises López
- Árbitro asistente 1: Mario Vargas
- Árbitro asistente 2: Nicolás Ruiz Segovia
+ Árbitro asistente 1: Nicolás Ruiz Segovia
+ Árbitro asistente 2: Fabrizio Osorio
+ 15:00 Ferro – Platense (B) – Predio
+ Árbitro: Ignacio Dominguez
+ Árbitro asistente 1: Nahuel Valdeon
+ Árbitro asistente 2: Sofía Curto
  Cuarto árbitro: Pablo Gómez
- 15:00 Colón – Central Córdoba (A) – Estadio Brigadier López
- Árbitro: Matías Ansede
- Árbitro asistente 1: Santiago Escudero
- Árbitro asistente 2: Alexis Ramírez
- 15:00 San Martín SJ – Dep. Riestra (B) – Predio
- Árbitro: Nicolás Díaz
+ 15:00 Banfield – Barracas Central (A) – Predio
+ Árbitro: Micaela Abelardo
  Árbitro asistente 1: Luis Colli
- Árbitro asistente 2: Bruno Santillán
- 15:00 San Lorenzo – Gimnasia (B) – Auxiliar
+ Árbitro asistente 2: Patricio Acuña
+ Cuarto árbitro: Pablo Gómez
+ 15:00 Gimnasia – Independiente (B) – Estancia Chica
+ Árbitro: Gabriel Oroño
+ Árbitro asistente 1: Nicolas Cavagnaro
+ Árbitro asistente 2: Sergio Benítez
+ Cuarto árbitro: Valentín Ibañez Mesa
+ 18:00 Talleres – Godoy Cruz (B) – La Boutique
+ Árbitro: Rodrigo Maidana
+ Árbitro asistente 1: Lucas García
+ Árbitro asistente 2: Luis Taboada
+ 18:00 River – San Lorenzo (B) – River Camp
+ Árbitro: Sebastian Milessi
+ Árbitro asistente 1: Lucas Monsalvo
+ Árbitro asistente 2: Valentino Gaillard
+ Cuarto árbitro: Gabriela Coronel
+ Miércoles 30 de julio
+ 15:00 Rosario Central – San Martín SJ (B) – Arroyo Seco
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Rodolfo Rodríguez
+ Árbitro asistente 2: Rodrigo Díaz
+ 15:00 Huracán – Boca (A) – La Quemita
+ Árbitro: Franco Porotelli
+ Árbitro asistente 1: Christian Rodriguez
+ Árbitro asistente 2: Marcos Pueyo
+ Cuarto árbitro: Mauro Trinidad
+ 15:00 Racing – Estudiantes (A) – Tita Mattiussi
+ Árbitro: Agustín Panizza
+ Árbitro asistente 1: Facundo Mendiolar
+ Árbitro asistente 2: Alejo Milone
+ Cuarto árbitro: Camila Gette
+ 15:00 Unión – Tigre (A) – La Tatenguita
  Árbitro: Facundo Fuentes
  Árbitro asistente 1: Luciano Cabral
- Árbitro asistente 2: Berenice Avaro
- Cuarto árbitro: Axel Pogge
- 15:00 Barracas Central – Ind. Rivadavia (A) – AEFIP
- Árbitro: Ignacio Dominguez
- Árbitro asistente 1: Alexis Etchepare
- Árbitro asistente 2: Luis Taboada
+ Árbitro asistente 2: Enzo Nell
+ 15:00 Vélez – Instituto (B) – Villa Olímpica
+ Árbitro: Axel Pogge
+ Árbitro asistente 1: Matías Vargas
+ Árbitro asistente 2: Mara Díaz
  Cuarto árbitro: Leandro Díaz
- 15:00 Boca – Unión (A) – Boca Predio
- Árbitro: Eduardo Coyto
- Árbitro asistente 1: Diego Ortiz
- Árbitro asistente 2: Rodrigo Díaz
- Cuarto árbitro: Fabricio De La Cruz
-Fecha 3
-Martes 29 de julio
- 15:00 Sarmiento - Lanús (Zona B), en CAR
- 15:00 Ferro - Platense (Zona B), en Predio
- 15:00 Banfield - Barracas Central (Zona A), en Predio
- 15:00 Gimnasia - Independiente (Zona B), en Estancia Chica
- 18:00 Talleres - Godoy Cruz (Zona B), en La Boutique
- 18:00 River - San Lorenzo (Zona B), en River Camp
- Miércoles 30 de julio
- 15:00 Rosario Central - San Martín SJ (Zona B), en Arroyo Seco
- 15:00 Huracán - Boca (Zona A), en La Quemita
- 15:00 Racing - Estudiantes (Zona A), en Tita Mattiussi
- 15:00 Unión - Tigre (Zona A), en La Tatenguita
- 15:00 Vélez - Instituto (Zona B), en Villa Olímpica
- 15:00 Aldosivi - Newell’s (Zona A), en Predio
+ 15:00 Aldosivi – Newell’s (A) – Predio
+ Árbitro: Elías Viglione
+ Árbitro asistente 1: Alexis Escobar
+ Árbitro asistente 2: Ian Avalos
  Jueves 31 de julio
- 15:00 Ind. Rivadavia - Belgrano (Zona A), en Ciudad Deportiva
- 15:00 Dep. Riestra - At. Tucumán (Zona B), en La Candela
- 15:00 Argentinos - Colón (Zona A), en CEFFA
- 18:00 Central Córdoba - Defensa y Justicia (Zona A), en Alfredo Terrera
+ 15:00 Ind. Rivadavia – Belgrano (A) – Ciudad Deportiva
+ Árbitro: Facundo Carretero
+ Árbitro asistente 1: Federico Machuca
+ Árbitro asistente 2: Alexis Ramírez
+ 15:00 Dep. Riestra – At. Tucumán (B) – La Candela
+ Árbitro: Manuel Prieto
+ Árbitro asistente 1: Joaquin Fraga
+ Árbitro asistente 2: Sebastián Krojz
+ Cuarto árbitro: Nazareno Galeano
+ 15:00 Argentinos – Colón (A) – CEFFA
+ Árbitro: Valentín Pérsico
+ Árbitro asistente 1: Daniel Villarreal
+ Árbitro asistente 2: Bruno Santillan
+ Cuarto árbitro: Nicolás Díaz
+ 18:00 Central Córdoba – Defensa y Justicia (A) – Alfredo Terrera
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Roberto Rodriguez
+ Árbitro asistente 2: Sebastian Valdez
 Fecha 4
 Martes 5 de agosto
  15:00 Tigre - Huracán (Zona A), en Predio
@@ -1192,43 +1172,6 @@ Zona B
  BOCA UNIDOS vs. 9 DE JULIO / SPORTIVO 
  BEN HUR vs. G. ESGRIMA C. U. 
 Copa País
-Miércoles 23 de julio
-15.30 Selección San Pedro - Selección Escobar
- Árbitro: Dylan Joel Suárez
- Asistente 1: Diego Aguirre
- Asistente 2: Fabricio Estevano
-15.30 Selección Rodeo - Selección Caucete
- Árbitro: Cristian Caporale
- Asistente 1: Marcos Esteban Fernández
- Asistente 2: Agustín Sarmiento Posse
-16:00 Selección Mar del Tuyú - Selección Tandil
- Árbitro: Tormey Braian Ezequiel
- Asistente 1: Equisito Pablo Damián
- Asistente 2: Miguel Agustina
-16.00 Selección Albardón - Selección San Juan
- Árbitro: Luis Levis
- Asistente 1: Mauricio Vaporaki
- Asistente 2: Francisco Nahuel Suárez
-16.00 Selección Valle Viejo - Selección Catamarca
- Árbitro: Brian Manuel Morales
- Asistente 1: Emilio Celiz
- Asistente 2: Rodrigo Emmanuel Jiménez
-16.00 Selección Tinogasta - Selección Alijilán
- Árbitro: Juan Esteban Pereyra
- Asistente 1: Carlos Eduardo Jeréz
- Asistente 2: Damián Antonio Astrada
-16.30 Selección La Plata - Selección Chacabuco
- Árbitro: Enzo Damián Gutiérrez
- Asistente 1: Alejandro Tawel Barrientos
- Asistente 2: Mauro Agustín De Stefano
-20.30 Selección Río Tercero - Selección Río Cuarto
- Árbitro: Esteban Ceballo
- Asistente 1: Leandro Galarza
- Asistente 2: Lucas Darío Coltro
-20.30 Selección Huinca Renancó - Selección Oncativo
- Árbitro: Emanuel Ortíz
- Asistente 1: Jonathan Ismael Colombero
- Asistente 2: Pablo Arias
 Torneo Femenino de Primera División 2025
 ​​​​
 Torneo Femenino de Primera B
@@ -1261,22 +1204,30 @@ Jueves 21 de agosto
  21:30 River Plate (Argentina) - Libertad (Paraguay)
 CONMEBOL Sudamericana 2025
 Así quedaron conformados los cruces de octavos de final
- Alianza Lima / Gremio - Universidad Católica (Ecuador)
- Bolívar / Palestino - Cienciano (Perú)
- San Antonio / Once Caldas - Huracán (Argentina)
- Bahía / América de Cali - Fluminense (Brasil)
- Central Córdoba / Cerro Largo - Lanús (Argentina)
- Independiente del Valle / Vasco Da Gama - Mushuc Runa (Ecuador)
- Atlético Bucaramanga / Atlético Mineiro - Godoy Cruz (Argentina)
- Universidad de Chile / Guaraní - Independiente (Argentina)
-Partidos de VUELTA
-Miércoles 23 de julio
-19:00 Palestino (Chile) - Bolívar (Bolivia)
- 21:30 Grêmio (Brasil) - Alianza Lima (Perú)
- 21:30 Once Caldas (Colombia) - San Antonio (Bolivia)
-Jueves 24 de julio
-19:00 Guaraní (Paraguay) - Universitario de Chile (Chile)
- 21:30 Atlético Mineiro (Brasil) - Atlético Bucaramanga (Colombia)
+Partidos de ida
+Martes 12 de agosto
+ 19.00 Once Caldas vs. Huracán | martes 12 de agosto 
+ 19.30 Independiente del Valle vs. Mushuc Runa 
+ 21.30 América de Cali vs. Fluminense
+Miércoles 13 de agosto
+ 19.00 Bolívar vs. Cienciano
+ 21.30 Alianza Lima vs. Universidad Católica 
+ 21.30 Universidad de Chile vs. Independiente
+Jueves 14 de agosto
+ 19.00 Atlético Mineiro vs. Godoy Cruz
+ 21.30 Central Córdoba vs. Lanús 
+Partidos de vuelta
+ Martes 19 de agosto
+19.00 Huracán vs. Once Caldas 
+ 21.30 Mushuc Runa vs. Independiente del Valle
+21.30 Fluminense vs. América de Cali
+Miércoles 20 de agosto
+ 19.00 Cienciano vs. Bolívar
+ 21.30 U. Católica vs. Alianza Lima
+ 21.30 Independiente vs. Universidad de Chile
+Jueve 21 de agosto 
+ 19.00 Godoy Cruz vs. Atlético Mineiro 
+ 21.30 Lanús vs. Central Córdoba 
 Las fechas de la Copa Sudamericana 2025
 Fase de grupos: del 1/4 al 29/5
  Playoffs Octavos: del 15/7 al 24/7
@@ -1336,41 +1287,16 @@ Finalissima 2025
 La Selección Argentina, campeona de la Copa América 2024, y la Selección de España, campeona de la Eurocopa 2024, disputarán el próximo año la Finalissima en un partido único con fecha y sede a confirmar. 
 Selección Femenina
 Copa América Femenina 2025 
-La Copa América 2025 se disputará del 12 de julio al 2 de agosto en Ecuador. El certamen vuelve a tierras ecuatorianas tras 11 años. Anteriormente también se había disputado allí en 2010. En ambas ocasiones, Argentina ocupó el cuarto lugar. 
-Grupo A
- Ecuador
- Argentina
- Chile
- Uruguay
- Perú
-Grupo B
- Brasil
- Colombia
- Paraguay
- Venezuela
- Bolivia
-Fixture
- Lunes 21 de julio
- Argentina-Perú: 18 horas (Grupo A, Estadio Banco Guayaquil)
- Chile-Ecuador: 21 horas (Grupo A, Estadio Banco Guayaquil)
- Libre: Uruguay
- Martes 22 de julio
- Colombia-Bolivia: 18 horas (Grupo B, Estadio Gonzalo Pozo Ripalda)
- Paraguay-Brasil: 21 horas (Grupo B, Estadio Gonzalo Pozo Ripalda)
- Libre: Venezuela
- Jueves 24 de julio
- Ecuador-Argentina: 21 horas (Grupo A, Estadio Banco Guayaquil)
- Chile-Uruguay: 21 horas (Grupo A, Estadio Gonzalo Pozo Ripalda)
- Libre: Perú
+La Copa América 2025 se disputa hasta el 2 de agosto en Ecuador.
  Viernes 25 de julio
  Brasil-Colombia: 21 horas (Grupo B, Estadio Banco Guayaquil)
  Paraguay-Venezuela: 21 horas (Grupo B, Estadio Gonzalo Pozo Ripalda)
  Libre: Bolivia
  Lunes 28 de julio
- 3° Grupo A vs. 3° Grupo B: 18 horas (Estadio Banco Guayaquil)
- Semifinal: 1° Grupo A vs. 2° Grupo B: 21 horas (Estadio Rodrigo Paz Delgado)
+ Chile vs. 3° Grupo B: 18 horas (Estadio Banco Guayaquil)
+ Semifinal: Argentina vs. 2° Grupo B: 21 horas (Estadio Rodrigo Paz Delgado)
  Martes 29 de julio
- Semifinal: 1° Grupo B vs. 2° Grupo A: 21 horas (Estadio Rodrigo Paz Delgado)
+ Semifinal: 1° Grupo B vs. Uruguay: 21 horas (Estadio Rodrigo Paz Delgado)
  Viernes 1° de agosto
  Partido por el 3° puesto: 21 horas (Estadio Rodrigo Paz Delgado)
  Sábado 2 de agosto
@@ -1634,12 +1560,6 @@ Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 5; Concacaf: 4;
 COTIF 2025
 El plantel albiceleste estará integrado por juveniles de la categoría 2008, quienes en su mayoría participaron del último Sudamericano Sub 17 realizado en Colombia.
  Argentina integra el grupo B junto con Chile, ADH Brasil y Valencia. La otra zona estará compuesta por Mauritania, Arabia Saudita, Uruguay y Venezuela.
-Lunes 21 de julio
- 17.45 Argentina - Chile
-Miércoles 23 de julio
- 17.45 Argentina - Valencia
-Viernes 25 de julio
- 15.30 Argentina - ADH Brasil
 Sábado 26 de julio
  17.30 4t Grup. A - 4t. Grup B
 Domingo 27 de julio
