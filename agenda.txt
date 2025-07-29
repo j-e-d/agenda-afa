@@ -434,22 +434,6 @@ Fecha 26
  Central Córdoba (Ros.) c. Defensores de Cambaceres
  Mercedes c. L.N. Alem
 ZONA B 
-Fecha 18
- Dep. Paraguayo c. V. Arenas
- Cañuelas F.C. c. Ctral. Ballester
- Atlas c. Sp. Barracas
- Luján c. Estrella del Sur
- Argentino (Ros.) c. Gral. Lamadrid
- Camioneros c. Rec. Español
- Yupanqui c. J. Unida
-Fecha 19
- Yupanqui c. Dep. Paraguayo
- J. Unida c. Camioneros
- Rec. Español c. Argentino (Ros.)
- Gral. Lamadrid c. Luján
- Estrella del Sur c. Atlas
- Sp. Barracas c. Cañuelas F.C.
- Ctral. Ballester c. V. Arenas
 Fecha 20
  Dep. Paraguayo c. Ctral. Ballester
  V. Arenas c. Sp. Barracas
@@ -570,11 +554,6 @@ Jueves 31 de julio
  Atlético Tucumán 2-1 Boca -Juniors
 Torneo Federal A Edición 2025
 Segunda Fase
- Lunes 28 de julio
-20:30 El Linqueño (Lincoln) - Gimnasia y Esgrima CU (Concepción del Uruguay)
- Árbitro: Luis Damián Martínez
- Asistente 1: Rodrigo Ariel Jara
- Asistente 2: Fernando S. Muñoz
 Zona A
 3ra. Fecha - 03/08/25 
  CIPOLLETTI vs. KIMBERLEY 
