@@ -940,8 +940,92 @@ Zona B
  BOCA UNIDOS vs. 9 DE JULIO / SPORTIVO 
  BEN HUR vs. G. ESGRIMA C. U. 
 Copa País
-Torneo Femenino de Primera División 2025
-​​​​
+Segundo Torneo de Primera División A 2025 - Fútbol Femenino
+ Zona A 
+ Fecha 1 
+ Libre - San Luis
+ Newell's - Belgrano (Cba.)
+ Platense - Ferro Carril Oeste
+ Independiente - S.A.T.
+ Huracán - Boca Jrs.
+ Fecha 2 
+ Huracán - Libre
+ Boca Jrs. - Independiente
+ S.A.T. - Platense
+ Ferro Carril Oeste - Newell's
+ Belgrano (Cba.) - San Luis
+ Fecha 3 
+ Libre - Belgrano (Cba.)
+ San Luis - Ferro Carril Oeste
+ Newell's - S.A.T.
+ Platense - Boca Jrs.
+ Independiente - Huracán
+Fecha 4 
+ Independiente - Libre
+ Huracán - Platense
+ Boca Jrs. - Newell's
+ S.A.T. - San Luis
+ Ferro Carril Oeste - Belgrano (Cba.)
+ Fecha 5 
+ Libre - Ferro Carril Oeste
+ Belgrano (Cba.) - S.A.T.
+ San Luis - Boca Jrs.
+ Newell's - Huracán
+ Platense - Independiente
+ Fecha 6 
+ Platense - Libre
+ Independiente - Newell's
+ Huracán - San Luis
+ Boca Jrs. - Belgrano (Cba.)
+ S.A.T. - Ferro Carril Oeste
+ Fecha 7 
+ Libre - S.A.T.
+ Ferro Carril Oeste - Boca Jrs.
+ Belgrano (Cba.) - Huracán
+ San Luis - Independiente
+ Newell's - Platense
+ Fecha 8 
+ Newell's - Libre
+ Platense - San Luis
+ Independiente - Belgrano (Cba.)
+ Huracán - Ferro Carril Oeste
+ Boca Jrs. - S.A.T.
+Zona B 
+ Fecha 1 
+ Talleres (Cba.) - Vélez Sarsfield
+ Rosario Ctral. - G. Y Esgrima L.P.
+ Banfield - River Plate
+ Racing Club - San Lorenzo De A.
+ Fecha 2 
+ Racing Club - Talleres (Cba.)
+ San Lorenzo De A. - Banfield
+ River Plate - Rosario Ctral.
+ G. Y Esgrima L.P. - Vélez Sarsfield
+ Fecha 3 
+ Talleres (Cba.) - G. Y Esgrima L.P.
+ Vélez Sarsfield - River Plate
+ Rosario Ctral. - San Lorenzo De A.
+ Banfield - Racing Club
+ Fecha 4 
+ Banfield - Talleres (Cba.)
+ Racing Club - Rosario Ctral.
+ San Lorenzo De A. - Vélez Sarsfield
+ River Plate - G. Y Esgrima L.P.
+ Fecha 5 
+ Talleres (Cba.) - River Plate
+ G. Y Esgrima L.P. - San Lorenzo De A.
+ Vélez Sarsfield - Racing Club
+ Rosario Ctral. - Banfield
+ Fecha 6 
+ Rosario Ctral. - Talleres (Cba.)
+ Banfield - Vélez Sarsfield
+ Racing Club - G. Y Esgrima L.P.
+ San Lorenzo De A. - River Plate
+ Fecha 7 
+ Talleres (Cba.) - San Lorenzo De A.
+ River Plate - Racing Club
+ G. Y Esgrima L.P. - Banfield
+ Vélez Sarsfield - Rosario Ctral.
 Torneo Femenino de Primera B
 Copa Federal Femenina
 CONMEBOL Libertadores 2025
