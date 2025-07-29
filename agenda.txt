@@ -337,7 +337,7 @@ Martes 5 de agosto
  15:00 Tigre - Huracán (Zona A), en Predio
  15:00 San Martín SJ - Sarmiento (Zona B), en Predio
  15:00 Instituto - Platense (Zona B), en La Agustina
- 15:00 Estudiantes - Ind. Rivadavia (Zona A), en Ciudad Deportiva
+ 15:00 Estudiantes - Ind. Rivadavia (Zona A), en City Bell
  18:00 Boca - Racing (Zona A), en Boca Ezeiza
  Miércoles 6 de agosto
  15:00 Newell’s - Central Córdoba (Zona A), en Marcelo Bielsa
@@ -349,9 +349,10 @@ Martes 5 de agosto
  15:00 Barracas Central - Aldosivi (Zona A), en AEFIP
  15:00 Argentinos - Unión (Zona A), en CEFFA
  15:00 Lanús - Talleres (Zona B), en Auxiliar
- 15:00 San Lorenzo - Vélez (Zona B), en Auxiliar
  15:00 Dep. Riestra - Ferro (Zona B), en Guillermo Laza
  18:00 At. Tucumán - Rosario Central (Zona B), en José Fierro
+Viernes 8 de agosto 
+ 15:00 San Lorenzo - Vélez (Zona B), en Auxiliar
 Supercopa Argentina 2024
 Sábado 6 de septiembre
 Vélez - Central Córdoba (S.E.), en horario y estadio a designar (TV)
