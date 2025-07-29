@@ -990,6 +990,12 @@ Fecha 4
  Independiente - Belgrano (Cba.)
  Huracán - Ferro Carril Oeste
  Boca Jrs. - S.A.T.
+Fecha 9 
+Libre - Boca Jrs.
+S.A.T. - Huracán
+Ferro Carril Oeste - Independiente
+Belgrano (Cba.) - Platense
+San Luis - Newell's
 Zona B 
  Fecha 1 
  Talleres (Cba.) - Vélez Sarsfield
