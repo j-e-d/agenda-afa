@@ -255,83 +255,6 @@ Fecha 1
  Árbitro: Antonela Álvarez
  Árbitro asistente 1: Facundo Maldonado
  Árbitro asistente 2: Tomás Otero
-Fecha 3
- Martes 29 de julio
- 15:00 Sarmiento – Lanús (B) – CAR
- Árbitro: Ulises López
- Árbitro asistente 1: Nicolás Ruiz Segovia
- Árbitro asistente 2: Fabrizio Osorio
- 15:00 Ferro – Platense (B) – Predio
- Árbitro: Ignacio Dominguez
- Árbitro asistente 1: Nahuel Valdeon
- Árbitro asistente 2: Sofía Curto
- Cuarto árbitro: Pablo Gómez
- 15:00 Banfield – Barracas Central (A) – Predio
- Árbitro: Micaela Abelardo
- Árbitro asistente 1: Luis Colli
- Árbitro asistente 2: Patricio Acuña
- Cuarto árbitro: Pablo Gómez
- 15:00 Gimnasia – Independiente (B) – Estancia Chica
- Árbitro: Gabriela Coronel
- Árbitro asistente 1: Nicolas Cavagnaro
- Árbitro asistente 2: Sergio Benítez
- Cuarto árbitro: Valentín Ibañez Mesa
- 18:00 Talleres – Godoy Cruz (B) – La Boutique
- Árbitro: Rodrigo Maidana
- Árbitro asistente 1: Lucas García
- Árbitro asistente 2: Luis Taboada
- 18:00 River – San Lorenzo (B) – River Camp
- Árbitro: Sebastian Milessi
- Árbitro asistente 1: Lucas Monsalvo
- Árbitro asistente 2: Valentino Gaillard
- Cuarto árbitro: Nazareno Galeano
- Miércoles 30 de julio
- 15:00 Rosario Central – San Martín SJ (B) – Arroyo Seco
- Árbitro: Fabricio De La Cruz
- Árbitro asistente 1: Rodolfo Rodríguez
- Árbitro asistente 2: Rodrigo Díaz
- 15:00 Huracán – Boca (A) – Tomas A. Ducó
- Árbitro: Franco Porotelli
- Árbitro asistente 1: Christian Rodriguez
- Árbitro asistente 2: Marcos Pueyo
- Cuarto árbitro: Mauro Trinidad
- 15:00 Racing – Estudiantes (A) – Tita Mattiussi
- Árbitro: Agustín Panizza
- Árbitro asistente 1: Facundo Mendiolar
- Árbitro asistente 2: Alejo Milone
- Cuarto árbitro: Camila Gette
- 15:00 Unión – Tigre (A) – La Tatenguita
- Árbitro: Facundo Fuentes
- Árbitro asistente 1: Luciano Cabral
- Árbitro asistente 2: Enzo Nell
- 15:00 Vélez – Instituto (B) – Villa Olímpica
- Árbitro: Axel Pogge
- Árbitro asistente 1: Matías Vargas
- Árbitro asistente 2: Mara Díaz
- Cuarto árbitro: Leandro Díaz
- 15:00 Aldosivi – Newell’s (A) – Predio
- Árbitro: Elías Viglione
- Árbitro asistente 1: Alexis Escobar
- Árbitro asistente 2: Ian Avalos
- Jueves 31 de julio
- 15:00 Ind. Rivadavia – Belgrano (A) – Ciudad Deportiva
- Árbitro: Facundo Carretero
- Árbitro asistente 1: Federico Machuca
- Árbitro asistente 2: Alexis Ramírez
- 15:00 Dep. Riestra – At. Tucumán (B) – La Candela
- Árbitro: Manuel Prieto
- Árbitro asistente 1: Joaquin Fraga
- Árbitro asistente 2: Sebastián Krojz
- Cuarto árbitro: Nazareno Galeano
- 15:00 Argentinos – Colón (A) – CEFFA
- Árbitro: Valentín Pérsico
- Árbitro asistente 1: Daniel Villarreal
- Árbitro asistente 2: Bruno Santillan
- Cuarto árbitro: Nicolás Díaz
- 18:00 Central Córdoba – Defensa y Justicia (A) – Alfredo Terrera
- Árbitro: Eduardo Coyto
- Árbitro asistente 1: Roberto Rodriguez
- Árbitro asistente 2: Sebastian Valdez
 Fecha 4
 Martes 5 de agosto
  15:00 Tigre - Huracán (Zona A), en Predio
@@ -351,9 +274,110 @@ Jueves 7 de agosto
  15:00 Barracas Central - Aldosivi (Zona A), en AEFIP
  15:00 Argentinos - Unión (Zona A), en CEFFA
  15:00 Lanús - Talleres (Zona B), en Auxiliar
- 15:00 Dep. Riestra - Ferro (Zona B), en Guillermo Laza
+ 15:00 Dep. Riestra - Ferro (Zona B), en La Candela
 Viernes 8 de agosto 
  15:00 San Lorenzo - Vélez (Zona B), en Auxiliar
+ Fecha 5
+Martes 12 de agosto
+ 15.00 Banfield - Estudiantes, en La Candela
+ 15.00 Unión - Colón, en Estadio 15 de Abril
+ 15.00 Ferro - Instituto, en Pontevedra
+ 15.00 Aldosivi - Belgrano, en Predio
+ 18.00 Independiente Rivadavia - Boca, en Bautista Gargantini
+Miércoles 13 de agosto
+ 15.00 Defensa y Justicia - Newell’s, en Campeones del Mundo
+ 15.00 Platense - San Lorenzo, en Predio
+ 15.00 Gimnasia - Lanús, en Estancia Chica
+ 15.00 Sarmiento - Atlético Tucumán, en CAR
+ 18.00 River - Godoy Cruz, en River Camp
+ 19.00 Central Córdoba - Barracas Central, en Alfredo Terrera
+ Jueves 14 de agosto
+ 15.00 Huracán - Argentinos, en La Quemita
+ 15.00 Racing - Tigre, en Tita Mattiussi
+ 15.00 Rosario Central - Dep. Riestra, en Arroyo Seco
+ 15.00 Vélez - Independiente, en Villa Olímpica
+ 19.00 Talleres - San Martín (SJ), en La Boutique
+Fecha 6
+Martes 19 de agosto
+ 15.00 Estudiantes - Aldosivi, en City Bell
+ 15.00 Belgrano - Central Córdoba, en Predio
+ 15.00 Independiente - Platense, en Villa Domínico
+ 15.00 Colón - Newell’s, en Predio
+ 19.00 Boca - Banfield, en Boca Ezeiza
+Miércoles 20 de agosto
+ 15.00 Unión - Huracán, en La Tatenguita
+ 15.00 Dep. Riestra - Sarmiento, en La Candela
+ 15.00 San Lorenzo - Instituto, en Auxiliar
+ 15.00 Rosario Central - Ferro, en Arroyo Seco
+ 15.00 Godoy Cruz - Vélez, en Coquimbito
+ 15.00 Lanús - River, en Auxiliar
+Jueves 21 de agosto
+ 15.00 Tigre - Independiente Rivadavia, en Nito San Andrés
+ 15.00 San Martín (SJ) - Gimnasia, en Predio
+ 15.00 Argentinos - Racing, en CEFFA
+ 15.00 Barracas Central - Defensa y Justicia, en AEFIP
+ 19.00 Atlético Tucumán - Talleres, en José Fierro
+Fecha 7
+Martes 26 de agosto
+ 15.00 Aldosivi - Boca, en Predio
+ 15.00 Instituto - Independiente, en La Agustina
+ 15.00 Defensa y Justicia - Belgrano, en Campeones del Mundo
+ 15.00 Newell’s - Barracas Central, en Marcelo Bielsa
+ 19.00 Talleres - Dep. Riestra, en La Boutique
+Miércoles 27 de agosto
+ 15.00 Sarmiento - Rosario Central, en CAR
+ 15.00 Huracán - Colón, en La Quemita
+ 15.00 Banfield - Tigre, en Predio
+ 19.00 River - San Martín (SJ), en River Camp
+ 19.00 Central Córdoba - Estudiantes, en Alfredo Terrera
+Jueves 28 de agosto
+ 15.00 Racing - Unión, en Tita Mattiussi
+ 15.00 Vélez - Lanús, en Villa Olímpica
+ 15.00 Ferro - San Lorenzo, en Pontevedra
+ 15.00 Platense - Godoy Cruz, en Predio
+ 15.00 Independiente Rivadavia - Argentinos, en Ciudad Deportiva
+ 15.00 Gimnasia - Atlético Tucumán, en Estancia Chica
+Fecha 8 (Interzonales)
+Miércoles 3 de septiembre
+ 15.00 Barracas Central - Sarmiento, en AEFIP
+ 15.00 Defensa y Justicia - Dep. Riestra, en Campeones del Mundo
+ 15.00 Colón - Ferro, en Predio
+ 15.00 Estudiantes - Gimnasia, en City Bell
+ 19.00 Atlético Tucumán - Central Córdoba, en José Fierro
+Viernes 5 de septiembre
+ 15.00 Instituto - Unión, en La Agustina
+ 15.00 Aldosivi - San Martín (SJ), en Predio
+ 15.00 Vélez - Tigre, en Villa Olímpica
+ 15.00 Rosario Central - Newell’s, en Arroyo Seco
+ 15.00 Independiente Rivadavia - Godoy Cruz, en Ciudad Deportiva
+ 20.00 Boca - River, en Boca Ezeiza
+Sábado 6 de septiembre
+ 19.00 Talleres - Belgrano, en La Boutique
+Domingo 7 de septiembre
+ 11.00 Banfield - Lanús, en Florencio Sola
+ 15.00 San Lorenzo - Huracán, en Pedro Bidegain
+ 15.00 Platense - Argentinos, en Ciudad de Vicente López
+ 17.00 Racing - Independiente, en Presidente Perón
+Fecha 9
+Martes 9 de septiembre
+ 15.00 Sarmiento - Ferro, en CAR
+ 15.00 Colón - Barracas Central, en Predio
+ 15.00 Tigre - Aldosivi, en Predio
+ 15.00 Estudiantes - Defensa y Justicia, en City Bell
+ 15.00 Dep. Riestra - Gimnasia, en La Candela
+Miércoles 10 de septiembre
+ 15.00 Belgrano - Newell’s, en Predio
+ 15.00 Rosario Central - Talleres, en Arroyo Seco
+ 15.00 San Martín (SJ) - Vélez, en Predio
+ 19.00 Boca - Central Córdoba, en Boca Ezeiza
+Jueves 11 de septiembre
+ 15.00 Independiente - San Lorenzo, en Villa Domínico
+ 15.00 Godoy Cruz - Instituto, en Coquimbito
+ 15.00 Lanús - Platense, en Auxiliar
+ 15.00 Argentinos - Banfield, en CEFFA
+ 15.00 Unión - Independiente Rivadavia, en La Tatenguita
+ 15.00 Huracán - Racing, en La Quemita
+ 19.00 Atlético Tucumán - River, en José Fierro
 Supercopa Argentina 2024
 Sábado 6 de septiembre
 Vélez - Central Córdoba (S.E.), en horario y estadio a designar (TV)
