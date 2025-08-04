@@ -22,44 +22,46 @@ Domingo 10 de agosto
  20.00 Argentinos – Unión
 Lunes 11 de agosto
  19.00 Defensa y Justicia – Deportivo Riestra
-Fecha 5 (17/08/2025)
- Zona A
- Huracán – Argentinos
- Racing – Tigre
- Independiente Rivadavia – Boca
- Banfield – Estudiantes
- Aldosivi – Belgrano
- Central Córdoba – Barracas Central
- Defensa y Justicia – Newell’s
- Zona B
- Platense – San Lorenzo
- Vélez – Independiente
- River – Godoy Cruz
- Gimnasia – Lanús
- Talleres – San Martín (SJ)
- Sarmiento – Atlético Tucumán
- Rosario Central – Deportivo Riestra
- Interzonal
- Instituto – Unión
-Fecha 6 (24/08/2025)
- Zona A
- Barracas Central – Defensa y Justicia
- Belgrano – Central Córdoba
- Estudiantes – Aldosivi
- Boca – Banfield
- Tigre – Independiente Rivadavia
- Argentinos – Racing
- Unión – Huracán
- Zona B
- Deportivo Riestra – Sarmiento
- Atlético Tucumán – Talleres
- San Martín (SJ) – Gimnasia
- Lanús – River
- Godoy Cruz – Vélez
- Independiente – Platense
- San Lorenzo – Instituto
- Interzonal
- Rosario Central – Newell’s
+Fecha 5
+ Viernes 15 de agosto
+ 15.30 Aldosivi – Belgrano (Zona A)
+ 19.00 Instituto – Unión (Interzonal)
+ 21.00 Racing – Tigre (Zona A)
+ Sábado 16 de agosto
+ 14.15 Platense – San Lorenzo (Zona B)
+ 16.15 Huracán – Argentinos Juniors (Zona A)
+ 18.30 Rosario Central – Deportivo Riestra (Zona B)
+ 20.30 Vélez – Independiente (Zona B)
+ Domingo 17 de agosto
+ 14.00 Gimnasia – Lanús (Zona B)
+ 14.00 Defensa y Justicia – Newell’s (Zona A)
+ 16.15 Central Córdoba – Barracas Central (Zona A)
+ 16.15 Banfield – Estudiantes (Zona A)
+ 18.30 River – Godoy Cruz (Zona B)
+ 20.30 Indepte. Rivadavia Mza – Boca (Zona A)
+ Lunes 18 de agosto
+ 19.00 Sarmiento – Atlético Tucumán (Zona B)
+ 21.00 Talleres – San Martín (SJ) (Zona B)
+Fecha 6
+ Viernes 22 de agosto
+ 15.30 Barracas Central – Defensa y Justicia (Zona A)
+ 20.00 Tigre – Indepte. Rivadavia Mza (Zona A)
+ Sábado 23 de agosto
+ 14.30 San Lorenzo – Instituto (Zona B)
+ 17.30 Rosario Central – Newell’s (Interzonal)
+ 20.00 San Martín (SJ) – Gimnasia (Zona B)
+ 20.00 Atlético Tucumán – Talleres (Zona B)
+ Domingo 24 de agosto
+ 14.15 Unión – Huracán (Zona A)
+ 16.00 Argentinos Juniors – Racing (Zona A)
+ 18.30 Boca – Banfield (Zona A)
+ 20.30 Independiente – Platense (Zona B)
+ Lunes 25 de agosto
+ 15.00 Deportivo Riestra – Sarmiento (Zona B)
+ 17.00 Godoy Cruz – Vélez (Zona B)
+ 19.00 Belgrano – Central Córdoba (Zona A)
+ 19.15 Estudiantes – Aldosivi (Zona A)
+ 21.15 Lanús – River (Zona B)
 Fecha 7 (31/08/2025)
  Zona A
  Racing – Unión
@@ -251,26 +253,84 @@ Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
 Fecha 4
 Martes 5 de agosto
- 15:00 Tigre - Huracán (Zona A), en Predio
- 15:00 San Martín SJ - Sarmiento (Zona B), en Predio
- 15:00 Instituto - Platense (Zona B), en La Agustina
- 15:00 Estudiantes - Ind. Rivadavia (Zona A), en City Bell
- 18:00 Boca - Racing (Zona A), en Boca Ezeiza
+ 15:00 Tigre – Huracán (A) – Predio
+ Árbitro: Valentín Pérsico
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Ian Avalos
+ Cuarto árbitro: Rodrigo Maidana
+ 15:00 San Martín SJ – Sarmiento (B) – Predio
+ Árbitro: Mauro Trinidad
+ Árbitro asistente 1: Nicolás Cavagnaro
+ Árbitro asistente 2: Nicolás Rovira
+ 15:00 Instituto – Platense (B) – La Agustina
+ Árbitro: Antonela Álvarez
+ Árbitro asistente 1: Mauro Soria
+ Árbitro asistente 2: Bruno Santillan
+ Cuarto árbitro: Fabricio De La Cruz
+ 15:00 Estudiantes – Ind. Rivadavia Mza. (A) – City Bell
+ Árbitro: Leandro Fedele
+ Árbitro asistente 1: Tomás Otero
+ Árbitro asistente 2: Sebastian Valdez
+ Cuarto árbitro: Lautaro Díaz
+ 18:00 Boca – Racing (A) – Boca Predio
+ Árbitro: Matías Ansede
+ Árbitro asistente 1: Facundo Maldonado
+ Árbitro asistente 2: Roberto Rodriguez
+ Cuarto árbitro: Elías Viglione
  Miércoles 6 de agosto
- 15:00 Newell’s - Central Córdoba (Zona A), en Marcelo Bielsa
- 15:00 Godoy Cruz - Gimnasia (Zona B), en Coquimbito
- 15:00 Colón - Defensa y Justicia (Zona A), en Predio
- 15:00 Belgrano - Banfield (Zona A), en Predio
- 15:00 Independiente - River (Zona B), en 
-Predio Villa Domínico
-18:00 At. Tucumán - Rosario Central (Zona B), en José Fierro
-Jueves 7 de agosto
- 15:00 Barracas Central - Aldosivi (Zona A), en AEFIP
- 15:00 Argentinos - Unión (Zona A), en CEFFA
- 15:00 Lanús - Talleres (Zona B), en Auxiliar
- 15:00 Dep. Riestra - Ferro (Zona B), en La Candela
-Viernes 8 de agosto 
- 15:00 San Lorenzo - Vélez (Zona B), en Auxiliar
+ 15:00 Newell’s – Central Córdoba (A) – Predio Jorge Griffa
+ Árbitro: Axel Pogge
+ Árbitro asistente 1: Mario Vargas
+ Árbitro asistente 2: Sebastián Krojzl
+ 15:00 Godoy Cruz – Gimnasia (B) – Coquimbito
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Rodrigo Mansilla
+ Árbitro asistente 2: Marcos Pueyo
+ 15:00 Colón – Defensa y Justicia (A) – Predio
+ Árbitro: Facundo Carretero
+ Árbitro asistente 1: Nahuel Martin
+ Árbitro asistente 2: Luis Taboada
+ 15:00 Belgrano – Banfield (A) – Predio
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Daniel Villarreal
+ Árbitro asistente 2: Tomás Perez
+ Cuarto árbitro: Antonela Álvarez
+ 15:00 Independiente – River (B) – Predio Villa Domínico
+ Árbitro: Ulises Lopez
+ Árbitro asistente 1: Matías Pino
+ Árbitro asistente 2: Fabrizio Osorio
+ Cuarto árbitro: Manuel Prieto
+ 18:00 At. Tucumán – Rosario Central (B) – José Fierro
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Ariel Ibañez
+ Árbitro asistente 2: Matías Chena
+ Jueves 7 de agosto
+ 15:00 Barracas Central – Aldosivi (A) – AEFIP
+ Árbitro: Gabriela Coronel
+ Árbitro asistente 1: Luciano Cabral
+ Árbitro asistente 2: Enzo Nell
+ Cuarto árbitro: Franco Porotelli
+ 15:00 Argentinos – Unión (A) – CEFFA
+ Árbitro: Sebastian Milessi
+ Árbitro asistente 1: Andrés Belen
+ Árbitro asistente 2: Agustina Baleman
+ Cuarto árbitro: Ignacio Dominguez
+ 15:00 Lanús – Talleres (B) – Auxiliar
+ Árbitro: Facundo Fuentes
+ Árbitro asistente 1: Luis Colli
+ Árbitro asistente 2: Valentino Gaillard
+ Cuarto árbitro: Camila Gette
+ 15:00 Dep. Riestra – Ferro (B) – La Candela
+ Árbitro: Ariadna Palacios
+ Árbitro asistente 1: Franco Chavez
+ Árbitro asistente 2: Alexis Ramírez
+ Cuarto árbitro: Valentin Ibañez Mesa
+ Viernes 8 de agosto
+ 15:00 San Lorenzo – Vélez (B) – Auxiliar
+ Árbitro: Agustin Panizza
+ Árbitro asistente 1: Federico Machuca
+ Árbitro asistente 2: Patricio Acuña
+ Cuarto árbitro: Eduardo Coyto
  Fecha 5
 Martes 12 de agosto
  15.00 Banfield - Estudiantes, en La Candela
