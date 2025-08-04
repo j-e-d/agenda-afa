@@ -249,12 +249,6 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
-Fecha 1
- Domingo 3 de agosto
- 15:00 Ferro – Vélez (B) – Pontevedra
- Árbitro: Antonela Álvarez
- Árbitro asistente 1: Facundo Maldonado
- Árbitro asistente 2: Tomás Otero
 Fecha 4
 Martes 5 de agosto
  15:00 Tigre - Huracán (Zona A), en Predio
@@ -541,12 +535,6 @@ Tigre 1 - San Lorenzo 0
 Torneo Federal A Edición 2025
 Segunda Fase
 Zona A
-3ra. Fecha - 03/08/25 
- CIPOLLETTI vs. KIMBERLEY 
- OLIMPO vs. DEP. RINCON 
- ATENAS vs. VILLA MITRE 
- CIUDAD BOLIVAR vs. COSTA BRAVA 
- LIBRE: ARGENTINO M.M. 
  4ta. Fecha - 10/08/25 
  COSTA BRAVA vs. ATENAS 
  VILLA MITRE vs. OLIMPO 
@@ -584,12 +572,6 @@ Zona A
  CIPOLLETTI vs. OLIMPO 
  LIBRE: VILLA MITRE
 Zona B
- 3ra. Fecha - 03/08/25 
- JUV. ANTONIANA vs. SARMIENTO 
- INDEPENDIENTE vs. G. ESGRIMA 
- DOUGLAS HAIG vs. SAN MARTIN F. 
- AT. RAFAELA vs. SP. BELGRANO 
- LIBRE: 9 DE JULIO / SPORTIVO 
  4ta. Fecha - 10/08/25 
  SP. BELGRANO vs. DOUGLAS HAIG 
  SAN MARTIN F. vs. INDEPENDIENTE 
@@ -628,18 +610,6 @@ Zona B
  LIBRE: SAN MARTIN F. 
 Reválida - Primera Etapa
 Zona A
- 2da. Fecha - 27/07/25 
- CIRCULO DEP. vs. SANTAMARINA 
- ESTUDIANTES vs. SAN MARTIN MZA. 
- GERMINAL vs. GMO. BROWN 
- SOL DE MAYO vs. HURACAN L. H. 
- GUTIERREZ vs. JUV. UNIDA U. 
- 3ra. Fecha - 03/08/25 
- SANTAMARINA vs. GUTIERREZ 
- JUV. UNIDA U. vs. SOL DE MAYO 
- HURACAN L. H. vs. GERMINAL 
- GMO. BROWN vs. ESTUDIANTES 
- SAN MARTIN MZA. vs. CIRCULO DEP.
  4ta. Fecha - 10/08/25 
  SAN MARTIN MZA. vs. SANTAMARINA 
  CIRCULO DEP. vs. GMO. BROWN 
@@ -677,18 +647,6 @@ Zona A
  GUTIERREZ vs. GMO. BROWN 
  JUV. UNIDA U. vs. HURACAN L. H. 
 Zona B
- 2da. Fecha - 27/07/25 
- MITRE vs. DEF. BELGRANO 
- CRUCERO DEL NORTE vs. SOL DE AMERICA 
- SARMIENTO RCIA. vs. 9 DE JULIO / SPORTIVO 
- EL LINQUEÑO vs. G. ESGRIMA C. U. 
- BOCA UNIDOS vs. BEN HUR 
- 3ra. Fecha - 03/08/25 
- DEF. BELGRANO vs. BOCA UNIDOS 
- BEN HUR vs. EL LINQUEÑO 
- G. ESGRIMA C. U. vs. SARMIENTO RCIA. 
- 9 DE JULIO / SPORTIVO vs. CRUCERO DEL NORTE 
- SOL DE AMERICA vs. MITRE 
  4ta. Fecha - 10/08/25 
  SOL DE AMERICA vs. DEF. BELGRANO 
  MITRE vs. 9 DE JULIO / SPORTIVO 
