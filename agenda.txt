@@ -2,26 +2,116 @@
 Torneo Clausura 2025
 Fecha 4 (10/08/2025)
 Jueves 7 de agosto
- 17.00 Godoy Cruz – Gimnasia
- 19.00 San Lorenzo – Vélez
- 21.00 Estudiantes – Independiente Rivadavia
+17.00 Godoy Cruz – Gimnasia
+ Árbitro: Pablo Echavarría
+ Asistente 1: Iván Núñez
+ Asistente 2: Julio Fernández
+ Cuarto árbitro: César Ceballo
+ VAR: Diego Ceballos
+ AVAR: Pablo Giménez
+19.00 San Lorenzo – Vélez
+ Árbitro: Facundo Tello
+ Asistente 1: Gabriel Chade
+ Asistente 2: Cristian Navarro
+ Cuarto árbitro: Nahuel Viñas
+ VAR: Juan Pafundi
+ AVAR: Laura Fortunato
+21.00 Estudiantes – Independiente Rivadavia
+ Árbitro: Sebastián Zunino
+ Asistente 1: Hugo Paez
+ Asistente 2: Gisella Trucco
+ Cuarto árbitro: Juan Pablo Loustau
+ VAR: Salomé Di Iorio
+ AVAR: Diego Verlota
 Viernes 8 de agosto
- 19.00 Tigre – Huracán
- 21.00 Newell’s – Central Córdoba
- 21.15 Lanús – Talleres
+19.00 Tigre – Huracán
+ Árbitro: Hernán Mastrangelo
+ Asistente 1: Maximiliano Del Yesso
+ Asistente 2: Juan Ricciardi
+ Cuarto árbitro: Pablo Giménez
+ VAR: Ariel Penel
+ AVAR: Carla López
+21.00 Newell’s – Central Córdoba
+ Árbitro: Andrés Merlos
+ Asistente 1: Marcelo Bistocco
+ Asistente 2: Ernesto Callegari
+ Cuarto árbitro: Franco Morón
+ VAR: Silvio Trucco
+ AVAR: Marcos Horticolou
+21.15 Lanús – Talleres
+ Árbitro: Nicolás Lamolina
+ Asistente 1: Pablo González
+ Asistente 2: Lucas Germanotta
+ Cuarto árbitro: Juan Pafundi
+ VAR: Héctor Paletta
+ AVAR: Sebastián Bresba
 Sábado 9 de agosto
- 14.30 San Martín (SJ) – Sarmiento
- 16.30 Boca – Racing
- 18.30 Independiente – River
- 20.45 Belgrano – Banfield
- 20.45 Atlético Tucumán – Rosario Central
+14.30 San Martín (SJ) – Sarmiento
+ Árbitro: Sebastián Martínez
+ Asistente 1: José Castelli
+ Asistente 2: Agustín Méndez
+ Cuarto árbitro: Yamil Possi
+ VAR: Germán Delfino
+ AVAR: Juan Pablo Loustau
+16.30 Boca – Racing
+ Árbitro: Nicolás Ramírez
+ Asistente 1: Juan Pablo Belatti
+ Asistente 2: Pablo Acevedo
+ Cuarto árbitro: Julio Barraza
+ VAR: Pablo Dovalo
+ AVAR: Ariel Suárez
+18.30 Independiente – River
+ Árbitro: Nazareno Arasa
+ Asistente 1: Miguel Savorani
+ Asistente 2: Diego Bonfá
+ Cuarto árbitro: Juan Nebietti
+ VAR: Jorge Baliño
+ AVAR: Javier Uziga
+20.45 Belgrano – Banfield
+ Árbitro: Leandro Rey Hilfer
+ Asistente 1: Maximiliano Castelli
+ Asistente 2: Lucas Pardo
+ Cuarto árbitro: Pablo Núñez
+ VAR: José Carreras
+ AVAR: Sebastián Habib
+20.45 Atlético Tucumán – Rosario Central
+ Árbitro: Fernando Echenique
+ Asistente 1: Facundo Rodríguez
+ Asistente 2: Juan Del Fueyo
+ Cuarto árbitro: Maximiliano Silcán Jeréz
+ VAR: Adrián Franklin
+ AVAR: Nelson Sosa
 El partido entre Atlético Tucumán y Rosario Central se jugará con la asistencia de público visitante. La LPF y la AFA agradecen a las fuerzas del orden que participarán del operativo de seguridad, especialmente a las de la provincia de Tucumán.
 Domingo 10 de agosto
- 15.00 Barracas Central – Aldosivi
- 17.00 Instituto – Platense
- 20.00 Argentinos – Unión
+15.00 Barracas Central – Aldosivi
+ Árbitro: Darío Herrera
+ Asistente 1: Juan Mamani
+ Asistente 2: Gerardo Lencina
+ Cuarto árbitro: Sebastián Bresba
+ VAR: Luis Lobo Medina
+ AVAR: Mariano Ascenzi
+17.00 Instituto – Platense
+ Árbitro: Andrés Gariano
+ Asistente 1: Andrés Barbieri
+ Asistente 2: Diego Martín
+ Cuarto árbitro: Nelson Bejas
+ VAR: Andrés Merlos
+ AVAR: Gisela Bosso
+20.00 Argentinos – Unión
+ Árbitro: Yael Falcón Pérez
+ Asistente 1: Sebastián Raineri
+ Asistente 2: Mariana De Almeida
+ Cuarto árbitro: Diego Ceballos
+ VAR: Gastón Monsón Brizula
+ AVAR: Belén Bevilacqua
 Lunes 11 de agosto
  19.00 Defensa y Justicia – Deportivo Riestra
+ Árbitro: Fernando Espinoza
+ Asistente 1: Walter Ferreyra
+ Asistente 2: Federico Cano
+ Cuarto árbitro: Nelson Sosa
+ VAR: Lucas Novelli
+ AVAR: Nahuel Viñas
 Fecha 5
  Viernes 15 de agosto
  15.30 Aldosivi – Belgrano (Zona A)
@@ -437,7 +527,7 @@ Sábado 6 de septiembre
 Vélez - Central Córdoba (S.E.), en horario y estadio a designar (TV)
  De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Primera Nacional
-Fecha 24
+Fecha 25
 Zona “A”
  Martes 5 de agosto
  Quilmes A.C - Atlanta, a las 21.10 horas (TV)
@@ -447,7 +537,149 @@ Zona “A”
  Cuarto árbitro: Jorge Broggi
  Partido Postergado
  San Martin (T.) - Dep. Maipú (Mza.)
+Fecha 26
+Defensores Unidos - Chacarita 
+ Árbitro: Franco Acita
+ Asistente 1: Juan Pablo Millenaar
+ Asistente 2: Federico García
+ Cuarto árbitro: Kevin Alegre
+ Colegiales - Almagro
+ Árbitro: Bruno Amiconi
+ Asistente 1: Nahuel Santanocito
+ Asistente 2: Martín Alonso
+ Cuarto árbitro: Cristian Cernadas
+ Dep. Maipú - Tristán Suárez
+ Árbitro: Jorge Broggi
+ Asistente 1: Mario Bardina
+ Asistente 2: Damián Orellana
+ Cuarto árbitro: César Ceballo
+ Dep. Morón - Estudiantes (Río IV)
+ Árbitro: Julián Jeréz
+ Asistente 1: Mauro Ramos Errasti
+ Asistente 2: Federico Pomi
+ Cuarto árbitro: Iñaki Iparraguirre
+ Talleres (R.E.) - Nueva Chicago 
+ Árbitro: Bryan Ferreyra
+ Asistente 1: Emanuel Serale
+ Asistente 2: Guido Córdoba
+ Cuarto árbitro: Lucas Brumer
+ Atlanta - San Miguel 
+ Árbitro: Felipe Viola
+ Asistente 1: Adrian Delbarba
+ Asistente 2: Uriel García Leri
+ Cuarto árbitro: Ignacio Cuicchi
+ Alvarado - Güemes (S.E.)
+ Árbitro: Carlos Córdoba
+ Asistente 1: Pascual Fernández
+ Asistente 2: Matías Coria
+ Cuarto árbitro: Agustín Vegetti
+Almirante Brown - Central Norte (S)
+ Árbitro: Lucas Comesaña
+ Asistente 1: Marcelo Errante
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: Sebastián Habib
+ Dep. Madryn - San Martín (T)
+ Árbitro: Daniel Zamora
+ Asistente 1: Javier Mihura
+ Asistente 2: Daniel Zamora
+ Cuarto árbitro: Alejandro Scionti
+Mitre (S.E.) - G. y Esgrima (J)
+ Árbitro: Alvaro Carranza
+ Asistente 1: Sebastián Osudar
+ Asistente 2: Matías Balmaceda
+ Cuarto árbitro: Mauricio Martín
+Temperley - San Telmo
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Diego Romero
+ Asistente 2: Sebastián Pumetti
+ Cuarto árbitro: Jonathan Barrios
+ Colón - Agropecuario 
+ Árbitro: Javier Delbarba
+ Asistente 1: Erik Grunman
+ Asistente 2: Ramón Ortíz
+ Cuarto árbitro: Gastón Iglesias
+Chaco For Ever - Gimnasia y Esgrima (Mza)
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Damián Espinoza
+ Asistente 2: Joaquín Badano
+ Cuarto árbitro: Federico Guaymas
+G. y Tiro (S) - Los Andes
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Mariano Viale
+ Asistente 2: Martín Saccone
+ Cuarto árbitro: Facundo Rojo Casal
+Estudiantes - Def. de Belgrano
+ Árbitro: Adrián Franklin
+ Asistente 1: Matías Bianchi 
+ Asistente 2: Nahuel Rasullo
+ Cuarto árbitro: Juan Nebietti
+Arsenal - Ferro
+ Árbitro: Juan Cruz Robledo
+ Asistente 1: Pablo Gualtieri
+ Asistente 2: Mariano Ruas
+ Cuarto árbitro: Julio Barraza
+All Boys - Patronato 
+ Árbitro: Lucas Cavallero
+ Asistente 1: Manuel Sánchez
+ Asistente 2: Mariana Dure
+ Cuarto árbitro: Germán Bermúdez
+Racing (Cba) - Quilmes 
+ Árbitro: Joaquín Gil
+ Asistente 1: Eduardo Lucero
+ Asistente 2: Juan Viglietti
+ Cuarto árbitro: Lautaro Castagnola
 Primera B
+Fecha 8
+Midland - Sp. Italiano
+ Árbitro: Gabriel Gutiérrez 
+ Asistente 1: Fernando Rodríguez
+ Asistente 2: Maximiliano Montenegro
+ Cuarto árbitro: David Cornejo
+ Laferrere - Comunicaciones
+ Árbitro: Maximilaino López Monti
+ Asistente 1: Arnaldo Melgarejo
+ Asistente 2: Lucas García
+ Cuarto árbitro: Martín Depósito
+ Acassuso - Real Pilar
+ Árbitro: Marcos Recalde
+ Asistente 1: Cecilio Calcagno
+ Asistente 2: Heber López Meza
+ Cuarto árbitro: Damián Rubino
+ Argentino de Quilmes - Deportivo Merlo
+ Árbitro: Mateo Bocaccia
+ Asistente 1: Lucas Cueto Viñas
+ Asistente 2: Julieta Fernández
+ Cuarto árbitro: Martín Morenza
+ Brown (A) - Villa San Carlos
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Leonardo Aranda
+ Asistente 2: Ariel López
+ Cuarto árbitro: Nicolás Kresta
+ Flandria - San Martín (B)
+ Árbitro: Gabriel Flores
+ Asistente 1: Luis Rotman
+ Asistente 2: Hugo Carbó
+ Cuarto árbitro: Roberta Echeverría
+ Excursionistas - UAI Urquiza
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Juan Manuel Díaz
+ Asistente 2: Ramiro Ortíz
+ Cuarto árbitro: Joaquín Rodríguez
+ Argentino de Merlo - Dock Sud
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Tomás Diulio
+ Asistente 2: Roberto Paz
+ Cuarto árbitro: Adrián Núñez
+ Fénix - Deportivo Armenio
+ Árbitro: Ariel Cruz
+ Asistente 1: Ángel Rebuscini
+ Asistente 2: Lucas Isla
+ Cuarto árbitro: Valentín Bocaccia
+ Villa Dálmine - Sacachispas
+ Árbitro: Mariano Negrete
+ Asistente 1: Federico Zuvilivia
+ Asistente 2: Gastón Borras
+ Cuarto árbitro: Germán Bermúdez
 Primera C
 Fecha 20
 Zona “A”
@@ -463,13 +695,74 @@ Claypole - Def. de Cambaceres, a las 15.30 horas
  Asistente 2: Nicolás Ruiz Segovia
  Cuarto árbitro: Eduardo Coyto
 Fecha 21
- Libre: Puerto Nuevo
- Central Córdoba (Ros.) c. Lugano
+Zona A
+Libre: Puerto Nuevo
+Central Córdoba (Ros.) c. Lugano
+ Árbitro: Guido Mascheroni
+ Asistente 1: Ignacio Otegui
+ Asistente 2: Leandro Idio
+ Cuarto árbitro: Elias Viglione
  Mercedes c. Berazategui
+ Árbitro: Alejandro Porticella
+ Asistente 1: Diego Fernández
+ Asistente 2: Nicolás Cavagnaro
+ Cuarto árbitro: Axel Pogge
  L.N. Alem c. Ituzaingó
+ Árbitro: Iván Mastroieni
+ Asistente 1: Matías Noli
+ Asistente 2: Federico Bozo
+ Cuarto árbitro: Ulisis López
  Defensores de Cambaceres c. Deportivo Español
+ Árbitro: Manuel Girett
+ Asistente 1: Rodrigo Mansila
+ Asistente 2: Mauro Soria
+ Cuarto árbitro: Antonela Álvarez
  El Porvenir c. Claypole
+ Árbitro: Agustín Flores
+ Asistente 1: Facundo Maldonado
+ Asistente 2: Luis Colli
+ Cuarto árbitro: Damián Rubino
  J.J. de Urquiza c. Muñiz
+ Árbitro: Ramiro Maglio
+ Asistente 1: Leandro Carril
+ Asistente 2: Luciano Cabral
+ Cuarto árbitro: Eduardo Coyto
+Zona B
+ Camioneros c. Dep. Paraguayo
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Damián Alcaraz
+ Asistente 2: Tomás Otero
+ Cuarto árbitro: Adrián Núñez
+ Yupanqui c. Argentino (Ros.)
+ Árbitro: Matías Ansede
+ Asistente 1: Alan Colman
+ Asistente 2: Roberto Rodríguez
+ Cuarto árbitro: Micaela Abelardo
+ J. Unida c. Luján
+ Árbitro: Julián Beligoy
+ Asistente 1: Federico Lapalma
+ Asistente 2: Matías Panozzo
+ Cuarto árbitro: Valentín Bocaccia
+ Rec. Español c. Atlas
+ Árbitro: Agustín Panizza
+ Asistente 1: Federico Machuca
+ Asistente 2: Alexis Ramírez
+ Cuarto árbitro: Jonathan Barrios
+ Gral. Lamadrid c. Cañuelas F.C.
+ Árbitro: Iván Castelu Coca
+ Asistente 1: Mario Vargas
+ Asistente 2: Sebastián Valdez
+ Cuarto árbitro: Facundo Carretero
+ Estrella del Sur c. V. Arenas
+ Árbitro: Gonzalo Correa
+ Asistente 1: Jonathan Florentín
+ Asistente 2: Lucas Monsalvo
+ Cuarto árbitro: Martín Morenza
+ Sp. Barracas c. Ctral. Ballester
+ Árbitro: Tomás Aybar
+ Asistente 1: Felipe Arrechea
+ Asistente 2: Andrés Belén
+ Cuarto árbitro: Facundo Carretero
 Fecha 22
  Libre: Muñiz
  Claypole c. J.J. de Urquiza
