@@ -1213,16 +1213,64 @@ CONMEBOL Libertadores 2025
 Así quedaron conformados los cruces de octavos de final
 Partidos de IDA
 Martes 12 de agosto
-19:00 Fortaleza (Brasil) - Velez Sarsfield (Argentina)
- 21:30 Atlético Nacional (Colombia) - São Paulo (Brasil)
- 21:30 Peñarol (Uruguay) - Racing (Argentina)
+19.00 Fortaleza - Vélez Sarsfield
+ Árbitro: Derlis López (Paraguay)
+ Asistente 1: Roberto Cañate (Paraguay)
+ Asistente 2: Eduardo Britos (Paraguay)
+ Cuarto árbitro: Mario Díaz (Paraguay)
+ VAR: Ulises Mereles (Paraguay)
+ AVAR: José Villagra (Paraguay)
+21.30 Atlético Nacional - San Pablo
+ Árbitro: Guillermo Tejera (Uruguay)
+ Asistente 1: Martín Soppi (Uruguay)
+ Asistente 2: Horacio Ferreiro (Uruguay)
+ Cuarto árbitro: Hernán Lerda (Uruguay)
+ VAR: Leodán González (Uruguay)
+ AVAR: Antonio García (Uruguay)
+21.30 Peñarol - Racing
+ Árbitro: Raphael Claus (Brasil)
+ Asistente 1: Bruno Pires (Brasil)
+ Asistente 2: Rafael Alves (Brasil)
+ Cuarto árbitro: Bruno Arleu (Brasil)
+ VAR: Wagner Reway (Brasil)
+ AVAR: Rodrigo Guarizo (Brasil)
 Miércoles 13 de agosto
-19:00 Cerro Porteño (Paraguay) - Estudiantes de La Plata (Argentina)
- 21:30 Flamengo (Brasil) - Internacional (Brasil)
+19.00 Cerro Porteño - Estudiantes
+ Árbitro: Piero Maza (Chile)
+ Asistente 1: José Retamal (Chile)
+ Asistente 2: Miguel Rocha (Chile)
+ Cuarto árbitro: Fernando Vejar (Chile)
+ VAR: Rodrigo Carvajal (Chile)
+ AVAR: Benjamín Barba (Chile)
+21.30 Flamengo - Internacional
+ Árbitro: Darío Herrera (Argentina)
+ Asistente 1: Gabriel Chade (Argentina)
+ Asistente 2: Facundo Rodríguez (Argentina)
+ Cuarto árbitro: Nazareno Arasa (Argentina)
+ VAR: Germán Mastangelo (Argentina)
+ AVAR: Nicolás Lamolina (Argentina)
 Jueves 14 de agosto
-19:00 Botafogo (Brasil) - Liga de Quito (Ecuador)
- 21:30 Universitario (Perú) - Palmeiras (Brasil)
- 21:30 Libertad (Paraguay) - River Plate (Argentina)
+19.00 Botafogo - Liga de Quito
+ Árbitro: Wilmar Roldán (Colombia)
+ Asistente 1: John A. León (Colombia)
+ Asistente 2: Sebastián Vela (Colombia)
+ Cuarto árbitro: Diego Ulloa (Colombia)
+ VAR: David Rodríguez (Colombia)
+ AVAR: Kevin Jiménez (Colombia)
+21.30 Universitario - Palmeiras
+ Árbitro: Facundo Tello (Argentina)
+ Asistente 1: Juan Belatti (Argentina)
+ Asistente 2: Maximiliano Del Yesso (Argentina)
+ Cuarto árbitro: Luis Lobo (Argentina)
+ VAR: Silvio Trucco (Argentina)
+ AVAR: Pablo Dovalo (Argentina)
+21.30 Libertad - River Plate
+ Árbitro: Wilton Sampaio (Brasil)
+ Asistente 1: Rodrigo Correa (Brasil)
+ Asistente 2: Bruno Boschilia (Brasil)
+ Cuarto árbitro: Paulo Zanovelli (Brasil)
+ VAR: Rodolpho Toski (Brasil)
+ AVAR: Rodrigo Nunes (Brasil)
 Partidos de VUELTA
 Martes 19 de agosto
 19:00 Vélez Sarsfield (Argentina) - Fortaleza (Brasil)
@@ -1239,16 +1287,64 @@ CONMEBOL Sudamericana 2025
 Así quedaron conformados los cruces de octavos de final
 Partidos de ida
 Martes 12 de agosto
- 19.00 Once Caldas vs. Huracán | martes 12 de agosto 
- 19.30 Independiente del Valle vs. Mushuc Runa 
- 21.30 América de Cali vs. Fluminense
+19.00 Once Caldas - Huracán
+ Árbitro: Darío Macabí (Brasil)
+ Asistente 1: Guilherme Camilo (Brasil)
+ Asistente 2: Rafael Perera (Brasil)
+ Cuarto árbitro: Daniel Nobre (Brasil)
+ VAR: Charlly Struad (Brasil)
+ AVAR: Ana Pérez (Brasil)
 Miércoles 13 de agosto
- 19.00 Bolívar vs. Cienciano
- 21.30 Alianza Lima vs. Universidad Católica 
- 21.30 Universidad de Chile vs. Independiente
+20.00 Bolívar - Cienciano
+ Árbitro: Jhon Ospina (Colombia)
+ Asistente 1: John Gallego (Colombia)
+ Asistente 2: Roberto Padilla (Colombia)
+ Cuarto árbitro: Jorge Ortiz (Colombia)
+ VAR: Nicolás Gallo (Colombia)
+ AVAR: Luis Picón (Colombia)
+20.30 Universidad de Chile - Independiente
+ Árbitro: Andrés Darío (Brasil)
+ Asistente 1: Danilo Manis (Brasil)
+ Asistente 2: Nalton Souza (Brasil)
+ Cuarto árbitro: Edna Alves (Brasil)
+ VAR: Daiane Muniz (Brasil)
+ AVAR: Pablo Gonçalves (Brasil)
+21.30 Independiente del Valle - Mushuc Runa
+ Árbitro: Bolívar Antonio (Bolivia)
+ Asistente 1: Edward Saavedra (Bolivia)
+ Asistente 2: Mendez (Bolivia)
+ Cuarto árbitro: Jose Estefano (Bolivia)
+ VAR: Wilma Balderrama (Bolivia)
+ AVAR: Silvio Regna (Brasil)
+21.30 América de Cali - Fluminense
+ Árbitro: Cristian Garay (Chile)
+ Asistente 1: Alejandro Molina (Chile)
+ Asistente 2: Carlos Poletto (Chile)
+ Cuarto árbitro: Diego Flores (Chile)
+ VAR: Juan Fuentes (Chile)
+ AVAR: Edson Cisternas (Chile)
+21.30 Alianza Lima - Universidad Católica
+ Árbitro: Leonardo Rey (Argentina)
+ Asistente 1: Cristian Navarro (Argentina)
+ Asistente 2: Gisela Trucco (Argentina)
+ Cuarto árbitro: María Laura Fortuna (Argentina)
+ VAR: Néstor Paletta (Argentina)
+ AVAR: Jesús Salome Di Oro (Argentina)
 Jueves 14 de agosto
-19.00 Atlético Mineiro vs. Godoy Cruz
- 21.30 Central Córdoba vs. Lanús 
+19.00 Atlético Mineiro - Godoy Cruz
+ Árbitro: Alexis Herrera (Venezuela)
+ Asistente 1: Lubo Torrealba (Venezuela)
+ Asistente 2: Alberto Ponte (Venezuela)
+ Cuarto árbitro: Alejandro Velázquez (Venezuela)
+ VAR: Carlos Orbe (Ecuador)
+ AVAR: Christian Lescano (Ecuador)
+21.30 Central Córdoba - Lanús
+ Árbitro: Kevin Ortega (Perú)
+ Asistente 1: Michael Orue (Perú)
+ Asistente 2: Joel Alarcón (Perú)
+ Cuarto árbitro: Diego Haro (Perú)
+ VAR: Augusto Menendez (Perú)
+ AVAR: Wilmar Navarro (Colombia)
 Partidos de vuelta
  Martes 19 de agosto
 19.00 Huracán vs. Once Caldas 
