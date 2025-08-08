@@ -1,28 +1,6 @@
 25/03/2019
 Torneo Clausura 2025
 Fecha 4 
-Jueves 7 de agosto
-17.00 Godoy Cruz – Gimnasia
- Árbitro: Pablo Echavarría
- Asistente 1: Iván Núñez
- Asistente 2: Julio Fernández
- Cuarto árbitro: César Ceballo
- VAR: Diego Ceballos
- AVAR: Pablo Giménez
-19.00 San Lorenzo – Vélez
- Árbitro: Facundo Tello
- Asistente 1: Gabriel Chade
- Asistente 2: Cristian Navarro
- Cuarto árbitro: Nahuel Viñas
- VAR: Juan Pafundi
- AVAR: Laura Fortunato
-21.00 Estudiantes – Independiente Rivadavia
- Árbitro: Sebastián Zunino
- Asistente 1: Hugo Paez
- Asistente 2: Gisella Trucco
- Cuarto árbitro: Juan Pablo Loustau
- VAR: Salomé Di Iorio
- AVAR: Diego Verlota
 Viernes 8 de agosto
 19.00 Tigre – Huracán
  Árbitro: Hernán Mastrangelo
@@ -342,55 +320,7 @@ Fecha 16 (16/11/2025)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
 Fecha 4
-Miércoles 6 de agosto
- 15:00 Newell’s – Central Córdoba (A) – Predio Jorge Griffa
- Árbitro: Axel Pogge
- Árbitro asistente 1: Mario Vargas
- Árbitro asistente 2: Sebastián Krojzl
- 15:00 Godoy Cruz – Gimnasia (B) – Coquimbito
- Árbitro: Nicolás Díaz
- Árbitro asistente 1: Rodrigo Mansilla
- Árbitro asistente 2: Marcos Pueyo
- 15:00 Colón – Defensa y Justicia (A) – Predio
- Árbitro: Facundo Carretero
- Árbitro asistente 1: Nahuel Martin
- Árbitro asistente 2: Luis Taboada
- 15:00 Belgrano – Banfield (A) – Predio
- Árbitro: Fabricio De La Cruz
- Árbitro asistente 1: Daniel Villarreal
- Árbitro asistente 2: Tomás Perez
- Cuarto árbitro: Antonela Álvarez
- 15:00 Independiente – River (B) – Predio Villa Domínico
- Árbitro: Ulises Lopez
- Árbitro asistente 1: Matías Pino
- Árbitro asistente 2: Fabrizio Osorio
- Cuarto árbitro: Manuel Prieto
- 18:00 At. Tucumán – Rosario Central (B) – José Fierro
- Árbitro: Juan Ferreyra
- Árbitro asistente 1: Ariel Ibañez
- Árbitro asistente 2: Matías Chena
- Jueves 7 de agosto
- 15:00 Barracas Central – Aldosivi (A) – AEFIP
- Árbitro: Gabriela Coronel
- Árbitro asistente 1: Luciano Cabral
- Árbitro asistente 2: Enzo Nell
- Cuarto árbitro: Franco Porotelli
- 15:00 Argentinos – Unión (A) – CEFFA
- Árbitro: Sebastian Milessi
- Árbitro asistente 1: Andrés Belen
- Árbitro asistente 2: Agustina Baleman
- Cuarto árbitro: Ignacio Dominguez
- 15:00 Lanús – Talleres (B) – Auxiliar
- Árbitro: Facundo Fuentes
- Árbitro asistente 1: Luis Colli
- Árbitro asistente 2: Valentino Gaillard
- Cuarto árbitro: Camila Gette
- 15:00 Dep. Riestra – Ferro (B) – La Candela
- Árbitro: Ariadna Palacios
- Árbitro asistente 1: Franco Chavez
- Árbitro asistente 2: Alexis Ramírez
- Cuarto árbitro: Valentin Ibañez Mesa
- Viernes 8 de agosto
+Viernes 8 de agosto
  15:00 San Lorenzo – Vélez (B) – Auxiliar
  Árbitro: Agustin Panizza
  Árbitro asistente 1: Federico Machuca
@@ -963,12 +893,6 @@ SP. BELGRANO - DOUGLAS HAIG
  Asistente 2: RODRIGO ARIEL JARA
  Cuarto árbitro: JONATAN DANIEL MAPELLI
 Zona A
- 4ta. Fecha - 10/08/25 
- COSTA BRAVA vs. ATENAS 
- VILLA MITRE vs. OLIMPO 
- DEP. RINCON vs. CIPOLLETTI 
- KIMBERLEY vs. ARGENTINO M.M. 
- LIBRE: CIUDAD BOLIVAR 
  5ta. Fecha - 17/08/25 
  ARGENTINO M.M. vs. DEP. RINCON 
  CIPOLLETTI vs. VILLA MITRE 
@@ -1000,12 +924,6 @@ Zona A
  CIPOLLETTI vs. OLIMPO 
  LIBRE: VILLA MITRE
 Zona B
- 4ta. Fecha - 10/08/25 
- SP. BELGRANO vs. DOUGLAS HAIG 
- SAN MARTIN F. vs. INDEPENDIENTE 
- G. ESGRIMA vs. JUV. ANTONIANA 
- SARMIENTO vs. 9 DE JULIO / SPORTIVO 
- LIBRE: AT. RAFAELA 
  5ta. Fecha - 17/08/25 
  9 DE JULIO / SPORTIVO vs. G. ESGRIMA 
  JUV. ANTONIANA vs. SAN MARTIN F. 
@@ -1038,12 +956,6 @@ Zona B
  LIBRE: SAN MARTIN F. 
 Reválida - Primera Etapa
 Zona A
- 4ta. Fecha - 10/08/25 
- SAN MARTIN MZA. vs. SANTAMARINA 
- CIRCULO DEP. vs. GMO. BROWN 
- ESTUDIANTES vs. HURACAN L. H. 
- GERMINAL vs. JUV. UNIDA U. 
- SOL DE MAYO vs. GUTIERREZ
  5ta. Fecha - 17/08/25 
  SANTAMARINA vs. SOL DE MAYO 
  GUTIERREZ vs. GERMINAL 
@@ -1075,12 +987,6 @@ Zona A
  GUTIERREZ vs. GMO. BROWN 
  JUV. UNIDA U. vs. HURACAN L. H. 
 Zona B
- 4ta. Fecha - 10/08/25 
- SOL DE AMERICA vs. DEF. BELGRANO 
- MITRE vs. 9 DE JULIO / SPORTIVO 
- CRUCERO DEL NORTE vs. G. ESGRIMA C. U. 
- SARMIENTO RCIA. vs. BEN HUR 
- EL LINQUEÑO vs. BOCA UNIDOS
  5ta. Fecha - 17/08/25 
  DEF. BELGRANO vs. EL LINQUEÑO 
  BOCA UNIDOS vs. SARMIENTO RCIA. 
@@ -1357,13 +1263,6 @@ Miércoles 20 de agosto
 Jueve 21 de agosto 
  19.00 Godoy Cruz vs. Atlético Mineiro 
  21.30 Lanús vs. Central Córdoba 
-Las fechas de la Copa Sudamericana 2025
-Fase de grupos: del 1/4 al 29/5
- Playoffs Octavos: del 15/7 al 24/7
- Octavos de final: del 12/8 al 21/8
- Cuartos de final: del 16/9 al 25/9
- Semifinales: del 22/10 al 30/10
- Final: el 22/11
 CONMEBOL Copa Libertadores 2026
 El certamen se iniciará el 4 de febrero. La final se disputará el sábado 28 de noviembre.
 CONMEBOL Copa Sudamericana 2026
