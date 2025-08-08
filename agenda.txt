@@ -319,33 +319,84 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
-Fecha 4
-Viernes 8 de agosto
- 15:00 San Lorenzo – Vélez (B) – Auxiliar
- Árbitro: Agustin Panizza
- Árbitro asistente 1: Federico Machuca
+FECHA 5
+ Martes 12 de agosto
+ 15:00 Banfield – Estudiantes (Zona A) – Predio
+ Árbitro: Franco Porotelli
+ Árbitro asistente 1: Alexis Escobar
+ Árbitro asistente 2: Franco Chávez
+ Cuarto árbitro: Facundo Fuentes
+ 15:00 Ferro – Instituto (Zona B) – Pontevedra
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Ariel Ibañez
+ Árbitro asistente 2: Berenice Avaro
+ Cuarto árbitro: Ulises López
+ 15:00 Aldosivi – Belgrano (Zona A) – Predio
+ Árbitro: Leandro Díaz
+ Árbitro asistente 1: Gonzalo Cubillas
+ Árbitro asistente 2: Fabrizio Osorio
+ 15:00 Sarmiento – Atlético Tucumán (Zona B) – Estadio Eva Perón
+ Árbitro: Roberta Echeverría
+ Árbitro asistente 1: Matías Vargas
+ Árbitro asistente 2: Rodrigo Díaz
+ 18:00 Independiente Rivadavia Mza. – Boca (Zona A) – Bautista Gargantini
+ Árbitro: Micaela Abelardo
+ Árbitro asistente 1: Jonathan Florentin
+ Árbitro asistente 2: Valentino Gaillard
+ Miércoles 13 de agosto
+ 15:00 Unión – Colón (Zona B) – Estadio 15 de Abril
+ Árbitro: Axel Pogge
+ Árbitro asistente 1: Juan Alexis Etchepare
+ Árbitro asistente 2: Marcos Pueyo
+ Cuarto árbitro: Pablo Gómez
+ 15:00 Defensa y Justicia – Newell’s (Zona A) – Campeones del Mundo
+ Árbitro: Antonela Álvarez
+ Árbitro asistente 1: Sergio Benítez
+ Árbitro asistente 2: Bruno Santillán
+ Cuarto árbitro: Sebastián Milessi
+ 15:00 Platense – San Lorenzo (Zona B) – Predio
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Facundo Mendiolar
+ Árbitro asistente 2: Nicolás Rovira
+ Cuarto árbitro: Facundo Carretero
+ 15:00 Gimnasia – Lanús (Zona B) – Estancia Chica
+ Árbitro: Ariadna Palacios
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Matías Chena
+ Cuarto árbitro: Valentín Pérsico
+ 18:00 River – Godoy Cruz (Zona B) – River Camp
+ Árbitro: Agustín Panizza
+ Árbitro asistente 1: Nahuel Valdeon
  Árbitro asistente 2: Patricio Acuña
- Cuarto árbitro: Eduardo Coyto
- Fecha 5
-Martes 12 de agosto
- 15.00 Banfield - Estudiantes, en el predio de Banfield.
- 15.00 Ferro - Instituto, en Pontevedra
- 15.00 Aldosivi - Belgrano, en Predio
- 15.00 Sarmiento - Atlético Tucumán, en Estadio Eva Perón
- 18.00 Independiente Rivadavia - Boca, en Bautista Gargantini
-Miércoles 13 de agosto
- 15.00 Defensa y Justicia - Newell’s, en Campeones del Mundo
- 15.00 Platense - San Lorenzo, en Predio
- 15.00 Gimnasia - Lanús, en Estancia Chica
- 15.00 Unión - Colón, en Estadio 15 de Abril
- 18.00 River - Godoy Cruz, en River Camp
- 19.00 Central Córdoba - Barracas Central, en Alfredo Terrera
+ Cuarto árbitro: Lautaro Díaz
+ 19:00 Central Córdoba – Barracas Central (Zona A) – Alfredo Terrera
+ Árbitro: Leandro Fedele
+ Árbitro asistente 1: Rodolfo Rabasa
+ Árbitro asistente 2: Ian Ávalos
  Jueves 14 de agosto
- 15.00 Huracán - Argentinos, en La Quemita
- 15.00 Racing - Tigre, en Tita Mattiussi
- 15.00 Rosario Central - Dep. Riestra, en Arroyo Seco
- 15.00 Vélez - Independiente, en Villa Olímpica
- 19.00 Talleres - San Martín (SJ), en La Boutique
+ 15:00 Huracán – Argentinos (Zona A) – La Quemita
+ Árbitro: Manuel Prieto
+ Árbitro asistente 1: Joaquín Fraga
+ Árbitro asistente 2: Luis Taboada
+ Cuarto árbitro: Facundo Fuentes
+ 15:00 Racing – Tigre (Zona A) – Tita Mattiussi
+ Árbitro: Ignacio Domínguez
+ Árbitro asistente 1: Matías Pino
+ Árbitro asistente 2: Ludmila Capelli
+ Cuarto árbitro: Leandro Díaz
+ 15:00 Rosario Central – Deportivo Riestra (Zona B) – Arroyo Seco
+ Árbitro: Elías Viglione
+ Árbitro asistente 1: Nahuel Martin
+ Árbitro asistente 2: Tomás Pérez
+ 15:00 Vélez – Independiente (Zona B) – Villa Olímpica
+ Árbitro: Matías Ansede
+ Árbitro asistente 1: Rodolfo Rodríguez
+ Árbitro asistente 2: Sebastián Krojzl
+ Cuarto árbitro: Nazareno Galeano
+ 19:00 Talleres – San Martín SJ (Zona B) – La Boutique
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Diego Ortíz
+ Árbitro asistente 2: Enzo Nell
 Fecha 6
 Martes 19 de agosto
  15.00 Estudiantes - Aldosivi, en City Bell
@@ -650,8 +701,8 @@ Sábado 9 de agosto
 Domingo 10 de agosto
  Estrella del Sur - Victoriano Arenas, a las 15.00 horas en Brown (Adrogué)
  Árbitro: Gonzalo Correa
- Asistente 1: Jonathan Florentín
- Asistente 2: Lucas Monsalvo
+ Asistente 1: Lucas Monsalvo
+ Asistente 2: Cristian Rodríguez
  Cuarto árbitro: Martín Morenza
 Lunes 11 de agosto
  Gral. Lamadrid - Cañuelas F.-, a las 15.30 horas
