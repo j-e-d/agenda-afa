@@ -803,13 +803,100 @@ Tigre 1 - San Lorenzo 0
  Lanús 2 - Huracán 0
 Torneo Federal A Edición 2025
 Segunda Fase
+Fecha 5
+Sábado 16 de agosto
+ 15:00 GUTIERREZ SC - GERMINAL
+ Árbitro: Francisco Martín Acosta
+ Asistente 1: Leila Romina Argañaraz
+ Asistente 2: José Daniel Ponce
+ Cuarto árbitro: Néstor Fabián Cáceres
+15:30 BOCA UNIDOS - SARMIENTO
+ Árbitro: Rodrigo Héctor Rivero
+ Asistente 1: Luis Fernando Ortíz
+ Asistente 2: Alex Zerda
+ Cuarto árbitro: Ricardo Abdala Williams
+15:30 DEF. BELGRANO (V.R.) - EL LINQUEÑO
+ Árbitro: Marcos Ignacio Liuzzi
+ Asistente 1: Joaquín Badano
+ Asistente 2: Robertino Rosas
+ Cuarto árbitro: Aléxis Gabriel Caisso
+15:30 INDEPENDIENTE - SP. BELGRANO
+ Árbitro: Juan Ignacio Nebbietti
+ Asistente 1: Gonzalo Aníbal Roldán
+ Asistente 2: Felipe Zonco
+ Cuarto árbitro: Kevin Nicolás Bustos
+16:00 SANTAMARINA - SOL DE MAYO
+ Árbitro: Enzo Silvestre
+ Asistente 1: Valentín Pompei
+ Asistente 2: Nicolás Darío Moreno
+ Cuarto árbitro: Daiana Luz Ilari
+16:30 ATENAS - CIUDAD DE BOLÍVAR
+ Árbitro: José Darío Sandoval
+ Asistente 1: Guido Córdoba
+ Asistente 2: Rodrigo Lezcano Garcilano
+ Cuarto árbitro: Paula Soledad Eisenacht
+Domingo 17 de agosto
+ 15:00 J. U. UNIVERSITARIO - ESTUDIANTES
+ Árbitro: César Antonio Ceballo
+ Asistente 1: Matías Javier González
+ Asistente 2: Marcos David Guzmán
+ Cuarto árbitro: Matías Edgardo Noguera
+15:00 GUILLERMO BROWN - SAN MARTÍN
+ Árbitro: Franco David Morón
+ Asistente 1: Danilo Ariel Viola
+ Asistente 2: Rodrigo Moreno
+ Cuarto árbitro: Ulises Jerónimo
+15:30 ARGENTINO - DEP. RINCÓN
+ Árbitro: Gustavo Federico Benítes
+ Asistente 1: Luciano Agustín Díaz
+ Asistente 2: Diego Pablo Ocampo
+ Cuarto árbitro: Walter Augusto Cardozo
+15:30 CIPOLLETTI - VILLA MITRE
+ Árbitro: Cristian Rubiano
+ Asistente 1: Martín Daniel Nardelli
+ Asistente 2: Patricio Jesús Destéfano
+ Cuarto árbitro: Emanuel Leguizamón
+15:30 OLIMPO - AT. COSTA BRAVA
+ Árbitro: José Manuel Díaz
+ Asistente 1: Juan Ignacio Flores Roig
+ Asistente 2: Federico Hernán Ojeda
+ Cuarto árbitro: Leandro Federico Hartfield
+15:30 HURACÁN L. H. - CÍRCULO DEPORTIVO
+ Árbitro: Maximiliano Gabriel Silcan Jerez
+ Asistente 1: Exequiel Augusto Agüero
+ Asistente 2: Denis Emanuel Chávez
+ Cuarto árbitro: Santiago Andrés Agüero
+16:00 GIMNASIA Y ESGRIMA - MITRE
+ Árbitro: Jorge David Etem
+ Asistente 1: Bruno Pezzotta
+ Asistente 2: Adriel Uvab Araya
+ Cuarto árbitro: Matías Fernández
+16:00 SPORTIVO AT. - SOL DE AMÉRICA
+ Árbitro: Jonathan Daniel Correa
+ Asistente 1: Cristian Herrera
+ Asistente 2: Evelyn Romina Luján
+ Cuarto árbitro: Leandro Andrés Sosa Abrile
+16:00 NUEVE DE JULIO - GIMNASIA Y ESGRIMA
+ Árbitro: Fernando Jesús Rekers
+ Asistente 1: Emanuel José Serale
+ Asistente 2: Hugo Fleitas
+ Cuarto árbitro: Pablo Alberto Ramírez
+16:15 DOUGLAS HAIG - AT. RAFAELA
+ Árbitro: Diego Saúl Novelli
+ Asistente 1: Oscar Ariel Bono
+ Asistente 2: Leonel Matías Suárez
+ Cuarto árbitro: Lautaro Manuel Paletta
+16:30 JUVENTUD ANTONIANA - SAN MARTÍN
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Mariano Ramón González
+ Asistente 2: Maximiliano Moya
+ Cuarto árbitro: Rodrigo Ballestero
+17:00 BEN HUR - CRUCERO DEL NORTE
+ Árbitro: Guillermo Adrián González
+ Asistente 1: Mariana Beatriz Duré
+ Asistente 2: Antonella Silvia Pajón
+ Cuarto árbitro: Rodrigo Edgardo López
 Zona A
- 5ta. Fecha - 17/08/25 
- ARGENTINO M.M. vs. DEP. RINCON 
- CIPOLLETTI vs. VILLA MITRE 
- OLIMPO vs. COSTA BRAVA 
- ATENAS vs. CIUDAD BOLIVAR 
- LIBRE: KIMBERLEY 
  6ta. Fecha - 24/08/25 
  CIUDAD BOLIVAR vs. OLIMPO 
  COSTA BRAVA vs. CIPOLLETTI 
@@ -835,12 +922,6 @@ Zona A
  CIPOLLETTI vs. OLIMPO 
  LIBRE: VILLA MITRE
 Zona B
- 5ta. Fecha - 17/08/25 
- 9 DE JULIO / SPORTIVO vs. G. ESGRIMA 
- JUV. ANTONIANA vs. SAN MARTIN F. 
- INDEPENDIENTE vs. SP. BELGRANO 
- DOUGLAS HAIG vs. AT. RAFAELA 
- LIBRE: SARMIENTO 
  6ta. Fecha - 24/08/25 
  AT. RAFAELA vs. INDEPENDIENTE 
  SP. BELGRANO vs. JUV. ANTONIANA 
