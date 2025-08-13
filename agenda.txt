@@ -120,8 +120,8 @@ Fecha 6
  20.00 San Martín (SJ) – Gimnasia (Zona B)
  20.00 Atlético Tucumán – Talleres (Zona B)
  Domingo 24 de agosto
- 14.15 Unión – Huracán (Zona A)
- 16.00 Argentinos Juniors – Racing (Zona A)
+ 14.00 Unión – Huracán (Zona A)
+ 16.15 Argentinos Juniors – Racing (Zona A)
  18.30 Boca – Banfield (Zona A)
  20.30 Independiente – Platense (Zona B)
  Lunes 25 de agosto
@@ -1010,6 +1010,24 @@ Zona B
  BOCA UNIDOS vs. 9 DE JULIO / SPORTIVO 
  BEN HUR vs. G. ESGRIMA C. U. 
 Copa País
+Domingo 17 de agosto
+ 15:00 Selección Esquel – Selección Trelew
+ Árbitro: Ezequiel Choque
+ Asistente 1: Javier Cuevas
+ Asistente 2: Paloma Abigail Sepúlveda
+15:00 Selección Río Gallegos – Selección Río Grande
+ Árbitro: Fabio Vanderley Kiona
+ Asistente 1: Matías Nicolás Rojas
+ Asistente 2: Francisco Ayala
+Miércoles 20 de agosto
+ 15:00 Selección Tandil – Selección Santa Rosa
+ Árbitro: Valentín Pompei
+ Asistente 1: Lautaro Bessia
+ Asistente 2: Franco Rojas
+15:00 Selección Rafaela – Selección Cañada de Gómez
+ Árbitro: Agustín Rossi
+ Asistente 1: Juan Ángel Centurión
+ Asistente 2: Fernando Schwartzmann
 Segundo Torneo de Primera División A 2025 - Fútbol Femenino
 Fecha 2
 Zona A
@@ -1100,6 +1118,24 @@ Zona B
  Vélez Sarsfield - Rosario Ctral.
 Torneo Femenino de Primera B
 Copa Federal Femenina
+Sábado 16 de agosto
+ 15:00 Victoria – Independiente Riv.
+ Árbitro: Matías Ezequiel Funes
+ Asistente 1: Rodrigo Leyes
+ Asistente 2: Brayan Nicolás Cabañez
+15:00 Somisa – Villa Montoro
+ Árbitro: Christian Verna
+ Asistente 1: Gregorio Drivet
+ Asistente 2: Ángel Orihuela
+16:00 Gimnasia y Esgrima – At. Tucumán
+ Árbitro: Aníbal Matías Alfaro
+ Asistente 1: Fátima Noemí Rodríguez
+ Asistente 2: Elías Agustín Coronel
+Domingo 17 de agosto
+ 11:00 Ctral Córdoba – San Martín del Bañado
+ Árbitro: Jorge Carrizo
+ Asistente 1: Fernando Fabián Quiroga
+ Asistente 2: Manuel Alberto Sandobal
 CONMEBOL Libertadores 2025
 Así quedaron conformados los cruces de octavos de final
 Partidos de IDA
