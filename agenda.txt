@@ -225,26 +225,76 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
-Fecha 6
-Martes 19 de agosto
- 15.00 Estudiantes - Aldosivi, en City Bell
- 15.00 Belgrano - Central Córdoba, en Predio
- 15.00 Independiente - Platense, en Villa Domínico
- 15.00 Colón - Newell’s, en Predio
- 19.00 Boca - Banfield, en Boca Ezeiza
-Miércoles 20 de agosto
- 15.00 Unión - Huracán, en La Tatenguita
- 15.00 Dep. Riestra - Sarmiento, en La Candela
- 15.00 San Lorenzo - Instituto, en Auxiliar
- 15.00 Rosario Central - Ferro, en Arroyo Seco
- 15.00 Godoy Cruz - Vélez, en Coquimbito
- 15.00 Lanús - River, en Auxiliar
-Jueves 21 de agosto
- 15.00 Tigre - Independiente Rivadavia, en Nito San Andrés
- 15.00 San Martín (SJ) - Gimnasia, en Predio
- 15.00 Argentinos - Racing, en CEFFA
- 15.00 Barracas Central - Defensa y Justicia, en AEFIP
- 19.00 Atlético Tucumán - Talleres, en José Fierro
+FECHA 6
+ Martes 19 de agosto
+ 15:00 Estudiantes – Aldosivi (Zona A) – City Bell
+ Árbitro: Matías Ansede
+ Árbitro asistente 1: Jonathan Florentin
+ Árbitro asistente 2: Luis Taboada
+ 15:00 Belgrano – Central Córdoba (Zona A) – Predio
+ Árbitro: Gabriela Coronel
+ Árbitro asistente 1: Mauro Soria
+ Árbitro asistente 2: Nicolás Rovira
+ 15:00 Independiente – Platense (Zona B) – Villa Domínico
+ Árbitro: Agustín Panizza
+ Árbitro asistente 1: Roberto Rodriguez
+ Árbitro asistente 2: Ian Ávalos
+ 15:00 Colón – Newell’s (Zona A) – Predio
+ Árbitro: Franco Porotelli
+ Árbitro asistente 1: Federico Machuca
+ Árbitro asistente 2: Franco Chavez
+ Miércoles 20 de agosto
+ 14:00 San Lorenzo – Instituto (Zona B) – Auxiliar
+ Árbitro: Manuel Prieto
+ Árbitro asistente 1: Mario Vargas
+ Árbitro asistente 2: Mariela Martino
+ 15:00 Unión – Huracán (Zona A) – La Tatenguita
+ Árbitro: Ignacio Dominguez
+ Árbitro asistente 1: Lucas Monsalvo
+ Árbitro asistente 2: Matías Chena
+ 15:00 Deportivo Riestra – Sarmiento (Zona B) – La Candela
+ Árbitro: Axel Pogge
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Agustina Baleman
+ 15:00 Rosario Central – Ferro (Zona B) – Arroyo Seco
+ Árbitro: Nazareno Galeano
+ Árbitro asistente 1: Alan Colman
+ Árbitro asistente 2: Enzo Nell
+ 15:00 Godoy Cruz – Vélez (Zona B) – Coquimbito
+ Árbitro: Ariadna Palacios
+ Árbitro asistente 1: Matías Panozzo
+ Árbitro asistente 2: Bruno Santillán
+ 15:00 Lanús – River (Zona B) – Auxiliar
+ Árbitro: Roberta Echeverría
+ Árbitro asistente 1: Heber Ibañez
+ Árbitro asistente 2: Daniel Villarreal
+ 19:00 Boca – Banfield (Zona A) – Boca Ezeiza
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Ignacio Otegui
+ Árbitro asistente 2: Fabrizio Osorio
+ Cuarto árbitro: Valentin Ibañez Mesa
+ 19:00 Atlético Tucumán – Talleres (Zona B) – José Fierro
+ Árbitro: Ulises López
+ Árbitro asistente 1: Tomás Otero
+ Árbitro asistente 2: Alexis Ramírez
+ Jueves 21 de agosto
+ 15:00 Tigre – Independiente Rivadavia Mza. (Zona A) – Nito San Andrés
+ Árbitro: Camila Gette
+ Árbitro asistente 1: Christian Rodriguez
+ Árbitro asistente 2: Patricio Acuña
+ Cuarto árbitro: Juan Ferreyra
+ 15:00 San Martín SJ – Gimnasia (Zona B) – Predio
+ Árbitro: Rodrigo Maidana
+ Árbitro asistente 1: Luciano Cabral
+ Árbitro asistente 2: Sebastián Krojzl
+ 15:00 Argentinos – Racing (Zona A) – CEFFA
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Gonzalo Cubillas
+ Árbitro asistente 2: Sebastian Valdez
+ 15:00 Barracas Central – Defensa y Justicia (Zona A) – AEFIP
+ Árbitro: Elías Viglione
+ Árbitro asistente 1: Leandro Idio
+ Árbitro asistente 2: Tomás Pérez
 Fecha 7
 Martes 26 de agosto
  15.00 Aldosivi - Boca, en Predio
@@ -308,7 +358,7 @@ Jueves 11 de septiembre
  19.00 Atlético Tucumán - River, en José Fierro
 Supercopa Argentina 2024
 Sábado 6 de septiembre
-Vélez - Central Córdoba (S.E.), en horario y estadio a designar (TV)
+15.00 Vélez - Central Córdoba (S.E.), en Rosario Central (TV)
  De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Primera Nacional
 Fecha 25
@@ -476,9 +526,10 @@ Mendoza
 (TV)
 Cuartos de final
 Martes 26 de agosto
-Tigre - Independiente R. (Mza.), a las 21.10 horas en 
-N.O. Boys 
+Tigre - Independiente R. (Mza.), a las 21.15 horas en N.O. Boys 
 (TV)
+Lunes 8 de septiembre
+ Argentinos - Lanús, en horario y estadio a confirmar (TV)
 Resultados de octavos
 Tigre 1 - San Lorenzo 0
  Independiente Riv. 2 - Central Córdoba de Rosario 1
@@ -609,14 +660,25 @@ Fecha 2
 Zona B
  Lunes 18 de agosto
  15.00 Racing - Talleres, en Tita (TV TNT)
+Fecha 3
+Zona A
+Libre: Belgrano
+ Domingo 24 de agosto
+ 11.00 Independiente - Huracán, en Predio Santo Domingo
+ 12.15 Platense - Boca, en Predio Mariani Dola (TNT - LPF Play)
+ Lunes 25 de agosto
+ 15.00 Newell's - SAT, en Predio Bella Vista
+ 17.00 San Luis - Ferro, en estadio La Pedrera - Villa Mercedes
+Zona B
+Sábado 23 de agosto
+ 11.00 Banfield - Racing, en estadio (TNT - LPF Play)
+ 17.00 Vélez - River, en Villa Olímpica (LPF Play)
+ Domingo 24 de agosto
+ 16.00 Talleres - Gimnasia, en estadio Boutique (LPF Play)
+ Lunes 25 de agosto
+ 11.00 Rosario Central - San Lorenzo, en Predio Cristaleria
 Zona A 
- Fecha 3 
- Libre - Belgrano (Cba.)
- San Luis - Ferro Carril Oeste
- Newell's - S.A.T.
- Platense - Boca Jrs.
- Independiente - Huracán
-Fecha 4 
+ Fecha 4 
  Independiente - Libre
  Huracán - Platense
  Boca Jrs. - Newell's
@@ -653,11 +715,6 @@ Ferro Carril Oeste - Independiente
 Belgrano (Cba.) - Platense
 San Luis - Newell's
 Zona B 
- Fecha 3 
- Talleres (Cba.) - G. Y Esgrima L.P.
- Vélez Sarsfield - River Plate
- Rosario Ctral. - San Lorenzo De A.
- Banfield - Racing Club
  Fecha 4 
  Banfield - Talleres (Cba.)
  Racing Club - Rosario Ctral.
