@@ -20,25 +20,26 @@ Fecha 6
  19.00 Belgrano – Central Córdoba (Zona A)
  19.15 Estudiantes – Aldosivi (Zona A)
  21.15 Lanús – River (Zona B)
-Fecha 7 (31/08/2025)
- Zona A
- Racing – Unión
- Independiente Rivadavia – Argentinos
- Banfield – Tigre
- Aldosivi – Boca
- Central Córdoba – Estudiantes
- Defensa y Justicia – Belgrano
- Newell’s – Barracas Central
- Zona B
- Instituto – Independiente
- Platense – Godoy Cruz
- Vélez – Lanús
- River – San Martín (SJ)
- Gimnasia – Atlético Tucumán
- Talleres – Deportivo Riestra
- Sarmiento – Rosario Central
- Interzonal
- San Lorenzo – Huracán
+Fecha 7
+Viernes 29 de agosto
+19.00 Banfield – Tigre (Zona A)
+ 19.00 Newell’s – Barracas Central (Zona A)
+ 21.15 Instituto – Independiente (Zona B)
+ Sábado 30 de agosto
+14.30 San Lorenzo – Huracán (Interzonal)
+ 17.00 Central Córdoba – Estudiantes (Zona A)
+ 17.00 Ind. Rivadavia Mza. – Argentinos Juniors (Zona A)
+ 19.15 Sarmiento – Rosario Central (Zona B)
+ 21.30 Vélez – Lanús (Zona B)
+ Domingo 31 de agosto
+14.30 Aldosivi – Boca (Zona A)
+ 16.45 Talleres – Deportivo Riestra (Zona B)
+ 16.45 Defensa y Justicia – Belgrano (Zona A)
+ 19.15 River – San Martín SJ (Zona B)
+ 21.15 Racing – Unión (Zona A)
+ Lunes 1 de septiembre
+ 17.00 Gimnasia – Atlético Tucumán (Zona B)
+ 19.15 Platense – Godoy Cruz (Zona B)
 Fecha 8 (14/09/2025) – Interzonal
  Independiente – Banfield
  Estudiantes – River
