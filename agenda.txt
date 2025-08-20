@@ -300,37 +300,12 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
-FECHA 6
- Martes 19 de agosto
- 15:00 Estudiantes – Aldosivi (Zona A) – City Bell
- Árbitro: Matías Ansede
- Árbitro asistente 1: Jonathan Florentin
- Árbitro asistente 2: Luis Taboada
- 15:00 Belgrano – Central Córdoba (Zona A) – Predio
- Árbitro: Gabriela Coronel
- Árbitro asistente 1: Mauro Soria
- Árbitro asistente 2: Nicolás Rovira
- 15:00 Independiente – Platense (Zona B) – Villa Domínico
- Árbitro: Agustín Panizza
- Árbitro asistente 1: Roberto Rodriguez
- Árbitro asistente 2: Ian Ávalos
- 15:00 Colón – Newell’s (Zona A) – Predio
- Árbitro: Franco Porotelli
- Árbitro asistente 1: Federico Machuca
- Árbitro asistente 2: Franco Chavez
- Miércoles 20 de agosto
+Fecha 6
+Miércoles 20 de agosto
  14:00 San Lorenzo – Instituto (Zona B) – Auxiliar
  Árbitro: Manuel Prieto
  Árbitro asistente 1: Mario Vargas
  Árbitro asistente 2: Mariela Martino
- 15:00 Unión – Huracán (Zona A) – La Tatenguita
- Árbitro: Ignacio Dominguez
- Árbitro asistente 1: Lucas Monsalvo
- Árbitro asistente 2: Matías Chena
- 15:00 Deportivo Riestra – Sarmiento (Zona B) – La Candela
- Árbitro: Axel Pogge
- Árbitro asistente 1: Oscar Maidana
- Árbitro asistente 2: Agustina Baleman
  15:00 Rosario Central – Ferro (Zona B) – Arroyo Seco
  Árbitro: Nazareno Galeano
  Árbitro asistente 1: Alan Colman
@@ -339,10 +314,6 @@ FECHA 6
  Árbitro: Ariadna Palacios
  Árbitro asistente 1: Matías Panozzo
  Árbitro asistente 2: Bruno Santillán
- 15:00 Lanús – River (Zona B) – Auxiliar
- Árbitro: Roberta Echeverría
- Árbitro asistente 1: Heber Ibañez
- Árbitro asistente 2: Daniel Villarreal
  19:00 Boca – Banfield (Zona A) – Boca Ezeiza
  Árbitro: Nicolás Díaz
  Árbitro asistente 1: Ignacio Otegui
@@ -352,12 +323,16 @@ FECHA 6
  Árbitro: Ulises López
  Árbitro asistente 1: Tomás Otero
  Árbitro asistente 2: Alexis Ramírez
- Jueves 21 de agosto
+Jueves 21 de agosto
  15:00 Tigre – Independiente Rivadavia Mza. (Zona A) – Nito San Andrés
  Árbitro: Camila Gette
  Árbitro asistente 1: Christian Rodriguez
  Árbitro asistente 2: Patricio Acuña
  Cuarto árbitro: Juan Ferreyra
+ 15:00 Estudiantes – Aldosivi (Zona A) – City Bell
+ Árbitro: Matías Ansede
+ Árbitro asistente 1: Jonathan Florentin
+ Árbitro asistente 2: Luis Taboada
  15:00 San Martín SJ – Gimnasia (Zona B) – Predio
  Árbitro: Rodrigo Maidana
  Árbitro asistente 1: Luciano Cabral
@@ -366,10 +341,31 @@ FECHA 6
  Árbitro: Fabricio De La Cruz
  Árbitro asistente 1: Gonzalo Cubillas
  Árbitro asistente 2: Sebastian Valdez
+ 15:00 Independiente – Platense (Zona B) – Villa Domínico
+ Árbitro: Agustín Panizza
+ Árbitro asistente 1: Roberto Rodriguez
+ Árbitro asistente 2: Ian Ávalos
  15:00 Barracas Central – Defensa y Justicia (Zona A) – AEFIP
  Árbitro: Elías Viglione
  Árbitro asistente 1: Leandro Idio
  Árbitro asistente 2: Tomás Pérez
+Viernes 22 de agosto
+ 15:00 Colón – Newell’s (Zona A) – Predio
+ Árbitro: Franco Porotelli
+ Árbitro asistente 1: Federico Machuca
+ Árbitro asistente 2: Franco Chavez
+ 15:00 Unión – Huracán (Zona A) – La Tatenguita
+ Árbitro: Ignacio Dominguez
+ Árbitro asistente 1: Lucas Monsalvo
+ Árbitro asistente 2: Matías Chena
+ 15:00 Deportivo Riestra – Sarmiento (Zona B) – La Candela
+ Árbitro: Axel Pogge
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Agustina Baleman
+ 15:00 Lanús – River (Zona B) – Auxiliar
+ Árbitro: Roberta Echeverría
+ Árbitro asistente 1: Heber Ibañez
+ Árbitro asistente 2: Daniel Villarreal
 Fecha 7
 Martes 26 de agosto
  15.00 Aldosivi - Boca, en Predio
