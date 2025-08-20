@@ -302,18 +302,6 @@ Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
 Fecha 6
 Miércoles 20 de agosto
- 14:00 San Lorenzo – Instituto (Zona B) – Auxiliar
- Árbitro: Manuel Prieto
- Árbitro asistente 1: Mario Vargas
- Árbitro asistente 2: Mariela Martino
- 15:00 Rosario Central – Ferro (Zona B) – Arroyo Seco
- Árbitro: Nazareno Galeano
- Árbitro asistente 1: Alan Colman
- Árbitro asistente 2: Enzo Nell
- 15:00 Godoy Cruz – Vélez (Zona B) – Coquimbito
- Árbitro: Ariadna Palacios
- Árbitro asistente 1: Matías Panozzo
- Árbitro asistente 2: Bruno Santillán
  19:00 Boca – Banfield (Zona A) – Boca Ezeiza
  Árbitro: Nicolás Díaz
  Árbitro asistente 1: Ignacio Otegui
@@ -329,7 +317,7 @@ Jueves 21 de agosto
  Árbitro asistente 1: Christian Rodriguez
  Árbitro asistente 2: Patricio Acuña
  Cuarto árbitro: Juan Ferreyra
- 15:00 Estudiantes – Aldosivi (Zona A) – City Bell
+15:00 Estudiantes – Aldosivi (Zona A) – City Bell
  Árbitro: Matías Ansede
  Árbitro asistente 1: Jonathan Florentin
  Árbitro asistente 2: Luis Taboada
@@ -341,16 +329,18 @@ Jueves 21 de agosto
  Árbitro: Fabricio De La Cruz
  Árbitro asistente 1: Gonzalo Cubillas
  Árbitro asistente 2: Sebastian Valdez
- 15:00 Independiente – Platense (Zona B) – Villa Domínico
+ Cuarto árbitro: Mauro Trinidad
+15:00 Independiente – Platense (Zona B) – Villa Domínico
  Árbitro: Agustín Panizza
  Árbitro asistente 1: Roberto Rodriguez
  Árbitro asistente 2: Ian Ávalos
+ Cuarto árbitro: Lautaro Díaz
  15:00 Barracas Central – Defensa y Justicia (Zona A) – AEFIP
  Árbitro: Elías Viglione
  Árbitro asistente 1: Leandro Idio
  Árbitro asistente 2: Tomás Pérez
 Viernes 22 de agosto
- 15:00 Colón – Newell’s (Zona A) – Predio
+15:00 Colón – Newell’s (Zona A) – Predio
  Árbitro: Franco Porotelli
  Árbitro asistente 1: Federico Machuca
  Árbitro asistente 2: Franco Chavez
@@ -362,10 +352,11 @@ Viernes 22 de agosto
  Árbitro: Axel Pogge
  Árbitro asistente 1: Oscar Maidana
  Árbitro asistente 2: Agustina Baleman
- 15:00 Lanús – River (Zona B) – Auxiliar
+15:00 Lanús – River (Zona B) – Auxiliar
  Árbitro: Roberta Echeverría
  Árbitro asistente 1: Heber Ibañez
- Árbitro asistente 2: Daniel Villarreal
+ Árbitro asistente 2: Lucas García
+ Cuarto árbitro: Leandro Díaz
 Fecha 7
 Martes 26 de agosto
  15.00 Aldosivi - Boca, en Predio
@@ -516,12 +507,12 @@ Domingo 24 de agosto
  15.30 Deportivo Madryn - Gimnasia y Tiro (S.)
  Árbitro: Gastón Monson Brizuela
  Asistente 1: Eduardo Lucero
- Asistente 2: Martín Diego Sanz
- Cuarto árbitro: Marcelo Morón 
+ Asistente 2: Diego Martin
+ Cuarto árbitro: Marcelo Sanz 
  15.30 Deportivo Maipú (Mza.) - Los Andes
  Árbitro: Maximiliano Mascheroni
  Asistente 1: Sebastián Osudar
- Asistente 2: Darío Rojas Martínez
+ Asistente 2: Mariana Dure
  Cuarto árbitro: Franco Morón 
 15.30 Mitre (S.E.) - San Telmo
  Árbitro: Carlos Córdoba
@@ -551,124 +542,132 @@ Lunes 25 de agosto
  Cuarto árbitro: Gonzalo Creimermann
 Primera B
 Fecha 10
- Sp. Italiano - UAI Urquiza
+ Viernes 22 de agosto
+ 17.35 Sp. Italiano - UAI Urquiza (TV)
  Árbitro: Julián Jerez
  Asistente 1: Gastón Borrás
  Asistente 2: Enrique Lanz
  Cuarto árbitro: Mariano Negrete
- Argentino de Quilmes - San Martín Burzaco
+ 20.00 Argentino de Quilmes - San Martín Burzaco
  Árbitro: Nicolás Mastroieni
  Asistente 1: Yamil Galván
  Asistente 2: Jonathan Ghiso
  Cuarto árbitro: Sebastián Habib
- Excursionistas - Villa San Carlos
+ 20.30 Excursionistas - Villa San Carlos
  Árbitro: Marcos Recalde
  Asistente 1: Damián Orellana
  Asistente 2: Matías Pino
  Cuarto árbitro: Damián Rubino
- Brown de Adrogué - Deportivo Merlo
+ Sábado 23 de agosto
+ 15.00 Brown de Adrogué - Deportivo Merlo
  Árbitro: Ignacio Cuicchi
  Asistente 1: Gonzalo Beloso
  Asistente 2: Matías Noli
  Cuarto árbitro: Tomás Aybar
- Acassuso - Sp. Dock Sud
+ 15.30 Acassuso - Sp. Dock Sud
  Árbitro: Gabriel Gutiérrez
  Asistente 1: Luis Rotman
  Asistente 2: Juan Cingolani
  Cuarto árbitro: Iván Mastroieni
- Flandria - Comunicaciones
+ 15.30 Flandria - Comunicaciones
  Árbitro: Ramiro Maglio
  Asistente 1: Federico Zuvilivia
  Asistente 2: Carlos Suárez
  Cuarto árbitro: Gonzalo Creimermann
- Villa Dálmine - Deportivo Armenio
+ 15.30 Villa Dálmine - Deportivo Armenio
  Árbitro: Adrián Nuñez Rodríguez
  Asistente 1: Arnaldo Melgarejo
  Asistente 2: Federico Josa
  Cuarto árbitro: David Cornejo
- FC Midland - Real Pilar
+18.40 FC Midland - Real Pilar (TV)
  Árbitro: Gastón Iglesias
  Asistente 1: Ángel Rebuscini
  Asistente 2: Lucas García
  Cuarto árbitro: Rodrigo Villalba
- Argentino de Merlo - Sacachispas
+Domingo 24 de agosto
+ 15.30 Argentino de Merlo - Sacachispas
  Árbitro: Valentín Bocaccia
  Asistente 1: Lucas Cueto Viñas
  Asistente 2: Ariel Medina
  Cuarto árbitro: Agustín Flores
-Fénix - Liniers
+15.30 Fénix – Liniers, en Juventud Unida
  Árbitro: Wenceslao Meneses
  Asistente 1: Diego Molina
  Asistente 2: Daniela Sanda
  Cuarto árbitro: Germán Bermúdez
+Libre: Laferrere
 Primera C
 Fecha 23
-Argentino (Ros.) - Deportivo Paraguayo
+ Viernes 22 de agosto
+15.30 Argentino (Ros.) - Deportivo Paraguayo
  Árbitro: Manuel Girett
  Asistente 1: Federico Lapalma
  Asistente 2: Federico Bozo
  Cuarto árbitro: Nazareno Galeano 
-Mercedes - Puerto Nuevo
+18.00 Mercedes - Puerto Nuevo
  Árbitro: Iván Castelú Coca
  Asistente 1: Bruno Castillo
  Asistente 2: Luciano Cabral
  Cuarto árbitro: Tomás Aybar 
- Camioneros - Luján
+ Sábado 23 de agosto
+12.00 Camioneros – Luján (TV)
  Árbitro: Guido Mascheroni
  Asistente 1: Federico Machuca
  Asistente 2: Rodrigo Mansilla
  Cuarto árbitro: Agustín Flores 
- El Porvenir - Ituzaingó
- Árbitro: Jonathan Barrios
- Asistente 1: Felipe Arrechea
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: David Cornejo 
-Gral. Lamadrid - Central Ballester
+15.30 Gral. Lamadrid - Central Ballester
  Árbitro: Mateo Bocaccia
  Asistente 1: Ignacio Otegui
  Asistente 2: Alejo Milone
  Cuarto árbitro: Micaela Abelardo 
- Juventud Unida - Cañuelas F.C.
+15.30 Juventud Unida - Cañuelas F.C.
  Árbitro: Maximiliano López Monti
  Asistente 1: Cristian Rodríguez
  Asistente 2: Berenice Avaro
  Cuarto árbitro: Juan Ferreyra 
- Rec. Español - Victoriano Arenas
+15.30 Rec. Español - Victoriano Arenas, en Ituzaingó
  Árbitro: Iñaki Iparraguirre
  Asistente 1: Diego Fernández
  Asistente 2: Ludmila Capelli
  Cuarto árbitro: Eduardo Coyto 
- Estrella del Sur - Sportivo Barracas
+ Domingo 24 de agosto
+15.00 Estrella del Sur - Sportivo Barracas, en Brown de Adrogué
  Árbitro: Martín Morenza
  Asistente 1: Damián Alcaraz
  Asistente 2: Jonathan Florentín
  Cuarto árbitro: Sebastián Milessi 
- Defensores de Cambaceres - Berazategui
+ 15.30 Defensores de Cambaceres - Berazategui
  Árbitro: Gonzalo Correa
  Asistente 1: Lucas Monsalvo
  Asistente 2: Sebastián Valdez
  Cuarto árbitro: Valentín Pérsico 
- J.J. de Urquiza - Deportivo Español
+15.30 El Porvenir - Ituzaingó
+ Árbitro: Jonathan Barrios
+ Asistente 1: Felipe Arrechea
+ Asistente 2: Felipe Onufrik
+ Cuarto árbitro: David Cornejo 
+15.30 J.J. de Urquiza - Deportivo Español
  Árbitro: Julián Beligoy
  Asistente 1: Heber Ibañez Meza
  Asistente 2: Roberto Rodríguez
  Cuarto árbitro: Facundo Fuentes 
- L.N. Alem - Lugano
+ 15.30 L.N. Alem - Lugano
  Árbitro: Gabriel Flores
  Asistente 1: Juan Etchepare
  Asistente 2: Mariela Martino
  Cuarto árbitro: Rodrigo Villalba 
- Yupanqui - Atlas
+15.30 Yupanqui - Atlas
  Árbitro: Martín Desposito
  Asistente 1: Leandro Idio
  Asistente 2: Marcos Pueyo
  Cuarto árbitro: Facundo Carretero 
- Muñiz - Claypole
+Martes 26 de agosto
+ 15.30 Muñiz – Claypole, en Juventud Unida
  Árbitro: Ulises López
  Asistente 1: Mario Vargas
  Asistente 2: Nicolás Cavagnaro
  Cuarto árbitro: Joaquín Rodríguez
- Libre: Central Córdoba (Rosario)
+Libre: Central Córdoba (Rosario)
 Fecha 24
  Libre: Claypole
  Deportivo Español c. Muñiz
@@ -760,36 +759,48 @@ Prov. de Lobos - Dep. Metalúrgico
  Asistente 2: Marco Pueyo
  Cuarto árbitro: Facundo Fuentes
 Fecha 3
- Barrancas FC - Prov. de Lobos
+ Sábado 23 de agosto
+10.00 Barrancas FC - Prov. de Lobos, en Excursionistas
  Árbitro: Agustín Panizza
  Asistente 1: Rodolfo Rodríguez
  Asistente 2: Patricio Acuña
  Cuarto árbitro: Fabrizio de la Cruz 
- Náutico Hacoaj - Juventud de Bernal
- Árbitro: Ariadna Palacios
- Asistente 1: Matías Panozzo
- Asistente 2: Fabrizio Osorio
- Cuarto árbitro: Nicolás Díaz 
- Def. de Glew - Belgrano (Zárate)
+15.30 Def. de Glew - Belgrano (Zárate)
  Árbitro: Elías Viglione
  Asistente 1: Facundo Maldonado
  Asistente 2: Alexis Escobar
  Cuarto árbitro: Ignacio Domínguez 
- Dep. Metalúrgico - Everton LP
+15.30 Dep. Metalúrgico - Everton LP
  Árbitro: Matías Ansede
  Asistente 1: Ariel Ibañez
  Asistente 2: Tomás Pérez
  Cuarto árbitro: Franco Poroteli 
- Estrella Berisso - At. Pilar
+15.30 Estrella Berisso - At. Pilar
  Árbitro: Leandro Fedele
  Asistente 1: Joaquín Fraga
  Asistente 2: Tomás Otero
  Cuarto árbitro: Pablo Gómez 
-FC Ezeiza - S.A.T.
+ Domingo 24 de agosto
+ 10.00 Náutico Hacoaj - Juventud de Bernal (TV)
+ Árbitro: Ariadna Palacios
+ Asistente 1: Matías Panozzo
+ Asistente 2: Fabrizio Osorio
+ Cuarto árbitro: Nicolás Díaz 
+ Lunes 25 de agosto
+15.00 FC Ezeiza - S.A.T., en Dep. Coreano
  Árbitro: Manuel Prieto
  Asistente 1: Oscar Maidana
  Asistente 2: Mauro Soria
  Cuarto árbitro: Mauro Trinidad
+Fecha 4
+Miércoles 27 de agosto
+ 15.00 Atlético Pilar – Defensores de Glew
+15.00 Juventud de Bernal – Deportivo Metalúrgico, en Auxiliar Berazategui
+15.00 Barrancas FC – Náutico Hacoaj, en Excursionistas
+19.00 Everton (La Plata) – Provincial (Lobos)
+ Jueves 28 de agosto
+ 15.00 Estrella Berisso – FC Ezeiza
+15.00 Belgrano (Zárate) - SAT
 Copa Argentina
 CRUCES DE LA COPA ARGENTINA 2025
 Octavos de final
@@ -1248,10 +1259,10 @@ Conmebol Sub 17 Femenina 2026
 Se jugará del 22 de abril al 16 de mayo de 2026.
 Conmebol Sub 20 Femenina
 Se jugará del 4 al 28 de febrero de 2026.
+CONMEBOL Copa Libertadores Femenina 2025
+Se jugará del 2 al 18 de octubre de 2025 en Argentina
 CONMEBOL Copa Libertadores Femenina 2026
 Se jugará del 15 al 31 de octubre de 2026.
-CONMEBOL Libertadores Fútbol Playa 2024
-El torneo se disputará del 1 al 8 de diciembre de 2024 en Ecuador.
 CONMEBOL Copa Libertadores Fútbol Playa 2025
 Se jugará del 3 al 9 de mayo de 2026.
 CONMEBOL Copa Libertadores Fútbol Playa 2026
