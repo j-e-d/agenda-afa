@@ -9,29 +9,7 @@ Postergado
  Cuarto árbitro: Adrián Franklin
  VAR: Héctor Paletta
  AVAR: Lucas Comesaña
- Sábado 23 de agosto
- 17.30 Rosario Central – Newell’s (Interzonal)
- Árbitro: Darío Herrera
- Árbitro asistente 1: Pablo González
- Árbitro asistente 2: Adrián Delbarba
- Cuarto árbitro: Sebastián Zunino
- VAR: José Carreras
- AVAR: Javier Uziga
- 20.00 San Martín (SJ) – Gimnasia (Zona B)
- Árbitro: Fernando Espinoza
- Árbitro asistente 1: Juan Pablo Millenaar
- Árbitro asistente 2: Matías Bianchi
- Cuarto árbitro: Jorge Ethen
- VAR: Luis Lobo Medina
- AVAR: Nahuel Viñas
- 20.00 Atlético Tucumán – Talleres (Zona B)
- Árbitro: Andrés Gariano
- Árbitro asistente 1: Miguel Savorani
- Árbitro asistente 2: Joaquín Badano
- Cuarto árbitro: Federico Guaymas
- VAR: Salomé Di Iorio
- AVAR: Diego Romero
- Domingo 24 de agosto
+Domingo 24 de agosto
  14.00 Unión – Huracán (Zona A)
  Árbitro: Andrés Merlos
  Árbitro asistente 1: Cristian Navarro
@@ -419,26 +397,16 @@ Jueves 28 de agosto
  Cuarto árbitro: Gabriel Gutiérrez
 Fecha 28
 Sábado 23 de agosto
-17.05 Colón - Chacarita Juniors (TV)
- Árbitro: Bruno Amiconi
- Asistente 1: Damián Espinoza
- Asistente 2: Matías Balmaceda
- Cuarto árbitro: Diego Novelli 
- 19.10 Estudiantes - Talleres (R.E.) (TV)
- Árbitro: Juan Pablo Loustau
- Asistente 1: Mario Bardina
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Germán Bermúdez 
-22.00 Central Norte (S.) - Gimnasia y Esgrima (Mza.), en estadio Padre E. Martearena
- Árbitro: Gonzalo Pereira
- Asistente 1: Federico Cano
- Asistente 2: Lucas Ripoli
- Cuarto árbitro: Francisco Acosta 
 21.15 Deportivo Morón - Nueva Chicago (TV)
  Árbitro: Felipe Viola
  Asistente 1: Ramón Ortiz
  Asistente 2: Sebastián Pumetti
  Cuarto árbitro: Damián Rubino 
+ 22.00 Central Norte (S.) - Gimnasia y Esgrima (Mza.), en estadio Padre E. Martearena
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Federico Cano
+ Asistente 2: Lucas Ripoli
+ Cuarto árbitro: Francisco Acosta 
 Domingo 24 de agosto
  13.00 Colegiales - Patronato
  Árbitro: Jorge Broggi
@@ -493,12 +461,6 @@ Lunes 25 de agosto
  Cuarto árbitro: Gonzalo Creimermann
 Primera B
 Fecha 10
- Sábado 23 de agosto
-18.40 FC Midland - Real Pilar (TV)
- Árbitro: Gastón Iglesias
- Asistente 1: Ángel Rebuscini
- Asistente 2: Lucas García
- Cuarto árbitro: Rodrigo Villalba
 Domingo 24 de agosto
  15.30 Argentino de Merlo - Sacachispas
  Árbitro: Valentín Bocaccia
@@ -959,8 +921,6 @@ Libre: Belgrano
  15.00 Newell's - SAT, en Predio Bella Vista
  16.00 San Luis - Ferro, en estadio La Pedrera - Villa Mercedes
 Zona B
-Sábado 23 de agosto
- 17.00 Vélez - River, en Villa Olímpica (LPF Play)
  Domingo 24 de agosto
  16.00 Talleres - Gimnasia, en Predio (LPF Play)
  Lunes 25 de agosto
