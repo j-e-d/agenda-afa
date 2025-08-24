@@ -10,20 +10,6 @@ Postergado
  VAR: Héctor Paletta
  AVAR: Lucas Comesaña
 Domingo 24 de agosto
- 14.00 Unión – Huracán (Zona A)
- Árbitro: Andrés Merlos
- Árbitro asistente 1: Cristian Navarro
- Árbitro asistente 2: Iván Núñez
- Cuarto árbitro: Yamil Possi
- VAR: Germán Delfino
- AVAR: Mariano Negrete
- 16.15 Argentinos Juniors – Racing (Zona A)
- Árbitro: Pablo Dóvalo
- Árbitro asistente 1: Maximiliano Del Yesso
- Árbitro asistente 2: Erik Grunmann
- Cuarto árbitro: Alejandro Porticella
- VAR: Fabricio Llobet
- AVAR: Sebastián Bresba
  18.15 Boca – Banfield (Zona A)
  Árbitro: Nicolás Lamolina
  Árbitro asistente 1: Juan Mamani
@@ -397,42 +383,7 @@ Jueves 28 de agosto
  Cuarto árbitro: Gabriel Gutiérrez
 Fecha 23
 Domingo 24 de agosto
- 13.00 Colegiales - Patronato
- Árbitro: Jorge Broggi
- Asistente 1: Nahuel Rasullo
- Asistente 2: Damián Olivetto
- Cuarto árbitro: Nicolás Kresta 
- 14.00 Almirante Brown - Gimnasia y Esgrima (J.) (TV)
- Árbitro: Diego Ceballos
- Asistente 1: Ernesto Callegari
- Asistente 2: Javier Mihura
- Cuarto árbitro: Lucas Brumer 
-15.30 Defensores Unidos - Estudiantes (Río IV)
- Árbitro: Joaquín Gil
- Asistente 1: Marcelo Errante
- Asistente 2: Juan Manuel Díaz
- Cuarto árbitro: Cristian Cernadas
- 15.30 Deportivo Madryn - Gimnasia y Tiro (S.)
- Árbitro: Gastón Monson Brizuela
- Asistente 1: Eduardo Lucero
- Asistente 2: Diego Martin
- Cuarto árbitro: Marcelo Sanz 
- 15.30 Deportivo Maipú (Mza.) - Los Andes
- Árbitro: Maximiliano Mascheroni
- Asistente 1: Sebastián Osudar
- Asistente 2: Mariana Dure
- Cuarto árbitro: Franco Morón 
-15.30 Mitre (S.E.) - San Telmo
- Árbitro: Carlos Córdoba
- Asistente 1: Mariano Viale
- Asistente 2: Emanuel Serale
- Cuarto árbitro: Federico Guaymas 
- 15.30 Temperley - Defensores de Belgrano
- Árbitro: Nahuel Viñas
- Asistente 1: Marcelo Bistocco
- Asistente 2: Carlos Viglietti
- Cuarto árbitro: Agustín Vegetti 
- 16.30 Chaco For Ever - Agropecuario
+16.30 Chaco For Ever - Agropecuario
  Árbitro: Álvaro Carranza
  Asistente 1: Pascual Fernández
  Asistente 2: Leila Argañaraz
@@ -449,52 +400,8 @@ Lunes 25 de agosto
  Asistente 2: Nahuel Santanocito
  Cuarto árbitro: Gonzalo Creimermann
 Primera B
-Fecha 10
-Domingo 24 de agosto
- 15.30 Argentino de Merlo - Sacachispas
- Árbitro: Valentín Bocaccia
- Asistente 1: Lucas Cueto Viñas
- Asistente 2: Ariel Medina
- Cuarto árbitro: Agustín Flores
-15.30 Fénix – Liniers, en Juventud Unida
- Árbitro: Wenceslao Meneses
- Asistente 1: Diego Molina
- Asistente 2: Daniela Sanda
- Cuarto árbitro: Germán Bermúdez
-Libre: Laferrere
 Primera C
 Fecha 23
-Domingo 24 de agosto
-15.00 Estrella del Sur - Sportivo Barracas, en Brown de Adrogué
- Árbitro: Martín Morenza
- Asistente 1: Damián Alcaraz
- Asistente 2: Jonathan Florentín
- Cuarto árbitro: Sebastián Milessi 
- 15.30 Defensores de Cambaceres - Berazategui
- Árbitro: Gonzalo Correa
- Asistente 1: Lucas Monsalvo
- Asistente 2: Sebastián Valdez
- Cuarto árbitro: Valentín Pérsico 
-15.30 El Porvenir - Ituzaingó
- Árbitro: Jonathan Barrios
- Asistente 1: Felipe Arrechea
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: David Cornejo 
-15.30 J.J. de Urquiza - Deportivo Español
- Árbitro: Julián Beligoy
- Asistente 1: Heber Ibañez Meza
- Asistente 2: Roberto Rodríguez
- Cuarto árbitro: Facundo Fuentes 
- 15.30 L.N. Alem - Lugano
- Árbitro: Gabriel Flores
- Asistente 1: Juan Etchepare
- Asistente 2: Mariela Martino
- Cuarto árbitro: Rodrigo Villalba 
-15.30 Yupanqui - Atlas
- Árbitro: Martín Desposito
- Asistente 1: Leandro Idio
- Asistente 2: Marcos Pueyo
- Cuarto árbitro: Facundo Carretero 
 Martes 26 de agosto
  15.30 Muñiz – Claypole, en Juventud Unida
  Árbitro: Ulises López
@@ -593,13 +500,7 @@ Prov. de Lobos - Dep. Metalúrgico
  Asistente 2: Marco Pueyo
  Cuarto árbitro: Facundo Fuentes
 Fecha 3
-Domingo 24 de agosto
- 10.00 Náutico Hacoaj - Juventud de Bernal (TV)
- Árbitro: Ariadna Palacios
- Asistente 1: Matías Panozzo
- Asistente 2: Fabrizio Osorio
- Cuarto árbitro: Nicolás Díaz 
- Lunes 25 de agosto
+Lunes 25 de agosto
 15.00 FC Ezeiza - S.A.T., en Dep. Coreano
  Árbitro: Manuel Prieto
  Asistente 1: Oscar Maidana
@@ -663,62 +564,7 @@ Tigre 1 - San Lorenzo 0
 Torneo Federal A Edición 2025
 Segunda Fase
 Domingo 24 de agosto
- 15:00 At. Costa Brava - Cipolletti
- Árbitro: César Antonio Ceballo
- Asistente 1: Malvina Luján Schiel
- Asistente 2: Gonzalo Aníbal Roldán
- Cuarto árbitro: Valentín Pompeí 
- 15:00 Dep. Rincón - Kimberley MDQ
- Árbitro: Cristián Rubiano
- Asistente 1: Danilo Ariel Viola
- Asistente 2: Rodrigo Moreno
- Cuarto árbitro: Emanuel Leguizamón 
- 15:00 Círculo Deportivo - J.U. Universitario
- Árbitro: Lautaro Castañola
- Asistente 1: Martín Daniel Nardelli
- Asistente 2: Rodrigo Lezcano Garcilano
- Cuarto árbitro: Diego Antonetti 
- 15:00 Germinal - Sol de Mayo
- Árbitro: Maximiliano Manduca
- Asistente 1: Mariano Ramón González
- Asistente 2: Maximiliano Moya
- Cuarto árbitro: Kevin Nicolás Bustos 
- 15:30 Villa Mitre - Argentino P
- Árbitro: Luis Damián Martínez
- Asistente 1: Fernando S. Muñoz
- Asistente 2: Jorge Cabrera
- Cuarto árbitro: Rodrigo Ariel Jara 
- 15:30 Ciudad de Bolívar - Olimpo
- Árbitro: Marcos Ignacio Liuzzi
- Asistente 1: Oscar Ariel Bono
- Asistente 2: Leonel Matías Suárez
- Cuarto árbitro: Patricio Jesús Destefano 
- 15:30 San Martín F. - Nueve de Julio
- Árbitro: José Manuel Díaz
- Asistente 1: Juan Ignacio Flores Roig
- Asistente 2: Federico Hernán Ojeda
- Cuarto árbitro: Leandro Federico Hartfield 
- 15:30 Mitre Posadas - Ben Hur R
- Árbitro: Gustavo Federico Benites
- Asistente 1: Luciano Agustín Díaz
- Asistente 2: Diego Pablo Ocampo
- Cuarto árbitro: Walter Augusto Cardozo 
- 16:00 Gim. y Esgrima CH - Sarmiento Sgo
- Árbitro: Juan Ignacio Nebbietti
- Asistente 1: Guillermo Yacante
- Asistente 2: Emiliano Nicolás Bustos
- Cuarto árbitro: Felipe Zonco 
- 16:00 Sp. Belgrano - Juv. Antoniana
- Árbitro: José Darío Sandoval
- Asistente 1: Guido Córdoba
- Asistente 2: Bruno Pezzotta
- Cuarto árbitro: Pablo Alberto Ramírez 
- 16:00 Sportivo At. - Def. Belgrano (V.R.)
- Árbitro: Guillermo Adrián González
- Asistente 1: Víctor M. Rojas Aguirre
- Asistente 2: Nicolás Matías Sosa
- Cuarto árbitro: Andrés Leonardo Franco 
- 16:45 At. C. San Martín - Huracán L.Heras
+16:45 At. C. San Martín - Huracán L.Heras
  Árbitro: Jonathan Daniel Correa
  Asistente 1: Marcos David Guzmán
  Asistente 2: Evelyn Romina Luján
@@ -813,11 +659,6 @@ Zona B
  BOCA UNIDOS vs. 9 DE JULIO / SPORTIVO 
  BEN HUR vs. G. ESGRIMA C. U. 
 Copa País
-Domingo 24 de agosto
-15:00 Selección Río Gallegos – Selección Río Grande
- Árbitro: Fabio Vanderley Kiona
- Asistente 1: Matías Nicolás Rojas
- Asistente 2: Francisco Ayala
 Miércoles 27 de agosto
 16:00 Selección Formosa – Selección Eldorado
  Árbitro: Diego Gastón Mitoire
@@ -832,15 +673,6 @@ Domingo 31 de agosto
  Árbitro: Jorge Daniel Miño
  Asistente 1: Sebastián Godoy
  Asistente 2: Ezequiel Gómez Domínguez
-Domingo 24 de agosto
- 11:00 Selección Trelew – Selección Esquel
- Árbitro: Marcelo Gabriel Ugarte
- Asistente 1: Carlos Humberto Rujano
- Asistente 2: Maximiliano Selg
-16:30 Selección Bariloche – Selección Neuquén
- Árbitro: Pablo Colinecul
- Asistente 1: Valentín Schafer
- Asistente 2: Alejandro Soto
 Domingo 31 de agosto
  15:00 Selección Río Grande – Selección Río Gallegos
  Árbitro: Luciano Fabián Machuca
@@ -872,15 +704,10 @@ Segundo Torneo de Primera División A 2025 - Fútbol Femenino
 Fecha 3
 Zona A
 Libre: Belgrano
- Domingo 24 de agosto
- 11.00 Independiente - Huracán, en Predio Santo Domingo
- 12.15 Platense - Boca, en Predio Mariani Dola (TNT - LPF Play)
  Lunes 25 de agosto
  15.00 Newell's - SAT, en Predio Bella Vista
  16.00 San Luis - Ferro, en estadio La Pedrera - Villa Mercedes
 Zona B
- Domingo 24 de agosto
- 16.00 Talleres - Gimnasia, en Predio (LPF Play)
  Lunes 25 de agosto
  11.00 Rosario Central - San Lorenzo, en Predio Cristaleria
 Zona A 
