@@ -16,13 +16,13 @@ Viernes 29 de agosto
  21.15 Instituto – Independiente (Zona B)
  Sábado 30 de agosto
 14.45 San Lorenzo – Huracán (Interzonal)
- 17.00 Central Córdoba – Estudiantes (Zona A)
+ 17.00 Central Córdoba – Estudiantes (Zona A), en estadio Madre de Ciudades
  17.00 Ind. Rivadavia Mza. – Argentinos Juniors (Zona A)
  19.15 Sarmiento – Rosario Central (Zona B)
  21.30 Vélez – Lanús (Zona B)
  Domingo 31 de agosto
-14.30 Aldosivi – Boca (Zona A)
- 16.45 Talleres – Deportivo Riestra (Zona B)
+14.30 Aldosivi – Boca (Zona A), en estadio José M. Minella
+ 16.45 Talleres – Deportivo Riestra (Zona B), en estadio Mario A. Kempes
  16.45 Defensa y Justicia – Belgrano (Zona A)
  19.15 River – San Martín SJ (Zona B)
  21.15 Racing – Unión (Zona A)
@@ -337,14 +337,57 @@ Jueves 28 de agosto
  Asistente 1: Javier Uziga
  Asistente 2: Mariano Rosetti
  Cuarto árbitro: Gabriel Gutiérrez
-Fecha 23
-Lunes 25 de agosto
- 21.05 All Boys - San Martín (T.) (TV)
- Árbitro: Javier Delbarba
- Asistente 1: Federico Pomi
- Asistente 2: Nahuel Santanocito
- Cuarto árbitro: Gonzalo Creimermann
+29ª. fecha
+Zona “A”
+Sábado 30-08
+ Tristán Suarez c. All Boys, a las 13.10 horas 
+(TV)
+Domingo 31-08
+ Dep. Maipú (Mza.) c. Dep. Madryn, a las 15.30 horas
+ Almagro c. Quilmes A.C., a las 15.30 horas
+ Patronato (Paraná) c. Atlanta, a las 16.00 horas
+ Güemes (S.E.) c. Colegiales, a las 16.00 horas
+ G. y Tiro (Salta) c. Alvarado (M.D.P.), a las 16.00 horas
+ Los Andes c. San Miguel, a las 19.00 horas 
+(TV)
+ San Martin (T.) c. Arsenal F.C., a las 21.00 horas
+Lunes 01-09
+ Ferro Carril Oeste c. Racing (Cba.), a las 21.15 horas 
+(TV)
+Zona “B”
+Sábado 30-08
+ Chacarita Juniors c. Mitre (S.E.), a las 14.00 horas 
+(TV)
+ San Telmo c. Chaco For Ever, a las 15.30 horas
+ Talleres (R.E.) c. Def. Unidos, a las 15.30 horas
+Domingo 31-08
+ G. y Esgrima (J.) c. Ctral. Norte (S.), a las 16.00 horas
+ Estudiantes (Rio IV) c. Temperley, a las 16.00 horas
+ Dep. Morón c. Estudiantes, a las 21.15 horas
+ (TV)
+Lunes 01-09
+ Agropecuario Arg. c. Alte. Brown, a las 14.00 horas
+ Nva. Chicago c. G. y Esgrima (Mza.), a las 17.10 horas
+ (TV)
+ Def. de Belgrano c. Colón, a las 19.10 horas 
+(TV)
 Primera B
+11ª. fecha
+Viernes 29-08
+ Sp. Dock Sud c. Excursionistas, a las 15.30 horas
+ Sacachispas F.C. c. Brown (Adrogué), a las 15.30 horas
+Sábado 30-08
+ Villa San Carlos c. F.C. Midland, a las 15.30 horas
+ San Martin (B.) c. Arg. de Merlo, a las 15.30 horas
+ Dep. Armenio c. Arg. de Quilmes, a las 15.30 horas
+ Dep. Laferrere c. Fénix, a las 15.30 horas
+ Dep. Merlo c. Acassuso, a las 18.45 horas 
+(TV)
+ Real Pilar F.C. c. Sp. Italiano, a las 19.10 horas en estadio Municipal de Pilar 
+(TV)
+Domingo 31-08
+ Comunicaciones c. Villa Dálmine, a las 15.30 horas
+ Liniers c. Flandria, a las 15.30 horas
 Primera C
 Fecha 23
 Martes 26 de agosto
@@ -354,14 +397,29 @@ Martes 26 de agosto
  Asistente 2: Nicolás Cavagnaro
  Cuarto árbitro: Joaquín Rodríguez
 Libre: Central Córdoba (Rosario)
-Fecha 24
- Libre: Claypole
- Deportivo Español c. Muñiz
- Ituzaingó c. J.J. de Urquiza
- Berazategui c. El Porvenir
- Lugano c. Defensores de Cambaceres
- Puerto Nuevo c. L.N. Alem
- Central Córdoba (Ros.) c. Mercedes
+24ª. fecha
+Zona “A”
+Viernes 29-08
+ Berazategui c. El Porvenir, a las 15.30 horas
+ Ituzaingó c. J.J. de Urquiza, a las 20.05 horas
+ (TV)
+Sábado 30-08
+ Lugano c. Def. de Cambaceres, a las 15.30 horas
+ Puerto Nuevo c. L.N. Alem, a las 15.30 horas
+ Ctral. Córdoba (Ros.) c. Mercedes, a las 15.30 horas
+Martes 02-09
+ Dep. Español c. Muñiz, a las 15.30 horas
+Zona “B”
+Sábado 30-08
+ Cañuelas F.C. c. Yupanqui, a las 15.30 horas
+Domingo 31-08
+ Dep. Paraguayo c. Estrella del Sur, a las 15.30 horas
+ Atlas c. Camioneros, a las 15.30 horas
+ Luján c. Argentino (Ros.), a las 15.30 horas
+Lunes 01-09
+ Sp. Barracas c. Gral. Lamadrid, a las 15.30 horas en Almagro
+ Ctral. Ballester c. Rec. Español, a las 15.30 horas en Puerto Nuevo
+ Victoriano Arenas c. Juv. Unida, a las 15.30 horas
 Fecha 25
  Libre: Mercedes
  L.N. Alem c. Central Córdoba (Ros.)
@@ -444,13 +502,6 @@ Prov. de Lobos - Dep. Metalúrgico
  Asistente 1: Rodolfo Rabasa
  Asistente 2: Marco Pueyo
  Cuarto árbitro: Facundo Fuentes
-Fecha 3
-Lunes 25 de agosto
-15.00 FC Ezeiza - S.A.T., en Dep. Coreano
- Árbitro: Manuel Prieto
- Asistente 1: Oscar Maidana
- Asistente 2: Mauro Soria
- Cuarto árbitro: Mauro Trinidad
 Fecha 4
 Miércoles 27 de agosto
  15.00 Atlético Pilar – Defensores de Glew
