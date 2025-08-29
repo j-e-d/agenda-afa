@@ -11,20 +11,6 @@ Postergado
  AVAR: Lucas Comesaña
 Fecha 7
 Viernes 29 de agosto
-19.00 Banfield – Tigre (Zona A)
-Árbitro: Yael Falcón Pérez
- Asistente 1: Juan Pablo Belatti
- Asistente 2: Lucas Pardo
- Cuarto árbitro: Marcos Recalde
- VAR: Fernando Espinoza
- AVAR: Jorge Broggi
-19.00 Newell’s – Barracas Central (Zona A)
-Árbitro: Hernán Mastrángelo
- Asistente 1: Hugo Páez
- Asistente 2: Mauro Ramos Errasti
- Cuarto árbitro: Mariano Negrete
- VAR: Pablo Dóvalo
- AVAR: Diego Romero
 21.15 Instituto – Independiente (Zona B)
 Árbitro: Luis Lobo Medina
  Asistente 1: Cristian Navarro
@@ -119,60 +105,67 @@ Lunes 1 de septiembre
  Cuarto árbitro: Nelson Sosa
  VAR: Salomé Di Iorio
  AVAR: Franco Acita
-Fecha 8 (14/09/2025) – Interzonal
- Independiente – Banfield
- Estudiantes – River
- Huracán – Vélez
- Godoy Cruz – Barracas Central
- Lanús – Independiente Rivadavia
- Newell’s – Atlético Tucumán
- Instituto – Argentinos
- Defensa y Justicia – Platense
- Gimnasia – Unión
- Tigre – Talleres
- Deportivo Riestra – Central Córdoba
- Racing – San Lorenzo
- Belgrano – San Martín (SJ)
- Rosario Central – Boca
- Sarmiento – Aldosivi
-Fecha 9 (21/09/2025)
- Zona A
- Belgrano – Newell’s
- Estudiantes – Defensa y Justicia
- Boca – Central Córdoba
- Tigre – Aldosivi
- Argentinos – Banfield
- Unión – Independiente Rivadavia
- Huracán – Racing
- Zona B
- Rosario Central – Talleres
- Deportivo Riestra – Gimnasia
- Atlético Tucumán – River
- San Martín (SJ) – Vélez
- Lanús – Platense
- Godoy Cruz – Instituto
- Independiente – San Lorenzo
- Interzonal
- Barracas Central – Sarmiento
-Fecha 10 (28/09/2025)
- Zona A
- Independiente Rivadavia – Huracán
- Banfield – Unión
- Aldosivi – Argentinos
- Central Córdoba – Tigre
- Defensa y Justicia – Boca
- Newell’s – Estudiantes
- Barracas Central – Belgrano
- Zona B
- San Lorenzo – Godoy Cruz
- Instituto – Lanús
- Platense – San Martín (SJ)
- Vélez – Atlético Tucumán
- River – Deportivo Riestra
- Gimnasia – Rosario Central
- Talleres – Sarmiento
- Interzonal
- Racing – Independiente
+Fecha 8 (interzonal)
+Jueves 11 de septiembre
+ 20.00 Belgrano – San Martín SJ
+Viernes 12 de septiembre
+ 14.30 Deportivo Riestra – Central Córdoba
+ 19.00 Racing – San Lorenzo
+ 19.00 Huracán – Vélez
+ 21.15 Lanús – Ind. Rivadavia Mza. 
+ 21.15 Newell’s – Atlético Tucumán
+Sábado 13 de septiembre
+ 14.30 Godoy Cruz – Barracas Central
+ 16.45 Independiente – Banfield
+ 19.00 Estudiantes – River
+ 21.15 Sarmiento – Aldosivi
+Domingo 14 de septiembre
+ 15.00 Gimnasia – Unión
+ 15.00 Instituto – Argentinos
+ 17.30 Rosario Central – Boca
+ 20.00 Tigre – Talleres
+ 20.00 Defensa y Justicia – Platense
+Fecha 9
+Viernes 19 de septiembre
+ 17.00 Deportivo Riestra – Gimnasia (Zona B)
+ 19.00 Huracán – Racing (Zona A)
+ 19.15 San Martín SJ – Vélez (Zona B)
+ 21.15 Lanús – Platense (Zona B)
+Sábado 20 de septiembre
+ 14.30 Barracas Central – Sarmiento (interzonal)
+ 16.45 Unión – Ind. Rivadavia Mza. (Zona A)
+ 19.00 Tigre – Aldosivi (Zona A)
+ 21.15 Atlético Tucumán – River (Zona B)
+Domingo 21 de septiembre
+ 14.30 Independiente – San Lorenzo (Zona B)
+ 16.45 Boca – Central Córdoba (Zona A)
+ 19.00 Argentinos – Banfield (Zona A)
+ 19.00 Rosario Central – Talleres (Zona B)
+ 21.15 Godoy Cruz – Instituto (Zona B)
+Lunes 22 de septiembre
+ 19.00 Estudiantes – Defensa y Justicia (Zona A)
+ 21.00 Belgrano – Newell’s (Zona A)
+Fecha 10
+Viernes 26 de septiembre
+ 19.00 Banfield – Unión (Zona A)
+ 19.00 Platense – San Martín SJ (Zona B)
+ 21.15 Central Córdoba – Tigre (Zona A)
+Sábado 27 de septiembre
+ 14.30 Aldosivi – Argentinos (Zona A)
+ 14.30 Gimnasia – Rosario Central (Zona B)
+ 16.45 San Lorenzo – Godoy Cruz (Zona B)
+ 19.00 Defensa y Justicia – Boca (Zona A)
+ 21.15 Talleres – Sarmiento (Zona B)
+Domingo 28 de septiembre
+ 15.15 Racing – Independiente (interzonal)
+ 18.00 River – Deportivo Riestra (Zona B)
+ 20.15 Ind. Rivadavia Mza. – Huracán (Zona A)
+ 20.15 Instituto – Lanús (Zona B)
+Lunes 29 de septiembre
+ 15.30 Barracas Central – Belgrano (Zona A)
+ 20.00 Vélez – Atlético Tucumán (Zona B)
+Martes 30 de septiembre
+ 19.00 Newell’s – Estudiantes (Zona A)
 Fecha 11 (05/10/2025)
  Zona A
  Estudiantes – Barracas Central
