@@ -384,12 +384,6 @@ Dep. Español c. Muñiz, a las 15.30 horas
  Asistente 2: Tomás Otero
  Cuarto árbitro: Iñaki Iparraguirre
 Zona “B”
-Domingo 31-08
-Atlas c. Camioneros, a las 15.30 horas
- Árbitro: Alejandro Porticella
- Asistente 1: Heber Ibáñez
- Asistente 2: Sergio Benítez
- Cuarto árbitro: Nicolás Díaz
 Lunes 01-09
 Sp. Barracas c. Gral. Lamadrid, a las 15.30 horas en Almagro
  Árbitro: Rodrigo Villalba
@@ -417,6 +411,11 @@ Luján c. Argentino (Ros.), a las 15.30 horas
  Asistente 1: Matías Noli
  Asistente 2: Lucas Monsalvo
  Cuarto árbitro: Martín Morenza
+Atlas c. Camioneros, a las 15.30 horas
+ Árbitro: Alejandro Porticella
+ Asistente 1: Heber Ibáñez
+ Asistente 2: Sergio Benítez
+ Cuarto árbitro: Nicolás Díaz
 Fecha 25
  Libre: Mercedes
  L.N. Alem c. Central Córdoba (Ros.)
@@ -524,16 +523,17 @@ Náutico Hacoaj c. Provincial (Lobos), a las 15.30 horas
  Asistente 1: Nahuel Martín
  Asistente 2: Bruno Santillán
  Cuarto árbitro: Pablo Gómez
-Dep. Metalúrgico c. Barrancas F.C., a las 15.30 horas
- Árbitro: Elías Vignone
- Asistente 1: Bruno Castillo
- Asistente 2: Sofía Curto
- Cuarto árbitro: Nazareno Galeano
 Everton (L.P.) c. Juv. de Bernal, a las 15.30 horas
  Árbitro: Ulises López
  Asistente 1: Cristian Rodríguez
  Asistente 2: Valentino Gaillard
  Cuarto árbitro: Mauro Trinidad
+Martes 02-09
+Dep. Metalúrgico c. Barrancas F.C.
+ Árbitro: Elías Vignone
+ Asistente 1: Bruno Castillo
+ Asistente 2: Sofía Curto
+ Cuarto árbitro: Nazareno Galeano
 2ª. fecha
 Zona “A”
 Miércoles 03-09
