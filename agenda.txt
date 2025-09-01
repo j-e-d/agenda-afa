@@ -284,13 +284,7 @@ Dep. Español c. Muñiz, a las 15.30 horas
  Asistente 2: Tomás Otero
  Cuarto árbitro: Iñaki Iparraguirre
 Zona “B”
-Lunes 01-09
-Sp. Barracas c. Gral. Lamadrid, a las 15.30 horas en Almagro
- Árbitro: Rodrigo Villalba
- Asistente 1: Gonzalo Cubillas
- Asistente 2: Oscar Maidana
- Cuarto árbitro: Ignacio Domínguez
- Martes 02-09
+Martes 02-09
 Ctral. Ballester c. Rec. Español, a las 15.30 horas en Puerto Nuevo
  Árbitro: Iván Mastroieni
  Asistente 1: Nahuel Valdeón
@@ -301,6 +295,11 @@ Victoriano Arenas c. Juv. Unida, a las 15.30 horas
  Asistente 1: Leandro Idio
  Asistente 2: Mara Díaz
  Cuarto árbitro: Leandro Fedele
+ Sp. Barracas c. Gral. Lamadrid, a las 15.30 horas en Almagro
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Gonzalo Cubillas
+ Asistente 2: Oscar Maidana
+ Cuarto árbitro: Ignacio Domínguez
 Martes 02-09
 Dep. Paraguayo c. Estrella del Sur, a las 15.30 horas
  Árbitro: David Cornejo
