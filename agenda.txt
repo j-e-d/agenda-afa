@@ -525,21 +525,6 @@ Zona B
  BEN HUR vs. G. ESGRIMA C. U. 
 Copa País
 Segundo Torneo de Primera División A 2025 - Fútbol Femenino
-Fecha 4
-Zona A
-Libre: Independiente
-Lunes 1 de septiembre
-15:00 Ferro - Belgrano, en Sintético Caballito
-Zona B
-Lunes 1 de septiembre
- 15:00 Racing - Rosario Central, en Tita
-Zona A 
- Fecha 5 
- Libre - Ferro Carril Oeste
- Belgrano (Cba.) - S.A.T.
- San Luis - Boca Jrs.
- Newell's - Huracán
- Platense - Independiente
  Fecha 6 
  Platense - Libre
  Independiente - Newell's
@@ -1057,6 +1042,21 @@ Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 5; Concacaf: 4;
 CONMEBOL Sub 17 2026
 Se jugará del 3 al 19 de abril de 2026.
 Liga de Naciones Femenina 2025-2026
+Fecha 1
+Viernes 24 de octubre
+17:00 Bolivia - Ecuador, en Estadio Municipal de El Alto (Bolivia)
+ 17:00 Venezuela - Chile, en Estadio Metropolitano de Cabudare (Venezuela)
+ 20:00 Argentina - Paraguay, en estadio a confirmar
+ 20:00 Colombia - Perú, en Estadio Atanasio Girardot (Colombia)
+Libre: Uruguay
+Fecha 2
+Martes 28 de octubre
+18:00 Chile - Bolivia, en Estadio El Teniente
+ 18:00 Uruguay - Argentina, en Estadio Centenario
+ 18:00 Paraguay - Venezuela, en estadio a confirmar
+ 20:00 Ecuador - Colombia, en Estadio Rodrigo Paz Delgado
+Libre: Perú
+* Todos los horarios son hora del país local
 Fixture de la Selección Argentina Femenina
  • Fecha 1 - Argentina vs. Paraguay - 24 de octubre 2025
  • Fecha 2 - Uruguay vs. Argentina - 28 de octubre 2025
