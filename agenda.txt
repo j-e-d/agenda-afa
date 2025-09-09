@@ -465,7 +465,7 @@ Zona “B”
  Asistente 1: Franco Boetti
  Asistente 2: Ian Ávalos
  Cuarto árbitro: Eduardo Coyto
- Náutico Hacoaj - Everton (L.P.), a las 19.00 horas
+ Náutico Hacoaj - Everton (L.P.), a las 15.00 horas (TV)
  Árbitro: Tomás Aybar
  Asistente 1: Roberto Rodríguez
  Asistente 2: Marcos Pueyo
@@ -673,6 +673,7 @@ Todos los clasificados al Mundial 2026
  Paraguay
  Colombia
 Túnez
+Marruecos
 Finalissima 2025
 La Selección Argentina, campeona de la Copa América 2024, y la Selección de España, campeona de la Eurocopa 2024, disputarán el próximo año la Finalissima en un partido único con fecha y sede a confirmar. 
 Selección Mayor Femenina
