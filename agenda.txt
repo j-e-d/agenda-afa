@@ -262,6 +262,86 @@ FECHA 9
  Árbitro: Rodrigo Maidana
  Árbitro asistente 1: Rodolfo Rodríguez
  Árbitro asistente 2: Luis Colli
+FECHA 10
+ Martes 16 de septiembre
+ 15:00 Gimnasia – Rosario Central (Zona B) – Estancia Chica
+ 15:00 Defensa y Justicia – Boca (Zona A) – Campeones del Mundo
+ 15:00 Newell’s – Estudiantes (Zona A) – Marcelo Bielsa
+ 15:00 Ferro – Independiente (Zona B) – Pontevedra
+ Miércoles 17 de septiembre
+ 15:00 Aldosivi – Argentinos (Zona A) – Predio
+ 15:00 Vélez – Atlético Tucumán (Zona B) – Villa Olímpica
+ 15:00 Platense – San Martín SJ (Zona B) – Predio
+ 15:00 Racing – Colón (Zona A) – Tita Mattiussi
+ 15:00 Banfield – Unión (Zona A) – Predio
+ 19:00 Central Córdoba – Tigre (Zona A) – Alfredo Terrera
+ Jueves 18 de septiembre
+ 15:00 Independiente Rivadavia Mza- Huracán (Zona A) – Ciudad Deportiva
+ 15:00 Barracas Central – Belgrano (Zona A) – AEFIP
+ 15:00 San Lorenzo – Godoy Cruz (Zona B) – Auxiliar
+ 15:00 Instituto – Lanús (Zona B) – La Agustina
+ 19:00 Talleres – Sarmiento (Zona B) – La Boutique
+ 19:00 River – Dep. Riestra (Zona B) – River Camp
+FECHA 11
+ Martes 23 de septiembre
+ 14:00 Tigre – Defensa y Justicia (Zona A) – Predio
+ 15:00 Rosario Central – River (Zona B) – Arroyo Seco
+ 15:00 Sarmiento – Gimnasia (Zona B) – CAR
+ 15:00 Colón – Belgrano (Zona A) – Predio
+ 16:00 Huracán – Banfield (Zona A) – La Quemita
+ Miércoles 24 de septiembre
+ 15:00 Dep. Riestra – Vélez (Zona B) – La Candela
+ 15:00 Godoy Cruz – Independiente (Zona B) – Coquimbito
+ 15:00 Estudiantes – Barracas Central (Zona A) – City Bell
+ 15:00 Unión – Aldosivi (Zona A) – La Tatenguita
+ 19:00 Boca – Newell’s (Zona A) – Boca Ezeiza
+ 19:00 Talleres – Ferro (Zona B) – La Boutique
+ Jueves 25 de septiembre
+ 15:00 Lanús – San Lorenzo (Zona B) – Auxiliar
+ 15:00 San Martín SJ – Instituto (Zona B) – Predio
+ 15:00 Atlético Tucumán – Platense (Zona B) – Estadio San Jorge
+ 15:00 Racing – Indep. Rivadavia Mza (Zona A) – Tita Mattiussi
+ 15:00 Argentinos – Central Córdoba (Zona A) – CEFFA
+FECHA 12
+ Martes 30 de septiembre
+ 15:00 Banfield – Racing (Zona A) – Predio
+ 15:00 Gimnasia – Talleres (Zona B) – Estancia Chica
+ 15:00 Vélez – Rosario Central (Zona B) – Villa Olímpica
+ 15:00 Defensa y Justicia – Argentinos (Zona A) – Campeones del Mundo
+ Miércoles 1 de octubre
+ 15:00 Aldosivi – Huracán (Zona A) – Predio
+ 15:00 Platense – Dep. Riestra (Zona B) – Predio
+ 15:00 Newell’s – Tigre (Zona A) – Jorge Griffa
+ 15:00 Indepte. Rivadavia Mza. – Colón (Zona A) – Ciudad Deportiva
+ 15:00 Ferro – Godoy Cruz (Zona B) – Pontevedra
+ 19:00 River – Sarmiento (Zona B) – River Camp
+ 19:00 Belgrano – Estudiantes (Zona A) – Julio César Villagra
+ Jueves 2 de octubre
+ 15:00 Independiente – Lanús (Zona B) – Villa Domínico
+ 15:00 San Lorenzo – San Martín SJ (Zona B) – Auxiliar
+ 15:00 Barracas Central – Boca (Zona A) – AEFIP
+ 15:00 Instituto – Atlético Tucumán (Zona B) – La Agustina
+ 19:00 Central Córdoba – Unión (Zona A) – Alfredo Terrera
+FECHA 13
+ Martes 7 de octubre
+ 15:00 Rosario Central – Platense (Zona B) – Arroyo Seco
+ 15:00 Unión – Defensa y Justicia (Zona A) – La Tatenguita
+ 15:00 Gimnasia – Ferro (Zona B) – Estancia Chica
+ 15:00 Racing – Aldosivi (Zona A) – Tita Mattiussi
+ 19:00 Talleres – River (Zona B) – La Boutique
+ Miércoles 8 de octubre
+ 15:00 Colón – Estudiantes (Zona A) – Predio
+ 15:00 Sarmiento – Vélez (Zona B) – CAR
+ 15:00 Tigre – Barracas Central (Zona A) – Predio
+ 15:00 Dep. Riestra – Instituto (Zona B) – La Candela
+ 15:00 Indepte. Rivadavia Mza. – Banfield (Zona A) – Ciudad Deportiva
+ 19:00 Boca – Belgrano (Zona A) – Boca Ezeiza
+ Jueves 9 de octubre
+ 15:00 Argentinos – Newell’s (Zona A) – CEFFA
+ 15:00 Lanús – Godoy Cruz (Zona B) – Auxiliar
+ 15:00 Huracán – Central Córdoba (Zona A) – La Quemita
+ 15:00 San Martín SJ – Independiente (Zona B) – Predio
+ 19:00 Atlético Tucumán – San Lorenzo (Zona B) – José Fierro
 Supercopa Argentina 
 Primera Nacional
 Primera B
@@ -451,6 +531,32 @@ Sábado 13-09
 13.30 Banfield - Vélez, en Estadio
 Lunes 15-09
 11.00 Rosario Central - Talleres, en Predio Cristalería
+Fecha 7 
+ Zona "A"
+ Libre - S.A.T.
+ Ferro Carril Oeste - Boca Jrs.
+ Belgrano (Cba.) - Huracán
+ San Luis - Independiente
+ Newell's - Platense
+Zona "B"
+ Talleres (Cba.) - San Lorenzo De A.
+ River Plate - Racing Club
+ G. Y Esgrima L.P. - Banfield
+ Vélez Sarsfield - Rosario Ctral.
+Fecha 8 
+ Zona "A"
+Newell's - Libre
+ Platense - San Luis
+ Independiente - Belgrano (Cba.)
+ Huracán - Ferro Carril Oeste
+ Boca Jrs. - S.A.T.
+Fecha 9 
+Zona "A"
+Libre - Boca Jrs.
+ S.A.T. - Huracán
+ Ferro Carril Oeste - Independiente
+ Belgrano (Cba.) - Platense
+ San Luis - Newell's
 Torneo Femenino de Primera B
 Copa Federal Femenina
 Domingo 14 de septiembre
@@ -498,7 +604,7 @@ Miércoles 17 de septiembre
 19.00 Bolívar - Atlético Mineiro
 21.30 Independiente del Valle - Once Caldas
 Jueves 18 de septiembre
-21.30 Alianza Lima - *a definir
+21.30 Alianza Lima - Universidad de Chile
 Partidos de vuelta
 Martes 23 de septiembre
 21.30 Fluminense - Lanús
@@ -506,7 +612,7 @@ Miércoles 24 de septiembre
 19.00 Atlético Mineiro - Bolívar 
 21.30 Once Caldas - Independiente del Valle
 Jueves 25 de septiembre
-21.30 *a definir - Alianza Lima
+21.30 Universidad de Chile - Alianza Lima
  *La definición del cruce de Alianza Lima está pendiente de decisión de los Órganos Judiciales de la Conmebol.
 Todos los horarios corresponden a la Argentina
 CONMEBOL Copa Libertadores 2026
@@ -528,8 +634,8 @@ Martes 9 de septiembre
  20.30 Bolivia - Brasil 
  20.30 Chile - Uruguay
 Amistosos Selección Mayor
-La Selección Argentina que conduce Lionel Scaloni tendrá dos fechas FIFA amistosas en lo que resta del año 2025.
- La primera en el mes de octubre, comprendida del 6 al 14, se disputará en Estados Unidos (rivales y ciudades a definir). La segunda fecha FIFA correspondiente al mes de noviembre, que abarca del 10 al 18, se jugará en Luanda, Angola, y Kerala, India (rivales a definir).
+La Selección Argentina disputará dos amistosos en octubre, ante Venezuela y Puerto Rico, respectivamente. El primer partido será el 10 de octubre (20 hs de Miami) ante la Venezuela de Fernando Batista en Hard Rock Stadium de Miami.
+ El segundo encuentro se jugará ante Puerto Rico, el día 13 de octubre, en el estadio Soldier Field de Chicago.
 Copa del Mundo 2026
 El sorteo final de la Copa Mundial de la FIFA 2026 tendrá lugar en el Centro John F. Kennedy en Washington D. C. el próximo viernes 5 de diciembre. Los grupos, con 48 equipos, se sortearán en la capital estadounidense. El sorteo comenzará a las 14 de nuestro país.
 El partido inaugural de la Copa del Mundo 2026 que organizan en conjunto los Estados Unidos, México y Canadá, se jugará en el Estadio Azteca el 11 de junio.
@@ -566,6 +672,7 @@ Todos los clasificados al Mundial 2026
  Uruguay
  Paraguay
  Colombia
+Túnez
 Finalissima 2025
 La Selección Argentina, campeona de la Copa América 2024, y la Selección de España, campeona de la Eurocopa 2024, disputarán el próximo año la Finalissima en un partido único con fecha y sede a confirmar. 
 Selección Mayor Femenina
