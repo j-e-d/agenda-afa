@@ -496,7 +496,7 @@ Fecha 31
  Árbitro: Adrián Franklin
  Asistente 1: Javier Mihura
  Asistente 2: Alejandro Schneller
- Cuarto árbitro: Luciano Julio
+ Cuarto árbitro: Maximiliano Manduca
  16.00 Deportivo Maipú - All Boys
  Árbitro: Álvaro Carranza
  Asistente 1: Mariano Ascenzi
@@ -601,7 +601,7 @@ Fecha 26
  Asistente 2: Mariela Martino
  Cuarto árbitro: Iván Castelu Coca
  15.00 Estrella del Sur - Recreativo Español, en Brown de Adrogué
- Árbitro: Julián Beligoy
+ Árbitro: Tomás Aybar
  Asistente 1: Lucas Monsalvo
  Asistente 2: Sebastián Valdéz
  Cuarto árbitro: Antonella Álvarez
@@ -645,7 +645,7 @@ Fecha 26
  Árbitro: Guido Mascheroni
  Asistente 1: Matías Noli
  Asistente 2: Lucas García
- Cuarto árbitro: Tomás Aybar
+ Cuarto árbitro: Elías Viglione
  15.00 Lugano - JJ de Urquiza
  Árbitro: Maximiliano López Monti
  Asistente 1: Matías Vargas
@@ -823,11 +823,13 @@ Lunes 15-09
 11.00 Rosario Central - Talleres, en Predio Cristalería
 Fecha 7 
  Zona "A"
- Libre - S.A.T.
- Ferro Carril Oeste - Boca Jrs.
- Belgrano (Cba.) - Huracán
- San Luis - Independiente
- Newell's - Platense
+Libre: SAT
+Miércoles 17 de septiembre
+ 15.00 Ferro - Boca en Sintético Caballito
+ 16.00 San Luis - Independiente, en Villa Deportiva San Luis
+Jueves 18 de septiembre
+ 15.00 Newell's - Platense en Predio Bella Vista
+ 19.00 Belgrano - Huracán, en Estadio Alberdi
 Zona "B"
  Talleres (Cba.) - San Lorenzo De A.
  River Plate - Racing Club
