@@ -11,13 +11,6 @@ Postergado
  AVAR: Lucas Comesaña
 Fecha 8 (interzonal)
 Viernes 12 de septiembre
- 14.30 Deportivo Riestra – Central Córdoba
- Árbitro: Leandro Rey Hilfer
- Asistente 1: Pablo González
- Asistente 2: Ernesto Callegari
- Cuarto árbitro: Kevin Alegre
- VAR: José Carreras
- AVAR: Jorge Broggi
 19.00 Racing – San Lorenzo
  Árbitro: Ariel Penel
  Asistente 1: Cristian Navarro
@@ -854,12 +847,36 @@ CONMEBOL Libertadores 2025
 Cronograma de cuartos de final
 Partidos de ida
 Martes 16 de septiembre
-19.00 Vélez - Racing
-Miércoles 17 de septiembre
-21.30 River Plate - Palmeiras
-Jueves 18 de septiembre
-19.00 Liga de Quito - San Pablo
-21.30 Flamengo - Estudiantes LP
+ 19.00 Vélez - Racing
+ Árbitro: Wilton Sampaio (Brasil)
+ Asistente 1: Bruno Pires (Brasil)
+ Asistente 2: Bruno Boschilia (Brasil)
+ Cuarto árbitro: Bruno Arleu (Brasil)
+ VAR: Rodolpho Toski (Brasil)
+ AVAR: Diego Pombo (Brasil)
+ Miércoles 17 de septiembre
+21.30 River Plate – Palmeiras
+ Árbitro: Jesús Valenzuela (Venezuela)
+ Asistente 1: Jorge Urrego (Venezuela)
+ Asistente 2: Tulio Moreno (Venezuela)
+ Cuarto árbitro: Yender Herrera (Venezuela)
+ VAR: Juan Soto (Venezuela)
+ AVAR: Ángel Arteaga (Venezuela)
+ Jueves 18 de septiembre
+ 19.00 Liga de Quito - San Pablo
+ Árbitro: Yael Falcón Pérez
+ Asistente 1: Facundo Rodríguez
+ Asistente 2: José Savorani
+ Cuarto árbitro: Nazareno Arasa
+ VAR: Jorge Baliño
+ AVAR: Héctor Paletta
+ 21.30 Flamengo - Estudiantes LP
+ Árbitro: Andrés Rojas (Colombia)
+ Asistente 1: Alexander Guzmán (Colombia)
+ Asistente 2: Jhon León (Colombia)
+ Cuarto árbitro: Jhon Ospina (Colombia)
+ VAR: Nicolás Gallo (Colombia)
+ AVAR: David Rodríguez (Colombia)
 Partidos de vuelta
 Martes 23 de septiembre
 19.00 Racing - Vélez
@@ -873,12 +890,36 @@ CONMEBOL Sudamericana 2025
 Cuartos de Final
 Partidos de ida
 Martes 16 de septiembre
-21.30 Lanús - Fluminense
-Miércoles 17 de septiembre
-19.00 Bolívar - Atlético Mineiro
-21.30 Independiente del Valle - Once Caldas
-Jueves 18 de septiembre
-21.30 Alianza Lima - Universidad de Chile
+ 21.30 Lanús – Fluminense
+ Árbitro: Gustavo Tejera (Uruguay)
+ Asistente 1: Carlos Barreiro (Uruguay)
+ Asistente 2: Agustín Berisso (Uruguay)
+ Cuarto árbitro: José Burgos (Uruguay)
+ VAR: Leodán González (Uruguay)
+ AVAR: Jonathan Fuentes (Uruguay)
+ Miércoles 17 de septiembre
+ 19.00 Bolívar - Atlético Mineiro
+ Árbitro: Kevin Ortega (Perú)
+ Asistente 1: Michael Orue (Perú)
+ Asistente 2: Jesús Sánchez (Perú)
+ Cuarto árbitro: Jordi Espinoza (Perú)
+ VAR: Joel Alarcón (Perú)
+ AVAR: Edwin Ordóñez (Perú)
+ 21.30 Independiente del Valle - Once Caldas
+ Árbitro: Piero Maza (Chile)
+ Asistente 1: Claudio Urrutia (Chile)
+ Asistente 2: José Retamal (Chile)
+ Cuarto árbitro: Francisco Gilabert (Chile)
+ VAR: José Cabero (Chile)
+ AVAR: Alan Sandoval (Chile)
+ Jueves 18 de septiembre
+ 21.30 Alianza Lima - Universidad de Chile
+ Árbitro: Ramón Abatti (Brasil)
+ Asistente 1: Danilo Manis (Brasil)
+ Asistente 2: Rafael Alves (Brasil)
+ Cuarto árbitro: Matheus Candancan (Brasil)
+ VAR: Wagner Reway (Brasil)
+ AVAR: Rodrigo Nunes (Brasil)
 Partidos de vuelta
 Martes 23 de septiembre
 21.30 Fluminense - Lanús
