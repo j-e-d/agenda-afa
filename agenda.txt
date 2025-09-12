@@ -271,23 +271,81 @@ Proyección Sur Finanzas - Torneo Clausura
 FECHA 10
  Martes 16 de septiembre
  15:00 Gimnasia – Rosario Central (Zona B) – Estancia Chica
+ Árbitro: Ignacio Domínguez
+ Árbitro asistente 1: Sergio Benítez
+ Árbitro asistente 2: Tomás Otero
+ Cuarto árbitro: Leandro Díaz
  15:00 Defensa y Justicia – Boca (Zona A) – Campeones del Mundo
+ Árbitro: Rodrigo Maidana
+ Árbitro asistente 1: Lucas Monsalvo
+ Árbitro asistente 2: Bruno Santillán
+ Cuarto árbitro: Sebastián Milessi
  15:00 Newell’s – Estudiantes (Zona A) – Marcelo Bielsa
+ Árbitro: Valentín Ibáñez Mesa
+ Árbitro asistente 1: Mario Vargas
+ Árbitro asistente 2: Matías Chena
  15:00 Ferro – Independiente (Zona B) – Pontevedra
+ Árbitro: Ariadna Palacios
+ Árbitro asistente 1: Rodolfo Rodríguez
+ Árbitro asistente 2: Franco Chávez
+ Cuarto árbitro: Eduardo Coyto
  Miércoles 17 de septiembre
  15:00 Aldosivi – Argentinos (Zona A) – Predio
+ Árbitro: Camila Gette
+ Árbitro asistente 1: Alexis Etchepare
+ Árbitro asistente 2: Fabrizio Osorio
  15:00 Vélez – Atlético Tucumán (Zona B) – Villa Olímpica
+ Árbitro: Micaela Abelardo
+ Árbitro asistente 1: Luciano Cabral
+ Árbitro asistente 2: Sebastián Krojzl
+ Cuarto árbitro: Facundo Carretero
  15:00 Platense – San Martín SJ (Zona B) – Predio
+ Árbitro: Axel Pogge
+ Árbitro asistente 1: Daniel Villarreal
+ Árbitro asistente 2: Ian Ávalos
+ Cuarto árbitro: Matías Ansede
  15:00 Racing – Colón (Zona A) – Tita Mattiussi
+ Árbitro: Valentín Pérsico
+ Árbitro asistente 1: Alejo Milone
+ Árbitro asistente 2: Sofía Curto
+ Cuarto árbitro: Facundo Fuentes
  15:00 Banfield – Unión (Zona A) – Predio
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Ludmila Capelli
+ Cuarto árbitro: Manuel Prieto
  19:00 Central Córdoba – Tigre (Zona A) – Alfredo Terrera
+ Árbitro: Roberta Echeverría
+ Árbitro asistente 1: Alan Colman
+ Árbitro asistente 2: Nahuel Martín
  Jueves 18 de septiembre
  15:00 Independiente Rivadavia Mza- Huracán (Zona A) – Ciudad Deportiva
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Lucas García
+ Árbitro asistente 2: Marcos Pueyo
  15:00 Barracas Central – Belgrano (Zona A) – AEFIP
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Facundo Mendiolar
+ Árbitro asistente 2: Luis Taboada
+ Cuarto árbitro: Ulises López
  15:00 San Lorenzo – Godoy Cruz (Zona B) – Auxiliar
+ Árbitro: Antonella Álvarez
+ Árbitro asistente 1: Roberto Rodríguez
+ Árbitro asistente 2: Enzo Nell
+ Cuarto árbitro: Agustín Panizza
  15:00 Instituto – Lanús (Zona B) – La Agustina
+ Árbitro: Nazareno Galeano
+ Árbitro asistente 1: Christian Rodríguez
+ Árbitro asistente 2: Alexis Escobar
  19:00 Talleres – Sarmiento (Zona B) – La Boutique
+ Árbitro: Pablo Gómez
+ Árbitro asistente 1: Ezequiel Rabasa
+ Árbitro asistente 2: Patricio Acuña
  19:00 River – Dep. Riestra (Zona B) – River Camp
+ Árbitro: Leandro Fedele
+ Árbitro asistente 1: Diego Ortíz
+ Árbitro asistente 2: Nicolás Rovira
+ Cuarto árbitro: Lautaro Díaz
 FECHA 11
  Martes 23 de septiembre
  14:00 Tigre – Defensa y Justicia (Zona A) – Predio
@@ -883,6 +941,12 @@ Todos los clasificados al Mundial 2026
  Colombia
 Túnez
 Marruecos
+El Repechaje se jugará en las ciudades de Monterrey y Guadalajara, México, del 23 al 31 de marzo de 2026. Habrá seis selecciones que se disputarán dos cupos para el Mundial:
+ Una de la Confederación Asiática (AFC)
+ Una de la Confederación Africana (CAF)
+ Una de Sudamérica (Conmebol): Bolivia
+ Una de la Confederación de Oceanía (OFC): Nueva Caledonia
+ Dos de la Concacaf
 Finalissima 2025
 La Selección Argentina, campeona de la Copa América 2024, y la Selección de España, campeona de la Eurocopa 2024, disputarán el próximo año la Finalissima en un partido único con fecha y sede a confirmar. 
 Selección Mayor Femenina
