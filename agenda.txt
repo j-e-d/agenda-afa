@@ -306,13 +306,6 @@ FECHA 13
  19:00 Atlético Tucumán – San Lorenzo (Zona B) – José Fierro
 Supercopa Argentina 
 Primera Nacional
-Fecha 31
-Lunes 15 de septiembre
- 15.30 Agropecuario - Gimnasia (Mendoza) (TV)
- Árbitro: Daniel Zamora
- Asistente 1: Agustín Méndez
- Asistente 2: Matías Coria
- Cuarto árbitro: Agustín Panizza
 Primera B
 Fecha 13
  Lunes 15 de septiembre
@@ -334,42 +327,6 @@ Fecha 13
  Libre: Real Pilar
 Primera C
 Fecha 26
- Lunes 15 de septiembre
- 15.00 Deportivo Paraguayo - General Lamadrid
- Árbitro: Valentín Bocaccia
- Asistente 1: Federico Machuca
- Asistente 2: Mariela Martino
- Cuarto árbitro: Iván Castelu Coca
- 15.00 Estrella del Sur - Recreativo Español, en Brown de Adrogué
- Árbitro: Tomás Aybar
- Asistente 1: Lucas Monsalvo
- Asistente 2: Sebastián Valdéz
- Cuarto árbitro: Antonella Álvarez
- 15.00 Sportivo Barracas - Juventud Unida, en Almagro
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Facundo Maldonado
- Asistente 2: Andrés Belén
- Cuarto árbitro: Manuel Prieto
- 15.00 Central Ballester - Yupanqui, en Puerto Nuevo
- Árbitro: Ignacio Cuicchi
- Asistente 1: Christian Rodríguez
- Asistente 2: Tomás Otero
- Cuarto árbitro: Eduardo Coyto
- 15.00 Victoriano Arenas - Camioneros
- Árbitro: Martín Despósito
- Asistente 1: Felipe Arrechea
- Asistente 2: Gonzalo Cubillas
- Cuarto árbitro: Fabricio De La Cruz
- 15.00 Cañuelas - Argentino de Rosario
- Árbitro: Iván Mastroieni
- Asistente 1: Leandro Carril
- Asistente 2: Alejo Milone
- Cuarto árbitro: Gabriela Coronel
- 15.00 Atlas - Luján
- Árbitro: Leandro Fedele
- Asistente 1: Alan Colman
- Asistente 2: Ariel Ibáñez
- Cuarto árbitro: Ignacio Domínguez
  Martes 16 de septiembre
  15.00 Berazategui - Muñiz
  Árbitro: Manuel Girett
@@ -472,12 +429,8 @@ Lunes 15 de septiembre
  Cuarto árbitro: Nicolás Darío Moreno
 Copa País
 Segundo Torneo de Primera División A 2025 - Fútbol Femenino
-Fecha 6
-Zona B 
-Lunes 15-09
-11.00 Rosario Central - Talleres, en Predio Cristalería
-Fecha 7 
- Zona "A"
+Zona "A"
+Fecha 7
 Libre: SAT
 Miércoles 17 de septiembre
  11.00 Ferro - Boca en Sintético Caballito
@@ -485,18 +438,24 @@ Miércoles 17 de septiembre
 Jueves 18 de septiembre
  15.00 Newell's - Platense en Predio Bella Vista
  19.00 Belgrano - Huracán, en Estadio Alberdi
+Fecha 8
+Lunes 22 de septiembre
+14.00 Independiente - Belgrano, en Predio Santo Domingo
+ 15.00 Boca - S.A.T., en Casa Amarilla 
+(TV)
+Martes 23 de septiembre
+11.00 Platense - San Luis, en Predio Mariani Dolan
+ 15.00 Huracán - Ferro, en La Quemita
 Zona "B"
- Talleres (Cba.) - San Lorenzo De A.
- River Plate - Racing Club
- G. Y Esgrima L.P. - Banfield
- Vélez Sarsfield - Rosario Ctral.
-Fecha 8 
- Zona "A"
-Newell's - Libre
- Platense - San Luis
- Independiente - Belgrano (Cba.)
- Huracán - Ferro Carril Oeste
- Boca Jrs. - S.A.T.
+Fecha 7
+Sábado 20 de septiembre
+11.00 River - Racing, en River Campo 
+(TV)
+ 17.00 Vélez - Rosario Central, en Villa Olímpica Cancha 1
+Domingo 21 de septiembre
+15.30 GELP - Banfield, en Estancia Chica
+Lunes 22 de septiembre
+19.15 Talleres - San Lorenzo, en Estadio La Boutique
 Fecha 9 
 Zona "A"
 Libre - Boca Jrs.
