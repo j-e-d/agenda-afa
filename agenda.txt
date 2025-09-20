@@ -10,28 +10,6 @@ Postergado
  VAR: Héctor Paletta
  AVAR: Lucas Comesaña
 Fecha 9
-Viernes 19 de septiembre
-19.00 Huracán – Racing (Zona A)
- Árbitro: Nicolás Lamolina
- Asistente 1: Juan Mamani
- Asistente 2: Diego Bonfá
- Cuarto árbitro: Marcos Recalde
- VAR: Álvaro Carranza
- AVAR: Iván Núñez
-19.15 San Martín SJ – Vélez (Zona B)
- Árbitro: Andrés Gariano
- Asistente 1: Marcos Horticolou
- Asistente 2: Juan Viglietti
- Cuarto árbitro: César Ceballo
- VAR: Fernando Espinoza
- AVAR: Nahuel Viñas
-21.15 Lanús – Platense (Zona B)
- Árbitro: Pablo Dóvalo
- Asistente 1: Maximiliano Del Yesso
- Asistente 2: Erick Grunman
- Cuarto árbitro: Mariano Negrete
- VAR: Fabrizio Llobet
- AVAR: Julio Fernández
 Sábado 20 de septiembre
 14.30 Barracas Central – Sarmiento (interzonal)
  Árbitro: Nicolás Ramírez
@@ -547,17 +525,6 @@ Zona “B”
 Primera B
 14ª. fecha
 :
-Viernes 19-09
- Villa Dálmine c. Fénix, a las 15.30 horas
- Árbitro: Gastón Iglesias
- Asistente 1: Yamil Galván
- Asistente 2: Diego Rodríguez Lazarte
- Cuarto árbitro: Valentín Bocaccia
- Arg. de Quilmes c. Dep. Laferrere, a las 20.00 horas
- Árbitro: Jesús Girett
- Asistente 1: Damián Oliveto
- Asistente 2: Matías Noli
- Cuarto árbitro: David Cornejo
  Sábado 20-09
  Brown (Adrogué) c. Comunicaciones, a las 15.00 horas
  Árbitro: Ariel Cruz
@@ -616,13 +583,6 @@ Domingo 21-09Puerto Nuevo c. Ctral. Ballester, a las 15.00 horas en El Porvenir
  Asistente 2: Diego Fernández
  Cuarto árbitro: Martín Despósito
 Promocional Amateur
-Fecha 5
-Jueves 18 de septiembre
-15.00 Dep. Metalúrgico c. Barrancas F.C. (TV)
- Árbitro: Elías Vignone
- Asistente 1: Bruno Castillo
- Asistente 2: Sofía Curto
- Cuarto árbitro: Leandro Díaz
 9ª. fecha:
  Zona “A”
  Domingo 21-09
@@ -730,9 +690,6 @@ Segundo Torneo de Primera División A 2025 - Fútbol Femenino
 Zona "A"
 Fecha 7
 Libre: SAT
-Jueves 18 de septiembre
- 15.00 Newell's - Platense en Predio Bella Vista
- 19.00 Belgrano - Huracán, en Estadio Alberdi
 Fecha 8
 Lunes 22 de septiembre
 14.00 Independiente - Belgrano, en Predio Santo Domingo
