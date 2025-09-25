@@ -120,44 +120,46 @@ Martes 30 de septiembre
  Cuarto árbitro: Nelson Sosa
  VAR: Facundo Tello
  AVAR: Juan Del Fueyo
-Fecha 11 (05/10/2025)
- Zona A
- Estudiantes – Barracas Central
- Boca – Newell’s
- Tigre – Defensa y Justicia
- Argentinos – Central Córdoba
- Unión – Aldosivi
- Huracán – Banfield
- Racing – Independiente Rivadavia
- Zona B
- Sarmiento – Gimnasia
- Rosario Central – River
- Deportivo Riestra – Vélez
- Atlético Tucumán – Platense
- San Martín (SJ) – Instituto
- Lanús – San Lorenzo
- Godoy Cruz – Independiente
- Interzonal
- Talleres – Belgrano
-Fecha 12 (12/10/2025)
- Zona A
- Banfield – Racing
- Aldosivi – Huracán
- Central Córdoba – Unión
- Defensa y Justicia – Argentinos
- Newell’s – Tigre
- Barracas Central – Boca
- Belgrano – Estudiantes
- Zona B
- Independiente – Lanús
- San Lorenzo – San Martín (SJ)
- Instituto – Atlético Tucumán
- Platense – Deportivo Riestra
- Vélez – Rosario Central
- River – Sarmiento
- Gimnasia – Talleres
- Interzonal
- Independiente Rivadavia – Godoy Cruz
+Fecha 11
+Viernes 3 de octubre
+ 19.00 Tigre – Defensa y Justicia (Zona A)
+ 21.15 Unión – Aldosivi (Zona A)
+ 21.15 Argentinos – Central Córdoba (Zona A)
+Sábado 4 de octubre
+ 14.30 Sarmiento – Gimnasia (Zona B)
+ 16.45 San Martín (SJ) – Instituto (Zona B)
+ 19.00 Atlético Tucumán – Platense (Zona B)
+ 19.00 Huracán – Banfield (Zona A)
+ 21.15 Lanús – San Lorenzo (Zona B)
+Domingo 5 de octubre
+ 14.30 Godoy Cruz – Independiente (Zona B)
+ 16.30 Estudiantes – Barracas Central (Zona A)
+ 16.45 Talleres – Belgrano (Interzonal)
+ 19.00 Boca – Newell’s (Zona A)
+ 21.15 Rosario Central – River (Zona B)
+Lunes 6 de octubre
+ 19.00 Deportivo Riestra – Vélez (Zona B)
+ 21.00 Racing – Ind. Rivadavia Mza. (Zona A)
+Fecha 12
+Viernes 10 de octubre
+ 14.30 San Lorenzo – San Martín (SJ) (Zona B)
+ 16.15 Defensa y Justicia – Argentinos (Zona A)
+ 16.45 Central Córdoba – Unión (Zona A)
+ 18.30 Newell’s – Tigre (Zona A)
+Sábado 11 de octubre
+ 14.30 Barracas Central – Boca (Zona A)
+ 16.45 Gimnasia – Talleres (Zona B)
+ 19.00 Banfield – Racing (Zona A)
+ 21.15 Belgrano – Estudiantes (Zona A)
+ 21.15 Vélez – Rosario Central (Zona A)
+Domingo 12 de octubre
+ 14.30 Aldosivi – Huracán (Zona A)
+ 16.45 Ind. Rivadavia Mza. – Godoy Cruz (Interzonal)
+ 16.45 Instituto – Atlético Tucumán (Zona B)
+ 19.15 River – Sarmiento (Zona B)
+ 21.15 Independiente – Lanús (Zona B)
+Lunes 13 de octubre
+ 18.30 Platense – Deportivo Riestra (Zona B)
 Fecha 13 (19/10/2025)
  Zona A
  Boca – Belgrano
