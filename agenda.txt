@@ -692,17 +692,7 @@ Copa País
  Asistente 1: Alejandro Tawel Barrientos
  Asistente 2: Mauro Agustín De Stefano
 Segundo Torneo de Primera División A 2025 - Fútbol Femenino
-Zona "A"
-Fecha 7
-Libre: SAT
-Fecha 8
-Lunes 22 de septiembre
-14.00 Independiente - Belgrano, en Predio Santo Domingo
- 15.00 Boca - S.A.T., en Casa Amarilla 
-(TV)
-Martes 23 de septiembre
-11.00 Platense - San Luis, en Predio Mariani Dolan
- 15.00 Huracán - Ferro, en La Quemita
+Zona “A”
 Fecha 9
 Sábado 27-09
 11.00 S.A.T. - Huracán, en Estadio
@@ -713,20 +703,11 @@ Lunes 29-09
 Martes 30-09
 15.00 Ferro - Independiente, en Sintético Caballito 
 (TV)
-Zona "B"
-Fecha 7
-Lunes 22 de septiembre
-19.15 Talleres - San Lorenzo, en Estadio La Boutique
-Martes 23 de septiembre
-11.00 River - Racing, en River Campo 
-(TV)
-Fecha 9 
-Zona "A"
-Libre - Boca Jrs.
- S.A.T. - Huracán
- Ferro Carril Oeste - Independiente
- Belgrano (Cba.) - Platense
- San Luis - Newell's
+Zona “B”
+Desempate 2do. puesto
+Domingo 28-09
+Banfield c. San Lorenzo de A., a las 14.00 hs., en UAI – Urquiza principal
+En caso de igualdad al cabo de los 90 minutos reglamentarios, en el partido señalado precedentemente, la definición se operará conforme a las disposiciones del art. 111 punto I apartado 1 inciso c) “Ejecución de tiros desde el punto penal” R.G.
 Torneo Femenino de Primera B
 Copa Federal Femenina
 CONMEBOL Libertadores 2025
