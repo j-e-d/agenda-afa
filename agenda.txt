@@ -10,28 +10,6 @@ Postergado
  VAR: Héctor Paletta
  AVAR: Lucas Comesaña
 Fecha 10
-Sábado 27 de septiembre
- 16.45 San Lorenzo – Godoy Cruz (Zona B)
- Árbitro: Nicolás Lamolina
- Asistente 1: Diego Bonfa
- Asistente 2: Mariana De Almeida
- Cuarto árbitro: Felipe Viola
- VAR: Luis Lobo Medina
- AVAR: Mauro Ramos Errasti
- 19.00 Defensa y Justicia – Boca (Zona A)
- Árbitro: Jorge Baliño
- Asistente 1: Maximiliano Del Yesso
- Asistente 2: Hugo Páez
- Cuarto árbitro: Jorge Broggi
- VAR: Salomé Di Iorio
- AVAR: Lucas Comesaña
- 21.15 Talleres – Sarmiento (Zona B)
- Árbitro: Pablo Dóvalo
- Asistente 1: Juan Pablo Belatti
- Asistente 2: Damián Espinoza
- Cuarto árbitro: Enzo Silvestre
- VAR: Ariel Penel
- AVAR: Nicolás Mastroieni
 Domingo 28 de septiembre
  15.15 Racing – Independiente (interzonal)
  Árbitro: Nicolás Ramírez
@@ -246,12 +224,6 @@ Supercopa Argentina
 Primera Nacional
 33ª. fecha:
 Zona “A”
-Sábado 27-09
- Tristán Suarez – Racing (Cba.), a las 19.00 horas
- Árbitro: Diego Ceballos
- Asistente 1: Ramón Ortiz
- Asistente 2: Javier Mihura
- Cuarto árbitro: Iñaki Iparraguirre
 Domingo 28-09
  Alvarado (M.D.P.) – All Boys, a las 15.30 horas en estadio José M. Minella
  Árbitro: Bryan Ferreyra
@@ -290,25 +262,6 @@ Domingo 28-09
  Asistente 2: Martín Grasso
  Cuarto árbitro: Francisco Acosta
 Zona “B”
-Sábado 27-09
- Def. de Belgrano – Ctral. Norte (Salta), a las 16.30 horas 
-(TV)
- Árbitro: Juan Pafundi
- Asistente 1: Mariano Rosetti
- Asistente 2: Mariano Ascenzi
- Cuarto árbitro: Jonathan Barrios
- Estudiantes – Colón, a las 17.30 horas 
-(TV)
- Árbitro: Julio Barraza
- Asistente 1: Lucas Germanotta
- Asistente 2: Andrés Barbieri
- Cuarto árbitro: Gastón Iglesias
- Dep. Morón – Mitre (S.E.), a las 21.00 horas 
-(TV)
- Árbitro: Sebastián Martínez
- Asistente 1: Erik Grunman
- Asistente 2: Lucas Pardo
- Cuarto árbitro: Ariel Cruz
 Domingo 28-09
  Chacarita Juniors – G. y Esgrima (Mza.), a las 15.15 horas 
 (TV)
@@ -453,11 +406,6 @@ Torneo Federal A Edición 2025
  Asistente 2: Cristian Herrera
  Cuarto árbitro: Lautaro Castañola
 Copa País
-27 de septiembre
-17.00 Selección Cañada de Gómez - Selección El Dorado
- Árbitro: Agustín Vegetti
- Asistente 1: Carlos Céspedes
- Asistente 2: Lucas Spaccesi
 10 de octubre
 15.00 Selección Neuquén - Selección Tandil
  Árbitro: Danilo Ariel Viola
@@ -474,8 +422,6 @@ Copa País
 Segundo Torneo de Primera División A 2025 - Fútbol Femenino
 Zona “A”
 Fecha 9
-Domingo 28-09
-Belgrano - Platense, en Predio Villa Esquiú
 Lunes 29-09
 16.00 San Luis - NOB, en Villa Deportiva San Luis
 Martes 30-09
