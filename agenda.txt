@@ -154,23 +154,83 @@ Proyección Sur Finanzas - Torneo Clausura
 FECHA 12
  Martes 30 de septiembre
  15:00 Banfield – Racing (Zona A) – Predio
+ Árbitro: Elías Viglione
+ Árbitro asistente 1: Mauro Soria
+ Árbitro asistente 2: Daniela Sanda
+ Cuarto árbitro: Axel Pogge
  15:00 Gimnasia – Talleres (Zona B) – Estancia Chica
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Nahuel Martin
+ Árbitro asistente 2: Luis Taboada
+ Cuarto árbitro: Lautaro Díaz
  15:00 Vélez – Rosario Central (Zona B) – Villa Olímpica
+ Árbitro: Franco Porotelli
+ Árbitro asistente 1: Federico Lapalma
+ Árbitro asistente 2: Nicolás Rovira
+ Cuarto árbitro: Roberta Echeverría
  15:00 Defensa y Justicia – Argentinos (Zona A) – Campeones del Mundo
+ Árbitro: Leandro Fedele
+ Árbitro asistente 1: Joaquín Fraga
+ Árbitro asistente 2: Agustina Baleman
+ Cuarto árbitro: Antonela Álvarez
  Miércoles 1 de octubre
  15:00 Aldosivi – Huracán (Zona A) – Predio
+ Árbitro: Maurto Trinidad
+ Árbitro asistente 1: Alejo Milone
+ Árbitro asistente 2: Guillermo Medina
  15:00 Platense – Dep. Riestra (Zona B) – Predio
+ Árbitro: Micaela Abelardo
+ Árbitro asistente 1: Roberto Rodríguez
+ Árbitro asistente 2: Franco Chávez
+ Cuarto árbitro: Rodrigo Maidana
  15:00 Newell’s – Tigre (Zona A) – Jorge Griffa
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Matías Vargas
+ Árbitro asistente 2: Luis Escobar
  15:00 Indepte. Rivadavia Mza. – Colón (Zona A) – Ciudad Deportiva
+ Árbitro: Nazareno Galeano
+ Árbitro asistente 1: Nicolás Cavagnaro
+ Árbitro asistente 2: Alexis Ramírez
  15:00 Ferro – Godoy Cruz (Zona B) – Pontevedra
+ Árbitro: Pablo Gómez
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Ian Ávalos
+ Cuarto árbitro: Leandro Díaz
  19:00 River – Sarmiento (Zona B) – River Camp
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Luciano Cabral
+ Árbitro asistente 2: Sergio Benítez
+ Cuarto árbitro: Gabriela Coronel
  19:00 Belgrano – Estudiantes (Zona A) – Julio César Villagra
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Matías Panozzo
+ Árbitro asistente 2: Freddy Quelca Guarachi
+ Cuarto árbitro: Valentín Pérsico
  Jueves 2 de octubre
  15:00 Independiente – Lanús (Zona B) – Villa Domínico
+ Árbitro: Facundo Carretero
+ Árbitro asistente 1: Diego Ortiz
+ Árbitro asistente 2: Bruno Santillán
+ Cuarto árbitro: Manuel Prieto
  15:00 San Lorenzo – San Martín SJ (Zona B) – Auxiliar
+ Árbitro: Sebastian Milessi
+ Árbitro asistente 1: Bruno Castillo
+ Árbitro asistente 2: Sofía Curto
+ Cuarto árbitro: Ariadna Palacios
  15:00 Barracas Central – Boca (Zona A) – AEFIP
+ Árbitro: Facundo Fuentes
+ Árbitro asistente 1: Federico Machuca
+ Árbitro asistente 2: Enzo Nell
+ Cuarto árbitro: Camila Gette
  15:00 Instituto – Atlético Tucumán (Zona B) – La Agustina
+ Árbitro: Valentín Pérsico
+ Árbitro asistente 1: Sebastian Valdez
+ Árbitro asistente 2: Matías Chena
+ Cuarto árbitro: Nicolás Díaz
  19:00 Central Córdoba – Unión (Zona A) – Alfredo Terrera
+ Árbitro: Valentín Ibañez Mesa
+ Árbitro asistente 1: Damián Alcaraz
+ Árbitro asistente 2: Sebastián Krojzl
 FECHA 13
  Martes 7 de octubre
  15:00 Rosario Central – Platense (Zona B) – Arroyo Seco
@@ -535,8 +595,15 @@ Copa Mundial Sub 20 Femenina 2026
 Polonia será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 4; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5; país anfitrión: 1
 Copa Mundial Sub 17 Masculina 2025
-Se disputará del 5 al 27 de noviembre de 2025 en Qatar. Los grupos quedaron conformados de la siguiente manera:
- Grupo A
+Se disputará del 5 al 27 de noviembre de 2025 en Qatar. 
+Lunes 3 de noviembre
+11.45 Argentina - Bélgica
+Jueves 6 de noviembre
+10.30 Argentina - Túnez
+Domingo 9 de noviembre
+9.30 Fiji - Argentina
+Los grupos quedaron conformados de la siguiente manera:
+Grupo A
  Qatar
  Italia
  Sudáfrica
