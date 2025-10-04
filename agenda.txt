@@ -10,29 +10,7 @@ Postergado
  VAR: Héctor Paletta
  AVAR: Lucas Comesaña 
 Fecha 11
-Viernes 3 de octubre
- 19.00 Tigre – Defensa y Justicia (Zona A)
- Árbitro: Ariel Penel
- Asistente 1: Ariel Scime
- Asistente 2: Daiana Milone
- Cuarto árbitro: Wenceslao Meneses
- VAR: Fernando Echeñique
- AVAR: Sebastián Habib
- 21.15 Unión – Aldosivi (Zona A)
- Árbitro: Andrés Merlos
- Asistente 1: Andrés Barbieri
- Asistente 2: Federico Cano
- Cuarto árbitro: Maximiliano Silcán Jeréz
- VAR: Nicolás Lamolina
- AVAR: José Castelli
- 21.15 Argentinos – Central Córdoba (Zona A)
- Árbitro: Nicolás Ramírez
- Asistente 1: Diego Bonfá
- Asistente 2: Maximiliano Castelli
- Cuarto árbitro: Cristian Cernadas
- VAR: Fabrizio Llobet
- AVAR: Gastón Brizuela Monsón
- Sábado 4 de octubre
+Sábado 4 de octubre
  14.30 Sarmiento – Gimnasia (Zona B)
  Árbitro: Pablo Echavarría
  Asistente 1: Marcelo Bistocco
@@ -217,32 +195,6 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
-FECHA 12
- Jueves 2 de octubre
- 15:00 Independiente – Lanús (Zona B) – Villa Domínico
- Árbitro: Facundo Carretero
- Árbitro asistente 1: Diego Ortiz
- Árbitro asistente 2: Bruno Santillán
- Cuarto árbitro: Manuel Prieto
- 15:00 San Lorenzo – San Martín SJ (Zona B) – Auxiliar
- Árbitro: Sebastian Milessi
- Árbitro asistente 1: Bruno Castillo
- Árbitro asistente 2: Sofía Curto
- Cuarto árbitro: Ariadna Palacios
- 15:00 Barracas Central – Boca (Zona A) – AEFIP
- Árbitro: Facundo Fuentes
- Árbitro asistente 1: Federico Machuca
- Árbitro asistente 2: Enzo Nell
- Cuarto árbitro: Camila Gette
- 15:00 Instituto – Atlético Tucumán (Zona B) – La Agustina
- Árbitro: Valentín Pérsico
- Árbitro asistente 1: Sebastian Valdez
- Árbitro asistente 2: Matías Chena
- Cuarto árbitro: Nicolás Díaz
- 19:00 Central Córdoba – Unión (Zona A) – Alfredo Terrera
- Árbitro: Valentín Ibañez Mesa
- Árbitro asistente 1: Damián Alcaraz
- Árbitro asistente 2: Sebastián Krojzl
 FECHA 13
  Martes 7 de octubre
  15:00 Rosario Central – Platense (Zona B) – Arroyo Seco
@@ -403,12 +355,6 @@ Agropecuario Arg. - San Telmo, a las 15.30 horas
  Cuarto árbitro: Luis Martínez
 Primera B
 Fecha 16:
-Viernes 3 de octubre
-Arg. de Merlo - Fénix, a las 20.00 horas
- Árbitro: Julián Jeréz
- Asistente 1: Gustavo Benítez Soilán
- Asistente 2: Julieta Fernández
- Cuarto árbitro: Lucas Brumer
 Sábado 4 de octubre
 Brown (Adrogué) -Dep. Laferrere, a las 15.00 horas
  Árbitro: Ignacio Cuicchi
@@ -460,12 +406,6 @@ F.C. Midland -Dep. Armenio, a las 21.10 horas (TV)
 Primera C
 Torneo “Reducido” 2do. Ascenso – 1ra. Fase – 2° Partidos
 Torneo “Reducido” 2do. Ascenso – 1ra. Fase – 2° Partidos
-Viernes 3 de octubre
-Luján - El Porvenir, a las 15.30 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Matías Panozzo
- Asistente 2: Federico Machuca
- Cuarto árbitro: Facundo Fuentes
 Sábado 4 de octubre
 Ctral. Córdoba (Ros.) - Juv. Unida, a las 15.30 horas
  Árbitro: Ulises López
@@ -496,12 +436,6 @@ Estrella del Sur - Dep. Español, a las 15.00 horas en Brown (Adrogué)
  Cuarto árbitro: Ignacio Domínguez
 Si al término de los segundos noventa minutos, la cantidad de puntos y la diferencia de goles resultaran igualadas, la definición se operará mediante la ejecución de tiros desde el punto penal conforme a las disposiciones del Art.111 punto c) del R.G.
 Torneo “Reducido” 4° Cupo Copa Arg. – 1ra. Fase – 2° Partidos
-Viernes 3 de octubre
-Mercedes - Dep. Paraguayo, a las 18.30 horas
- Árbitro: Agustín Panizza
- Asistente 1: Bruno Castillo
- Asistente 2: Nahuel Martín
- Cuarto árbitro: Fabrizio De La Cruz
 Sábado 4 de octubre
 Muñiz - Yupanqui, a las 15.30 horas en Juv. Unida
  Árbitro: Leandro Fedele
@@ -563,14 +497,7 @@ Copa País
  Árbitro: Enzo Damián Gutierrez
  Asistente 1: Alejandro Tawel Barrientos
  Asistente 2: Mauro Agustín De Stefano
-Segundo Torneo de Primera División A 2025 - Fútbol Femenino
-Zona “A”
-Fecha 9
-Martes 30-09
-Ferro 
-3
- - Independiente 
-1
+Segundo Torneo de Primera División A 2025 - Fútbol Femenino 
 Torneo Femenino de Primera B
 Copa Federal Femenina
 Domingo 5 de octubre
