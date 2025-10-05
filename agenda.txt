@@ -10,14 +10,6 @@ Postergado
  VAR: Héctor Paletta
  AVAR: Lucas Comesaña 
 Fecha 11
-Sábado 4 de octubre
- 21.15 Lanús – San Lorenzo (Zona B)
- Árbitro: Leandro Rey Hilfer
- Asistente 1: Juan Pablo Belatti
- Asistente 2: Agustín Méndez
- Cuarto árbitro: Sebastián Bresba
- VAR: Héctor Paletta
- AVAR: Lucas Comesaña
  Domingo 5 de octubre
  14.30 Godoy Cruz – Independiente (Zona B)
  Árbitro: Andrés Gariano
@@ -557,11 +549,7 @@ Grupo A:
  Independiente del Valle
  Always Ready
  Santa Fe
- Corinthians 1 - Independiente del Valle 1
- Estadio Florencio Sola
-Always Ready 0 - Santa Fe 7
- Estadio Florencio Sola
- 5 de octubre de 2025 / 4 p. m.
+5 de octubre de 2025 / 4 p. m.
  Corinthians Vs. Always Ready
  Estadio Nuevo Francisco Urbano
  5 de octubre de 2025 / 8 p. m.
@@ -578,11 +566,7 @@ Grupo B:
  Alianza Lima
  ADIFFEM
  Ferroviária
-Boca Juniors 0 - Alianza Lima 0
- Estadio Nuevo Francisco Urbano
- ADIFFEM 0 - Ferroviária 1
- Estadio Nuevo Francisco Urbano
- 5 de octubre de 2025 - 4 p. m.
+5 de octubre de 2025 - 4 p. m.
  Boca Juniors Vs. ADIFFEM
  Estadio Florencio Sola
  5 de octubre de 2025 / 8 p. m.
@@ -599,12 +583,6 @@ Grupo C:
  San Lorenzo
  Colo-Colo
  Olimpia
- 3 de octubre de 2025 / 4 p. m. 
- Colo-Colo Vs. Olimpia
- Estadio Florencio Sola 
- 3 de octubre de 2025 / 8 p. m.
- São Paulo Vs. San Lorenzo
- Estadio Florencio Sola
  6 de octubre de 2025 / 4 p. m.
  San Lorenzo Vs. vs. Olimpia
  Estadio Nuevo Francisco Urbano
@@ -622,12 +600,6 @@ Grupo D:
  Libertad
  Nacional (Montevideo)
  Universidad de Chile
- 3 de octubre de 2025 / 4 p. m.
- Deportivo Cali Vs. Libertad
- Estadio Nuevo Francisco Urbano
- 3 de octubre de 2025 / 8 p. m.
- Nacional de Uruguay Vs. Universidad de Chile
- Estadio Nuevo Francisco Urbano
  6 de octubre de 2025 / 4 p. m.
  Deportivo Cali Vs. Nacional de Uruguay
  Estadio Florencio Sola
@@ -718,11 +690,6 @@ Se jugará del 24 al 31 de mayo de 2026.
 CONMEBOL Copa Libertadores Futsal Femenina 2026
 Se jugará del 26 de julio al 2 de agosto de 2026.
 Copa Mundial Sub 20 Masculina 2025
-Sábado 4 de octubre
- 20:00 Argentina - Italia
-Árbitro: Keylor Herrera (Costa Rica)
- Asistente 1: William Chow (Cosa Rica)
- Asistente 2: Víctor Ramírez (Costa Rica)
 Copa Mundial Sub 20 Femenina 2026
 Polonia será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 4; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5; país anfitrión: 1
