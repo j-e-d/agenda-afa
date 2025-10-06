@@ -123,26 +123,82 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
-FECHA 13
+Fecha 13
  Martes 7 de octubre
  15:00 Rosario Central – Platense (Zona B) – Arroyo Seco
+ Árbitro: Leandro Fedele
+ Árbitro asistente 1: Nahuel Valdeon
+ Árbitro asistente 2: Ludmila Capelli
  15:00 Unión – Defensa y Justicia (Zona A) – La Tatenguita
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Mario Vargas
+ Árbitro asistente 2: Alexis Ramírez
  15:00 Gimnasia – Ferro (Zona B) – Estancia Chica
+ Árbitro: Rodrigo Maidana
+ Árbitro asistente 1: Franco Boetti
+ Árbitro asistente 2: Mariela Martino
+ Cuarto árbitro: Camila Gette
  15:00 Racing – Aldosivi (Zona A) – Tita Mattiussi
+ Árbitro: Roberta Echavarría
+ Árbitro asistente 1: Tomas Otero
+ Árbitro asistente 2: Sebastian Krojzl
+ Cuarto árbitro: Valentín Mesa Ibáñez
  19:00 Talleres – River (Zona B) – La Boutique
+ Árbitro: Ulises López
+ Árbitro asistente 1: Ignacio Otegui
+ Árbitro asistente 2: Tomás Perez
  Miércoles 8 de octubre
  15:00 Colón – Estudiantes (Zona A) – Predio
+ Árbitro: Sebastián Milessi
+ Árbitro asistente 1: Ariel Ibañez
+ Árbitro asistente 2: Enzo Nell
  15:00 Sarmiento – Vélez (Zona B) – CAR
+ Árbitro: Elías Viglione
+ Árbitro asistente 1: Alan Colman
+ Árbitro asistente 2: Sofía Curto
  15:00 Tigre – Barracas Central (Zona A) – Predio
+ Árbitro: Micaela Abelardo
+ Árbitro asistente 1: Juan Alexis Etchepare
+ Árbitro asistente 2: Marcos Pueyo
+ Cuarto árbitro: Lautaro Díaz
  15:00 Dep. Riestra – Instituto (Zona B) – La Candela
+ Árbitro: Gabriela Coronel
+ Árbitro asistente 1: Nicolás Ruiz Segovia
+ Árbitro asistente 2: Guillermo Medina
+ Cuarto árbitro: Ignacio Dominguez
  15:00 Indepte. Rivadavia Mza. – Banfield (Zona A) – Ciudad Deportiva
+ Árbitro: Agustín Panizza
+ Árbitro asistente 1: Luis Colli
+ Árbitro asistente 2: Patricio Acuña
  19:00 Boca – Belgrano (Zona A) – Boca Ezeiza
+ Árbitro: Facundo Carretero
+ Árbitro asistente 1: Matías Pino
+ Árbitro asistente 2: Rodolfo Rodriguez
+ Cuarto árbitro: Fabricio De La Cruz
  Jueves 9 de octubre
  15:00 Argentinos – Newell’s (Zona A) – CEFFA
+ Árbitro: Franco Porotelli
+ Árbitro asistente 1: Ezequiel Rabasa
+ Árbitro asistente 2: Nicolás Rovira
+ Cuarto árbitro: Pablo Gómez
  15:00 Lanús – Godoy Cruz (Zona B) – Auxiliar
+ Árbitro: Ariadna Palacios
+ Árbitro asistente 1: Facundo Mendiolar
+ Árbitro asistente 2: Freddy Quelca Guarachi
+ Cuarto árbitro: Mauro Trinidad
  15:00 Huracán – Central Córdoba (Zona A) – La Quemita
+ Árbitro: Manuel Prieto
+ Árbitro asistente 1: Christian Rodriguez
+ Árbitro asistente 2: Agustina Baleman
+ Cuarto árbitro: Juan Ferreyra
  15:00 San Martín SJ – Independiente (Zona B) – Predio
+ Árbitro: Facundo Fuentes
+ Árbitro asistente 1: Rodrigo Mansilla
+ Árbitro asistente 2: Rodrigo Díaz
  19:00 Atlético Tucumán – San Lorenzo (Zona B) – José Fierro
+ Árbitro: Matías Ansede
+ Árbitro asistente 1: Daniel Villarreal
+ Árbitro asistente 2: Ian Ávalos
 Fecha 14
  Martes 14 de octubre
  15:00 Platense – Sarmiento (Zona B) – Predio
@@ -163,7 +219,7 @@ Fecha 14
  15:00 Barracas Central – Argentinos (Zona A) – AEFIP
  15:00 Godoy Cruz – San Martín SJ (Zona B) – Coquimbito
  18:30 Central Córdoba – Racing (Zona A) – Estadio Alfredo Terrera
- Fecha 15
+Fecha 15
  Martes 21 de octubre
  15:00 Gimnasia – Vélez (Zona B) – Estancia Chica
  15:00 Tigre – Estudiantes (Zona A) – Predio
