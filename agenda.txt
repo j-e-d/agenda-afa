@@ -28,35 +28,6 @@ Fecha 12
  Cuarto árbitro: Javier Delbarba
  VAR: Silvio Trucco
  AVAR: Lucas Cavallero
-Sábado 11 de octubre
- 16.00 Gimnasia – Talleres (Zona B)
- Árbitro: Sebastian Martinez
- Árbitro asistente 1: Hugo Paez
- Árbitro asistente 2: Mario Bardina
- Cuarto árbitro: Cristian Cernadas
- VAR: Fernando Echenique
- AVAR: Diego Romero
- 18.00 Banfield – Racing (Zona A)
- Árbitro: Nazareno Arasa
- Árbitro asistente 1: Juan Del Fueyo
- Árbitro asistente 2: Belén Bevilacqua
- Cuarto árbitro: Mariano Negrete
- VAR: José Carreras
- AVAR: Diego Verlotta
- 22.15 Belgrano – Estudiantes (Zona A)
- Árbitro: Bryan Ferreyra
- Árbitro asistente 1: Facundo Rodríguez
- Árbitro asistente 2: Diego Martin
- Cuarto árbitro: Maximiliano Silcán Jerez
- VAR: Germán Delfino
- AVAR: Sebastian Habib
- 22.15 Vélez – Rosario Central (Zona B)
- Árbitro: Andrés Merlos
- Árbitro asistente 1: Juan Pablo Belatti
- Árbitro asistente 2: Agustín Méndez
- Cuarto árbitro: Gastón Iglesias
- VAR: Fernando Espinoza
- AVAR: Manuel Sánchez
 Domingo 12 de octubre
  14.30 Aldosivi – Huracán, en Estadio José M. Minella (Zona A)
  Árbitro: Luis Lobo Medina
@@ -224,30 +195,7 @@ Fecha 15
  15:00 Indep. Rivadavia Mza – Central Córdoba (Zona A) – Ciudad Deportiva
 Supercopa Argentina 
 Primera Nacional
-Final por 1er. Ascenso
-Sábado 11 de octubre
- Deportivo Madryn - Gimnasia de Mendoza, a las 17.00
- Árbitro: Nicolás Ramírez 
- Asistente 1: Adrián del Barba
- Asistente 2: Walter Ferreyra 
- Cuarto árbitro: Felipe Viola
- VAR: Héctor Paletta
- AVAR: Gastón Suárez
-En caso de igualdad al cabo de los 90 minutos señalados precedentemente, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme a las disposiciones del Art. 111 punto c) del R.G.
 Torneo “Reducido” 2do. Ascenso – 1ra. Fase
-Sábado 11-10
-Atlanta c. Chaco For Ever, a las 13.00 horas 
-(TV)
- Árbitro: Daniel Zamora
- Asistente 1: Uriel García Leri
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Ignacio Cuicchi
-G. y Tiro (Salta) c. Temperley, a las 20.30 horas 
-(TV)
- Árbitro: Álvaro Carranza
- Asistente 1: Mariano Viale
- Asistente 2: Matías Balmaceda
- Cuarto árbitro: Emanuel Ejarque
 Domingo 12-10
 G. y Esgrima (J.) c. San Miguel, a las 15.00 horas 
 (TV)
@@ -281,27 +229,6 @@ Dep. Morón c. San Martin (T.), a las 21.15 horas
 Primera B
 17ª. fecha
 :
-Sábado 11-10
-San Martin (B.) c. UAI - Urquiza, a las 15.30 horas
- Árbitro: Marcos Recalde
- Asistente 1: Matías Noli
- Asistente 2: Lucas García
- Cuarto árbitro: Lucas Brumer
-Fénix c. Brown (Adrogué), a las 15.30 horas en Juv. Unida
- Árbitro: Gonzalo Creimermann
- Asistente 1: Giuliano Grillo
- Asistente 2: Hugo Carbo
- Cuarto árbitro: Ulises López
-Flandria c. Arg. de Merlo, a las 15.30 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Gonzalo Beloso
- Asistente 2: Ignacio Otegui
- Cuarto árbitro: Micaela Abelardo
-Villa Dálmine c. Arg. de Quilmes, a las 15.30 horas
- Árbitro: Ramiro Maglio
- Asistente 1: Federico Zuvilivia
- Asistente 2: Mara Díaz
- Cuarto árbitro: Eduardo Coyto
 Domingo 12-10
 Dep. Armenio c. Sp. Italiano, a las 15.30 horas
  Árbitro: Juan Cruz Robledo
@@ -351,17 +278,6 @@ Dep. Español c. Ctral. Córdoba (Ros.), a las 15.35 horas
  Asistente 2: Tomás Otero
  Cuarto árbitro: Agustín Flores
 TORNEO “REDUCIDO” 4° CUPO COPA ARG. – 2DA. FASE – 1° PARTIDOS
-Sábado 11-10
-Cañuelas F.C. c. Claypole, a las 15.30 horas
- Árbitro: Manuel Girett
- Asistente 1: Rodrigo Mansilla
- Asistente 2: Nahuel Valdeón
- Cuarto árbitro: Manuel Prieto
-Yupanqui c. Rec. Español, a las 15.30 horas
- Árbitro: Julián Beligoy
- Asistente 1: Diego Fernández
- Asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Agustín Panizza
 Lunes 13-10
 Atlas c. Mercedes, a las 15.30 horas
  Árbitro: Iván Mastroieni
@@ -693,24 +609,47 @@ CONMEBOL Copa Libertadores Futsal Femenina 2026
 Se jugará del 26 de julio al 2 de agosto de 2026.
 Copa Mundial Sub 20 Masculina 2025
 Octavos de final del Mundial Sub 20 2025
- 1 7 de octubre, 20:00 Chile vs. México 1-4
- 2 7 de octubre, 16:30 Ucrania vs. España 0-1
- 3 8 de octubre, 16:30 Argentina vs. Nigeria 4-0
- 4 8 de octubre, 16:30 Colombia vs. Sudáfrica 3-1
- 5 8 de octubre, 20:00 Japón vs. Francia 0-1
- 6 8 de octubre, 20:00 Paraguay vs. Noruega 0-1
- 7 9 de octubre, 16:30 Estados Unidos vs. Italia
- 8 9 de octubre, 20:00 Marruecos vs. Corea del Sur
+ 1 7 de octubre, 20:00 Chile 
+1
+ vs. México 
+4
+ 2 7 de octubre, 16:30 Ucrania 
+0
+ vs. España 
+1
+ 3 8 de octubre, 16:30 Argentina 
+4
+ vs. Nigeria 
+0
+ 4 8 de octubre, 16:30 Colombia 
+3 
+vs. Sudáfrica 
+1
+ 5 8 de octubre, 20:00 Japón 
+0
+ vs. Francia 
+1
+ 6 8 de octubre, 20:00 Paraguay 
+0
+ vs. Noruega 
+1
+ 7 9 de octubre, Estados Unidos 
+3
+ vs. Italia 
+0
+ 8 9 de octubre, 20:00 Marruecos 
+2
+ vs. Corea del Sur 
+1
  Cuartos de final del Mundial Sub 20 2025
- 9 11 de octubre, 17:00 España vs. Colombia
- 10 11 de octubre, 20:00 México vs. Argentina
-Sábado 11 de octubre
-Octavos de final
-20.00 Argentina - México, en el estadio Nacional de Santiago de Chile
- Árbitro: Jalal Jayed (Marruecos)
- Asistente 1: Lahsen Azgaou (Marruecos)
- Asistente 2: Mostafa Akarkad (Marruecos) 
- Cuarto árbitro: Joao Pinheiro (Portugal) 
+ 11 de octubre, España 
+2
+ vs. Colombia 
+3
+ 11 de octubre, México 
+0
+ vs. Argentina 
+2
 11 12 de octubre, 17:00 Ganador 7 vs. Ganador 8
  12 12 de octubre, 20:00 Ganador 6 vs. Ganador 5
  Semifinales del Mundial Sub 20 2025
