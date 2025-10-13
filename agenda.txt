@@ -28,21 +28,6 @@ Fecha 12
  Cuarto árbitro: Javier Delbarba
  VAR: Silvio Trucco
  AVAR: Lucas Cavallero
-Domingo 12 de octubre
- 19.15 River – Sarmiento (Zona B)
- Árbitro: Sebastián Zunino
- Árbitro asistente 1: Diego Bonfa
- Árbitro asistente 2: Mariana De Almeida
- Cuarto árbitro: Lucas Comesaña
- VAR: Leandro Rey Hilfer
- AVAR: Maximiliano Macheroni
- 21.15 Independiente – Lanús (Zona B)
- Árbitro: Fernando Echenique
- Árbitro asistente 1: Sebastian Raineri
- Árbitro asistente 2: Maximiliano Castelli
- Cuarto árbitro: Kevin Alegre
- VAR: Diego Ceballos
- AVAR: Juan Mamani
 Lunes 13 de octubre
  18.30 Platense – Deportivo Riestra (Zona B)
  Árbitro: Jorge Baliño
@@ -174,35 +159,9 @@ Fecha 15
  15:00 Indep. Rivadavia Mza – Central Córdoba (Zona A) – Ciudad Deportiva
 Supercopa Argentina 
 Primera Nacional
-Torneo “Reducido” 2do. Ascenso – 1ra. Fase
-Domingo 12-10
-Tristán Suárez c. Agropecuario Arg., a las 19.00 horas
- Árbitro: Yamil Possi
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Lucas Ripoli
- Cuarto árbitro: Gabriel Flores
-Estudiantes (Rio IV) c. Patronato (Paraná), a las 19.10 horas 
-(TV)
- Árbitro: Nahuel Viñas
- Asistente 1: Gonzalo Ferrari
- Asistente 2: Joaquín Badano
- Cuarto árbitro: Alejandro Scionti
-Dep. Morón c. San Martin (T.), a las 21.15 horas 
-(TV)
- Árbitro: Pablo Giménez
- Asistente 1: Ramón Ortiz
- Asistente 2: Juan Ricciardi
- Cuarto árbitro: Franco Acita
 Primera B
 17ª. fecha
 :
-Domingo 12-10
-Dep. Merlo c. Villa San Carlos, a las 18.00 horas 
-(TV)
- Árbitro: Sebastián Bresba
- Asistente 1: Fernando Rodríguez
- Asistente 2: Matías Piro
- Cuarto árbitro: Nicolás Kresta
 Lunes 13-10
 Sacachispas F.C. c. Real Pilar F.C., a las 15.30 horas
  Árbitro: Wenceslao Meneses
@@ -231,14 +190,6 @@ Atlas c. Mercedes, a las 15.30 horas
  Asistente 2: Ezequiel Rabasa
  Cuarto árbitro: Martín Morenza
 Promocional Amateur
-PROMOCION CON PROMOCIONAL AMATEUR – 1ER. PARTIDO
-Domingo 12-10
-Dep. Metalúrgico c. Puerto Nuevo, a las 11.00 horas en Juv. Unida 
-(TV)
- Árbitro: Valentín Bocaccia
- Asistente 1: Heber Ibáñez Meza
- Asistente 2: Jonathan Florentín
- Cuarto árbitro: Iván Castelu Coca
 Copa Argentina
 CRUCES DE LA COPA ARGENTINA 2025
 Semifinales
@@ -252,17 +203,6 @@ Resultados de cuartos de final
  Argentinos Juniors 1 - Lanús 0
 Racing Club 0 - River Plate 1
 Torneo Federal A Edición 2025
-12 de octubre
-18.00 Nueve de Julio - Germinal
- Árbitro: Guillermo Adrián González
- Asistente 1: Hernán José Vallejos
- Asistente 2: Mariana Beatríz Duré
- Cuarto árbitro: Rodrigo Edgardo López
-19.00 At. Costa Brava - Mitre Posadas
- Árbitro: Fernando Jesús Rekers
- Asistente 1: Carlos Javier Viglietti
- Asistente 2: Marcos David Guzmán
- Cuarto árbitro: Santiago Schmoll
 Copa País
 Segundo Torneo de Primera División A 2025 - Fútbol Femenino 
 Torneo Femenino de Primera B
@@ -432,24 +372,7 @@ Conmebol Sub 20 Femenina
 Se jugará del 4 al 28 de febrero de 2026.
 CONMEBOL Copa Libertadores Femenina 2025
  Se juega del 2 al 18 de octubre de 2025 en Argentina
-Cuartos de final
- 11 de octubre de 2025
- 16.00 
-Corinthians vs Boca Junior
-Estadio Nuevo Francisco Urbano
- 11 de octubre de 2025
- 20.00 
-Ferroviária vs Independiente del Valle
-Estadio Nuevo Francisco Urbano 
- 12 de octubre de 2025
- 16.00 
-Colo-Colo vs Libertad
-Estadio Florencio Sola
- 12 de octubre de 2025
- 20.00 
-Deportivo Cali vs Sao Paulo
-Estadio Florencio Sola
- Semifinales
+Semifinales
  Semifinal 1
  15 de octubre de 2025
  Ganador cuartos de final 1 Vs. Ganador cuartos de final 2
