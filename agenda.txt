@@ -31,25 +31,115 @@ Fecha 12
 Fecha 13
 Viernes 17 de octubre
  19.00 Racing – Aldosivi (Zona A)
- 21.15 Lanús – Godoy Cruz (Zona B)
- 21.15 Argentinos – Newell’s (Zona A)
+ Árbitro: Sebastián Zunino
+ Asistente 1: Juan Mamani
+ Asistente 2: Daiana Milone
+ Cuarto árbitro: Franco Acita
+ VAR: Diego Ceballos
+ AVAR: Mariano Ascensi
+21.15 Lanús – Godoy Cruz (Zona B)
+ Árbitro: Pablo Giménez
+ Asistente 1: Adrián Delbarba
+ Asistente 2: Uriel García Leri
+ Cuarto árbitro: Juan Pafundi
+ VAR: Gastón Monzón Brizuela
+ AVAR: Javier Uziga
+21.15 Argentinos – Newell’s (Zona A)
+ Árbitro: Felipe Viola
+ Asistente 1: Juan Pablo Belatti
+ Asistente 2: Juan Ricciardi
+ Cuarto árbitro: Jorge Broggi
+ VAR: Álvaro Carranza
+ AVAR: Lucas Germanotta
 Sábado 18 de octubre
  15.45 Ind. Rivadavia Mza. – Banfield (Zona A)
- 18.00 Boca – Belgrano (Zona A)
- 22.15 Talleres – River (Zona B)
+ Árbitro: Yael Falcón Pérez
+ Asistente 1: Gabriel Chade
+ Asistente 2: Gisella Bosso
+ Cuarto árbitro: Carlos Córdoba
+ VAR: Fabrizio Llobet
+ AVAR: Eduardo Lucero
+18.00 Boca – Belgrano (Zona A)
+ Árbitro: Pablo Dóvalo
+ Asistente 1: Diego Bonfá
+ Asistente 2: Lucas Pardo
+ Cuarto árbitro: Germán Delfino
+ VAR: Fernando Espinoza
+ AVAR: Nelson Sosa
+22.15 Talleres – River (Zona B)
+ Árbitro: Ariel Penel
+ Asistente 1: Maximiliano Del Yesso
+ Asistente 2: Federico Cano
+ Cuarto árbitro: Julio Barraza
+ VAR: Adrián Franklin
+ AVAR: Juan Del Fueyo
 Domingo 19 de octubre
  15.00 Sarmiento – Vélez (Zona B)
- 15.00 Estudiantes – Gimnasia (interzonal)
- 18.00 Rosario Central – Platense (Zona B)
- 18.00 San Martín (SJ) – Independiente (Zona B)
+ Árbitro: Andrés Gariano
+ Asistente 1: Facundo Rodriguez
+ Asistente 2: Diego Martín
+ Cuarto árbitro: Lucs Cavallero
+ VAR: Juan Pafundi
+ AVAR: Ariel Cruz
+15.00 Estudiantes – Gimnasia (interzonal)
+ Árbitro: Facundo Tello
+ Asistente 1: Pablo González
+ Asistente 2: Pablo Gualtieri
+ Cuarto árbitro: Yamil Possi
+ VAR: Hernán Mastrángelo
+ AVAR: Gastón Suárez
+18.00 Rosario Central – Platense (Zona B)
+ Árbitro: Pablo Echavarría
+ Asistente 1: José Castelli
+ Asistente 2: Hugo Páez
+ Cuarto árbitro: Álvaro Carranza
+ VAR: Lucas Novelli
+ AVAR: Javier Mihura
+18.00 San Martín (SJ) – Independiente (Zona B)
+ Árbitro: Andrés Merlos
+ Asistente 1: Damián Espinoza
+ Asistente 2: Marcos Horticolou
+ Cuarto árbitro: Gastón Monzón Brizuela
+ VAR: José Carreras
+ AVAR: Sebastián Bresba
 Lunes 20 de octubre
  19.00 Tigre – Barracas Central (Zona A)
- 19.00 Deportivo Riestra – Instituto (Zona B)
- 21.15 Atlético Tucumán – San Lorenzo (Zona B)
+ Árbitro: Jorge Baliño
+ Asistente 1: Gerardo Lencina
+ Asistente 2: Walter Ferreyra
+ Cuarto árbitro: Sebastián Bresba
+ VAR: Héctor Paletta
+ AVAR: Diego Verlota
+19.00 Deportivo Riestra – Instituto (Zona B)
+ Árbitro: Leandro Rey Hilfer
+ Asistente 1: Andrés Barbieri
+ Asistente 2: Maximiliano Castelli
+ Cuarto árbitro: Cristian Cernadas
+ VAR: Fernando Echenique
+ AVAR: Sebastián Habib
+21.15 Atlético Tucumán – San Lorenzo (Zona B)
+ Árbitro: Bruno Amiconi
+ Asistente 1: Iván Núñez
+ Asistente 2: Joaquín Balmaceda
+ Cuarto árbitro: Emanuel Ejarque
+ VAR: Sebastián Martínez
+ AVAR: Mariano Negrete
 Martes 21 de octubre
  19.15 Unión – Defensa y Justicia (Zona A)
+ Árbitro: Nazareno Arasa
+ Asistente 1: Julio Fernández
+ Asistente 2: Matías Bianchi
+ Cuarto árbitro: Joaquín Gil
+ VAR: Daniel Zamora
+ AVAR: Diego Romero
 Miércoles 22 de octubre
  19.30 Huracán – Central Córdoba (Zona A)
+ Árbitro: Nicolás Lamolina
+ Asistente 1: Ariel Scime
+ Asistente 2: Mauro Ramos Errasti
+ Cuarto árbitro: Daniel Zamora
+ VAR: Lucas Cavallero
+ AVAR: Nahuel Viñas
 Fecha 14 (02/11/2025)
  Zona A
  Aldosivi – Independiente Rivadavia
@@ -209,6 +299,29 @@ Fecha 15
  15:00 Indep. Rivadavia Mza – Central Córdoba (Zona A) – Ciudad Deportiva
 Supercopa Argentina 
 Primera Nacional
+Reducido Ida
+Sábado 18 de octubre
+ 22.00 Gimnasia y Tiro (S) - Estudiantes Rio IV
+ Árbitro: Bryan Ferreyra
+ Asistente 1: Marcelo Bistocco
+ Asistente 2: Ernesto Callegari
+ Cuarto árbitro: Mauricio Martín
+Domingo 19 de octubre
+ 14.45 Gimnasia y Esgrima (J) - Deportivo Madryn
+ Árbitro: Lucas Comesaña
+ Asistente 1: Gonzalo Ferrari
+ Asistente 2: Juan Viglietti
+ Cuarto árbitro: Federico Benítez
+17.00 Deportivo Morón - Atlanta
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Iván Aliende
+ Asistente 2: Agustín Méndez
+ Cuarto árbitro: Javier Delbarba
+19.00 Tristán Suarez - Estudiantes
+ Árbitro: Juan Pablo Loustau
+ Asistente 1: Juan Manuel González
+ Asistente 2: Erik Grukmann
+ Cuarto árbitro: Ariel Cruz
 Primera B
 Primera C
 Promocional Amateur
