@@ -475,12 +475,6 @@ Intercontinental Sub 20 2026
 Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
 Amistosos Selección Mayor
-Martes 14 de octubre
- 21.00 Argentina - Puerto Rico, en el Chase Stadium de Miami
- Árbitro: Armando Villaroel (USA) 
- Asistente 1ero.: Jeremy Kieso (USA)
- Asistente 2do.: Chris Elliott (USA)
- Cuarto árbitro: Malik Badawi (USA)
 Copa del Mundo 2026
 El sorteo final de la Copa Mundial de la FIFA 2026 tendrá lugar en el Centro John F. Kennedy en Washington D. C. el próximo viernes 5 de diciembre. Los grupos, con 48 equipos, se sortearán en la capital estadounidense. El sorteo comenzará a las 14 de nuestro país.
 El partido inaugural de la Copa del Mundo 2026 que organizan en conjunto los Estados Unidos, México y Canadá, se jugará en el Estadio Azteca el 11 de junio.
@@ -501,9 +495,9 @@ OFC (Oceanía) :
 UEFA (Europa) : 
 16 plazas directas
 Todos los clasificados al Mundial 2026
- Canadá
- México
- Estados Unidos
+ Canadá - Anfitrión
+ México - Anfitrión
+ Estados Unidos - Anfitrión
  Argentina
  Japón
  Nueva Zelanda
@@ -517,12 +511,18 @@ Todos los clasificados al Mundial 2026
  Uruguay
  Paraguay
  Colombia
-Túnez
-Marruecos
-Egipto
-Argelia
-Ghana
-Cabo Verde
+ Marruecos
+ Túnez
+ Egipto
+ Argelia
+ Ghana
+ Cabo Verde
+ Sudáfrica
+ Qatar
+ Inglaterra
+ Arabia Saudita
+ Costa de Marfil
+ Senegal
 El Repechaje se jugará en las ciudades de Monterrey y Guadalajara, México, del 23 al 31 de marzo de 2026. Habrá seis selecciones que se disputarán dos cupos para el Mundial:
  Una de la Confederación Asiática (AFC)
  Una de la Confederación Africana (CAF)
