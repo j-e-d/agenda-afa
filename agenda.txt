@@ -301,23 +301,28 @@ Supercopa Argentina
 Primera Nacional
 Reducido Ida
 Sábado 18 de octubre
- 22.00 Gimnasia y Tiro (S) - Estudiantes Rio IV
+ 22.00 Gimnasia y Tiro (S) - Estudiantes Rio IV 
+(TV)
  Árbitro: Bryan Ferreyra
  Asistente 1: Marcelo Bistocco
  Asistente 2: Ernesto Callegari
  Cuarto árbitro: Mauricio Martín
 Domingo 19 de octubre
- 14.45 Gimnasia y Esgrima (J) - Deportivo Madryn
+ 14.45 Gimnasia y Esgrima (J) - Deportivo Madryn 
+(TV)
  Árbitro: Lucas Comesaña
  Asistente 1: Gonzalo Ferrari
  Asistente 2: Juan Viglietti
  Cuarto árbitro: Federico Benítez
-17.00 Deportivo Morón - Atlanta
+17.00 Deportivo Morón - Atlanta 
+(TV)
  Árbitro: Fabrizio Llobet
  Asistente 1: Iván Aliende
  Asistente 2: Agustín Méndez
  Cuarto árbitro: Javier Delbarba
-19.00 Tristán Suarez - Estudiantes
+Lunes 20 de octubre
+19.00 Tristán Suarez - Estudiantes 
+(TV)
  Árbitro: Juan Pablo Loustau
  Asistente 1: Juan Manuel González
  Asistente 2: Erik Grukmann
@@ -330,7 +335,8 @@ Viernes 17 de octubre
  Asistente 2: Roberto Paz
  Cuarto árbitro: Nicolás Kresta
 Sábado 18 de octubre
- 13.45 Sportivo Italiano - Comunicaciones
+ 13.45 Sportivo Italiano - Comunicaciones 
+(TV)
  Árbitro: Gabriel Gutierrez
  Asistente 1: Arnaldo Melgarejo
  Asistente 2: Diego Rodríguez Lazarte
@@ -355,7 +361,8 @@ Sábado 18 de octubre
  Asistente 1: Rodrio Arín
  Asistente 2: Leonardo Aranda
  Cuarto árbitro: Kévin Alegre
-16.00 Midland - Liniers
+16.00 Midland - Liniers 
+(TV)
  Árbitro: Julián Jeréz
  Asistente 1: Diego Romero
  Asistente 2: Maximiliano Montenegro
@@ -372,7 +379,8 @@ Domingo 19 de octubre
  Asistente 2: Hernán Antola
  Cuarto árbitro: Manuel Girett
 Lunes 20 de octubre
- 21.00 Excursionistas - Deportivo Laferrere
+ 21.00 Excursionistas - Deportivo Laferrere 
+(TV)
  Árbitro: Julián Beligoy
  Asistente 1: Federico Lapalma
  Asistente 2: Diego Fernández
@@ -380,7 +388,8 @@ Lunes 20 de octubre
 Primera C
 REDUCIDO 2DO ASCENSO
 Sábado 18 de octubre
- 13.05 Central Córdoba - Deportivo Español
+ 13.05 Central Córdoba - Deportivo Español 
+(TV)
  Árbitro: Gabriel Flores
  Asistente 1: Felipe Arrechea
  Asistente 2: Diego Ortíz
@@ -390,12 +399,12 @@ Sábado 18 de octubre
  Asistente 1: Gonzalo Cubillas
  Asistente 2: Nicolás Cavagnaro
  Cuarto árbitro: Gonzalo Correa
-Domingo 19 de octubre
  15.30 Luján - Sportivo Barracas
  Árbitro: Mateo Bocaccia
  Asistente 1: Ignacio Otegui
  Asistente 2: Matías Pino
  Cuarto árbitro: Tomás Aybar
+* Si al término de los segundos noventa minutos, la cantidad de puntos y la diferencia de goles resultaran igualadas, la definición se operará mediante la ejecución de tiros desde el punto penal conforme a las disposiciones del Art. 111 punto c) del R.G.
 REDUCIDO 4TA PLAZA COPA ARGENTINA
 Sábado 18 de octubre
  15.30 Centro Español - Yupanqui
@@ -414,14 +423,17 @@ Domingo 19 de octubre
  Asistente 1: Matías Vargas
  Asistente 2: Federico Machuca
  Cuarto árbitro: Leandro Fedele
+* Si al término de los segundos noventa minutos, la cantidad de puntos y la diferencia de goles resultaran igualadas, la definición se operará mediante la ejecución de tiros desde el punto penal conforme a las disposiciones del Art. 111 punto c) del R.G.
 Promocional Amateur
 PARTIDO FINAL VUELTA
 Domingo 19 de octubre
- 11.00 Puerto Nuevo - Deportivo Metalúrgico
+ 11.00 Puerto Nuevo - Deportivo Metalúrgico 
+(TV)
  Árbitro: Martín Despósito
  Asistente 1: Matías Panozzo
  Asistente 2: Leandro Idio
  Cuarto árbitro: Ulises López
+Si al término del segundo encuentro, la cantidad de puntos y la diferencia de goles, resultaran igualadas, el equipo de Primera División “C” mantendrá la Categoría. En su defecto, si este Club de Primera División “C” resultara derrotado del enfrenamiento citado anteriormente, perderá provisoriamente por una temporada la afiliación.
 Copa Argentina
 CRUCES DE LA COPA ARGENTINA 2025
 Semifinales
