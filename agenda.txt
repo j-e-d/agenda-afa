@@ -29,28 +29,6 @@ Fecha 12
  VAR: Silvio Trucco
  AVAR: Lucas Cavallero
 Fecha 13
-Viernes 17 de octubre
- 19.00 Racing – Aldosivi (Zona A)
- Árbitro: Sebastián Zunino
- Asistente 1: Juan Mamani
- Asistente 2: Daiana Milone
- Cuarto árbitro: Franco Acita
- VAR: Diego Ceballos
- AVAR: Mariano Ascensi
-21.15 Lanús – Godoy Cruz (Zona B)
- Árbitro: Pablo Giménez
- Asistente 1: Adrián Delbarba
- Asistente 2: Uriel García Leri
- Cuarto árbitro: Juan Pafundi
- VAR: Gastón Monzón Brizuela
- AVAR: Javier Uziga
-21.15 Argentinos – Newell’s (Zona A)
- Árbitro: Felipe Viola
- Asistente 1: Juan Pablo Belatti
- Asistente 2: Juan Ricciardi
- Cuarto árbitro: Jorge Broggi
- VAR: Álvaro Carranza
- AVAR: Lucas Germanotta
 Sábado 18 de octubre
  15.45 Ind. Rivadavia Mza. – Banfield (Zona A)
  Árbitro: Yael Falcón Pérez
@@ -199,84 +177,6 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
-Fecha 14
- Martes 14 de octubre
- 15:00 Platense – Sarmiento (Zona B) – Almagro
- Árbitro: Fabricio De La Cruz
- Árbitro asistente 1: Mario Vargas
- Árbitro asistente 2: Tomás Perez
- Cuarto árbitro: Gabriel Coronel
- 15:00 Belgrano – Tigre (Zona A) – Predio
- Árbitro: Leandro Fedele
- Árbitro asistente 1: Diego Ortiz
- Árbitro asistente 2: Sebastián Krojzl
- 15:00 Instituto – Rosario Central (Zona B) – La Agustina
- Árbitro: Juan Ferreyra
- Árbitro asistente 1: Federico Machuca
- Árbitro asistente 2: Rodrigo Díaz
- 15:00 Vélez – Talleres (Zona B) – Villa Olímpica
- Árbitro: Valentín Pérsico
- Árbitro asistente 1: Daniel Villarreal
- Árbitro asistente 2: Franco Chávez
- Cuarto árbitro: Sebastian Milessi
- 19:00 River – Gimnasia (Zona B) – River Camp
- Árbitro: Antonela Álvarez
- Árbitro asistente 1: Lucas Monsalvo
- Árbitro asistente 2: Patricio Acuña
- Cuarto árbitro: Manuel Prieto
- Miércoles 15 de octubre
- 15:00 Banfield – Colón (Zona A) – Predio
- Árbitro: Lautaro Díaz
- Árbitro asistente 1: Alejo Milone
- Árbitro asistente 2: Julieta Fernandez
- Cuarto árbitro: Ariadna Palacios
- 15:00 Defensa y Justicia – Huracán (Zona A) – Campeones del Mundo
- Árbitro: Ulises López
- Árbitro asistente 1: Mauro Soria
- Árbitro asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Camila Gette
- 15:00 Estudiantes – Boca (Zona A) – City Bell
- Árbitro: Franco Porotelli
- Árbitro asistente 1: Gonzalo Cubillas
- Árbitro asistente 2: Matías Chena
- Cuarto árbitro: Elías Viglione
- 15:00 Ferro – Lanús (Zona B) – Estadio Ricardo Etcheverri
- Árbitro: Nicolás Díaz
- Árbitro asistente 1: Ariel Ibañez
- Árbitro asistente 2: Alexis Ramírez
- Cuarto árbitro: Valentin Ibañez Mesa
- 15:00 Independiente – Atlético Tucumán (Zona B) – Villa Domínico
- Árbitro: Agustín Panizza
- Árbitro asistente 1: Facundo Mendiolar
- Árbitro asistente 2: Fabrizio Osorio
- Cuarto árbitro: Mauro Trinidad
- Jueves 16 de octubre
- 15:00 Newell’s – Unión (Zona A) – Estadio Marcelo Bielsa
- Árbitro: Axel Pogge
- Árbitro asistente 1: Nicolás Ruiz Segovia
- Árbitro asistente 2: Bruno Santillán
- 15:00 San Lorenzo – Dep. Riestra (Zona B) – Auxiliar
- Árbitro: Roberta Echeverría
- Árbitro asistente 1: Facundo Maldonado
- Árbitro asistente 2: Marcos Pueyo
- Cuarto árbitro: Pablo Gómez
- 15:00 Aldosivi – Indep. Rivadavia Mza (Zona A) – Predio
- Árbitro: Leandro Idio
- Árbitro asistente 1: Luciano Cabral
- Árbitro asistente 2: Luis Taboada
- 15:00 Barracas Central – Argentinos (Zona A) – AEFIP
- Árbitro: Matías Ansede
- Árbitro asistente 1: Matías Vargas
- Árbitro asistente 2: Berenice Avaro
- Cuarto árbitro: Nazareno Galeano
- 15:00 Godoy Cruz – San Martín SJ (Zona B) – Coquimbito
- Árbitro: Ignacio Dominguez
- Árbitro asistente 1: Sebastian Valdez
- Árbitro asistente 2: Sergio Benitez
- 18:30 Central Córdoba – Racing (Zona A) – Estadio Alfredo Terrera
- Árbitro: Rodrigo Maidana
- Árbitro asistente 1: Roberto Rodriguez
- Árbitro asistente 2: Julio Alegre
 Fecha 15
  Martes 21 de octubre
  15:00 Gimnasia – Vélez (Zona B) – Estancia Chica
@@ -328,12 +228,6 @@ Lunes 20 de octubre
  Asistente 2: Erik Grukmann
  Cuarto árbitro: Ariel Cruz
 Primera B
-Viernes 17 de octubre
- 21.00 Argentino de Merlo - Villa Dálmine
- Árbitro: Juan Cruz Robledo
- Asistente 1: Ángel Rebuscini
- Asistente 2: Roberto Paz
- Cuarto árbitro: Nicolás Kresta
 Sábado 18 de octubre
  13.45 Sportivo Italiano - Comunicaciones 
 (TV)
