@@ -29,28 +29,6 @@ Fecha 12
  VAR: Silvio Trucco
  AVAR: Lucas Cavallero
 Fecha 13
-Lunes 20 de octubre
- 19.00 Tigre – Barracas Central (Zona A)
- Árbitro: Jorge Baliño
- Asistente 1: Gerardo Lencina
- Asistente 2: Walter Ferreyra
- Cuarto árbitro: Sebastián Bresba
- VAR: Héctor Paletta
- AVAR: Diego Verlota
-19.00 Deportivo Riestra – Instituto (Zona B)
- Árbitro: Leandro Rey Hilfer
- Asistente 1: Andrés Barbieri
- Asistente 2: Maximiliano Castelli
- Cuarto árbitro: Cristian Cernadas
- VAR: Fernando Echenique
- AVAR: Sebastián Habib
-21.15 Atlético Tucumán – San Lorenzo (Zona B)
- Árbitro: Bruno Amiconi
- Asistente 1: Iván Núñez
- Asistente 2: Joaquín Balmaceda
- Cuarto árbitro: Emanuel Ejarque
- VAR: Sebastián Martínez
- AVAR: Mariano Negrete
 Martes 21 de octubre
  19.15 Unión – Defensa y Justicia (Zona A)
  Árbitro: Nazareno Arasa
@@ -214,30 +192,8 @@ Suspendido
  Asistente 1: Gonzalo Ferrari
  Asistente 2: Juan Viglietti
  Cuarto árbitro: Federico Benítez
-Lunes 20 de octubre
-19.00 Tristán Suarez - Estudiantes 
-(TV)
- Árbitro: Juan Pablo Loustau
- Asistente 1: Juan Manuel González
- Asistente 2: Erik Grukmann
- Cuarto árbitro: Ariel Cruz
 Primera B
-Lunes 20 de octubre
- 21.00 Excursionistas - Deportivo Laferrere 
-(TV)
- Árbitro: Julián Beligoy
- Asistente 1: Federico Lapalma
- Asistente 2: Diego Fernández
- Cuarto árbitro: Jonathan Barrios
 Primera C
-REDUCIDO 4TA PLAZA COPA ARGENTINA
-Domingo 19 de octubre
-18.00 Mercedes - Atlas
- Árbitro: Iván Castelu Coca
- Asistente 1: Matías Vargas
- Asistente 2: Federico Machuca
- Cuarto árbitro: Leandro Fedele
-* Si al término de los segundos noventa minutos, la cantidad de puntos y la diferencia de goles resultaran igualadas, la definición se operará mediante la ejecución de tiros desde el punto penal conforme a las disposiciones del Art. 111 punto c) del R.G.
 Promocional Amateur
 Copa Argentina
 CRUCES DE LA COPA ARGENTINA 2025
@@ -372,7 +328,7 @@ Todos los clasificados al Mundial 2026
  Ghana
  Cabo Verde
  Sudáfrica
- Qatar
+ Catar
  Inglaterra
  Arabia Saudita
  Costa de Marfil
