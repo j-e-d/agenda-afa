@@ -9,25 +9,26 @@ Fecha 12
  Cuarto árbitro: Javier Delbarba
  VAR: Silvio Trucco
  AVAR: Lucas Cavallero
-Fecha 14 (02/11/2025)
- Zona A
- Aldosivi – Independiente Rivadavia
- Central Córdoba – Racing
- Defensa y Justicia – Huracán
- Newell’s – Unión
- Barracas Central – Argentinos
- Belgrano – Tigre
- Estudiantes – Boca
- Zona B
- Godoy Cruz – San Martín (SJ)
- Independiente – Atlético Tucumán
- San Lorenzo – Deportivo Riestra
- Instituto – Rosario Central
- Platense – Sarmiento
- Vélez – Talleres
- River – Gimnasia
- Interzonal
- Banfield – Lanús
+Fecha 14
+Viernes 31 de octubre
+ 19.00 San Lorenzo - Deportivo Riestra (Zona B)
+ 21.15 Newell's - Unión (Zona A)
+ 21.15 Instituto - Rosario Central (Zona B)
+Sábado 1° de noviembre
+ 14.45 Aldosivi - Ind. Rivadavia Mza. (Zona A)
+ 16.00 Barracas Central - Argentinos (Zona A)
+ 17.00 Vélez - Talleres (Zona B)
+ 20.00 Independiente - Atlético Tucumán (Zona B)
+Domingo 2 de noviembre
+ 16.00 Estudiantes - Boca (Zona A)
+ 18.30 Godoy Cruz - San Martín (SJ) (Zona B)
+ 20.30 River - Gimnasia (Zona B)
+Lunes 3 de noviembre
+ 16.45 Platense - Sarmiento (Zona B)
+ 16.45 Defensa y Justicia - Huracán (Zona A)
+ 19.00 Central Córdoba - Racing (Zona A)
+ 21.15 Belgrano - Tigre (Zona B)
+ 21.15 Banfield - Lanús (interzonal)
 Fecha 15 (09/11/2025)
  Zona A
  Tigre – Estudiantes
@@ -68,6 +69,85 @@ Fecha 16 (16/11/2025)
  Aldosivi – San Martín (SJ)
 Trofeo de Campeones
 Proyección Sur Finanzas - Torneo Clausura
+Fecha 16
+ Martes 28 de octubre
+ 15.00 Lanús – Atlético Tucumán (Zona B) – Auxiliar
+ Árbitro: Manuel Prieto
+ Árbitro asistente 1: Facundo Maldonado
+ Árbitro asistente 2: Mariela Martino
+ Cuarto árbitro: Antonela Álvarez
+ 15:00 Instituto – Talleres (Zona B) – Estadio Presidente Perón
+ Árbitro: Elías Viglione
+ Árbitro asistente 1: Federico Lapalma
+ Árbitro asistente 2: Patricio Acuña
+ Cuarto árbitro: Ignacio Dominguez
+ 15:00 Platense – Gimnasia (Zona B) – Estadio Ciudad de Vicente López
+ Árbitro: Facundo Fuentes
+ Árbitro asistente 1: Ariel Ibañez
+ Árbitro asistente 2: Enzo Nell
+ Cuarto árbitro: Pablo Gómez
+ 15:00 San Lorenzo – Sarmiento (Zona B) – Auxiliar
+ Árbitro: Ulises López
+ Árbitro asistente 1: Heber Ibañez
+ Árbitro asistente 2: Rodrigo Díaz
+ Cuarto árbitro: Valentin Ibañez Mesa
+ 15:00 Ferro – San Martín SJ (Zona B) – Pontevedra
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Ruiz Segovia
+ Árbitro asistente 2: Berenice Avaro
+ Cuarto árbitro: Axel Pogge
+ Miércoles 29 de octubre
+ 15:00 Godoy Cruz – Dep. Riestra (Zona B) – Coquimbito
+ Árbitro: Lautaro Díaz
+ Árbitro asistente 1: Matías Vargas
+ Árbitro asistente 2: Nahuel Martin
+ 15:00 Independiente – Rosario Central (Zona B) – Villa Domínico
+ Árbitro: Rodrigo Maidana
+ Árbitro asistente 1: Lucas Monsalvo
+ Árbitro asistente 2: Guarachi Quelca
+ Cuarto árbitro: Camila Gette
+ 15:00 Vélez – River (Zona B) – Villa Olímpica
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Alexis Etchepare
+ Árbitro asistente 2: Ludmila Capelli
+ Cuarto árbitro: Mauro Trinidad
+ 15:00 Belgrano – Unión (Zona A) – Predio
+ Árbitro: Ignacio Dominguez
+ Árbitro asistente 1: Nahuel Valdeón
+ Árbitro asistente 2: Luis Taboada
+ Cuarto árbitro: Elías Viglione
+ 15:00 Aldosivi – Colón (Zona A) – Predio
+ Árbitro: Gabriela Coronel
+ Árbitro asistente 1: Nicolas Cavagnaro
+ Árbitro asistente 2: Daniel Alegre
+ 19:00 Central Córdoba – Banfield (Zona A) – Alfredo Terrera
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Damian Alcaraz
+ Árbitro asistente 2: Alexis Ramirez
+ Jueves 30 de octubre
+ 15:00 Newell’s – Racing (Zona A) – Marcelo Bielsa
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Daniel Villarreal
+ Árbitro asistente 2: Sofía Curto
+ 15:00 Defensa y Justicia – Independiente Rivadavia Mza (Zona A) – Campeones del Mundo
+ Árbitro: Ariadna Palacios
+ Árbitro asistente 1: Tomás Otero
+ Árbitro asistente 2: Bruno Santillan
+ 15:00 Estudiantes – Argentinos (Zona A) – City Bell
+ Árbitro: Micaela Abelardo
+ Árbitro asistente 1: Diego Ortiz
+ Árbitro asistente 2: Sergio Benitez
+ Cuarto árbitro: Leandro Díaz
+ 15:00 Barracas Central – Huracán (Zona A) – AEFIP
+ Árbitro: Agustín Panizza
+ Árbitro asistente 1: Alan Colman
+ Árbitro asistente 2: Sebastian Krojzl
+ Cuarto árbitro: Franco Porotelli
+ 15:00 Boca – Tigre (Zona A) – Boca Ezeiza
+ Árbitro: Valentin Pérsico
+ Árbitro asistente 1: Facundo Mendiolar
+ Árbitro asistente 2: Nicolás Rovira
+ Cuarto árbitro: Nazareno Galeano
 Supercopa Argentina 
 Primera Nacional
 Reducido Ida
@@ -109,8 +189,22 @@ SEMIFINALES
 Encuentros de vuelta
  Martes 28 de octubre
  21.30 Atlético Mineiro - Independiente del Valle
+Árbitro: Esteban Ostojich
+ Asistente 1: Nicolás Tarán
+ Asistente 2: Martín Soppi
+ Cuarto árbitro: José Burgos
+ VAR: Christian Ferreyra
+ AVAR 1: Andrés Cunha
+AVAR 2: Richard Trinidad
  Jueves 30 de octubre
  19.00 Lanús - Univerdidad de Chile
+Árbitro: Aléxis Herrera
+ Asistente 1: Lubín Torrealba
+ Asistente 2: Alberto Ponte
+ Cuarto árbitro: Alejandro Velázquez
+ VAR: Ángel Arteaga
+ AVAR 1: Reyes Soto
+ AVAR 2: Juan Soto
 CONMEBOL Copa Libertadores 2026
 El certamen se iniciará el 4 de febrero. La final se disputará el sábado 28 de noviembre.
 CONMEBOL Copa Sudamericana 2026
@@ -123,6 +217,7 @@ Intercontinental Sub 20 2026
 Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
 Amistosos Selección Mayor
+ La Selección Argentina enfrentará el viernes 14 de noviembre a la selección de Angola, en Luanda. Tras el partido, la delegación regresará a Europa para continuar con los trabajos hasta el 18 de noviembre, día que culmina la fecha FIFA.
 Copa del Mundo 2026
 El sorteo final de la Copa Mundial de la FIFA 2026 tendrá lugar en el Centro John F. Kennedy en Washington D. C. el próximo viernes 5 de diciembre. Los grupos, con 48 equipos, se sortearán en la capital estadounidense. El sorteo comenzará a las 14 de nuestro país.
 El partido inaugural de la Copa del Mundo 2026 que organizan en conjunto los Estados Unidos, México y Canadá, se jugará en el Estadio Azteca el 11 de junio.
