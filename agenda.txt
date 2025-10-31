@@ -272,29 +272,7 @@ Segundo Torneo de Primera División A 2025 - Fútbol Femenino
 Torneo Femenino de Primera B
 Copa Federal Femenina
 CONMEBOL Libertadores 2025
-SEMIFINALES
-Encuentros de vuelta
- Jueves 30 de octubre
- 21.30 Palmeiras - LDU Quito
-Árbitro: Wilmar Roldán
- Asistente 1: Jhon Gallego
- Asistente 2: David Fuentes
- Cuarto árbitro: Jhon Ospina
- VAR: David Rodríguez
- AVAR 1: Leonard Mosquera
- AVAR 2: Alexander Guzmán
 CONMEBOL Sudamericana 2025
-SEMIFINALES
-Encuentros de vuelta
- Jueves 30 de octubre
- 19.00 Lanús - Univerdidad de Chile
-Árbitro: Aléxis Herrera
- Asistente 1: Lubín Torrealba
- Asistente 2: Alberto Ponte
- Cuarto árbitro: Alejandro Velázquez
- VAR: Ángel Arteaga
- AVAR 1: Reyes Soto
- AVAR 2: Juan Soto
 CONMEBOL Copa Libertadores 2026
 El certamen se iniciará el 4 de febrero. La final se disputará el sábado 28 de noviembre.
 CONMEBOL Copa Sudamericana 2026
@@ -540,17 +518,17 @@ Se jugará del 3 al 19 de abril de 2026.
 Liga de Naciones Femenina 2025-2026
 Fecha 3
  Viernes 28 de Noviembre
- 21:00: Perú vs Chile - Estadio Garcilaso de la Vega
- 21:00: Bolivia vs Colombia - Estadio Municipal de El Alto
- 23:00: Paraguay vs Uruguay - Estadio La Huerta
- 23:00: Ecuador vs Venezuela - Estadio Rodrigo Paz Delgado
+ 18:00: Perú vs Chile - Estadio Garcilaso de la Vega
+ 18:00: Bolivia vs Colombia - Estadio Municipal de El Alto
+ 20:00: Paraguay vs Uruguay - Estadio La Huerta
+ 20:00: Ecuador vs Venezuela - Estadio Rodrigo Paz Delgado
  Argentina quedará libre
  Fecha 4
  Martes 2 de Diciembre
- 21:00: Argentina vs Bolivia - Estadio Florencio Sola
- 21:00: Uruguay vs Ecuador - Estadio Parque Viera
- 23:00: Venezuela vs Perú - Estadio Metropolitano de Cabudare
- 23:00: Chile vs Paraguay - Estadio El Teniente
+ 18:00: Argentina vs Bolivia - Estadio Florencio Sola
+ 18:00: Uruguay vs Ecuador - Estadio Parque Viera
+ 20:00: Venezuela vs Perú - Estadio Metropolitano de Cabudare
+ 20:00: Chile vs Paraguay - Estadio El Teniente
 Fixture de la Selección Argentina Femenina
  • Fecha 5 - Chile vs. Argentina - 10 de abril 2026
  • Fecha 6 - Venezuela vs. Argentina - 14 de abril 2026
