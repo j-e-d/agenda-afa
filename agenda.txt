@@ -1,29 +1,7 @@
 25/03/2019
 Torneo Clausura 2025
 Fecha 14
-Sábado 1° de noviembre
- 14.45 Aldosivi - Ind. Rivadavia Mza. (Zona A)
- Árbitro: Jorge Baliño
- Asistente 1: Miguel Savorani
- Asistente 2: Uriel García Leri
- Cuarto árbitro: Franco Morón
- VAR: Álvaro Carranza
- AVAR: Lucas Comesaña
- 16.00 Barracas Central - Argentinos (Zona A)
- Árbitro: Andrés Merlos
- Asistente 1: Pablo González
- Asistente 2: Mauro Ramos Errasti
- Cuarto árbitro: Cristian Cernadas
- VAR: Diego Ceballos
- AVAR: Mariano Ascenzi
- 17.00 Vélez - Talleres (Zona B)
- Árbitro: Sebastián Zunino
- Asistente 1: Diego Bonfá
- Asistente 2: Lucas Germanotta
- Cuarto árbitro: Pablo Giménez
- VAR: Bryan Ferreyra
- AVAR: Diego Romero
- 20.00 Independiente - Atlético Tucumán (Zona B)
+20.00 Independiente - Atlético Tucumán (Zona B)
  Árbitro: Sebastián Martínez
  Asistente 1: Hugo Páez
  Asistente 2: Gisella Trucco
@@ -140,12 +118,6 @@ Rosario Central - Argentinos Juniors
 Supercopa Argentina 
 Primera Nacional
 Reducido - Cuartos de Final - Vuelta
-Sábado 1 de noviembre
-13.45 Atlanta - Deportivo Morón (TV)
-Árbitro: Felipe Viola
-Asistente 1: Pablo Acevedo
-Asistente 2: Maximiliano Castelli
-Cuarto árbitro: Gastón Iglesias
 Domingo 2 de noviembre
 16.00 Deportivo Madryn - Gimnasia (Jujuy) (TV)
 Árbitro: Fabrizio Llobet
@@ -160,27 +132,6 @@ Cuarto árbitro: Juan Cruz Robledo
 Si al término de los segundos noventa minutos, la cantidad de puntos y la diferencia de goles resultaran igualadas, pasará a la siguiente instancia el equipo mejor ubicado en la “Tabla General de Posiciones” creada a tal efecto para esta etapa.
 Primera B
 Fecha 19
-Sábado 1 de noviembre
-15.30 Deportivo Armenio - Real Pilar (TV)
- Árbitro: Nicolás Mastroieni
- Asistente 1: Federico Lapalma
- Asistente 2: Federico García
- Cuarto árbitro: Ignacio Cuicchi
-15.30 Flandria - Acassuso
- Árbitro: Sebastián Bresba
- Asistente 1: Maximiliano Benzoni
- Asistente 2: Federico Zuvilivia
- Cuarto árbitro: Jonathan Barrios
-15.30 San Martín - Villa San Carlos
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Juan Manuel Díaz
- Asistente 2: Roberto Rodríguez
- Cuarto árbitro: Julián Beligoy
-16.00 Laferrere - Midland (TV)
- Árbitro: Gonzalo Pereira
- Asistente 1: Mario Bardina
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Rodrigo Villalba
 Domingo 2 de noviembre
 15.30 Villa Dálmine - Brown (A)
  Árbitro: Marcos Recalde
@@ -236,8 +187,6 @@ VAR: Héctor Paletta
 AVAR: Pablo Dóvalo
 Torneo Federal A Edición 2025
 Reválida - Tercera Etapa
-Sábado 1 de noviembre
- 16.30 Argentino Pascanas - Douglas Haig
 Domingo 2 de noviembre
  11.00 Deportivo Rincón - Nueve de Julio
  15.00 San Martín de Formosa - At. Costa Brava
