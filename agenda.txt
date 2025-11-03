@@ -2,20 +2,6 @@
 Torneo Clausura 2025
 Fecha 14
 Lunes 3 de noviembre
- 16.45 Platense - Sarmiento (Zona B)
- Árbitro: Juan Pafundi
- Asistente 1: Gerardo Lencina
- Asistente 2: Sebastián Pumeti
- Cuarto árbitro: Franco Acita
- VAR: Maximiliano Macheroni
- AVAR: Nelson Sosa
- 16.45 Defensa y Justicia - Huracán (Zona A)
- Árbitro: Yael Falcón Pérez
- Asistente 1: Pablo Gualtieri
- Asistente 2: Carla López
- Cuarto árbitro: Martín Depósito
- VAR: Juan Pablo Loustau
- AVAR: Gastón Suárez
  19.00 Central Córdoba - Racing (Zona A)
  Árbitro: Luis Lobo Medina
  Asistente 1: Iván Núñez
@@ -91,14 +77,12 @@ Martes 11 de noviembre
  19.30 River – Tigre (River Camp)
 Supercopa Argentina 
 Primera Nacional
+Reducido - Semifinales - Ida
+ Estudiantes - Estudiantes de Río IV 
+ Deportivo Morón - Deportivo Madryn 
 Primera B
 Fecha 19
 Lunes 3 de noviembre
-15.30 Sacachispas - Dock Sud
- Árbitro: Guido Mascheroni
- Asistente 1: Federico Pomi
- Asistente 2: Pablo Pastor
- Cuarto árbitro: Nicolás Kresta
 21.10 Comunicaciones - UAI Urquiza (TV)
  Árbitro: Ariel Cruz
  Asistente 1: Cecilio Calcagno
@@ -111,13 +95,6 @@ Lunes 3 de noviembre
  Asistente 2: Gonzalo Cubillas
  Cuarto árbitro: Gabriel Flores
 Primera C
-Final por el segundo ascenso a Primera B - Primer partido
-Lunes 3 de noviembre
-15.30 Sp. Barracas - Ituzaingó en Almagro
- Árbitro: Julián Beligoy
- Asistente 1: Diego Fernández
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Agustín Panizza
  Cuarto cupo para la Copa Argentina
  Martes 4 de noviembre
  15.30 Deportivo Español - L.N. Alem
@@ -143,6 +120,9 @@ Segundo Torneo de Primera División A 2025 - Fútbol Femenino
 Torneo Femenino de Primera B
 Copa Federal Femenina
 CONMEBOL Libertadores 2025
+Final Copa Libertadores
+ Sábado 29 de noviembre de 2025
+ Palmeiras vs. Flamengo en el Estadio Monumental U de Lima, Perú
 CONMEBOL Sudamericana 2025
 Final Copa Sudamericana
  Sábado 22 de noviembre de 2025
