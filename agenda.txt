@@ -1,24 +1,25 @@
 25/03/2019
 Torneo Clausura 2025
-Fecha 15 (09/11/2025)
- Zona A
- Tigre – Estudiantes
- Argentinos – Belgrano
- Unión – Barracas Central
- Huracán – Newell’s
- Racing – Defensa y Justicia
- Independiente Rivadavia – Central Córdoba
- Banfield – Aldosivi
- Zona B
- Gimnasia – Vélez
- Talleres – Platense
- Sarmiento – Instituto
- Rosario Central – San Lorenzo
- Deportivo Riestra – Independiente
- Atlético Tucumán – Godoy Cruz
- San Martín (SJ) – Lanús
- Interzonal
- Boca – River
+Fecha 15
+Viernes 7 de noviembre
+21.00 Rosario Central – San Lorenzo (Zona B)
+Sábado 8 de noviembre
+17.00 Racing – Defensa y Justicia (Zona A)
+19.15 Huracán – Newell’s (Zona A)
+19.15 Talleres – Platense (Zona B)
+21.30 Unión – Barracas Central (Zona A)
+21.30 San Martín (SJ) – Lanús (Zona B)
+Domingo 9 de noviembre
+16.30 Boca – River (interzonal)
+19.20 Sarmiento – Instituto (Zona B)
+19.20 Banfield – Aldosivi (Zona A)
+21.30 Tigre – Estudiantes (Zona A)
+21.30 Atlético Tucumán – Godoy Cruz (Zona B)
+Lunes 10 de noviembre
+17.00 Gimnasia – Vélez (Zona B)
+19.00 Deportivo Riestra – Independiente (Zona B)
+21.15 Argentinos – Belgrano (Zona A)
+21.15 Ind. Rivadavia Mza. – Central Córdoba (Zona A)
 Fecha 16 (16/11/2025)
  Zona A
  Central Córdoba – Banfield
