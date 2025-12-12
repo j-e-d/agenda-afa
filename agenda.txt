@@ -60,6 +60,579 @@ Vélez – River
  Central Córdoba – Tigre
  Huracán – Deportivo Riestra
  Newell’s – Banfield
+Fecha 1 (fin de semana del 25/01)
+Interzonal: Aldosivi – Defensa y Justicia
+Zona A
+ Boca – Deportivo Riestra
+ Independiente – Estudiantes
+ Talleres – Newell’s
+ Instituto – Vélez
+ Unión – Platense
+ San Lorenzo – Lanús
+ Central Córdoba – Gimnasia (Mza.)
+Zona B
+ Barracas Central – River
+ Gimnasia – Racing
+ Rosario Central – Belgrano
+ Tigre – Estudiantes (Río Cuarto)
+ Argentinos – Sarmiento
+ Banfield – Huracán
+ Independiente Rivadavia Mza. – Atlético Tucumán
+Fecha 2 (semana del 28/01)
+Interzonal: Atlético Tucumán – Central Córdoba
+Zona A
+ Gimnasia (Mza.) – San Lorenzo
+ Lanús – Unión
+ Platense – Instituto
+ Vélez – Talleres
+ Newell’s – Independiente
+ Estudiantes – Boca
+ Deportivo Riestra – Defensa y Justicia
+Zona B
+ Huracán – Independiente Rivadavia Mza.
+ Sarmiento – Banfield
+ Estudiantes (Río Cuarto) – Argentinos
+ Belgrano – Tigre
+ Racing – Rosario Central
+ River – Gimnasia
+ Aldosivi – Barracas Central
+Fecha 3 (fin de semana del 01/02)
+Interzonal: Barracas Central – Deportivo Riestra
+Zona A
+ Defensa y Justicia – Estudiantes
+ Boca – Newell’s
+ Independiente – Vélez
+ Talleres – Platense
+ Instituto – Lanús
+ Unión – Gimnasia (Mza.)
+ San Lorenzo – Central Córdoba
+Zona B
+ Gimnasia – Aldosivi
+ Rosario Central – River
+ Tigre – Racing
+ Argentinos – Belgrano
+ Banfield – Estudiantes (Río Cuarto)
+ Independiente Rivadavia Mza. – Sarmiento
+ Atlético Tucumán – Huracán
+Fecha 4 (fin de semana del 08/02)
+Interzonal: Huracán – San Lorenzo
+Zona A
+ Central Córdoba – Unión
+ Gimnasia (Mza.) – Instituto
+ Lanús – Talleres
+ Platense – Independiente
+ Vélez – Boca
+ Newell’s – Defensa y Justicia
+ Estudiantes – Deportivo Riestra
+Zona B
+ Sarmiento – Atlético Tucumán
+ Estudiantes (Río Cuarto) – Independiente Rivadavia Mza.
+ Belgrano – Banfield
+ Racing – Argentinos
+ River – Tigre
+ Aldosivi – Rosario Central
+ Barracas Central – Gimnasia
+Fecha 5 (fin de semana del 15/02)
+Interzonal: Gimnasia – Estudiantes
+Zona A
+ Deportivo Riestra – Newell’s
+ Defensa y Justicia – Vélez
+ Boca – Platense
+ Independiente – Lanús
+ Talleres – Gimnasia (Mza.)
+ Instituto – Central Córdoba
+ Unión – San Lorenzo
+Zona B
+ Rosario Central – Barracas Central
+ Tigre – Aldosivi
+ Argentinos – River
+ Banfield – Racing
+ Independiente Rivadavia Mza. – Belgrano
+ Atlético Tucumán – Estudiantes (Río Cuarto)
+ Huracán – Sarmiento
+Fecha 6 (Interzonal – fin de semana del 22/02)
+Vélez – River
+ Platense – Barracas Central
+ Rosario Central – Talleres
+ Estudiantes – Sarmiento
+ Defensa y Justicia – Belgrano
+ Argentinos – Lanús
+ Boca – Racing
+ Independiente Rivadavia Mza. – Independiente
+ Unión – Aldosivi
+ Instituto – Atlético Tucumán
+ San Lorenzo – Estudiantes (Río Cuarto)
+ Gimnasia (Mza.) – Gimnasia
+ Central Córdoba – Tigre
+ Deportivo Riestra – Huracán
+ Banfield – Newell’s
+Fecha 7 (semana del 25/02)
+Interzonal: Sarmiento – Unión
+Zona A
+ San Lorenzo – Instituto
+ Central Córdoba – Talleres
+ Gimnasia (Mza.) – Independiente
+ Lanús – Boca
+ Platense – Defensa y Justicia
+ Vélez – Deportivo Riestra
+ Newell’s – Estudiantes
+Zona B
+ Estudiantes (Río Cuarto) – Huracán
+ Belgrano – Atlético Tucumán
+ Racing – Independiente Rivadavia Mza.
+ River – Banfield
+ Aldosivi – Argentinos
+ Barracas Central – Tigre
+ Gimnasia – Rosario Central
+Fecha 8 (fin de semana del 01/03)
+Interzonal: Newell’s – Rosario Central
+Zona A
+ Estudiantes – Vélez
+ Deportivo Riestra – Platense
+ Defensa y Justicia – Lanús
+ Boca – Gimnasia (Mza.)
+ Independiente – Central Córdoba
+ Talleres – San Lorenzo
+ Instituto – Unión
+Zona B
+ Tigre – Gimnasia
+ Argentinos – Barracas Central
+ Banfield – Aldosivi
+ Independiente Rivadavia Mza. – River
+ Atlético Tucumán – Racing
+ Huracán – Belgrano
+ Sarmiento – Estudiantes (Río Cuarto)
+Fecha 9 (fin de semana del 08/03)
+Interzonal: Estudiantes (Río Cuarto) – Instituto
+Zona A
+ Unión – Talleres
+ San Lorenzo – Independiente
+ Central Córdoba – Boca
+ Gimnasia (Mza.) – Defensa y Justicia
+ Lanús – Deportivo Riestra
+ Platense – Estudiantes
+ Vélez – Newell’s
+Zona B
+ Belgrano – Sarmiento
+ Racing – Huracán
+ River – Atlético Tucumán
+ Aldosivi – Independiente Rivadavia Mza
+ Barracas Central – Banfield
+ Gimnasia – Argentinos
+ Rosario Central – Tigre
+Fecha 10 (semana del 11/03)
+Interzonal: Tigre – Vélez
+Zona A
+ Newell´s – Platense
+ Estudiantes – Lanús
+ Deportivo Riestra – Gimnasia (Mza.)
+ Defensa y Justicia – Central Córdoba
+ Boca – San Lorenzo
+ Independiente – Unión
+ Talleres – Instituto
+Zona B
+ Argentinos – Rosario Central
+ Banfield – Gimnasia
+ Independiente Rivadavia Mza. – Barracas Central
+ Atlético Tucumán – Aldosivi
+ Huracán – River
+ Sarmiento – Racing
+ Estudiantes (Río Cuarto) – Belgrano
+Fecha 11 (Fin de semana del 15/03)
+Interzonal: Belgrano – Talleres
+Zona A
+ Instituto – Independiente
+ Unión – Boca
+ San Lorenzo – Defensa y Justicia
+ Central Córdoba – Deportivo Riestra
+ Gimnasia (Mza.) – Estudiantes
+ Lanús – Newell’s
+ Platense – Vélez
+Zona B
+ Racing – Estudiantes (Rio Cuarto)
+ River – Sarmiento
+ Aldosivi – Huracán
+ Barracas Central – Atlético Tucumán
+ Gimnasia – Independiente Rivadavia Mza.
+ Rosario Central – Banfield
+ Tigre – Argentinos
+Fecha 12 (Fin de semana del 22/03)
+Interzonal: Argentinos – Platense
+Zona A
+ Vélez – Lanús
+ Newell’s – Gimnasia (Mza.)
+ Estudiantes – Central Córdoba
+ Deportivo Riestra – San Lorenzo
+ Defensa y Justicia – Unión
+ Boca – Instituto
+ Independiente – Talleres
+Zona B
+ Banfield – Tigre
+ Independiente Rivadavia Mza. – Rosario Central
+ Atlético Tucumán – Gimnasia
+ Huracán – Barracas Central
+ Sarmiento – Aldosivi
+ Estudiantes (Río Cuarto) – River
+ Belgrano – Racing
+Fecha 13 (Fin de semana del 05/04)
+Interzonal: Independiente – Racing
+Zona A
+ Talleres – Boca
+ Instituto – Defensa y Justicia
+ Unión – Deportivo Riestra
+ San Lorenzo – Estudiantes
+ Central Córdoba – Newell’s
+ Gimnasia (Mza.) – Vélez
+ Lanús – Platense
+Zona B
+ River – Belgrano
+ Aldosivi – Estudiantes (Río Cuarto)
+ Barracas Central – Sarmiento
+ Gimnasia – Huracán
+ Rosario Central – Atlético Tucumán
+ Tigre – Independiente Rivadavia Mza.
+ Argentinos – Banfield
+Fecha 14 (Fin de semana del 12/04)
+Interzonal: Lanús – Banfield
+Zona A
+ Platense – Gimnasia (Mza.)
+ Vélez – Central Córdoba
+ Newell’s – San Lorenzo
+ Estudiantes – Unión
+ Deportivo Riestra – Instituto
+ Defensa y Justicia – Talleres
+ Boca – Independiente
+Zona B
+ Independiente Rivadavia Mza. – Argentinos
+ Atlético Tucumán – Tigre
+ Huracán – Rosario Central
+ Sarmiento – Gimnasia
+ Estudiantes (Río Cuarto) – Barracas Central
+ Belgrano – Aldosivi
+ Racing – River
+Fecha 15 (Fin de semana del 19/04)
+Interzonal: River – Boca
+Zona A
+ Independiente – Defensa y Justicia
+ Talleres – Deportivo Riestra
+ Instituto – Estudiantes
+ Unión – Newell’s
+ San Lorenzo – Vélez
+ Central Córdoba – Platense
+ Gimnasia (Mza.) – Lanús
+Zona B
+ Aldosivi – Racing
+ Barracas Central – Belgrano
+ Gimnasia – Estudiantes (Río Cuarto)
+ Rosario Central – Sarmiento
+ Tigre – Huracán
+ Argentinos – Atlético Tucumán
+ Banfield – Independiente Rivadavia Mza.
+Fecha 16 (Fin de semana del 26/04)
+Interzonal: Independiente Rivadavia Mza. – Gimnasia (Mza.)
+Zona A
+ Lanús – Central Córdoba
+ Platense – San Lorenzo
+ Vélez – Unión
+ Newell’s – Instituto
+ Estudiantes – Talleres
+ Deportivo Riestra – Independiente
+ Defensa y Justicia – Boca
+Zona B
+ Atlético Tucumán – Banfield
+ Huracán – Argentinos
+ Sarmiento – Tigre
+ Estudiantes (Río Cuarto) – Rosario Central
+ Belgrano – Gimnasia
+ Racing – Barracas Central
+ River – Aldosivi
+Torneo Clausura 2026
+Fecha 1
+Interzonal: Defensa y Justicia – Aldosivi
+Zona A
+ Deportivo Riestra – Boca
+ Estudiantes – Independiente
+ Newell’s – Talleres
+ Vélez – Instituto
+ Platense – Unión
+ Lanús – San Lorenzo
+ Gimnasia (Mza.) – Central Córdoba
+Zona B
+ River – Barracas Central
+ Racing – Gimnasia
+ Belgrano – Rosario Central
+ Estudiantes (Río Cuarto) – Tigre
+ Sarmiento – Argentinos
+ Huracán – Banfield
+ Atlético Tucumán – Independiente Rivadavia Mza.
+Fecha 2
+Interzonal: Central Córdoba – Atlético Tucumán
+Zona A
+ San Lorenzo – Gimnasia (Mza.)
+ Unión – Lanús
+ Instituto – Platense
+ Talleres – Vélez
+ Independiente – Newell’s
+ Boca – Estudiantes
+ Defensa y Justicia – Deportivo Riestra
+Zona B
+ Independiente Rivadavia Mza. – Huracán
+ Banfield – Sarmiento
+ Argentinos – Estudiantes (Río Cuarto)
+ Tigre – Belgrano
+ Rosario Central – Racing
+ Gimnasia – River
+ Barracas Central – Aldosivi
+Fecha 3
+Interzonal: Deportivo Riestra – Barracas Central
+Zona A
+ Estudiantes – Defensa y Justicia
+ Newell’s – Boca
+ Vélez – Independiente
+ Platense – Talleres
+ Lanús – Instituto
+ Gimnasia (Mza.) – Unión
+ Central Córdoba – San Lorenzo
+Zona B
+ Aldosivi – Gimnasia
+ River – Rosario Central
+ Racing – Tigre
+ Belgrano – Argentinos
+ Estudiantes (Río Cuarto) – Banfield
+ Sarmiento – Independiente Rivadavia Mza.
+ Huracán – Atlético Tucumán
+Fecha 4
+Interzonal: San Lorenzo – Huracán
+Zona A
+ Unión – Central Córdoba
+ Instituto – Gimnasia (Mza.)
+ Talleres – Lanús
+ Independiente – Platense
+ Boca – Vélez
+ Defensa y Justicia – Newell’s
+ Deportivo Riestra – Estudiantes
+Zona B
+ Atlético Tucumán – Sarmiento
+ Independiente Rivadavia (Mza.) – Estudiantes (Río Cuarto)
+ Banfield – Belgrano
+ Argentinos – Racing
+ Tigre – River
+ Rosario Central – Aldosivi
+ Gimnasia – Barracas Central
+Fecha 5
+Interzonal: Estudiantes – Gimnasia
+Zona A
+ Newell’s – Deportivo Riestra
+ Vélez – Defensa y Justicia
+ Platense – Boca
+ Lanús – Independiente
+ Gimnasia (Mza.) – Talleres
+ Central Córdoba – Instituto
+ San Lorenzo – Unión
+Zona B
+ Barracas Central – Rosario Central
+ Aldosivi – Tigre
+ River – Argentinos
+ Racing – Banfield
+ Belgrano – Independiente Rivadavia Mza.
+ Estudiantes (Río Cuarto) – Atlético Tucumán
+ Sarmiento – Huracán
+Fecha 6 (interzonal)
+River – Vélez
+ Barracas Central – Platense
+ Talleres – Rosario Central
+ Sarmiento – Estudiantes
+ Belgrano – Defensa y Justicia
+ Lanús – Argentinos
+ Racing – Boca
+ Independiente – Independiente Rivadavia Mza.
+ Aldosivi – Unión
+ Atlético Tucumán – Instituto
+ Estudiantes (Río Cuarto) – San Lorenzo
+ Gimnasia – Gimnasia (Mza.)
+ Tigre – Central Córdoba
+ Huracán – Deportivo Riestra
+ Newell’s – Banfield
+Fecha 7
+Interzonal: Unión – Sarmiento
+Zona A
+ Instituto – San Lorenzo
+ Talleres – Central Córdoba
+ Independiente – Gimnasia (Mza.)
+ Boca – Lanús
+ Defensa y Justicia – Platense
+ Deportivo Riestra – Vélez
+ Estudiantes – Newell’s
+Zona B
+ Huracán – Estudiantes (Río Cuarto)
+ Atlético Tucumán – Belgrano
+ Independiente Rivadavia Mza. – Racing
+ Banfield – River
+ Argentinos – Aldosivi
+ Tigre – Barracas Central
+ Rosario Central – Gimnasia
+Fecha 8
+Interzonal: Rosario Central – Newell’s
+Zona A
+ Vélez – Estudiantes
+ Platense – Deportivo Riestra
+ Lanús – Defensa y Justicia
+ Gimnasia (Mza.) – Boca
+ Central Córdoba – Independiente
+ San Lorenzo – Talleres
+ Unión – Instituto
+Zona B
+Gimnasia – Tigre
+ Barracas Central – Argentinos
+ Aldosivi – Banfield
+ River – Independiente Rivadavia Mza.
+ Racing – Atlético Tucumán
+ Belgrano – Huracán
+ Estudiantes (Río Cuarto) – Sarmiento
+Fecha 9
+Interzonal: Instituto – Estudiantes (Río Cuarto)
+Zona A
+ Talleres – Unión
+ Independiente – San Lorenzo
+ Boca – Central Córdoba
+ Defensa y Justicia – Gimnasia (Mza.)
+ Deportivo Riestra – Lanús
+ Estudiantes – Platense
+ Newell’s – Vélez
+Zona B
+ Sarmiento – Belgrano
+ Huracán – Racing
+ Atlético Tucumán – River
+ Independiente Rivadavia Mza. – Aldosivi
+ Banfield – Barracas Central
+ Argentinos – Gimnasia
+ Tigre – Rosario Central
+Fecha 10
+Interzonal: Vélez – Tigre
+Zona A
+ Platense – Newell’s
+ Lanús – Estudiantes
+ Gimnasia (Mza.) – Deportivo Riestra
+ Central Córdboa – Defensa y Justicia
+ San Lorenzo – Boca
+ Unión – Independiente
+ Instituto – Talleres
+Zona B
+ Rosario Central – Argentinos
+ Gimnasia – Banfield
+ Barracas Central – Independiente Rivadavia Mza.
+ Aldosivi – Atlético Tucumán
+ River – Huracán
+ Racing – Sarmiento
+ Belgrano – Estudiantes (Río Cuarto)
+Fecha 11
+Interzonal: Talleres – Belgrano
+Zona A
+ Independiente – Instituto
+ Boca – Unión
+ Defensa y Justicia – San Lorenzo
+ Deportivo Riestra – Central Córdoba
+ Estudiantes – Gimnasia Mza.
+ Newell’s – Lanús
+ Vélez – Platense
+Zona B
+ Estudiantes (Río Cuarto) – Racing
+ Sarmiento – River
+ Huracán – Aldosivi
+ Atlético Tucumán – Barracas Central
+ Independiente Rivadavia Mza. – Gimnasia
+ Banfield – Rosario Central
+ Argentinos – Tigre
+Fecha 12
+Interzonal: Platense – Argentinos
+Zona A
+ Lanús – Vélez
+ Gimnasia Mza. – Newell’s
+ Central Córdoba – Estudiantes
+ San Lorenzo – Deportivo Riestra
+ Unión – Defensa y Justicia
+ Instituto – Boca
+ Talleres – Independiente
+Zona B
+ Tigre – Banfield
+ Rosario Central – Independiente Rivadavia Mza.
+ Gimnasia – Atlético Tucumán
+ Barracas Central – Huracán
+ Aldosivi – Sarmiento
+ River – Estudiantes (Río Cuarto)
+ Racing – Belgrano
+Fecha 13
+Interzonal: Racing – Independiente
+Zona A
+ Boca – Talleres
+ Defensa y Justicia – Instituto
+ Deportivo Riestra – Unión
+ Estudiantes – San Lorenzo
+ Newell’s – Central Córdoba
+ Vélez – Gimnasia (Mza.)
+ Platense – Lanús
+Zona B
+ Belgrano – River
+ Estudiantes (Río Cuarto) – Aldosivi
+ Sarmiento – Barracas Central
+ Huracán – Gimnasia
+ Atlético Tucumán – Rosario Central
+ Independiente Rivadavia Mza. – Tigre
+ Banfield – Argentinos
+Fecha 14
+Interzonal: Banfield – Lanús
+Zona A
+ Gimnasia (Mza.) – Platense
+ Central Córdoba – Vélez
+ San Lorenzo – Newell’s
+ Unión – Estudiantes
+ Instituto – Deportivo Riestra
+ Talleres – Defensa y Justicia
+ Independiente – Boca
+Zona B
+ Argentinos – Independiente Rivadavia Mza.
+ Tigre – Atlético Tucumán
+ Rosario Central – Huracán
+ Gimnasia – Sarmiento
+ Barracas Central – Estudiantes (Río Cuarto)
+ Aldosivi – Belgrano
+ River – Racing
+Fecha 15
+Interzonal: Boca – River
+Zona A
+ Defensa y Justicia – Independiente
+ Deportivo Riestra – Talleres
+ Estudiantes – Instituto
+ Newell’s – Unión
+ Vélez – San Lorenzo
+ Platense – Central Córdoba
+ Lanús – Gimnasia (Mza.)
+Zona B
+ Racing – Aldosivi
+ Belgrano – Barracas Central
+ Estudiantes de Río Cuarto – Gimnasia
+ Sarmiento – Rosario Central
+ Huracán – Tigre
+ Atlético Tucumán – Argentinos Juniors
+ Independiente Rivadavia Mza. – Banfield
+Fecha 16
+Interzonal: Gimnasia (Mza.) – Independiente Rivadavia Mza.
+Zona A
+ Central Córdoba – Lanús
+ San Lorenzo – Platense
+ Unión – Vélez
+ Instituto – Newell’s
+ Talleres – Estudiantes
+ Independiente – Deportivo Riestra
+ Boca – Defensa y Justicia
+Zona B
+Banfield – Atlético Tucumán
+ Argentinos – Huracán
+ Tigre – Sarmiento
+ Rosario Central – Estudiantes (Río Cuarto)
+ Gimnasia – Belgrano
+ Barracas Central – Racing
+ Aldosivi – River
 Trofeo de Campeones
 El Trofeo de Campeones Betano se disputará el sábado 20 de diciembre en el Estadio Único de San Nicolás. Para ese encuentro, ya se encuentra clasificado Platense por ser el campeón del Torneo Betano Apertura 2025. El otro finalista será el ganador del Torneo Betano Clausura.
 Trofeo de Campeones de Proyección
