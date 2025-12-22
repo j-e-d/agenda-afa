@@ -631,14 +631,511 @@ Newell´s Old Boys c. Belgrano (Cba.), a las 19.30 hs., en Sp. Belgrano (San Fra
 En caso de igualdad al cabo de los 90 minutos reglamentarios, la definición se operará mediante la ejecución de tiros desde el punto penal, conforme a las disposiciones del art. 111 apartado I, punto 1) c). del Reglamento General de AFA.
 Supercopa Argentina 
 Primera Nacional
-Primera B
-Final
-17.00 Deportivo Armenio - Acassuso
-Árbitro: Hernán Mastrangelo
- Asistente 1: Diego Bonfá
- Asistente 2: Iván Aliende
- Cuarto árbitro: Wencesleo Meneses
- Quinto árbitro: Juan Ricciardi
+Primera B 2026
+Fecha 1 - 07/02/2026 
+ Ituzaingó - Dep. Armenio 
+ Flandria - Brown (Adrogué) 
+ Argentino de Quilmes - Dep. Laferrere 
+ Def. Unidos - Talleres (RE) 
+ Comunicaciones - Argentino de Merlo 
+ Dock Sud - Arsenal 
+ Dep. Merlo - Excursionistas 
+ Camioneros - Villa Dálmine 
+ Sportivo Italiano - UAI Urquiza 
+ San Martín (B) - Real Pilar 
+ Villa San Carlos - Liniers
+Fecha 2 - 14/02/2026
+ Villa San Carlos - Ituzaingó 
+ Liniers - San Martín (B) 
+ Real Pilar - Sportivo Italiano 
+ UAI Urquiza - Camioneros 
+ Villa Dálmine - Dep. Merlo
+ Excursionistas - Dock Sud 
+ Arsenal - Comunicaciones 
+ Argentino de Merlo - Def. Unidos 
+ Talleres (RE) - Argentino de Quilmes 
+ Dep. Laferrere – Flandria
+ Brown (Adrogué) - Dep. Armenio
+Fecha 3 - 17/02/2026
+ Ituzaingó - Brown (Adrogué) 
+ Dep. Armenio - Dep. Laferrere 
+ Flandria - Talleres (RE)
+ Argentino de Quilmes - Argentino de Merlo 
+ Def. Unidos - Arsenal 
+ Comunicaciones - Excursionistas 
+ Dock Sud - Villa Dálmine 
+ Dep. Merlo - UAI Urquiza 
+ Camioneros - Real Pilar 
+ Sportivo Italiano - Liniers 
+ San Martín (B) - Villa San Carlos
+Fecha 4 - 21/02/2026 
+ San Martín (B) – Ituzaingó
+ Villa San Carlos - Sportivo Italiano 
+ Liniers - Camioneros 
+ Real Pilar - Dep. Merlo 
+ UAI Urquiza - Dock Sud 
+ Villa Dálmine - Comunicaciones 
+ Excursionistas - Def. Unidos 
+ Arsenal - Argentino de Quilmes 
+ Argentino de Merlo - Flandria 
+ Talleres (RE) - Dep. Armenio 
+ Dep. Laferrere - Brown (Adrogué)
+Fecha 5 - 28/02/2026 
+ Ituzaingó - Dep. Laferrere
+ Brown (Adrogué) - Talleres (RE) 
+ Dep. Armenio - Argentino de Merlo 
+ Flandria - Arsenal 
+ Argentino de Quilmes - Excursionistas 
+ Def. Unidos - Villa Dálmine
+ Comunicaciones - UAI Urquiza 
+ Dock Sud - Real Pilar 
+ Dep. Merlo - Liniers 
+ Camioneros - Villa San Carlos 
+ Sportivo Italiano - San Martín (B)
+Fecha 6 - 07/03/2026 
+ Sportivo Italiano - Ituzaingó 
+ San Martín (B) - Camioneros 
+ Villa San Carlos - Dep. Merlo 
+ Liniers - Dock Sud 
+ Real Pilar - Comunicaciones 
+ UAI Urquiza - Def. Unidos 
+ Villa Dálmine - Argentino de Quilmes 
+ Excursionistas - Flandria 
+ Arsenal - Dep. Armenio 
+ Argentino de Merlo - Brown (Adrogué) 
+ Talleres (RE) - Dep. Laferrere
+Fecha 7 - 14/03/2026 
+ Ituzaingó - Talleres (RE) 
+ Dep. Laferrere - Argentino de Merlo 
+ Brown (Adrogué) - Arsenal 
+ Dep. Armenio – Excursionistas
+ Flandria - Villa Dálmine 
+ Argentino de Quilmes - UAI Urquiza 
+ Def. Unidos - Real Pilar 
+ Comunicaciones - Liniers 
+ Dock Sud - Villa San Carlos 
+ Dep. Merlo - San Martín (B) 
+ Camioneros - Sportivo Italiano
+Fecha 8 - 21/03/2026 
+ Camioneros - Ituzaingó 
+ Sportivo Italiano - Dep. Merlo 
+ San Martín (B) - Dock Sud 
+ Villa San Carlos - Comunicaciones 
+ Liniers - Def. Unidos
+ Real Pilar - Argentino de Quilmes 
+ UAI Urquiza - Flandria 
+ Villa Dálmine - Dep. Armenio 
+ Excursionistas - Brown (Adrogué) 
+ Arsenal - Dep. Laferrere 
+ Argentino de Merlo - Talleres (RE)
+Fecha 9 - 28/03/2026 
+ Ituzaingó - Argentino de Merlo 
+ Talleres (RE) - Arsenal 
+ Dep. Laferrere - Excursionistas 
+ Brown (Adrogué) - Villa Dálmine 
+ Dep. Armenio - UAI Urquiza 
+ Flandria - Real Pilar 
+ Argentino de Quilmes - Liniers 
+ Def. Unidos - Villa San Carlos 
+ Comunicaciones - San Martín (B) 
+ Dock Sud - Sportivo Italiano 
+ Dep. Merlo - Camioneros
+Fecha 10 - 04/04/2026 
+ Dep. Merlo - Ituzaingó 
+ Camioneros - Dock Sud 
+ Sportivo Italiano - Comunicaciones 
+ San Martín (B) - Def. Unidos 
+ Villa San Carlos - Argentino de Quilmes 
+ Liniers - Flandria 
+ Real Pilar - Dep. Armenio 
+ UAI Urquiza - Brown (Adrogué) 
+ Villa Dálmine - Dep. Laferrere 
+ Excursionistas - Talleres (RE) 
+ Arsenal - Argentino de Merlo
+Fecha 11 - 07/04/2026 
+ Ituzaingó - Arsenal 
+ Argentino de Merlo - Excursionistas 
+ Talleres (RE) - Villa Dálmine 
+ Dep. Laferrere - UAI Urquiza 
+ Brown (Adrogué) - Real Pilar 
+ Dep. Armenio - Liniers 
+ Flandria - Villa San Carlos 
+ Argentino de Quilmes - San Martín (B) 
+ Def. Unidos - Sportivo Italiano 
+ Comunicaciones - Camioneros 
+ Dock Sud - Dep. Merlo
+Fecha 12 - 11/04/2026 
+ Dock Sud - Ituzaingó 
+ Dep. Merlo – Comunicaciones
+ Camioneros - Def. Unidos 
+ Sportivo Italiano - Argentino de Quilmes 
+ San Martín (B) - Flandria 
+ Villa San Carlos - Dep. Armenio
+ Liniers - Brown (Adrogué) 
+ Real Pilar - Dep. Laferrere 
+ UAI Urquiza - Talleres (RE) 
+ Villa Dálmine - Argentino de Merlo 
+ Excursionistas - Arsenal
+Fecha 13 - 18/04/2026 
+ Ituzaingó - Excursionistas 
+ Arsenal - Villa Dálmine 
+ Argentino de Merlo - UAI Urquiza 
+ Talleres (RE) - Real Pilar 
+ Dep. Laferrere - Liniers 
+ Brown (Adrogué) - Villa San Carlos 
+ Dep. Armenio - San Martín (B) 
+ Flandria - Sportivo Italiano 
+ Argentino de Quilmes - Camioneros 
+ Def. Unidos - Dep. Merlo 
+ Comunicaciones - Dock Sud
+Fecha 14 - 25/04/2026 
+ Comunicaciones - Ituzaingó 
+ Dock Sud - Def. Unidos 
+ Dep. Merlo - Argentino de Quilmes 
+ Camioneros - Flandria 
+ Sportivo Italiano - Dep. Armenio 
+ San Martín (B) - Brown (Adrogué) 
+ Villa San Carlos - Dep. Laferrere 
+ Liniers - Talleres (RE) 
+ Real Pilar - Argentino de Merlo 
+ UAI Urquiza - Arsenal 
+ Villa Dálmine - Excursionistas
+Fecha 15 - 02/05/2026 
+ Ituzaingó - Villa Dálmine 
+ Excursionistas - UAI Urquiza 
+ Arsenal - Real Pilar 
+ Argentino de Merlo - Liniers 
+ Talleres (RE) - Villa San Carlos 
+ Dep. Laferrere - San Martín (B) 
+ Brown (Adrogué) - Sportivo Italiano 
+ Dep. Armenio - Camioneros 
+ Flandria - Dep. Merlo 
+ Argentino de Quilmes - Dock Sud 
+ Def. Unidos - Comunicaciones
+Fecha 16 - 09/05/2026 
+ Def. Unidos - Ituzaingó 
+ Comunicaciones - Argentino de Quilmes 
+ Dock Sud - Flandria 
+ Dep. Merlo - Dep. Armenio 
+ Camioneros - Brown (Adrogué) 
+ Sportivo Italiano - Dep. Laferrere 
+ San Martín (B) - Talleres (RE) 
+ Villa San Carlos - Argentino de Merlo 
+ Liniers - Arsenal 
+ Real Pilar - Excursionistas 
+ UAI Urquiza - Villa Dálmine
+Fecha 17 - 16/05/2026 
+ Ituzaingó - UAI Urquiza 
+ Villa Dálmine - Real Pilar 
+ Excursionistas - Liniers 
+ Arsenal - Villa San Carlos 
+ Argentino de Merlo - San Martín (B) 
+ Talleres (RE) - Sportivo Italiano 
+ Dep. Laferrere - Camioneros 
+ Brown (Adrogué) - Dep. Merlo 
+ Dep. Armenio - Dock Sud 
+ Flandria - Comunicaciones 
+ Argentino de Quilmes - Def. Unidos
+Fecha 18 - 23/05/2026 
+ Argentino de Quilmes - Ituzaingó 
+ Def. Unidos - Flandria 
+ Comunicaciones - Dep. Armenio 
+ Dock Sud - Brown (Adrogué) 
+ Dep. Merlo - Dep. Laferrere 
+ Camioneros - Talleres (RE) 
+ Sportivo Italiano - Argentino de Merlo 
+ San Martín (B) - Arsenal 
+ Villa San Carlos - Excursionistas 
+ Liniers - Villa Dálmine 
+ Real Pilar - UAI Urquiza
+Fecha 19 - 30/05/2026 
+ Ituzaingó - Real Pilar 
+ UAI Urquiza - Liniers 
+ Villa Dálmine - Villa San Carlos
+ Excursionistas - San Martín (B) 
+ Arsenal - Sportivo Italiano 
+ Argentino de Merlo - Camioneros 
+ Talleres (RE) - Dep. Merlo 
+ Dep. Laferrere - Dock Sud 
+ Brown (Adrogué) - Comunicaciones 
+ Dep. Armenio - Def. Unidos 
+ Flandria - Argentino de Quilmes
+Fecha 20 - 06/06/2026 
+ Flandria - Ituzaingó 
+ Argentino de Quilmes - Dep. Armenio 
+ Def. Unidos - Brown (Adrogué) 
+ Comunicaciones - Dep. Laferrere 
+ Dock Sud - Talleres (RE) 
+ Dep. Merlo - Argentino de Merlo 
+ Camioneros - Arsenal 
+ Sportivo Italiano - Excursionistas 
+ San Martín (B) - Villa Dálmine 
+ Villa San Carlos - UAI Urquiza 
+ Liniers - Real Pilar
+Fecha 21 - 13/06/2026 
+ Ituzaingó - Liniers 
+ Real Pilar - Villa San Carlos 
+ UAI Urquiza - San Martín (B) 
+ Villa Dálmine - Sportivo Italiano 
+ Excursionistas – Camioneros
+ Arsenal - Dep. Merlo 
+ Argentino de Merlo - Dock Sud 
+ Talleres (RE) – Comunicaciones
+ Dep. Laferrere - Def. Unidos 
+ Brown (Adrogué) - Argentino de Quilmes
+ Dep. Armenio - Flandria
+Fecha 22 - 20/06/2026 
+ Dep. Armenio – Ituzaingó 
+ Brown (Adrogué) - Flandria 
+ Dep. Laferrere - Argentino de Quilmes 
+ Talleres (RE) - Def. Unidos 
+ Argentino de Merlo - Comunicaciones 
+ Arsenal - Dock Sud 
+ Excursionistas - Dep. Merlo 
+ Villa Dálmine - Camioneros 
+ UAI Urquiza - Sportivo Italiano 
+ Real Pilar - San Martín (B) 
+ Liniers - Villa San Carlos
+Fecha 23 - 27/06/2026 
+ Ituzaingó - Villa San Carlos 
+ San Martín (B) - Liniers 
+ Sportivo Italiano - Real Pilar 
+ Camioneros - UAI Urquiza 
+ Dep. Merlo - Villa Dálmine 
+ Dock Sud - Excursionistas 
+ Comunicaciones - Arsenal 
+ Def. Unidos - Argentino de Merlo 
+ Argentino de Quilmes - Talleres (RE) 
+ Flandria - Dep. Laferrere 
+ Dep. Armenio - Brown (Adrogué)
+Fecha 24 - 30/06/2026 
+ Brown (Adrogué) - Ituzaingó 
+ Dep. Laferrere - Dep. Armenio 
+ Talleres (RE) - Flandria 
+ Argentino de Merlo - Argentino de Quilmes 
+ Arsenal - Def. Unidos 
+ Excursionistas - Comunicaciones 
+ Villa Dálmine - Dock Sud 
+ UAI Urquiza - Dep. Merlo 
+ Real Pilar - Camioneros 
+ Liniers - Sportivo Italiano 
+ Villa San Carlos - San Martín (B)
+Fecha 25 - 04/07/2026 
+ Ituzaingó - San Martín (B) 
+ Sportivo Italiano - Villa San Carlos
+ Camioneros - Liniers 
+ Dep. Merlo - Real Pilar 
+ Dock Sud - UAI Urquiza 
+ Comunicaciones - Villa Dálmine 
+ Def. Unidos - Excursionistas 
+ Argentino de Quilmes - Arsenal 
+ Flandria - Argentino de Merlo 
+ Dep. Armenio - Talleres (RE) 
+ Brown (Adrogué) - Dep. Laferrere
+Fecha 26 - 11/07/2026 
+ Dep. Laferrere - Ituzaingó 
+ Talleres (RE) - Brown (Adrogué) 
+ Argentino de Merlo - Dep. Armenio 
+ Arsenal - Flandria 
+ Excursionistas - Argentino de Quilmes
+ Villa Dálmine - Def. Unidos 
+ UAI Urquiza - Comunicaciones 
+ Real Pilar - Dock Sud 
+ Liniers - Dep. Merlo 
+ Villa San Carlos - Camioneros 
+ San Martín (B) - Sportivo Italiano
+Fecha 27 - 18/07/2026 
+ Ituzaingó - Sportivo Italiano 
+ Camioneros - San Martín (B)
+ Dep. Merlo - Villa San Carlos 
+ Dock Sud - Liniers 
+ Comunicaciones - Real Pilar 
+ Def. Unidos - UAI Urquiza 
+ Argentino de Quilmes - Villa Dálmine 
+ Flandria – Excursionistas
+ Dep. Armenio - Arsenal 
+ Brown (Adrogué) - Argentino de Merlo 
+ Dep. Laferrere - Talleres (RE)
+Fecha 28 - 25/07/2026 
+ Talleres (RE) - Ituzaingó 
+ Argentino de Merlo - Dep. Laferrere 
+ Arsenal - Brown (Adrogué) 
+ Excursionistas - Dep. Armenio 
+ Villa Dálmine - Flandria 
+ UAI Urquiza - Argentino de Quilmes 
+ Real Pilar - Def. Unidos 
+ Liniers - Comunicaciones 
+ Villa San Carlos - Dock Sud 
+ San Martín (B) - Dep. Merlo 
+ Sportivo Italiano - Camioneros
+Fecha 29 - 01/08/2026 
+ Ituzaingó - Camioneros 
+ Dep. Merlo - Sportivo Italiano 
+ Dock Sud - San Martín (B) 
+ Comunicaciones - Villa San Carlos 
+ Def. Unidos - Liniers 
+ Argentino de Quilmes – Real Pilar 
+ Flandria - UAI Urquiza 
+ Dep. Armenio - Villa Dálmine 
+ Brown (Adrogué) - Excursionistas 
+ Dep. Laferrere - Arsenal 
+ Talleres (RE) - Argentino de Merlo
+Fecha 30 - 08/08/2026 
+ Argentino de Merlo - Ituzaingó 
+ Arsenal - Talleres (RE) 
+ Excursionistas - Dep. Laferrere 
+ Villa Dálmine - Brown (Adrogué) 
+ UAI Urquiza - Dep. Armenio 
+ Real Pilar - Flandria 
+ Liniers - Argentino de Quilmes 
+ Villa San Carlos - Def. Unidos 
+ San Martín (B) - Comunicaciones 
+ Sportivo Italiano - Dock Sud 
+ Camioneros - Dep. Merlo
+Fecha 31 - 15/08/2026
+ Ituzaingó - Dep. Merlo 
+ Dock Sud - Camioneros 
+ Comunicaciones - Sportivo Italiano 
+ Def. Unidos - San Martín (B) 
+ Argentino de Quilmes - Villa San Carlos 
+ Flandria - Liniers 
+ Dep. Armenio - Real Pilar 
+ Brown (Adrogué) - UAI Urquiza 
+ Dep. Laferrere - Villa Dálmine 
+ Talleres (RE) - Excursionistas 
+ Argentino de Merlo - Arsenal
+Fecha 32 - 18/08/2026 
+ Arsenal - Ituzaingó 
+ Excursionistas - Argentino de Merlo 
+ Villa Dálmine - Talleres (RE) 
+ UAI Urquiza - Dep. Laferrere 
+ Real Pilar - Brown (Adrogué) 
+ Liniers - Dep. Armenio 
+ Villa San Carlos - Flandria 
+ San Martín (B) - Argentino de Quilmes 
+ Sportivo Italiano - Def. Unidos 
+ Camioneros - Comunicaciones 
+ Dep. Merlo - Dock Sud
+Fecha 33 - 22/08/2026 
+ Ituzaingó - Dock Sud 
+ Comunicaciones - Dep. Merlo 
+ Def. Unidos - Camioneros 
+ Argentino de Quilmes - Sportivo Italiano 
+ Flandria - San Martín (B) 
+ Dep. Armenio - Villa San Carlos 
+ Brown (Adrogué) - Liniers 
+ Dep. Laferrere - Real Pilar 
+ Talleres (RE) - UAI Urquiza 
+ Argentino de Merlo - Villa Dálmine 
+ Arsenal - Excursionistas
+Fecha 34 - 29/08/2026 
+ Excursionistas - Ituzaingó 
+ Villa Dálmine - Arsenal 
+ UAI Urquiza - Argentino de Merlo 
+ Real Pilar - Talleres (RE) 
+ Liniers - Dep. Laferrere 
+ Villa San Carlos - Brown (Adrogué) 
+ San Martín (B) - Dep. Armenio 
+ Sportivo Italiano - Flandria 
+ Camioneros - Argentino de Quilmes 
+ Dep. Merlo - Def. Unidos 
+ Dock Sud - Comunicaciones
+Fecha 35 - 05/09/2026 
+ Ituzaingó - Comunicaciones 
+ Def. Unidos - Dock Sud 
+ Argentino de Quilmes - Dep. Merlo 
+ Flandria - Camioneros 
+ Dep. Armenio - Sportivo Italiano 
+ Brown (Adrogué) - San Martín (B) 
+ Dep. Laferrere - Villa San Carlos 
+ Talleres (RE) - Liniers 
+ Argentino de Merlo - Real Pilar 
+ Arsenal - UAI Urquiza 
+ Excursionistas - Villa Dálmine
+Fecha 36 - 12/09/2026 
+ Villa Dálmine - Ituzaingó 
+ UAI Urquiza - Excursionistas 
+ Real Pilar - Arsenal 
+ Liniers - Argentino de Merlo 
+ Villa San Carlos - Talleres (RE) 
+ San Martín (B) - Dep. Laferrere 
+ Sportivo Italiano - Brown (Adrogué) 
+ Camioneros - Dep. Armenio 
+ Dep. Merlo - Flandria 
+ Dock Sud - Argentino de Quilmes 
+ Comunicaciones - Def. Unidos
+Fecha 37 - 19/09/2026 
+ Ituzaingó - Def. Unidos 
+ Argentino de Quilmes - Comunicaciones 
+ Flandria - Dock Sud 
+ Dep. Armenio - Dep. Merlo 
+ Brown (Adrogué) - Camioneros 
+ Dep. Laferrere - Sportivo Italiano
+ Talleres (RE) - San Martín (B) 
+ Argentino de Merlo - Villa San Carlos 
+ Arsenal - Liniers 
+ Excursionistas - Real Pilar 
+ Villa Dálmine - UAI Urquiza
+Fecha 38 - 26/09/2026 
+ UAI Urquiza - Ituzaingó 
+ Real Pilar - Villa Dálmine 
+ Liniers - Excursionistas 
+ Villa San Carlos - Arsenal 
+ San Martín (B) - Argentino de Merlo 
+ Sportivo Italiano - Talleres (RE) 
+ Camioneros - Dep. Laferrere 
+ Dep. Merlo - Brown (Adrogué) 
+ Dock Sud - Dep. Armenio 
+ Comunicaciones - Flandria 
+ Def. Unidos - Argentino de Quilmes
+Fecha 39 - 03/10/2026 
+ Ituzaingó - Argentino de Quilmes 
+ Flandria - Def. Unidos 
+ Dep. Armenio - Comunicaciones 
+ Brown (Adrogué) - Dock Sud 
+ Dep. Laferrere - Dep. Merlo 
+ Talleres (RE) - Camioneros 
+ Argentino de Merlo - Sportivo Italiano 
+ Arsenal - San Martín (B) 
+ Excursionistas - Villa San Carlos
+ Villa Dálmine - Liniers 
+ UAI Urquiza - Real Pilar
+Fecha 40 - 10/10/2026 
+ Real Pilar - Ituzaingó 
+ Liniers - UAI Urquiza 
+ Villa San Carlos - Villa Dálmine 
+ San Martín (B) - Excursionistas 
+ Sportivo Italiano - Arsenal 
+ Camioneros - Argentino de Merlo 
+ Dep. Merlo - Talleres (RE) 
+ Dock Sud - Dep. Laferrere 
+ Comunicaciones - Brown (Adrogué) 
+ Def. Unidos - Dep. Armenio 
+ Argentino de Quilmes - Flandria
+Fecha 41 - 17/10/2026 
+ Ituzaingó - Flandria 
+ Dep. Armenio - Argentino de Quilmes 
+ Brown (Adrogué) - Def. Unidos 
+ Dep. Laferrere - Comunicaciones 
+ Talleres (RE) - Dock Sud 
+ Argentino de Merlo - Dep. Merlo 
+ Arsenal - Camioneros 
+ Excursionistas - Sportivo Italiano 
+ Villa Dálmine - San Martín (B) 
+ UAI Urquiza - Villa San Carlos 
+ Real Pilar - Liniers
+Fecha 42 - 24/10/2026 
+ Liniers - Ituzaingó 
+ Villa San Carlos - Real Pilar 
+ San Martín (B) - UAI Urquiza 
+ Sportivo Italiano - Villa Dálmine 
+ Camioneros - Excursionistas 
+ Dep. Merlo - Arsenal 
+ Dock Sud - Argentino de Merlo 
+ Comunicaciones - Talleres (RE) 
+ Def. Unidos - Dep. Laferrere 
+ Argentino de Quilmes - Brown (Adrogué) 
+ Flandria - Dep. Armenio
 Primera C
 Promocional Amateur
 Copa Argentina 2026
