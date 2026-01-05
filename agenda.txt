@@ -1,268 +1,248 @@
 25/03/2019
 Torneo Apertura 2026
-Así quedaron conformadas las zonas para la temporada 2026
-Zona A
-Platense
- Defensa y Justicia
- Central Córdoba
- Lanús
- Deportivo Riestra
- Talleres
- Boca
- Estudiantes
- Instituto
- Gimnasia Mza.
- San Lorenzo
- Independiente
- Newell’s
- Unión
- Vélez
-Zona B
-Argentinos
- Aldosivi
- Atlético Tucumán
- Banfield
- Barracas Central
- Belgrano
- River
- Gimnasia
- Estudiantes (Río Cuarto)
- Independiente Rivadavia Mza.
- Huracán
- Racing
- Rosario Central
- Sarmiento
- Tigre
-Fecha Interzonal, que quedó diagramada de esta manera (esta información no determina localías definitivas, que serán informadas a la brevedad).
-Vélez – River
- Barracas Central – Platense
- Talleres – Rosario Central
- Sarmiento – Estudiantes
- Defensa y Justicia – Belgrano
+Fecha 1
+Jueves 22 de enero
+ 17.00 Aldosivi – Defensa y Justicia (Interzonal)
+ 20.00 Unión – Platense (Zona A)
+ 20.00 Banfield – Huracán (Zona B)
+ 22.15 Central Córdoba – Gimnasia (Mza.) (Zona A)
+ 22.15 Instituto – Vélez (Zona A)
+Viernes 23 de enero
+ 17.45 San Lorenzo – Lanús (Zona A)
+ 20.00 Independiente – Estudiantes (Zona A)
+ 22.15 Talleres – Newell’s (Zona A)
+ 22.15 Independiente Rivadavia Mza. – Atlético Tucumán (Zona B)
+Sábado 24 de enero
+ 17.00 Barracas Central – River (Zona B)
+ 19.30 Gimnasia – Racing (Zona B)
+ 22.00 Rosario Central – Belgrano (Zona B)
+Domingo 25 de enero
+ 18.30 Boca – Deportivo Riestra (Zona A)
+ 21.00 Tigre – Estudiantes (Río Cuarto) (Zona B)
+ 21.00 Argentinos – Sarmiento (Zona B)
+Fecha 2
+Lunes 26 de enero
+ 17.00 Platense – Instituto (Zona A)
+Martes 27 de enero
+ 17.45 Vélez – Talleres (Zona A)
+ 20.00 Gimnasia (Mza.) – San Lorenzo (Zona A)
+ 20.00 Huracán – Independiente Rivadavia Mza. (Zona B)
+ 22.15 Newell’s – Independiente (Zona A)
+ 22.15 Atlético Tucumán – Central Córdoba (Interzonal)
+Miércoles 28 de enero
+ 17.00 Aldosivi – Barracas Central (Zona B)
+ 18.00 Racing – Rosario Central (Zona B)
+ 20.00 River – Gimnasia (Zona B)
+ 22.15 Estudiantes – Boca (Zona A)
+Jueves 29 de enero
+ 17.00 Deportivo Riestra – Defensa y Justicia (Zona A)
+ 19.15 Lanús – Unión (Zona A)
+ 19.15 Belgrano – Tigre (Zona B)
+ 21.30 Estudiantes (Río Cuarto) – Argentinos (Zona B)
+ 21.30 Sarmiento – Banfield (Zona A)
+Fecha 3
+Sábado 31 de enero
+ 17.30 San Lorenzo – Central Córdoba (Zona A)
+ 19.45 Independiente – Vélez (Zona A)
+ 22.00 Talleres – Platense (Zona A)
+ 22.00 Atlético Tucumán – Huracán (Zona B)
+Domingo 1° de febrero
+ 17.00 Barracas Central – Deportivo Riestra (Interzonal)
+ 19.15 Boca – Newell’s (Zona A)
+ 21.30 Rosario Central – River (Zona B)
+Lunes 2 de febrero
+ 17.30 Gimnasia – Aldosivi (Zona B)
+ 17.30 Defensa y Justicia – Estudiantes (Zona A)
+ 19.45 Tigre – Racing (Zona B)
+ 22.00 Unión – Gimnasia (Mza.) (Zona A)
+ 22.00 Argentinos – Belgrano (Zona A)
+Martes 3 de febrero
+ 19.00 Banfield – Estudiantes (Río Cuarto) (Zona A)
+ 21.15 Independiente Rivadavia Mza. – Sarmiento (Zona B)
+ 21.15 Instituto – Lanús (Zona A)
+Fecha 4
+Viernes 6 de febrero
+ 21.00 Central Córdoba – Unión (Zona A)
+Sábado 7 de febrero
+ 17.00 Aldosivi – Rosario Central (Zona B)
+ 18.00 Racing – Argentinos (Zona B)
+ 20.00 River – Tigre (Zona B)
+ 22.15 Newell’s – Defensa y Justicia (Zona A)
+ 22.15 Belgrano – Banfield (Zona B)
+Domingo 8 de febrero
+ 17.00 Platense – Independiente (Zona A)
+ 17.00 Sarmiento – Atlético Tucumán (Zona B)
+ 19.15 Huracán – San Lorenzo (Interzonal)
+ 22.15 Gimnasia (Mza.) – Instituto (Zona A)
+ 22.15 Vélez – Boca (Zona A)
+Lunes 9 de febrero
+ 17.00 Barracas Central – Gimnasia (Zona B)
+ 19.15 Estudiantes – Deportivo Riestra (Zona A)
+ 19.15 Lanús – Talleres (Zona A)
+ 21.30 Estudiantes (Río Cuarto) – Independiente Rivadavia Mza. (Zona B)
+Fecha 5
+Jueves 12 de febrero
+ 19.00 Tigre – Aldosivi (Zona B)
+ 21.15 Argentinos – River (Zona B)
+Viernes 13 de febrero
+ 18.00 Defensa y Justicia – Vélez (Zona A)
+ 20.00 Independiente – Lanús (Zona A)
+ 22.15 Unión – San Lorenzo (Zona A)
+Sábado 14 de febrero
+ 17.30 Banfield – Racing (Zona B)
+ 19.45 Talleres – Gimnasia (Mza.) (Zona A)
+ 19.45 Huracán – Sarmiento (Zona B)
+ 22.00 Atlético Tucumán – Estudiantes (Río Cuarto) (Zona B)
+ 22.00 Independiente Rivadavia Mza. – Belgrano (Zona B)
+Domingo 15 de febrero
+ 17.00 Gimnasia – Estudiantes (Interzonal)
+ 19.30 Boca – Platense (Zona A)
+ 22.00 Rosario Central – Barracas Central (Zona B)
+ 22.00 Instituto – Central Córdoba (Zona B)
+Lunes 16 de febrero
+ 19.00 Deportivo Riestra – Newell’s (Zona A)
+Fecha 6 (Interzonal)
+Jueves 19 de febrero
+ 17.15 Defensa y Justicia – Belgrano
+ 17.15 San Lorenzo – Estudiantes (Río Cuarto)
+ 19.30 Independiente Rivadavia Mza. – Independiente
+ 19.30 Instituto – Atlético Tucumán
+Viernes 20 de febrero
+ 18.00 Estudiantes – Sarmiento
+ 20.00 Boca – Racing
+ 22.15 Gimnasia (Mza.) – Gimnasia
+ 22.15 Rosario Central – Talleres
+Sábado 21 de febrero
+ 17.00 Platense – Barracas Central
+ 17.00 Banfield – Newell’s
+ 19.15 Deportivo Riestra – Huracán
+ 21.30 Central Córdoba – Tigre
+Domingo 22 de febrero
+ 18.30 Vélez – River
+ 21.00 Unión – Aldosivi
+A confirmar
  Argentinos – Lanús
- Boca – Racing
- Independiente Rivadavia Mza. – Independiente
- Unión – Aldosivi
- Atlético Tucumán – Instituto
- San Lorenzo – Estudiantes (Río Cuarto)
- Gimnasia – Gimnasia Mza.
- Central Córdoba – Tigre
- Huracán – Deportivo Riestra
- Newell’s – Banfield
-Fecha 1 (fin de semana del 25/01)
-Interzonal: Aldosivi – Defensa y Justicia
-Zona A
- Boca – Deportivo Riestra
- Independiente – Estudiantes
- Talleres – Newell’s
- Instituto – Vélez
- Unión – Platense
- San Lorenzo – Lanús
- Central Córdoba – Gimnasia (Mza.)
-Zona B
- Barracas Central – River
- Gimnasia – Racing
- Rosario Central – Belgrano
- Tigre – Estudiantes (Río Cuarto)
- Argentinos – Sarmiento
- Banfield – Huracán
- Independiente Rivadavia Mza. – Atlético Tucumán
-Fecha 2 (semana del 28/01)
-Interzonal: Atlético Tucumán – Central Córdoba
-Zona A
- Gimnasia (Mza.) – San Lorenzo
- Lanús – Unión
- Platense – Instituto
- Vélez – Talleres
- Newell’s – Independiente
- Estudiantes – Boca
- Deportivo Riestra – Defensa y Justicia
-Zona B
- Huracán – Independiente Rivadavia Mza.
- Sarmiento – Banfield
- Estudiantes (Río Cuarto) – Argentinos
- Belgrano – Tigre
- Racing – Rosario Central
- River – Gimnasia
- Aldosivi – Barracas Central
-Fecha 3 (fin de semana del 01/02)
-Interzonal: Barracas Central – Deportivo Riestra
-Zona A
- Defensa y Justicia – Estudiantes
- Boca – Newell’s
- Independiente – Vélez
- Talleres – Platense
- Instituto – Lanús
- Unión – Gimnasia (Mza.)
- San Lorenzo – Central Córdoba
-Zona B
- Gimnasia – Aldosivi
- Rosario Central – River
- Tigre – Racing
- Argentinos – Belgrano
- Banfield – Estudiantes (Río Cuarto)
- Independiente Rivadavia Mza. – Sarmiento
- Atlético Tucumán – Huracán
-Fecha 4 (fin de semana del 08/02)
-Interzonal: Huracán – San Lorenzo
-Zona A
- Central Córdoba – Unión
- Gimnasia (Mza.) – Instituto
- Lanús – Talleres
- Platense – Independiente
- Vélez – Boca
- Newell’s – Defensa y Justicia
- Estudiantes – Deportivo Riestra
-Zona B
- Sarmiento – Atlético Tucumán
- Estudiantes (Río Cuarto) – Independiente Rivadavia Mza.
- Belgrano – Banfield
- Racing – Argentinos
- River – Tigre
- Aldosivi – Rosario Central
- Barracas Central – Gimnasia
-Fecha 5 (fin de semana del 15/02)
-Interzonal: Gimnasia – Estudiantes
-Zona A
- Deportivo Riestra – Newell’s
- Defensa y Justicia – Vélez
- Boca – Platense
- Independiente – Lanús
- Talleres – Gimnasia (Mza.)
- Instituto – Central Córdoba
- Unión – San Lorenzo
-Zona B
- Rosario Central – Barracas Central
- Tigre – Aldosivi
- Argentinos – River
- Banfield – Racing
- Independiente Rivadavia Mza. – Belgrano
- Atlético Tucumán – Estudiantes (Río Cuarto)
- Huracán – Sarmiento
-Fecha 6 (Interzonal – fin de semana del 22/02)
-Vélez – River
- Platense – Barracas Central
- Rosario Central – Talleres
- Estudiantes – Sarmiento
- Defensa y Justicia – Belgrano
- Argentinos – Lanús
- Boca – Racing
- Independiente Rivadavia Mza. – Independiente
- Unión – Aldosivi
- Instituto – Atlético Tucumán
- San Lorenzo – Estudiantes (Río Cuarto)
- Gimnasia (Mza.) – Gimnasia
- Central Córdoba – Tigre
- Deportivo Riestra – Huracán
- Banfield – Newell’s
-Fecha 7 (semana del 25/02)
-Interzonal: Sarmiento – Unión
-Zona A
- San Lorenzo – Instituto
- Central Córdoba – Talleres
- Gimnasia (Mza.) – Independiente
- Lanús – Boca
- Platense – Defensa y Justicia
- Vélez – Deportivo Riestra
- Newell’s – Estudiantes
-Zona B
- Estudiantes (Río Cuarto) – Huracán
- Belgrano – Atlético Tucumán
- Racing – Independiente Rivadavia Mza.
- River – Banfield
- Aldosivi – Argentinos
- Barracas Central – Tigre
- Gimnasia – Rosario Central
-Fecha 8 (fin de semana del 01/03)
-Interzonal: Newell’s – Rosario Central
-Zona A
- Estudiantes – Vélez
- Deportivo Riestra – Platense
- Defensa y Justicia – Lanús
- Boca – Gimnasia (Mza.)
- Independiente – Central Córdoba
- Talleres – San Lorenzo
- Instituto – Unión
-Zona B
- Tigre – Gimnasia
- Argentinos – Barracas Central
- Banfield – Aldosivi
- Independiente Rivadavia Mza. – River
- Atlético Tucumán – Racing
- Huracán – Belgrano
- Sarmiento – Estudiantes (Río Cuarto)
-Fecha 9 (fin de semana del 08/03)
-Interzonal: Estudiantes (Río Cuarto) – Instituto
-Zona A
- Unión – Talleres
- San Lorenzo – Independiente
- Central Córdoba – Boca
- Gimnasia (Mza.) – Defensa y Justicia
- Lanús – Deportivo Riestra
- Platense – Estudiantes
- Vélez – Newell’s
-Zona B
- Belgrano – Sarmiento
- Racing – Huracán
- River – Atlético Tucumán
- Aldosivi – Independiente Rivadavia Mza
- Barracas Central – Banfield
- Gimnasia – Argentinos
- Rosario Central – Tigre
-Fecha 10 (semana del 11/03)
-Interzonal: Tigre – Vélez
-Zona A
- Newell´s – Platense
- Estudiantes – Lanús
- Deportivo Riestra – Gimnasia (Mza.)
- Defensa y Justicia – Central Córdoba
- Boca – San Lorenzo
- Independiente – Unión
- Talleres – Instituto
-Zona B
- Argentinos – Rosario Central
- Banfield – Gimnasia
- Independiente Rivadavia Mza. – Barracas Central
- Atlético Tucumán – Aldosivi
- Huracán – River
- Sarmiento – Racing
- Estudiantes (Río Cuarto) – Belgrano
-Fecha 11 (Fin de semana del 15/03)
-Interzonal: Belgrano – Talleres
-Zona A
- Instituto – Independiente
- Unión – Boca
- San Lorenzo – Defensa y Justicia
- Central Córdoba – Deportivo Riestra
- Gimnasia (Mza.) – Estudiantes
- Lanús – Newell’s
- Platense – Vélez
-Zona B
- Racing – Estudiantes (Rio Cuarto)
- River – Sarmiento
- Aldosivi – Huracán
- Barracas Central – Atlético Tucumán
- Gimnasia – Independiente Rivadavia Mza.
- Rosario Central – Banfield
- Tigre – Argentinos
-Fecha 12 (Fin de semana del 22/03)
-Interzonal: Argentinos – Platense
-Zona A
- Vélez – Lanús
- Newell’s – Gimnasia (Mza.)
- Estudiantes – Central Córdoba
- Deportivo Riestra – San Lorenzo
- Defensa y Justicia – Unión
- Boca – Instituto
- Independiente – Talleres
-Zona B
- Banfield – Tigre
- Independiente Rivadavia Mza. – Rosario Central
- Atlético Tucumán – Gimnasia
- Huracán – Barracas Central
- Sarmiento – Aldosivi
- Estudiantes (Río Cuarto) – River
- Belgrano – Racing
+Fecha 7
+Martes 24 de febrero
+ 17.00 Platense – Defensa y Justicia (Zona A)
+ 17.30 San Lorenzo – Instituto (Zona A)
+ 19.45 Belgrano – Atlético Tucumán (Zona B)
+ 19.45 Central Córdoba – Talleres (Zona A)
+ 22.00 Gimnasia (Mza.) – Independiente (Zona A)
+Miércoles 25 de febrero
+ 17.00 Barracas Central – Tigre (Zona B)
+ 17.00 Gimnasia – Rosario Central (Zona B)
+ 19.30 Vélez – Deportivo Riestra (Zona A)
+ 19.30 Newell’s – Estudiantes (Zona A)
+Jueves 26 de febrero
+ 17.15 Sarmiento – Unión (Interzonal)
+ 17.15 Racing – Independiente Rivadavia Mza. (Zona B)
+ 19.30 Estudiantes (Río Cuarto) – Huracán (Zona B)
+ 19.30 River – Banfield (Zona B)
+A confirmar
+ Lanús – Boca (Zona A)
+ Aldosivi – Argentinos (Zona B)
+Fecha 8
+Sábado 28 de febrero
+ 17.45 Boca – Gimnasia (Mza.) (Zona A)
+ 20.00 Independiente – Central Córdoba (Zona A)
+ 22.15 Talleres – San Lorenzo (Zona A)
+Domingo 1° de marzo
+ 17.00 Newell’s – Rosario Central (Interzonal)
+ 19.15 Argentinos – Barracas Central (Zona B)
+ 19.15 Defensa y Justicia – Lanús (Zona A)
+ 21.30 Tigre – Gimnasia (Zona B)
+ 21.30 Instituto – Unión (Zona A)
+Lunes 2 de marzo
+ 17.00 Banfield – Aldosivi (Zona B)
+ 19.15 Deportivo Riestra – Platense (Zona A)
+ 19.15 Estudiantes – Vélez (Zona A)
+ 21.30 Independiente Rivadavia Mza. – River (Zona B)
+Martes 3 de marzo
+ 19.00 Huracán – Belgrano (Zona B)
+ 19.00 Sarmiento – Estudiantes (Río Cuarto) (Zona B)
+ 21.15 Atlético Tucumán – Racing (Zona B)
+Fecha 9
+Jueves 5 de marzo
+ 19.00 Gimnasia (Mza.) – Defensa y Justicia
+Viernes 6 de marzo
+ 17.00 Barracas Central – Banfield (Zona B)
+ 17.00 Platense – Estudiantes (Zona A)
+ 19.45 Vélez – Newell’s (Zona A)
+ 22.00 Unión – Talleres (Zona A)
+ 22.00 Rosario Central – Tigre (Zona B)
+Sábado 7 de marzo
+ 17.00 Aldosivi – Independiente Rivadavia Mza. (Zona B)
+ 17.00 Estudiantes (Río Cuarto) – Instituto (Interzonal)
+ 19.15 San Lorenzo – Independiente (Zona A)
+ 21.30 Racing – Huracán (Zona B)
+ 21.30 Belgrano – Sarmiento (Zona B)
+Domingo 8 de marzo
+ 17.00 Gimnasia – Argentinos (Zona B)
+ 17.00 Lanús – Deportivo Riestra (Zona B)
+ 19.15 Central Córdoba – Boca (Zona A)
+ 21.15 River – Atlético Tucumán (Zona B)
+Fecha 10
+Martes 10 de marzo
+ 17.30 Tigre – Vélez (Interzonal)
+ 17.30 Newell’s – Platense (Zona A)
+ 19.45 Independiente – Unión (Zona A)
+ 22.00 Sarmiento – Racing (Zona B)
+Miércoles 11 de marzo
+ 17.30 Banfield – Gimnasia (Zona B)
+ 17.30 Argentinos – Rosario Central (Zona B)
+ 19.45 Boca – San Lorenzo (Zona A)
+ 22.00 Independiente Rivadavia Mza. – Barracas Central (Zona B)
+ 22.00 Atlético Tucumán – Aldosivi (Zona B)
+Jueves 12 de marzo
+ 17.00 Deportivo Riestra – Gimnasia (Mza.) (Zona A)
+ 17.00 Defensa y Justicia – Central Córdoba (Zona A)
+ 19.15 Talleres – Instituto (Zona A)
+ 19.15 Estudiantes (Río Cuarto) – Belgrano (Zona B)
+ 21.30 Huracán – River (Zona B)
+Viernes 13 de marzo
+ 20.00 Estudiantes – Lanús (Zona A)
+Fecha 11
+Sábado 14 de marzo
+ 17.00 Platense – Vélez (Zona A)
+ 20.00 Rosario Central – Banfield (Zona B)
+Domingo 15 de marzo
+ 15.15 Tigre – Argentinos (Zona B)
+ 15.15 Gimnasia – Independiente Rivadavia Mza. (Zona B)
+ 17.30 Belgrano – Talleres (Interzonal)
+ 19.45 River – Sarmiento (Zona B)
+ 22.00 Unión – Boca (Zona A)
+Lunes 16 de marzo
+ 15.30 Barracas Central – Atlético Tucumán (Zona B)
+ 15.30 Aldosivi – Huracán (Zona B)
+ 17.45 San Lorenzo – Defensa y Justicia (Zona A)
+ 20.00 Racing – Estudiantes (Río Cuarto) (Zona B) 
+ 22.15 Instituto – Independiente (Zona A)
+Martes 17 de marzo
+ 19.00 Lanús – Newell’s (Zona A)
+ 21.15 Central Córdoba – Deportivo Riestra (Zona B)
+ 21.15 Gimnasia (Mza.) – Estudiantes (Zona A)
+Fecha 12
+Viernes 20 de marzo
+ 21.00 Banfield – Tigre (Zona B)
+ 21.00 Atlético Tucumán – Gimnasia (Zona B)
+Sábado 21 de marzo
+ 15.30 Vélez – Lanús (Zona A)
+ 17.45 Newell’s – Gimnasia (Mza.) (Zona A)
+ 17.45 Defensa y Justicia – Unión (Zona A)
+ 20.00 Independiente – Talleres (Zona A)
+ 22.15 Belgrano – Racing (Zona B)
+Domingo 22 de marzo
+ 15.30 Sarmiento – Aldosivi (Zona B)
+ 17.45 Estudiantes (Río Cuarto) – River (Zona B)
+ 20.00 Boca – Instituto (Zona A)
+ 22.15 Independiente Rivadavia Mza. – Rosario Central (Zona A)
+ 22.15 Argentinos – Platense (Interzonal)
+Lunes 23 de marzo
+ 19.00 Estudiantes – Central Córdoba (Zona A)
+ 21.15 Huracán – Barracas Central (Zona B)
+Miércoles 25 de marzo
+ 19.00 Deportivo Riestra – San Lorenzo (Zona A)
 Fecha 13 (Fin de semana del 05/04)
 Interzonal: Independiente – Racing
 Zona A
