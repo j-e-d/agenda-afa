@@ -606,7 +606,7 @@ Supercopa Argentina
 Primera Nacional
 Así quedó conformado el fixture para la temporada 2026 de la Primera Nacional:
 ZONA A
- Fecha 1 - 07/02/2026 
+ Fecha 1 - 14/02/2026 
  RACING (CBA.) - ESTUDIANTES
  ALL BOYS - MITRE (S.E.)
  LOS ANDES - ALTE. BROWN
@@ -616,7 +616,7 @@ ZONA A
  SAN MIGUEL - CTRAL. NORTE (S.)
  SAN TELMO - FERRO CARRIL OESTE
  ACASSUSO - CHACO FOR EVER
- Fecha 2 - 14/02/2026 
+ Fecha 2 
  ACASSUSO - RACING (CBA.)
  CHACO FOR EVER - SAN TELMO
  FERRO CARRIL OESTE - SAN MIGUEL
@@ -626,7 +626,7 @@ ZONA A
  CDAD. DE BOLÍVAR - LOS ANDES
  ALTE. BROWN - ALL BOYS
  MITRE (S.E.) - ESTUDIANTES
- Fecha 3 - 21/02/2026 
+ Fecha 3 
  RACING (CBA.) - MITRE (S.E.)
  ESTUDIANTES - ALTE. BROWN
  ALL BOYS - CDAD. DE BOLÍVAR
@@ -636,7 +636,7 @@ ZONA A
  COLÓN - FERRO CARRIL OESTE
  SAN MIGUEL - CHACO FOR EVER
  SAN TELMO - ACASSUSO
- Fecha 4 - 28/02/2026 
+ Fecha 4 
  SAN TELMO - RACING (CBA.)
  ACASSUSO - SAN MIGUEL
  CHACO FOR EVER - COLÓN
@@ -646,7 +646,7 @@ ZONA A
  DEF. DE BELGRANO - ALL BOYS
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
- Fecha 5 - 07/03/2026 
+ Fecha 5 
  RACING (CBA.) - ALTE. BROWN
  MITRE (S.E.) - CDAD. DE BOLÍVAR
  ESTUDIANTES - DEF. DE BELGRANO
@@ -656,7 +656,7 @@ ZONA A
  DEP. MORÓN - CHACO FOR EVER
  COLÓN - ACASSUSO
  SAN MIGUEL - SAN TELMO
- Fecha 6 - 14/03/2026 
+ Fecha 6 
  SAN MIGUEL - RACING (CBA.)
  SAN TELMO - COLÓN
  ACASSUSO - DEP. MORÓN
@@ -666,7 +666,7 @@ ZONA A
  DEP. MADRYN - ESTUDIANTES
  DEF. DE BELGRANO - MITRE (S.E.)
  CDAD. DE BOLÍVAR - ALTE. BROWN
- Fecha 7 - 21/03/2026 
+ Fecha 7 
  NVA. CHICAGO - ALL BOYS
  ATLANTA - FERRO CARRIL OESTE
  DEP. MADRYN - SAN MARTÍN (T.)
@@ -685,7 +685,7 @@ ZONA A
  COLEGIALES - SAN MIGUEL
  DEF. DE BELGRANO - AT. DE RAFAELA
  F.C. MIDLAND - ACASSUSO
- Fecha 8 - 28/03/2026 
+ Fecha 8 
  RACING (CBA.) - CDAD. DE BOLÍVAR
  ALTE. BROWN - DEF. DE BELGRANO
  MITRE (S.E.) - DEP. MADRYN
@@ -695,7 +695,7 @@ ZONA A
  GODOY CRUZ (MZA.) - ACASSUSO
  DEP. MORÓN - SAN TELMO
  COLÓN - SAN MIGUEL
- Fecha 9 - 04/04/2026 
+ Fecha 9 
  COLÓN - RACING (CBA.)
  SAN MIGUEL - DEP. MORÓN
  SAN TELMO - GODOY CRUZ (MZA.)
@@ -705,7 +705,7 @@ ZONA A
  CTRAL. NORTE (S.) - MITRE (S.E.)
  DEP. MADRYN - ALTE. BROWN
  DEF. DE BELGRANO - CDAD. DE BOLÍVAR
- Fecha 10 - 11/04/2026 
+ Fecha 10 
  RACING (CBA.) - DEF. DE BELGRANO
  CDAD. DE BOLÍVAR - DEP. MADRYN
  ALTE. BROWN - CTRAL. NORTE (S.)
@@ -715,7 +715,7 @@ ZONA A
  LOS ANDES - SAN TELMO
  GODOY CRUZ (MZA.) - SAN MIGUEL
  DEP. MORÓN - COLÓN
- Fecha 11 - 18/04/2026 
+ Fecha 11 
  DEP. MORÓN - RACING (CBA.)
  COLÓN - GODOY CRUZ (MZA.)
  SAN MIGUEL - LOS ANDES
@@ -725,7 +725,7 @@ ZONA A
  FERRO CARRIL OESTE - ALTE. BROWN
  CTRAL. NORTE (S.) - CDAD. DE BOLÍVAR
  DEP. MADRYN - DEF. DE BELGRANO
- Fecha 12 - 25/04/2026 
+ Fecha 12 
  RACING (CBA.) - DEP. MADRYN
  DEF. DE BELGRANO - CTRAL. NORTE (S.)
  CDAD. DE BOLÍVAR - FERRO CARRIL OESTE
@@ -735,7 +735,7 @@ ZONA A
  ALL BOYS - SAN MIGUEL
  LOS ANDES - COLÓN
  GODOY CRUZ (MZA.) - DEP. MORÓN
- Fecha 13 - 02/05/2026 
+ Fecha 13 
  GODOY CRUZ (MZA.) - RACING (CBA.)
  DEP. MORÓN - LOS ANDES
  COLÓN - ALL BOYS
@@ -745,7 +745,7 @@ ZONA A
  CHACO FOR EVER - CDAD. DE BOLÍVAR
  FERRO CARRIL OESTE - DEF. DE BELGRANO
  CTRAL. NORTE (S.) - DEP. MADRYN
- Fecha 14 - 09/05/2026 
+ Fecha 14 
  RACING (CBA.) - CTRAL. NORTE (S.)
  DEP. MADRYN - FERRO CARRIL OESTE
  DEF. DE BELGRANO - CHACO FOR EVER
@@ -755,7 +755,7 @@ ZONA A
  ESTUDIANTES - COLÓN
  ALL BOYS - DEP. MORÓN
  LOS ANDES - GODOY CRUZ (MZA.)
- Fecha 15 - 16/05/2026 
+ Fecha 15
  LOS ANDES - RACING (CBA.)
  GODOY CRUZ (MZA.) - ALL BOYS
  DEP. MORÓN - ESTUDIANTES
@@ -765,7 +765,7 @@ ZONA A
  ACASSUSO - DEF. DE BELGRANO
  CHACO FOR EVER - DEP. MADRYN
  FERRO CARRIL OESTE - CTRAL. NORTE (S.)
- Fecha 16 - 23/05/2026 
+ Fecha 16 
  RACING (CBA.) - FERRO CARRIL OESTE
  CTRAL. NORTE (S.) - CHACO FOR EVER
  DEP. MADRYN - ACASSUSO
@@ -775,7 +775,7 @@ ZONA A
  MITRE (S.E.) - DEP. MORÓN
  ESTUDIANTES - GODOY CRUZ (MZA.)
  ALL BOYS - LOS ANDES
- Fecha 17 - 30/05/2026 
+ Fecha 17 
  ALL BOYS - RACING (CBA.)
  LOS ANDES - ESTUDIANTES
  GODOY CRUZ (MZA.) - MITRE (S.E.)
@@ -785,7 +785,7 @@ ZONA A
  SAN TELMO - DEP. MADRYN
  ACASSUSO - CTRAL. NORTE (S.)
  CHACO FOR EVER - FERRO CARRIL OESTE
- Fecha 18 - 06/06/2026 
+ Fecha 18 
  RACING (CBA.) - CHACO FOR EVER
  FERRO CARRIL OESTE - ACASSUSO
  CTRAL. NORTE (S.) - SAN TELMO
@@ -795,7 +795,7 @@ ZONA A
  ALTE. BROWN - GODOY CRUZ (MZA.)
  MITRE (S.E.) - LOS ANDES
  ESTUDIANTES - ALL BOYS
- Fecha 19 - 20/06/2026 
+ Fecha 19 
  ESTUDIANTES - RACING (CBA.)
  MITRE (S.E.) - ALL BOYS
  ALTE. BROWN - LOS ANDES
@@ -805,7 +805,7 @@ ZONA A
  CTRAL. NORTE (S.) - SAN MIGUEL
  FERRO CARRIL OESTE - SAN TELMO
  CHACO FOR EVER - ACASSUSO
- Fecha 20 - 27/06/2026 
+ Fecha 20 
  RACING (CBA.) - ACASSUSO
  SAN TELMO - CHACO FOR EVER
  SAN MIGUEL - FERRO CARRIL OESTE
@@ -815,7 +815,7 @@ ZONA A
  LOS ANDES - CDAD. DE BOLÍVAR
  ALL BOYS - ALTE. BROWN
  ESTUDIANTES - MITRE (S.E.)
- Fecha 21 - 04/07/2026 
+ Fecha 21 
  MITRE (S.E.) - RACING (CBA.)
  ALTE. BROWN - ESTUDIANTES
  CDAD. DE BOLÍVAR - ALL BOYS
@@ -825,7 +825,7 @@ ZONA A
  FERRO CARRIL OESTE - COLÓN
  CHACO FOR EVER - SAN MIGUEL
  ACASSUSO - SAN TELMO
- Fecha 22 - 11/07/2026 
+ Fecha 22 
  RACING (CBA.) - SAN TELMO
  SAN MIGUEL - ACASSUSO
  COLÓN - CHACO FOR EVER
@@ -835,7 +835,7 @@ ZONA A
  ALL BOYS - DEF. DE BELGRANO
  ESTUDIANTES - CDAD. DE BOLÍVAR
  MITRE (S.E.) - ALTE. BROWN
- Fecha 23 - 18/07/2026 
+ Fecha 23 
  ALTE. BROWN - RACING (CBA.)
  CDAD. DE BOLÍVAR - MITRE (S.E.)
  DEF. DE BELGRANO - ESTUDIANTES
@@ -845,7 +845,7 @@ ZONA A
  CHACO FOR EVER - DEP. MORÓN
  ACASSUSO - COLÓN
  SAN TELMO - SAN MIGUEL
- Fecha 24 - 25/07/2026 
+ Fecha 24 
  RACING (CBA.) - SAN MIGUEL
  COLÓN - SAN TELMO
  DEP. MORÓN - ACASSUSO
@@ -855,7 +855,7 @@ ZONA A
  ESTUDIANTES - DEP. MADRYN
  MITRE (S.E.) - DEF. DE BELGRANO
  ALTE. BROWN - CDAD. DE BOLÍVAR
- Fecha 25 - 01/08/2026 
+ Fecha 25 
  ALL BOYS - NVA. CHICAGO
  FERRO CARRIL OESTE - ATLANTA
  SAN MARTÍN (T.) - DEP. MADRYN
@@ -874,7 +874,7 @@ ZONA A
  SAN MIGUEL - COLEGIALES
  AT. DE RAFAELA - DEF. DE BELGRANO
  ACASSUSO - F.C. MIDLAND
- Fecha 26 - 08/08/2026 
+ Fecha 26 
  CDAD. DE BOLÍVAR - RACING (CBA.)
  DEF. DE BELGRANO - ALTE. BROWN
  DEP. MADRYN - MITRE (S.E.)
@@ -884,7 +884,7 @@ ZONA A
  ACASSUSO - GODOY CRUZ (MZA.)
  SAN TELMO - DEP. MORÓN
  SAN MIGUEL - COLÓN
- Fecha 27 - 15/08/2026 
+ Fecha 27 
  RACING (CBA.) - COLÓN
  DEP. MORÓN - SAN MIGUEL
  GODOY CRUZ (MZA.) - SAN TELMO
@@ -894,7 +894,7 @@ ZONA A
  MITRE (S.E.) - CTRAL. NORTE (S.)
  ALTE. BROWN - DEP. MADRYN
  CDAD. DE BOLÍVAR - DEF. DE BELGRANO
- Fecha 28 - 22/08/2026 
+ Fecha 28 
  DEF. DE BELGRANO - RACING (CBA.)
  DEP. MADRYN - CDAD. DE BOLÍVAR
  CTRAL. NORTE (S.) - ALTE. BROWN
@@ -904,7 +904,7 @@ ZONA A
  SAN TELMO - LOS ANDES
  SAN MIGUEL - GODOY CRUZ (MZA.)
  COLÓN - DEP. MORÓN
- Fecha 29 - 29/08/2026 
+ Fecha 29 
  RACING (CBA.) - DEP. MORÓN
  GODOY CRUZ (MZA.) - COLÓN
  LOS ANDES - SAN MIGUEL
@@ -914,7 +914,7 @@ ZONA A
  ALTE. BROWN - FERRO CARRIL OESTE
  CDAD. DE BOLÍVAR - CTRAL. NORTE (S.)
  DEF. DE BELGRANO - DEP. MADRYN
- Fecha 30 - 05/09/2026 
+ Fecha 30 
  DEP. MADRYN - RACING (CBA.)
  CTRAL. NORTE (S.) - DEF. DE BELGRANO
  FERRO CARRIL OESTE - CDAD. DE BOLÍVAR
@@ -924,7 +924,7 @@ ZONA A
  SAN MIGUEL - ALL BOYS
  COLÓN - LOS ANDES
  DEP. MORÓN - GODOY CRUZ (MZA.)
- Fecha 31 - 12/09/2026 
+ Fecha 31 
  RACING (CBA.) - GODOY CRUZ (MZA.)
  LOS ANDES - DEP. MORÓN
  ALL BOYS - COLÓN
@@ -934,7 +934,7 @@ ZONA A
  CDAD. DE BOLÍVAR - CHACO FOR EVER
  DEF. DE BELGRANO - FERRO CARRIL OESTE
  DEP. MADRYN - CTRAL. NORTE (S.)
- Fecha 32 - 19/09/2026 
+ Fecha 32 
  CTRAL. NORTE (S.) - RACING (CBA.)
  FERRO CARRIL OESTE - DEP. MADRYN
  CHACO FOR EVER - DEF. DE BELGRANO
@@ -944,7 +944,7 @@ ZONA A
  COLÓN - ESTUDIANTES
  DEP. MORÓN - ALL BOYS
  GODOY CRUZ (MZA.) - LOS ANDES
- Fecha 33 - 26/09/2026 
+ Fecha 33 
  RACING (CBA.) - LOS ANDES
  ALL BOYS - GODOY CRUZ (MZA.)
  ESTUDIANTES - DEP. MORÓN
@@ -954,7 +954,7 @@ ZONA A
  DEF. DE BELGRANO - ACASSUSO
  DEP. MADRYN - CHACO FOR EVER
  CTRAL. NORTE (S.) - FERRO CARRIL OESTE
- Fecha 34 - 03/10/2026 
+ Fecha 34 
  FERRO CARRIL OESTE - RACING (CBA.)
  CHACO FOR EVER - CTRAL. NORTE (S.)
  ACASSUSO - DEP. MADRYN
@@ -964,7 +964,7 @@ ZONA A
  DEP. MORÓN - MITRE (S.E.)
  GODOY CRUZ (MZA.) - ESTUDIANTES
  LOS ANDES - ALL BOYS
- Fecha 35 - 10/10/2026 
+ Fecha 35 
  RACING (CBA.) - ALL BOYS
  ESTUDIANTES - LOS ANDES
  MITRE (S.E.) - GODOY CRUZ (MZA.)
@@ -974,7 +974,7 @@ ZONA A
  DEP. MADRYN - SAN TELMO
  CTRAL. NORTE (S.) - ACASSUSO
  FERRO CARRIL OESTE - CHACO FOR EVER
- Fecha 36 - 17/10/2026 
+ Fecha 36 
  CHACO FOR EVER - RACING (CBA.)
  ACASSUSO - FERRO CARRIL OESTE
  SAN TELMO - CTRAL. NORTE (S.)
@@ -985,7 +985,7 @@ ZONA A
  LOS ANDES - MITRE (S.E.)
  ALL BOYS - ESTUDIANTES
 ZONA B
- Fecha 1 - 07/02/2026 
+ Fecha 1 - 14/02/2026 
  G. Y ESGRIMA (J.) - F.C. MIDLAND
  ATLANTA - QUILMES A.C.
  G. Y TIRO (S.) - COLEGIALES
@@ -995,7 +995,7 @@ ZONA B
  T. SUÁREZ - TEMPERLEY
  GUEMES (S.E.) - NVA. CHICAGO
  CHACARITA JRS. - SAN MARTÍN (S.J.)
- Fecha 2 - 14/02/2026 
+ Fecha 2 
  CHACARITA JRS. - G. Y ESGRIMA (J.)
  SAN MARTÍN (S.J.) - GUEMES (S.E.)
  NVA. CHICAGO - T. SUÁREZ
@@ -1005,7 +1005,7 @@ ZONA B
  PATRONATO (P.) - G. Y TIRO (S.)
  COLEGIALES - ATLANTA
  QUILMES A.C. - F.C. MIDLAND
- Fecha 3 - 21/02/2026 
+ Fecha 3 
  G. Y ESGRIMA (J.) - QUILMES A.C.
  F.C. MIDLAND - COLEGIALES
  ATLANTA - PATRONATO (P.)
@@ -1015,7 +1015,7 @@ ZONA B
  AGROPECUARIO ARG. - NVA. CHICAGO
  T. SUÁREZ - SAN MARTÍN (S.J.)
  GUEMES (S.E.) - CHACARITA JRS.
- Fecha 4 - 28/02/2026 
+ Fecha 4 
  GUEMES (S.E.) - G. Y ESGRIMA (J.)
  CHACARITA JRS. - T. SUÁREZ
  SAN MARTÍN (S.J.) - AGROPECUARIO ARG.
@@ -1025,7 +1025,7 @@ ZONA B
  ALMAGRO - ATLANTA
  PATRONATO (P.) - F.C. MIDLAND
  COLEGIALES - QUILMES A.C.
- Fecha 5 - 07/03/2026 
+ Fecha 5 
  G. Y ESGRIMA (J.) - COLEGIALES
  QUILMES A.C. - PATRONATO (P.)
  F.C. MIDLAND - ALMAGRO
@@ -1035,7 +1035,7 @@ ZONA B
  AT. DE RAFAELA - SAN MARTÍN (S.J.)
  AGROPECUARIO ARG. - CHACARITA JRS.
  T. SUÁREZ - GUEMES (S.E.)
- Fecha 6 - 14/03/2026 
+ Fecha 6 
  T. SUÁREZ - G. Y ESGRIMA (J.)
  GUEMES (S.E.) - AGROPECUARIO ARG.
  CHACARITA JRS. - AT. DE RAFAELA
@@ -1045,7 +1045,7 @@ ZONA B
  DEP. MAIPÚ (MZA.) - F.C. MIDLAND
  ALMAGRO - QUILMES A.C.
  PATRONATO (P.) - COLEGIALES
- Fecha 7 - 21/03/2026 
+ Fecha 7 
  NVA. CHICAGO - ALL BOYS
  ATLANTA - FERRO CARRIL OESTE
  DEP. MADRYN - SAN MARTÍN (T.)
@@ -1064,7 +1064,7 @@ ZONA B
  COLEGIALES - SAN MIGUEL
  DEF. DE BELGRANO - AT. DE RAFAELA
  F.C. MIDLAND - ACASSUSO
- Fecha 8 - 28/03/2026 
+ Fecha 8 
  G. Y ESGRIMA (J.) - PATRONATO (P.)
  COLEGIALES - ALMAGRO
  QUILMES A.C. - DEP. MAIPÚ (MZA.)
@@ -1074,7 +1074,7 @@ ZONA B
  SAN MARTÍN (T.) - CHACARITA JRS.
  AT. DE RAFAELA - GUEMES (S.E.)
  AGROPECUARIO ARG. - T. SUÁREZ
- Fecha 9 - 04/04/2026 
+ Fecha 9 
  AGROPECUARIO ARG. - G. Y ESGRIMA (J.)
  T. SUÁREZ - AT. DE RAFAELA
  GUEMES (S.E.) - SAN MARTÍN (T.)
@@ -1084,7 +1084,7 @@ ZONA B
  TEMPERLEY - QUILMES A.C.
  DEP. MAIPÚ (MZA.) - COLEGIALES
  ALMAGRO - PATRONATO (P.)
- Fecha 10 - 11/04/2026 
+ Fecha 10 
  G. Y ESGRIMA (J.) - ALMAGRO
  PATRONATO (P.) - DEP. MAIPÚ (MZA.)
  COLEGIALES - TEMPERLEY
@@ -1094,7 +1094,7 @@ ZONA B
  G. Y TIRO (S.) - GUEMES (S.E.)
  SAN MARTÍN (T.) - T. SUÁREZ
  AT. DE RAFAELA - AGROPECUARIO ARG.
- Fecha 11 - 18/04/2026 
+ Fecha 11 
  AT. DE RAFAELA - G. Y ESGRIMA (J.)
  AGROPECUARIO ARG. - SAN MARTÍN (T.)
  T. SUÁREZ - G. Y TIRO (S.)
@@ -1104,7 +1104,7 @@ ZONA B
  NVA. CHICAGO - COLEGIALES
  TEMPERLEY - PATRONATO (P.)
  DEP. MAIPÚ (MZA.) - ALMAGRO
- Fecha 12 - 25/04/2026 
+ Fecha 12 
  G. Y ESGRIMA (J.) - DEP. MAIPÚ (MZA.)
  ALMAGRO - TEMPERLEY
  PATRONATO (P.) - NVA. CHICAGO
@@ -1114,7 +1114,7 @@ ZONA B
  ATLANTA - T. SUÁREZ
  G. Y TIRO (S.) - AGROPECUARIO ARG.
  SAN MARTÍN (T.) - AT. DE RAFAELA
- Fecha 13 - 02/05/2026 
+ Fecha 13 
  SAN MARTÍN (T.) - G. Y ESGRIMA (J.)
  AT. DE RAFAELA - G. Y TIRO (S.)
  AGROPECUARIO ARG. - ATLANTA
@@ -1124,7 +1124,7 @@ ZONA B
  SAN MARTÍN (S.J.) - PATRONATO (P.)
  NVA. CHICAGO - ALMAGRO
  TEMPERLEY - DEP. MAIPÚ (MZA.)
- Fecha 14 - 09/05/2026 
+ Fecha 14 
  G. Y ESGRIMA (J.) - TEMPERLEY
  DEP. MAIPÚ (MZA.) - NVA. CHICAGO
  ALMAGRO - SAN MARTÍN (S.J.)
@@ -1134,7 +1134,7 @@ ZONA B
  F.C. MIDLAND - AGROPECUARIO ARG.
  ATLANTA - AT. DE RAFAELA
  G. Y TIRO (S.) - SAN MARTÍN (T.)
- Fecha 15 - 16/05/2026 
+ Fecha 15 
  G. Y TIRO (S.) - G. Y ESGRIMA (J.)
  SAN MARTÍN (T.) - ATLANTA
  AT. DE RAFAELA - F.C. MIDLAND
@@ -1144,7 +1144,7 @@ ZONA B
  CHACARITA JRS. - ALMAGRO
  SAN MARTÍN (S.J.) - DEP. MAIPÚ (MZA.)
  NVA. CHICAGO - TEMPERLEY
- Fecha 16 - 23/05/2026 
+ Fecha 16 
  G. Y ESGRIMA (J.) - NVA. CHICAGO
  TEMPERLEY - SAN MARTÍN (S.J.)
  DEP. MAIPÚ (MZA.) - CHACARITA JRS.
@@ -1154,7 +1154,7 @@ ZONA B
  QUILMES A.C. - AT. DE RAFAELA
  F.C. MIDLAND - SAN MARTÍN (T.)
  ATLANTA - G. Y TIRO (S.)
- Fecha 17 - 30/05/2026 
+ Fecha 17 
  ATLANTA - G. Y ESGRIMA (J.)
  G. Y TIRO (S.) - F.C. MIDLAND
  SAN MARTÍN (T.) - QUILMES A.C.
@@ -1164,7 +1164,7 @@ ZONA B
  GUEMES (S.E.) - DEP. MAIPÚ (MZA.)
  CHACARITA JRS. - TEMPERLEY
  SAN MARTÍN (S.J.) - NVA. CHICAGO
- Fecha 18 - 06/06/2026 
+ Fecha 18 
  G. Y ESGRIMA (J.) - SAN MARTÍN (S.J.)
  NVA. CHICAGO - CHACARITA JRS.
  TEMPERLEY - GUEMES (S.E.)
@@ -1174,7 +1174,7 @@ ZONA B
  COLEGIALES - SAN MARTÍN (T.)
  QUILMES A.C. - G. Y TIRO (S.)
  F.C. MIDLAND - ATLANTA
- Fecha 19 - 20/06/2026 
+ Fecha 19 
  F.C. MIDLAND - G. Y ESGRIMA (J.)
  QUILMES A.C. - ATLANTA
  COLEGIALES - G. Y TIRO (S.)
@@ -1184,7 +1184,7 @@ ZONA B
  TEMPERLEY - T. SUÁREZ
  NVA. CHICAGO - GUEMES (S.E.)
  SAN MARTÍN (S.J.) - CHACARITA JRS.
- Fecha 20 - 27/06/2026 
+ Fecha 20 
  G. Y ESGRIMA (J.) - CHACARITA JRS.
  GUEMES (S.E.) - SAN MARTÍN (S.J.)
  T. SUÁREZ - NVA. CHICAGO
@@ -1194,7 +1194,7 @@ ZONA B
  G. Y TIRO (S.) - PATRONATO (P.)
  ATLANTA - COLEGIALES
  F.C. MIDLAND - QUILMES A.C.
- Fecha 21 - 04/07/2026 
+ Fecha 21 
  QUILMES A.C. - G. Y ESGRIMA (J.)
  COLEGIALES - F.C. MIDLAND
  PATRONATO (P.) - ATLANTA
@@ -1204,7 +1204,7 @@ ZONA B
  NVA. CHICAGO - AGROPECUARIO ARG.
  SAN MARTÍN (S.J.) - T. SUÁREZ
  CHACARITA JRS. - GUEMES (S.E.)
- Fecha 22 - 11/07/2026 
+ Fecha 22 
  G. Y ESGRIMA (J.) - GUEMES (S.E.)
  T. SUÁREZ - CHACARITA JRS.
  AGROPECUARIO ARG. - SAN MARTÍN (S.J.)
@@ -1214,7 +1214,7 @@ ZONA B
  ATLANTA - ALMAGRO
  F.C. MIDLAND - PATRONATO (P.)
  QUILMES A.C. - COLEGIALES
- Fecha 23 - 18/07/2026 
+ Fecha 23 
  COLEGIALES - G. Y ESGRIMA (J.)
  PATRONATO (P.) - QUILMES A.C.
  ALMAGRO - F.C. MIDLAND
@@ -1224,7 +1224,7 @@ ZONA B
  SAN MARTÍN (S.J.) - AT. DE RAFAELA
  CHACARITA JRS. - AGROPECUARIO ARG.
  GUEMES (S.E.) - T. SUÁREZ
- Fecha 24 - 25/07/2026 
+ Fecha 24 
  G. Y ESGRIMA (J.) - T. SUÁREZ
  AGROPECUARIO ARG. - GUEMES (S.E.)
  AT. DE RAFAELA - CHACARITA JRS.
@@ -1234,7 +1234,7 @@ ZONA B
  F.C. MIDLAND - DEP. MAIPÚ (MZA.)
  QUILMES A.C. - ALMAGRO
  COLEGIALES - PATRONATO (P.)
- Fecha 25 - 01/08/2026 
+ Fecha 25 
  ALL BOYS - NVA. CHICAGO
  FERRO CARRIL OESTE - ATLANTA
  SAN MARTÍN (T.) - DEP. MADRYN
@@ -1253,7 +1253,7 @@ ZONA B
  SAN MIGUEL - COLEGIALES
  AT. DE RAFAELA - DEF. DE BELGRANO
  ACASSUSO - F.C. MIDLAND
- Fecha 26 - 08/08/2026 
+ Fecha 26 
  PATRONATO (P.) - G. Y ESGRIMA (J.)
  ALMAGRO - COLEGIALES
  DEP. MAIPÚ (MZA.) - QUILMES A.C.
@@ -1263,7 +1263,7 @@ ZONA B
  CHACARITA JRS. - SAN MARTÍN (T.)
  GUEMES (S.E.) - AT. DE RAFAELA
  T. SUÁREZ - AGROPECUARIO ARG.
- Fecha 27 - 15/08/2026 
+ Fecha 27 
  G. Y ESGRIMA (J.) - AGROPECUARIO ARG.
  AT. DE RAFAELA - T. SUÁREZ
  SAN MARTÍN (T.) - GUEMES (S.E.)
@@ -1273,7 +1273,7 @@ ZONA B
  QUILMES A.C. - TEMPERLEY
  COLEGIALES - DEP. MAIPÚ (MZA.)
  PATRONATO (P.) - ALMAGRO
- Fecha 28 - 22/08/2026 
+ Fecha 28 
  ALMAGRO - G. Y ESGRIMA (J.)
  DEP. MAIPÚ (MZA.) - PATRONATO (P.)
  TEMPERLEY - COLEGIALES
@@ -1283,7 +1283,7 @@ ZONA B
  GUEMES (S.E.) - G. Y TIRO (S.)
  T. SUÁREZ - SAN MARTÍN (T.)
  AGROPECUARIO ARG. - AT. DE RAFAELA
- Fecha 29 - 29/08/2026 
+ Fecha 29 
  G. Y ESGRIMA (J.) - AT. DE RAFAELA
  SAN MARTÍN (T.) - AGROPECUARIO ARG.
  G. Y TIRO (S.) - T. SUÁREZ
@@ -1293,7 +1293,7 @@ ZONA B
  COLEGIALES - NVA. CHICAGO
  PATRONATO (P.) - TEMPERLEY
  ALMAGRO - DEP. MAIPÚ (MZA.)
- Fecha 30 - 05/09/2026 
+ Fecha 30 
  DEP. MAIPÚ (MZA.) - G. Y ESGRIMA (J.)
  TEMPERLEY - ALMAGRO
  NVA. CHICAGO - PATRONATO (P.)
@@ -1303,7 +1303,7 @@ ZONA B
  T. SUÁREZ - ATLANTA
  AGROPECUARIO ARG. - G. Y TIRO (S.)
  AT. DE RAFAELA - SAN MARTÍN (T.)
- Fecha 31 - 12/09/2026 
+ Fecha 31 
  G. Y ESGRIMA (J.) - SAN MARTÍN (T.)
  G. Y TIRO (S.) - AT. DE RAFAELA
  ATLANTA - AGROPECUARIO ARG.
@@ -1313,7 +1313,7 @@ ZONA B
  PATRONATO (P.) - SAN MARTÍN (S.J.)
  ALMAGRO - NVA. CHICAGO
  DEP. MAIPÚ (MZA.) - TEMPERLEY
- Fecha 32 - 19/09/2026 
+ Fecha 32 
  TEMPERLEY - G. Y ESGRIMA (J.)
  NVA. CHICAGO - DEP. MAIPÚ (MZA.)
  SAN MARTÍN (S.J.) - ALMAGRO
@@ -1323,7 +1323,7 @@ ZONA B
  AGROPECUARIO ARG. - F.C. MIDLAND
  AT. DE RAFAELA - ATLANTA
  SAN MARTÍN (T.) - G. Y TIRO (S.)
- Fecha 33 - 26/09/2026 
+ Fecha 33 
  G. Y ESGRIMA (J.) - G. Y TIRO (S.)
  ATLANTA - SAN MARTÍN (T.)
  F.C. MIDLAND - AT. DE RAFAELA
@@ -1333,7 +1333,7 @@ ZONA B
  ALMAGRO - CHACARITA JRS.
  DEP. MAIPÚ (MZA.) - SAN MARTÍN (S.J.)
  TEMPERLEY - NVA. CHICAGO
- Fecha 34 - 03/10/2026 
+ Fecha 34 
  NVA. CHICAGO - G. Y ESGRIMA (J.)
  SAN MARTÍN (S.J.) - TEMPERLEY
  CHACARITA JRS. - DEP. MAIPÚ (MZA.)
@@ -1343,7 +1343,7 @@ ZONA B
  AT. DE RAFAELA - QUILMES A.C.
  SAN MARTÍN (T.) - F.C. MIDLAND
  G. Y TIRO (S.) - ATLANTA
- Fecha 35 - 10/10/2026 
+ Fecha 35 
  G. Y ESGRIMA (J.) - ATLANTA
  F.C. MIDLAND - G. Y TIRO (S.)
  QUILMES A.C. - SAN MARTÍN (T.)
@@ -1353,7 +1353,7 @@ ZONA B
  DEP. MAIPÚ (MZA.) - GUEMES (S.E.)
  TEMPERLEY - CHACARITA JRS.
  NVA. CHICAGO - SAN MARTÍN (S.J.)
- Fecha 36 - 17/10/2026 
+ Fecha 36 
  SAN MARTÍN (S.J.) - G. Y ESGRIMA (J.)
  CHACARITA JRS. - NVA. CHICAGO
  GUEMES (S.E.) - TEMPERLEY
@@ -1364,7 +1364,7 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B 2026
-Fecha 1 - 07/02/2026 
+Fecha 1 - 14/02/2026 
  Ituzaingó - Dep. Armenio 
  Flandria - Brown (Adrogué) 
  Argentino de Quilmes - Dep. Laferrere 
@@ -1376,7 +1376,7 @@ Fecha 1 - 07/02/2026
  Sportivo Italiano - UAI Urquiza 
  San Martín (B) - Real Pilar 
  Villa San Carlos - Liniers
-Fecha 2 - 14/02/2026
+Fecha 2 
  Villa San Carlos - Ituzaingó 
  Liniers - San Martín (B) 
  Real Pilar - Sportivo Italiano 
@@ -1388,7 +1388,7 @@ Fecha 2 - 14/02/2026
  Talleres (RE) - Argentino de Quilmes 
  Dep. Laferrere – Flandria
  Brown (Adrogué) - Dep. Armenio
-Fecha 3 - 17/02/2026
+Fecha 3 
  Ituzaingó - Brown (Adrogué) 
  Dep. Armenio - Dep. Laferrere 
  Flandria - Talleres (RE)
@@ -1400,7 +1400,7 @@ Fecha 3 - 17/02/2026
  Camioneros - Real Pilar 
  Sportivo Italiano - Liniers 
  San Martín (B) - Villa San Carlos
-Fecha 4 - 21/02/2026 
+Fecha 4 
  San Martín (B) – Ituzaingó
  Villa San Carlos - Sportivo Italiano 
  Liniers - Camioneros 
@@ -1412,7 +1412,7 @@ Fecha 4 - 21/02/2026
  Argentino de Merlo - Flandria 
  Talleres (RE) - Dep. Armenio 
  Dep. Laferrere - Brown (Adrogué)
-Fecha 5 - 28/02/2026 
+Fecha 5 
  Ituzaingó - Dep. Laferrere
  Brown (Adrogué) - Talleres (RE) 
  Dep. Armenio - Argentino de Merlo 
@@ -1424,7 +1424,7 @@ Fecha 5 - 28/02/2026
  Dep. Merlo - Liniers 
  Camioneros - Villa San Carlos 
  Sportivo Italiano - San Martín (B)
-Fecha 6 - 07/03/2026 
+Fecha 6 
  Sportivo Italiano - Ituzaingó 
  San Martín (B) - Camioneros 
  Villa San Carlos - Dep. Merlo 
@@ -1436,7 +1436,7 @@ Fecha 6 - 07/03/2026
  Arsenal - Dep. Armenio 
  Argentino de Merlo - Brown (Adrogué) 
  Talleres (RE) - Dep. Laferrere
-Fecha 7 - 14/03/2026 
+Fecha 7 
  Ituzaingó - Talleres (RE) 
  Dep. Laferrere - Argentino de Merlo 
  Brown (Adrogué) - Arsenal 
@@ -1448,7 +1448,7 @@ Fecha 7 - 14/03/2026
  Dock Sud - Villa San Carlos 
  Dep. Merlo - San Martín (B) 
  Camioneros - Sportivo Italiano
-Fecha 8 - 21/03/2026 
+Fecha 8 
  Camioneros - Ituzaingó 
  Sportivo Italiano - Dep. Merlo 
  San Martín (B) - Dock Sud 
@@ -1460,7 +1460,7 @@ Fecha 8 - 21/03/2026
  Excursionistas - Brown (Adrogué) 
  Arsenal - Dep. Laferrere 
  Argentino de Merlo - Talleres (RE)
-Fecha 9 - 28/03/2026 
+Fecha 9 
  Ituzaingó - Argentino de Merlo 
  Talleres (RE) - Arsenal 
  Dep. Laferrere - Excursionistas 
@@ -1472,7 +1472,7 @@ Fecha 9 - 28/03/2026
  Comunicaciones - San Martín (B) 
  Dock Sud - Sportivo Italiano 
  Dep. Merlo - Camioneros
-Fecha 10 - 04/04/2026 
+Fecha 10
  Dep. Merlo - Ituzaingó 
  Camioneros - Dock Sud 
  Sportivo Italiano - Comunicaciones 
@@ -1484,7 +1484,7 @@ Fecha 10 - 04/04/2026
  Villa Dálmine - Dep. Laferrere 
  Excursionistas - Talleres (RE) 
  Arsenal - Argentino de Merlo
-Fecha 11 - 07/04/2026 
+Fecha 11
  Ituzaingó - Arsenal 
  Argentino de Merlo - Excursionistas 
  Talleres (RE) - Villa Dálmine 
@@ -1496,7 +1496,7 @@ Fecha 11 - 07/04/2026
  Def. Unidos - Sportivo Italiano 
  Comunicaciones - Camioneros 
  Dock Sud - Dep. Merlo
-Fecha 12 - 11/04/2026 
+Fecha 12 
  Dock Sud - Ituzaingó 
  Dep. Merlo – Comunicaciones
  Camioneros - Def. Unidos 
@@ -1508,7 +1508,7 @@ Fecha 12 - 11/04/2026
  UAI Urquiza - Talleres (RE) 
  Villa Dálmine - Argentino de Merlo 
  Excursionistas - Arsenal
-Fecha 13 - 18/04/2026 
+Fecha 13 
  Ituzaingó - Excursionistas 
  Arsenal - Villa Dálmine 
  Argentino de Merlo - UAI Urquiza 
@@ -1520,7 +1520,7 @@ Fecha 13 - 18/04/2026
  Argentino de Quilmes - Camioneros 
  Def. Unidos - Dep. Merlo 
  Comunicaciones - Dock Sud
-Fecha 14 - 25/04/2026 
+Fecha 14 
  Comunicaciones - Ituzaingó 
  Dock Sud - Def. Unidos 
  Dep. Merlo - Argentino de Quilmes 
@@ -1532,7 +1532,7 @@ Fecha 14 - 25/04/2026
  Real Pilar - Argentino de Merlo 
  UAI Urquiza - Arsenal 
  Villa Dálmine - Excursionistas
-Fecha 15 - 02/05/2026 
+Fecha 15 
  Ituzaingó - Villa Dálmine 
  Excursionistas - UAI Urquiza 
  Arsenal - Real Pilar 
@@ -1544,7 +1544,7 @@ Fecha 15 - 02/05/2026
  Flandria - Dep. Merlo 
  Argentino de Quilmes - Dock Sud 
  Def. Unidos - Comunicaciones
-Fecha 16 - 09/05/2026 
+Fecha 16 
  Def. Unidos - Ituzaingó 
  Comunicaciones - Argentino de Quilmes 
  Dock Sud - Flandria 
@@ -1556,7 +1556,7 @@ Fecha 16 - 09/05/2026
  Liniers - Arsenal 
  Real Pilar - Excursionistas 
  UAI Urquiza - Villa Dálmine
-Fecha 17 - 16/05/2026 
+Fecha 17 
  Ituzaingó - UAI Urquiza 
  Villa Dálmine - Real Pilar 
  Excursionistas - Liniers 
@@ -1568,7 +1568,7 @@ Fecha 17 - 16/05/2026
  Dep. Armenio - Dock Sud 
  Flandria - Comunicaciones 
  Argentino de Quilmes - Def. Unidos
-Fecha 18 - 23/05/2026 
+Fecha 18
  Argentino de Quilmes - Ituzaingó 
  Def. Unidos - Flandria 
  Comunicaciones - Dep. Armenio 
@@ -1580,7 +1580,7 @@ Fecha 18 - 23/05/2026
  Villa San Carlos - Excursionistas 
  Liniers - Villa Dálmine 
  Real Pilar - UAI Urquiza
-Fecha 19 - 30/05/2026 
+Fecha 19 
  Ituzaingó - Real Pilar 
  UAI Urquiza - Liniers 
  Villa Dálmine - Villa San Carlos
@@ -1592,7 +1592,7 @@ Fecha 19 - 30/05/2026
  Brown (Adrogué) - Comunicaciones 
  Dep. Armenio - Def. Unidos 
  Flandria - Argentino de Quilmes
-Fecha 20 - 06/06/2026 
+Fecha 20 
  Flandria - Ituzaingó 
  Argentino de Quilmes - Dep. Armenio 
  Def. Unidos - Brown (Adrogué) 
@@ -1604,7 +1604,7 @@ Fecha 20 - 06/06/2026
  San Martín (B) - Villa Dálmine 
  Villa San Carlos - UAI Urquiza 
  Liniers - Real Pilar
-Fecha 21 - 13/06/2026 
+Fecha 21 
  Ituzaingó - Liniers 
  Real Pilar - Villa San Carlos 
  UAI Urquiza - San Martín (B) 
@@ -1616,7 +1616,7 @@ Fecha 21 - 13/06/2026
  Dep. Laferrere - Def. Unidos 
  Brown (Adrogué) - Argentino de Quilmes
  Dep. Armenio - Flandria
-Fecha 22 - 20/06/2026 
+Fecha 22
  Dep. Armenio – Ituzaingó 
  Brown (Adrogué) - Flandria 
  Dep. Laferrere - Argentino de Quilmes 
@@ -1628,7 +1628,7 @@ Fecha 22 - 20/06/2026
  UAI Urquiza - Sportivo Italiano 
  Real Pilar - San Martín (B) 
  Liniers - Villa San Carlos
-Fecha 23 - 27/06/2026 
+Fecha 23 
  Ituzaingó - Villa San Carlos 
  San Martín (B) - Liniers 
  Sportivo Italiano - Real Pilar 
@@ -1640,7 +1640,7 @@ Fecha 23 - 27/06/2026
  Argentino de Quilmes - Talleres (RE) 
  Flandria - Dep. Laferrere 
  Dep. Armenio - Brown (Adrogué)
-Fecha 24 - 30/06/2026 
+Fecha 24
  Brown (Adrogué) - Ituzaingó 
  Dep. Laferrere - Dep. Armenio 
  Talleres (RE) - Flandria 
@@ -1652,7 +1652,7 @@ Fecha 24 - 30/06/2026
  Real Pilar - Camioneros 
  Liniers - Sportivo Italiano 
  Villa San Carlos - San Martín (B)
-Fecha 25 - 04/07/2026 
+Fecha 25 
  Ituzaingó - San Martín (B) 
  Sportivo Italiano - Villa San Carlos
  Camioneros - Liniers 
@@ -1664,7 +1664,7 @@ Fecha 25 - 04/07/2026
  Flandria - Argentino de Merlo 
  Dep. Armenio - Talleres (RE) 
  Brown (Adrogué) - Dep. Laferrere
-Fecha 26 - 11/07/2026 
+Fecha 26 
  Dep. Laferrere - Ituzaingó 
  Talleres (RE) - Brown (Adrogué) 
  Argentino de Merlo - Dep. Armenio 
@@ -1676,7 +1676,7 @@ Fecha 26 - 11/07/2026
  Liniers - Dep. Merlo 
  Villa San Carlos - Camioneros 
  San Martín (B) - Sportivo Italiano
-Fecha 27 - 18/07/2026 
+Fecha 27 
  Ituzaingó - Sportivo Italiano 
  Camioneros - San Martín (B)
  Dep. Merlo - Villa San Carlos 
@@ -1688,7 +1688,7 @@ Fecha 27 - 18/07/2026
  Dep. Armenio - Arsenal 
  Brown (Adrogué) - Argentino de Merlo 
  Dep. Laferrere - Talleres (RE)
-Fecha 28 - 25/07/2026 
+Fecha 28 
  Talleres (RE) - Ituzaingó 
  Argentino de Merlo - Dep. Laferrere 
  Arsenal - Brown (Adrogué) 
@@ -1700,7 +1700,7 @@ Fecha 28 - 25/07/2026
  Villa San Carlos - Dock Sud 
  San Martín (B) - Dep. Merlo 
  Sportivo Italiano - Camioneros
-Fecha 29 - 01/08/2026 
+Fecha 29
  Ituzaingó - Camioneros 
  Dep. Merlo - Sportivo Italiano 
  Dock Sud - San Martín (B) 
@@ -1712,7 +1712,7 @@ Fecha 29 - 01/08/2026
  Brown (Adrogué) - Excursionistas 
  Dep. Laferrere - Arsenal 
  Talleres (RE) - Argentino de Merlo
-Fecha 30 - 08/08/2026 
+Fecha 30
  Argentino de Merlo - Ituzaingó 
  Arsenal - Talleres (RE) 
  Excursionistas - Dep. Laferrere 
@@ -1724,7 +1724,7 @@ Fecha 30 - 08/08/2026
  San Martín (B) - Comunicaciones 
  Sportivo Italiano - Dock Sud 
  Camioneros - Dep. Merlo
-Fecha 31 - 15/08/2026
+Fecha 31
  Ituzaingó - Dep. Merlo 
  Dock Sud - Camioneros 
  Comunicaciones - Sportivo Italiano 
@@ -1736,7 +1736,7 @@ Fecha 31 - 15/08/2026
  Dep. Laferrere - Villa Dálmine 
  Talleres (RE) - Excursionistas 
  Argentino de Merlo - Arsenal
-Fecha 32 - 18/08/2026 
+Fecha 32 
  Arsenal - Ituzaingó 
  Excursionistas - Argentino de Merlo 
  Villa Dálmine - Talleres (RE) 
@@ -1748,7 +1748,7 @@ Fecha 32 - 18/08/2026
  Sportivo Italiano - Def. Unidos 
  Camioneros - Comunicaciones 
  Dep. Merlo - Dock Sud
-Fecha 33 - 22/08/2026 
+Fecha 33 
  Ituzaingó - Dock Sud 
  Comunicaciones - Dep. Merlo 
  Def. Unidos - Camioneros 
@@ -1760,7 +1760,7 @@ Fecha 33 - 22/08/2026
  Talleres (RE) - UAI Urquiza 
  Argentino de Merlo - Villa Dálmine 
  Arsenal - Excursionistas
-Fecha 34 - 29/08/2026 
+Fecha 34 
  Excursionistas - Ituzaingó 
  Villa Dálmine - Arsenal 
  UAI Urquiza - Argentino de Merlo 
@@ -1772,7 +1772,7 @@ Fecha 34 - 29/08/2026
  Camioneros - Argentino de Quilmes 
  Dep. Merlo - Def. Unidos 
  Dock Sud - Comunicaciones
-Fecha 35 - 05/09/2026 
+Fecha 35 
  Ituzaingó - Comunicaciones 
  Def. Unidos - Dock Sud 
  Argentino de Quilmes - Dep. Merlo 
@@ -1784,7 +1784,7 @@ Fecha 35 - 05/09/2026
  Argentino de Merlo - Real Pilar 
  Arsenal - UAI Urquiza 
  Excursionistas - Villa Dálmine
-Fecha 36 - 12/09/2026 
+Fecha 36
  Villa Dálmine - Ituzaingó 
  UAI Urquiza - Excursionistas 
  Real Pilar - Arsenal 
@@ -1796,7 +1796,7 @@ Fecha 36 - 12/09/2026
  Dep. Merlo - Flandria 
  Dock Sud - Argentino de Quilmes 
  Comunicaciones - Def. Unidos
-Fecha 37 - 19/09/2026 
+Fecha 37 
  Ituzaingó - Def. Unidos 
  Argentino de Quilmes - Comunicaciones 
  Flandria - Dock Sud 
@@ -1808,7 +1808,7 @@ Fecha 37 - 19/09/2026
  Arsenal - Liniers 
  Excursionistas - Real Pilar 
  Villa Dálmine - UAI Urquiza
-Fecha 38 - 26/09/2026 
+Fecha 38 
  UAI Urquiza - Ituzaingó 
  Real Pilar - Villa Dálmine 
  Liniers - Excursionistas 
@@ -1820,7 +1820,7 @@ Fecha 38 - 26/09/2026
  Dock Sud - Dep. Armenio 
  Comunicaciones - Flandria 
  Def. Unidos - Argentino de Quilmes
-Fecha 39 - 03/10/2026 
+Fecha 39 
  Ituzaingó - Argentino de Quilmes 
  Flandria - Def. Unidos 
  Dep. Armenio - Comunicaciones 
@@ -1832,7 +1832,7 @@ Fecha 39 - 03/10/2026
  Excursionistas - Villa San Carlos
  Villa Dálmine - Liniers 
  UAI Urquiza - Real Pilar
-Fecha 40 - 10/10/2026 
+Fecha 40
  Real Pilar - Ituzaingó 
  Liniers - UAI Urquiza 
  Villa San Carlos - Villa Dálmine 
@@ -1844,7 +1844,7 @@ Fecha 40 - 10/10/2026
  Comunicaciones - Brown (Adrogué) 
  Def. Unidos - Dep. Armenio 
  Argentino de Quilmes - Flandria
-Fecha 41 - 17/10/2026 
+Fecha 41 
  Ituzaingó - Flandria 
  Dep. Armenio - Argentino de Quilmes 
  Brown (Adrogué) - Def. Unidos 
@@ -1856,7 +1856,7 @@ Fecha 41 - 17/10/2026
  Villa Dálmine - San Martín (B) 
  UAI Urquiza - Villa San Carlos 
  Real Pilar - Liniers
-Fecha 42 - 24/10/2026 
+Fecha 42
  Liniers - Ituzaingó 
  Villa San Carlos - Real Pilar 
  San Martín (B) - UAI Urquiza 
