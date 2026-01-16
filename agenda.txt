@@ -52,7 +52,7 @@ Domingo 1° de febrero
  21.30 Rosario Central – River (Zona B)
 Lunes 2 de febrero
  17.30 Gimnasia – Aldosivi (Zona B)
- 17.30 Defensa y Justicia – Estudiantes (Zona A)
+ 19.45 Defensa y Justicia – Estudiantes (Zona A)
  19.45 Tigre – Racing (Zona B)
  22.00 Unión – Gimnasia (Mza.) (Zona A)
  22.00 Argentinos – Belgrano (Zona A)
@@ -85,9 +85,9 @@ Jueves 12 de febrero
  19.00 Tigre – Aldosivi (Zona B)
  21.15 Argentinos – River (Zona B)
 Viernes 13 de febrero
- 18.00 Defensa y Justicia – Vélez (Zona A)
  20.00 Independiente – Lanús (Zona A)
  22.15 Unión – San Lorenzo (Zona A)
+ 22.15 Defensa y Justicia – Vélez (Zona A)
 Sábado 14 de febrero
  17.30 Banfield – Racing (Zona B)
  19.45 Talleres – Gimnasia (Mza.) (Zona A)
@@ -125,9 +125,9 @@ A confirmar
 Fecha 7
 Martes 24 de febrero
  17.00 Platense – Defensa y Justicia (Zona A)
- 17.30 San Lorenzo – Instituto (Zona A)
- 19.45 Belgrano – Atlético Tucumán (Zona B)
+ 19.00 San Lorenzo – Instituto (Zona A)
  19.45 Central Córdoba – Talleres (Zona A)
+ 21.15 Belgrano – Atlético Tucumán (Zona B)
  22.00 Gimnasia (Mza.) – Independiente (Zona A)
 Miércoles 25 de febrero
  17.00 Barracas Central – Tigre (Zona B)
@@ -154,10 +154,10 @@ Domingo 1° de marzo
  21.30 Tigre – Gimnasia (Zona B)
  21.30 Instituto – Unión (Zona A)
 Lunes 2 de marzo
- 17.00 Banfield – Aldosivi (Zona B)
  19.15 Deportivo Riestra – Platense (Zona A)
  19.15 Estudiantes – Vélez (Zona A)
  21.30 Independiente Rivadavia Mza. – River (Zona B)
+ 21.30 Banfield – Aldosivi (Zona B)
 Martes 3 de marzo
  19.00 Huracán – Belgrano (Zona B)
  19.00 Sarmiento – Estudiantes (Río Cuarto) (Zona B)
@@ -184,9 +184,9 @@ Domingo 8 de marzo
  21.15 River – Atlético Tucumán (Zona B)
 Fecha 10
 Martes 10 de marzo
- 17.30 Tigre – Vélez (Interzonal)
  17.30 Newell’s – Platense (Zona A)
  19.45 Independiente – Unión (Zona A)
+ 19.45 Tigre – Vélez (Interzonal)
  22.00 Sarmiento – Racing (Zona B)
 Miércoles 11 de marzo
  17.30 Banfield – Gimnasia (Zona B)
@@ -215,7 +215,7 @@ Domingo 15 de marzo
 Lunes 16 de marzo
  15.30 Barracas Central – Atlético Tucumán (Zona B)
  15.30 Aldosivi – Huracán (Zona B)
- 17.45 San Lorenzo – Defensa y Justicia (Zona A)
+ 18.30 San Lorenzo – Defensa y Justicia (Zona A)
  20.00 Racing – Estudiantes (Río Cuarto) (Zona B) 
  22.15 Instituto – Independiente (Zona A)
 Martes 17 de marzo
