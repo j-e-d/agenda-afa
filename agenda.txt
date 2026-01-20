@@ -58,14 +58,14 @@ Viernes 23 de enero
  Asistente 2: Juan Del Fueyo 
  Cuarto Arbitro: Mauricio Martín
  VAR: Germán Delfino 
- ​​​​​​​AVAR: Diego Verlotta 
+ AVAR: Diego Verlotta 
  22.15 Independiente Rivadavia Mza. – Atlético Tucumán (Zona B)
  Árbitro: Brian Ferreyra 
  Asistente 1: José Castelli 
  Asistente 2: Carlos Viglietti 
  Cuarto Arbitro: Lucas Cavallero 
  VAR: Gaston Monson Brizuela
- ​​​​​​​AVAR: Marcos Horticolou
+ AVAR: Marcos Horticolou
  Sábado 24 de enero
  17.00 Barracas Central – River (Zona B)
  Árbitro: Nicolás Ramírez
@@ -73,7 +73,7 @@ Viernes 23 de enero
  Asistente 2: Adrian Delbarba
  Cuarto Arbitro: Julián Jerez 
  VAR: Héctor Paletta 
- ​​​​​​​AVAR: Jorge Broggi 
+ AVAR: Jorge Broggi 
  19.30 Gimnasia – Racing (Zona B)
  Árbitro: Leandro Rey Hilfer
  Asistente 1: Pablo Acevedo 
@@ -2872,15 +2872,71 @@ Clasificación Mundial Femenina FIFA/Coca-Cola
 Conmebol Sub 17 Femenina 2026
 Se jugará del 22 de abril al 16 de mayo de 2026.
 Conmebol Sub 20 Femenina
-Fase de grupos
-Sábado 7 de febrero
-18.00 Ecuador – Argentina, en el estadio Emiliano Ghezzi
+Cronograma de partidos CONMEBOL Sub 20 Femenina
+Día: 
+miércoles 4 de febrero 
+Horario: 18.00
+Grupo A: Uruguay - Venezuela, en Asunción
+Horario: 18.00
+Grupo A: Paraguay - Chile, en Villa Elisa 
+Día: 
+Jueves 5 de febrero
+Horario: 18.00
+Grupo B: Bolivia - Perú, en Asunción
+Horario: 18.00 
+Grupo B: Brasil - Ecuador, en Villa Elisa
+Día: 
+Viernes 6 de febrero
+Horario: 18.00
+Grupo A: Chile - Colombia, en Asunción 
+Horario: 18.00
+Grupo A: Uruguay - Paraguay, en Villa Elisa 
+Día: 
+Sábado 7 de febrero 
+Horario: 18.00
+Grupo B: Ecuador - Argentina, en Asunción
+Horario: 18.00 
+Grupo B: Bolivia - Brasil, en Villa Elisa 
+Día: 
+Domingo 8 de febrero 
+Horario: 18.00
+Grupo A: Chile - Uruguay, en Asunción
+Horario: 18.00
+Grupo A: Colombia - Venezuela, en Villa Elisa 
+Día: 
 Lunes 9 de febrero
-18.00 Argentina – Perú, en el estadio Luis Alfonso Giagni
-Miércoles 11 de febrero
-18.00 Argentina – Bolivia, en el estadio Emiliano Ghezzi
-Viernes 13 de febrero
-18.00 Brasil – Argentina, en el estadio Luis Alfonso Giagni
+Horario: 18.00
+Grupo B: Ecuador - Bolivia, en Asunción
+Horario: 18.00
+Grupo B: Argentina - Perú, en Villa Elisa 
+Día: 
+Martes 10 de febrero
+Horario: 18.00
+Grupo A: Colombia - Uruguay, en Asunción
+Horario: 18.00
+Grupo A: Venezuela - Paraguay, en Villa Elisa 
+Día: 
+Miércoles 11 de febrero 
+Horario: 18.00
+Grupo B: Argentina - Bolivia, en Asunción
+Horario: 18.00
+Grupo B: Perú - Brasil, en Villa Elisa 
+Día: 
+Jueves 12 de febrero 
+Horario: 18.00
+Grupo A: Venezuela - Chile, en Asunción
+Horario: 18.00
+Grupo A: Paraguay - Colombia, en Villa Elisa 
+Día: 
+Viernes 13 de febrero 
+Horario: 18.00
+Grupo B: Perú - Ecuador, en Asunción
+Horario: 18.00
+Grupo B: Brasil - Argentina, en Villa Elisa 
+Sede Asunción: 
+ESTADIO EMILIANO GHEZZI
+Sede Villa Elisa: 
+ESTADIO LUIS ALFONSO GIAGNI 
 CONMEBOL Copa Libertadores Femenina 2026
 Se jugará del 15 al 31 de octubre de 2026.
 CONMEBOL Copa Libertadores Fútbol Playa 2025
