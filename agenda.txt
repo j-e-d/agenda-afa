@@ -80,14 +80,14 @@ Viernes 23 de enero
  Asistente 2: Mariana De Almeida 
  Cuarto Arbitro: Guido Mascheroni 
  VAR: Adrián Franklin
- ​​​​​​​AVAR: Nelson Sosa 
+ AVAR: Nelson Sosa 
  22.00 Rosario Central – Belgrano (Zona B)
  Árbitro: Yael Falcón Pérez 
  Asistente 1: Facundo Rodríguez 
  Asistente 2: Agustín Méndez 
  Cuarto Arbitro: Joaquín Gil 
  VAR: Jorge Baliño
- ​​​​​​​AVAR: Javier Mihura
+ AVAR: Javier Mihura
 Domingo 25 de enero
  18.30 Boca – Deportivo Riestra (Zona A)
  Árbitro: Sebastián Zunino
@@ -2653,7 +2653,29 @@ Partido de vuelta
 Jueves 26 de febrero 
 21.30 Flamengo - Lanús 
 CONMEBOL Copa Libertadores Sub 20
-Se jugará del 7 al 22 de marzo de 2026.
+El sorteo para la Fase de Grupos de la CONMEBOL Libertadores Sub 20 2026 se llevará a cabo el próximo 10 de febrero a las 12 (hora de Paraguay) en la sede de la CONMEBOL.
+ Esta nueva edición del torneo continental Sub 20 se disputará en Ecuador durante el mes de marzo de 2026, con la participación de 12 clubes sudamericanos clasificados a través de los torneos locales de las diez Asociaciones Miembro de la CONMEBOL, más el vigente campeón y un representante extra del país anfitrión. 
+ – 
+Formato de Competencia 
+–
+ La CONMEBOL Libertadores Sub20 2026 se disputará en 2 fases, Fase Preliminar (Fase de Grupos) y Fase Final (disputa de las Semifinales, 3° Puesto, y Final). Todas las fases se jugarán a una sola rueda de partidos.
+ La Fase Preliminar la disputan los 12 equipos clasificados, distribuidos en 3 grupos de 4 equipos cada uno. La conformación de los 3 grupos corresponderá al resultado del sorteo organizado por la CONMEBOL.
+ Clasificarán para las Semifinales, los equipos que ocupen la primera posición en cada grupo, más el mejor segundo colocado, teniendo en cuenta los 3 grupos (1A, 1B, 1C, y el mejor 2° colocado).
+ – 
+Clubes clasificados 
+– 
+ Flamengo (BRA)
+ Belgrano (ARG)
+ Bolívar (BOL)
+ Palmeiras (BRA)
+ Santiago Wanderers (CHI)
+ Deportivo Independiente Medellín (COL)
+ LDU Quito (ECU)
+ Universidad Católica (ECU 2)
+ Olimpia (PAR)
+ Sporting Cristal (PER)
+ Nacional (URU)
+ Estudiantes de Mérida (VEN)
 Intercontinental Sub 20 2026
 Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
