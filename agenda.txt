@@ -1,4 +1,366 @@
 25/03/2019
+Torneo Proyección
+Fecha 1
+Semana del 4 de febrero
+Instituto – Tigre (Zona A)
+Vélez – Banfield (Zona A)
+San Lorenzo – Rosario Central (Zona A)
+River – Talleres (Zona A)
+Racing – Barracas Central (Zona A)
+Sarmiento – Gimnasia Mza. (Zona A)
+Argentinos – Godoy Cruz (Zona A)
+Aldosivi – Atlético Tucumán (Zona A)
+Gimnasia – Unión (Zona A)
+Colón – Estudiantes (Zona B)
+Central Córdoba – Quilmes (Zona B)
+San Martín SJ – Platense (Zona B)
+Independiente Rivadavia Mza. – Atlético Rafaela (Zona B)
+Deportivo Riestra – Independiente (Zona B)
+Belgrano – Boca (Zona B)
+Lanús – Ferro (Zona B)
+Newell’s – Huracán (Zona B)
+Defensa y Justicia – Estudiantes (Río IV) (Zona B)
+Fecha 2
+Semana del 11 de febrero
+Gimnasia – Instituto (Zona A)
+ Unión – Aldosivi (Zona A)
+ Atlético Tucumán – Argentinos (Zona A)
+ Godoy Cruz – Sarmiento (Zona A)
+ Gimnasia Mza. – Racing (Zona A)
+ Barracas Central – River (Zona A)
+ Talleres – Vélez (Zona A)
+ Banfield – San Lorenzo (Zona A)
+ Rosario Central – Tigre (Zona A)
+Defensa y Justicia – Colón (Zona B)
+ Estudiantes (Río IV) – Newell’s (Zona B)
+ Huracán – Lanús (Zona B)
+ Ferro – Belgrano (Zona B)
+ Boca – Deportivo Riestra (Zona B)
+ Independiente – Independiente Rivadavia Mza. (Zona B)
+ Atlético Rafaela – San Martín SJ (Zona B)
+ Platense – Central Córdoba (Zona B)
+ Quilmes – Estudiantes (Zona B)
+Fecha 3
+Semana del 18 de febrero
+Instituto – Rosario Central (Zona A)
+ Tigre – Banfield (Zona A)
+ San Lorenzo – Talleres (Zona A)
+ Vélez – Barracas Central (Zona A)
+ River – Gimnasia Mza. (Zona A)
+ Racing – Godoy Cruz (Zona A)
+ Sarmiento – Atlético Tucumán (Zona A)
+ Argentinos – Unión (Zona A)
+ Aldosivi – Gimnasia (Zona A)
+Colón – Quilmes (Zona B)
+ Estudiantes – Platense (Zona B)
+ Central Córdoba – Atlético Rafaela (Zona B)
+ San Martín SJ – Independiente (Zona B)
+ Independiente Rivadavia Mza. – Boca (Zona B)
+ Deportivo Riestra – Ferro (Zona B)
+ Belgrano – Huracán (Zona B)
+ Lanús – Estudiantes (Río IV) (Zona B)
+ Newell’s – Defensa y Justicia (Zona B)
+Fecha 4
+Semana del 4 de marzo
+Aldosivi – Instituto (Zona A)
+ Gimnasia – Argentinos (Zona A)
+ Unión – Sarmiento (Zona A)
+ Atlético Tucumán – Racing (Zona A)
+ Godoy Cruz – River (Zona A)
+ Gimnasia Mza. – Vélez (Zona A)
+ Barracas Central – San Lorenzo (Zona A)
+ Talleres – Tigre (Zona A)
+ Banfield – Rosario Central (Zona A)
+Newell’s – Colón (Zona B)
+ Defensa y Justicia – Lanús (Zona B)
+ Estudiantes (Río IV) – Belgrano (Zona B)
+ Huracán – Deportivo Riestra (Zona B)
+ Ferro – Independiente Rivadavia Mza. (Zona B)
+ Boca – San Martín SJ (Zona B)
+ Independiente – Central Córdoba (Zona B)
+ Atlético Rafaela – Estudiantes (Zona B)
+ Platense – Quilmes (Zona B)
+Fecha 5
+Semana del 18 de marzo
+Instituto – Banfield (Zona A)
+ Rosario Central – Talleres (Zona A)
+ Tigre – Barracas Central (Zona A)
+ San Lorenzo – Gimnasia Mza. (Zona A)
+ Vélez – Godoy Cruz (Zona A)
+ River – Atlético Tucumán (Zona A)
+ Racing – Unión (Zona A)
+ Sarmiento – Gimnasia (Zona A)
+ Argentinos – Aldosivi (Zona A)
+Colón – Platense (Zona B)
+ Quilmes – Atlético Rafaela (Zona B)
+ Estudiantes – Independiente (Zona B)
+ Central Córdoba – Boca (Zona B)
+ San Martín SJ – Ferro (Zona B)
+ Independiente Rivadavia Mza. – Huracán (Zona B)
+ Deportivo Riestra – Estudiantes (Río IV) (Zona B)
+ Belgrano – Defensa y Justicia (Zona B)
+ Lanús – Newell’s (Zona B)
+Fecha 6
+Semana del 25 de marzo
+Argentinos – Instituto (Zona A)
+ Aldosivi – Sarmiento (Zona A)
+ Gimnasia – Racing (Zona A)
+ Unión – River (Zona A)
+ Atlético Tucumán – Vélez (Zona A)
+ Godoy Cruz – San Lorenzo (Zona A)
+ Gimnasia Mza. – Tigre (Zona A)
+ Barracas Central – Rosario Central (Zona A)
+ Talleres – Banfield (Zona A)
+Lanús – Colón (Zona B)
+ Newell’s – Belgrano (Zona B)
+ Defensa y Justicia – Deportivo Riestra (Zona B)
+ Estudiantes (Río IV) – Independiente Rivadavia Mza. (Zona B)
+ Huracán – San Martín SJ (Zona B)
+ Ferro – Central Córdoba (Zona B)
+ Boca – Estudiantes (Zona B)
+ Independiente – Quilmes (Zona B)
+ Atlético Rafaela – Platense (Zona B)
+Fecha 7
+Semana del 1 de abril
+Instituto – Talleres (Zona A)
+ Banfield – Barracas Central (Zona A)
+ Rosario Central – Gimnasia Mza. (Zona A)
+ Tigre – Godoy Cruz (Zona A)
+ San Lorenzo – Atlético Tucumán (Zona A)
+ Vélez – Unión (Zona A)
+ River – Gimnasia (Zona A)
+ Racing – Aldosivi (Zona A)
+ Sarmiento – Argentinos (Zona A)
+Colón – Atlético Rafaela (Zona B)
+ Platense – Independiente (Zona B)
+ Quilmes – Boca (Zona B)
+ Estudiantes – Ferro (Zona B)
+ Central Córdoba – Huracán (Zona B)
+ San Martín SJ – Estudiantes (Río IV) (Zona B)
+ Independiente Rivadavia Mza. – Defensa y Justicia (Zona B)
+ Deportivo Riestra – Newell’s (Zona B)
+ Belgrano – Lanús (Zona B)
+_______________________________________________________________________________
+Fecha 8
+Semana del 8 de abril
+Sarmiento – Instituto (Zona A)
+ Argentinos – Racing (Zona A)
+ Aldosivi – River (Zona A)
+ Gimnasia – Vélez (Zona A)
+ Unión – San Lorenzo (Zona A)
+ Atlético Tucumán – Tigre (Zona A)
+ Godoy Cruz – Rosario Central (Zona A)
+ Gimnasia Mza. – Banfield (Zona A)
+ Barracas Central – Talleres (Zona A)
+Belgrano – Colón (Zona B)
+ Lanús – Deportivo Riestra (Zona B)
+ Newell’s – Independiente Rivadavia Mza. (Zona B)
+ Defensa y Justicia – San Martín SJ (Zona B)
+ Estudiantes (Río IV) – Central Córdoba (Zona B)
+ Huracán – Estudiantes (Zona B)
+ Ferro – Quilmes (Zona B)
+ Boca – Platense (Zona B)
+ Independiente – Atlético Rafaela (Zona B)
+Fecha 9
+Semana del 15 de abril
+Instituto – Barracas Central (Zona A)
+ Talleres – Gimnasia Mza. (Zona A)
+ Banfield – Godoy Cruz (Zona A)
+ Rosario Central – Atlético Tucumán (Zona A)
+ Tigre – Unión (Zona A)
+ San Lorenzo – Gimnasia (Zona A)
+ Vélez – Aldosivi (Zona A)
+ River – Argentinos (Zona A)
+ Racing – Sarmiento (Zona A)
+Colón – Independiente (Zona B)
+ Atlético Rafaela – Boca (Zona B)
+ Platense – Ferro (Zona B)
+ Quilmes – Huracán (Zona B)
+ Estudiantes – Estudiantes (Río IV) (Zona B)
+ Central Córdoba – Defensa y Justicia (Zona B)
+ San Martín SJ – Newell’s (Zona B)
+ Independiente Rivadavia Mza. – Lanús (Zona B)
+ Deportivo Riestra – Belgrano (Zona B)
+Fecha 10 (Interzonal)
+Semana del 22 de abril
+Boca – River
+ Atlético Tucumán – Central Córdoba
+ Tigre – Defensa y Justicia
+ Barracas Central – Deportivo Riestra
+ Estudiantes – Gimnasia
+ Gimnasia Mza. – Independiente Rivadavia Mza.
+ Independiente – Racing
+ Estudiantes (Río IV) – Instituto
+ Banfield – Lanús
+ Rosario Central – Newell’s
+ Platense – Argentinos
+ Huracán – San Lorenzo
+ Talleres – Belgrano
+ Unión – Colón
+ Ferro – Vélez
+ Godoy Cruz – San Martín SJ
+ Atlético Rafaela – Sarmiento
+ Quilmes – Aldosivi
+Fecha 11
+Semana del 29 de abril
+Racing – Instituto (Zona A)
+ Sarmiento – River (Zona A)
+ Argentinos – Vélez (Zona A)
+ Aldosivi – San Lorenzo (Zona A)
+ Gimnasia – Tigre (Zona A)
+ Unión – Rosario Central (Zona A)
+ Atlético Tucumán – Banfield (Zona A)
+ Godoy Cruz – Talleres (Zona A)
+ Gimnasia Mza. – Barracas Central (Zona A)
+Deportivo Riestra – Colón (Zona B)
+ Belgrano – Independiente Rivadavia Mza. (Zona B)
+ Lanús – San Martín SJ (Zona B)
+ Newell’s – Central Córdoba (Zona B)
+ Defensa y Justicia – Estudiantes (Zona B)
+ Estudiantes (Río IV) – Quilmes (Zona B)
+ Huracán – Platense (Zona B)
+ Ferro – Atlético Rafaela (Zona B)
+ Boca – Independiente (Zona B)
+Fecha 12
+Semana del 6 de mayo
+Instituto – Gimnasia Mza. (Zona A)
+ Barracas Central – Godoy Cruz (Zona A)
+ Talleres – Atlético Tucumán (Zona A)
+ Banfield – Unión (Zona A)
+ Rosario Central – Gimnasia (Zona A)
+ Tigre – Aldosivi (Zona A)
+ San Lorenzo – Argentinos (Zona A)
+ Vélez – Sarmiento (Zona A)
+ River – Racing (Zona A)
+Colón – Boca (Zona B)
+ Independiente – Ferro (Zona B)
+ Atlético Rafaela – Huracán (Zona B)
+ Platense – Estudiantes (Río IV) (Zona B)
+ Quilmes – Defensa y Justicia (Zona B)
+ Estudiantes – Newell’s (Zona B)
+ Central Córdoba – Lanús (Zona B)
+ San Martín SJ – Belgrano (Zona B)
+ Independiente Rivadavia Mza. – Deportivo Riestra (Zona B)
+Fecha 13
+Semana del 13 de mayo
+River – Instituto (Zona A)
+ Racing – Vélez (Zona A)
+ Sarmiento – San Lorenzo (Zona A)
+ Argentinos – Tigre (Zona A)
+ Aldosivi – Rosario Central (Zona A)
+ Gimnasia – Banfield (Zona A)
+ Unión – Talleres (Zona A)
+ Atlético Tucumán – Barracas Central (Zona A)
+ Godoy Cruz – Gimnasia Mza. (Zona A)
+Independiente Rivadavia Mza. – Colón (Zona B)
+ Deportivo Riestra – San Martín SJ (Zona B)
+ Belgrano – Central Córdoba (Zona B)
+ Lanús – Estudiantes (Zona B)
+ Newell’s – Quilmes (Zona B)
+ Defensa y Justicia – Platense (Zona B)
+ Estudiantes (Río IV) – Atlético Rafaela (Zona B)
+ Huracán – Independiente (Zona B)
+ Ferro – Boca (Zona B)
+Fecha 14
+Semana del 20 de mayo
+Instituto – Godoy Cruz (Zona A)
+ Gimnasia Mza. – Atlético Tucumán (Zona A)
+ Barracas Central – Unión (Zona A)
+ Talleres – Gimnasia (Zona A)
+ Banfield – Aldosivi (Zona A)
+ Rosario Central – Argentinos (Zona A)
+ Tigre – Sarmiento (Zona A)
+ San Lorenzo – Racing (Zona A)
+ Vélez – River (Zona A)
+Colón – Ferro (Zona B)
+ Boca – Huracán (Zona B)
+ Independiente – Estudiantes (Río IV) (Zona B)
+ Atlético Rafaela – Defensa y Justicia (Zona B)
+ Platense – Newell’s (Zona B)
+ Quilmes – Lanús (Zona B)
+ Estudiantes – Belgrano (Zona B)
+ Central Córdoba – Deportivo Riestra (Zona B)
+ San Martín SJ – Independiente Rivadavia Mza. (Zona B)
+Fecha 15
+Semana del 27 de mayo
+Vélez – Instituto (Zona A)
+ River – San Lorenzo (Zona A)
+ Racing – Tigre (Zona A)
+ Sarmiento – Rosario Central (Zona A)
+ Argentinos – Banfield (Zona A)
+ Aldosivi – Talleres (Zona A)
+ Gimnasia – Barracas Central (Zona A)
+ Unión – Gimnasia Mza. (Zona A)
+ Atlético Tucumán – Godoy Cruz (Zona A)
+San Martín SJ – Colón (Zona B)
+ Independiente Rivadavia Mza. – Central Córdoba (Zona B)
+ Deportivo Riestra – Estudiantes (Zona B)
+ Belgrano – Quilmes (Zona B)
+ Lanús – Platense (Zona B)
+ Newell’s – Atlético Rafaela (Zona B)
+ Defensa y Justicia – Independiente (Zona B)
+ Estudiantes (Río IV) – Boca (Zona B)
+ Huracán – Ferro (Zona B)
+Fecha 16
+Semana del 3 de junio
+Instituto – Atlético Tucumán (Zona A)
+ Godoy Cruz – Unión (Zona A)
+ Gimnasia Mza. – Gimnasia (Zona A)
+ Barracas Central – Aldosivi (Zona A)
+ Talleres – Argentinos (Zona A)
+ Banfield – Sarmiento (Zona A)
+ Rosario Central – Racing (Zona A)
+ Tigre – River (Zona A)
+ San Lorenzo – Vélez (Zona A)
+Colón – Huracán (Zona B)
+ Ferro – Estudiantes (Río IV) (Zona B)
+ Boca – Defensa y Justicia (Zona B)
+ Independiente – Newell’s (Zona B)
+ Atlético Rafaela – Lanús (Zona B)
+ Platense – Belgrano (Zona B)
+ Quilmes – Deportivo Riestra (Zona B)
+ Estudiantes – Independiente Rivadavia Mza. (Zona B)
+ Central Córdoba – San Martín SJ (Zona B)
+Fecha 17
+Semana del 10 de junio
+San Lorenzo – Instituto (Zona A)
+ Vélez – Tigre (Zona A)
+ River – Rosario Central (Zona A)
+ Racing – Banfield (Zona A)
+ Sarmiento – Talleres (Zona A)
+ Argentinos – Barracas Central (Zona A)
+ Aldosivi – Gimnasia Mza. (Zona A)
+ Gimnasia – Godoy Cruz (Zona A)
+ Unión – Atlético Tucumán (Zona A)
+Central Córdoba – Colón (Zona B)
+ San Martín SJ – Estudiantes (Zona B)
+ Independiente Rivadavia Mza. – Quilmes (Zona B)
+ Deportivo Riestra – Platense (Zona B)
+ Belgrano – Atlético Rafaela (Zona B)
+ Lanús – Independiente (Zona B)
+ Newell’s – Boca (Zona B)
+ Defensa y Justicia – Ferro (Zona B)
+ Estudiantes (Río IV) – Huracán (Zona B)
+Fecha 18
+Semana del 17 de junio
+Instituto – Unión (Zona A)
+ Atlético Tucumán – Gimnasia (Zona A)
+ Godoy Cruz – Aldosivi (Zona A)
+ Gimnasia Mza. – Argentinos (Zona A)
+ Barracas Central – Sarmiento (Zona A)
+ Talleres – Racing (Zona A)
+ Banfield – River (Zona A)
+ Rosario Central – Vélez (Zona A)
+ Tigre – San Lorenzo (Zona A)
+Colón – Estudiantes (Río IV) (Zona B)
+ Huracán – Defensa y Justicia (Zona B)
+ Ferro – Newell’s (Zona B)
+ Boca – Lanús (Zona B)
+ Independiente – Belgrano (Zona B)
+ Atlético Rafaela – Deportivo Riestra (Zona B)
+ Platense – Independiente Rivadavia Mza. (Zona B)
+ Quilmes – San Martín SJ (Zona B)
+ Estudiantes – Central Córdoba (Zona B)
 Torneo Apertura 2026
 Fecha 1
 Jueves 22 de enero 
@@ -95,21 +457,21 @@ Domingo 25 de enero
  Asistente 2: Erik Grunmann 
  Cuarto Arbitro: Juan Cruz Robledo 
  VAR: Ariel Penel 
- ​​​​​​​AVAR: Javier Delbarba
+ AVAR: Javier Delbarba
  21.00 Tigre – Estudiantes (Río Cuarto) (Zona B)
  Árbitro: Felipe Viola 
  Asistente 1: Gerardo Lencina 
  Asistente 2: Juan Ricciardi
  Cuarto Arbitro: Martín Despósito
  VAR: Yamil Possi
- ​​​​​​​AVAR: Sebastián Habib
+ AVAR: Sebastián Habib
  21.00 Argentinos – Sarmiento (Zona B)
  Árbitro: Andrés Gariano 
  Asistente 1: Hugo Páez 
  Asistente 2: Gisella Trucco 
  Cuarto Arbitro: Nahuel Viñas
  VAR: Fernando Espinoza 
- ​​​​​​​AVAR: Juan Pablo Loustau 
+ AVAR: Juan Pablo Loustau 
 Fecha 2
 Lunes 26 de enero
  17.00 Platense – Instituto (Zona A)
