@@ -2767,6 +2767,131 @@ De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Arge
 Torneo Federal A 
 Torneo Regional Amateur
 Fútbol Femenino de Primera División A 
+Jornada 1
+Banfield vs Independiente 
+Gimnasia LP vs Unión Santa Fe 
+Newell’s vs San Luis 
+Racing Club vs Lanús 
+River Plate vs Huracán 
+San Lorenzo vs Boca Jrs. 
+Social Atlético Televisión vs Belgrano 
+Talleres vs Ferro Carril Oeste 
+Jornada 2 
+Boca Jrs. vs Racing Club 
+Ferro Carril Oeste vs San Lorenzo 
+Huracán vs Belgrano 
+Independiente vs River Plate 
+Lanús vs Newell’s 
+San Luis vs Gimnasia LP 
+Talleres vs Social Atlético Televisión 
+Unión Santa Fe vs Banfield 
+Jornada 3
+Banfield vs San Luis 
+Belgrano vs Independiente 
+Gimnasia LP vs Lanús 
+Newell’s vs Boca Jrs. 
+Racing Club vs Ferro Carril Oeste 
+River Plate vs Unión Santa Fe 
+San Lorenzo vs Talleres 
+Social Atlético Televisión vs Huracán
+Jornada 4 
+Boca Jrs. vs Gimnasia LP 
+Ferro Carril Oeste vs Newell’s 
+Independiente vs Huracán 
+Lanús vs Banfield 
+San Lorenzo vs Social Atlético Televisión 
+San Luis vs River Plate 
+Talleres vs Racing Club 
+Unión Santa Fe vs Belgrano
+Jornada 5
+Banfield vs Boca Jrs. 
+Belgrano vs San Luis 
+Gimnasia LP vs Ferro Carril Oeste 
+Huracán vs Unión Santa Fe 
+Newell’s vs Talleres 
+Racing Club vs San Lorenzo 
+River Plate vs Lanús
+Social Atlético Televisión vs Independiente 
+Jornada 6
+Boca Jrs. vs River Plate 
+Ferro Carril Oeste vs Banfield 
+Lanús vs Belgrano 
+Racing Club vs Social Atlético Televisión 
+San Lorenzo vs Newell’s 
+San Luis vs Huracán
+Talleres vs Gimnasia LP 
+Unión Santa Fe vs Independiente
+Jornada 7 
+Banfield vs Talleres 
+Belgrano vs Boca Jrs. 
+Gimnasia LP vs San Lorenzo 
+Huracán vs Lanús 
+Independiente vs San Luis 
+Newell’s vs Racing Club 
+River Plate vs Ferro Carril Oeste 
+Social Atlético Televisión vs Unión Santa Fe
+Jornada 8 
+Boca Jrs. vs Huracán 
+Ferro Carril Oeste vs Belgrano 
+Lanús vs Independiente 
+Newell’s vs Social Atlético Televisión 
+Racing Club vs Gimnasia LP 
+San Lorenzo vs Banfield
+San Luis vs Unión Santa Fe 
+Talleres vs River Plate 
+Jornada 9 
+Banfield vs Racing Club 
+Belgrano vs Talleres 
+Gimnasia LP vs Newell’s 
+Huracán vs Ferro Carril Oeste 
+Independiente vs Boca Jrs. 
+River Plate vs San Lorenzo 
+Social Atlético Televisión vs San Luis 
+Unión Santa Fe vs Lanús 
+Jornada 10
+Boca Jrs. vs Unión Santa Fe 
+Ferro Carril Oeste vs Independiente 
+Lanús vs San Luis 
+Newell’s vs Banfield 
+Racing Club vs River Plate 
+San Lorenzo vs Belgrano 
+Talleres vs Huracán 
+Jornada 11 
+Banfield vs Gimnasia LP 
+Belgrano vs Racing Club 
+Huracán vs San Lorenzo 
+Independiente vs Talleres 
+River Plate vs Newell’s 
+San Luis vs Boca Jrs. 
+Social Atlético Televisión vs Lanús 
+Unión Santa Fe vs Ferro Carril Oeste 
+Jornada 12 
+Banfield vs Social Atlético Televisión 
+Boca Jrs. vs Lanús 
+Ferro Carril Oeste vs San Luis 
+Gimnasia LP vs River Plate 
+Newell’s vs Belgrano 
+Racing Club vs Huracán 
+San Lorenzo vs Independiente 
+Talleres vs Unión Santa Fe 
+Jornada 13 
+Belgrano vs Gimnasia LP 
+Huracán vs Newell’s 
+Independiente vs Racing Club 
+Lanús vs Ferro Carril Oeste 
+River Plate vs Banfield 
+San Luis vs Talleres 
+Social Atlético Televisión vs Boca Jrs. 
+Unión Santa Fe vs San Lorenzo 
+Jornada 14 
+Banfield vs Belgrano 
+Ferro Carril Oeste vs Boca Jrs. 
+Gimnasia LP vs Huracán 
+Newell’s vs Independiente 
+Racing Club vs Unión Santa Fe 
+River Plate vs Social Atlético Televisión 
+San Lorenzo vs San Luis 
+Talleres vs Lanús
 Torneo Femenino de Primera B
 Copa Federal Femenina
 CONMEBOL Copa Libertadores 2026
