@@ -635,64 +635,6 @@ Banfield – Atlético Tucumán
  Aldosivi – River
 Supercopa Argentina 
 Torneo Proyección
-Fecha 1
- Miércoles 4 de febrero
- 17:00 – Vélez Sarsfield vs. Banfield (Zona A) – Villa Olímpica
- Árbitro: Eduardo Coyto
- Árbitro asistente 1: Matías Vargas
- Árbitro asistente 2: Sebastián Krojzl
- Cuarto árbitro: Leonardo Cristaldo
- 17:00 – Racing vs. Barracas Central (Zona A) – Tita Mattiussi
- Árbitro: Valentin Persico
- Árbitro asistente 1: Lucas Monsalvo
- Árbitro asistente 2: Marcos Pueyo
- Cuarto árbitro: Leandro Fedele
- 17:00 – Sarmiento vs. Gimnasia (Mza) (Zona A) – Estadio Eva Perón
- Árbitro: Roberta Echeverría
- Árbitro asistente 1: Mauro Soria
- Árbitro asistente 2: Nicolás Rovira
- 17:00 – Instituto vs. Tigre (Zona A) – La Agustina
- Árbitro: Sebastian Milessi
- Árbitro asistente 1: Alejo Milone
- Árbitro asistente 2: Bruno Santillán
- 17:00 – Lanús vs. Ferro (Zona B) – Auxiliar
- Árbitro: Leandro Díaz
- Árbitro asistente 1: Diego Ortiz
- Árbitro asistente 2: Berenice Avaro
- Cuarto árbitro: Agustín Panizza
- 17:00 – Belgrano vs. Boca (Zona B) – Predio Armando Pérez
- Árbitro: Micaela Abelardo
- Árbitro asistente 1: Ignacio Otegui
- Árbitro asistente 2: Ariel Ibañez
- Cuarto árbitro: Matías Ansede
- Jueves 5 de febrero
- 17:00 – Argentinos vs. Godoy Cruz (Zona A) – Predio Lionel Messi (AFA Ezeiza)
- Árbitro: Camila Gette
- Árbitro asistente 1: Matías Pino
- Árbitro asistente 2: Patricio Acuña
- Cuarto árbitro: Agustín Panizza
- 17:00 – Defensa y Justicia vs. Estudiantes (Río IV) (Zona B) – Campeones del Mundo
- Árbitro: Valentin Ibañez Mesa
- Árbitro asistente 1: Sebastian Valdez
- Árbitro asistente 2: Luis Taboada
- Cuarto árbitro: Damián Parodi
- 17:00 – San Martín SJ vs. Platense (Zona B) – Predio Emmanuel Mas
- Árbitro: Ulises López
- Árbitro asistente 1: Lucas García
- Árbitro asistente 2: Alexis Ramírez
- 17:00 – Indepte. Rivadavia vs. Atlético Rafaela (Zona B) – Ciudad Deportiva
- Árbitro: Facundo Fuentes
- Árbitro asistente 1: Federico Machuca
- Árbitro asistente 2: Rodrigo Díaz
- 20:00 – River vs. Talleres (Zona A) – River Camp
- Árbitro: Mauro Trinidad
- Árbitro asistente 1: Jonathan Florentin
- Árbitro asistente 2: Valentino Gaillard
- Cuarto árbitro: Leandro Fedele
- 21:00 – Central Córdoba vs. Quilmes (Zona B) – Alfredo Terrera
- Árbitro: Fabricio De La Cruz
- Árbitro asistente 1: Roberto Rodriguez
- Árbitro asistente 2: Rodolfo Rodriguez
  Fecha 2
  Martes 10 de febrero
  17:00 – Banfield vs. San Lorenzo (Zona A) – Predio Alfredo Palacios
@@ -2892,6 +2834,15 @@ Racing Club vs Unión Santa Fe
 River Plate vs Social Atlético Televisión 
 San Lorenzo vs San Luis 
 Talleres vs Lanús
+JORNADA 15
+S.A.T. vs Ferro Carril Oeste
+ Boca Juniors vs Talleres 
+ Lanús vs San Lorenzo 
+ San Luis F.C. vs Racing Club
+ Unión vs Newell’s Old Boys
+ Independiente vs Gimnasia y Esgrima L.P.
+ Huracán vs Banfield
+ Belgrano vs River Plate
 Torneo Femenino de Primera B
 Copa Federal Femenina
 CONMEBOL Copa Libertadores 2026
