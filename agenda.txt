@@ -3047,16 +3047,16 @@ Día:
 Viernes 6 de febrero
 Horario: 18.00
 Grupo A: Chile - Colombia, en Asunción 
- Árbitra: WILMA BALDERRAMA (BOL)
+Árbitra: WILMA BALDERRAMA (BOL)
  Árbitra Asistente N °1: INES CHOQUE (BOL)
  Árbitra Asistente N °2: ELIZABETH BLANCO (BOL)
  4ta. Árbitra: ADRIANA ÁLVAREZ (ARG)
 Horario: 18.00
 Grupo A: Uruguay - Paraguay, en Villa Elisa 
- Árbitra: ELIZABETH TINTAYA (PER)
+Árbitra: ELIZABETH TINTAYA (PER)
  Árbitra Asistente N °1: MARIANA AQUINO (PER)
  Árbitra Asistente N °2: DIANA RUIZ (PER)
- 4ta. Árbitra: REJANE CAETANO (BRA) 
+ 4ta. Árbitra: REJANE CAETANO (BRA)
 Día: 
 Sábado 7 de febrero 
 Horario: 18.00
@@ -3067,10 +3067,10 @@ Grupo B: Ecuador - Argentina, en Asunción
  4ta. Árbitra: PAULA FERNANDEZ (COL) 
 Horario: 18.00
 Grupo B: Bolivia - Brasil, en Villa Elisa 
- Árbitra: ANA MÉNDEZ (VEN)
+Árbitra: ANA MÉNDEZ (VEN)
  Árbitra Asistente N °1: FRANCIS GARCIA (VEN)
  Árbitra Asistente N °2: THAITY DUGARTE (VEN)
- 4ta. Árbitra: HELENA CANTERO (PAR) 
+ 4ta. Árbitra: HELENA CANTERO (PAR)
 Día: 
 Domingo 8 de febrero 
 Horario: 18.00
@@ -3126,10 +3126,8 @@ Se jugará del 8 al 16 de agosto de 2026.
 CONMEBOL Sub 20 Futsal Femenina 2026
 Se jugará del 5 al 13 de septiembre de 2026.
 CONMEBOL Copa América Futsal
-Semifinales 
- Sábado 31 de enero 
- 16.30 Argentina - Venezuela
- 19.15 Brasil - Perú
+Final
+ Argentina 1 - Brasil 2 
 Finalissima Futsal 2026
 Se jugará del 5 al 8 de noviembre de 2026.
 CONMEBOL Copa Libertadores de Futsal 2026
