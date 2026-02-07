@@ -2,20 +2,6 @@
 Torneo Apertura 2026
 Fecha 4
 Sábado 7 de febrero
- 17.00 Aldosivi – Rosario Central (Zona B) 
- Árbitro: Fernando Espinoza
- Árbitro asistente 1: Julio Fernández
- Árbitro asistente 2: Andrés Barbieri
- Cuarto árbitro: Diego Novelli
- VAR: Adrián Franklin
- AVAR: Mariano Ascenzi
- 18.00 Racing – Argentinos (Zona B) 
- Árbitro: Hernán Mastrángelo
- Árbitro asistente 1: Diego Bonfa
- Árbitro asistente 2: Lucas Pardo
- Cuarto árbitro: Nicolás Mastroieni
- VAR: Germán Delfino
- AVAR: Agustín Méndez
  20.00 River – Tigre (Zona B) 
  Árbitro: Sebastián Zunino
  Árbitro asistente 1: Juan Pablo Belatti
@@ -625,9 +611,8 @@ Banfield – Atlético Tucumán
  Gimnasia – Belgrano
  Barracas Central – Racing
  Aldosivi – River
-Supercopa Argentina 
 Torneo Proyección
- Fecha 2
+Fecha 2
  Martes 10 de febrero
  17:00 – Banfield vs. San Lorenzo (Zona A) – Predio Alfredo Palacios
  17:00 – Rosario Central vs. Tigre (Zona A) – Arroyo Seco
