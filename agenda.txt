@@ -2,25 +2,115 @@
 Torneo Apertura 2026
 Fecha 5
 Jueves 12 de febrero
- 19.00 Tigre – Aldosivi (Zona B)
- 21.15 Argentinos – River (Zona B)
+19.00 Tigre – Aldosivi
+ Árbitro: Bryan Ferreyra 
+ Asistente 1: Walter Ferreyra 
+ Asistente 2: Marcelo Bisstocco 
+ Cuarto árbitro: Manuel Girett 
+ VAR: Gastón Monsón Brizuela 
+ AVAR: Nahuel Viñas 
+21.15 Argentinos Jrs. – River Plate
+ Árbitro: Andrés Merlos 
+ Asistente 1: Cristian Navarro 
+ Asistente 2: Erik Grunmann 
+ Cuarto árbitro: Guido Mascheroni 
+ VAR: Silvio Trucco 
+ AVAR: Julio Fernéndez 
 Viernes 13 de febrero
- 20.00 Independiente – Lanús (Zona A)
- 22.15 Unión – San Lorenzo (Zona A)
- 22.15 Defensa y Justicia – Vélez (Zona A)
+18.00 Def. y Justicia – Vélez
+ Árbitro: Fernando Echenique 
+ Asistente 1: Diego Bonfé 
+ Asistente 2: Ivan Aliende 
+ Cuarto árbitro: Nicolás Kresta 
+ VAR: Sebastián Habib 
+ AVAR: Gastón Suárez 
+20.00 Independiente – Lanús
+ Árbitro: Facundo Tello 
+ Asistente 1: Pablo González 
+ Asistente 2: Agustín Méndez 
+ Cuarto árbitro: Lucas Comesaña 
+ VAR: Jose Carreras 
+ AVAR: Javier Uziga 
+22.15 Unión – San Lorenzo
+ Árbitro: Ariel Penel 
+ Asistente 1: Maximiliano Del Yesso 
+ Asistente 2: Ivan Núñez 
+ Cuarto árbitro: Jose Díaz 
+ VAR: Hernan Mastrángelo
+ AVAR: Mariana De Almeida 
 Sábado 14 de febrero
- 17.30 Banfield – Racing (Zona B)
- 19.45 Talleres – Gimnasia (Mza.) (Zona A)
- 19.45 Huracán – Sarmiento (Zona B)
- 22.00 Atlético Tucumán – Estudiantes (Río Cuarto) (Zona B)
- 22.00 Independiente Rivadavia Mza. – Belgrano (Zona B)
+17.30 Banfield – Racing Club
+ Árbitro: Pablo Dóvalo 
+ Asistente 1: Pablo Acevedo 
+ Asistente 2: Lucas Ripoli 
+ Cuarto árbitro: Jorge Broggi 
+ VAR: Lucas Novelli 
+ AVAR: Nelson Sosa 
+19.45 Talleres Cba – Gimnasia Mza
+ Árbitro: Darío Herrera 
+ Asistente 1: Damián Espinoza 
+ Asistente 2: Eduardo Lucero 
+ Cuarto árbitro: Guillermo González 
+ VAR: Sebastian Bresba 
+ AVAR: German Delfino 
+19.45 Huracán – Sarmiento
+ Árbitro: Sebastian Martínez 
+ Asistente 1: Sebastian Raineri 
+ Asistente 2: Daiana Milone 
+ Cuarto árbitro: Mariano Negrete 
+ VAR: Salome Di Iorio 
+ AVAR: Diego Verlota 
+22.00 At. Tucumán – Estudiantes Río IV
+ Árbitro: Daniel Zamora 
+ Asistente 1: Juan Mamani 
+ Asistente 2: Gisella Bosso 
+ Cuarto árbitro: Franco Morón 
+ VAR: Laura Fortunato 
+ AVAR: Diego Ceballos 
+22.00 Indep. Rivadavia Mza – Belgrano
+ Árbitro: Nazareno Arasa 
+ Asistente 1: Diego Martín 
+ Asistente 2: Matias Bianchi 
+ Cuarto árbitro: Nahuel Viñas 
+ VAR: Adrian Franklin 
+ AVAR: Marcos Horticolou 
 Domingo 15 de febrero
- 17.00 Gimnasia – Estudiantes (Interzonal)
- 19.30 Boca – Platense (Zona A)
- 22.00 Rosario Central – Barracas Central (Zona B)
- 22.00 Instituto – Central Córdoba (Zona B)
+17.00 Gimnasia LP – Estudiantes LP
+ Árbitro: Yael Falcón Pérez 
+ Asistente 1: Miguel Savorani 
+ Asistente 2: Hugo Páez 
+ Cuarto árbitro: Gastón Iglesias 
+ VAR: Fernando Espinoza 
+ AVAR: Diego Romero 
+19.30 Boca Jrs. – Platense
+ Árbitro: Sebastián Zunino 
+ Asistente 1: Pablo Gualtieri 
+ Asistente 2: Maximiliano Castelli 
+ Cuarto árbitro: Nelson Sosa 
+ VAR: Jorge Baliño 
+ AVAR: Carlos Córdoba 
+22.00 Rosario Ctral. – Barracas Ctral
+ Árbitro: Pablo Echavarria 
+ Asistente 1: Juan Pablo Belatti 
+ Asistente 2: Gabriel Chade 
+ Cuarto árbitro: Mauricio Martín 
+ VAR: Nicolas Ramírez 
+ AVAR: Lucas Germanotta 
+22.00 Instituto ACC – Ctral. Córdoba SE
+ Árbitro: Leandro Rey Hilfer 
+ Asistente 1: Facundo Rodríguez 
+ Asistente 2: Juan Del Fueyo 
+ Cuarto árbitro: Emanuel Ejarque 
+ VAR: Hector Paletta 
+ AVAR: Lucas Pardo 
 Lunes 16 de febrero
- 19.00 Deportivo Riestra – Newell’s (Zona A)
+19.00 Dep. Riestra – Newell's
+ Árbitro: Luis Lobo Medina 
+ Asistente 1: Adrián Delbarba 
+ Asistente 2: Mauro Ramos Errasti 
+ Cuarto árbitro: Kevin Alegre 
+ VAR: Nicolás Lamolina 
+ AVAR: Gisella Trucco
 Fecha 6 (Interzonal)
 Jueves 19 de febrero
  17.15 Defensa y Justicia – Belgrano
@@ -525,14 +615,6 @@ Banfield – Atlético Tucumán
  Aldosivi – River
 Torneo Proyección
 Fecha 2
- Martes 10 de febrero
- 17:00 – Banfield vs. San Lorenzo (Zona A) – Predio Alfredo Palacios
- 17:00 – Rosario Central vs. Tigre (Zona A) – Arroyo Seco
- 17:00 – Gimnasia LP vs. Instituto (Zona A) – Estancia Chica
- 17:00 – Ferro vs. Belgrano (Zona B) – Pontevedra
- 17:00 – Unión vs. Aldosivi (Zona A) – La Tatenguita
- 19:00 – Gimnasia (Mza) vs. Racing (Zona A) – Víctor Legrotaglie
- 21:00 – Boca vs. Dep. Riestra (Zona B) – Boca Ezeiza
  Miércoles 11 de febrero
  17:00 – Quilmes vs. Estudiantes (Zona B) – Predio de Quilmes
  17:00 – Atlético Rafaela vs. San Martín SJ (Zona B) – Tito Bartomioli
@@ -658,18 +740,98 @@ Fecha 2
  20:00 – River vs. Gimnasia LP (Zona B) – River Camp
  20:00 – Central Córdoba vs. Huracán (Zona B) – Alfredo Terrer
 Primera Nacional
-Así quedó conformado el fixture para la temporada 2026 de la Primera Nacional:
+Fecha 1
+San Miguel – Ctral. Norte (S.) 
+ Árbitro: Franco Acita 
+ Asistente 1: Nahuel Rasullo 
+ Asistente 2: Francisco Gugliota 
+ Cuarto árbitro: Damián Rubino 
+ At. de Rafaela – Almagro 
+ Árbitro: Felipe Viola 
+ Asistente 1: Federico Cano 
+ Asistente 2: Hernán Vallejos 
+ Cuarto árbitro: Marcos Recalde 
+ Godoy Cruz (Mza.) – Cdad. de Bolívar 
+ Árbitro: Juan Pafundi 
+ Asistente 1: José Castelli 
+ Asistente 2: Daniel Zamora 
+ Cuarto árbitro: Lucas Brumer 
+ G. y Tiro (S.) – Colegiales 
+ Árbitro: Álvaro Carranza 
+ Asistente 1: Gonzalo Ferrari 
+ Asistente 2: Cristian Herrera 
+ Cuarto árbitro: Nelon Bejas 
+ Acassuso – Chaco For Ever 
+ Árbitro: Javier Delbarba 
+ Asistente 1: Diego Romero 
+ Asistente 2: Maximiliano Montenegro 
+ Cuarto árbitro: Iñaki Iparraguirre 
+ All Boys – Mitre (S.E.) 
+ Árbitro: Maximiliano Manduca 
+ Asistente 1: Mario Bardina 
+ Asistente 2: Gonzalo Roldán 
+ Cuarto árbitro: Lautaro Castagnola 
+Dep. Morón – Def. de Belgrano 
+ Árbitro: Juan Pablo Loustau 
+ Asistente 1: Juan Pablo Millenar 
+ Asistente 2: Federico Pomi 
+ Cuarto árbitro: Gonzalo Creimermann 
+ San Telmo – Ferro Carril Oeste 
+ Árbitro: Lucas Cavallero 
+ Asistente 1: Ariel Scime 
+ Asistente 2: Federico García 
+ Cuarto árbitro: Cristian Cernadas 
+Agropecuario Arg. – Dep. Maipú (Mza.) 
+ Árbitro: Joaquín Gil 
+ Asistente 1: Joaquin Badano 
+ Asistente 2: Martín Saccone 
+ Cuarto árbitro: Enzo Silvestre 
+ T. Suárez – Temperley 
+ Árbitro: Maximiliano Macheroni 
+ Asistente 1: Ernesto Callegari 
+ Asistente 2: Juan Viglietti 
+ Cuarto árbitro: Alejandro Porticella 
+Colón – Dep. Madryn 
+ Árbitro: Pablo Giménez 
+ Asistente 1: Uriel García Leri 
+ Asistente 2: Federico Lapalma 
+ Cuarto árbitro: Mariano Agli 
+ Chacarita Jrs. – San Martín (S.J.) 
+ Árbitro: Bruno Amiconi 
+ Asistente 1: Gerardo Lencina 
+ Asistente 2: Marcelo Errante 
+ Cuarto árbitro: Adrian Núñez Rodríguez 
+Guemes (S.E.) – Nva. Chicago 
+ Árbitro: Fabrizio Llobet 
+ Asistente 1: Mariano Viale 
+ Asistente 2: Mariana Dure 
+ Cuarto árbitro: Leandro Villanueva 
+Los Andes – Alte. Brown 
+ Árbitro: Gonzalo Pereira 
+ Asistente 1: Juan Manuel González 
+ Asistente 2: Nahuel Santanocito 
+ Cuarto árbitro: Rodrigo Villalba 
+ Racing (Cba.) – Estudiantes 
+ Árbitro: Federico Benítez 
+ Asistente 1: Manuel Sánchez 
+ Asistente 2: Javier Mihura 
+ Cuarto árbitro: Jorge Etem 
+ San Martín (T.) – Patronato (P.) 
+ Árbitro: Andres Gariano 
+ Asistente 1: Sebastian Osudar 
+ Asistente 2: Martin Grasso 
+ Cuarto árbitro: Federico Guaymas 
+ Atlanta – Quilmes A.C. 
+ Árbitro: Juan Cruz Robledo 
+ Asistente 1: Andres Barbieri 
+ Asistente 2: Juan Ricciardi 
+ Cuarto árbitro: Tomas Aybar 
+G. y Esgrima (J.) – F.C. Midland 
+ Árbitro: Yamil Possi 
+ Asistente 1: Ramon Ortíz 
+ Asistente 2: Mariano Ascensi 
+ Cuarto árbitro: Darío Sandoval
 ZONA A
- Fecha 1 - 14/02/2026 
- RACING (CBA.) - ESTUDIANTES
- ALL BOYS - MITRE (S.E.)
- LOS ANDES - ALTE. BROWN
- GODOY CRUZ (MZA.) - CDAD. DE BOLÍVAR
- DEP. MORÓN - DEF. DE BELGRANO
- COLÓN - DEP. MADRYN
- SAN MIGUEL - CTRAL. NORTE (S.)
- SAN TELMO - FERRO CARRIL OESTE
- ACASSUSO - CHACO FOR EVER
  Fecha 2 
  ACASSUSO - RACING (CBA.)
  CHACO FOR EVER - SAN TELMO
@@ -1039,16 +1201,6 @@ ZONA A
  LOS ANDES - MITRE (S.E.)
  ALL BOYS - ESTUDIANTES
 ZONA B
- Fecha 1 - 14/02/2026 
- G. Y ESGRIMA (J.) - F.C. MIDLAND
- ATLANTA - QUILMES A.C.
- G. Y TIRO (S.) - COLEGIALES
- SAN MARTÍN (T.) - PATRONATO (P.)
- AT. DE RAFAELA - ALMAGRO
- AGROPECUARIO ARG. - DEP. MAIPÚ (MZA.)
- T. SUÁREZ - TEMPERLEY
- GUEMES (S.E.) - NVA. CHICAGO
- CHACARITA JRS. - SAN MARTÍN (S.J.)
  Fecha 2 
  CHACARITA JRS. - G. Y ESGRIMA (J.)
  SAN MARTÍN (S.J.) - GUEMES (S.E.)
@@ -1418,18 +1570,62 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B 2026
-Fecha 1 - 14/02/2026 
- Ituzaingó - Dep. Armenio 
- Flandria - Brown (Adrogué) 
- Argentino de Quilmes - Dep. Laferrere 
- Def. Unidos - Talleres (RE) 
- Comunicaciones - Argentino de Merlo 
- Dock Sud - Arsenal 
- Dep. Merlo - Excursionistas 
- Camioneros - Villa Dálmine 
- Sportivo Italiano - UAI Urquiza 
- San Martín (B) - Real Pilar 
- Villa San Carlos - Liniers
+Fecha 1
+Ituzaingó – Dep. Armenio 
+ Árbitro: Ariel Cruz 
+ Asistente 1: Ángel Rebuscini 
+ Asistente 2: Matías Noli 
+ Cuarto árbitro: Mateo Bocaccia 
+Arg. de Quilmes – Dep. Laferrere 
+ Árbitro: Julián Beligoy 
+ Asistente 1: Heber Ibáñez Meza 
+ Asistente 2: Gustavo Benitez Soilan 
+ Cuarto árbitro: Gabriel Flores 
+ Camioneros – Villa Dálmine 
+ Árbitro: Ramiro Maglio 
+ Asistente 1: Damián Orellana 
+ Asistente 2: Hugo Hartung 
+ Cuarto árbitro: Iván Castellu Coca 
+ Comunicaciones – Arg. de Merlo 
+ Árbitro: Martin Despósito 
+ Asistente 1: Matías Basso 
+ Asistente 2: Matías Panozzo 
+ Cuarto árbitro: Valentin Bocaccia 
+Def. Unidos – Talleres (R.E.) 
+ Árbitro: Nicolás Mastroieni 
+ Asistente 1: Luis Rotman 
+ Asistente 2: Cecilio Calcagno 
+ Cuarto árbitro: David Cornejo 
+ Flandria – Brown (Adrogué) 
+ Árbitro: Gabriel Gutiérrez 
+ Asistente 1: Juan Manuel Díaz 
+ Asistente 2: Federico Zuvilivia 
+ Cuarto árbitro: Facundo Fuentes 
+ San Martín (B.) – Real Pilar 
+ Árbitro: Julián Jerez 
+ Asistente 1: Rodrigo Arín 
+ Asistente 2: Damián Alcaraz 
+ Cuarto árbitro: Gonzalo Correa 
+Sp. Italiano – UAI-Urquiza 
+ Árbitro: Maximiliano López Monti 
+ Asistente 1: Damián Oliveto 
+ Asistente 2: Nicolás Gruccio 
+ Cuarto árbitro: Agustín Flores 
+ Villa San Carlos – Liniers 
+ Árbitro: Jonathan Barrios 
+ Asistente 1: Lucas Vazquez 
+ Asistente 2: Mara Díaz 
+ Cuarto árbitro: Ulises López 
+Sp. Dock Sud – Arsenal F.C. 
+ Árbitro: Ignacio Cuicchi 
+ Asistente 1: Cristian Amarilla 
+ Asistente 2: Pablo Pastor 
+ Cuarto árbitro: Iván Mastroieni 
+Dep. Merlo – Excursionistas 
+ Árbitro: Wenceslao Meneses 
+ Asistente 1: Hernán Antola 
+ Asistente 2: Maximiliano Benzoni 
+ Cuarto árbitro: Roberta Echeverria
 Fecha 2 
  Villa San Carlos - Ituzaingó 
  Liniers - San Martín (B) 
