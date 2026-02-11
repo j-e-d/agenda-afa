@@ -1582,26 +1582,11 @@ Viernes 13 de febrero
  Asistente 2: Matías Noli 
  Cuarto árbitro: Mateo Bocaccia 
  Sábado 14 de febrero
- Arg. de Quilmes – Dep. Laferrere, a las 17.00 horas 
- Árbitro: Julián Beligoy 
- Asistente 1: Heber Ibáñez Meza 
- Asistente 2: Gustavo Benitez Soilan 
- Cuarto árbitro: Gabriel Flores 
  Camioneros – Villa Dálmine, a las 17.00 horas 
  Árbitro: Ramiro Maglio 
  Asistente 1: Damián Orellana 
  Asistente 2: Hugo Hartung 
  Cuarto árbitro: Iván Castellu Coca 
- Comunicaciones – Arg. de Merlo, a las 17.00 horas 
- Árbitro: Martin Despósito 
- Asistente 1: Matías Basso 
- Asistente 2: Matías Panozzo 
- Cuarto árbitro: Valentin Bocaccia 
-Def. Unidos – Talleres (R.E.), a las 17.00 horas 
- Árbitro: Nicolás Mastroieni 
- Asistente 1: Luis Rotman 
- Asistente 2: Cecilio Calcagno 
- Cuarto árbitro: David Cornejo 
  Flandria – Brown (Adrogué), a las 17.00 horas 
  Árbitro: Gabriel Gutiérrez 
  Asistente 1: Juan Manuel Díaz 
@@ -1612,11 +1597,6 @@ Def. Unidos – Talleres (R.E.), a las 17.00 horas
  Asistente 1: Rodrigo Arín 
  Asistente 2: Damián Alcaraz 
  Cuarto árbitro: Gonzalo Correa 
-Sp. Italiano – UAI-Urquiza, a las 17.00 horas 
- Árbitro: Maximiliano López Monti 
- Asistente 1: Damián Oliveto 
- Asistente 2: Nicolás Gruccio 
- Cuarto árbitro: Agustín Flores 
  Villa San Carlos – Liniers, a las 17.00 horas 
  Árbitro: Jonathan Barrios 
  Asistente 1: Lucas Vazquez 
@@ -1628,11 +1608,32 @@ Sp. Italiano – UAI-Urquiza, a las 17.00 horas
  Asistente 1: Cristian Amarilla 
  Asistente 2: Pablo Pastor 
  Cuarto árbitro: Iván Mastroieni 
+ Arg. de Quilmes – Dep. Laferrere, a las 17.00 horas 
+ Árbitro: Julián Beligoy 
+ Asistente 1: Heber Ibáñez Meza 
+ Asistente 2: Gustavo Benitez Soilan 
+ Cuarto árbitro: Gabriel Flores 
+ Def. Unidos – Talleres (R.E.), a las 17.00 horas 
+ Árbitro: Nicolás Mastroieni 
+ Asistente 1: Luis Rotman 
+ Asistente 2: Cecilio Calcagno 
+ Cuarto árbitro: David Cornejo 
+ Sp. Italiano – UAI-Urquiza, a las 19.30 horas 
+ Árbitro: Maximiliano López Monti 
+ Asistente 1: Damián Oliveto 
+ Asistente 2: Nicolás Gruccio 
+ Cuarto árbitro: Agustín Flores 
 Dep. Merlo – Excursionistas, a las 20.00 horas 
  Árbitro: Wenceslao Meneses 
  Asistente 1: Hernán Antola 
  Asistente 2: Maximiliano Benzoni 
  Cuarto árbitro: Roberta Echeverria
+ Lunes 16 de febrero
+Comunicaciones – Arg. de Merlo, a las 17.00 horas 
+ Árbitro: Martin Despósito 
+ Asistente 1: Matías Basso 
+ Asistente 2: Matías Panozzo 
+ Cuarto árbitro: Valentin Bocaccia 
 Fecha 2 
  Villa San Carlos - Ituzaingó 
  Liniers - San Martín (B) 
