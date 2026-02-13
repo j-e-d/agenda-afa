@@ -602,25 +602,88 @@ Torneo Proyección
 Fecha 3
  Lunes 16 de febrero
  17:00 – Instituto vs. Rosario Central (Zona A) – La Agustina
+ Árbitro: Valentín Ibáñez Mesa
+ Árbitro Asistente 1: Felipe Onufriuk
+ Árbitro Asistente 2: Franco Chávez
  17:00 – Aldosivi vs. Gimnasia LP (Zona A) – Predio de Aldosivi
+ Árbitro: Gabriela Coronel
+ Árbitro Asistente 1: Juan Alexis Etchepare
+ Árbitro Asistente 2: Sebastián Krojzl
  17:00 – Tigre vs. Banfield (Zona A) – Predio Nito San Andrés
- 17:00 – Argentinos vs. Unión (Zona A) – CEFFA
+ Árbitro: Micaela Abelardo
+ Árbitro Asistente 1: Ariel Ibáñez
+ Árbitro Asistente 2: Nicolás Ruíz Segovia
+ Cuarto árbitro: Leandro Díaz
+ 17:00 – Argentinos vs. Unión (Zona A) – Estadio Diego A. Maradona
+ Árbitro: Mauro Trinidad
+ Árbitro Asistente 1: Jonathan Florentin
+ Árbitro Asistente 2: Daniel Alegre
+ Cuarto árbitro: Lautaro Díaz
  Martes 17 de febrero
  17:00 – Vélez Sarsfield vs. Barracas Central (Zona A) – Villa Olímpica
+ Árbitro: Manuel Prieto
+ Árbitro Asistente 1: Felipe Arrechea
+ Árbitro Asistente 2: Tomás Pérez
+ Cuarto árbitro: Fabricio de la Cruz
  17:00 – San Lorenzo vs. Talleres (Zona A) – Auxiliar
- 17:00 – Newell’s vs. Defensa y Justicia (Zona B) – Predio Jorge Griffa
+ Árbitro: Roberta Echeverría
+ Árbitro Asistente 1: Ignacio Otegui
+ Árbitro Asistente 2: Bruno Santillán
+ Cuarto árbitro: Damián Parodi
+ 17:00 – Newell’s vs. Defensa y Justicia (Zona B) – Estadio Marcelo Bielsa
+ Árbitro: Eduardo Coyto
+ Árbitro Asistente 1: Bruno Castillo
+ Árbitro Asistente 2: Freddy Quelca Guarachi
  17:00 – Dep. Riestra vs. Ferro (Zona B) – La Candela
+ Árbitro: Franco Porotelli
+ Árbitro Asistente 1: Mauro Soria
+ Árbitro Asistente 2: Sofía Curto
+ Cuarto árbitro: Joaquín García Casas
  17:00 – Racing vs. Godoy Cruz (Zona A) – Tita Mattiussi
- 19:00 – Indepte. Rivadavia vs. Boca (Zona B) – Bautista Gargantini
- 21:00 – Central Córdoba vs. Atlético Rafaela (Zona B) – Alfredo Terrera
+ Árbitro: Facundo Fuentes
+ Árbitro Asistente 1: Nahuel Valdeon
+ Árbitro Asistente 2: Julieta Fernández
+ Cuarto árbitro: Ángel Laborda Paredes
+ 19:10 – Ind. Rivadavia Mza. vs. Boca (Zona B) – Bautista Gargantini
+ Árbitro: Facundo Carretero
+ Árbitro Asistente 1: Diego Fernández
+ Árbitro Asistente 2: Valentino Gaillard
+ 21:05 – Central Córdoba vs. Atlético Rafaela (Zona B) – Alfredo Terrera
+ Árbitro: Nazareno Galeano
+ Árbitro Asistente 1: Alexis Escobar
+ Árbitro Asistente 2: Luis Taboada
  Miércoles 18 de febrero
  17:00 – Estudiantes vs. Platense (Zona B) – City Bell
+ Árbitro: Ignacio Domínguez
+ Árbitro Asistente 1: Tomás Otero
+ Árbitro Asistente 2: Nahuel Martin
+ Cuarto árbitro: Franco Gutierre
  17:00 – Sarmiento vs. Atlético Tucumán (Zona A) – Centro Alto Rendimiento
+ Árbitro: Nicolás Díaz
+ Árbitro Asistente 1: Mario Vargas
+ Árbitro Asistente 2: Franco Boetti
  17:00 – San Martín SJ vs. Independiente (Zona B) – Predio Emmanuel Mas
+ Árbitro: Camila Gette
+ Árbitro Asistente 1: Matías Vargas
+ Árbitro Asistente 2: Nicolás Cavagnaro
  17:00 – Lanús vs. Estudiantes (Río IV) (Zona B) – Auxiliar
+ Árbitro: Sebastián Milessi
+ Árbitro Asistente 1: Gonzalo Cubillas
+ Árbitro Asistente 2: Alexis Ramírez
+ Cuarto árbitro: Leonardo Cristaldo
  17:00 – Belgrano vs. Huracán (Zona B) – Predio Armando Pérez
+ Árbitro: Juan Ferreyra
+ Árbitro Asistente 1: Facundo Maldonado
+ Árbitro Asistente 2: Enzo Nell
  17:00 – Colón vs. Quilmes (Zona B) – Predio 4 de Junio
+ Árbitro: Ariadna Palacios
+ Árbitro Asistente 1: Andrés Belen
+ Árbitro Asistente 2: Nicolás Rovira
  20:00 – River vs. Gimnasia (Mza) (Zona A) – River Camp
+ Árbitro: Valentín Persico
+ Árbitro Asistente 1: Matías Pino
+ Árbitro Asistente 2: Ludmila Capelli
+ Cuarto árbitro: Pablo Gómez
  Fecha 4
  Lunes 2 de marzo
  17:00 – Newell’s vs. Colón (Zona B) – Predio Jorge Griffa
@@ -2935,15 +2998,30 @@ Copa Libertadores - Fase 2
 Partido de ida
  Miércoles 18 de febrero
  21.30 Barcelona (Ecuador) vs. Argentinos Juniors
+ Árbitro: Fernando Vejar (Chile)
+ Árbitro asistente 1: Carlos poblete (Chile)
+ Árbitro asistente 2: Wladimir Muñoz (Chile)
+ Cuarto árbitro: Diego Flores (Chile)
+ VAR: Nicolás Millas (Chile)
+ AVAR: Alejandro Molina (Chile) 
 Partido de vuelta
  Miércoles 25 de febrero
  21.30 Argentinos Juniors vs. Barcelona (Ecuador)
 CONMEBOL Copa Sudamericana 2026
 El certamen se iniciará el 4 de marzo.
 CONMEBOL Recopa 2026
-Partido de ida 
-Jueves 19 de febrero 
+Partido de ida
+ Jueves 19 de febrero 
 21.30 Lanús - Flamengo
+ Árbitro: Alexis Herrera (Venezuela)
+ Asistente 1: Jorge Urrego (Venezuela)
+ Asistente 2: Lubin Torrealba (Venezuela)
+ Cuarto árbitro: Yender Herrera (Venezuela)
+ Quinto árbitro: Erizon Nieto (Venezuela)
+ VAR: Carlos Orbe (Ecuador)
+ AVAR 1: Christian Lescano (Ecuador)
+ AVAR 2: Franklin Congo (Ecuador)
+ AVAR 3: Ángel Arteaga (Venezuela)
 Partido de vuelta 
 Jueves 26 de febrero 
 21.30 Flamengo - Lanús 
