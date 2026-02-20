@@ -2052,11 +2052,6 @@ Sábado 21 de febrero
  Asistente 1: Federico Machuca
  Asistente 2: Rodrigo Díaz
  Cuarto árbitro: Nicolás Díaz
- 17.00 Leones F.C. - El Porvenir
- Árbitro: Agustín Panizza
- Asistente 1: Matías Panozzo
- Asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Valentín Persico
  17.00 Luján - Sp. Barracas
  Árbitro: Ulises López
  Asistente 1: Damián Alcaráz
@@ -2099,6 +2094,12 @@ Lunes 23 de febrero
  Asistente 1: Matías Noli
  Asistente 2: Sebastián Valdéz
  Cuarto árbitro: Ariadna Palacios
+POSTERGADO 
+ Leones F.C. - El Porvenir
+ Árbitro: Agustín Panizza
+ Asistente 1: Matías Panozzo
+ Asistente 2: Rodolfo Rodríguez
+ Cuarto árbitro: Valentín Persico
 ZONA A
 Fecha 2 - 28/02/2026
  J.J. DE URQUIZA - LUGANO
