@@ -1372,13 +1372,6 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B 2026
-Fecha 2
-Lunes 23 de febrero 
- 17.00 UAI Urquiza - Camioneros
- Árbitro: Nicolás Mastroieni
- Asistente 1: Gastón Borras
- Asistente 2: Matías Pino
- Cuarto árbitro: Eduardo Coyto
 Fecha 3 
  Ituzaingó - Brown (Adrogué) 
  Dep. Armenio - Dep. Laferrere 
@@ -1860,14 +1853,7 @@ Fecha 42
  Argentino de Quilmes - Brown (Adrogué) 
  Flandria - Dep. Armenio
 Primera C
-Así quedó conformado el fixture para la temporada 2026 de la Primera C:
 Fecha 1
-Lunes 23 de febrero 
- 17.00 Deportivo Español - Yupanqui
- Árbitro: Iván Castelu Coca
- Asistente 1: Matías Noli
- Asistente 2: Sebastián Valdéz
- Cuarto árbitro: Ariadna Palacios
 POSTERGADO 
  Leones F.C. - El Porvenir
  Árbitro: Agustín Panizza
@@ -2519,6 +2505,48 @@ G. y Esgrima L.P. - Camioneros, en horario y estadio a confirmar
 (TV)
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA. 
 Torneo Federal A 
+ Así quedaron integradas las zonas del certamen:
+ZONA 1:
+ EL LINQUEÑO
+ GIMNASIA Y ESGRIMA DE CHIVILCOY
+ INDEPENDIENTE
+ DOUGLAS HAIG
+ ESCOBAR FC
+ DEFENSORES DE BELGRANO V.R.
+ GIMNASIA Y ESGRIMA DE CONCEPCIÓN DEL URUGUAY
+ SPORTIVO AC
+ 9 DE JULIO
+ SPORTIVO BELGRANO
+ ZONA 2:
+ JUVENTUD ANTONINA
+ TUCUMAN CENTRAL
+ SAN MARTIN
+ SOL DE AMERICA
+ SARMIENTO R
+ DEFENSORES DE PUERTO VILELAS
+ SARMIENTO LB
+ BARTOLOME MITRE
+ BOCA UNIDOS
+ ZONA 3:
+ CIPOLLETTI
+ DEPORTIVO RINCON
+ HURACAN LH
+ A.C.SAN MARTIN
+ FADEP
+ JUVENTUD UNIDA UNIVERSITARIO
+ COSTA BRAVA
+ ATENAS
+ DEPORTIVO ARGENTINO
+ ZONA 4:
+ GERMINAL
+ GUILLERMO BROWN
+ SOL DE MAYO
+ OLIMPO
+ VILLA MITRE
+ SANTAMARINA
+ CIRCULO DEPORTIVO
+ ALVARADO
+ KIMBERLEY
 Torneo Regional Amateur
 Fútbol Femenino de Primera División A 
 Jornada 1
@@ -2668,11 +2696,6 @@ Miércoles 25 de febrero
  VAR: Christian Ferreyra (Uruguay)
  AVAR: Agustín Berisso (Uruguay)
 El próximo 19 de marzo la Conmebol realizará el sorteo de la fase de grupos de la Copa Libertadores, en Luque, Paraguay, desde las 20.
- Copa Libertadores - Fase 2
- Partido de vuelta
-Miércoles 25 de febrero
- 21.30 Argentinos Juniors vs. Barcelona (Ecuador)
-AGREGAR ACA LOS ARBITROS DEL PARTIDO
  La fase de grupos tendrá su inicio el 7 de abril con la primera fecha, mientras que la segunda y la tercera se desarrollarán entre el 14 y 16, y 18 y 30 respectivamente.
  Los equipos participantes ocuparán los siguientes bombos:
  Bombo 1:
