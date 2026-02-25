@@ -67,26 +67,31 @@ Jueves 26 de febrero
 A confirmar
  Aldosivi – Argentinos (Zona B)
 Fecha 8
+Zona “A”
 Sábado 28 de febrero
- 17.45 Boca – Gimnasia (Mza.) (Zona A)
- 20.00 Independiente – Central Córdoba (Zona A)
- 22.15 Talleres – San Lorenzo, en estadio Mario A. Kempes (Zona A)
-Domingo 1° de marzo
- 17.00 Newell’s – Rosario Central (Interzonal)
- 19.15 Argentinos – Barracas Central (Zona B)
- 19.15 Instituto – Unión (Zona A)
- 21.30 Defensa y Justicia – Lanús (Zona A)
- 21.30 Tigre – Gimnasia (Zona B)
+Boca Juniors - G. y Esgrima (Mza.), a las 17.45 horas
+Independiente - Ctral. Córdoba (S.E.), a las 20.00 horas
+Talleres (Cba.) - San Lorenzo de A., a las 22.15 horas en estadio Mario A. Kempes
+Domingo 1 de marzo
+Instituto A.C. - Unión, a las 19.15 horas
+Def. y Justicia - Lanús, a las 21.30 horas
 Lunes 2 de marzo
- 19.15 Deportivo Riestra – Platense (Zona A)
- 19.15 Estudiantes – Vélez (Zona A)
- 21.30 Independiente Rivadavia Mza. – River, en estadio Malvinas Argentinas 
-(Zona B)
- 21.30 Banfield – Aldosivi (Zona B)
+Estudiantes de L.P. - Vélez Sarsfield, a las 19.15 horas
+Dep. Riestra - Platense, a las 19.15 horas
+Zona “B”
+Domingo 1 de marzo
+Argentinos Juniors - Barracas Central, a las 19.15 horas
+Tigre - G. y Esgrima (L.P.), a las 21.30 horas
+Lunes 2 de marzo
+Banfield - Aldosivi (M.D.P.), a las 21.30 horas
+Independiente Riv. (Mza.) -River Plate, a las 21.30 horasen estadio Malvinas Argentinas
 Martes 3 de marzo
- 19.00 Sarmiento – Estudiantes (Río Cuarto) (Zona B)
- 19.15 Huracán – Belgrano (Zona B)
- 21.15 Atlético Tucumán – Racing (Zona B)
+Sarmiento - Estudiantes (Rio IV), a las 19.00 horas
+Huracán - Belgrano (Cba.), a las 19.15 horas
+Atl. Tucumán - Racing Club, a las 21.15 horas
+Interzonal
+Domingo 1 de marzo
+Newell´s Old Boys - Rosario Central, a las 17.00 horas
 Fecha 9
 Jueves 5 de marzo
  18.30 Gimnasia (Mza.) – Defensa y Justicia
@@ -619,16 +624,32 @@ Torneo Proyección
  20:00 – Central Córdoba vs. Huracán (Zona B) – Alfredo Terrer
 Primera Nacional
 ZONA A
- Fecha 3 
- RACING (CBA.) - MITRE (S.E.)
- ESTUDIANTES - ALTE. BROWN
- ALL BOYS - CDAD. DE BOLÍVAR
- LOS ANDES - DEF. DE BELGRANO
- GODOY CRUZ (MZA.) - DEP. MADRYN
- DEP. MORÓN - CTRAL. NORTE (S.)
- COLÓN - FERRO CARRIL OESTE
- SAN MIGUEL - CHACO FOR EVER
- SAN TELMO - ACASSUSO
+Fecha 3
+Sábado 28 de febrero
+Los Andes - Def. de Belgrano,a las 17.00 horas
+San Miguel - Chaco For Ever, a las 17.00 horas
+Colón - Ferro Carril Oeste, a las 20.30 horas
+Domingo 1 de marzo
+All Boys - Ciudad Bolivar, a las 17.00 horas
+Godoy Cruz - Dep. Madryn, a las 17.00 horas
+Dep. Morón - Ctral. Norte (Salta), a las 17.00 horas
+San Telmo - Acassuso, a las 17.00 horas
+Racing (Cba.) - Mitre (S.E.), a las 18.00 horas
+Estudiantes - Alte. Brown, a las 20.30 horas
+Zona “B”
+Viernes 27 de febrero
+G. y Tiro (Salta) - Almagro, a las 22.00 horas
+Sábado 28 de febrero
+Agropecuario Arg. - Nva. Chicago, a las 20.30 horas
+Domingo 1 de marzo
+G. y Esgrima (J.) - Quilmes A.C, a las 17.00 horas
+F.- Midland - Colegiales, a las 17.00 horas
+Güemes (S.E.) - Chacarita Juniors, a las 17.00 horas
+San Martin (T.) - Dep. Maipú (Mza.), a las 17.30 horas
+At. de Rafaela - Temperley, a las 20.30 horas
+Tristán Suárez - San Martin (S.J.), a las 20.30 horas
+Lunes 2 de marzo
+Atlanta - Patronato (Paraná), a las 21.00 horas
  Fecha 4 
  SAN TELMO - RACING (CBA.)
  ACASSUSO - SAN MIGUEL
@@ -1337,18 +1358,20 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B 2026
-Fecha 3 
- Ituzaingó - Brown (Adrogué) 
- Dep. Armenio - Dep. Laferrere 
- Flandria - Talleres (RE)
- Argentino de Quilmes - Argentino de Merlo 
- Def. Unidos - Arsenal 
- Comunicaciones - Excursionistas 
- Dock Sud - Villa Dálmine 
- Dep. Merlo - UAI Urquiza 
- Camioneros - Real Pilar 
- Sportivo Italiano - Liniers 
- San Martín (B) - Villa San Carlos
+Fecha 3
+Viernes 27 de febrero
+Arg. de Quilmes - Arg. de Merlo, a las 17.00 horas
+Def. Unidos - Arsenal F.C, a las 17.00 horas
+Sp. Dock Sud -Villa Dálmine, a las 17.00 horas
+Sp. Italiano -Liniers, a las 17.00 horas
+Ituzaingó - Brown (Adrogué), a las 20.30 horas
+Dep. Merlo - UAI - Urquiza, a las 20.30 horas
+San Martin (B.) - Villa San Carlos, a las 20.30 horas
+Sábado 28 de febrero
+Dep. Armenio - Dep. Laferrere, a las 17.00 horas
+Flandria - Talleres (R.E.), a las 17.00 horas
+Comunicaciones - Excursionistas, a las 17.00 horas
+Camioneros - Real Pilar F.C, a las 17.00 horas
 Fecha 4 
  San Martín (B) – Ituzaingó
  Villa San Carlos - Sportivo Italiano 
@@ -1835,13 +1858,28 @@ Fecha 2 - 28/02/2026
  DEF. DE CAMBACERES - ARGENTINO (R.)
  J. UNIDA - SACACHISPAS F.C.
 Fecha 3 - 07/03/2026
- LUGANO - J. UNIDA
- SACACHISPAS F.C. - DEF. DE CAMBACERES
- ARGENTINO (R.) - L.N. ALEM
- ESTRELLA DEL SUR - PUERTO NUEVO
- BERAZATEGUI - DEP. PARAGUAYO
- V. ARENAS - MERCEDES
- CTRO. REC. ESPAÑOL - J.J. DE URQUIZA
+Zona “A”
+Sábado 28 de febrero
+J.J. de Urquiza - Lugano, a las 17.00 horas
+Dep. Paraguayo - Victoriano Arenas, a las 17.00 horas 
+Puerto Nuevo -Berazategui, a las 17.00 horas
+Def. de Cambaceres -Argentino (Ros.), a las 17.00 horas
+Domingo 1 de marzo
+L.N. Alem - Estrella del Sur, a las 17.00 horas
+Juv. Unida - Sacachispas F.C, a las 17.00 horas
+Mercedes – Rec. Español, a las 17.30 horas
+Zona “B”
+Sábado 28 de febrero
+Yupanqui - Sp. Barracas, a las 17.00 horas
+Fénix- Luján, a las 17.00 horas en Dep. Merlo
+Domingo 1 de marzo
+El Porvenir - Gral. Lamadrid, a las 17.00 horas
+Claypole - Atlas, a las 17.00 horas
+Dep. Español - Muñiz, a las 17.00 horas
+Lunes 2 de marzo
+Ctral. Ballester - Leones F.C, a las 17.00 horas
+Martes 3 de marzo
+Ctral. Córdoba (Ros.) - Cañuelas F.C, a las 20.00 horas
 Fecha 4 - 14/03/2026
  ARGENTINO (R.) - YUPANQUI
  EL PORVENIR - MERCEDES
