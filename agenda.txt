@@ -9,28 +9,6 @@ A confirmar
 Fecha 8
 Zona “A”
 Zona “A”
-Sábado 28 de febrero
-Boca Juniors - G. y Esgrima (Mza.), a las 17.45 horas
- Árbitro: Pablo Dóvalo
- Asistente 1: Miguel Savorani
- Asistente 2: Ivan Aliende
- Cuarto árbitro: Sebastián Bresba
- VAR: Nicolás Lamolina
- AVAR: Jorge Broggi
-Independiente - Ctral. Córdoba (S.E.), a las 20.00 horas
- Árbitro: Darío Herrera
- Asistente 1: Diego Bonfá
- Asistente 2: Mauro Ramos Errasti
- Cuarto árbitro: Cristian Cernadas
- VAR: Diego Ceballos
- AVAR: Pablo Giménez
-Talleres (Cba.) - San Lorenzo de A., a las 22.15 horas en estadio Mario A. Kempes
- Árbitro: Nicolás Ramírez
- Asistente 1: Gabriel Chade
- Asistente 2: Juan Del Fueyo
- Cuarto árbitro: Lucas Cavallero
- VAR: Adrián Franklin
- AVAR: Cristian Navarro
 Domingo 1 de marzo
 Instituto A.C. - Unión, a las 19.15 horas
  Árbitro: Sebastián Zunino
@@ -654,22 +632,6 @@ Torneo Proyección
 Primera Nacional
 Fecha 3
  Zona “A”
-Sábado 28 de febrero
-Los Andes - Def. de Belgrano, a las 17.00 horas
- Árbitro: Wenceslao Meneses
- Asistente 1: Lucas Ripoli
- Asistente 2: Mariano Ascenzi
- Cuarto árbitro: Iván Mastroieni
-San Miguel - Chaco For Ever, a las 17.00 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Federico Pomi
- Asistente 2: Nicolás Gruccio
- Cuarto árbitro: Nicolás Kresta
-Colón - Ferro Carril Oeste, a las 20.30 horas
- Árbitro: Bruno Amiconi
- Asistente 1: José Castelli
- Asistente 2: Erik Grunmann
- Cuarto árbitro: Leandro Billanueva
 Domingo 1 de marzo
 All Boys - Ciudad Bolivar, a las 17.00 horas
  Árbitro: Lucas Comesaña
@@ -702,18 +664,6 @@ Estudiantes - Alte. Brown, a las 20.30 horas
  Asistente 2: Nahuel Rasullo
  Cuarto árbitro: Agustín Panizza
 Zona “B”
-Viernes 27 de febrero
-G. y Tiro (Salta) - Almagro, a las 22.00 horas
- Árbitro: Juan Pafundi
- Asistente 1: Agustín Méndez
- Asistente 2: Matías González
- Cuarto árbitro: Francisco Acosta
-Sábado 28 de febrero
-Agropecuario Arg. - Nva. Chicago, a las 20.30 horas
- Árbitro: Nahuel Viñas
- Asistente 1: Sebastián Osudar
- Asistente 2: Cristian Herrera
- Cuarto árbitro: Facundo Rojo
 Domingo 1 de marzo
 G. y Esgrima (J.) - Quilmes A.C, a las 17.00 horas
  Árbitro: Maximiliano Manduca
@@ -1459,28 +1409,6 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B 2026
-Fecha 3
-Sábado 28 de febrero
-Dep. Armenio - Dep. Laferrere, a las 17.00 horas
- Árbitro: Ariel Núñez Rodríguez
- Asistente 1: Ramiro Ortiz
- Asistente 2: Jonathan Florentín
- Cuarto árbitro: Eduardo Coyto
-Flandria - Talleres (R.E.), a las 17.00 horas
- Árbitro: Ariel Cruz
- Asistente 1: Santiago Scalerandi
- Asistente 2: Mara Díaz
- Cuarto árbitro: Fabrizio de la Cruz
-Comunicaciones - Excursionistas, a las 17.00 horas
- Árbitro: Mariano Negrete
- Asistente 1: Ángel Rebuscini
- Asistente 2: Pablo Pastor
- Cuarto árbitro: Facundo Fuentes
-Camioneros - Real Pilar F.C, a las 17.00 horas
- Árbitro: Martín Depósito
- Asistente 1: Matías Basso
- Asistente 2: Martín Cingolani
- Cuarto árbitro: Manuel Prieto
 Fecha 4
 Martes 3 de marzo
 Villa San Carlos - Sp. Italiano, a las 17.00 horas
@@ -2005,27 +1933,6 @@ POSTERGADO
  Cuarto árbitro: Valentín Persico
 Fecha 2
 Zona “A”
-Sábado 28 de febrero
-J.J. de Urquiza - Lugano, a las 17.00 horas
- Árbitro: Matías Ansede
- Asistente 1: Cristian Rodríguez
- Asistente 2: F. Quelca Guarachi
- Cuarto árbitro: Mauro Trinidad
-Dep. Paraguayo - Victoriano Arenas, a las 17.00 horas 
- Árbitro: Valentín Bocaccia
- Asistente 1: Ariel Ibáñez
- Asistente 2: Tomás Pérez
- Cuarto árbitro: Simón Laborda
-Puerto Nuevo -Berazategui, a las 17.00 horas
- Árbitro: Gonzalo Correa
- Asistente 1: Matías Vargas
- Asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Leandro Díaz
-Def. de Cambaceres -Argentino (Ros.), a las 17.00 horas
- Árbitro: Iván Castelu
- Asistente 1: Mauro Soria
- Asistente 2: Alexis Escobar
- Cuarto árbitro: Ariadna Palacios
 Domingo 1 de marzo
 L.N. Alem - Estrella del Sur, a las 17.00 horas
  Árbitro: Leandro Fedele
@@ -2043,17 +1950,6 @@ Mercedes – Rec. Español, a las 17.30 horas
  Asistente 2: Roberto Rodríguez
  Cuarto árbitro: Nicolás Díaz
 Zona “B”
-Sábado 28 de febrero
-Yupanqui - Sp. Barracas, a las 17.00 horas
- Árbitro: David Cornejo
- Asistente 1: Diego Ortiz
- Asistente 2: Tomás Otero
- Cuarto árbitro: Camila Guette
-Fénix- Luján, a las 17.00 horas en Dep. Merlo
- Árbitro: Micaela Abelardo
- Asistente 1: Diego Fernández
- Asistente 2: Valentino Gaillard
- Cuarto árbitro: Juan Ferreyra
 Domingo 1 de marzo
 El Porvenir - Gral. Lamadrid, a las 17.00 horas
  Árbitro: Iñaki Iparraguirre
