@@ -6,29 +6,6 @@ A confirmar
 Fecha 7
 A confirmar
  Aldosivi – Argentinos (Zona B)
-Fecha 8
-Martes 3 de marzo
-Sarmiento - Estudiantes (Rio IV), a las 19.00 horas
- Árbitro: Juan Pablo Loustau
- Asistente 1: Lucas Germanotta
- Asistente 2: Mariana Duré
- Cuarto árbitro: Enzo Silvestre
- VAR: Hernán Mastrángelo
- AVAR: Javier Uziga
-Huracán - Belgrano (Cba.), a las 19.15 horas
- Árbitro: Ariel Penel
- Asistente 1: Hugo Paez
- Asistente 2: Gisella Trucco
- Cuarto árbitro: Kevin Alegre
- VAR: Laura Fortunato
- AVAR: Diego Verlota
-Atl. Tucumán - Racing Club, a las 21.15 horas
- Árbitro: Fernando Echenique
- Asistente 1: Iván Núñez
- Asistente 2: Maximiliano Castelli
- Cuarto árbitro: Ezequiel Billone
- VAR: Sebastián Habib
- AVAR: Diego Romero
 Fecha 9
 Jueves 5 de marzo
  18.30 Gimnasia (Mza.) – Defensa y Justicia
@@ -471,12 +448,6 @@ Banfield – Atlético Tucumán
  Aldosivi – River
 Torneo Proyección
  Fecha 4
- Martes 3 de marzo
- 17:00 – Barracas Central vs. San Lorenzo (Zona A) – AEFIP
- 17:00 – Aldosivi vs. Instituto (Zona A) – Predio de Aldosivi
- 17:00 – Gimnasia (Mza) vs. Vélez Sarsfield (Zona A) – Víctor Legrotaglie
- 17:00 – Ferro vs. Indepte. Rivadavia (Zona B) – Pontevedra
- 17:00 – Platense vs. Quilmes (Zona B) – Ciudad de Vicente López
  Miércoles 4 de marzo
  17:00 – Huracán vs. Dep. Riestra (Zona B) – La Quemita
  17:00 – Godoy Cruz vs. River (Zona A) – Coquimbito
@@ -1263,32 +1234,6 @@ ZONA B
  ATLANTA - F.C. MIDLAND
 Primera B 2026
 Fecha 4
-Martes 3 de marzo
-Villa San Carlos - Sp. Italiano, a las 17.00 horas
- Árbitro: Nicolás Mastroieni
- Asistente 1: Damián Oliveto
- Asistente 2: Néstor Olivera
- Cuarto árbitro: Facundo Carretero
-Dep. Laferrere - Brown (Adrogué), a las 17.00 horas
- Árbitro: Sebastián Bresba
- Asistente 1: Lucas Cueto Viñas
- Asistente 2: Ariel Medina
- Cuarto árbitro: Agustín Panizza
- Talleres (R.E.) - Dep. Armenio, a las 20.30 horas
- Árbitro: Gastón Iglesias
- Asistente 1: Hernán Antola
- Asistente 2: Leandro Carril
- Cuarto árbitro: Guido Mascheroni
-Arg. de Merlo - Flandria, a las 20.30 horas
- Árbitro: Ignacio Cuicchi
- Asistente 1: Cristian Amarilla
- Asistente 2: Daniela Sanda
- Cuarto árbitro: Ulises López
-San Martin (B.) - Ituzaingó, a las 20.30 horas
- Árbitro: Valentín Bocaccia
- Asistente 1: Arnaldo Melgarejo
- Asistente 2: Julieta Fernández
- Cuarto árbitro: Tomás Aybar
 Miércoles 4 de marzo
 Liniers - Camioneros, a las 17.00 horas
  Árbitro: Marcos Recalde
@@ -1784,16 +1729,7 @@ POSTERGADO
  Asistente 1: Matías Panozzo
  Asistente 2: Rodolfo Rodríguez
  Cuarto árbitro: Valentín Persico
-Fecha 2
-Zona “B”
-Martes 3 de marzo
-Ctral. Córdoba (Ros.) - Cañuelas F.C, a las 20.00 horas
- Árbitro: Agustín Flores 
- Asistente 1: Juan Etchepare
- Asistente 2: Patricio Acuña
- Cuarto árbitro: Damián Parodi
-Fecha 3 - 07/03/2026
-Fecha 4 - 14/03/2026
+Fecha 4 14/3/2026
  ARGENTINO (R.) - YUPANQUI
  EL PORVENIR - MERCEDES
  V. ARENAS - DEP. ESPAÑOL
