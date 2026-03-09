@@ -2418,15 +2418,17 @@ ZONA 1:
  KIMBERLEY
 Torneo Regional Amateur
 Fútbol Femenino de Primera División A 
-Jornada 1
-Banfield vs Independiente 
-Gimnasia LP vs Unión Santa Fe 
-Newell’s vs San Luis 
-Racing Club vs Lanús 
-River Plate vs Huracán 
-San Lorenzo vs Boca Jrs. 
-Social Atlético Televisión vs Belgrano 
-Talleres vs Ferro Carril Oeste 
+Viernes 13 de marzo
+ 15:30 San Lorenzo - Boca (Cancha Auxiliar 1)
+ 19:10 Talleres - Ferro (Estadio Boutique)
+Sábado 14 de marzo
+ 15:30 Banfield - Independiente (Estadio)
+ Domingo 15 de marzo
+ 11:00 SAT - Belgrano (Estadio 12 de Agosto)
+ 11:00 River - Huracán (River Camp)
+ 11:00 Gimnasia - Unión (Predio Estancia Chica)
+ 11:00 Racing - Lanús (Complejo Tita)
+ 15:30 NOB - San Luis (Predio Bella Vista)
 Jornada 2 
 Boca Jrs. vs Racing Club 
 Ferro Carril Oeste vs San Lorenzo 
