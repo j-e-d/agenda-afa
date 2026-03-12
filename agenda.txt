@@ -1985,571 +1985,556 @@ Muñiz - Yupanqui
  Asistente 1: Federico Machuca
  Asistente 2: Nicolás Ruiz Segovia
  Cuarto árbitro: Valentín Ibañez Meza
-Fecha 4 14/3/2026
- ARGENTINO (R.) - YUPANQUI
- EL PORVENIR - MERCEDES
- V. ARENAS - DEP. ESPAÑOL
- CTRAL. BALLESTER - DEP. PARAGUAYO
- CTRO. REC. ESPAÑOL - LEONES F.C.
- GRAL. LAMADRID - DEF. DE CAMBACERES
- SACACHISPAS F.C. - ATLAS
- CTRAL. CÓRDOBA (R.) - BERAZATEGUI
- J. UNIDA - CLAYPOLE
- SP. BARRACAS - LUGANO
- PUERTO NUEVO - FÉNIX
- MUÑIZ - J.J. DE URQUIZA
- L.N. ALEM - CAÑUELAS F.C.
- LUJÁN - ESTRELLA DEL SUR
-Fecha 5 - 21/03/2026
- CTRO. REC. ESPAÑOL - LUGANO
- J.J. DE URQUIZA - V. ARENAS
- MERCEDES - BERAZATEGUI
- DEP. PARAGUAYO - ESTRELLA DEL SUR
- PUERTO NUEVO - ARGENTINO (R.)
- L.N. ALEM - SACACHISPAS F.C.
- DEF. DE CAMBACERES - J. UNIDA
-Fecha 6 - 28/03/2026
- LUGANO - DEF. DE CAMBACERES
- J. UNIDA - L.N. ALEM
- SACACHISPAS F.C. - PUERTO NUEVO
- ARGENTINO (R.) - DEP. PARAGUAYO
- ESTRELLA DEL SUR - MERCEDES
- BERAZATEGUI - J.J. DE URQUIZA
- V. ARENAS - CTRO. REC. ESPAÑOL
- Fecha 7 - 04/04/2026
- V. ARENAS - LUGANO
- CTRO. REC. ESPAÑOL - BERAZATEGUI
- J.J. DE URQUIZA - ESTRELLA DEL SUR
- MERCEDES - ARGENTINO (R.)
- DEP. PARAGUAYO - SACACHISPAS F.C.
- PUERTO NUEVO - J. UNIDA
- L.N. ALEM - DEF. DE CAMBACERES
-Fecha 8 - 11/04/2026
- GRAL. LAMADRID - V. ARENAS
- CTRAL. CÓRDOBA (R.) - CTRO. REC. ESPAÑOL
- MERCEDES - CLAYPOLE
- YUPANQUI - PUERTO NUEVO
- J. UNIDA - MUÑIZ
- SP. BARRACAS - DEP. PARAGUAYO
- EL PORVENIR - J.J. DE URQUIZA
- ARGENTINO (R.) - ATLAS
- SACACHISPAS F.C. - DEP. ESPAÑOL
- LUJÁN - LUGANO
- DEF. DE CAMBACERES - LEONES F.C.
- L.N. ALEM - CTRAL. BALLESTER
- ESTRELLA DEL SUR - CAÑUELAS F.C.
- FÉNIX - BERAZATEGUI
-Fecha 9 - 18/04/2026
- LUGANO - L.N. ALEM
- DEF. DE CAMBACERES - PUERTO NUEVO
- J. UNIDA - DEP. PARAGUAYO
- SACACHISPAS F.C. - MERCEDES
- ARGENTINO (R.) - J.J. DE URQUIZA
- ESTRELLA DEL SUR - CTRO. REC. ESPAÑOL
- BERAZATEGUI - V. ARENAS
-Fecha 10 - 25/04/2026
- BERAZATEGUI - LUGANO
- V. ARENAS - ESTRELLA DEL SUR
- CTRO. REC. ESPAÑOL - ARGENTINO (R.)
- J.J. DE URQUIZA - SACACHISPAS F.C.
- MERCEDES - J. UNIDA
- DEP. PARAGUAYO - DEF. DE CAMBACERES
- PUERTO NUEVO - L.N. ALEM
-Fecha 11 - 02/05/2026
- LUGANO - PUERTO NUEVO
- L.N. ALEM - DEP. PARAGUAYO
- DEF. DE CAMBACERES - MERCEDES
- J. UNIDA - J.J. DE URQUIZA
- SACACHISPAS F.C. - CTRO. REC. ESPAÑOL
- ARGENTINO (R.) - V. ARENAS
- ESTRELLA DEL SUR - BERAZATEGUI
- Fecha 12 - 09/05/2026
- ARGENTINO (R.) - CTRAL. CÓRDOBA (R.)
- ATLAS - BERAZATEGUI
- V. ARENAS - CAÑUELAS F.C.
- SP. BARRACAS - DEF. DE CAMBACERES
- LEONES F.C. - LUGANO
- PUERTO NUEVO - CTRAL. BALLESTER
- EL PORVENIR - J. UNIDA
- L.N. ALEM - MUÑIZ
- GRAL. LAMADRID - J.J. DE URQUIZA
- CTRO. REC. ESPAÑOL - FÉNIX
- YUPANQUI - ESTRELLA DEL SUR
- DEP. PARAGUAYO - LUJÁN
- DEP. ESPAÑOL - MERCEDES
- SACACHISPAS F.C. - CLAYPOLE
-Fecha 13 - 16/05/2026
- ESTRELLA DEL SUR - LUGANO
- BERAZATEGUI - ARGENTINO (R.)
- V. ARENAS - SACACHISPAS F.C.
- CTRO. REC. ESPAÑOL - J. UNIDA
- J.J. DE URQUIZA - DEF. DE CAMBACERES
- MERCEDES - L.N. ALEM
- DEP. PARAGUAYO - PUERTO NUEVO
-Fecha 14 - 23/05/2026
- LUGANO - DEP. PARAGUAYO
- PUERTO NUEVO - MERCEDES
- L.N. ALEM - J.J. DE URQUIZA
- DEF. DE CAMBACERES - CTRO. REC. ESPAÑOL
- J. UNIDA - V. ARENAS
- SACACHISPAS F.C. - BERAZATEGUI
- ARGENTINO (R.) - ESTRELLA DEL SUR
-Fecha 15 - 30/05/2026
- ARGENTINO (R.) - LUGANO
- ESTRELLA DEL SUR - SACACHISPAS F.C.
- BERAZATEGUI - J. UNIDA
- V. ARENAS - DEF. DE CAMBACERES
- CTRO. REC. ESPAÑOL - L.N. ALEM
- J.J. DE URQUIZA - PUERTO NUEVO
- MERCEDES - DEP. PARAGUAYO
-Fecha 16 - 06/06/2026
- LUGANO - MERCEDES
- DEP. PARAGUAYO - J.J. DE URQUIZA
- PUERTO NUEVO - CTRO. REC. ESPAÑOL
- L.N. ALEM - V. ARENAS
- DEF. DE CAMBACERES - BERAZATEGUI
- J. UNIDA - ESTRELLA DEL SUR
- SACACHISPAS F.C. - ARGENTINO (R.)
-Fecha 17 - 27/06/2026
- SACACHISPAS F.C. - LUGANO
- J. UNIDA - ARGENTINO (R.)
- DEF. DE CAMBACERES - ESTRELLA DEL SUR
- L.N. ALEM - BERAZATEGUI
- PUERTO NUEVO - V. ARENAS
- DEP. PARAGUAYO - CTRO. REC. ESPAÑOL
- MERCEDES - J.J. DE URQUIZA
-Fecha 18 - 04/07/2026
- LUGANO - J.J. DE URQUIZA
- CTRO. REC. ESPAÑOL - MERCEDES
- V. ARENAS - DEP. PARAGUAYO
- BERAZATEGUI - PUERTO NUEVO
- ESTRELLA DEL SUR - L.N. ALEM
- ARGENTINO (R.) - DEF. DE CAMBACERES
- SACACHISPAS F.C. - J. UNIDA
-Fecha 19 - 11/07/2026
- J. UNIDA - LUGANO
- DEF. DE CAMBACERES - SACACHISPAS F.C.
- L.N. ALEM - ARGENTINO (R.)
- PUERTO NUEVO - ESTRELLA DEL SUR
- DEP. PARAGUAYO - BERAZATEGUI
- MERCEDES - V. ARENAS
- J.J. DE URQUIZA - CTRO. REC. ESPAÑOL
-Fecha 20 - 18/07/2026
- YUPANQUI - ARGENTINO (R.)
- MERCEDES - EL PORVENIR
- DEP. ESPAÑOL - V. ARENAS
- DEP. PARAGUAYO - CTRAL. BALLESTER
- LEONES F.C. - CTRO. REC. ESPAÑOL
- DEF. DE CAMBACERES - GRAL. LAMADRID
- ATLAS - SACACHISPAS F.C.
- BERAZATEGUI - CTRAL. CÓRDOBA (R.)
- CLAYPOLE - J. UNIDA
- LUGANO - SP. BARRACAS
- FÉNIX - PUERTO NUEVO
- J.J. DE URQUIZA - MUÑIZ
- CAÑUELAS F.C. - L.N. ALEM
- ESTRELLA DEL SUR - LUJÁN
-Fecha 21 - 25/07/2026
- LUGANO - CTRO. REC. ESPAÑOL
- V. ARENAS - J.J. DE URQUIZA
- BERAZATEGUI - MERCEDES
- ESTRELLA DEL SUR - DEP. PARAGUAYO
- ARGENTINO (R.) - PUERTO NUEVO
- SACACHISPAS F.C. - L.N. ALEM
- J. UNIDA - DEF. DE CAMBACERES
-Fecha 22 - 01/08/2026
- DEF. DE CAMBACERES - LUGANO
- L.N. ALEM - J. UNIDA
- PUERTO NUEVO - SACACHISPAS F.C.
- DEP. PARAGUAYO - ARGENTINO (R.)
- MERCEDES - ESTRELLA DEL SUR
- J.J. DE URQUIZA - BERAZATEGUI
- CTRO. REC. ESPAÑOL - V. ARENAS
-Fecha 23 - 08/08/2026
- LUGANO - V. ARENAS
- BERAZATEGUI - CTRO. REC. ESPAÑOL
- ESTRELLA DEL SUR - J.J. DE URQUIZA
- ARGENTINO (R.) - MERCEDES
- SACACHISPAS F.C. - DEP. PARAGUAYO
- J. UNIDA - PUERTO NUEVO
- DEF. DE CAMBACERES - L.N. ALEM
-Fecha 24 - 15/08/2026
- V. ARENAS - GRAL. LAMADRID
- CTRO. REC. ESPAÑOL - CTRAL. CÓRDOBA (R.)
- CLAYPOLE - MERCEDES
- PUERTO NUEVO - YUPANQUI
- MUÑIZ - J. UNIDA
- DEP. PARAGUAYO - SP. BARRACAS
- J.J. DE URQUIZA - EL PORVENIR
- ATLAS - ARGENTINO (R.)
- DEP. ESPAÑOL - SACACHISPAS F.C.
- LUGANO - LUJÁN
- LEONES F.C. - DEF. DE CAMBACERES
- CTRAL. BALLESTER - L.N. ALEM
- CAÑUELAS F.C. - ESTRELLA DEL SUR
- BERAZATEGUI - FÉNIX
-Fecha 25 - 22/08/2026
- L.N. ALEM - LUGANO
- PUERTO NUEVO - DEF. DE CAMBACERES
- DEP. PARAGUAYO - J. UNIDA
- MERCEDES - SACACHISPAS F.C.
- J.J. DE URQUIZA - ARGENTINO (R.)
- CTRO. REC. ESPAÑOL - ESTRELLA DEL SUR
- V. ARENAS - BERAZATEGUI
-Fecha 26 - 29/08/2026
- LUGANO - BERAZATEGUI
- ESTRELLA DEL SUR - V. ARENAS
- ARGENTINO (R.) - CTRO. REC. ESPAÑOL
- SACACHISPAS F.C. - J.J. DE URQUIZA
- J. UNIDA - MERCEDES
- DEF. DE CAMBACERES - DEP. PARAGUAYO
- L.N. ALEM - PUERTO NUEVO
-Fecha 27 - 05/09/2026
- PUERTO NUEVO - LUGANO
- DEP. PARAGUAYO - L.N. ALEM
- MERCEDES - DEF. DE CAMBACERES
- J.J. DE URQUIZA - J. UNIDA
- CTRO. REC. ESPAÑOL - SACACHISPAS F.C.
- V. ARENAS - ARGENTINO (R.)
- BERAZATEGUI - ESTRELLA DEL SUR
-Fecha 28 - 12/09/2026
- CTRAL. CÓRDOBA (R.) - ARGENTINO (R.)
- BERAZATEGUI - ATLAS
- CAÑUELAS F.C. - V. ARENAS
- DEF. DE CAMBACERES - SP. BARRACAS
- LUGANO - LEONES F.C.
- CTRAL. BALLESTER - PUERTO NUEVO
- J. UNIDA - EL PORVENIR
- MUÑIZ - L.N. ALEM
- J.J. DE URQUIZA - GRAL. LAMADRID
- FÉNIX - CTRO. REC. ESPAÑOL
- ESTRELLA DEL SUR - YUPANQUI
- LUJÁN - DEP. PARAGUAYO
- MERCEDES - DEP. ESPAÑOL
- CLAYPOLE - SACACHISPAS F.C.
-Fecha 29 - 19/09/2026
- LUGANO - ESTRELLA DEL SUR
- ARGENTINO (R.) - BERAZATEGUI
- SACACHISPAS F.C. - V. ARENAS
- J. UNIDA - CTRO. REC. ESPAÑOL
- DEF. DE CAMBACERES - J.J. DE URQUIZA
- L.N. ALEM - MERCEDES
- PUERTO NUEVO - DEP. PARAGUAYO
-Fecha 30 - 26/09/2026
- DEP. PARAGUAYO - LUGANO
- MERCEDES - PUERTO NUEVO
- J.J. DE URQUIZA - L.N. ALEM
- CTRO. REC. ESPAÑOL - DEF. DE CAMBACERES
- V. ARENAS - J. UNIDA
- BERAZATEGUI - SACACHISPAS F.C.
- ESTRELLA DEL SUR - ARGENTINO (R.)
-Fecha 31 - 03/10/2026
- LUGANO - ARGENTINO (R.)
- SACACHISPAS F.C. - ESTRELLA DEL SUR
- J. UNIDA - BERAZATEGUI
- DEF. DE CAMBACERES - V. ARENAS
- L.N. ALEM - CTRO. REC. ESPAÑOL
- PUERTO NUEVO - J.J. DE URQUIZA
- DEP. PARAGUAYO - MERCEDES
-Fecha 32 - 10/10/2026
- MERCEDES - LUGANO
- J.J. DE URQUIZA - DEP. PARAGUAYO
- CTRO. REC. ESPAÑOL - PUERTO NUEVO
- V. ARENAS - L.N. ALEM
- BERAZATEGUI - DEF. DE CAMBACERES
- ESTRELLA DEL SUR - J. UNIDA
- ARGENTINO (R.) - SACACHISPAS F.C.
-ZONA B
-Fecha 2 - 28/02/2026
- YUPANQUI - SP. BARRACAS
- FÉNIX - LUJÁN
- EL PORVENIR - GRAL. LAMADRID
- CTRAL. BALLESTER - LEONES F.C.
- CLAYPOLE - ATLAS
- CTRAL. CÓRDOBA (R.) - CAÑUELAS F.C.
- DEP. ESPAÑOL - MUÑIZ
-Fecha 3 - 07/03/2026
- MUÑIZ - YUPANQUI
- CAÑUELAS F.C. - DEP. ESPAÑOL
- ATLAS - CTRAL. CÓRDOBA (R.)
- LEONES F.C. - CLAYPOLE
- GRAL. LAMADRID - CTRAL. BALLESTER
- LUJÁN - EL PORVENIR
- SP. BARRACAS - FÉNIX
-Fecha 4 - 14/03/2026
- ARGENTINO (R.) - YUPANQUI
- EL PORVENIR - MERCEDES
- V. ARENAS - DEP. ESPAÑOL
- CTRAL. BALLESTER - DEP. PARAGUAYO
- CTRO. REC. ESPAÑOL - LEONES F.C.
- GRAL. LAMADRID - DEF. DE CAMBACERES
- SACACHISPAS F.C. - ATLAS
- CTRAL. CÓRDOBA (R.) - BERAZATEGUI
- J. UNIDA - CLAYPOLE
- SP. BARRACAS - LUGANO
- PUERTO NUEVO - FÉNIX
- MUÑIZ - J.J. DE URQUIZA
- L.N. ALEM - CAÑUELAS F.C.
- LUJÁN - ESTRELLA DEL SUR
-Fecha 5 - 21/03/2026
- YUPANQUI - FÉNIX
- EL PORVENIR - SP. BARRACAS
- CTRAL. BALLESTER - LUJÁN
- CLAYPOLE - GRAL. LAMADRID
- CTRAL. CÓRDOBA (R.) - LEONES F.C.
- DEP. ESPAÑOL - ATLAS
- MUÑIZ - CAÑUELAS F.C.
-Fecha 6 - 28/03/2026
- CAÑUELAS F.C. - YUPANQUI
- ATLAS - MUÑIZ
- LEONES F.C. - DEP. ESPAÑOL
- GRAL. LAMADRID - CTRAL. CÓRDOBA (R.)
- LUJÁN - CLAYPOLE
- SP. BARRACAS - CTRAL. BALLESTER
- FÉNIX - EL PORVENIR
-Fecha 7 - 04/04/2026
- YUPANQUI - EL PORVENIR
- CTRAL. BALLESTER - FÉNIX
- CLAYPOLE - SP. BARRACAS
- CTRAL. CÓRDOBA (R.) - LUJÁN
- DEP. ESPAÑOL - GRAL. LAMADRID
- MUÑIZ - LEONES F.C.
- CAÑUELAS F.C. - ATLAS
-Fecha 8 - 11/04/2026
- GRAL. LAMADRID - V. ARENAS
- CTRAL. CÓRDOBA (R.) - CTRO. REC. ESPAÑOL
- MERCEDES - CLAYPOLE
- YUPANQUI - PUERTO NUEVO
- J. UNIDA - MUÑIZ
- SP. BARRACAS - DEP. PARAGUAYO
- EL PORVENIR - J.J. DE URQUIZA
- ARGENTINO (R.) - ATLAS
- SACACHISPAS F.C. - DEP. ESPAÑOL
- LUJÁN - LUGANO
- DEF. DE CAMBACERES - LEONES F.C.
- L.N. ALEM - CTRAL. BALLESTER
- ESTRELLA DEL SUR - CAÑUELAS F.C.
- FÉNIX - BERAZATEGUI
-Fecha 9 - 18/04/2026
- ATLAS - YUPANQUI
- LEONES F.C. - CAÑUELAS F.C.
- GRAL. LAMADRID - MUÑIZ
- LUJÁN - DEP. ESPAÑOL
- SP. BARRACAS - CTRAL. CÓRDOBA (R.)
- FÉNIX - CLAYPOLE
- CTRAL. BALLESTER - EL PORVENIR
-Fecha 10 - 25/04/2026
- YUPANQUI - CTRAL. BALLESTER
- CLAYPOLE - EL PORVENIR
- CTRAL. CÓRDOBA (R.) - FÉNIX
- DEP. ESPAÑOL - SP. BARRACAS
- MUÑIZ - LUJÁN
- CAÑUELAS F.C. - GRAL. LAMADRID
- ATLAS - LEONES F.C.
-Fecha 11 - 02/05/2026
- LEONES F.C. - YUPANQUI
- GRAL. LAMADRID - ATLAS
- LUJÁN - CAÑUELAS F.C.
- SP. BARRACAS - MUÑIZ
- FÉNIX - DEP. ESPAÑOL
- EL PORVENIR - CTRAL. CÓRDOBA (R.)
- CTRAL. BALLESTER - CLAYPOLE
-Fecha 12 - 09/05/2026
- ARGENTINO (R.) - CTRAL. CÓRDOBA (R.)
- ATLAS - BERAZATEGUI
- V. ARENAS - CAÑUELAS F.C.
- SP. BARRACAS - DEF. DE CAMBACERES
- LEONES F.C. - LUGANO
- PUERTO NUEVO - CTRAL. BALLESTER
- EL PORVENIR - J. UNIDA
- L.N. ALEM - MUÑIZ
- GRAL. LAMADRID - J.J. DE URQUIZA
- CTRO. REC. ESPAÑOL - FÉNIX
- YUPANQUI - ESTRELLA DEL SUR
- DEP. PARAGUAYO - LUJÁN
- DEP. ESPAÑOL - MERCEDES
- SACACHISPAS F.C. - CLAYPOLE
-Fecha 13 - 16/05/2026
- YUPANQUI - CLAYPOLE
- CTRAL. CÓRDOBA (R.) - CTRAL. BALLESTER
- DEP. ESPAÑOL - EL PORVENIR
- MUÑIZ - FÉNIX
- CAÑUELAS F.C. - SP. BARRACAS
- ATLAS - LUJÁN
- LEONES F.C. - GRAL. LAMADRID
-Fecha 14 - 23/05/2026
- GRAL. LAMADRID - YUPANQUI
- LUJÁN - LEONES F.C.
- SP. BARRACAS - ATLAS
- FÉNIX - CAÑUELAS F.C.
- EL PORVENIR - MUÑIZ
- CTRAL. BALLESTER - DEP. ESPAÑOL
- CLAYPOLE - CTRAL. CÓRDOBA (R.)
-Fecha 15 - 30/05/2026
- YUPANQUI - CTRAL. CÓRDOBA (R.)
- DEP. ESPAÑOL - CLAYPOLE
- MUÑIZ - CTRAL. BALLESTER
- CAÑUELAS F.C. - EL PORVENIR
- ATLAS - FÉNIX
- LEONES F.C. - SP. BARRACAS
- GRAL. LAMADRID - LUJÁN
-Fecha 16 - 06/06/2026
- LUJÁN - YUPANQUI
- SP. BARRACAS - GRAL. LAMADRID
- FÉNIX - LEONES F.C.
- EL PORVENIR - ATLAS
- CTRAL. BALLESTER - CAÑUELAS F.C.
- CLAYPOLE - MUÑIZ
- CTRAL. CÓRDOBA (R.) - DEP. ESPAÑOL
-Fecha 17 - 27/06/2026
- YUPANQUI - DEP. ESPAÑOL
- CTRAL. CÓRDOBA (R.) - MUÑIZ
- CLAYPOLE - CAÑUELAS F.C.
- CTRAL. BALLESTER - ATLAS
- EL PORVENIR - LEONES F.C.
- FÉNIX - GRAL. LAMADRID
- SP. BARRACAS - LUJÁN
-Fecha 18 - 04/07/2026
- SP. BARRACAS - YUPANQUI
- LUJÁN - FÉNIX
- GRAL. LAMADRID - EL PORVENIR
- LEONES F.C. - CTRAL. BALLESTER
- ATLAS - CLAYPOLE
- CAÑUELAS F.C. - CTRAL. CÓRDOBA (R.)
- MUÑIZ - DEP. ESPAÑOL
-Fecha 19 - 11/07/2026
- YUPANQUI - MUÑIZ
- DEP. ESPAÑOL - CAÑUELAS F.C.
- CTRAL. CÓRDOBA (R.) - ATLAS
- CLAYPOLE - LEONES F.C.
- CTRAL. BALLESTER - GRAL. LAMADRID
- EL PORVENIR - LUJÁN
- FÉNIX - SP. BARRACAS
-Fecha 20 - 18/07/2026
- YUPANQUI - ARGENTINO (R.)
- MERCEDES - EL PORVENIR
- DEP. ESPAÑOL - V. ARENAS
- DEP. PARAGUAYO - CTRAL. BALLESTER
- LEONES F.C. - CTRO. REC. ESPAÑOL
- DEF. DE CAMBACERES - GRAL. LAMADRID
- ATLAS - SACACHISPAS F.C.
- BERAZATEGUI - CTRAL. CÓRDOBA (R.)
- CLAYPOLE - J. UNIDA
- LUGANO - SP. BARRACAS
- FÉNIX - PUERTO NUEVO
- J.J. DE URQUIZA - MUÑIZ
- CAÑUELAS F.C. - L.N. ALEM
- ESTRELLA DEL SUR - LUJÁN
-Fecha 21 - 25/07/2026
- FÉNIX - YUPANQUI
- SP. BARRACAS - EL PORVENIR
- LUJÁN - CTRAL. BALLESTER
- GRAL. LAMADRID - CLAYPOLE
- LEONES F.C. - CTRAL. CÓRDOBA (R.)
- ATLAS - DEP. ESPAÑOL
- CAÑUELAS F.C. - MUÑIZ
-Fecha 22 - 01/08/2026
- YUPANQUI - CAÑUELAS F.C.
- MUÑIZ - ATLAS
- DEP. ESPAÑOL - LEONES F.C.
- CTRAL. CÓRDOBA (R.) - GRAL. LAMADRID
- CLAYPOLE - LUJÁN
- CTRAL. BALLESTER - SP. BARRACAS
- EL PORVENIR - FÉNIX
-Fecha 23 - 08/08/2026
- EL PORVENIR - YUPANQUI
- FÉNIX - CTRAL. BALLESTER
- SP. BARRACAS - CLAYPOLE
- LUJÁN - CTRAL. CÓRDOBA (R.)
- GRAL. LAMADRID - DEP. ESPAÑOL
- LEONES F.C. - MUÑIZ
- ATLAS - CAÑUELAS F.C.
-Fecha 24 - 15/08/2026
- V. ARENAS - GRAL. LAMADRID
- CTRO. REC. ESPAÑOL - CTRAL. CÓRDOBA (R.)
- CLAYPOLE - MERCEDES
- PUERTO NUEVO - YUPANQUI
- MUÑIZ - J. UNIDA
- DEP. PARAGUAYO - SP. BARRACAS
- J.J. DE URQUIZA - EL PORVENIR
- ATLAS - ARGENTINO (R.)
- DEP. ESPAÑOL - SACACHISPAS F.C.
- LUGANO - LUJÁN
- LEONES F.C. - DEF. DE CAMBACERES
- CTRAL. BALLESTER - L.N. ALEM
- CAÑUELAS F.C. - ESTRELLA DEL SUR
- BERAZATEGUI - FÉNIX
-Fecha 25 - 22/08/2026
- YUPANQUI - ATLAS
- CAÑUELAS F.C. - LEONES F.C.
- MUÑIZ - GRAL. LAMADRID
- DEP. ESPAÑOL - LUJÁN
- CTRAL. CÓRDOBA (R.) - SP. BARRACAS
- CLAYPOLE - FÉNIX
- EL PORVENIR - CTRAL. BALLESTER
-Fecha 26 - 29/08/2026
- CTRAL. BALLESTER - YUPANQUI
- EL PORVENIR - CLAYPOLE
- FÉNIX - CTRAL. CÓRDOBA (R.)
- SP. BARRACAS - DEP. ESPAÑOL
- LUJÁN - MUÑIZ
- GRAL. LAMADRID - CAÑUELAS F.C.
- LEONES F.C. - ATLAS
-Fecha 27 - 05/09/2026
- YUPANQUI - LEONES F.C.
- ATLAS - GRAL. LAMADRID
- CAÑUELAS F.C. - LUJÁN
- MUÑIZ - SP. BARRACAS
- DEP. ESPAÑOL - FÉNIX
- CTRAL. CÓRDOBA (R.) - EL PORVENIR
- CLAYPOLE - CTRAL. BALLESTER
-Fecha 28 - 12/09/2026
- CTRAL. CÓRDOBA (R.) - ARGENTINO (R.)
- BERAZATEGUI - ATLAS
- CAÑUELAS F.C. - V. ARENAS
- DEF. DE CAMBACERES - SP. BARRACAS
- LUGANO - LEONES F.C.
- CTRAL. BALLESTER - PUERTO NUEVO
- J. UNIDA - EL PORVENIR
- MUÑIZ - L.N. ALEM
- J.J. DE URQUIZA - GRAL. LAMADRID
- FÉNIX - CTRO. REC. ESPAÑOL
- ESTRELLA DEL SUR - YUPANQUI
- LUJÁN - DEP. PARAGUAYO
- MERCEDES - DEP. ESPAÑOL
- CLAYPOLE - SACACHISPAS F.C.
-Fecha 29 - 19/09/2026
- CLAYPOLE - YUPANQUI
- CTRAL. BALLESTER - CTRAL. CÓRDOBA (R.)
- EL PORVENIR - DEP. ESPAÑOL
- FÉNIX - MUÑIZ
- SP. BARRACAS - CAÑUELAS F.C.
- LUJÁN - ATLAS
- GRAL. LAMADRID - LEONES F.C.
-Fecha 30 - 26/09/2026
- YUPANQUI - GRAL. LAMADRID
- LEONES F.C. - LUJÁN
- ATLAS - SP. BARRACAS
- CAÑUELAS F.C. - FÉNIX
- MUÑIZ - EL PORVENIR
- DEP. ESPAÑOL - CTRAL. BALLESTER
- CTRAL. CÓRDOBA (R.) - CLAYPOLE
-Fecha 31 - 03/10/2026
- CTRAL. CÓRDOBA (R.) - YUPANQUI
- CLAYPOLE - DEP. ESPAÑOL
- CTRAL. BALLESTER - MUÑIZ
- EL PORVENIR - CAÑUELAS F.C.
- FÉNIX - ATLAS
- SP. BARRACAS - LEONES F.C.
- LUJÁN - GRAL. LAMADRID
-Fecha 32 - 10/10/2026
- YUPANQUI - LUJÁN
- GRAL. LAMADRID - SP. BARRACAS
- LEONES F.C. - FÉNIX
- ATLAS - EL PORVENIR
- CAÑUELAS F.C. - CTRAL. BALLESTER
- MUÑIZ - CLAYPOLE
- DEP. ESPAÑOL - CTRAL. CÓRDOBA (R.)
+Zona A
+Fecha 4 - 21/03/2026 
+Argentino (R.) C. Yupanqui
+El Porvenir C. Mercedes
+V. Arenas C. Dep. Español
+Ctral. Ballester C. Dep. Paraguayo
+Leones F.C. C. Ctro. Rec. Español
+Gral. Lamadrid C. Def. De Cambaceres
+Sacachispas F.C. C. Atlas
+Ctral. Córdoba (R.) C. Berazategui
+J. Unida C. Claypole
+Sp. Barracas C. Lugano
+Fénix C. Puerto Nuevo
+Muñiz C. J.J. De Urquiza
+L.N. Alem C. Cañuelas F.C.
+Luján C. Estrella Del Sur
+Fecha 5 - 28/03/2026 
+Ctro. Rec. Español C. Lugano
+J.J. De Urquiza C. V. Arenas
+Mercedes C. Berazategui
+Dep. Paraguayo C. Estrella Del Sur
+Puerto Nuevo C. Argentino (R.)
+L.N. Alem C. Sacachispas F.C.
+Def. De Cambaceres C. J. Unida
+Fecha 6 - 04/04/2026 
+Lugano C. Def. De Cambaceres
+J. Unida C. L.N. Alem
+Sacachispas F.C. C. Puerto Nuevo
+Argentino (R.) C. Dep. Paraguayo
+Estrella Del Sur C. Mercedes
+Berazategui C. J.J. De Urquiza
+V. Arenas C. Ctro. Rec. Español
+Fecha 7 - 11/04/2026 
+V. Arenas C. Lugano
+Ctro. Rec. Español C. Berazategui
+J.J. De Urquiza C. Estrella Del Sur
+Mercedes C. Argentino (R.)
+Dep. Paraguayo C. Sacachispas F.C.
+Puerto Nuevo C. J. Unida
+L.N. Alem C. Def. De Cambaceres
+Fecha 8 - 18/04/2026 
+Gral. Lamadrid C. V. Arenas
+Ctral. Córdoba (R.) C. Ctro. Rec. Español
+Mercedes C. Claypole
+Yupanqui C. Puerto Nuevo
+J. Unida C. Muñiz
+Sp. Barracas C. Dep. Paraguayo
+El Porvenir C. J.J. De Urquiza
+Argentino (R.) C. Atlas
+Sacachispas F.C. C. Dep. Español
+Luján C. Lugano
+Def. De Cambaceres C. Leones F.C.
+L.N. Alem C. Ctral. Ballester
+Estrella Del Sur C. Cañuelas F.C.
+Fénix C. Berazategui
+Fecha 9 - 25/04/2026 
+Lugano C. L.N. Alem
+Def. De Cambaceres C. Puerto Nuevo
+J. Unida C. Dep. Paraguayo
+Sacachispas F.C. C. Mercedes
+Argentino (R.) C. J.J. De Urquiza
+Estrella Del Sur C. Ctro. Rec. Español
+Berazategui C. V. Arenas
+Fecha 10 - 02/05/2026 
+Berazategui C. Lugano
+V. Arenas C. Estrella Del Sur
+Ctro. Rec. Español C. Argentino (R.)
+J.J. De Urquiza C. Sacachispas F.C.
+Mercedes C. J. Unida
+Dep. Paraguayo C. Def. De Cambaceres
+Puerto Nuevo C. L.N. Alem
+Fecha 11 - 09/05/2026 
+Lugano C. Puerto Nuevo
+L.N. Alem C. Dep. Paraguayo
+Def. De Cambaceres C. Mercedes
+J. Unida C. J.J. De Urquiza
+Sacachispas F.C. C. Ctro. Rec. Español
+Argentino (R.) C. V. Arenas
+Estrella Del Sur C. Berazategui
+Fecha 12 - 16/05/2026 
+Argentino (R.) C. Ctral. Córdoba (R.)
+Atlas C. Berazategui
+V. Arenas C. Cañuelas F.C.
+Sp. Barracas C. Def. De Cambaceres
+Leones F.C. C. Lugano
+Puerto Nuevo C. Ctral. Ballester
+El Porvenir C. J. Unida
+L.N. Alem C. Muñiz
+Gral. Lamadrid C. J.J. De Urquiza
+Ctro. Rec. Español C. Fénix
+Yupanqui C. Estrella Del Sur
+Dep. Paraguayo C. Luján
+Dep. Español C. Mercedes
+Sacachispas F.C. C. Claypole
+Fecha 13 - 23/05/2026 
+Estrella Del Sur C. Lugano
+Berazategui C. Argentino (R.)
+V. Arenas C. Sacachispas F.C.
+Ctro. Rec. Español C. J. Unida
+J.J. De Urquiza C. Def. De Cambaceres
+Mercedes C. L.N. Alem
+Dep. Paraguayo C. Puerto Nuevo
+Fecha 14 - 30/05/2026 
+Lugano C. Dep. Paraguayo
+Puerto Nuevo C. Mercedes
+L.N. Alem C. J.J. De Urquiza
+Def. De Cambaceres C. Ctro. Rec. Español
+J. Unida C. V. Arenas
+Sacachispas F.C. C. Berazategui
+Argentino (R.) C. Estrella Del Sur
+Fecha 15 - 06/06/2026 
+Argentino (R.) C. Lugano
+Estrella Del Sur C. Sacachispas F.C.
+Berazategui C. J. Unida
+V. Arenas C. Def. De Cambaceres
+Ctro. Rec. Español C. L.N. Alem
+J.J. De Urquiza C. Puerto Nuevo
+Mercedes C. Dep. Paraguayo
+Fecha 16 - 13/06/2026 
+Lugano C. Mercedes
+Dep. Paraguayo C. J.J. De Urquiza
+Puerto Nuevo C. Ctro. Rec. Español
+L.N. Alem C. V. Arenas
+Def. De Cambaceres C. Berazategui
+J. Unida C. Estrella Del Sur
+Sacachispas F.C. C. Argentino (R.)
+Fecha 17 - 27/06/2026 
+Sacachispas F.C. C. Lugano
+J. Unida C. Argentino (R.)
+Def. De Cambaceres C. Estrella Del Sur
+L.N. Alem C. Berazategui
+Puerto Nuevo C. V. Arenas
+Dep. Paraguayo C. Ctro. Rec. Español
+Mercedes C. J.J. De Urquiza
+Fecha 18 - 04/07/2026 
+Lugano C. J.J. De Urquiza
+Ctro. Rec. Español C. Mercedes
+V. Arenas C. Dep. Paraguayo
+Berazategui C. Puerto Nuevo
+Estrella Del Sur C. L.N. Alem
+Argentino (R.) C. Def. De Cambaceres
+Sacachispas F.C. C. J. Unida
+Fecha 19 - 11/07/2026 
+J. Unida C. Lugano
+Def. De Cambaceres C. Sacachispas F.C.
+L.N. Alem C. Argentino (R.)
+Puerto Nuevo C. Estrella Del Sur
+Dep. Paraguayo C. Berazategui
+Mercedes C. V. Arenas
+J.J. De Urquiza C. Ctro. Rec. Español
+Fecha 20 - 18/07/2026 
+Yupanqui C. Argentino (R.)
+Mercedes C. El Porvenir
+Dep. Español C. V. Arenas
+Dep. Paraguayo C. Ctral. Ballester
+Ctro. Rec. Español C. Leones F.C.
+Def. De Cambaceres C. Gral. Lamadrid
+Atlas C. Sacachispas F.C.
+Berazategui C. Ctral. Córdoba (R.)
+Claypole C. J. Unida
+Lugano C. Sp. Barracas
+Puerto Nuevo C. Fénix
+J.J. De Urquiza C. Muñiz
+Cañuelas F.C. C. L.N. Alem
+Estrella Del Sur C. Luján
+Fecha 21 - 25/07/2026 
+Lugano C. Ctro. Rec. Español
+V. Arenas C. J.J. De Urquiza
+Berazategui C. Mercedes
+Estrella Del Sur C. Dep. Paraguayo
+Argentino (R.) C. Puerto Nuevo
+Sacachispas F.C. C. L.N. Alem
+J. Unida C. Def. De Cambaceres
+Fecha 22 - 01/08/2026 
+Def. De Cambaceres C. Lugano
+L.N. Alem C. J. Unida
+Puerto Nuevo C. Sacachispas F.C.
+Dep. Paraguayo C. Argentino (R.)
+Mercedes C. Estrella Del Sur
+J.J. De Urquiza C. Berazategui
+Ctro. Rec. Español C. V. Arenas
+Fecha 23 - 08/08/2026 
+Lugano C. V. Arenas
+Berazategui C. Ctro. Rec. Español
+Estrella Del Sur C. J.J. De Urquiza
+Argentino (R.) C. Mercedes
+Sacachispas F.C. C. Dep. Paraguayo
+J. Unida C. Puerto Nuevo
+Def. De Cambaceres C. L.N. Alem
+Fecha 24 - 15/08/2026 
+V. Arenas C. Gral. Lamadrid
+Ctro. Rec. Español C. Ctral. Córdoba (R.)
+Claypole C. Mercedes
+Puerto Nuevo C. Yupanqui
+Muñiz C. J. Unida
+Dep. Paraguayo C. Sp. Barracas
+J.J. De Urquiza C. El Porvenir
+Atlas C. Argentino (R.)
+Dep. Español C. Sacachispas F.C.
+Lugano C. Luján
+Leones F.C. C. Def. De Cambaceres
+Ctral. Ballester C. L.N. Alem
+Cañuelas F.C. C. Estrella Del Sur
+Berazategui C. Fénix
+Fecha 25 - 22/08/2026 
+L.N. Alem C. Lugano
+Puerto Nuevo C. Def. De Cambaceres
+Dep. Paraguayo C. J. Unida
+Mercedes C. Sacachispas F.C.
+J.J. De Urquiza C. Argentino (R.)
+Ctro. Rec. Español C. Estrella Del Sur
+V. Arenas C. Berazategui
+Fecha 26 - 29/08/2026 
+Lugano C. Berazategui
+Estrella Del Sur C. V. Arenas
+Argentino (R.) C. Ctro. Rec. Español
+Sacachispas F.C. C. J.J. De Urquiza
+J. Unida C. Mercedes
+Def. De Cambaceres C. Dep. Paraguayo
+L.N. Alem C. Puerto Nuevo
+Fecha 27 - 05/09/2026 
+Puerto Nuevo C. Lugano
+Dep. Paraguayo C. L.N. Alem
+Mercedes C. Def. De Cambaceres
+J.J. De Urquiza C. J. Unida
+Ctro. Rec. Español C. Sacachispas F.C.
+V. Arenas C. Argentino (R.)
+Berazategui C. Estrella Del Sur
+Fecha 28 - 12/09/2026 
+Ctral. Córdoba (R.) C. Argentino (R.)
+Berazategui C. Atlas
+Cañuelas F.C. C. V. Arenas
+Def. De Cambaceres C. Sp. Barracas
+Lugano C. Leones F.C.
+Ctral. Ballester C. Puerto Nuevo
+J. Unida C. El Porvenir
+Muñiz C. L.N. Alem
+J.J. De Urquiza C. Gral. Lamadrid
+Fénix C. Ctro. Rec. Español
+Estrella Del Sur C. Yupanqui
+Luján C. Dep. Paraguayo
+Mercedes C. Dep. Español
+Claypole C. Sacachispas F.C.
+Fecha 29 - 19/09/2026 
+Lugano C. Estrella Del Sur
+Argentino (R.) C. Berazategui
+Sacachispas F.C. C. V. Arenas
+J. Unida C. Ctro. Rec. Español
+Def. De Cambaceres C. J.J. De Urquiza
+L.N. Alem C. Mercedes
+Puerto Nuevo C. Dep. Paraguayo
+Fecha 30 - 26/09/2026 
+Dep. Paraguayo C. Lugano
+Mercedes C. Puerto Nuevo
+J.J. De Urquiza C. L.N. Alem
+Ctro. Rec. Español C. Def. De Cambaceres
+V. Arenas C. J. Unida
+Berazategui C. Sacachispas F.C.
+Estrella Del Sur C. Argentino (R.)
+Fecha 31 - 03/10/2026 
+Lugano C. Argentino (R.)
+Sacachispas F.C. C. Estrella Del Sur
+J. Unida C. Berazategui
+Def. De Cambaceres C. V. Arenas
+L.N. Alem C. Ctro. Rec. Español
+Puerto Nuevo C. J.J. De Urquiza
+Dep. Paraguayo C. Mercedes
+Fecha 32 - 10/10/2026 
+Mercedes C. Lugano
+J.J. De Urquiza C. Dep. Paraguayo
+Ctro. Rec. Español C. Puerto Nuevo
+V. Arenas C. L.N. Alem
+Berazategui C. Def. De Cambaceres
+Estrella Del Sur C. J. Unida
+Argentino (R.) C. Sacachispas F.C.
+Zona B
+Fecha 4 - 21/03/2026 
+Argentino (R.) C. Yupanqui
+El Porvenir C. Mercedes
+V. Arenas C. Dep. Español
+Ctral. Ballester C. Dep. Paraguayo
+Leones F.C. C. Ctro. Rec. Español
+Gral. Lamadrid C. Def. De Cambaceres
+Sacachispas F.C. C. Atlas
+Ctral. Córdoba (R.) C. Berazategui
+J. Unida C. Claypole
+Sp. Barracas C. Lugano
+Fénix C. Puerto Nuevo
+Muñiz C. J.J. De Urquiza
+L.N. Alem C. Cañuelas F.C.
+Luján C. Estrella Del Sur
+Fecha 5 - 28/03/2026 
+Yupanqui C. Fénix
+El Porvenir C. Sp. Barracas
+Ctral. Ballester C. Luján
+Claypole C. Gral. Lamadrid
+Ctral. Córdoba (R.) C. Leones F.C.
+Dep. Español C. Atlas
+Muñiz C. Cañuelas F.C.
+Fecha 6 - 04/04/2026 
+Cañuelas F.C. C. Yupanqui
+Atlas C. Muñiz
+Leones F.C. C. Dep. Español
+Gral. Lamadrid C. Ctral. Córdoba (R.)
+Luján C. Claypole
+Sp. Barracas C. Ctral. Ballester
+Fénix C. El Porvenir
+Fecha 7 - 11/04/2026 
+Yupanqui C. El Porvenir
+Ctral. Ballester C. Fénix
+Claypole C. Sp. Barracas
+Ctral. Córdoba (R.) C. Luján
+Dep. Español C. Gral. Lamadrid
+Muñiz C. Leones F.C.
+Cañuelas F.C. C. Atlas
+Fecha 8 - 18/04/2026 
+Gral. Lamadrid C. V. Arenas
+Ctral. Córdoba (R.) C. Ctro. Rec. Español
+Mercedes C. Claypole
+Yupanqui C. Puerto Nuevo
+J. Unida C. Muñiz
+Sp. Barracas C. Dep. Paraguayo
+El Porvenir C. J.J. De Urquiza
+Argentino (R.) C. Atlas
+Sacachispas F.C. C. Dep. Español
+Luján C. Lugano
+Def. De Cambaceres C. Leones F.C.
+L.N. Alem C. Ctral. Ballester
+Estrella Del Sur C. Cañuelas F.C.
+Fénix C. Berazategui
+Fecha 9 - 25/04/2026 
+Atlas C. Yupanqui
+Leones F.C. C. Cañuelas F.C.
+Gral. Lamadrid C. Muñiz
+Luján C. Dep. Español
+Sp. Barracas C. Ctral. Córdoba (R.)
+Fénix C. Claypole
+Ctral. Ballester C. El Porvenir
+Fecha 10 - 02/05/2026 
+Yupanqui C. Ctral. Ballester
+Claypole C. El Porvenir
+Ctral. Córdoba (R.) C. Fénix
+Dep. Español C. Sp. Barracas
+Muñiz C. Luján
+Cañuelas F.C. C. Gral. Lamadrid
+Atlas C. Leones F.C.
+Fecha 11 - 09/05/2026 
+Leones F.C. C. Yupanqui
+Gral. Lamadrid C. Atlas
+Luján C. Cañuelas F.C.
+Sp. Barracas C. Muñiz
+Fénix C. Dep. Español
+El Porvenir C. Ctral. Córdoba (R.)
+Ctral. Ballester C. Claypole
+Fecha 12 - 16/05/2026 
+Argentino (R.) C. Ctral. Córdoba (R.)
+Atlas C. Berazategui
+V. Arenas C. Cañuelas F.C.
+Sp. Barracas C. Def. De Cambaceres
+Leones F.C. C. Lugano
+Puerto Nuevo C. Ctral. Ballester
+El Porvenir C. J. Unida
+L.N. Alem C. Muñiz
+Gral. Lamadrid C. J.J. De Urquiza
+Ctro. Rec. Español C. Fénix
+Yupanqui C. Estrella Del Sur
+Dep. Paraguayo C. Luján
+Dep. Español C. Mercedes
+Sacachispas F.C. C. Claypole
+Fecha 13 - 23/05/2026 
+Yupanqui C. Claypole
+Ctral. Córdoba (R.) C. Ctral. Ballester
+Dep. Español C. El Porvenir
+Muñiz C. Fénix
+Cañuelas F.C. C. Sp. Barracas
+Atlas C. Luján
+Leones F.C. C. Gral. Lamadrid
+Fecha 14 - 30/05/2026 
+Gral. Lamadrid C. Yupanqui
+Luján C. Leones F.C.
+Sp. Barracas C. Atlas
+Fénix C. Cañuelas F.C.
+El Porvenir C. Muñiz
+Ctral. Ballester C. Dep. Español
+Claypole C. Ctral. Córdoba (R.)
+Fecha 15 - 06/06/2026 
+Yupanqui C. Ctral. Córdoba (R.)
+Dep. Español C. Claypole
+Muñiz C. Ctral. Ballester
+Cañuelas F.C. C. El Porvenir
+Atlas C. Fénix
+Leones F.C. C. Sp. Barracas
+Gral. Lamadrid C. Luján
+Fecha 16 - 13/06/2026 
+Luján C. Yupanqui
+Sp. Barracas C. Gral. Lamadrid
+Fénix C. Leones F.C.
+El Porvenir C. Atlas
+Ctral. Ballester C. Cañuelas F.C.
+Claypole C. Muñiz
+Ctral. Córdoba (R.) C. Dep. Español
+Fecha 17 - 27/06/2026 
+Yupanqui C. Dep. Español
+Ctral. Córdoba (R.) C. Muñiz
+Claypole C. Cañuelas F.C.
+Ctral. Ballester C. Atlas
+El Porvenir C. Leones F.C.
+Fénix C. Gral. Lamadrid
+Sp. Barracas C. Luján
+Fecha 18 - 04/07/2026 
+Sp. Barracas C. Yupanqui
+Luján C. Fénix
+Gral. Lamadrid C. El Porvenir
+Leones F.C. C. Ctral. Ballester
+Atlas C. Claypole
+Cañuelas F.C. C. Ctral. Córdoba (R.)
+Muñiz C. Dep. Español
+Fecha 19 - 11/07/2026 
+Yupanqui C. Muñiz
+Dep. Español C. Cañuelas F.C.
+Ctral. Córdoba (R.) C. Atlas
+Claypole C. Leones F.C.
+Ctral. Ballester C. Gral. Lamadrid
+El Porvenir C. Luján
+Fénix C. Sp. Barracas
+Fecha 20 - 18/07/2026 
+Yupanqui C. Argentino (R.)
+Mercedes C. El Porvenir
+Dep. Español C. V. Arenas
+Dep. Paraguayo C. Ctral. Ballester
+Ctro. Rec. Español C. Leones F.C.
+Def. De Cambaceres C. Gral. Lamadrid
+Atlas C. Sacachispas F.C.
+Berazategui C. Ctral. Córdoba (R.)
+Claypole C. J. Unida
+Lugano C. Sp. Barracas
+Puerto Nuevo C. Fénix
+J.J. De Urquiza C. Muñiz
+Cañuelas F.C. C. L.N. Alem
+Estrella Del Sur C. Luján
+Fecha 21 - 25/07/2026 
+Fénix C. Yupanqui
+Sp. Barracas C. El Porvenir
+Luján C. Ctral. Ballester
+Gral. Lamadrid C. Claypole
+Leones F.C. C. Ctral. Córdoba (R.)
+Atlas C. Dep. Español
+Cañuelas F.C. C. Muñiz
+Fecha 22 - 01/08/2026 
+Yupanqui C. Cañuelas F.C.
+Muñiz C. Atlas
+Dep. Español C. Leones F.C.
+Ctral. Córdoba (R.) C. Gral. Lamadrid
+Claypole C. Luján
+Ctral. Ballester C. Sp. Barracas
+El Porvenir C. Fénix
+Fecha 23 - 08/08/2026 
+El Porvenir C. Yupanqui
+Fénix C. Ctral. Ballester
+Sp. Barracas C. Claypole
+Luján C. Ctral. Córdoba (R.)
+Gral. Lamadrid C. Dep. Español
+Leones F.C. C. Muñiz
+Atlas C. Cañuelas F.C.
+Fecha 24 - 15/08/2026 
+V. Arenas C. Gral. Lamadrid
+Ctro. Rec. Español C. Ctral. Córdoba (R.)
+Claypole C. Mercedes
+Puerto Nuevo C. Yupanqui
+Muñiz C. J. Unida
+Dep. Paraguayo C. Sp. Barracas
+J.J. De Urquiza C. El Porvenir
+Atlas C. Argentino (R.)
+Dep. Español C. Sacachispas F.C.
+Lugano C. Luján
+Leones F.C. C. Def. De Cambaceres
+Ctral. Ballester C. L.N. Alem
+Cañuelas F.C. C. Estrella Del Sur
+Berazategui C. Fénix
+Fecha 25 - 22/08/2026 
+Yupanqui C. Atlas
+Cañuelas F.C. C. Leones F.C.
+Muñiz C. Gral. Lamadrid
+Dep. Español C. Luján
+Ctral. Córdoba (R.) C. Sp. Barracas
+Claypole C. Fénix
+El Porvenir C. Ctral. Ballester
+Fecha 26 - 29/08/2026 
+Ctral. Ballester C. Yupanqui
+El Porvenir C. Claypole
+Fénix C. Ctral. Córdoba (R.)
+Sp. Barracas C. Dep. Español
+Luján C. Muñiz
+Gral. Lamadrid C. Cañuelas F.C.
+Leones F.C. C. Atlas
+Fecha 27 - 05/09/2026 
+Yupanqui C. Leones F.C.
+Atlas C. Gral. Lamadrid
+Cañuelas F.C. C. Luján
+Muñiz C. Sp. Barracas
+Dep. Español C. Fénix
+Ctral. Córdoba (R.) C. El Porvenir
+Claypole C. Ctral. Ballester
+Fecha 28 - 12/09/2026 
+Ctral. Córdoba (R.) C. Argentino (R.)
+Berazategui C. Atlas
+Cañuelas F.C. C. V. Arenas
+Def. De Cambaceres C. Sp. Barracas
+Lugano C. Leones F.C.
+Ctral. Ballester C. Puerto Nuevo
+J. Unida C. El Porvenir
+Muñiz C. L.N. Alem
+J.J. De Urquiza C. Gral. Lamadrid
+Fénix C. Ctro. Rec. Español
+Estrella Del Sur C. Yupanqui
+Luján C. Dep. Paraguayo
+Mercedes C. Dep. Español
+Claypole C. Sacachispas F.C.
+Fecha 29 - 19/09/2026 
+Claypole C. Yupanqui
+Ctral. Ballester C. Ctral. Córdoba (R.)
+El Porvenir C. Dep. Español
+Fénix C. Muñiz
+Sp. Barracas C. Cañuelas F.C.
+Luján C. Atlas
+Gral. Lamadrid C. Leones F.C.
+Fecha 30 - 26/09/2026 
+Yupanqui C. Gral. Lamadrid
+Leones F.C. C. Luján
+Atlas C. Sp. Barracas
+Cañuelas F.C. C. Fénix
+Muñiz C. El Porvenir
+Dep. Español C. Ctral. Ballester
+Ctral. Córdoba (R.) C. Claypole
+Fecha 31 - 03/10/2026 
+Ctral. Córdoba (R.) C. Yupanqui
+Claypole C. Dep. Español
+Ctral. Ballester C. Muñiz
+El Porvenir C. Cañuelas F.C.
+Fénix C. Atlas
+Sp. Barracas C. Leones F.C.
+Luján C. Gral. Lamadrid
+Fecha 32 - 10/10/2026 
+Yupanqui C. Luján
+Gral. Lamadrid C. Sp. Barracas
+Leones F.C. C. Fénix
+Atlas C. El Porvenir
+Cañuelas F.C. C. Ctral. Ballester
+Muñiz C. Claypole
+Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
 Copa Argentina 2026
 FASE FINAL – 32vos. de Final
