@@ -592,52 +592,6 @@ Zona A
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
 FECHA 5
-Sábado 14 de marzo
-14.00 Los Andes - Central Norte (S.)
- Árbitro: Ariel Cruz
- Asistente 1: Federico García
- Asistente 2: Cecilio Calcagno
- Cuarto árbitro: Laura Fortunato
-16.00 All Boys - Dep. Madryn
- Árbitro: Nahuel Viñas
- Asistente 1: Ramón Ortiz
- Asistente 2: Mariano Rosetti
- Cuarto árbitro: Nicolás Kresta
-16.00 Dep. Morón - Chaco For Ever
- Árbitro: Matías Billone
- Asistente 1: Ariel Scime
- Asistente 2: Guillermo Yacante
- Cuarto árbitro: Tomás Aybar
-16.00 Estudiantes - Def. de Belgrano
- Árbitro: Gastón Monson Brizuela
- Asistente 1: Juan Manuel González
- Asistente 2: Francisco Gugliota
- Cuarto árbitro: Valentín Bocaccia
-16.00 San Miguel - San Telmo
- Árbitro: Nicolás Mastroieni
- Asistente 1: Mariano Ruas
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Alejandro Porticella
-18.00 Godoy Cruz (Mza.) - Ferro Carril Oeste
- Árbitro: Bryan Ferreyra
- Asistente 1: Manuel Sánchez
- Asistente 2: Hernán Vallejos
- Cuarto árbitro: José Díaz
-19.00 T. Suárez - Güemes (S.E.)
- Árbitro: Franco Acita
- Asistente 1: Mario Bardina
- Asistente 2: Nicolás Gruccio
- Cuarto árbitro: Iván Castelu Coca
-20.00 Colón - Acassuso
- Árbitro: Gonzalo Pereira
- Asistente 1: Maximiliano Castelli
- Asistente 2: Mauro Ramos Errasti
- Cuarto árbitro: César Ceballo
-20.00 Quilmes A.C. - Patronato (P.)
- Árbitro: Juan Pablo Loustau
- Asistente 1: Lucas Ripoli
- Asistente 2: Matías Noli
- Cuarto árbitro: Lucas Brumer
 Domingo 15 de marzo
 16.00 F.C. Midland - Almagro
  Árbitro: Jorge Broggi
@@ -1014,16 +968,6 @@ ZONA B
  ALMAGRO - ATLANTA
  PATRONATO (P.) - F.C. MIDLAND
  COLEGIALES - QUILMES A.C.
- Fecha 5 
- G. Y ESGRIMA (J.) - COLEGIALES
- QUILMES A.C. - PATRONATO (P.)
- F.C. MIDLAND - ALMAGRO
- ATLANTA - DEP. MAIPÚ (MZA.)
- G. Y TIRO (S.) - TEMPERLEY
- SAN MARTÍN (T.) - NVA. CHICAGO
- AT. DE RAFAELA - SAN MARTÍN (S.J.)
- AGROPECUARIO ARG. - CHACARITA JRS.
- T. SUÁREZ - GUEMES (S.E.)
  Fecha 6 
  T. SUÁREZ - G. Y ESGRIMA (J.)
  GUEMES (S.E.) - AGROPECUARIO ARG.
@@ -1366,27 +1310,6 @@ Fecha 5
  Camioneros - Villa San Carlos 
  Sportivo Italiano - San Martín (B)
 FECHA 6
-Sábado 14 de marzo
-14.00 Arsenal F.C. - Dep. Armenio
- Árbitro: Mariano Negrete
- Asistente 1: Ángel Rebuscini
- Asistente 2: Martín Cingolani
- Cuarto árbitro: Ramiro Maglio
-14.00 Arg. de Merlo - Brown (Adrogué)
- Árbitro: Adrián Nuñez Rodríguez
- Asistente 1: Juan Manuel Díaz
- Asistente 2: Juan Manuel Acevedo
- Cuarto árbitro: Martín Morenza
-14.00 Villa San Carlos - Dep. Merlo
- Árbitro: Gonzalo Creimermann
- Asistente 1: Luis Rotman
- Asistente 2: Roberto Rodríguez
- Cuarto árbitro: Fabrizio De La Cruz
-16.00 Excursionistas - Flandria
- Árbitro: Julián Beligoy
- Asistente 1: Maximiliano Benzoni
- Asistente 2: Matías Pino
- Cuarto árbitro: Facundo Fuentes
 Domingo 15 de marzo
 14.00 Villa Dálmine - Arg. de Quilmes
  Árbitro: Mateo Bocaccia
@@ -1857,57 +1780,6 @@ Fecha 42
  Flandria - Dep. Armenio
 Primera C
 FECHA 3
-Sábado 14 de marzo
-15.30 Argentino (R.) - L.N. Alem
- Árbitro: Agustín Flores
- Asistente 1: Facundo Maldonado
- Asistente 2: Enzo Nell
- Cuarto árbitro: Mauro Trinidad
-15.30 Centro Rec. Español - J.J. de Urquiza, en Deportivo Paraguayo
- Árbitro: Damián Rubino
- Asistente 1: Bruno Castillo
- Asistente 2: Berenice Avaro
- Cuarto árbitro: Joaquín García Casas
-15.30 Estrella del Sur - Puerto Nuevo
- Árbitro: Matías Ansede
- Asistente 1: Rodrigo Mansilla
- Asistente 2: Sergio Benítez
- Cuarto árbitro: Camila Gette
-15.30 Lugano - J. Unida
- Árbitro: Ariadna Palacios
- Asistente 1: Ignacio Otegui
- Asistente 2: Matías Panozzo
- Cuarto árbitro: Nazareno Galeano
-15.30 Sacachispas F.C. - Def. de Cambaceres
- Árbitro: Manuel Girett
- Asistente 1: Heber Ibañez Meza
- Asistente 2: Oscar Maidana
- Cuarto árbitro: Pablo Gómez
-15.30 V. Arenas - Mercedes
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Gonzalo Cubillas
- Asistente 2: Mauro Soria
- Cuarto árbitro: Valentín Persico
-15.30 Cañuelas F.C. - Dep. Español
- Árbitro: Rodrigo Villalba
- Asistente 1: Lucas Monsalvo
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: Leonardo Cristaldo
-15.30 Atlas - Central Córdoba (R.)
- Árbitro: Leandro Fedele
- Asistente 1: Nahuel Valdeón
- Asistente 2: Marcos Pueyo
- Cuarto árbitro: Rodrigo Amadeo
-15.30 Leones F.C. - Claypole, en Estadio Unión (Arroyo Seco)
- Árbitro: Ulises López
- Asistente 1: Matías Vargas
- Asistente 2: Rodrigo Díaz
- Cuarto árbitro: Lautaro Díaz
-15.30 Luján - El Porvenir
- Árbitro: Iván Mastroieni
- Asistente 1: Ariel Ibañez
- Asistente 2: Mariela Martino
- Cuarto árbitro: Julián Díaz
 Domingo 15 de marzo
 15.30 Berazategui - Dep. Paraguayo
  Árbitro: Guido Mascheroni
@@ -2570,11 +2442,6 @@ ZONA 1:
  KIMBERLEY
 Torneo Regional Amateur
 Fútbol Femenino de Primera División A 
-Viernes 13 de marzo
- 15:30 San Lorenzo - Boca (Cancha Auxiliar 1)
- 19:10 Talleres - Ferro (Estadio Boutique)
-Sábado 14 de marzo
- 15:30 Banfield - Independiente (Estadio)
  Domingo 15 de marzo
  11:00 SAT - Belgrano (Estadio 12 de Agosto)
  11:00 River - Huracán (River Camp)
