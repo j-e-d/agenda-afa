@@ -1296,31 +1296,6 @@ Fecha 5
  Sportivo Italiano - San Martín (B)
 FECHA 6
 Domingo 15 de marzo
-14.00 Villa Dálmine - Arg. de Quilmes
- Árbitro: Mateo Bocaccia
- Asistente 1: Leonardo Aranda
- Asistente 2: Ramiro Ortiz Biondi
- Cuarto árbitro: Eduardo Coyto
-14.00 Liniers - Sp. Dock Sud
- Árbitro: David Cornejo
- Asistente 1: Hugo Hartung
- Asistente 2: Mara Díaz
- Cuarto árbitro: Facundo Carretero
-14.00 Sp. Italiano - Ituzaingó
- Árbitro: Wenceslao Meneses
- Asistente 1: Matías Basso
- Asistente 2: Federico Josa
- Cuarto árbitro: Micaela Abelardo
-14.00 Talleres (R.E.) - Dep. Laferrere
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Rodrigo Arín
- Asistente 2: Agustín Galván
- Cuarto árbitro: Iván Castelu Coca
-14.00 UAI - Urquiza - Def. Unidos
- Árbitro: Martín Desposito
- Asistente 1: Pablo Pastor
- Asistente 2: Ludmila Capelli
- Cuarto árbitro: Antonella Álvarez
 18.00 San Martín (B.) - Camioneros
  Árbitro: Maximiliano López Monti
  Asistente 1: Martín Giampaolo
@@ -2427,12 +2402,6 @@ ZONA 1:
  KIMBERLEY
 Torneo Regional Amateur
 Fútbol Femenino de Primera División A 
- Domingo 15 de marzo
- 11:00 SAT - Belgrano (Estadio 12 de Agosto)
- 11:00 River - Huracán (River Camp)
- 11:00 Gimnasia - Unión, Auxiliar N° 1 (El Bosquecito)
- 11:00 Racing - Lanús (Complejo Tita)
- 15:30 NOB - San Luis (Predio Bella Vista)
 Jornada 2 
 Boca Jrs. vs Racing Club 
 Ferro Carril Oeste vs San Lorenzo 
