@@ -2375,15 +2375,18 @@ ZONA 1:
  KIMBERLEY
 Torneo Regional Amateur
 Fútbol Femenino de Primera División A 
-Jornada 2 
-Boca Jrs. vs Racing Club 
-Ferro Carril Oeste vs San Lorenzo 
-Huracán vs Belgrano 
-Independiente vs River Plate 
-Lanús vs Newell’s 
-San Luis vs Gimnasia LP 
-Talleres vs Social Atlético Televisión 
-Unión Santa Fe vs Banfield 
+FECHA 2
+Viernes 20 de marzo
+ 15.00 Independiente - River, en Predio Santo Domingo Cancha 3 (TV - LPF PLAY)
+ 15.30 Ferro - San Lorenzo, en Sintético Caballito (TV - LPF PLAY)
+ 15.30 Huracán - Belgrano ,en La Quemita Cancha 1 (TV - LPF PLAY)
+ 15.30 Boca - Racing, en Casa Amarilla Cancha 1 (TV - LPF PLAY)
+Sábado 21 de marzo
+ 11.00 Unión - Banfield, en Complejo La Tatenguita (TV - LPF PLAY)
+ 11.00 Lanús - NOB, en Predio Valentín Alsina (TV - LPF PLAY)
+Domingo 22 de marzo
+ 15.00 San Luis - GELP, en Villa Deportiva San Luis (TV - LPF PLAY)
+ 17.30 Talleres - SAT, en Estadio Boutique (TV - LPF PLAY)
 Jornada 3
 Banfield vs San Luis 
 Belgrano vs Independiente 
@@ -2542,9 +2545,46 @@ El próximo 19 de marzo la Conmebol realizará el sorteo de la fase de grupos de
  Equipo ganador de Fase 3
  Equipo ganador de Fase 3
  Equipo ganador de Fase 3
+– Pautas del Sorteo –
+ CONMEBOL Libertadores – FASE DE GRUPOS:
+ Los 32 equipos (siendo 28 equipos clasificados directamente, más los 4 equipos clasificados de la Fase 3), que se dividirán en 8 grupos de 4 clubes cada uno, disputarán la Fase de Grupos.
+ La composición de los grupos se establecerá el día del Sorteo de acuerdo con los campeones de la CONMEBOL Libertadores 2025, CONMEBOL Sudamericana 2025 y el Ranking de CLUBES CONMEBOL de 15 de diciembre de 2025:
+ a) El equipo Campeón de la CONMEBOL LIBERTADORES 2025, será colocado directamente como cabeza de serie del Grupo A.
+ b) A fin de establecer las cabezas de serie de los 7 Grupos restantes (B al H), se utilizará el Ranking de CLUBES CONMEBOL del 15 de diciembre de 2025. Los 7 clubes cabezas de serie de los Grupos B al H, serán los equipos posicionados en las primeras 7 ubicaciones según el referido Ranking, excluyendo la posición del equipo Campeón de la CONMEBOL Libertadores 2025.
+ c) La segunda línea estará compuesta por el último Campeón de la CONMEBOL Sudamericana 2025, más los 7 equipos subsecuentes del Ranking de CLUBES CONMEBOL del 15 de diciembre de 2025.
+ d) La tercera línea se formará por los 8 equipos subsecuentes del Ranking de CLUBES CONMEBOL del 15 de diciembre de 2025.
+ e) La cuarta línea se conformará de 4 equipos provenientes de la Fase 3 (G1, G2, G3 y G4) más los 4 equipos subsecuentes del Ranking de CLUBES CONMEBOL del 15 de diciembre de 2025.
+ f) En la Fase de Grupos cada equipo jugará un partido en condición de local y un partido en condición de visitante contra cada uno de los otros equipos del mismo grupo
+ Los equipos ubicados en primer y segundo lugar de cada grupo se clasificarán para la Fase de Octavos de Final.
+ h) Los 8 equipos ubicados en la tercera posición en sus respectivos grupos clasificarán a la Fase de Playoffs de Octavos de Final de la CONMEBOL Sudamericana 2026.
+ Nota: En caso de que el Campeón de la CONMEBOL Sudamericana 2025 por su ubicación en el ranking de Clubes de la CONMEBOL al 15 de diciembre de 2025 le correspondiere ser cabeza de serie, prevalecerá dicha posición y privilegio otorgado por Ranking ante su condición de campeón de CONMEBOL Sudamericana, ubicándose dentro de los clubes de 1ª línea.
+ Metodología del Sorteo:
+ Se procederá a sortear el bolillero 1 con los equipos que pasarán a ocupar la posición 1 de los grupos B al H quienes serán los cabezas de serie en cada uno de los grupos.
+ Luego se proseguirá con el bolillero 2 (posición 2) que por orden de aparición irán completando los grupos del A al H respectivamente.
+ A continuación, se extraerán los equipos del bolillero 3, que completarán la posición 3 de cada grupo por orden de aparición.
+ Por último, se procederá a sortear el bolillero 4 (posición 4), cuyos equipos ocuparán la última línea en cada uno de los grupos del A al H respectivamente.
+ Se deja constancia de que dentro de un mismo grupo no podrá haber dos equipos de un mismo país, por lo tanto, si resultaren sorteados, pasarán a ocupar el siguiente grupo y se sorteará nuevamente otro equipo para dicho grupo.
+ Nota: EXCEPCION A LA REGLA: Se aceptarán 2 clubes de un mismo país en el grupo, únicamente si uno de los clubes es proveniente de la Fase 3 de la competición.
 CONMEBOL Copa Sudamericana 2026
 El certamen se iniciará el 4 de marzo.
-CONMEBOL Copa Libertadores Sub 20
+– Pautas del Sorteo –
+ CONMEBOL Sudamericana – FASE DE GRUPOS:
+ La FASE DE GRUPOS será disputada por los equipos representantes de Argentina (6), Brasil (6) y los 4 equipos perdedores de los enfrentamientos de la Fase 3 de la CONMEBOL Libertadores que se clasificarán directamente para esa fase, más los 16 equipos clasificados de la Primera Fase de la CONMEBOL Sudamericana 2026.
+ Los 32 equipos (siendo 16 equipos clasificados directamente y los 16 equipos clasificados de la Primera Fase), que se dividirán en 8 grupos de cuatro clubes cada uno, disputarán la FASE DE GRUPOS.
+ La definición de los bolilleros para el sorteo a ser realizado por la CONMEBOL seguirá los siguientes criterios:
+ a) Para la definición de los cabezas de serie de cada grupo se utilizará el Ranking de Clubes de la CONMEBOL al 15 de diciembre de 2025. Los 8 cabezas de serie serán los equipos posicionados en las 8 primeras ubicaciones según el referido ranking.
+ b) La segunda línea estará compuesta por los 8 equipos subsecuentes del Ranking de Clubes de la CONMEBOL al 15 de diciembre de 2025.
+ c) La tercera línea estará compuesta por los 8 equipos subsecuentes del Ranking de Clubes de la CONMEBOL al 15 de diciembre de 2025.
+ d) La cuarta línea se conformará de cuatro equipos provenientes de la Fase 3 de la CONMEBOL Libertadores 2025 (E1, E2, E3 y E4) más los 4 equipos subsecuentes del Ranking de Clubes de la CONMEBOL al 15 de diciembre de 2025.
+ En la FASE DE GRUPOS cada equipo jugará un partido en condición de local y un partido en condición de visitante contra cada uno de los otros equipos del mismo grupo.
+ El ganador de cada grupo clasificará directamente para la fase de OCTAVOS DEFINAL.
+ El segundo colocado de cada grupo se clasificará para los PLAYOFF DE OCTAVOS DE FINAL.
+ Metodología del sorteo:
+ Se procederá a sortear el Bolillero 1 con los equipos que pasarán a ocupar la posición 1 de los grupos A al H quienes serán los cabezas de serie en cada uno de los grupos.
+ Luego se proseguirá con el Bolillero 2 (posición 2) que por orden de aparición irán completando los grupos del A al H respectivamente.
+ A continuación, se extraerán los equipos del bolillero 3, que completarán la posición 3 de cada grupo por orden de aparición.
+ Por último, se procederá a sortear el bolillero 4 (posición 4), cuyos equipos ocuparán la última línea en cada uno de los grupos del A al H respectivamente.
+ Se deja constancia de que dentro de un mismo grupo no podrá haber dos equipos de un mismo país, por lo tanto, si resultan sorteados, pasarán a ocupar el siguiente grupo y se sorteará nuevamente otro equipo para dicho grupo.
 Intercontinental Sub 20 2026
 Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
@@ -2775,7 +2815,6 @@ CONMEBOL Sub 17 Futsal 2026
 Se jugará del 8 al 16 de agosto de 2026.
 CONMEBOL Sub 20 Futsal Femenina 2026
 Se jugará del 5 al 13 de septiembre de 2026.
-CONMEBOL Copa América Futsal
 Finalissima Futsal 2026
 Se jugará del 5 al 8 de noviembre de 2026.
 CONMEBOL Copa Libertadores de Futsal 2026
