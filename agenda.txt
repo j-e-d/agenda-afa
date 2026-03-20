@@ -2849,24 +2849,35 @@ El próximo 19 de marzo la Conmebol realizará el sorteo de la fase de grupos de
  Nota: EXCEPCION A LA REGLA: Se aceptarán 2 clubes de un mismo país en el grupo, únicamente si uno de los clubes es proveniente de la Fase 3 de la competición.
 CONMEBOL Copa Sudamericana 2026
 El certamen se iniciará el 4 de marzo.
-– Pautas del Sorteo –
- CONMEBOL Sudamericana – FASE DE GRUPOS:
- La FASE DE GRUPOS será disputada por los equipos representantes de Argentina (6), Brasil (6) y los 4 equipos perdedores de los enfrentamientos de la Fase 3 de la CONMEBOL Libertadores que se clasificarán directamente para esa fase, más los 16 equipos clasificados de la Primera Fase de la CONMEBOL Sudamericana 2026.
- Los 32 equipos (siendo 16 equipos clasificados directamente y los 16 equipos clasificados de la Primera Fase), que se dividirán en 8 grupos de cuatro clubes cada uno, disputarán la FASE DE GRUPOS.
- La definición de los bolilleros para el sorteo a ser realizado por la CONMEBOL seguirá los siguientes criterios:
- a) Para la definición de los cabezas de serie de cada grupo se utilizará el Ranking de Clubes de la CONMEBOL al 15 de diciembre de 2025. Los 8 cabezas de serie serán los equipos posicionados en las 8 primeras ubicaciones según el referido ranking.
- b) La segunda línea estará compuesta por los 8 equipos subsecuentes del Ranking de Clubes de la CONMEBOL al 15 de diciembre de 2025.
- c) La tercera línea estará compuesta por los 8 equipos subsecuentes del Ranking de Clubes de la CONMEBOL al 15 de diciembre de 2025.
- d) La cuarta línea se conformará de cuatro equipos provenientes de la Fase 3 de la CONMEBOL Libertadores 2025 (E1, E2, E3 y E4) más los 4 equipos subsecuentes del Ranking de Clubes de la CONMEBOL al 15 de diciembre de 2025.
- En la FASE DE GRUPOS cada equipo jugará un partido en condición de local y un partido en condición de visitante contra cada uno de los otros equipos del mismo grupo.
- El ganador de cada grupo clasificará directamente para la fase de OCTAVOS DEFINAL.
- El segundo colocado de cada grupo se clasificará para los PLAYOFF DE OCTAVOS DE FINAL.
- Metodología del sorteo:
- Se procederá a sortear el Bolillero 1 con los equipos que pasarán a ocupar la posición 1 de los grupos A al H quienes serán los cabezas de serie en cada uno de los grupos.
- Luego se proseguirá con el Bolillero 2 (posición 2) que por orden de aparición irán completando los grupos del A al H respectivamente.
- A continuación, se extraerán los equipos del bolillero 3, que completarán la posición 3 de cada grupo por orden de aparición.
- Por último, se procederá a sortear el bolillero 4 (posición 4), cuyos equipos ocuparán la última línea en cada uno de los grupos del A al H respectivamente.
- Se deja constancia de que dentro de un mismo grupo no podrá haber dos equipos de un mismo país, por lo tanto, si resultan sorteados, pasarán a ocupar el siguiente grupo y se sorteará nuevamente otro equipo para dicho grupo.
+Fase de grupos
+ Grupo A: América de Cali (Colombia), Tigre (Argentina), Macará (Ecuador) y Alianza Atlético (Perú)
+ Grupo B: Atlético Mineiro (Brasil), Cienciano (Perú), Academia Puerto Cabello (Venezuela) y Juventud (Uruguay).
+ Grupo C: São Paulo (Brasil), Millonarios (Colombia), Boston River (Uruguay) y O’Higgins (Chile).
+ Grupo D: Santos (Brasil), San Lorenzo (Argentina), Deportivo Cuenca (Ecuador) y Recoleta (Paraguay).
+ Grupo E: Racing (Argentina), Caracas (Venezuela), Independiente (Bolivia) y Botafogo (Brasil).
+ Grupo F: Gremio (Brasil), Palestino (Chile), Montevideo City Torque (Uruguay) y Deportivo Riestra (Argentina).
+ Grupo G: Olimpia (Paraguay), Vasco da Gama (Brasil), Audax Italiano (Chile) y Barracas Central (Argentina).
+ Grupo H: River Plate (Argentina), Red Bull Bragantino (Brasil), Blooming (Bolivia) y Carabobo (Venezuela).
+ La Fase de Grupos de la CONMEBOL Sudamericana comenzará a disputarse el próximo martes 7 de abril, semana en la que se completará su primera jornada. El resto de las fechas son las siguientes:
+ Fecha 2: 14 al 16 de abril
+ Fecha 3: 28 al 30 de abril
+ Fecha 4: 5 al 7 de mayo
+ Fecha 5: 19 al 21 de mayo
+ Fecha 6: 26 al 28 de mayo
+ Después del sorteo que definirá los de la Fase de Playoffs de los octavos de final y de los octavos de final, las rondas eliminatorias de la CONMEBOL Sudamericana comenzarán a disputarse a partir del 21 de julio.
+ Eliminatorias de octavos de final
+ Partidos de ida: 21 al 23 de julio
+ Partidos de vuelta: 28 al 30 de julio
+ Octavos de final
+ Partidos de ida: 11 al 13 de agosto
+ Partidos de vuelta: 18 al 20 de agosto
+ Cuartos de final
+ Partidos de ida: 8 al 10 de septiembre
+ Partidos de vuelta: 15 al 17 de septiembre
+ Semifinales
+ Partidos de ida: 13 y 14 de octubre
+ Partidos de vuelta: 20 y 21 de octubre
+ La final de la CONMEBOL Sudamericana se disputará el 21 de noviembre en la ciudad de Barranquilla. 
 Intercontinental Sub 20 2026
 Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
