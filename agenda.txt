@@ -1873,11 +1873,6 @@ Viernes 20 de marzo
  Asistente 2: Alejo Milone
  Cuarto árbitro: Facundo Carretero
  Sábado 21 de marzo 
- Argentino (Ros.) - Yupanqui, a las 15.30 horas 
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Mario Vargas
- Asistente 2: Sebastián Krojzl
- Cuarto árbitro: Ignacio Domínguez
 El Porvenir - Mercedes, a las 15.30 horas 
  Árbitro: Valentín Bocaccia
  Asistente 1: Federico Bozo
@@ -1888,11 +1883,6 @@ El Porvenir - Mercedes, a las 15.30 horas
  Asistente 1: Felipe Onufrik
  Asistente 2: Tomás Otero
  Cuarto árbitro: Facundo Fuentes
- Leones F.C - Rec. Español, a las 15.30 horas en estadio Unión (Arroyo Seco)
- Árbitro: Iván Castelu
- Asistente 1: Diego Fernández
- Asistente 2: Valentino Gaillard
- Cuarto árbitro: Franco Porotelli
  Juv. Unida - Claypole, a las 15.30 horas
  Árbitro: Alejandro Porticella
  Asistente 1: Roberto Rodríguez
@@ -1915,6 +1905,11 @@ El Porvenir - Mercedes, a las 15.30 horas
  Asistente 2: Freddy Quelca
  Cuarto árbitro: Ariadna Palacios
  Lunes 23 de marzo 
+ Leones F.C - Rec. Español, a las 14.30 horas en estadio Unión (Arroyo Seco)
+ Árbitro: Iván Castelu
+ Asistente 1: Diego Fernández
+ Asistente 2: Valentino Gaillard
+ Cuarto árbitro: Franco Porotelli
  Victoriano Arenas - Dep. Español, a las 15.30 horas
  Árbitro: Gabriel Flores
  Asistente 1: Joanthan Florentín
@@ -1930,6 +1925,11 @@ El Porvenir - Mercedes, a las 15.30 horas
  Asistente 1: Felipe Arrechea
  Asistente 2: Lucas García
  Cuarto árbitro: Juan Ferreyra
+ Argentino (Ros.) - Yupanqui, a las 15.30 horas 
+ Árbitro: Iñaki Iparraguirre
+ Asistente 1: Mario Vargas
+ Asistente 2: Sebastián Krojzl
+ Cuarto árbitro: Ignacio Domínguez
  Partido Postergado
  Sp. Barracas - Lugano
 Fecha 5 - 28/03/2026 
