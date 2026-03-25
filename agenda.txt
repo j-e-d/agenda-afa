@@ -525,14 +525,14 @@ Zona A
  Fecha 7 
 Viernes 27 de marzo
  18.15 CDAD. DE BOLÍVAR - AGROPECUARIO
- Árbitro: BILLONE MATIAS
+ Árbitro: BILLONE MATÍAS
  Árbitro asistente 1: BISTOCCO MARCELO
- Árbitro asistente 2: GRASSO MARTIN
+ Árbitro asistente 2: GRASSO MARTÍN
  Cuarto árbitro: MARTÍNEZ LUIS
 22.10 CHACO FOR EVER - G. Y ESGRIMA (J.)
  Árbitro: CARRANZA ALVARO
- Árbitro asistente 1: FERNANDEZ PASCUAL
- Árbitro asistente 2: SACCONE MARTIN
+ Árbitro asistente 1: FERNÁNDEZ PASCUAL
+ Árbitro asistente 2: SACCONE MARTÍN
  Cuarto árbitro: EJARQUE EMANUEL
 22.10 SAN MARTÍN (S.J.) - RACING (CBA.)
  Árbitro: MACHERONI MAXI
@@ -558,33 +558,33 @@ Sábado 28 de marzo
 20.00 COLEGIALES - SAN MIGUEL
  Árbitro: PEREIRA GONZALO
  Árbitro asistente 1: ROSETTI MARIANO
- Árbitro asistente 2: BASSO MATIAS
- Cuarto árbitro: KRESTA NICOLAS
+ Árbitro asistente 2: BASSO MATÍAS
+ Cuarto árbitro: KRESTA NICOLÁS
 Domingo 29 de marzo
  15.00 LOS ANDES - TEMPERLEY
  Árbitro: AMICONI BRUNO
- Árbitro asistente 1: RAINERI SEBASTIAN
+ Árbitro asistente 1: RAINERI SEBASTIÁN
  Árbitro asistente 2: PAEZ HUGO
  Cuarto árbitro: GUTIERREZ GABRIEL
 15.30 NUEVA CHICAGO - ALL BOYS
  Árbitro: PAFUNDI JUAN
  Árbitro asistente 1: SAVORANI MIGUEL
- Árbitro asistente 2: GARCIA LERI URIEL
+ Árbitro asistente 2: GARCÍA LERI URIEL
  Cuarto árbitro: BROGGI JORGE
 16.00 CHACARITA JRS. - ESTUDIANTES
  Árbitro: LOUSTAU JUAN PABLO
  Árbitro asistente 1: GERMANOTTA LUCAS
  Árbitro asistente 2: RUAS MARIANO
- Cuarto árbitro: NUÑEZ RODRIGUEZ A.
+ Cuarto árbitro: NUÑEZ RODRÍGUEZ A.
 16.00 DEP. MADRYN - SAN MARTÍN (T.)
  Árbitro: LLOBET FABRIZIO
- Árbitro asistente 1: FERNANDEZ JULIO
+ Árbitro asistente 1: FERNÁNDEZ JULIO
  Árbitro asistente 2: SÁNCHEZ MANUEL
  Cuarto árbitro: JERÓNIMO ULISES
 16.00 PATRONATO - COLÓN
  Árbitro: ZAMORA DANIEL E
  Árbitro asistente 1: ERRANTE MARCELO
- Árbitro asistente 2: PUMETTI SEBASTIAN
+ Árbitro asistente 2: PUMETTI SEBASTIÁN
  Cuarto árbitro: NEGRETE MARIANO
 16.00 SAN TELMO - QUILMES
  Árbitro: ROBLEDO JUAN CRUZ
@@ -594,12 +594,12 @@ Domingo 29 de marzo
 17.00 DEP. MAIPÚ (MZA.) - GODOY CRUZ (MZA.)
  Árbitro: MANDUCA MAXI
  Árbitro asistente 1: NUÑEZ IVAN
- Árbitro asistente 2: BALMACEDA MATIAS
+ Árbitro asistente 2: BALMACEDA MATÍAS
  Cuarto árbitro: GONZÁLEZ GUILLERMO
 17.00 GÜEMES - MITRE
  Árbitro: VIÑAS NAHUEL
  Árbitro asistente 1: MARTÍN DIEGO
- Árbitro asistente 2: OSUDAR SEBASTIAN
+ Árbitro asistente 2: OSUDAR SEBASTIÁN
  Cuarto árbitro: BEJAS NELSON
 17.30 G. Y TIRO (S.) - CTRAL. NORTE (S.)
  Árbitro: VIOLA FELIPE
@@ -1264,12 +1264,12 @@ Sábado 28 de marzo
  14.00 ARSENAL F.C. - DEP. LAFERRERE
  Árbitro: MASTROIENI NICOLÁS
  Árbitro asistente 1: HARTUNG HUGO
- Árbitro asistente 2: NOLI MATIÁS
+ Árbitro asistente 2: NOLI MATÍAS
  Cuarto árbitro: IPARRAGUIRRE IÑAKI
 14.00 CAMIONEROS - ITUZAINGÓ
  Árbitro: BELIGOY JULIÁN
  Árbitro asistente 1: CALCAGNO CECILIO
- Árbitro asistente 2: CINGOLANI MARTIN
+ Árbitro asistente 2: CINGOLANI MARTÍN
  Cuarto árbitro: FLORES AGUSTÍN
 14.00 VILLA SAN CARLOS - COMUNICACIONES
  Árbitro: MAGLIO RAMIRO
@@ -1277,15 +1277,15 @@ Sábado 28 de marzo
  Árbitro asistente 2: OTEGUI IGNACIO
  Cuarto árbitro: COYTO EDUARDO
 16.00 VILLA DÁLMINE - DEP. ARMΕΝΙΟ
- Árbitro: DESPOSITO MARTIN
+ Árbitro: DESPOSITO MARTÍN
  Árbitro asistente 1: BENZONI MAXI
- Árbitro asistente 2: PANOZZO MATIAS
+ Árbitro asistente 2: PANOZZO MATÍAS
  Cuarto árbitro: GETTE CAMILA
 20.00 EXCURSIONISTAS - BROWN (ADROGUÉ)
  Árbitro: CUICCHI IGNACIO
  Árbitro asistente 1: PASTOR PABLO
- Árbitro asistente 2: FERNANDEZ DIEGO
- Cuarto árbitro: VIGLIONE ELIAS
+ Árbitro asistente 2: FERNÁNDEZ DIEGO
+ Cuarto árbitro: VIGLIONE ELÍAS
 Domingo 29 de marzo
  14.00 LINIERS - DEF. UNIDOS
  Árbitro: IGLESIAS GASTÓN
@@ -1294,18 +1294,18 @@ Domingo 29 de marzo
  Cuarto árbitro: PRIETO MANUEL
 14.00 SP. ITALIAΝΟ - DEP. MERLO
  Árbitro: CRUZ ARIEL
- Árbitro asistente 1: AMARILLA CRISTIAN
+ Árbitro asistente 1: AMARILLA CRISTÍAN
  Árbitro asistente 2: ORTIZ BIONDI RAMIRO
  Cuarto árbitro: BOCACCIA VALENTÍN
 14.00 UAI - URQUIZA - FLANDRIA
  Árbitro: JEREZ JULIAN
  Árbitro asistente 1: CICHETTO MARIANO
- Árbitro asistente 2: RODRIGUEZ LAZARTE DIEGO
+ Árbitro asistente 2: RODRÍGUEZ LAZARTE DIEGO
  Cuarto árbitro: MASTROIENI IVAN
 16.00 ARG. DE MERLO - TALLERES (R.E.)
  Árbitro: MENECES WENCESLAO
  Árbitro asistente 1: ORELLANA DAMIAN
- Árbitro asistente 2: ANTOLA HERNAN
+ Árbitro asistente 2: ANTOLA HERNÁN
  Cuarto árbitro: MORENZA MARTIN
 16.00 REAL PILAR - ARG. DE QUILMES
  Árbitro: BRESBA SEBASTIÁN
@@ -1734,31 +1734,31 @@ Sábado 28 de marzo
  15.30 CLAYPOLE - GRAL. LAMADRID
  Árbitro: RUBINO DAMIÁN
  Árbitro asistente 1: MONSALVO LUCAS
- Árbitro asistente 2: BENITEZ SERGIO
+ Árbitro asistente 2: BENÍTEZ SERGÍO
  Cuarto árbitro: AYBAR TOMAS
 15.30 CTRAL. BALLESTER - LUJÁN
  Árbitro: ECHEVERRÍA ROBERTA
  Árbitro asistente 1: CARRIL LEANDRO
- Árbitro asistente 2: ORTIZ DIEGO
+ Árbitro asistente 2: ORTÍZ DIEGO
  Cuarto árbitro: PÉRSICO VALENTÍN
 15.30 CTRAL. CÓRDOBA (R.) - LEONES F.C.
  Árbitro: PORTICELLA ALEJANDRO
  Árbitro asistente 1: ARRECHEA FELIPE
- Árbitro asistente 2: GARCIA LUCAS
+ Árbitro asistente 2: GARCÍA LUCAS
  Cuarto árbitro: FUENTES FACUNDO
 15.30 DEP. PARAGUAYO - ESTRELLA DEL SUR
  Árbitro: CORREA GONZALO
  Árbitro asistente 1: FLORENTIN JONATHAN
  Árbitro asistente 2: DIAZ RODRIGO
- Cuarto árbitro: MILESSI SEBASTIAN
+ Cuarto árbitro: MILESSI SEBASTÍAN
 15.30 J.J. DE URQUIZA - V. ARENAS
  Árbitro: BOCCACCIA ΜΑΤΕΟ
- Árbitro asistente 1: PINO MATIAS
+ Árbitro asistente 1: PINO MATÍAS
  Árbitro asistente 2: PUEYO MARCOS
  Cuarto árbitro: DE LA CRUZ FABRIZIO
 15.30 L.N. ALEM - SACACHISPAS F.C.
  Árbitro: ANSEDE MATIAS
- Árbitro asistente 1: RODRIGUEZ CHRISTIAN
+ Árbitro asistente 1: RODRÍGUEZ CHRISTIAN
  Árbitro asistente 2: OSORIO FABRIZIO
  Cuarto árbitro: FERREYRA JUAN
 15.30 MERCEDES - BERAZATEGUI
@@ -1789,14 +1789,14 @@ Domingo 29 de marzo
  Cuarto árbitro: CARRETERO FACUNDO
 15.30 PUERTO NUEVO - ARGENTINO (R.)
  Árbitro: PANIZZA AGUSTIN
- Árbitro asistente 1: RODRIGUEZ ROBERTO
- Árbitro asistente 2: FERNANDEZ JULIETA
+ Árbitro asistente 1: RODRÍGUEZ ROBERTO
+ Árbitro asistente 2: FERNÁNDEZ JULIETA
  Cuarto árbitro: POROTELLI FRANCO
 Lunes 30 de marzo
  15.30 CTRO. REC. ESPAÑOL - LUGANO
  Árbitro: CORNEJO DAVID
  Árbitro asistente 1: IBAÑEZ HEBER
- Árbitro asistente 2: RODRIGUEZ RODOLFO
+ Árbitro asistente 2: RODRÍGUEZ RODOLFO
  Cuarto árbitro: ALVAREZ ANTONELLA
 15.30 MUÑIZ - CAÑUELAS F.C.
  Árbitro: FEDELE LEANDRO
