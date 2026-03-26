@@ -32,78 +32,89 @@ Gimnasia – Argentinos (Zona B)
  Lanús – Deportivo Riestra (Zona B)
  Central Córdoba – Boca (Zona A)
  River – Atlético Tucumán (Zona B)
-Fecha 13 (Fin de semana del 05/04)
-Interzonal: Independiente – Racing
-Zona A
- Talleres – Boca
- Instituto – Defensa y Justicia
- Unión – Deportivo Riestra
- San Lorenzo – Estudiantes
- Central Córdoba – Newell’s
- Gimnasia (Mza.) – Vélez
- Lanús – Platense
-Zona B
- River – Belgrano
- Aldosivi – Estudiantes (Río Cuarto)
- Barracas Central – Sarmiento
- Gimnasia – Huracán
- Rosario Central – Atlético Tucumán
- Tigre – Independiente Rivadavia Mza.
- Argentinos – Banfield
-Fecha 14 (Fin de semana del 12/04)
-Interzonal: Lanús – Banfield
-Zona A
- Platense – Gimnasia (Mza.)
- Vélez – Central Córdoba
- Newell’s – San Lorenzo
- Estudiantes – Unión
- Deportivo Riestra – Instituto
- Defensa y Justicia – Talleres
- Boca – Independiente
-Zona B
- Independiente Rivadavia Mza. – Argentinos
- Atlético Tucumán – Tigre
- Huracán – Rosario Central
- Sarmiento – Gimnasia
- Estudiantes (Río Cuarto) – Barracas Central
- Belgrano – Aldosivi
- Racing – River
-Fecha 15 (Fin de semana del 19/04)
-Interzonal: River – Boca
-Zona A
- Independiente – Defensa y Justicia
- Talleres – Deportivo Riestra
- Instituto – Estudiantes
- Unión – Newell’s
- San Lorenzo – Vélez
- Central Córdoba – Platense
- Gimnasia (Mza.) – Lanús
-Zona B
- Aldosivi – Racing
- Barracas Central – Belgrano
- Gimnasia – Estudiantes (Río Cuarto)
- Rosario Central – Sarmiento
- Tigre – Huracán
- Argentinos – Atlético Tucumán
- Banfield – Independiente Rivadavia Mza.
-Fecha 16 (Fin de semana del 26/04)
-Interzonal: Independiente Rivadavia Mza. – Gimnasia (Mza.)
-Zona A
- Lanús – Central Córdoba
- Platense – San Lorenzo
- Vélez – Unión
- Newell’s – Instituto
- Estudiantes – Talleres
- Deportivo Riestra – Independiente
- Defensa y Justicia – Boca
-Zona B
- Atlético Tucumán – Banfield
- Huracán – Argentinos
- Sarmiento – Tigre
- Estudiantes (Río Cuarto) – Rosario Central
- Belgrano – Gimnasia
- Racing – Barracas Central
- River – Aldosivi
+Fecha 13
+Miércoles 1° de abril
+ 20.00 Lanús – Platense
+Jueves 2 de abril
+ 15.00 Barracas Central – Sarmiento
+ 17.30 Tigre – Ind. Rivadavia Mza.
+ 20.30 Talleres – Boca
+Viernes 3 de abril
+ 15.00 Gimnasia (Mza.) – Vélez
+ 17.15 Unión – Deportivo Riestra
+ 19.30 San Lorenzo – Estudiantes
+Sábado 4 de abril
+ 13.30 Aldosivi – Estudiantes (Río Cuarto)
+ 17.30 Independiente – Racing
+ 21.00 Rosario Central – Atlético Tucumán
+Domingo 5 de abril
+ 15.30 Gimnasia – Huracán
+ 18.00 River – Belgrano
+ 20.30 Central Córdoba – Newell’s
+Lunes 6 de abril
+ 19.00 Argentinos – Banfield
+ 21.15 Instituto – Defensa y Justicia
+Fecha 14
+Viernes 10 de abril
+ 21.00 Belgrano -Aldosivi
+Sábado 11 de abril
+ 15.00 Deportivo Riestra – Instituto
+ 17.15 Estudiantes – Unión
+ 17.15 Ind. Rivadavia Mza. – Argentinos
+ 19.30 Boca – Independiente
+ 21.45 Estudiantes (Río Cuarto) – Barracas Central
+Domingo 12 de abril
+ 15.00 Newell’s – San Lorenzo
+ 15.00 Platense – Gimnasia (Mza.)
+ 17.30 Atlético Tucumán – Tigre
+ 17.30 Huracán – Rosario Central
+ 20.00 Racing – River
+Lunes 13 de abril
+ 16.30 Sarmiento – Gimnasia
+ 16.30 Defensa y Justicia – Talleres
+ 19.00 Lanús – Banfield
+ 21.30 Vélez – Central Córdoba
+Fecha 15
+Viernes 17 de abril
+ 20.30 Unión – Newell’s
+Sábado 18 de abril
+ 15.00 Gimnasia – Estudiantes (Río Cuarto)
+ 17.15 Instituto – Estudiantes
+ 19.30 Independiente – Defensa y Justicia
+ 21.45 Argentinos – Atlético Tucumán
+Domingo 19 de abril
+ 13.30 Aldosivi – Racing
+ 17.00 River – Boca
+ 20.30 Rosario Central – Sarmiento
+ 20.30 Talleres – Deportivo Riestra
+Lunes 20 de abril
+ 15.00 Barracas Central – Belgrano
+ 17.15 Central Córdoba – Platense
+ 17.15 Banfield – Ind. Rivadavia Mza.
+ 19.30 San Lorenzo – Vélez
+ 21.45 Gimnasia (Mza.) – Lanús
+ 21.45 Tigre – Huracán
+Fecha 16
+Jueves 23 de abril
+ 20.00 Defensa y Justicia – Boca
+Viernes 24 de abril
+ 17.00 Deportivo Riestra – Independiente
+ 19.15 Estudiantes (Río Cuarto) – Rosario Central
+ 19.15 Lanús – Central Córdoba
+ 21.30 Racing – Barracas Central
+Sábado 25 de abril
+ 14.00 Platense – San Lorenzo
+ 17.00 Estudiantes – Talleres
+ 19.15 Sarmiento – Tigre
+ 21.30 River – Aldosivi
+Domingo 26 de abril
+ 15.00 Ind. Rivadavia Mza. – Gimnasia (Mza.)
+ 17.30 Newell’s – Instituto
+ 17.30 Belgrano – Gimnasia
+ 20.00 Atlético Tucumán – Banfield
+Lunes 27 de abril
+ 18.45 Vélez – Unión
+ 21.00 Huracán – Argentinos
 Torneo Clausura 2026
 Fecha 1
 Interzonal: Defensa y Justicia – Aldosivi
