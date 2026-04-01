@@ -2417,6 +2417,99 @@ ZONA 1:
  CIRCULO DEPORTIVO
  ALVARADO
  KIMBERLEY
+Fecha 3 
+Viernes 3 de Abril 
+ 15.30 Sol de Mayo - Alvarado Árbitro: Etem Jorge David
+ Árbitro asistente 1: Araya Uvab Adriel
+ Árbitro asistente 2: Alvarez Diego Maximiliano
+ Cuarto árbitro: Fernández Matías
+Sábado 4 de abril
+ 15.30 Circulo Deportivo - Germinal
+ Árbitro: Moron Franco David
+ Árbitro asistente 1: Pompei Valentín
+ Árbitro asistente 2: Loos Agustina
+ Cuarto árbitro: Moreno Nicolás Darío
+ 17.00 Boca Unidos - Def de Vilelas
+ Árbitro: Ceballo Cesar Antonio
+ Árbitro asistente 1: A confirmar
+ Árbitro asistente 2: A confirmar 
+ Cuarto árbitro: Pezzotta Bruno
+ 18.00 At. Costa Brava - J. U. Universitario
+ Árbitro: Novelli Diego Saul
+ Árbitro asistente 1: Suarez Leonel Matías
+ Árbitro asistente 2: Paletta Lautaro Manuel
+ Cuarto árbitro: Cabrelli Claudio Agustín
+Domingo 5 de Abril 
+ 15.30 Kimberley Mdq - Santamarina
+ Árbitro: Scionti Alejandro
+ Árbitro asistente 1: Pajon Antonella Silvia
+ Árbitro asistente 2: Pasquetin Thomas
+ Cuarto árbitro: Schmoll Santiago
+15.30 Circulo Deportivo - Germinal
+ Árbitro: Moron Franco David
+ Árbitro asistente 1: Pompei Valentín
+ Árbitro asistente 2: Loos Agustina
+ Cuarto árbitro: Moreno Nicolás Darío
+ 15.30 Guillermo Brown - Olimpo
+ Árbitro: Sosa Abrile Leandro Andrés
+ Árbitro asistente 1: González Matías Javier
+ Árbitro asistente 2: Guzman Marcos David
+ Cuarto árbitro: Gatica Leandro
+16.00 Independiente (Chi) - Gim y Esgrima Ch
+ Árbitro: Marcos Fernando Omar
+ Árbitro asistente 1: Bustos Emiliano Nicolas
+ Árbitro asistente 2: Zonco Felipe
+ Cuarto árbitro: Bustos Kevin Nicolas
+16.00 El Linqueño - Escobar Fc
+ Árbitro: González Guillermo Adrián
+ Árbitro asistente 1: López Rodrigo Edgardo
+ Árbitro asistente 2: Cid Alejo
+ Cuarto árbitro: Ríos María Soledad
+16.00 Sportivo At. - Nueve de Julio
+ Árbitro: Sandoval José Darío
+ Árbitro asistente 1: Córdoba Guido
+ Árbitro asistente 2: Lezcano Garcilano Rodrigo
+ Cuarto árbitro: Monzón Sergio Hernán
+16.00 Tucumán Ctral - San Martin F.
+ Árbitro: Silcan Jerez Maximiliano Gabriel
+ Árbitro asistente 1: Agüero Exequiel Augusto
+ Árbitro asistente 2: Ocampo Diego Pablo
+ Cuarto árbitro: Vizgarra Campos Facundo Misael
+16.00 Dep Rincon - Argentino P
+ Árbitro: Liuzzi Marcos Ignacio
+ Árbitro asistente 1: Nardelli Martin Daniel
+ Árbitro asistente 2: Bono Oscar Ariel
+ Cuarto árbitro: Destefano Patricio Jesús
+16.15 Huracán L. Heras - Cipolletti
+ Árbitro: Bejas Nelson Matías
+ Árbitro asistente 1: Ponce José Daniel
+ Árbitro asistente 2: Marto Agustín
+ Cuarto árbitro: Ballestero Rodrigo
+16.30 Sol de América - Sarmiento Sgo
+ Árbitro: Billanueva Leonardo Enmanuel
+ Árbitro asistente 1: Sosa Nicolás Matías
+ Árbitro asistente 2: Franco Andrés Leonardo
+ Cuarto árbitro: Ayala Ángel Esteban
+17.00 At. C. San Martin - Atenas Rc
+ Árbitro: Núñez Pablo Federico
+ Árbitro asistente 1: González Marcelo Gabriel
+ Árbitro asistente 2: Flores Roig Juan Ignacio
+ Cuarto árbitro: Gámez Sirerol Mauro
+17.30 Douglas Haig - Def. Belgrano (V.R.)
+ Árbitro: Correa Jonathan Daniel
+ Árbitro asistente 1: González Mariano Ramon
+ Árbitro asistente 2: Rosas Robertino
+ Cuarto árbitro: Caisso Alexis Gabriel
+18.00 Sarmiento Rcia. - Mitre Posadas
+ Árbitro: Rekers Fernando Jesús
+ Árbitro asistente 1: Fleitas Hugo
+ Árbitro asistente 2: Cejas Bruno
+ Cuarto árbitro: Ramirez Pablo Alberto
+20.30 Sp. Belgrano - G. y Esgrima Cu
+ Árbitro: Rivero Rodrigo Héctor
+ Árbitro asistente 1: Ortiz Luis Fernando
+ Árbitro asistente 2: Cáceres Néstor Fabian
+ Cuarto árbitro: Mapelli Jonatan Daniel
 Torneo Regional Amateur
 Fútbol Femenino de Primera División A 
 Jornada 4 
@@ -2996,7 +3089,7 @@ Grupo A
  Grupo I
  Francia
  Senegal
- Bolivia/Irak/
+ Irak
  Noruega
  Martes, 16 de junio 2026
  15:00 - Francia vs Senegal - New York New Jersey Stadium
