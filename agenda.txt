@@ -457,12 +457,6 @@ Banfield – Atlético Tucumán
  Aldosivi – River
 Torneo Proyección
 Fecha 8
- Miércoles 8 de abril
- 19.00 Boca – Platense (Zona B) – Boca Ezeiza
- Árbitro: Facundo Fuentes
- Árbitro asistente 1: Valentino Gaillard
- Árbitro asistente 2: Tomás Perez
- Cuarto árbitro: Leonardo Cristaldo
  Jueves 9 de abril
  13.30 Argentinos – Racing (Zona A) – CEFFA
  Árbitro: Facundo Carretero
@@ -595,13 +589,6 @@ Zona A
  DEF. DE BELGRANO - ALL BOYS
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
-Fecha 7 
-Miércoles 8 de abril
- 20.00 F.C. MIDLAND - ACASSUSO
- Árbitro: BENITEZ FEDERICO
- Árbitro asistente 1: PARDO LUCAS
- Árbitro asistente 2: ROMERO DIEGO
- Cuarto árbitro: BILLANUEVA LEANDRO
 FECHA 8
  Martes 7 de abril
 21.00 Atlanta - Nueva Chicago
@@ -2340,12 +2327,6 @@ Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
 Copa Argentina 2026
 FASE FINAL – 32vos. de Final
-Miércoles 08 de abril
-Sarmiento (Junín) - T. Suárez, a las 21.10 horas en Arsenal F.C. (TV)
- Árbitro: Gonzalo Pereira 
- Árbitro asistente 1: Diego Bonfa 
- Árbitro asistente 2: Sebastián Pumetti 
- Cuarto árbitro: Guido Mascheroni 
 Jueves 09 de abril
 G. y Esgrima L.P. - Camioneros, a las 21.00 horas en Banfield (TV)
  Árbitro: Maxi Macheroni 
@@ -2690,8 +2671,6 @@ Fase de grupos:
 Fixture completo
 :
  Grupo A
- Mié. 8 de abril, 21:00 Ind. Medellín - Estudiantes (LP)
- Mié. 8 de abril, 21:30 Cusco FC - Flamengo
  Mar. 14 de abril, 19:00 Estudiantes (LP) - Cusco FC
  Jue. 16 de abril, 21:30 Flamengo - Ind. Medellín
  Mié. 29 de abril, 21:30 Estudiantes (LP) - Flamengo
@@ -2703,8 +2682,6 @@ Fixture completo
  Mar. 26 de mayo, 21:30 Flamengo - Cusco FC
  Mar. 26 de mayo, 21:30 Estudiantes (LP) - Ind. Medellín
  Grupo B
- Mar. 7 de abril, 23:00 Deportes Tolima - Universitario
- Mié. 8 de abril, 19:00 Coquimbo Unido - Nacional (Uruguay)
  Mar. 14 de abril, 19:00 Nacional (Uruguay) - Deportes Tolima
  Mié. 15 de abril, 23:00 Universitario - Coquimbo Unido
  Mar. 28 de abril, 23:00 Deportes Tolima - Coquimbo Unido
@@ -2755,8 +2732,6 @@ Fixture completo
  Mié. 27 de mayo, 21:30 Peñarol - Santa Fe
  Mié. 27 de mayo, 21:30 Corinthians - Platense
  Grupo F
- Mié. 8 de abril, 21:30 Junior - Palmeiras
- Mié. 8 de abril, 23:00 Sporting Cristal - Cerro Porteño
  Mar. 14 de abril, 19:00 Cerro Porteño - Junior
  Jue. 16 de abril, 19:00 Palmeiras - Sporting Cristal
  Mar. 28 de abril, 23:00 Sporting Cristal - Junior
@@ -2768,8 +2743,6 @@ Fixture completo
  Jue. 28 de mayo, 19:00 Palmeiras - Junior
  Jue. 28 de mayo, 19:00 Cerro Porteño - Sporting Cristal
  Grupo G
- Mar. 7 de abril, 21:00 Always Ready - LDU Quito
- Mié. 8 de abril, 19:00 Mirassol - Lanús
  Mar. 14 de abril, 23:00 LDU Quito - Mirassol
  Jue. 16 de abril, 19:00 Lanús - Always Ready
  Mar. 28 de abril, 19:00 Lanús - LDU Quito
@@ -2855,7 +2828,6 @@ Fixture completo
  Jue. 28 de mayo, 21:30 Tigre - Alianza Atlético
  Grupo B
  Jue. 9 de abril, 19:00 Juventud - Cienciano
- Mié. 8 de abril, 23:00 Academia Puerto Cabello - Atletico Mineiro
  Jue. 16 de abril, 19:00 Atlético Mineiro - Juventud
  Jue. 16 de abril, 23:00 Cienciano - Academia Puerto Cabello
  Mié 29 de abril, 19:00 Juventud - Academia Puerto Cabello
@@ -2880,8 +2852,6 @@ Fixture completo
  Mar. 26 de mayo, 19:00 San Pablo - Boston River
  Mar. 26 de mayo, 19:00 Millonarios - O'Higgins
  Grupo D
- Mié. 8 de abril, 19:00 Recoleta - San Lorenzo
- Mié. 8 de abril, 19:00 Deportivo Cuenca - Santos
  Mar. 14 de abril, 21:30 Santos - Recoleta
  Jue. 16 de abril, 21:30 San Lorenzo - Deportivo Cuenca
  Mar. 28 de abril, 19:00 Recoleta - Deportivo Cuenca
@@ -2906,8 +2876,6 @@ Fixture completo
  Mié. 27 de mayo, 19:00 Racing - Independiente Petrolero
  Mié. 27 de mayo, 19:00 Caracas - Botafogo
  Grupo F
- Mié. 8 de abril, 19:00 Deportivo Riestra - Palestino
- Mié. 8 de abril, 21:30 Montevideo City Torque - Gremio
  Mar. 14 de abril, 19:00 Gremio - Deportivo Riestra
  Mar. 14 de abril, 21:30 Palestino - Montevideo City Torque
  Mié. 29 de abril, 19:00 Deportivo Riestra - Montevideo City Torque
@@ -2919,8 +2887,6 @@ Fixture completo
  Mar. 26 de mayo, 19:00 Gremio - Montevideo City Torque
  Mar. 26 de mayo, 19:00 Palestino - Deportivo Riestra
  Grupo G
- Mar. 7 de abril, 19:00 Barracas Central - Vasco da Gama
- Mié. 8 de abril, 21:00 Audax Italiano - Olimpia
  Mié. 15 de abril, 21:00 Olimpia - Barracas Central
  Mar. 14 de abril, 21:00 Vasco da Gama - Audax Italiano
  Mar. 28 de abril, 21:00 Barracas Central - Audax Italiano
@@ -3195,13 +3161,6 @@ Marruecos será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 5; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5.
 CONMEBOL Sub 17 2026
 Fixture 
-Miércoles 8 de abril
- 20.00 Argentina - Venezuela, en el estadio Ameliano (Villeta)
-Árbitro: Jairo Mayorga (Colombia)
-Asistente 1: Roberto Padilla (Colombia)
-Asistente 2: Iris Alarcón
-Cuarto árbitro: Mathias De Armas (Uruguay)
-Quinto árbitro: Héctor Bergalo (Uruguay)
 Viernes 10 de abril
  20.00 Argentina - Brasil, en el estadio Ameliano (Villeta)
 Domingo 12 de abril
