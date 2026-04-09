@@ -589,13 +589,6 @@ Zona A
  DEF. DE BELGRANO - ALL BOYS
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
-FECHA 8
- Martes 7 de abril
-21.00 Atlanta - Nueva Chicago
- Árbitro: Juan Cruz Robledo
- Asistente 1: Ariel Scime
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Ulises López 
 FECHA 9
 San Miguel - Dep. Morón
  Árbitro: Juan Pafundi
@@ -2635,18 +2628,6 @@ Torneo Femenino de Primera B
 Copa Federal Femenina
 CONMEBOL Copa Libertadores 2026
 Fecha 1
- MIRASSOL vs. LANÚS
- Arbitro: Jhon Ospina (Colombia)
- Asistente 1: David Fuentes (Colombia)
- Asistente 2: Sebastián Vela (Colombia)
- VAR: Nicolás Gallo (Colombia)
- AVAR: John A. Leon (Colombia)
- INDEPENDIENTE MEDELLÍN vs. ESTUDIANTES LP
- Árbitro: Alexis Herrera (Venezuela)
- Asistente 1: Tulio Moreno (Venezuela)
- Asistente 2: Alberto Ponte (Venezuela)
- VAR: Ángel Arteaga (Venezuela)
- AVAR: Reyes Soto (Venezuela)
  ROSARIO CENTRAL vs. INDEPENDIENTE DEL VALLE
  Arbitro: Wilmar Roldán (Colombia)
  Asistente 1: Alexander Guzmán (Colombia)
@@ -2784,25 +2765,6 @@ Fixture completo
  Partidos de vuelta: 20 y 21 de octubre
  La final de la CONMEBOL Libertadores se disputará el 28 de noviembre en la ciudad de Montevideo. 
 CONMEBOL Copa Sudamericana 2026
-Fecha 1
- DEPORTIVO RIESTRA vs. PALESTINO
- Arbitro: Guillermo Guerrero (Ecuador)
- Asistente 1: Danny Avila (Ecuador)
- Asistente 2: Dennys Guerrero (Ecuador)
- VAR: Carlos Orbe (Ecuador)
- AVAR: Franklin Congo (Ecuador)
- RECOLETA vs. SAN LORENZO
- Arbitro: Cristian Garay (Chile)
- Asistente 1: Claudio Urrutia (Chile)
- Asistente 2: Juan Serrano (Chile)
- VAR: Miguel Araos (Chile)
- AVAR: Alejandro Molina (Chile)
- BLOOMING vs. RIVER PLATE
- Arbitro: Andrés Rojas (Colombia)
- Asistente 1: Richard Ortiz (Colombia)
- Asistente 2: Miguel Roldán (Colombia)
- VAR: David Rodriguez (Colombia)
- AVAR: Luis Picon (Colombia)
 Fase de grupos
  Grupo A: América de Cali (Colombia), Tigre (Argentina), Macará (Ecuador) y Alianza Atlético (Perú)
  Grupo B: Atlético Mineiro (Brasil), Cienciano (Perú), Academia Puerto Cabello (Venezuela) y Juventud (Uruguay).
@@ -3133,6 +3095,17 @@ Clasificación Mundial Femenina FIFA/Coca-Cola
  previa al sorteo del torneo. Las dos primeras accederán a la segunda fase del torneo clasificatorio intercontinental, que se disputará en febrero de 2027 en una única sede y a la que se sumarán dos representantes de la Concacaf, uno de la CONMEBOL y otro de la UEFA. Las seis selecciones se encuadrarán en tres cruces diferentes, consistentes en sendos partidos de eliminación directa que decidirán los tres equipos clasificados para la Copa Mundial Femenina de la FIFA 2027™. Las selecciones representantes de la misma confederación no podrán quedar encuadradas en un mismo cruce.
 Conmebol Sub 17 Femenina 2026
 Se jugará del 22 de abril al 16 de mayo de 2026.
+Viernes 24 de abril
+20.00 Paraguay - Argentina, en el Estadio CARFEM (Ypané)
+ Domingo 26 de abril
+ 17.00 Argentina - Colombia, en el Estadio CARFEM (Ypané)
+ Martes 28 de abril
+ 17.00 Argentina - Bolivia, en el Estadio CARFEM (Ypané)
+ Domingo 3 de mayo
+ 20.00 Chile - Argentina, en el Estadio Ameliano (Villeta)
+ Formato de competencia
+ Fase Preliminar (Fase de Grupos) y Fase Final (disputas de los 7° y 5° puestos, semifinal, disputa del 3° puesto y final). Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
+ Clasificarán para la semifinal, los equipos que ocupen las dos primeras posiciones en cada grupo. Los demás equipos de cada grupo disputarán las posiciones del 5° al 7° puesto (se enfrentarán en un cruce entre los 3° y 4° de cada grupo, para determinar los equipos que jugarán por el 5° y 7° puesto).
 CONMEBOL Copa Libertadores Femenina 2026
 Se jugará del 15 al 31 de octubre de 2026.
 CONMEBOL Copa Libertadores Fútbol Playa 2025
