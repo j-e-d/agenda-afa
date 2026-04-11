@@ -19,20 +19,6 @@ Gimnasia – Argentinos (Zona B)
  River – Atlético Tucumán (Zona B)
 Fecha 14
 Sábado 11 de abril
- 15.00 Deportivo Riestra – Instituto 
- Árbitro: Nazareno Arasa
- Árbitro asistente 1: Diego Martin
- Árbitro asistente 2: Mariana Dure
- Cuarto árbitro: Alejandro Scionti
- VAR: Germán Delfino
- AVAR: Diego Romero
- 15.30 Ind. Rivadavia Mza. – Argentinos 
- Árbitro: Darío Herrera
- Árbitro asistente 1: Damián Espinoza
- Árbitro asistente 2: Federico Cano
- Cuarto árbitro: Nelson Sosa
- VAR: Gastón Monsón Brizuela
- AVAR: Facundo Rodríguez
  17.15 Estudiantes – Unión 
  Árbitro: Yael Falcón Perez
  Árbitro asistente 1: Hugo Paez
@@ -549,92 +535,80 @@ Zona A
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
 FECHA 9
-San Miguel - Dep. Morón
- Árbitro: Juan Pafundi
- Asistente 1: Iván Aliende
- Asistente 2: Matías Noli
- Cuarto árbitro: Mariano Negrete
-San Telmo - Godoy Cruz (Mza.)
- Árbitro: Javier Delbarba
- Asistente 1: Andrés Barbieri
- Asistente 2: Diego Fernández
- Cuarto árbitro: Nicolás Rodríguez
-Almagro - Patronato (P.)
- Árbitro: Juan Cruz Robledo
- Asistente 1: Javier Mihura
- Asistente 2: Guillermo Yacante
- Cuarto árbitro: Jorge Broggi
-Central Norte (S.) - Mitre (S.E.)
- Árbitro: Carlos Córdoba
- Asistente 1: Matías González
- Asistente 2: Robertino Rosas
- Cuarto árbitro: Emanuel Ejarque
-Acassuso - Los Andes
- Árbitro: Nicolás Mastroieni
- Asistente 1: Mariano Rosetti
- Asistente 2: Mariano Cichetto
- Cuarto árbitro: Gonzalo Creimermann
-Ferro Carril Oeste - Estudiantes
- Árbitro: Matías Billone reemplaza a Franco Acita
- Asistente 1: Juan Ricciardi
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Marcos Recalde
-Def. de Belgrano - Cdad. de Bolívar
- Árbitro: Ariel Cruz
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Hernán Antola
- Cuarto árbitro: Kevin Alegre
-Chacarita Jrs. - G. y Tiro (S.)
- Árbitro: Fabrizio Llobet
- Asistente 1: Federico Pomi
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Jonathan Barrios
-Temperley - Quilmes A.C.
- Árbitro: Felipe Viola
- Asistente 1: Pablo Gualtieri
- Asistente 2: Agustín Méndez
- Cuarto árbitro: Manuel Girett
-Dep. Madryn - Alte. Brown
- Árbitro: Maximiliano Manduca
- Asistente 1: Emanuel Serale
- Asistente 2: Emiliano Bustos
- Cuarto árbitro: Marcelo Sanz
-Agropecuario Arg. - G. y Esgrima (J.)
- Árbitro: Nahuel Viñas
- Asistente 1: Daniel Zamora
- Asistente 2: Alejandro Scheneller
- Cuarto árbitro: Franco Morón
-Chaco For Ever - All Boys
- Árbitro: Federico Benítez
- Asistente 1: Matías Bianchi
- Asistente 2: Martín Grasso
- Cuarto árbitro: Nelson Sosa
-Güemes (S.E.) - San Martín (T.)
- Árbitro: Maximiliano Macheroni
- Asistente 1: Gonzalo Ferrari
- Asistente 2: Matías Coria
- Cuarto árbitro: Leandro Billanueva
-Dep. Maipú (Mza.) - Colegiales
- Árbitro: Lucas Cavallero
- Asistente 1: Guido Córdoba
- Asistente 2: Martín Saccone
- Cuarto árbitro: Francisco Acosta
-Colón - Racing (Cba.)
+ Sábado 11 de abril 
+ 19.00 Colón - Racing (Cba.)
  Árbitro: Joaquín Gil
  Asistente 1: Marcos Horticolou
  Asistente 2: Sebastián Osudar
  Cuarto árbitro: Nelson Bejas
-Nueva Chicago - F.C. Midland
+Domingo 12 de abril 
+15.00 Acassuso - Los Andes
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Mariano Rosetti
+ Asistente 2: Mariano Cichetto
+ Cuarto árbitro: Gonzalo Creimermann
+15.00 Ferro Carril Oeste - Estudiantes
+ Árbitro: Matías Billone reemplaza a Franco Acita
+ Asistente 1: Juan Ricciardi
+ Asistente 2: Lucas Vázquez
+ Cuarto árbitro: Marcos Recalde
+15.00 Def. de Belgrano - Cdad. de Bolívar
+ Árbitro: Ariel Cruz
+ Asistente 1: Juan Pablo Millenaar
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: Kevin Alegre
+15.00 Chacarita Jrs. - G. y Tiro (S.)
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Federico Pomi
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Jonathan Barrios
+15.00 Temperley - Quilmes A.C.
+ Árbitro: Felipe Viola
+ Asistente 1: Pablo Gualtieri
+ Asistente 2: Agustín Méndez
+ Cuarto árbitro: Manuel Girett
+16.00 Dep. Madryn - Alte. Brown
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Emanuel Serale
+ Asistente 2: Emiliano Bustos
+ Cuarto árbitro: Marcelo Sanz
+16.00 Agropecuario Arg. - G. y Esgrima (J.)
+ Árbitro: Nahuel Viñas
+ Asistente 1: Daniel Zamora
+ Asistente 2: Alejandro Scheneller
+ Cuarto árbitro: Franco Morón
+17.00 Chaco For Ever - All Boys
+ Árbitro: Federico Benítez
+ Asistente 1: Matías Bianchi
+ Asistente 2: Martín Grasso
+ Cuarto árbitro: Nelson Sosa
+17.00 Güemes (S.E.) - San Martín (T.)
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Gonzalo Ferrari
+ Asistente 2: Matías Coria
+ Cuarto árbitro: Leandro Billanueva
+ 17.00 Central Norte (S.) - Mitre (S.E.)
+ Árbitro: Carlos Córdoba
+ Asistente 1: Matías González
+ Asistente 2: Robertino Rosas
+ Cuarto árbitro: Emanuel Ejarque
+18.30 Dep. Maipú (Mza.) - Colegiales
+ Árbitro: Lucas Cavallero
+ Asistente 1: Guido Córdoba
+ Asistente 2: Martín Saccone
+ Cuarto árbitro: Francisco Acosta
+Lunes 13 de abril 
+19.00 Nueva Chicago - F.C. Midland
  Árbitro: Gonzalo Pereira
  Asistente 1: Mario Bardina
  Asistente 2: Federico García
  Cuarto árbitro: Damián Rubino
-Tristán Suárez - Atl. de Rafaela
+20.00 Tristán Suárez - Atl. de Rafaela
  Árbitro: Pablo Giménez
  Asistente 1: Diego Romero
  Asistente 2: Nicolás Gruccio
  Cuarto árbitro: Nicolás Kresta
-San Martín (SJ) - Atlanta
+21.30 San Martín (SJ) - Atlanta
  Árbitro: Bryan Ferreyra
  Asistente 1: Manuel Sánchez
  Asistente 2: Carlos Viglietti
@@ -1232,61 +1206,18 @@ Fecha 5
  Camioneros - Villa San Carlos 
  Sportivo Italiano - San Martín (B)
 Fecha 10
- Dep. Merlo - Ituzaingó
+Sábado 11 de abril 
+ 18.00 Dep. Merlo - Ituzaingó
  Árbitro: Ignacio Cuicchi
  Asistente 1: Matías Basso
  Asistente 2: Santiago Scalerandi
  Cuarto árbitro: Damián Rubino
-Camioneros - Dock Sud 
+Domingo 12 de abrill 
+15.00 Camioneros - Dock Sud 
  Árbitro: Valentín Bocaccia
  Asistente 1: Luis Rotman
  Asistente 2: Matías Panozzo
  Cuarto árbitro: Elías Viglione
- Sportivo Italiano - Comunicaciones 
- Árbitro: Wenceslao Meneses
- Asistente 1: Pablo Pastor
- Asistente 2: Gastón Borras
- Cuarto árbitro: Gonzalo Creimermann
- San Martín (B) - Def. Unidos 
- Árbitro: Ramiro Maglio
- Asistente 1: Juan Manuel Acevedo
- Asistente 2: Giuliano Grillo
- Cuarto árbitro: Martín Morenza
- Villa San Carlos - Argentino de Quilmes 
- Árbitro: David Cornejo
- Asistente 1: Damián Orellana
- Asistente 2: Carlos Suárez
- Cuarto árbitro: Nicolás Kresta
- Liniers - Flandria 
- Árbitro: Martín Despósito
- Asistente 1: Leonardo Aranda
- Asistente 2: Ludmila Capelli
- Cuarto árbitro: Kevin Alegre
- Real Pilar - Dep. Armenio 
- Árbitro: Julián Jerez
- Asistente 1: Rodrigo Arin
- Asistente 2: Martín Cingolani
- Cuarto árbitro: Guido Mascheroni
- UAI Urquiza - Brown (Adrogué) 
- Árbitro: Julián Beligoy
- Asistente 1: Felipe Arrechea
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Manuel Girett
- Villa Dálmine - Dep. Laferrere 
- Árbitro: Maximiliano López Monti
- Asistente 1: Diego Molina
- Asistente 2: Julieta Fernández
- Cuarto árbitro: Eduardo Coyto
- Excursionistas - Talleres (RE) 
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Ángel Rebuscini
- Asistente 2: Francisco Gugliota
- Cuarto árbitro: Tomás Aybar
- Arsenal - Argentino de Merlo
- Árbitro: Sebastián Bresba
- Asistente 1: Nahuel Santanocito
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Marcos Recalde
 Fecha 11
  Ituzaingó - Arsenal 
  Árbitro: Gabriel Gutiérrez
@@ -1727,72 +1658,45 @@ FECHA 6
  Asistente 2: Enzo Nell
  Cuarto árbitro: Matías Ansede
 Fecha 7
- Deportivo Español - General Lamadrid
- Árbitro: Agustín Flores
- Asistente 1: Alexis Etchepare
- Asistente 2: Sebastián Krojzl
- Cuarto árbitro: Facundo Carretero 
- Central Ballester - Fénix
- Árbitro: Ulises López
- Asistente 1: Roberto Rodríguez
- Asistente 2: Tomás Pérez
- Cuarto árbitro: Facundo Fuentes 
- Central Córdoba (R.) - Luján
- Árbitro: Agustín Panizza
- Asistente 1: Federico Machuca 
- Asistente 2: Bruno Santillán
- Cuarto árbitro: Sebastián Milessi 
- Deportivo Paraguayo - Sacachispas F.C.
- Árbitro: Alejandro Porticella
- Asistente 1: Matías Pino
- Asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Franco Porotelli 
- J.J. de Urquiza - Estrella del Sur
- Árbitro: Rodrigo Villalba
- Asistente 1: Matías Vargas
- Asistente 2: Fabrizio Osorio
- Cuarto árbitro: Ignacio Domínguez 
- L.N. Alem - Defensores de Cambaceres
- Árbitro: Ariadna Palacios
- Asistente 1: Diego Ortiz
- Asistente 2: Valentino Gaillard
- Cuarto árbitro: Lautaro Díaz 
- Mercedes - Argentino (R.)
+Sábado 11 de abril 
+ 17.00 Mercedes - Argentino (R.)
  Árbitro: Matías Ansede
  Asistente 1: Lucas García
  Asistente 2: Patricio Acuña
- Cuarto árbitro: Leandro Díaz 
- Cañuelas F.C. - Atlas
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Facundo Maldonado
- Asistente 2: Freddy Quelca Guarachi
- Cuarto árbitro: Manuel Prieto 
- Claypole - Sportivo Barracas
+ Cuarto árbitro: Leandro Díaz
+Domingo 12 de abril 
+ 15.30 Claypole - Sportivo Barracas
  Árbitro: Leandro Fedele
  Asistente 1: Federico Bozo
  Asistente 2: Nahuel Martín
  Cuarto árbitro: Juan Ferreyra 
- Centro Recreativo Español - Berazategui
+ 15.30 Centro Recreativo Español - Berazategui
  Árbitro: Mateo Bocaccia
  Asistente 1: Ignacio Otegui
  Asistente 2: Marcos Pueyo
  Cuarto árbitro: Nazareno Galeano 
- Puerto Nuevo - Juventud Unida
+ 15.30 Puerto Nuevo - Juventud Unida
  Árbitro: Iván Castelu Coca
  Asistente 1: Franco Boetti
  Asistente 2: Nicolás Cavagnaro
  Cuarto árbitro: Pablo Gómez 
- Victoriano Arenas - Lugano
+ 15.30 Victoriano Arenas - Lugano
  Árbitro: Iván Mastroieni
  Asistente 1: Rodrigo Mansilla
  Asistente 2: Mariela Martino
  Cuarto árbitro: Nicolás Díaz 
- Muñiz - Leones F.C.
+ Lunes 13 de abril 
+ 15.30 J.J. de Urquiza - Estrella del Sur
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Matías Vargas
+ Asistente 2: Fabrizio Osorio
+ Cuarto árbitro: Ignacio Domínguez 
+ 15.30 Muñiz - Leones F.C.
  Árbitro: Gabriel Flores
  Asistente 1: Felipe Onufrik
  Asistente 2: Tomás Otero
  Cuarto árbitro: Valentín Pérsico 
- Yupanqui - El Porvenir
+ 15.30 Yupanqui - El Porvenir
  Árbitro: Gonzalo Correa
  Asistente 1: Leandro Carril
  Asistente 2: Rodrigo Díaz
