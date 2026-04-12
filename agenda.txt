@@ -18,21 +18,6 @@ Gimnasia – Argentinos (Zona B)
  Central Córdoba – Boca (Zona A)
  River – Atlético Tucumán (Zona B)
 Fecha 14
-Sábado 11 de abril
- 19.30 Boca – Independiente 
- Árbitro: Andrés Merlos
- Árbitro asistente 1: Sebastián Raineri
- Árbitro asistente 2: Diego Bonfa
- Cuarto árbitro: Matías Billone
- VAR: Lucas Novelli
- AVAR: Mariano Ascenzi
- 21.45 Estudiantes (Río Cuarto) – Barracas Central 
- Árbitro: Pablo Dóvalo
- Árbitro asistente 1: Pablo González
- Árbitro asistente 2: Maximiliano Castelli
- Cuarto árbitro: Gastón Iglesias
- VAR: Silvio Trucco
- AVAR: Eduardo Lucero
 Domingo 12 de abril
  15.00 Newell’s – San Lorenzo 
  Árbitro: Sebastián Martinez
@@ -594,12 +579,6 @@ Zona A
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
 FECHA 9
- Sábado 11 de abril 
- 19.00 Colón - Racing (Cba.)
- Árbitro: Joaquín Gil
- Asistente 1: Marcos Horticolou
- Asistente 2: Sebastián Osudar
- Cuarto árbitro: Nelson Bejas
 Domingo 12 de abril 
 15.00 Acassuso - Los Andes
  Árbitro: Nicolás Mastroieni
@@ -656,6 +635,11 @@ Domingo 12 de abril
  Asistente 1: Guido Córdoba
  Asistente 2: Martín Saccone
  Cuarto árbitro: Francisco Acosta
+ 19.00 Colón - Racing (Cba.)
+ Árbitro: Joaquín Gil
+ Asistente 1: Marcos Horticolou
+ Asistente 2: Sebastián Osudar
+ Cuarto árbitro: Nelson Bejas
 Lunes 13 de abril 
 19.00 Nueva Chicago - F.C. Midland
  Árbitro: Gonzalo Pereira
@@ -1265,12 +1249,6 @@ Fecha 5
  Camioneros - Villa San Carlos 
  Sportivo Italiano - San Martín (B)
 Fecha 10
-Sábado 11 de abril 
- 18.00 Dep. Merlo - Ituzaingó
- Árbitro: Ignacio Cuicchi
- Asistente 1: Matías Basso
- Asistente 2: Santiago Scalerandi
- Cuarto árbitro: Damián Rubino
 Domingo 12 de abrill 
 15.00 Camioneros - Dock Sud 
  Árbitro: Valentín Bocaccia
@@ -1717,23 +1695,12 @@ FECHA 6
  Asistente 2: Enzo Nell
  Cuarto árbitro: Matías Ansede
 Fecha 7
-Sábado 11 de abril 
- 17.00 Mercedes - Argentino (R.)
- Árbitro: Matías Ansede
- Asistente 1: Lucas García
- Asistente 2: Patricio Acuña
- Cuarto árbitro: Leandro Díaz
 Domingo 12 de abril 
  15.30 Claypole - Sportivo Barracas
  Árbitro: Leandro Fedele
  Asistente 1: Federico Bozo
  Asistente 2: Nahuel Martín
  Cuarto árbitro: Juan Ferreyra 
- 15.30 Centro Recreativo Español - Berazategui
- Árbitro: Mateo Bocaccia
- Asistente 1: Ignacio Otegui
- Asistente 2: Marcos Pueyo
- Cuarto árbitro: Nazareno Galeano 
  15.30 Puerto Nuevo - Juventud Unida
  Árbitro: Iván Castelu Coca
  Asistente 1: Franco Boetti
@@ -2293,43 +2260,6 @@ ZONA 1:
  CIRCULO DEPORTIVO
  ALVARADO
  KIMBERLEY
-Sábado 11 de abril
-15.30 Alvarado - Kimberley Mdq
-Árbitro:
- Fernando Jesus Rekers
-Asistente 1:
- Malvina Lujan Schiel
-Asistente 2:
- Dario M. Rojas Martines
-Cuarto árbitro:
- Valentin Pompei
-16.30 Mitre Posadas - Sol de América
-Árbitro:
- Rodrigo Héctor Rivero
-Asistente 1:
- Luis Fernando Ortiz
-Asistente 2:
- Nestor Fabian Caceres
-Cuarto árbitro:
- Jonatan Daniel Mapelli
-18.30 Santamarina - Círculo Deportivo
-Árbitro:
- José Manuel Diaz
-Asistente 1:
- Federico Hernan Ojeda
-Asistente 2:
- Matías Edgardo Noguera
-Cuarto árbitro:
- Leandro Federico Hartfiel
-19.00 G. y Esgrima Cu - Independiente (Chi)
-Árbitro:
- Cesar Antonio Ceballo
-Asistente 1:
- Mariano Ramon González
-Asistente 2:
- Marcos David Guzman
-Cuarto árbitro:
- Santiago Schmoll
 Domingo 12 de abril 
 15.00 Germinal - Villa Mitre
 Árbitro:
