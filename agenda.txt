@@ -18,14 +18,7 @@ Gimnasia – Argentinos (Zona B)
  River – Atlético Tucumán (Zona B)
 Fecha 15
 Domingo 19 de abril
- 17.00 River – Boca – Interzonal
- Árbitro: Darío Herrera
- Árbitro asistente 1: Juan Pablo Belatti
- Árbitro asistente 2: Pablo González
- Cuarto árbitro: Juan Pafundi
- VAR: Hector Paletta
- AVAR: Sebastián Habib
- 20.30 Rosario Central – Sarmiento – Zona B
+20.30 Rosario Central – Sarmiento – Zona B
  Árbitro: Andrés Merlos
  Árbitro asistente 1: Gabriel Chade
  Árbitro asistente 2: Uriel García Leri
@@ -777,16 +770,6 @@ ZONA B
  ALMAGRO - ATLANTA
  PATRONATO (P.) - F.C. MIDLAND
  COLEGIALES - QUILMES A.C.
- Fecha 10 
- G. Y ESGRIMA (J.) - ALMAGRO
- PATRONATO (P.) - DEP. MAIPÚ (MZA.)
- COLEGIALES - TEMPERLEY
- QUILMES A.C. - NVA. CHICAGO
- F.C. MIDLAND - SAN MARTÍN (S.J.)
- ATLANTA - CHACARITA JRS.
- G. Y TIRO (S.) - GUEMES (S.E.)
- SAN MARTÍN (T.) - T. SUÁREZ
- AT. DE RAFAELA - AGROPECUARIO ARG.
  Fecha 11 
  AT. DE RAFAELA - G. Y ESGRIMA (J.)
  AGROPECUARIO ARG. - SAN MARTÍN (T.)
@@ -1686,21 +1669,6 @@ Berazategui C. Def. De Cambaceres
 Estrella Del Sur C. J. Unida
 Argentino (R.) C. Sacachispas F.C.
 Zona B
-Fecha 8 - 18/04/2026 
-Gral. Lamadrid C. V. Arenas
-Ctral. Córdoba (R.) C. Ctro. Rec. Español
-Mercedes C. Claypole
-Yupanqui C. Puerto Nuevo
-J. Unida C. Muñiz
-Sp. Barracas C. Dep. Paraguayo
-El Porvenir C. J.J. De Urquiza
-Argentino (R.) C. Atlas
-Sacachispas F.C. C. Dep. Español
-Luján C. Lugano
-Def. De Cambaceres C. Leones F.C.
-L.N. Alem C. Ctral. Ballester
-Estrella Del Sur C. Cañuelas F.C.
-Fénix C. Berazategui
 Fecha 9 - 25/04/2026 
 Atlas C. Yupanqui
 Leones F.C. C. Cañuelas F.C.
@@ -2120,8 +2088,6 @@ Fase de grupos:
 Fixture completo
 :
  Grupo A
- Mar. 14 de abril, 19:00 Estudiantes (LP) - Cusco FC
- Jue. 16 de abril, 21:30 Flamengo - Ind. Medellín
  Mié. 29 de abril, 21:30 Estudiantes (LP) - Flamengo
  Jue. 30 de abril, 23:00 Ind. Medellín - Cusco FC
  Mié. 6 de mayo, 19:00 Cusco FC Estudiantes (LP)
@@ -2158,7 +2124,6 @@ Fixture completo
  Jue. 28 de mayo, 21:30 Boca Juniors - Univ. Católica
  Jue. 28 de mayo, 21:30 Cruzeiro - Barcelona
  Grupo E
- Jue. 16 de abril, 21:30 Peñarol - Platense
  Mié. 29 de abril, 19:00 Platense - Santa Fe
  Jue. 30 de abril, 21:00 Corinthians - Peñarol
  Mié. 6 de mayo, 21:30 Santa Fe - Corinthians
@@ -2168,8 +2133,6 @@ Fixture completo
  Mié. 27 de mayo, 21:30 Peñarol - Santa Fe
  Mié. 27 de mayo, 21:30 Corinthians - Platense
  Grupo F
- Mar. 14 de abril, 19:00 Cerro Porteño - Junior
- Jue. 16 de abril, 19:00 Palmeiras - Sporting Cristal
  Mar. 28 de abril, 23:00 Sporting Cristal - Junior
  Mié. 29 de abril, 21:30 Cerro Porteño - Palmeiras
  Mar. 5 de mayo, 19:00 Sporting Cristal - Palmeiras
@@ -2179,8 +2142,6 @@ Fixture completo
  Jue. 28 de mayo, 19:00 Palmeiras - Junior
  Jue. 28 de mayo, 19:00 Cerro Porteño - Sporting Cristal
  Grupo G
- Mar. 14 de abril, 23:00 LDU Quito - Mirassol
- Jue. 16 de abril, 19:00 Lanús - Always Ready
  Mar. 28 de abril, 19:00 Lanús - LDU Quito
  Mié. 29 de abril, 19:00 Mirassol - Always Ready
  Mar. 5 de mayo, 21:30 Always Ready - Lanús
@@ -2199,7 +2160,6 @@ Fixture completo
  Mié. 27 de mayo, 19:00 Ind. del Valle - Rosario Central
  Mié. 27 de mayo, 19:00 Libertad - Univ. Central
  La Fase de Grupos de la CONMEBOL Libertadores comenzará a disputarse el próximo martes 7 de abril, semana en la que se completará su primera jornada. El resto de las fechas son las siguientes:
- Fecha 2: 14 al 16 de abril
  Fecha 3: 28 al 30 de abril
  Fecha 4: 5 al 7 de mayo
  Fecha 5: 19 al 21 de mayo
@@ -2227,7 +2187,6 @@ Fase de grupos
  Grupo H: River Plate (Argentina), Red Bull Bragantino (Brasil), Blooming (Bolivia) y Carabobo (Venezuela).
 Fixture completo 
  Grupo A
- Jue. 16 de abril, 19:00 Tigre - Macará
  Jue. 30 de abril, 23:00 Alianza Atlético - Macará
  Jue. 30 de abril, 21:00 Tigre - América de Cali
  Mié. 6 de mayo, 23:00 Alianza Atlético - América de Cali
@@ -2237,7 +2196,6 @@ Fixture completo
  Jue. 28 de mayo, 21:30 América de Cali - Macará
  Jue. 28 de mayo, 21:30 Tigre - Alianza Atlético
  Grupo B
- Jue. 16 de abril, 23:00 Cienciano - Academia Puerto Cabello
  Mié 29 de abril, 19:00 Juventud - Academia Puerto Cabello
  Mié 29 de abril, 21:30 Cienciano - Atlético Mineiro
  Mar. 5 de mayo, 19:00 Juventud Atlético Mineiro
@@ -2247,8 +2205,6 @@ Fixture completo
  Mié. 27 de mayo, 19:00 Atlético Mineiro - Academia Puerto Cabello
  Mié. 27 de mayo, 19:00 Cienciano - Juventud
  Grupo C
- Mar. 14 de abril, 19:00 San Pablo - O'Higgins
- Mar. 14 de abril, 23:00 Millonarios - Boston River
  Mar. 28 de abril, 23:00 O'Higgins - Boston River
  Mar. 28 de abril, 21:30 Millonarios - San Pablo
  Jue. 7 de mayo, 19:00 O'Higgins - San Pablo
@@ -2258,8 +2214,6 @@ Fixture completo
  Mar. 26 de mayo, 19:00 San Pablo - Boston River
  Mar. 26 de mayo, 19:00 Millonarios - O'Higgins
  Grupo D
- Mar. 14 de abril, 21:30 Santos - Recoleta
- Jue. 16 de abril, 21:30 San Lorenzo - Deportivo Cuenca
  Mar. 28 de abril, 19:00 Recoleta - Deportivo Cuenca
  Mar. 28 de abril, 19:00 San Lorenzo - Santos
  Mar. 5 de mayo, 21:30 Recoleta - Santos
@@ -2278,8 +2232,6 @@ Fixture completo
  Mié. 27 de mayo, 19:00 Racing - Independiente Petrolero
  Mié. 27 de mayo, 19:00 Caracas - Botafogo
  Grupo F
- Mar. 14 de abril, 19:00 Gremio - Deportivo Riestra
- Mar. 14 de abril, 21:30 Palestino - Montevideo City Torque
  Mié. 29 de abril, 19:00 Deportivo Riestra - Montevideo City Torque
  Mié. 29 de abril, 21:30 Palestino - Gremio
  Mar. 5 de mayo, 19:00 Deportivo Riestra - Gremio
@@ -2298,7 +2250,6 @@ Fixture completo
  Mié. 27 de mayo, 21:30 Olimpia - Audax Italiano
  Mié. 27 de mayo, 21:30 Vasco da Gama - Barracas Central
  Grupo H
- Jue. 16 de abril, 21:30 Bragantino - Blooming
  Jue. 30 de abril, 19:00 Carabobo - Blooming
  Jue. 30 de abril, 21:30 Bragantino - River Plate
  Jue. 7 de mayo, 21:30 Carabobo - River Plate
@@ -2308,7 +2259,6 @@ Fixture completo
  Mié. 27 de mayo, 21:30 River Plate - Blooming
  Mié. 27 de mayo, 21:30 Bragantino - Carabobo
  La Fase de Grupos de la CONMEBOL Sudamericana comenzará a disputarse el próximo martes 7 de abril, semana en la que se completará su primera jornada. El resto de las fechas son las siguientes:
- Fecha 2: 14 al 16 de abril
  Fecha 3: 28 al 30 de abril
  Fecha 4: 5 al 7 de mayo
  Fecha 5: 19 al 21 de mayo
