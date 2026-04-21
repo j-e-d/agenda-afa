@@ -403,16 +403,36 @@ Zona A
  DEF. DE BELGRANO - ALL BOYS
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
- Fecha 11 
- DEP. MORÓN - RACING (CBA.)
- COLÓN - GODOY CRUZ (MZA.)
- SAN MIGUEL - LOS ANDES
- SAN TELMO - ALL BOYS
- ACASSUSO - ESTUDIANTES
- CHACO FOR EVER - MITRE (S.E.)
- FERRO CARRIL OESTE - ALTE. BROWN
- CTRAL. NORTE (S.) - CDAD. DE BOLÍVAR
- DEP. MADRYN - DEF. DE BELGRANO
+Fecha 11
+Zona “A”
+Sábado
+25
+ de abril
+San Miguel - Los Andes, a las 15.30 horas
+San Telmo - All Boys, a las 15.30 horas
+Domingo 26 de abril
+Dep. Morón - Racing (Cba.), a las 15.00 horas
+Acassuso - Estudiantes, a las 15.30 horas
+Dep. Madryn - Def. de Belgrano, a las 16.00 horas
+Chaco For Ever - Mitre (S.E.), a las 17.00 horas
+Ctral. Norte - Cdad. Bolivar, a las 17.00 horas en estadio Padre E. Martearena
+Colon - Godoy Cruz, a las 19.00 horas
+Martes 28 de abril
+Ferro Carril Oeste - Alte. Brown, a las 19.30 horas
+Zona “B”
+Sábado 
+25
+ de abril
+Temperley - Patronato (Paraná), a las 15.30 horas
+San Martín (S.J.) - Quilmes A.-, a las 17.30 horas
+Atl. de Rafaela - G. y Esgrima (J.), a las 18.00 horas
+Domingo 26 de abril
+Tristán Suarez - G. y Tiro (Salta), a las 15.00 horas
+Nva. Chicago - Colegiales, a las 15.00 horas
+Chacarita Juniors - F.- Midland, a las 15.30 horas
+Agropecuario Arg. - San Martín (T.), a las 16.00 horas
+Güemes (S.E.) - Atlanta, a las 17.00
+Dep. Maipú - Almagro, a las 18.00 horas
  Fecha 12 
  RACING (CBA.) - DEP. MADRYN
  DEF. DE BELGRANO - CTRAL. NORTE (S.)
@@ -972,18 +992,22 @@ Fecha 12
  Árbitro asistente 1: Martín Giampaolo
  Árbitro asistente 2: Felipe Arrechea
  Cuarto árbitro: Jonathan Barrios
-Fecha 13 
- Ituzaingó - Excursionistas 
- Arsenal - Villa Dálmine 
- Argentino de Merlo - UAI Urquiza 
- Talleres (RE) - Real Pilar 
- Dep. Laferrere - Liniers 
- Brown (Adrogué) - Villa San Carlos 
- Dep. Armenio - San Martín (B) 
- Flandria - Sportivo Italiano 
- Argentino de Quilmes - Camioneros 
- Def. Unidos - Dep. Merlo 
- Comunicaciones - Dock Sud
+Fecha 13
+Sábado
+25
+ de abril
+Brown (Adrogué) - Villa San Carlos, a las 15.00 horas
+Ituzaingó - Excursionistas, a las 15.30 horas
+Arg. de Merlo - UAI - Urquiza, a las 15.30 horas 
+Flandria - Sp. Italiano, a las 15.30 horas 
+Arg. de Quilmes - Camioneros, a las 15.30 horas
+Def. Unidos - Dep. Merlo, a las 15.30 horas
+Domingo 26 de abril
+Dep. Armenio - San Martín (B.), a las 13.00 horas
+Arsenal F.C. - Villa Dálmine, a las 15.30 horas
+Talleres (R.E.) - Real Pilar F.C, a las 15.30 horas
+Dep. Laferrere - Liniers, a las 15.30 horas
+Comunicaciones - Sp. Dock Sud, a las 15.30 horas
 Fecha 14 
  Comunicaciones - Ituzaingó 
  Dock Sud - Def. Unidos 
@@ -1343,14 +1367,31 @@ FECHA 6
  Asistente 1: Matías Vargas
  Asistente 2: Enzo Nell
  Cuarto árbitro: Matías Ansede
-Fecha 9 - 25/04/2026 
-Lugano C. L.N. Alem
-Def. De Cambaceres C. Puerto Nuevo
-J. Unida C. Dep. Paraguayo
-Sacachispas F.C. C. Mercedes
-Argentino (R.) C. J.J. De Urquiza
-Estrella Del Sur C. Ctro. Rec. Español
-Berazategui C. V. Arenas
+Fecha 9
+Zona “A”
+Sábado 
+25
+ de abril
+Lugano - L.N. Alem, a las 15.30 horas
+Juv. Unida - Dep. Paraguayo, a las 15.30 horas
+Argentino (Ros.) - J.J. de Urquiza, a las 15.30 horas
+Domingo 26 de abril
+Def. de Cambaceres - Puerto Nuevo, a las 15.30 horas
+Sacachispas F.C - Mercedes, a las 15.30 horas
+Estrella del Sur - Rec Español, a las 15.30 horas
+Lunes 27 de abril
+Berazategui - Victoriano Arenas, a las 15.30 horas
+Zona “B”
+Sábado 25 de abril
+Atlas - Yupanqui, a las 15.30 horas
+Leones F.C - Cañuelas F.C. a las 15.30 horas en estadio Unión (Arroyo Seco)
+Gral. Lamadrid - Muñiz, a las 15.30 horas
+Domingo 26 de abril
+Luján - Dep. Español, a las 15.30 horas
+Fénix - Claypole, a las 15.30 horas en Dep. Merlo
+Lunes 27 de abril
+Sp. Barracas - Ctral. Córdoba (Ros.), a las 15.30 horas en Luján
+Ctral. Ballester - El Porvenir, a las 15.30 horas
 Fecha 10 - 02/05/2026 
 Berazategui C. Lugano
 V. Arenas C. Estrella Del Sur
