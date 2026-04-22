@@ -417,20 +417,75 @@ Banfield – Atlético Tucumán
 Torneo Proyección
 Fecha 10
  Miércoles 22 de abril
- 15.00 Unión – Colón (Interzonal) – Estadio 15 de Abril
- 15.00 Quilmes – Aldosivi (Interzonal) – Predio
- 15.00 Ferro – Vélez (Interzonal) – Pontevedra
- 15.00 Godoy Cruz – San Martín SJ (Interzonal) – Coquimbito
- 15.00 Atlético Rafaela – Sarmiento (Interzonal) – Predio
- 15.00 Banfield – Lanús (Interzonal) – Predio
- 20.00 Boca – River (Interzonal) – Boca Ezeiza
+ 15.00 Estudiantes – Gimnasia – City Bell
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Facundo Maldonado
+ Árbitro asistente 2: Patricio Acuña
+ Cuarto árbitro: Nicolás Díaz
+ 15.00 Unión – Colón – Estadio 15 de Abril
+ Árbitro: Sebastián Milessi
+ Árbitro asistente 1: Diego Ortiz
+ Árbitro asistente 2: Bruno Santillán
+ Cuarto árbitro: Franco Gutierre
+ 15.00 Quilmes – Aldosivi – Predio
+ Árbitro: Valentín Pérsico
+ Árbitro asistente 1: Gonzalo Cubillas
+ Árbitro asistente 2: Lucas Burgos
+ Cuarto árbitro: Roberta Echeverría
+ 15.00 Ferro – Vélez – Auxiliar Caballito
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Franco Boetti
+ Árbitro asistente 2: Berenice Avaro
+ Cuarto árbitro: Camila Gette
+ 15.00 Godoy Cruz – San Martín SJ – Feliciano Gambarte
+ Árbitro: Franco Porotelli
+ Árbitro asistente 1: Rodolfo Rodríguez
+ Árbitro asistente 2: Luis Taboada
+ Cuarto árbitro: Lautaro Díaz
+ 15.00 Atlético Rafaela – Sarmiento – Predio
+ Árbitro: Leandro Díaz
+ Árbitro asistente 1: Nicolás Ruíz Segovia
+ Árbitro asistente 2: Santiago Galván
+ 15.00 Banfield – Lanús – Predio
+ Árbitro: Facundo Fuentes
+ Árbitro asistente 1: Felipe Onnufrik
+ Árbitro asistente 2: Fabricio Osorio
+ Cuarto árbitro: Joaquín García Casas
+ 20.00 Boca – River – Boca Ezeiza
+ Árbitro: Ignacio Domínguez
+ Árbitro asistente 1: Jonathan Florentín
+ Árbitro asistente 2: Roberto Rodríguez
+ Cuarto árbitro: Antonela Álvarez
  Jueves 23 de abril
- 15.00 Platense – Argentinos (Interzonal) – Predio
- 15.00 Estudiantes (Río Cuarto) – Instituto (Interzonal) – Ciudad Deportiva
- 15.00 Barracas Central – Deportivo Riestra (Interzonal) – Aefip
- 15.00 Huracán – San Lorenzo (Interzonal) – La Quemita
- 18.00 Gimnasia (Mza.) – Ind. Rivadavia Mza. (Interzonal) – Estadio
- 18.00 Talleres – Belgrano (Interzonal) – La Boutique
+ 14.30 Barracas Central – Deportivo Riestra – estadio Excursionistas
+ Árbitro: Micaela Abelardo
+ Árbitro asistente 1: Luciano Cabral
+ Árbitro asistente 2: Guillermo Maidana
+ Cuarto árbitro: Simón Laborda Paredes
+ 15.00 Platense – Argentinos – Predio
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Freddy Quelca Guarachi
+ Cuarto árbitro: Rodrigo Amadeo
+ 15.00 Estudiantes (Río Cuarto) – Instituto – Ciudad Deportiva
+ Árbitro: Mauro Trinidad
+ Árbitro asistente 1: Nahuel Martin
+ Árbitro asistente 2: Mateo Cueto
+ 15.00 Huracán – San Lorenzo – La Quemita
+ Árbitro: Manuel Prieto
+ Árbitro asistente 1: Matías Vargas
+ Árbitro asistente 2: Tomás Otero
+ Cuarto árbitro: Antonela Álvarez
+ 18.00 Gimnasia (Mza.) – Ind. Rivadavia Mza. – Estadio
+ Árbitro: Pablo Gómez
+ Árbitro asistente 1: Sebastián Krojzl
+ Árbitro asistente 2: Matías Chena
+ Cuarto árbitro: Lautaro Díaz
+ 18.00 Talleres – Belgrano – La Boutique
+ Árbitro: Ariadna Palacios
+ Árbitro asistente 1: Leandro Idio
+ Árbitro asistente 2: Tomás Pérez
+ Cuarto árbitro: Leonardo Cristaldo
  Fecha 11
  Martes 28 de abril
  15.00 Gimnasia – Tigre (Zona A) – Estancia Chica
@@ -2142,6 +2197,186 @@ ZONA 1:
  ALVARADO
  KIMBERLEY
 Torneo Regional Amateur
+ZONA A
+ Fecha 1
+ ATL. PILAR c. NÁUTICO HACOAJ
+ DEF. DE GLEW c. JUV. DE BERNAL
+ PCIAL. DE LOBOS c. S.A.T.
+ ESTRELLA DE BERISSO c. DEP. METALÚRGICO
+ Fecha 2
+ ESTRELLA DE BERISSO c. ATL. PILAR
+ DEP. METALÚRGICO c. PCIAL. DE LOBOS
+ S.A.T. c. DEF. DE GLEW
+ JUV. DE BERNAL c. NÁUTICO HACOAJ
+ Fecha 3
+ ATL. PILAR c. JUV. DE BERNAL
+ NÁUTICO HACOAJ c. S.A.T.
+ DEF. DE GLEW c. DEP. METALÚRGICO
+ PCIAL. DE LOBOS c. ESTRELLA DE BERISSO
+ Fecha 4
+ PCIAL. DE LOBOS c. ATL. PILAR
+ ESTRELLA DE BERISSO c. DEF. DE GLEW
+ DEP. METALÚRGICO c. NÁUTICO HACOAJ
+ S.A.T. c. JUV. DE BERNAL
+ Fecha 5
+ ATL. PILAR c. S.A.T.
+ JUV. DE BERNAL c. DEP. METALÚRGICO
+ NÁUTICO HACOAJ c. ESTRELLA DE BERISSO
+ DEF. DE GLEW c. PCIAL. DE LOBOS
+ Fecha 6
+ DEF. DE GLEW c. ATL. PILAR
+ PCIAL. DE LOBOS c. NÁUTICO HACOAJ
+ ESTRELLA DE BERISSO c. JUV. DE BERNAL
+ DEP. METALÚRGICO c. S.A.T.
+ Fecha 7
+ ATL. PILAR c. DEP. METALÚRGICO
+ S.A.T. c. ESTRELLA DE BERISSO
+ JUV. DE BERNAL c. PCIAL. DE LOBOS
+ NÁUTICO HACOAJ c. DEF. DE GLEW
+ Fecha 8
+ NÁUTICO HACOAJ c. ATL. PILAR
+ JUV. DE BERNAL c. DEF. DE GLEW
+ S.A.T. c. PCIAL. DE LOBOS
+ DEP. METALÚRGICO c. ESTRELLA DE BERISSO
+ Fecha 9
+ ATL. PILAR c. ESTRELLA DE BERISSO
+ PCIAL. DE LOBOS c. DEP. METALÚRGICO
+ DEF. DE GLEW c. S.A.T.
+ NÁUTICO HACOAJ c. JUV. DE BERNAL
+ Fecha 10
+ JUV. DE BERNAL c. ATL. PILAR
+ S.A.T. c. NÁUTICO HACOAJ
+ DEP. METALÚRGICO c. DEF. DE GLEW
+ ESTRELLA DE BERISSO c. PCIAL. DE LOBOS
+ Fecha 11
+ ATL. PILAR c. PCIAL. DE LOBOS
+ DEF. DE GLEW c. ESTRELLA DE BERISSO
+ NÁUTICO HACOAJ c. DEP. METALÚRGICO
+ JUV. DE BERNAL c. S.A.T.
+ Fecha 12
+ S.A.T. c. ATL. PILAR
+ DEP. METALÚRGICO c. JUV. DE BERNAL
+ ESTRELLA DE BERISSO c. NÁUTICO HACOAJ
+ PCIAL. DE LOBOS c. DEF. DE GLEW
+ Fecha 13
+ ATL. PILAR c. DEF. DE GLEW
+ NÁUTICO HACOAJ c. PCIAL. DE LOBOS
+ JUV. DE BERNAL c. ESTRELLA DE BERISSO
+ S.A.T. c. DEP. METALÚRGICO
+ Fecha 14
+ DEP. METALÚRGICO c. ATL. PILAR
+ ESTRELLA DE BERISSO c. S.A.T.
+ PCIAL. DE LOBOS c. JUV. DE BERNAL
+ DEF. DE GLEW c. NÁUTICO HACOAJ
+ ZONA B
+ Fecha 1
+ LIBRE URIBELARREA
+ ALUMNI c. BELGRANO (ZÁRATE)
+ LA MANDARINA c. C. ORIENTADO
+ EVERTON c. BUENOS AIRES CITY
+ EZEIZA F.C. c. BARRANCAS F.C.
+ Fecha 2
+ EZEIZA F.C. LIBRE
+ BARRANCAS F.C. c. EVERTON
+ BUENOS AIRES CITY c. LA MANDARINA
+ C. ORIENTADO c. ALUMNI
+ BELGRANO (ZÁRATE) c. URIBELARREA
+ Fecha 3
+ LIBRE BELGRANO (ZÁRATE)
+ URIBELARREA c. C. ORIENTADO
+ ALUMNI c. BUENOS AIRES CITY
+ LA MANDARINA c. BARRANCAS F.C.
+ EVERTON c. EZEIZA F.C.
+ Fecha 4
+ EVERTON LIBRE
+ EZEIZA F.C. c. LA MANDARINA
+ BARRANCAS F.C. c. ALUMNI
+ BUENOS AIRES CITY c. URIBELARREA
+ C. ORIENTADO c. BELGRANO (ZÁRATE)
+ Fecha 5
+ LIBRE C. ORIENTADO
+ BELGRANO (ZÁRATE) c. BUENOS AIRES CITY
+ URIBELARREA c. BARRANCAS F.C.
+ ALUMNI c. EZEIZA F.C.
+ LA MANDARINA c. EVERTON
+ Fecha 6
+ LA MANDARINA LIBRE
+ EVERTON c. ALUMNI
+ EZEIZA F.C. c. URIBELARREA
+ BARRANCAS F.C. c. BELGRANO (ZÁRATE)
+ BUENOS AIRES CITY c. C. ORIENTADO
+ Fecha 7
+ LIBRE BUENOS AIRES CITY
+ C. ORIENTADO c. BARRANCAS F.C.
+ BELGRANO (ZÁRATE) c. EZEIZA F.C.
+ URIBELARREA c. EVERTON
+ ALUMNI c. LA MANDARINA
+ Fecha 8
+ ALUMNI LIBRE
+ LA MANDARINA c. URIBELARREA
+ EVERTON c. BELGRANO (ZÁRATE)
+ EZEIZA F.C. c. C. ORIENTADO
+ BARRANCAS F.C. c. BUENOS AIRES CITY
+ Fecha 9
+ LIBRE BARRANCAS F.C.
+ BUENOS AIRES CITY c. EZEIZA F.C.
+ C. ORIENTADO c. EVERTON
+ BELGRANO (ZÁRATE) c. LA MANDARINA
+ URIBELARREA c. ALUMNI
+ Fecha 10
+ URIBELARREA LIBRE
+ BELGRANO (ZÁRATE) c. ALUMNI
+ C. ORIENTADO c. LA MANDARINA
+ BUENOS AIRES CITY c. EVERTON
+ BARRANCAS F.C. c. EZEIZA F.C.
+ Fecha 11
+ LIBRE EZEIZA F.C.
+ EVERTON c. BARRANCAS F.C.
+ LA MANDARINA c. BUENOS AIRES CITY
+ ALUMNI c. C. ORIENTADO
+ URIBELARREA c. BELGRANO (ZÁRATE)
+ Fecha 12
+ BELGRANO (ZÁRATE) LIBRE
+ C. ORIENTADO c. URIBELARREA
+ BUENOS AIRES CITY c. ALUMNI
+ BARRANCAS F.C. c. LA MANDARINA
+ EZEIZA F.C. c. EVERTON
+ Fecha 13
+ LIBRE EVERTON
+ LA MANDARINA c. EZEIZA F.C.
+ ALUMNI c. BARRANCAS F.C.
+ URIBELARREA c. BUENOS AIRES CITY
+ BELGRANO (ZÁRATE) c. C. ORIENTADO
+ Fecha 14
+ C. ORIENTADO LIBRE
+ BUENOS AIRES CITY c. BELGRANO (ZÁRATE)
+ BARRANCAS F.C. c. URIBELARREA
+ EZEIZA F.C. c. ALUMNI
+ EVERTON c. LA MANDARINA
+ Fecha 15
+ LIBRE LA MANDARINA
+ ALUMNI c. EVERTON
+ URIBELARREA c. EZEIZA F.C.
+ BELGRANO (ZÁRATE) c. BARRANCAS F.C.
+ C. ORIENTADO c. BUENOS AIRES CITY
+ Fecha 16
+ BUENOS AIRES CITY LIBRE
+ BARRANCAS F.C. c. C. ORIENTADO
+ EZEIZA F.C. c. BELGRANO (ZÁRATE)
+ EVERTON c. URIBELARREA
+ LA MANDARINA c. ALUMNI
+ Fecha 17
+ LIBRE ALUMNI
+ URIBELARREA c. LA MANDARINA
+ BELGRANO (ZÁRATE) c. EVERTON
+ C. ORIENTADO c. EZEIZA F.C.
+ BUENOS AIRES CITY c. BARRANCAS F.C.
+ Fecha 18
+ BARRANCAS F.C. LIBRE
+ EZEIZA F.C. c. BUENOS AIRES CITY
+ EVERTON c. C. ORIENTADO
+ LA MANDARINA c. BELGRANO (ZÁRATE)
+ ALUMNI c. URIBELARREA
 Fútbol Femenino de Primera División A 
 Jornada 4 
 Viernes 24 de abril 
@@ -2789,7 +3024,27 @@ Se jugará del 5 al 13 de septiembre de 2026.
 Finalissima Futsal 2026
 Se jugará del 5 al 8 de noviembre de 2026.
 CONMEBOL Copa Libertadores de Futsal 2026
-Se jugará del 24 al 31 de mayo de 2026.
+Grupos de la CONMEBOL Libertadores Futsal 2026 que se disputará en Carlos Barbosa, Brasil, del 24 al 31 de mayo de 2026.
+ Grupo A:
+ Peñarol (Uruguay)
+ Fantasmas Morales Moralitos (Bolivia)
+ Boca Juniors (Argentina)
+ Carlos Barbosa (Brasil)
+ Grupo B:
+ Magnus Futsal (Brasil)
+ Centauros (Venezuela)
+ Panta Walon (Perú)
+ Divino Niño (Ecuador)
+ Grupo C:
+ Nacional (Uruguay)
+ Cerro Porteño (Paraguay)
+ Deportivo Lyon Cali (Colombia)
+ Colo-Colo (Chile)
+ – Formato de competencia –
+ La CONMEBOL Libertadores Futsal 2026 se disputará en 2 fases: Fase Preliminar (fase de grupos) y Fase Final (disputas de los 3° al 12º puesto, cuartos de final, semifinal, y final).
+ Todas las fases se jugarán a una sola rueda de partidos.
+ La Fase Preliminar la disputan los 12 equipos clasificados, distribuidos en 3 grupos de 4 equipos cada uno. La conformación de los 3 grupos corresponderá al resultado del sorteo organizado por la CONMEBOL.
+ Clasificarán para los CUARTOS DE FINAL, los equipos que ocupen las dos primeras posiciones en cada grupo, más los dos mejores terceros colocados, teniendo en cuenta los tres grupos (1A, 1B, 1C, 2A, 2B, 2C y los dos mejores 3° colocados).
 CONMEBOL Copa Libertadores Futsal Femenina 2026
 Se jugará del 26 de julio al 2 de agosto de 2026.
 Copa Mundial Sub 20 Femenina 2026
@@ -2798,7 +3053,6 @@ Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 4; Concacaf: 4;
 Copa Mundial Sub 17 Femenina 2025-2029
 Marruecos será el país organizador.
 Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 5; Concacaf: 4; CONMEBOL: 4; OFC: 2; UEFA: 5.
-CONMEBOL Sub 17 2026
 Liga de Naciones Femenina 2025-2026
 Fixture de la Selección Argentina Femenina
  • Jornada 8 - Argentina vs. Perú - 5 de junio 2026
