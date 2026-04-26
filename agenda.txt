@@ -2102,10 +2102,6 @@ ZONA A
  ALUMNI c. URIBELARREA
 Fútbol Femenino de Primera División A 
 Jornada 4
-Domingo 26 de abril 
-11.00 Independiente - Huracán, en Predio Santo Domingo 
-16.30 Ferro - Newell's, en Sintético Caballito
-16.30 San Luis - River, en Villa Deportiva San Luis
 Lunes 27 de abril 
 18.30 Talleres - Racing, Estadio Boutique
 Todos los partidos serán transmitidos por LPF Play.
@@ -2219,6 +2215,51 @@ Fase de grupos:
  Grupo F: Palmeiras (Brasil), Cerro Porteño (Paraguay), Junior (Colombia) y Sporting Cristal (Perú).
  Grupo G: Liga de Quito (Ecuador), Lanús (Argentina), Always Ready (Bolivia) y Mirassol (Brasil).
  Grupo H: Independiente del Valle (Ecuador), Libertad (Paraguay), Rosario Central (Argentina) y Universidad Central (Venezuela).
+Martes 28 de abril
+ 19.00 Lanús - Liga de Quito
+ Árbitro: José Cabero (Chile)
+ Asistente 1: José Retamal (Chile)
+ Asistente 2: Miguel Rocha (Chile)
+ Cuarto árbitro: Diego Flores (Chile)
+ VAR: Juan Lara (Chile)
+ AVAR: Edson Cisternas (Chile)
+ 21.00 Universidad Central de Venezuela - Rosario Central
+ Árbitro: José Burgos (Uruguay)
+ Asistente 1: Carlos Barreiro (Uruguay)
+ Asistente 2: Pablo Llarena (Uruguay)
+ Cuarto árbitro: Andrés Matonte (Uruguay)
+ VAR: Christian Ferreyra (Uruguay)
+ AVAR: Richard Trinidad (Uruguay)
+ 21.30 Cruzeiro - Boca
+ Árbitro: Esteban Ostojich (Uruguay) 
+ Asistente 1: Nicolás Tarán (Uruguay)
+ Asistente 2: Andrés Nievas (Uruguay)
+ Cuarto árbitro: Yender Herrera (Venezuela)
+ VAR: Andrés Cunha (Uruguay)
+ AVAR: Santiago Fernández (Uruguay)
+ Miércoles 29 de abril
+ 19.00 Platense - Santa Fe de Colombia
+ Árbitro: Alexis Herrera (Venezuela) 
+ Asistente 1: Lubin Torrealba (Venezuela) 
+ Asistente 2: Antoni García (Venezuela) 
+ Cuarto árbitro: Alejandro Velázquez (Venezuela) 
+ VAR: Reyes Soto (Venezuela) 
+ AVAR: Marco Suárez (Venezuela) 
+ 21.30 Estudiantes - Flamengo
+ Árbitro: Piero Maza (Chile)
+ Asistente 1: José Retamal (Chile)
+ Asistente 2: Miguel Rocha (Chile)
+ Cuarto árbitro: Diego Flores (Chile)
+ VAR: Juan Jara (Chile)
+ AVAR: Edson Cisternas (Chile)
+ Jueves 30 de abril
+ 19.00 Independiente Rivadavia - Deportivo Guaira
+ Árbitro: Augusto Menéndez (Perú) 
+ Asistente 1: Michael Orue (Perú) 
+ Asistente 2: Jesús Sánchez (Perú) 
+ Cuarto árbitro: Kevin Ortega (Perú) 
+ VAR: Diego Haro (Perú) 
+ AVAR: Alberth Alarcon (Perú) 
 Fixture completo
 :
  Grupo A
@@ -2319,6 +2360,51 @@ Fase de grupos
  Grupo F: Gremio (Brasil), Palestino (Chile), Montevideo City Torque (Uruguay) y Deportivo Riestra (Argentina).
  Grupo G: Olimpia (Paraguay), Vasco da Gama (Brasil), Audax Italiano (Chile) y Barracas Central (Argentina).
  Grupo H: River Plate (Argentina), Red Bull Bragantino (Brasil), Blooming (Bolivia) y Carabobo (Venezuela).
+Martes 28 de abril
+ 19.00 San Lorenzo - Santos
+ Árbitro: Jhon Ospina (Colombia)
+ Asistente 1: David Fuentes (Colombia)
+ Asistente 2: Miguel Roldán (Colombia)
+ Cuarto árbitro: Javier Revollo (Bolivia)
+ VAR: David Rodríguez (Colombia)
+ AVAR: Luis Picón (Colombia)
+ 21.00 Barracas Central - Audaz Italiano
+ Árbitro: Kevin Ortega (Perú)
+ Asistente 1: Michael Orué (Perú) 
+ Asistente 2: Jesús Sánchez (Perú) 
+ Cuarto árbitro: Augusto Menéndez (Perú) 
+ VAR: Diego Haro (Perú) 
+ AVAR: Alberth Alarcón (Perú) 
+ Miércoles 29 de abril
+ 19.00 Caracas - Racing
+ Árbitro: Andrés Matonte (Uruguay)
+ Asistente 1: Carlos Barreiro (Uruguay)
+ Asistente 2: Pablo Llarena (Uruguay)
+ Cuarto árbitro: José Burgos (Uruguay)
+ VAR: Christian Ferreyra (Uruguay)
+ AVAR: Richard Trinidad (Uruguay)
+ 19.00 Deportivo Riestra - Montevideo City Torque
+ Árbitro: Bryan Loayza (Ecuador)
+ Asistente 1: Richard Baren (Ecuador)
+ Asistente 2: Juan Aguiar (Ecuador)
+ Cuarto árbitro: Yerson Zambrano (Ecuador)
+ VAR: Gabriel González (Ecuador)
+ AVAR: Luis Quiroz (Ecuador)
+ Jueves 30 de abril
+ Tigre - América de Cali
+ Árbitro: Mathías de Armas (Uruguay)
+ Asistente 1: Héctor Bergalo (Uruguay)
+ Asistente 2: Mathías Muñiz (Uruguay)
+ Cuarto árbitro: Nadie Fuques (Uruguay)
+ VAR: Leodán González (Uruguay)
+ AVAR: Anahí Fernández (Uruguay)
+ 21.30 Bragantino - River
+ Árbitro: Wilmar Roldán (Colombia)
+ Asistente 1: Jhon León (Colombia)
+ Asistente 2: Jhon Gallego (Colombia)
+ Cuarto árbitro: Carlos Ortega (Colombia)
+ VAR: Leonard Mosquera (Colombia)
+ AVAR: Sebastián Vela (Colombia)
 Fixture completo 
  Grupo A
  Jue. 30 de abril, 23:00 Alianza Atlético - Macará
