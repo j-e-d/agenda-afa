@@ -398,35 +398,6 @@ Banfield – Atlético Tucumán
  Aldosivi – River
 Torneo Proyección
  Fecha 11
- Miércoles 29 de abril
- 13.30 Ferro – Atlético Rafaela (Zona B) – Auxiliar Caballito
- Árbitro: Leonardo Cristaldo
- Árbitro asistente 1: Luciano Cabral
- Árbitro asistente 2: Ian Avalos
- Cuarto árbitro: Mauro Trinidad
- 15.00 Argentinos – Vélez (Zona A) – CEFFA
- Árbitro: Facundo Fuentes
- Árbitro asistente 1: Leandro Idio
- Árbitro asistente 2: Enzo Nell
- Cuarto árbitro: Ignacio Domínguez
- 15.00 Lanús – San Martín SJ (Zona B) – Auxiliar
- Árbitro: Ariadna Palacios
- Árbitro asistente 1: Mara Díaz
- Árbitro asistente 2: Berenice Avaro
- Cuarto árbitro: Micaela Abelardo
- 15.00 Belgrano – Ind. Rivadavia Mza. (Zona B) – Predio
- Árbitro: Sebastián Milessi
- Árbitro asistente 1: Oscar Maidana
- Árbitro asistente 2: Luis Taboada
- 15.00 Unión – Rosario Central (Zona A) – La Tatenguita
- Árbitro: Joaquín García Casas
- Árbitro asistente 1: Roberto Rodríguez
- Árbitro asistente 2: Agustín Cellucci
- 19.00 Gimnasia (Mza.) – Barracas Central (Zona A) – Estadio
- Árbitro: Camila Gette
- Árbitro asistente 1: Mauro Soria
- Árbitro asistente 2: Agustín Fischetti
- Cuarto árbitro: Antonela Álvarez
  Jueves 30 de abril
  15.00 Estudiantes (Río Cuarto) – Quilmes (Zona B) – Ciudad Deportiva
  Árbitro: Rodrigo Amadeo
@@ -2498,21 +2469,6 @@ Fase de grupos:
  Grupo F: Palmeiras (Brasil), Cerro Porteño (Paraguay), Junior (Colombia) y Sporting Cristal (Perú).
  Grupo G: Liga de Quito (Ecuador), Lanús (Argentina), Always Ready (Bolivia) y Mirassol (Brasil).
  Grupo H: Independiente del Valle (Ecuador), Libertad (Paraguay), Rosario Central (Argentina) y Universidad Central (Venezuela).
- Miércoles 29 de abril
- 19.00 Platense - Santa Fe de Colombia
- Árbitro: Alexis Herrera (Venezuela) 
- Asistente 1: Lubin Torrealba (Venezuela) 
- Asistente 2: Antoni García (Venezuela) 
- Cuarto árbitro: Alejandro Velázquez (Venezuela) 
- VAR: Reyes Soto (Venezuela) 
- AVAR: Marco Suárez (Venezuela) 
- 21.30 Estudiantes - Flamengo
- Árbitro: Piero Maza (Chile)
- Asistente 1: José Retamal (Chile)
- Asistente 2: Miguel Rocha (Chile)
- Cuarto árbitro: Diego Flores (Chile)
- VAR: Juan Jara (Chile)
- AVAR: Edson Cisternas (Chile)
  Jueves 30 de abril
  19.00 Independiente Rivadavia - Deportivo Guaira
  Árbitro: Augusto Menéndez (Perú) 
@@ -2524,8 +2480,6 @@ Fase de grupos:
 Fixture completo
 :
  Grupo A
- Mié. 29 de abril, 21:30 Estudiantes (LP) - Flamengo
- Jue. 30 de abril, 23:00 Ind. Medellín - Cusco FC
  Mié. 6 de mayo, 19:00 Cusco FC Estudiantes (LP)
  Jue. 7 de mayo, 21:30 Ind. Medellín - Flamengo
  Mié. 20 de mayo, 21:30 Flamengo - Estudiantes (LP)
@@ -2533,8 +2487,6 @@ Fixture completo
  Mar. 26 de mayo, 21:30 Flamengo - Cusco FC
  Mar. 26 de mayo, 21:30 Estudiantes (LP) - Ind. Medellín
  Grupo B
- Mar. 28 de abril, 23:00 Deportes Tolima - Coquimbo Unido
- Mié. 29 de abril, 23:00 Universitario - Nacional (Uruguay)
  Mié. 6 de mayo, 23:00 Deportes Tolima - Nacional (Uruguay)
  Jue. 7 de mayo, 21:00 Coquimbo Unido - Universitario
  Mar. 19 de mayo, 19:00 Coquimbo Unido - Deportes Tolima
@@ -2542,8 +2494,6 @@ Fixture completo
  Mar. 26 de mayo, 21:30 Nacional (Uruguay) - Coquimbo Unido
  Mar. 26 de mayo, 21:30 Universitario - Deportes Tolima
  Grupo C
- Jue. 30 de abril, 19:00 Ind. Rivadavia - Dep. La Guaira
- Jue. 30 de abril, 19:00 Bolívar - Fluminense
  Mié. 6 de mayo, 19:00 Dep. La Guaira - Bolívar
  Mié. 6 de mayo, 21:30 Ind. Rivadavia - Fluminense
  Mar. 19 de mayo, 19:00 Fluminense - Bolívar
@@ -2551,8 +2501,6 @@ Fixture completo
  Mié. 27 de mayo, 21:30 Fluminense - Dep. La Guaira
  Mié. 27 de mayo, 21:30 Bolívar - Ind. Rivadavia
  Grupo D
- Mar. 28 de abril, 21:30 Cruzeiro - Boca Juniors
- Mié. 29 de abril, 21:00 Barcelona - Univ. Católica
  Mar. 5 de mayo, 21:00 Barcelona - Boca Juniors
  Mié. 6 de mayo, 23:00 Univ. Católica - Cruzeiro
  Mar. 19 de mayo, 21:30 Boca Juniors - Cruzeiro
@@ -2560,8 +2508,6 @@ Fixture completo
  Jue. 28 de mayo, 21:30 Boca Juniors - Univ. Católica
  Jue. 28 de mayo, 21:30 Cruzeiro - Barcelona
  Grupo E
- Mié. 29 de abril, 19:00 Platense - Santa Fe
- Jue. 30 de abril, 21:00 Corinthians - Peñarol
  Mié. 6 de mayo, 21:30 Santa Fe - Corinthians
  Jue. 7 de mayo, 19:00 Platense - Peñarol
  Mar. 19 de mayo, 21:00 Santa Fe - Platense
@@ -2569,8 +2515,6 @@ Fixture completo
  Mié. 27 de mayo, 21:30 Peñarol - Santa Fe
  Mié. 27 de mayo, 21:30 Corinthians - Platense
  Grupo F
- Mar. 28 de abril, 23:00 Sporting Cristal - Junior
- Mié. 29 de abril, 21:30 Cerro Porteño - Palmeiras
  Mar. 5 de mayo, 19:00 Sporting Cristal - Palmeiras
  Jue. 7 de mayo, 23:00 Junior -Cerro Porteño
  Mié. 20 de mayo, 21:30 Palmeiras - Cerro Porteño
@@ -2578,8 +2522,6 @@ Fixture completo
  Jue. 28 de mayo, 19:00 Palmeiras - Junior
  Jue. 28 de mayo, 19:00 Cerro Porteño - Sporting Cristal
  Grupo G
- Mar. 28 de abril, 19:00 Lanús - LDU Quito
- Mié. 29 de abril, 19:00 Mirassol - Always Ready
  Mar. 5 de mayo, 21:30 Always Ready - Lanús
  Jue. 7 de mayo, 19:00 Mirassol - LDU Quito
  Mar. 19 de mayo, 21:00 Always Ready - Mirassol
@@ -2587,8 +2529,6 @@ Fixture completo
  Mar. 26 de mayo, 19:00 LDU Quito - Always Ready
  Mar. 26 de mayo, 19:00 Lanús - Mirassol
  Grupo H
- Mar. 28 de abril, 19:00 Libertad - Ind. del Valle
- Mar. 28 de abril, 21:00 Univ. Central - Rosario Central
  Mar. 5 de mayo, 19:00 Rosario Central - Libertad
  Mar. 5 de mayo, 21:00 Univ. Central - Ind. del Valle
  Mar. 19 de mayo, 19:00 Rosario Central - Univ. Central
@@ -2621,21 +2561,6 @@ Fase de grupos
  Grupo F: Gremio (Brasil), Palestino (Chile), Montevideo City Torque (Uruguay) y Deportivo Riestra (Argentina).
  Grupo G: Olimpia (Paraguay), Vasco da Gama (Brasil), Audax Italiano (Chile) y Barracas Central (Argentina).
  Grupo H: River Plate (Argentina), Red Bull Bragantino (Brasil), Blooming (Bolivia) y Carabobo (Venezuela).
- Miércoles 29 de abril
- 19.00 Caracas - Racing
- Árbitro: Andrés Matonte (Uruguay)
- Asistente 1: Carlos Barreiro (Uruguay)
- Asistente 2: Pablo Llarena (Uruguay)
- Cuarto árbitro: José Burgos (Uruguay)
- VAR: Christian Ferreyra (Uruguay)
- AVAR: Richard Trinidad (Uruguay)
- 19.00 Deportivo Riestra - Montevideo City Torque
- Árbitro: Bryan Loayza (Ecuador)
- Asistente 1: Richard Baren (Ecuador)
- Asistente 2: Juan Aguiar (Ecuador)
- Cuarto árbitro: Yerson Zambrano (Ecuador)
- VAR: Gabriel González (Ecuador)
- AVAR: Luis Quiroz (Ecuador)
  Jueves 30 de abril
  21.00 Tigre - América de Cali
  Árbitro: Mathías de Armas (Uruguay)
@@ -2653,8 +2578,6 @@ Fase de grupos
  AVAR: Sebastián Vela (Colombia)
 Fixture completo 
  Grupo A
- Jue. 30 de abril, 23:00 Alianza Atlético - Macará
- Jue. 30 de abril, 21:00 Tigre - América de Cali
  Mié. 6 de mayo, 23:00 Alianza Atlético - América de Cali
  Mié. 6 de mayo, 21:00 Macará - Tigre
  Jue. 21 de mayo, 23:00 Macará - Alianza Atlético
@@ -2662,8 +2585,6 @@ Fixture completo
  Jue. 28 de mayo, 21:30 América de Cali - Macará
  Jue. 28 de mayo, 21:30 Tigre - Alianza Atlético
  Grupo B
- Mié 29 de abril, 19:00 Juventud - Academia Puerto Cabello
- Mié 29 de abril, 21:30 Cienciano - Atlético Mineiro
  Mar. 5 de mayo, 19:00 Juventud Atlético Mineiro
  Mar. 5 de mayo, 21:30 Academia Puerto Cabello - Cienciano
  Jue. 21 de mayo, 19:00 Academia Puerto Cabello - Juventud
@@ -2671,8 +2592,6 @@ Fixture completo
  Mié. 27 de mayo, 19:00 Atlético Mineiro - Academia Puerto Cabello
  Mié. 27 de mayo, 19:00 Cienciano - Juventud
  Grupo C
- Mar. 28 de abril, 23:00 O'Higgins - Boston River
- Mar. 28 de abril, 21:30 Millonarios - San Pablo
  Jue. 7 de mayo, 19:00 O'Higgins - San Pablo
  Jue. 7 de mayo, 19:00 Boston River - Millonarios
  Mie. 20 de mayo, 19:00 Boston River - O'Higgins
@@ -2680,8 +2599,6 @@ Fixture completo
  Mar. 26 de mayo, 19:00 San Pablo - Boston River
  Mar. 26 de mayo, 19:00 Millonarios - O'Higgins
  Grupo D
- Mar. 28 de abril, 19:00 Recoleta - Deportivo Cuenca
- Mar. 28 de abril, 19:00 San Lorenzo - Santos
  Mar. 5 de mayo, 21:30 Recoleta - Santos
  Mar. 5 de mayo, 23:00 Deportivo Cuenca - San Lorenzo
  Mar. 19 de mayo, 23:00 Deportivo Cuenca - Recoleta
@@ -2689,8 +2606,6 @@ Fixture completo
  Mar. 26 de mayo, 21:30 Santos - Deportivo Cuenca
  Mar. 26 de mayo, 21:30 San Lorenzo - Recoleta
  Grupo E
- Mar. 28 de abril, 21:30 Botafogo - Independiente Petrolero
- Mié. 29 de abril, 19:00 Caracas - Racing
  Mié. 6 de mayo, 19:30 Botafogo - Racing
  Mar. 5 de mayo, 19:00 Independiente Petrolero - Caracas
  Mié. 20 de mayo, 21:00 Independiente Petrolero - Botafogo
@@ -2698,8 +2613,6 @@ Fixture completo
  Mié. 27 de mayo, 19:00 Racing - Independiente Petrolero
  Mié. 27 de mayo, 19:00 Caracas - Botafogo
  Grupo F
- Mié. 29 de abril, 19:00 Deportivo Riestra - Montevideo City Torque
- Mié. 29 de abril, 21:30 Palestino - Gremio
  Mar. 5 de mayo, 19:00 Deportivo Riestra - Gremio
  Mié. 6 de mayo, 19:00 Montevideo City Torque - Palestino
  Mar. 19 de mayo, 19:00 Montevideo City Torque - Deportivo Riestra
@@ -2707,8 +2620,6 @@ Fixture completo
  Mar. 26 de mayo, 19:00 Gremio - Montevideo City Torque
  Mar. 26 de mayo, 19:00 Palestino - Deportivo Riestra
  Grupo G
- Mar. 28 de abril, 21:00 Barracas Central - Audax Italiano
- Jue. 30 de abril, 19:00 Vasco da Gama - Olimpia
  Mié. 6 de mayo, 21:00 Barracas Central - Olimpia
  Mié. 6 de mayo, 19:00 Audax Italiano - Vasco da Gama
  Mar. 19 de mayo, 19:00 Audax Italiano - Barracas Central
@@ -2716,8 +2627,6 @@ Fixture completo
  Mié. 27 de mayo, 21:30 Olimpia - Audax Italiano
  Mié. 27 de mayo, 21:30 Vasco da Gama - Barracas Central
  Grupo H
- Jue. 30 de abril, 19:00 Carabobo - Blooming
- Jue. 30 de abril, 21:30 Bragantino - River Plate
  Jue. 7 de mayo, 21:30 Carabobo - River Plate
  Jue. 7 de mayo, 21:30 Blooming - Bragantino
  Jue. 21 de mayo, 21:30 Blooming - Carabobo
