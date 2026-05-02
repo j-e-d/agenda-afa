@@ -2,41 +2,6 @@
 Torneo Apertura 2026
 Fecha 9
 Sábado 2 de mayo
- 14.00 Barracas Central – Banfield (Zona B) (TNT Sports)
- Árbitro: Darío Herrera
- Árbitro asistente 1: Miguel Savorani
- Árbitro asistente 2: Walter Ferreyra
- Cuarto árbitro: Cristian Cernadas
- VAR: Silvio Trucco
- AVAR: Eduardo Lucero
- 14.30 Lanús – Deportivo Riestra (Zona A) (ESPN Premium)
- Árbitro: Sebastián Martínez
- Árbitro asistente 1: Pablo Gualtieri
- Árbitro asistente 2: Carla López
- Cuarto árbitro: Jonathan Barrios
- VAR: Adrián Franklin
- AVAR: Carlos Córdoba
- 16.15 Central Córdoba – Boca (Zona A) (TNT Sports)
- Árbitro: Nazareno Arasa
- Árbitro asistente 1: Gabriel Chade
- Árbitro asistente 2: José Castelli
- Cuarto árbitro: Nelson Sosa
- VAR: Lucas Novelli
- AVAR: Gastón Suárez
- 18.45 San Lorenzo – Independiente (Zona A) (TNT Sports)
- Árbitro: Pablo Dóvalo
- Árbitro asistente 1: Juan Mamani
- Árbitro asistente 2: Lucas Pardo
- Cuarto árbitro: Jorge Broggi
- VAR: Diego Ceballos
- AVAR: Diego Verlota
- 18.45 Unión – Talleres (Zona A) (ESPN Premium)
- Árbitro: Sebastián Zunino
- Árbitro asistente 1: Juan Pablo Belatti
- Árbitro asistente 2: Uriel García Leri
- Cuarto árbitro: Maximiliano López Monti
- VAR: Facundo Tello
- AVAR: Marcos Horticolou
  21.15 Platense – Estudiantes (Zona A) (ESPN Premium)
  Árbitro: Maximiliano Ramírez
  Árbitro asistente 1: Pablo Acevedo
@@ -435,22 +400,6 @@ Zona A
 ª. fecha
 :
 Zona "A"
- Sábado 02-05
- Def. de Belgrano - Ctral. Norte (S.), a las 15.30 horas
- Árbitro: Yamil Possi
- Asistente 1: Mario Bardina
- Asistente 2: Federico García
- Cuarto árbitro: Kevin Alegre
- Estudiantes - San Telmo, a las 15.30 horas
- Árbitro: Juan Pablo Loustau
- Asistente 1: Sebastián Pumetti
- Asistente 2: María Eugenia Rocco
- Cuarto árbitro: Nicolás Kresta
- Los Andes - Colón, a las 15.30 horas
- Árbitro: Daniel Edgardo Zamora
- Asistente 1: Andrés Barbieri
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Leandro Fedele
  Domingo 03-05
  Mitre (S.E.) - Acassuso, a las 15.00 horas
  Árbitro: Gastón Monson Brizuela
@@ -478,12 +427,6 @@ Zona "A"
  Asistente 2: Gonzalo Roldán
  Cuarto árbitro: Franco Rioja
 Zona "B"
- Sábado 02-05
- San Martín (T.) - Atl. de Rafaela, a las 20.00 horas
- Árbitro: Bryan Ferreyra
- Asistente 1: Mariano Viale
- Asistente 2: Emanuel Serale
- Cuarto árbitro: Lucas Rodríguez
  Domingo 03-05
  Atlanta - Tristán Suárez, a las 13.00 horas
  Árbitro: Franco Acita
@@ -1071,58 +1014,12 @@ Fecha 5
 14
 ª. fecha
 :
-Sábado 02-05
- Sp. Dock Sud - Def. Unidos, a las 15.30 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Hugo Carbo
- Asistente 2: Berenice Avaro
- Cuarto árbitro: Rodrigo Villalba
- Camioneros - Flandria, a las 15.30 horas
- Árbitro: Ramiro Maglio
- Asistente 1: Mariano Cichetto
- Asistente 2: Giuliano Grillo
- Cuarto árbitro: Elías Viglione
- Sp. Italiano - Dep. Armenio, a las 15.30 horas
- Árbitro: Gabriel Flores
- Asistente 1: Rodrigo Arín
- Asistente 2: Agustín Galván
- Cuarto árbitro: Julián Beligoy
- Villa San Carlos - Dep. Laferrere, a las 15.30 horas
- Árbitro: Mateo Bocaccia
- Asistente 1: Ramiro Ortiz Biondi
- Asistente 2: Marcos Pueyo
- Cuarto árbitro: Eduardo Coyto
- UAI - Urquiza - Arsenal F.C., a las 15.30 horas
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Hernán Antola
- Asistente 2: Federico Josa
- Cuarto árbitro: Valentín Bocaccia
- Villa Dálmine - Excursionistas, a las 15.30 horas
- Árbitro: Sebastián Bresba
- Asistente 1: Diego Romero
- Asistente 2: Matías Noli
- Cuarto árbitro: Tomás Aybar
- Real Pilar F.C. - Arg. de Merlo, a las 15.30 horas en estadio Municipal de Pilar
- Árbitro: Ignacio Cuicchi
- Asistente 1: Nicolás Gruccio
- Asistente 2: Hugo Hartung
- Cuarto árbitro: Agustín Panizza
- San Martín (B.) - Brown (Adrogué), a las 18.00 horas
- Árbitro: Ariel Cruz
- Asistente 1: Maximiliano Montenegro
- Asistente 2: Cecilio Calcagno
- Cuarto árbitro: Mariano Negrete
- Dep. Merlo - Arg. de Quilmes, a las 20.00 horas
- Árbitro: Damián Rubino
- Asistente 1: Juan Manuel Díaz
- Asistente 2: Leandro Britez
- Cuarto árbitro: Micaela Abelardo
- Domingo 03-05
- Liniers - Talleres (R.E.), a las 15.30 horas
- Árbitro: Martín Desposito
- Asistente 1: Gonzalo Beloso
- Asistente 2: Martín Cingolani
- Cuarto árbitro: Nicolás Kresta
+Domingo 03-05
+Liniers - Talleres (R.E.), a las 15.30 horas
+Árbitro: Martín Desposito
+ Aente 1: Gonzalo Beloso
+ ente 2: Martín Cingolani
+ Árbitro: Nicolás Kresta
 Lunes 04-05
  Comunicaciones - Ituzaingó, a las 20.00 horas
  Árbitro: Marcos Recalde
@@ -1472,12 +1369,6 @@ Fecha 4 - Interzonal
 10
 ª. Fecha
 Zona "A"
- Sábado 02-05
- Dep. Paraguayo - Def. de Cambaceres, a las 15.30 horas
- Árbitro: Manuel Girett
- Asistente 1: Nahuel Valdeon
- Asistente 2: Oscar Maidana
- Cuarto árbitro: Fabrizio De La Cruz
  Domingo 03-05
  Berazategui - Lugano, a las 15.30 horas
  Árbitro: Matías Ansede
@@ -1511,17 +1402,6 @@ Zona "A"
  Asistente 2: Tomás Pérez
  Cuarto árbitro: Facundo Carretero
  Zona "B"
- Sábado 02-05
- Ctral. Córdoba (Ros.) - Fénix, a las 15.30 horas
- Árbitro: Manuel Prieto
- Asistente 1: Leandro Carril
- Asistente 2: Alejo Milone
- Cuarto árbitro: Sebastián Milessi
- Cañuelas F.C. - Gral. Lamadrid, a las 15.30 horas
- Árbitro: Iván Castelu Coca
- Asistente 1: Heber Ibáñez Meza
- Asistente 2: Roberto Rodríguez
- Cuarto árbitro: Facundo Fuentes
  Domingo 03-05
  Yupanqui - Ctral. Ballester, a las 15.30 horas
  Árbitro: David Cornejo
