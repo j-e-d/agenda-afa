@@ -1,42 +1,6 @@
 25/03/2019
 Torneo Apertura 2026
 Fecha 9
-Domingo 3 de mayo
- 16.00 Rosario Central – Tigre (Zona B) (TNT Sports)
- Árbitro: Hernán Mastrángelo
- Árbitro asistente 1: Hugo Paez
- Árbitro asistente 2: Federico Cano
- Cuarto árbitro: Agustín Vegetti
- VAR: Fernando Echenique
- AVAR: Javier Mihura
- 16.00 Racing – Huracán (Zona B) (ESPN Premium)
- Árbitro: Leandro Rey Hilfer
- Árbitro asistente 1: Diego Bonfa
- Árbitro asistente 2: Erik Grunmann
- Cuarto árbitro: Lucas Comesaña
- VAR: Yamil Possi
- AVAR: Laura Fortunato
- 16.00 Gimnasia – Argentinos (Zona B) (ESPN Premium)
- Árbitro: Juan Pafundi
- Árbitro asistente 1: Adrián Delbarba
- Árbitro asistente 2: Lucas Ripoli
- Cuarto árbitro: Wenceslao Meneses
- VAR: Nicolás Lamolina
- AVAR: Sebastián Habib
- 16.00 Belgrano – Sarmiento (Zona B) (TNT Sports)
- Árbitro: Andrés Gariano
- Árbitro asistente 1: Cristian Navarro
- Árbitro asistente 2: Matías Bianchi
- Cuarto árbitro: Emanuel Ejarque
- VAR: Fernando Espinoza
- AVAR: Marcelo Bistocco
- 18.30 River – Atlético Tucumán (Zona B) (ESPN Premium)
- Árbitro: Yael Falcón Pérez
- Árbitro asistente 1: Maximiliano Del Yesso
- Árbitro asistente 2: Sebastián Raineri
- Cuarto árbitro: Ariel Penel
- VAR: Felipe Viola
- AVAR: Mariana De Almeida
 Lunes 4 de mayo
  17.00 Gimnasia Mza. – Defensa y Justicia (Zona A) (ESPN Premium)
  Árbitro: Bruno Amiconi
@@ -384,65 +348,7 @@ Zona A
 12
 ª. fecha
 :
-Zona "A"
- Domingo 03-05
- Mitre (S.E.) - Acassuso, a las 15.00 horas
- Árbitro: Gastón Monson Brizuela
- Asistente 1: Hernán Vallejos
- Asistente 2: Martín Grasso
- Cuarto árbitro: Luis Martínez
- Alte. Brown - Chaco For Ever, a las 15.30 horas
- Árbitro: Juan Cruz Robledo
- Asistente 1: Juan Manuel González
- Asistente 2: Nahuel Santanocito
- Cuarto árbitro: Elías Viglione
- Cdad. Bolívar - Ferro Carril Oeste, a las 16.00 horas en estadio Municipal de Pilar
- Árbitro: Álvaro Carranza
- Asistente 1: Damián Espinoza
- Asistente 2: Gisella Bosso
- Cuarto árbitro: Facundo Rojo Casal
- Godoy Cruz - Dep. Morón, a las 16.30 horas
- Árbitro: Maximiliano Manduca
- Asistente 1: Iván Núñez
- Asistente 2: Cristian Herrera
- Cuarto árbitro: Marcelo Sanz
- Racing (Cba.) - Dep. Madryn, a las 17.00 horas
- Árbitro: Lucas Cavallero
- Asistente 1: Gonzalo Ferrari
- Asistente 2: Gonzalo Roldán
- Cuarto árbitro: Franco Rioja
 Zona "B"
- Domingo 03-05
- Atlanta - Tristán Suárez, a las 13.00 horas
- Árbitro: Franco Acita
- Asistente 1: Federico Pomi
- Asistente 2: Francisco Gugliota
- Cuarto árbitro: Valentín Bocaccia
- Colegiales - San Martín (S.J.), a las 15.00 horas
- Árbitro: Joaquín Gil
- Asistente 1: Mariano Rossetti
- Asistente 2: Antonella Pajón
- Cuarto árbitro: Cristiaan Cernadas
- Almagro - Temperley, a las 15.00 horas
- Árbitro: Julián Jerez
- Asistente 1: Marcelo Errante
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Agustín Panizza
- G. y Esgrima (J.) - Dep. Maipú, a las 15.30 horas
- Árbitro: Federico Benítez
- Asistente 1: Julio Fernández
- Asistente 2: Matías Balmaceda
- Cuarto árbitro: Ulises Jerónimo
- Patronato (Paraná) - Nva. Chicago, a las 16.00 horas
- Árbitro: Fabrizio Llobet
- Asistente 1: Diego Martín
- Asistente 2: Malvina Schiell
- Cuarto árbitro: Leandro Billanueva
- F.C. Midland - Güemes (S.E.), a las 16.30 horas
- Árbitro: Javier Delbarba
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Matías Basso
- Cuarto árbitro: Julián Beligoy
  Lunes 04-05
  Quilmes A.C. - Chacarita Juniors, a las 20.00 horas
  Árbitro: Pablo Giménez
@@ -714,26 +620,6 @@ ZONA B
  ALMAGRO - ATLANTA
  PATRONATO (P.) - F.C. MIDLAND
  COLEGIALES - QUILMES A.C.
- Fecha 11 
- AT. DE RAFAELA - G. Y ESGRIMA (J.)
- AGROPECUARIO ARG. - SAN MARTÍN (T.)
- T. SUÁREZ - G. Y TIRO (S.)
- GUEMES (S.E.) - ATLANTA
- CHACARITA JRS. - F.C. MIDLAND
- SAN MARTÍN (S.J.) - QUILMES A.C.
- NVA. CHICAGO - COLEGIALES
- TEMPERLEY - PATRONATO (P.)
- DEP. MAIPÚ (MZA.) - ALMAGRO
- Fecha 12 
- G. Y ESGRIMA (J.) - DEP. MAIPÚ (MZA.)
- ALMAGRO - TEMPERLEY
- PATRONATO (P.) - NVA. CHICAGO
- COLEGIALES - SAN MARTÍN (S.J.)
- QUILMES A.C. - CHACARITA JRS.
- F.C. MIDLAND - GUEMES (S.E.)
- ATLANTA - T. SUÁREZ
- G. Y TIRO (S.) - AGROPECUARIO ARG.
- SAN MARTÍN (T.) - AT. DE RAFAELA
  Fecha 13 
  SAN MARTÍN (T.) - G. Y ESGRIMA (J.)
  AT. DE RAFAELA - G. Y TIRO (S.)
@@ -999,12 +885,6 @@ Fecha 5
 14
 ª. fecha
 :
-Domingo 03-05
-Liniers - Talleres (R.E.), a las 15.30 horas
-Árbitro: Martín Desposito
- Aente 1: Gonzalo Beloso
- ente 2: Martín Cingolani
- Árbitro: Nicolás Kresta
 Lunes 04-05
  Comunicaciones - Ituzaingó, a las 20.00 horas
  Árbitro: Marcos Recalde
@@ -1354,27 +1234,6 @@ Fecha 4 - Interzonal
 10
 ª. Fecha
 Zona "A"
- Domingo 03-05
- Berazategui - Lugano, a las 15.30 horas
- Árbitro: Matías Ansede
- Asistente 1: Jonathan Florentín
- Asistente 2: Lucas García
- Cuarto árbitro: Roberta Echevarría
- Victoriano Arenas - Estrella del Sur, a las 15.30 horas
- Árbitro: Gonzalo Creimermann
- Asistente 1: Lucas Monsalvo
- Asistente 2: Sebastián Valdez
- Cuarto árbitro: Ignacio Domínguez
- Puerto Nuevo - L.N. Alem, a las 15.30 horas
- Árbitro: Guido Mascheroni
- Asistente 1: Ignacio Otegui
- Asistente 2: Sebastián Krojzl
- Cuarto árbitro: Juan Ferreyra
- Mercedes - Juv. Unida, a las 15.30 horas en Estudiantes (Mercedes)
- Árbitro: Alejandro Porticella
- Asistente 1: Gonzalo Cubillas
- Asistente 2: Julieta Fernández
- Cuarto árbitro: Nicolás Díaz
  Lunes 04-05
  Rec. Español - Argentino (Ros.), a las 15.30 horas en Ituzaingó
  Árbitro: Iñaki Iparraguirre
@@ -1387,22 +1246,6 @@ Zona "A"
  Asistente 2: Tomás Pérez
  Cuarto árbitro: Facundo Carretero
  Zona "B"
- Domingo 03-05
- Yupanqui - Ctral. Ballester, a las 15.30 horas
- Árbitro: David Cornejo
- Asistente 1: Federico Bozo
- Asistente 2: Tomás Otero
- Cuarto árbitro: Lucas Brumer
- Claypole - El Porvenir, a las 15.30 horas
- Árbitro: Iván Mastroieni
- Asistente 1: Damián Alcaraz
- Asistente 2: Alexis Escobar
- Cuarto árbitro: Antonella Álvarez
- Atlas - Leones F.C., a las 15.30 horas
- Árbitro: Ulises López
- Asistente 1: Leandro Idio
- Asistente 2: Patricio Acuña
- Cuarto árbitro: Nazareno Galeano
  Lunes 04-05
  Dep. Español - Sp. Barracas, a las 15.30 horas
  Árbitro: Gonzalo Correa
@@ -2748,9 +2591,6 @@ La primera fase del torneo clasificatorio intercontinental tendrá lugar en novi
 Clasificación Mundial Femenina FIFA/Coca-Cola
  previa al sorteo del torneo. Las dos primeras accederán a la segunda fase del torneo clasificatorio intercontinental, que se disputará en febrero de 2027 en una única sede y a la que se sumarán dos representantes de la Concacaf, uno de la CONMEBOL y otro de la UEFA. Las seis selecciones se encuadrarán en tres cruces diferentes, consistentes en sendos partidos de eliminación directa que decidirán los tres equipos clasificados para la Copa Mundial Femenina de la FIFA 2027™. Las selecciones representantes de la misma confederación no podrán quedar encuadradas en un mismo cruce.
 Conmebol Sub 17 Femenina 2026
-Se jugará del 22 de abril al 16 de mayo de 2026.
- Domingo 3 de mayo
- 20.00 Chile - Argentina, en el Estadio Ameliano (Villeta)
  Formato de competencia
  Fase Preliminar (Fase de Grupos) y Fase Final (disputas de los 7° y 5° puestos, semifinal, disputa del 3° puesto y final). Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
  Clasificarán para la semifinal, los equipos que ocupen las dos primeras posiciones en cada grupo. Los demás equipos de cada grupo disputarán las posiciones del 5° al 7° puesto (se enfrentarán en un cruce entre los 3° y 4° de cada grupo, para determinar los equipos que jugarán por el 5° y 7° puesto).
