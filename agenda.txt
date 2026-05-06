@@ -348,36 +348,6 @@ Banfield – Atlético Tucumán
  Aldosivi – River
 Torneo Proyección
 Fecha 12
-Martes 5 de mayo
-15.00 Independiente – Ferro (Zona B) – Villa Domínico
-Árbitro: Juan Ferreyra
-Árbitro asistente 1: Diego Ortiz
-Árbitro asistente 2: Bruno Santillán
-Cuarto árbitro: Antonela Álvarez
-15.00 Platense – Estudiantes (Río Cuarto) (Zona B) – Predio
-Árbitro: Manuel Prieto
-Árbitro asistente 1: Nicolás Ruiz Segovia
-Árbitro asistente 2: Agustina Baleman
-Cuarto árbitro: Leandro Díaz
-15.00 Quilmes – Defensa y Justicia (Zona B) – Predio
-Árbitro: Facundo Carretero
-Árbitro asistente 1: Felipe Onufrik
-Árbitro asistente 2: Nahuel Martin
-Cuarto árbitro: Ariadna Palacios
-15.00 Atlético Rafaela – Huracán (Zona B) – Estadio Monumental de Rafaela
-Árbitro: Franco Gutierre
-Árbitro asistente 1: Facundo Maldonado
-Árbitro asistente 2: Mateo Cueto
-15.00 Instituto – Gimnasia (Mza.) (Zona A) – La Agustina
-Árbitro: Ignacio Domínguez
-Árbitro asistente 1: Valentino Gaillard
-Árbitro asistente 2: Elías Mendoza
-Cuarto árbitro: Roberta Echeverría
-19.00 River – Racing (Zona A) – River Camp
-Árbitro: Camila Gette
-Árbitro asistente 1: Alexis Etchepare
-Árbitro asistente 2: Tomás Otero
-Cuarto árbitro: Joaquín García Casas
 Miércoles 6 de mayo
 13.30 Vélez – Sarmiento (Zona A) – Villa Olímpica
 Árbitro: Rodrigo Amadeo
@@ -1933,7 +1903,7 @@ Viernes 8 de mayo
  Árbitro asistente 2: Iván Aliende
  Cuarto árbitro: Federico Benítez
 Miércoles 13 de mayo
- 16.15 Platense - San Martín de San Juan, en estadio de Morón (horario a confirmar)
+ 16.15 Platense - San Martín de San Juan, en estadio de Morón 
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA. 
 El resto de los partidos de 16avos. de final:
  San Lorenzo vs. Deportivo Riestra
