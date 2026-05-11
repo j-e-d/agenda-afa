@@ -1,36 +1,6 @@
 25/03/2019
 Torneo Apertura 2026
-Octavos de Final 
-Domingo 10 de mayo
-15.00 Rosario Central – Independiente
- Árbitro: Yael Falcón Pérez
- Asistente 1: Juan Pablo Belatti
- Asistente 2: Diego Bonfá
- Cuarto árbitro: Fabrizio Llobet
- VAR: Lucas Novelli
- AVAR: Mauro Ramos Errasti
-17.00 Estudiantes (LP) – Racing Club
- Árbitro: Sebastián Martínez
- Asistente 1: Pablo Gualtieri
- Asistente 2: Federico Cano
- Cuarto árbitro: Franco Acita
- VAR: José Carreras
- AVAR: Sebastián Habib
-19.00 River Plate – San Lorenzo
- Árbitro: Sebastián Zunino
- Asistente 1: Miguel Savorani
- Asistente 2: Pablo Acevedo
- Cuarto árbitro: Yamil Possi
- VAR: Silvio Trucco
- AVAR: Carlos Córdoba
-21.30 Vélez – Gimnasia (LP)
- Árbitro: Andrés Gariano
- Asistente 1: Sebastián Raineri
- Asistente 2: Juan Del Fueyo
- Cuarto árbitro: Agustín Vegetti
- VAR: Germán Delfino
- AVAR: Gisela Trucco
-Torneo Clausura 2026
+Torneo Clausura 
 Fecha 1
 Interzonal: Defensa y Justicia – Aldosivi
 Zona A
@@ -46,8 +16,6 @@ Zona B
  Racing – Gimnasia
  Belgrano – Rosario Central
  Estudiantes (Río Cuarto) – Tigre
- Sarmiento – Argentinos
- Huracán – Banfield
  Atlético Tucumán – Independiente Rivadavia Mza.
 Fecha 2
 Interzonal: Central Córdoba – Atlético Tucumán
@@ -355,32 +323,6 @@ Zona A
  Fecha 13 
 Fecha 13
 Zona “A”
- Domingo 10-05
- Acassuso c. Alte. Brown, a las 15.30 horas
- Árbitro: Lucas Cavallero
- Asistente 1: Carlos Viglietti
- Asistente 2: Mariana Dure
- Cuarto árbitro: Gonzalo Creimermann
- Godoy Cruz c. Racing (Cba.), a las 16.30 horas
- Árbitro: Juan Cruz Robledo
- Asistente 1: Hugo Páez
- Asistente 2: Diego Fernández
- Cuarto árbitro: Emanuel Ejarque
- Chaco For Ever c. Cdad. Bolivar, a las 16.30 horas
- Árbitro: Nahuel Viñas
- Asistente 1: Javier Mihura
- Asistente 2: Danilo Viola
- Cuarto árbitro: Leandro Billanueva
- Ctral. Norte c. Dep. Madryn, a las 17.00 horas en G. y Tiro (Salta)
- Árbitro: Adrián Franklin
- Asistente 1: Guillermo Yacante
- Asistente 2: Sebastián Osudar
- Cuarto árbitro: Guillermo González
- Colón c. All Boys, a las 18.00 horas
- Árbitro: Maximiliano Macheroni
- Asistente 1: Matías Bianchi
- Asistente 2: Cristian Herrera
- Cuarto árbitro: Mateo Bocaccia
  Lunes 11-05
  Ferro Carril Oeste c. Def. de Belgrano, a las 19.00 horas
  Árbitro: Juan Pablo Loustau
@@ -388,22 +330,6 @@ Zona “A”
  Asistente 2: Juan Ricciardi
  Cuarto árbitro: Gonzalo Pereira
  Zona “B”
-Domingo 10-05
- Chacarita Juniors c. Colegiales, a las 15.30 horas
- Árbitro: Felipe Viola
- Asistente 1: Walter Ferreyra
- Asistente 2: Marcos Hourticolou
- Cuarto árbitro: Julián Jerez
- Güemes (S.E.) c. Quilmes A.C., a las 16.00 horas
- Árbitro: Nelson Sosa
- Asistente 1: Marcelo Bistocco
- Asistente 2: Pascual Fernández
- Cuarto árbitro: Maximiliano Silcan Jerez
- Agropecuario Arg. c. Atlanta, a las 16.00 horas
- Árbitro: Matías Billone
- Asistente 1: Matías Balmaceda
- Asistente 2: Emiliano Bustos
- Cuarto árbitro: Facundo Rojo Casal
  Lunes 11-05
  Nva. Chicago c. Almagro, a las 19.30 horas
  Árbitro: Lucas Comesaña
@@ -918,20 +844,8 @@ Fecha 5
  Dep. Merlo - Liniers 
  Camioneros - Villa San Carlos 
  Sportivo Italiano - San Martín (B)
-Fecha 15 
- Domingo 10-05
- Arsenal F.C. c. Real Pilar F.C., a las 15.30 horas
- Árbitro: Nicolás Mastroieni
- Asistente 1: Lucas Vázquez
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Sebastián Bresba
- Arg. de Quilmes c. Sp. Dock Sud, a las 15.30 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Martín Giampaolo
- Asistente 2: Federico Bozo
- Cuarto árbitro: Gabriel Flores
-Fecha 16 
- Def. Unidos - Ituzaingó 
+ Fecha 16
+Def. Unidos - Ituzaingó 
  Comunicaciones - Argentino de Quilmes 
  Dock Sud - Flandria 
  Dep. Merlo - Dep. Armenio 
@@ -1260,17 +1174,6 @@ Fecha 4 - Interzonal
  Sp. Barracas - Lugano
 Fecha 11
 Zona “A”
- Domingo 10-05
- Lugano c. Puerto Nuevo, a las 15.30 horas
- Árbitro: Rodrigo Villalba
- Asistente 1: Diego Ortiz
- Asistente 2: Bruno Santillán
- Cuarto árbitro: Facundo Carretero
- L.N. Alem c. Dep. Paraguayo, a las 15.30 horas
- Árbitro: Agustín Panizza
- Asistente 1: Franco Boetti
- Asistente 2: Agustina Baleman
- Cuarto árbitro: Lautaro Díaz
  Lunes 11-05
  Sacachispas F.C. c. Rec. Español, a las 15.30 horas
  Árbitro: Iván Castelu
@@ -1278,22 +1181,6 @@ Zona “A”
  Asistente 2: Felipe Onufrik
  Cuarto árbitro: Juan Ferreyra
 Zona “B”
- Domingo 10-05
- Luján c. Cañuelas F.C., a las 15.30 horas
- Árbitro: Agustín Flores
- Asistente 1: Leandro Idio
- Asistente 2: Nahuel Martín
- Cuarto árbitro: Nicolás Díaz
- Sp. Barracas c. Muñiz, a las 15.30 horas en Almagro
- Árbitro: Alejandro Porticella
- Asistente 1: Facundo Maldonado
- Asistente 2: Sofía Curto
- Cuarto árbitro: Lucas Brumer
- El Porvenir c. Ctral. Córdoba (Ros.), a las 15.30 horas
- Árbitro: Elías Viglione
- Asistente 1: Mario Vargas
- Asistente 2: Luis Taboada
- Cuarto árbitro: Martín Morenza
  Lunes 11-05
  Fénix c. Dep. Español, a las 15.30 horas en Dep. Merlo
  Árbitro: Iván Mastroieni
