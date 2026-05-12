@@ -1,14 +1,7 @@
 25/03/2019
 Torneo Apertura 2026
 Martes 12 de mayo
-19.00 Belgrano (5°B) – Unión (8°A)
- Árbitro: Andrés Merlos
- Árbitro asistente 1: Diego Bonfa
- Árbitro asistente 2: Federico Cano
- Cuarto árbitro: Joaquín Gil
- VAR: Fernando Espinoza
- AVAR: Salomé Di Iorio
- 21.30 Argentinos (3°B) – Huracán (7°B)
+21.30 Argentinos (3°B) – Huracán (7°B)
  Árbitro: Fernando Echenique
  Árbitro asistente 1: Pablo González
  Árbitro asistente 2: Agustín Méndez
@@ -427,16 +420,100 @@ Zona A
  Asistente 1: Damián Espinoza
  Asistente 2: Robertino Rosas
  Cuarto árbitro: Francisco Acosta
- Fecha 14 
- RACING (CBA.) - CTRAL. NORTE (S.)
- DEP. MADRYN - FERRO CARRIL OESTE
- DEF. DE BELGRANO - CHACO FOR EVER
- CDAD. DE BOLÍVAR - ACASSUSO
- ALTE. BROWN - SAN TELMO
- MITRE (S.E.) - SAN MIGUEL
- ESTUDIANTES - COLÓN
- ALL BOYS - DEP. MORÓN
- LOS ANDES - GODOY CRUZ (MZA.)
+Viernes 15 de mayo
+ 21.00 Racing (Cba.) - Central Norte (S.)
+ Árbitro: Nahuel Viñas
+ Asistente 1: Daniel Zamora
+ Asistente 2: Martín Grasso
+ Cuarto árbitro: Darío Sandoval
+ Sábado 16 de mayo
+ 13.00 Atlanta - Atlético de Rafaela
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Andrés Barbieri
+ Asistente 2: Juan Manuel González
+ Cuarto árbitro: Jorge Broggi
+ 15.00 Los Andes - Godoy Cruz (Mza.)
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Matías Balmaceda
+ Asistente 2: Matías Noli
+ Cuarto árbitro: Javier Delbarba
+ 15.30 Almirante Brown - San Telmo
+ Árbitro: Franco Acita
+ Asistente 1: Mauro Ramos Errasti
+ Asistente 2: Federico García
+ Cuarto árbitro: Mariano Negrete
+ 15.30 Estudiantes - Colón
+ Árbitro: Felipe Viola
+ Asistente 1: Lucas Ripoli
+ Asistente 2: Carla López
+ Cuarto árbitro: Ramiro Maglio
+ 16.00 Ciudad de Bolívar - Acassuso
+ Árbitro: Juan Nebietti
+ Asistente 1: Joaquín Badano
+ Asistente 2: Antonella Pajón
+ Cuarto árbitro: Lucas Rodríguez
+ 16.00 Colegiales - Güemes (S.E.)
+ Árbitro: Daniel Zamora
+ Asistente 1: Erik Grunmann
+ Asistente 2: Iván Allende
+ Cuarto árbitro: Adrián Núñez Rodríguez
+ Domingo 17 de mayo
+ 15.00 Deportivo Madryn - Ferro Carril Oeste
+ Árbitro: Bryan Ferreyra
+ Asistente 1: Eduardo Lucero
+ Asistente 2: Matías González
+ Cuarto árbitro: Ulises Jerónimo
+ 15.30 Gimnasia y Esgrima (J.) - Temperley
+ Árbitro: Álvaro Carranza
+ Asistente 1: José Castelli
+ Asistente 2: Hernán Vallejos
+ Cuarto árbitro: Nelson Bejas
+ 15.30 Almagro - San Martín (S.J.)
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Juan Pablo Millenaar
+ Asistente 2: Francisco Gugliota
+ Cuarto árbitro: Ariel Cruz
+ 16.00 Mitre (S.E.) - San Miguel
+ Árbitro: Carlos Córdoba
+ Asistente 1: Manuel Sánchez
+ Asistente 2: Luciano Díaz
+ Cuarto árbitro: Facundo Rojo Casal
+ 16.00 Patronato (P.) - Chacarita Juniors
+ Árbitro: Juan Pablo Loustau
+ Asistente 1: Marcelo Errante
+ Asistente 2: Hernán Antola
+ Cuarto árbitro: Franco Rioja
+ 16.30 F.C. Midland - Agropecuario Arg.
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Lucas Pardo
+ Asistente 2: Hugo Hartung
+ Cuarto árbitro: Juan Cruz Robledo
+ 17.00 Deportivo Maipú (Mza.) - Nueva Chicago
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Matías Bianchi
+ Asistente 2: Gisella Bosso
+ Cuarto árbitro: Lautaro Castagnola
+ 17.00 Gimnasia y Tiro (S.) - San Martín (T.)
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Julio Fernández
+ Asistente 2: Gonzalo Ferrari
+ Cuarto árbitro: Leandro Billanueva
+ 17.00 Quilmes A.C. - Talleres (S.)
+ Árbitro: Lucas Comesaña
+ Asistente 1: Pablo Gualtieri
+ Asistente 2: Sebastián Pumetti
+ Cuarto árbitro: Juan Pafundi
+ Lunes 18 de mayo
+ 15.30 Defensores de Belgrano - Chaco For Ever
+ Árbitro: Federico Benítez
+ Asistente 1: Mariano Viale
+ Asistente 2: Emanuel Serale
+ Cuarto árbitro: Cristián Cernadas
+ 20.00 All Boys - Deportivo Morón
+ Árbitro: Pablo Giménez
+ Asistente 1: Federico Pomi
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Alejandro Porticella
  Fecha 15
  LOS ANDES - RACING (CBA.)
  GODOY CRUZ (MZA.) - ALL BOYS
@@ -930,17 +1007,64 @@ Fecha 5
  Camioneros - Villa San Carlos 
  Sportivo Italiano - San Martín (B)
  Fecha 16
-Def. Unidos - Ituzaingó 
- Comunicaciones - Argentino de Quilmes 
- Dock Sud - Flandria 
- Dep. Merlo - Dep. Armenio 
- Camioneros - Brown (Adrogué) 
- Sportivo Italiano - Dep. Laferrere 
- San Martín (B) - Talleres (RE) 
- Villa San Carlos - Argentino de Merlo 
- Liniers - Arsenal 
- Real Pilar - Excursionistas 
- UAI Urquiza - Villa Dálmine
+Sábado 16 de mayo
+ 15.00 Camioneros - Brown (Adrogué)
+ Árbitro: Bresba Sebastián
+ Asistente 1: Beloso Gonzalo
+ Asistente 2: Onufrik Felipe
+ Cuarto árbitro: Alegre Kevin
+ 15.30 Def. Unidos – Ituzaingó
+ Árbitro: Cuicchi Ignacio
+ Asistente 1: Gruccio Nicolás
+ Asistente 2: Acevedo Juan Manuel
+ Cuarto árbitro: Ansede Matías
+ 15.30 Sp. Dock Sud – Flandria
+ Árbitro: López Monti Maximiliano
+ Asistente 1: Arín Rodrigo
+ Asistente 2: Vargas Matías
+ Cuarto árbitro: Iparraguirre Iñaki
+ 15.30 San Martín (B.) - Talleres (R.E.)
+ Árbitro: Recalde Marcos
+ Asistente 1: Rotman Luis
+ Asistente 2: Torres Diego
+ Cuarto árbitro: Brumer Lucas
+ 15.30 Villa San Carlos - Arg. De Merlo
+ Árbitro: Bocaccia Valentín
+ Asistente 1: Borras Gastón
+ Asistente 2: Rodríguez Lazarte Diego
+ Cuarto árbitro: Aybar Tomás
+ 15.30 Liniers - Arsenal F.C.
+ Árbitro: Gutiérrez Gabriel
+ Asistente 1: Santanocito Nahuel
+ Asistente 2: Panozzo Matías
+ Cuarto árbitro: Girett Manuel
+ 15.30 UAI-Urquiza - Villa Dálmine
+ Árbitro: Barrios Jonathan
+ Asistente 1: Basso Matías
+ Asistente 2: Montenegro Maximiliano
+ Cuarto árbitro: Fortunato Laura
+ 15.30 Real Pilar – Excursionistas
+ Árbitro: Jerez Julián
+ Asistente 1: Díaz Juan Manuel
+ Asistente 2: Otegui Ignacio
+ Cuarto árbitro: Villaba Rodrigo
+ 19.00 Dep. Merlo - Dep. Armenio
+ Árbitro: Despósito Martín
+ Asistente 1: Calcagno Cecilio
+ Asistente 2: Carril Leandro
+ Cuarto árbitro: Morenza Martín
+ Lunes 18 de mayo
+ 15.30 Sp. Italiano - Dep. Laferrere
+ Árbitro: Beligoy Julián
+ Asistente 1: Arrechea Felipe
+ Asistente 2: Díaz Mara
+ Cuarto árbitro: Mastroieni Iván
+ Día y horario a confirmar
+ Comunicaciones - Arg. De Quilmes
+ Árbitro: Cornejo David
+ Asistente 1: Benítez Soilán Gustavo
+ Asistente 2: Avaro Berenice
+ Cuarto árbitro: Kresta Nicolás
 Fecha 17 
  Ituzaingó - UAI Urquiza 
  Villa Dálmine - Real Pilar 
@@ -1257,21 +1381,81 @@ Primera C
 Fecha 4 - Interzonal
  Partido Postergado
  Sp. Barracas - Lugano
-Fecha 12 - 16/05/2026 
-Argentino (R.) C. Ctral. Córdoba (R.)
-Atlas C. Berazategui
-V. Arenas C. Cañuelas F.C.
-Sp. Barracas C. Def. De Cambaceres
-Leones F.C. C. Lugano
-Puerto Nuevo C. Ctral. Ballester
-El Porvenir C. J. Unida
-L.N. Alem C. Muñiz
-Gral. Lamadrid C. J.J. De Urquiza
-Ctro. Rec. Español C. Fénix
-Yupanqui C. Estrella Del Sur
-Dep. Paraguayo C. Luján
-Dep. Español C. Mercedes
-Sacachispas F.C. C. Claypole
+Fecha 12 
+Sábado 16 de mayo
+ 15.30 Atlas – Berazategui
+ Árbitro: Flores Agustín
+ Asistente 1: Alcaraz Damián
+ Asistente 2: Pérez Tomás
+ Cuarto árbitro: Coyto Eduardo
+ 15.30 Leones F.C. – Lugano
+ Árbitro: Castelú Coca Iván
+ Asistente 1: Bozo Federico
+ Asistente 2: Rodríguez Rodolfo
+ Cuarto árbitro: Pérsico Valentín
+ 15.30 El Porvenir - J. Unida
+ Árbitro: Creimermann Gonzalo
+ Asistente 1: Rodríguez Cristian
+ Asistente 2: Otero Tomás
+ Cuarto árbitro: Porotelli Franco
+ 15.30 Ctro. Rec. Español – Fénix
+ Árbitro: Rubino Damián
+ Asistente 1: Vargas Mario
+ Asistente 2: Martino Mariela
+ Cuarto árbitro: Abelardo Micaela
+ 15.30 Yupanqui - Estrella Del Sur
+ Árbitro: Bocaccia Mateo
+ Asistente 1: Fernández Diego
+ Asistente 2: Krojzl Sebastián
+ Cuarto árbitro: Carretero Facundo
+ 15.30 Gral. Lamadrid – JJ Urquiza
+ Árbitro: Guido Mascheroni
+ Asistente 1: Lucas Monsalvo
+ Asistente 2: Sebastián Valdéz
+ Cuarto árbitro: Juan Ferreyra
+ Domingo 17 de mayo
+ 15.30 V. Arenas - Cañuelas F.C.
+ Árbitro: Fedele Leandro
+ Asistente 1: Pino Matías
+ Asistente 2: Cavagnaro Nicolás
+ Cuarto árbitro: Prieto Manuel
+ 15.30 Puerto Nuevo - Ctral. Ballester
+ Árbitro: Panizza Agustín
+ Asistente 1: Baldeón Nahuel
+ Asistente 2: Ruiz Segovia Nicolás
+ Cuarto árbitro: Díaz Lautaro
+ 15.30 L.N. Alem – Muñiz
+ Árbitro: Viglione Elías
+ Asistente 1: Etchepare Alexis
+ Asistente 2: Chávez Franco
+ Cuarto árbitro: De La Cruz Fabrizio
+ 15.30 Dep. Paraguayo – Luján
+ Árbitro: Milessi Sebastián
+ Asistente 1: Rodríguez Roberto
+ Asistente 2: Cabral Luciano
+ Cuarto árbitro: Ibáñez Meza Valentín
+ 15.30 Argentino (R.) - Ctral. Córdoba (R.)
+ Árbitro: Correa Gonzalo
+ Asistente 1: Ibáñez Mesa Heber
+ Asistente 2: Benítez Sergio
+ Cuarto árbitro: Domínguez Ignacio
+ Lunes 18 de mayo
+ 15.30 Sp. Barracas - Def. De Cambaceres
+ Árbitro: Echeverría Roberta
+ Asistente 1: Cubillas Gonzalo
+ Asistente 2: Acuña Patricio
+ Cuarto árbitro: Díaz Nicolás
+ 15.30 Dep. Español – Mercedes
+ Árbitro: López Ulises
+ Asistente 1: Maldonado Facundo
+ Asistente 2: Escobar Alexis
+ Cuarto árbitro: Álvarez Antonella
+ Martes 19 de mayo
+ 15.30 Sacachispas F.C. – Claypole
+ Árbitro: Flores Gabriel
+ Asistente 1: Florentín Jonathan
+ Asistente 2: Milone Alejo
+ Cuarto árbitro: Fuentes Facundo
 Fecha 13 - 23/05/2026 
 Estrella Del Sur C. Lugano
 Berazategui C. Argentino (R.)
@@ -2472,7 +2656,8 @@ Las plazas se distribuirán de la siguiente manera: AFC: 4; CAF: 5; Concacaf: 4;
  La FIFA confirmó que el sorteo oficial de la próxima edicion de la Copa Mundial Femenina Sub-17 de la FIFA se celebrará en la sede de la FIFA en Zúrich el 21 de mayo de 2026.
 Liga de Naciones Femenina 2025-2026
 Fixture de la Selección Argentina Femenina y de la Liga de Naciones CONMEBOL 
-20.00 Argentina – Perú – Estadio Florencio Sola
+Viernes 5 de junio
+20.00 Argentina – Perú – Estadio Ciudad de Vicente López
  18.00 Colombia – Uruguay – Estadio Olímpico Pascual Guerrero
  19.00 Chile – Ecuador – Estadio Nacional
 Martes 9 de junio
