@@ -420,21 +420,7 @@ Zona A
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
  Fecha 13 
-Fecha 13
-Zona “A”
- Lunes 11-05
- Ferro Carril Oeste c. Def. de Belgrano, a las 19.00 horas
- Árbitro: Juan Pablo Loustau
- Asistente 1: Uriel García Leri
- Asistente 2: Juan Ricciardi
- Cuarto árbitro: Gonzalo Pereira
  Zona “B”
- Lunes 11-05
- Nva. Chicago c. Almagro, a las 19.30 horas
- Árbitro: Lucas Comesaña
- Asistente 1: Ariel Scime
- Asistente 2: Heber Ibañez Meza
- Cuarto árbitro: Cristian Cernadas
  Martes 12-05
  San Martín (T.) c. G. y Esgrima (J.), a las 21.10 horas
  Árbitro: Maximiliano Manduca
@@ -1271,21 +1257,6 @@ Primera C
 Fecha 4 - Interzonal
  Partido Postergado
  Sp. Barracas - Lugano
-Fecha 11
-Zona “A”
- Lunes 11-05
- Sacachispas F.C. c. Rec. Español, a las 15.30 horas
- Árbitro: Iván Castelu
- Asistente 1: Matías Noli
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: Juan Ferreyra
-Zona “B”
- Lunes 11-05
- Fénix c. Dep. Español, a las 15.30 horas en Dep. Merlo
- Árbitro: Iván Mastroieni
- Asistente 1: Federico Machuca
- Asistente 2: Alexis Ramírez
- Cuarto árbitro: Ariadna Palacios
 Fecha 12 - 16/05/2026 
 Argentino (R.) C. Ctral. Córdoba (R.)
 Atlas C. Berazategui
@@ -1927,9 +1898,6 @@ ZONA A
  LA MANDARINA c. BELGRANO (ZÁRATE)
  ALUMNI c. URIBELARREA
 Fútbol Femenino de Primera División A 
-Jornada 6
- Lunes 11 de mayo
-18.30 Talleres – GELP – Estadio La Boutique
 Jornada 7 
 Viernes 15 de mayo 
 11:00 Huracán - Lanús - La Quemita 
