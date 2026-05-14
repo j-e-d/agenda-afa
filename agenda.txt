@@ -2177,9 +2177,54 @@ Fase de grupos:
  Grupo F: Palmeiras (Brasil), Cerro Porteño (Paraguay), Junior (Colombia) y Sporting Cristal (Perú).
  Grupo G: Liga de Quito (Ecuador), Lanús (Argentina), Always Ready (Bolivia) y Mirassol (Brasil).
  Grupo H: Independiente del Valle (Ecuador), Libertad (Paraguay), Rosario Central (Argentina) y Universidad Central (Venezuela).
-FECHA 4
+FECHA 5
 Fixture completo
 :
+Martes 19 de mayo
+ 19.00 Rosario Central vs Universidad Central
+ Árbitro: Flavio De Souza
+ Árbitro asistente 1: Bruno Pires
+ Árbitro asistente 2: Guilherme Dias Camilo
+ Cuarto árbitro: Edina Alves
+ VAR: Daniel Nobre
+ AVAR: Diego Pombo
+ 19:00 Independiente Santa Fe - Platense
+ Árbitro: Cristian Garay
+ Árbitro asistente 1: José Retamal
+ Árbitro asistente 2: Miguel Rocha
+ Cuarto árbitro: Franco Jiménez
+ VAR: Rodrigo Carvajal
+ AVAR: Alejandro Molina
+21:30 Boca Juniors vs Cruzeiro
+ Árbitro: Jesús Valenzuela
+ Árbitro asistente 1: Tulio Moreno
+ Árbitro asistente 2: Alberto Ponte
+ Cuarto árbitro: Yender Herrera
+ VAR: Ángel Arteaga
+ AVAR: Marcos Suárez
+Miercoles 20 de mayo 
+ 19:30 L.D.U. Quito vs Lanús
+ Árbitro: Andrés Rojas
+ Árbitro asistente 1: Richard Ortiz
+ Árbitro asistente 2: Roberto Padilla
+ Cuarto árbitro: Augusto Menéndez
+ VAR: Mauricio Pérez
+ AVAR: Lisandro Castillo
+ 21.30 Flamengo vs Estudiantes de La Plata
+Árbitro: Esteban Ostojich
+ Árbitro asistente 1: Martín Soppi
+ Árbitro asistente 2: Horacio Ferreiro
+ Cuarto árbitro: Diego Flores
+ VAR: Leodan González
+ AVAR: Santiago Fernández
+Jueves 21 de mayo 
+18.00 Deportivo La Guaira vs Independiente Rivadavia
+ Árbitro: Mario Díaz de Vivar
+ Árbitro asistente 1: José Cuevas
+ Árbitro asistente 2: Nadia Weiler
+ Cuarto árbitro: Blas Romero
+ VAR: Antonio García
+ AVAR: Anahí Fernández
  Grupo A
  Mié. 20 de mayo, 21:30 Flamengo - Estudiantes (LP)
  Mié. 20 de mayo, 23:00 Cusco FC - Ind. Medellín
@@ -2244,8 +2289,53 @@ Fase de grupos
  Grupo F: Gremio (Brasil), Palestino (Chile), Montevideo City Torque (Uruguay) y Deportivo Riestra (Argentina).
  Grupo G: Olimpia (Paraguay), Vasco da Gama (Brasil), Audax Italiano (Chile) y Barracas Central (Argentina).
  Grupo H: River Plate (Argentina), Red Bull Bragantino (Brasil), Blooming (Bolivia) y Carabobo (Venezuela).
-FECHA 4
+FECHA 5
 Fixture completo 
+Martes 19 de mayo 
+18.00 Audax Italiano vs Barracas Central
+ Árbitro: Gery Vargas
+ Árbitro asistente 1: José Antelo
+ Árbitro asistente 2: Edwar Saavedra
+ Cuarto árbitro: Dilio Rodríguez
+ VAR: Jorge Justiniano
+ AVAR: Juan Nelio García
+19.00 Montevideo City Torque vs Deportivo Riestra
+ Árbitro: Augusto Aragón
+ Árbitro asistente 1: Ricardo Baren
+ Árbitro asistente 2: Mauricio Lozada
+ Cuarto árbitro: Anthony Díaz
+ VAR: Franklin Congo
+ AVAR: Jefferson Macías
+21.00 América de Cali vs Tigre
+ Árbitro: Bruno Arleu
+ Árbitro asistente 1: Rodrigo Correa
+ Árbitro asistente 2: Rafael Alves
+ Cuarto árbitro: Rejane Caetano
+ VAR: Rodolpho Toski
+ AVAR: Rodrigo Dalonso
+Miercoles 20 de mayo 
+19.00 Santos vs San Lorenzo
+ Árbitro: Alexis Herrera
+ Árbitro asistente 1: Jorge Urrego
+ Árbitro asistente 2: Lubin Torrealba
+ Cuarto árbitro: Carlos Parra
+ VAR: Juan Soto
+ AVAR: Reyes Soto
+21.30 River Plate vs RB Bragantino
+ Árbitro: Gustavo Tejera
+ Árbitro asistente 1: Nicolás Tarán
+ Árbitro asistente 2: Carlos Barreiro
+ Cuarto árbitro: Alberto Feres
+ VAR: Christian Ferreyra
+ AVAR: Diego Dunajec
+Jueves 21 de mayo 
+21.00 Racing Club vs Caracas
+ Árbitro: Jhon Ospina
+ Árbitro asistente 1: Alejandro Gallego
+ Árbitro asistente 2: David Fuentes
+ Cuarto árbitro: Alex Cajas
+ VAR: Franklin Congo
+ AVAR: Jefferson Macías
  Grupo A
  Jue. 21 de mayo, 23:00 Macará - Alianza Atlético
  Mar. 19 de mayo, 23:00 América de Cali - Tigre
