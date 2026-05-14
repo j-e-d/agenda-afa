@@ -3,8 +3,20 @@ Torneo Apertura 2026
 Semifinales
 Sábado 16 de mayo
 19.30 River (2°B) – Rosario Central (4°B)
+ Árbitro: Nicolás Ramírez
+ Asistente 1: Juan Pablo Belatti
+ Asistente 2: Pablo González
+ Cuarto árbitro: Bruno Amiconi
+ VAR: Silvio Trucco
+ AVAR: Laura Fortunato
 Domingo 17 de mayo
- 17.00 Argentinos (3°B) – Belgrano (5°B)
+17.00 Argentinos (3°B) – Belgrano (5°B)
+ Árbitro: Nazareno Arasa 
+ Asistente 1: Gabriel Chade
+ Asistente 2: Cristian Navarro
+ Cuarto árbitro: Andrés Gariano
+ VAR: Lucas Novelli
+ AVAR: Gastón Suárez
  Las instancias de semifinales se disputarán en el estadio del club mejor ubicado en la Fase de Zonas.
  En caso de igualdad al cabo de los 90 minutos reglamentarios, se recurrirá a un tiempo suplementario de 30 minutos (dos tiempos de 15) y de persistir la igualdad, se ejecutará una serie de tiros desde el punto penal, conforme a las disposiciones del art. 111 apartado I, punto 1) c) del Reglamento General de AFA.
 Torneo Clausura 
@@ -2085,6 +2097,9 @@ ZONA A
  LA MANDARINA c. BELGRANO (ZÁRATE)
  ALUMNI c. URIBELARREA
 Fútbol Femenino de Primera División A 
+Jornada 6: 
+ Jueves 21 de mayo 
+ 15.00 Boca - River - casa amarilla.
 Jornada 7 
 Viernes 15 de mayo 
 11:00 Huracán - Lanús - La Quemita 
