@@ -1,18 +1,5 @@
 25/03/2019
-Torneo Apertura 2026
-Final
-Domingo 24 de mayo
-15.30 River (2°B) – Belgrano (5°B), en estadio Mario A. Kempes -TNT Sports / ESPN Premium
- Árbitro: Yael Falcón Pérez
- Asistente 1: Facundo Rodríguez
- Asistente 2: Maximiliano Del Yesso
- Cuarto árbitro: Luis Lobo Medina
- Quinto árbitro: Pablo Gualtieri
- VAR: Leandro Rey Hilfer
- AVAR: Salomé Di Iorio
-La localía quedó determinada según el siguiente punto del Reglamento del Torneo:
-8.5.1 La condición de local a efectos organizativos quedará determinada en función de la posición que cada uno de los equipos ocupe en la Tabla de su Zona, correspondiendo la localía a aquel que se encuentre mejor ubicado.
-8.5.2 En caso de igualdad al cabo de los 90 minutos reglamentarios, se recurrirá a un tiempo suplementario de 30 minutos (dos tiempos de 15) y de persistir la igualdad, se ejecutará una serie de tiros desde el punto penal, conforme a las disposiciones del art. 111 apartado I, punto 1) c) del Reglamento General de AFA.
+Torneo Apertura 
 Torneo Clausura 
 Fecha 1
 Interzonal: Defensa y Justicia – Aldosivi
@@ -378,55 +365,8 @@ Zona A
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
 Fecha 15
-Zona “A”
- Domingo 24 de mayo
- Acassuso - Def. de Belgrano, a las 14.00 horas
- Árbitro: Joaquín Gil
- Asistente 1: Mariano Rosetti
- Asistente 2: Diego Fernández
- Cuarto árbitro: Valentín Bocaccia
- Dep. Morón - Estudiantes, a las 15.00 horas 
- Árbitro: Juan Robledo Cruz
- Asistente 1: Maximiliano Castelli
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: David Cornejo
- Chaco For Ever - Dep. Madryn, a las 16.00 horas 
- Árbitro: Carlos Córdoba
- Asistente 1: Pascual Fernández
- Asistente 2: Martín Saccone
- Cuarto árbitro: Emanuel Ejarque
-Ferro Carril Oeste - Ctral. Norte (S.), a las 16.00 horas 
- Árbitro: Javier Delbarba
- Asistente 1: Nahuel Rasullo
- Asistente 2: Mariana De Almeida
- Cuarto árbitro: Sebastián Bresba
-Godoy Cruz - All Boys, a las 16.30 horas
- Árbitro: Juan Pafundi
- Asistente 1: Agustín Méndez
- Asistente 2: Arnaldo Melgarejo
- Cuarto árbitro: Wenceslao Meneses
- Colón - Mitre (S.E.), a las 18.00 horas 
- Árbitro: Álvaro Carranza
- Asistente 1: Miguel Savorani
- Asistente 2: Gonzalo Roldán
- Cuarto árbitro: Franco Rioja
 Zona “B”
  Domingo 24 de mayo
- Chacarita Juniors - Almagro, a las 15.30 horas
- Árbitro: Yamil Possi
- Asistente 1: Gerardo Lencina
- Asistente 2: Robertino Rosas
- Cuarto árbitro: Marcos Recalde
-Güemes (S.E.) - Patronato (Paraná), a las 16.00 horas 
- Árbitro: Bryan Ferreyra
- Asistente 1: Sebastián Osudar
- Asistente 2: Martín Grasso
- Cuarto árbitro: Nelson Bejas
-Agropecuario Arg. - Quilmes A.C, a las 16.00 horas 
- Árbitro: Federico Benítez
- Asistente 1: Mariano Ascensi
- Asistente 2: Cristian Herrera
- Cuarto árbitro: Valentín Pompei
 G. y Tiro (Salta) - G. y Esgrima (J.), a las 18.30 horas
  Árbitro: Bruno Amiconi
  Asistente 1: Diego Martín
@@ -1291,12 +1231,6 @@ Fecha 4 - Interzonal
  Sp. Barracas - Lugano
 Fecha 13
 Zona “A”
- Domingo 24 de mayo
- Berazategui - Arg. de Rosario, a las 15.30 horas
- Árbitro: Guido Mascheroni
- Asistente 1: Leandro Carril
- Asistente 2: Alejo Milone
- Cuarto árbitro: Damián Rubino
  Lunes 25 de mayo
  Victoriano Arenas - Sacachispas F.C, a las 15.30 horas 
  Árbitro: Mateo Bocaccia
@@ -1304,12 +1238,6 @@ Zona “A”
  Asistente 2: Lucas García
  Cuarto árbitro: Valentín Pérsico
 Zona “B”
-Domingo 24 de mayo
- Atlas - Luján, a las 15.30 horas 
- Árbitro: Gabriel Flores
- Asistente 1: Matías Vargas
- Asistente 2: Sebastián Krojzl
- Cuarto árbitro: Facundo Fuentes
  Lunes 25 de mayo
  Muñiz - Fénix, a las 15.30 horas en Atlas
  Árbitro: Manuel Girett
@@ -1898,14 +1826,7 @@ ZONA A
  LA MANDARINA c. BELGRANO (ZÁRATE)
  ALUMNI c. URIBELARREA
 Fútbol Femenino de Primera División A 
-Jornada 8 
- Sábado 23 de mayo
- 10.00 Lanús - Independiente
- 11.00 Racing - Gimnasia
- 15.00 Ferro - Belgrano
- 15.30 San Luis - Unión
- Domingo 24 de mayo
- 15.30 Newell's - SAT
+Jornada 8
  Lunes 25 de mayo
  15.00 Boca - Huracán
  17.30 Talleres - River
