@@ -2143,24 +2143,7 @@ Fase de grupos:
  Grupo F: Palmeiras (Brasil), Cerro Porteño (Paraguay), Junior (Colombia) y Sporting Cristal (Perú).
  Grupo G: Liga de Quito (Ecuador), Lanús (Argentina), Always Ready (Bolivia) y Mirassol (Brasil).
  Grupo H: Independiente del Valle (Ecuador), Libertad (Paraguay), Rosario Central (Argentina) y Universidad Central (Venezuela).
-FECHA 5
-Fixture completo
-:
-Martes 26 de Mayo
-19:00 Lanús vs Mirassol
- Árbitro: Carlos Benítez
- Asistente 1: Roberto Cañete
- Asistente 2: José Villagra
- Cuarto árbitro: David Ojeda
- VAR: Antonio García
- AVAR: Diego Dunajec
-21:30 Estudiantes de La Plata vs Independiente Medellín
- Árbitro: Juan Benítez
- Asistente 1: Eduardo Cardozo
- Asistente 2: Luis Onieva
- Cuarto árbitro: Derlis Benítez
- VAR: Ulises Mereles
- AVAR: Héctor Balbuena
+FECHA 6
 Miércoles 27 de Mayo 
 19:00 Independiente del Valle vs Rosario Central
  Árbitro: Raphael Claus
@@ -2238,23 +2221,7 @@ Fase de grupos
  Grupo F: Gremio (Brasil), Palestino (Chile), Montevideo City Torque (Uruguay) y Deportivo Riestra (Argentina).
  Grupo G: Olimpia (Paraguay), Vasco da Gama (Brasil), Audax Italiano (Chile) y Barracas Central (Argentina).
  Grupo H: River Plate (Argentina), Red Bull Bragantino (Brasil), Blooming (Bolivia) y Carabobo (Venezuela).
-FECHA 5
-Fixture completo 
- Martes 26 de Mayo 
-19:00 Palestino vs Deportivo Riestra
- Árbitro: Michael Espinoza
- Asistente 1: Leonar Soto
- Asistente 2: Enrique Pinto
- Cuarto árbitro: Joel Alarcón
- VAR: Diego Haro
- AVAR: Alejandro Villanueva
-21:30 San Lorenzo vs Recoleta
- Árbitro: Carlos Ortega
- Asistente 1: Sebastián Vela
- Asistente 2: Nataly Arteaga
- Cuarto árbitro: Wilmar Roldán
- VAR: Leonard Mosquera
- AVAR: Paula Fernández
+FECHA 6
  Miércoles 27 de Mayo 
 19:00 Racing Club vs Independiente (Bolivia)
  Árbitro: Augusto Aragón
