@@ -289,25 +289,88 @@ Torneo Proyección
  Fecha 15
  Martes 26 de mayo
  15.00 – Racing – Tigre (Zona A) – Tita Mattiussi
- 15.00 – Argentinos – Banfield (Zona A) – Ceffa
+ Árbitro: Valentín Pérsico
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Nicolás Oviedo
+ Cuarto árbitro: Gabriela Coronel
+ 15.00 – Argentinos – Banfield (Zona A) – CEFFA
+ Árbitro: Simón Laborda Paredes
+ Árbitro asistente 1: Franco Boetti
+ Árbitro asistente 2: Martín Núñez
+ Cuarto árbitro: Ariadna Palacios
  13.30 – Defensa y Justicia – Independiente (Zona B) – Campeones del Mundo
+ Árbitro: Leonardo Cristaldo
+ Árbitro asistente 1: Tomás Otero
+ Árbitro asistente 2: Cristian Camacho
+ Cuarto árbitro: Micaela Abelardo
  15.00 – Huracán – Ferro (Zona B) – La Quemita
- 15.00 – San Martín SJ – Colón (Zona B) – Predio
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Nicolás Cavagnaro
+ Árbitro asistente 2: Sofía Curto
+ Cuarto árbitro: Leandro Díaz
+ 15.00 – San Martín SJ – Colón (Zona B) – Auxiliar
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Sebastián Krojzl
+ Árbitro asistente 2: Elías Mendoza
  15.00 – Estudiantes (Río Cuarto) – Boca (Zona B) – Ciudad Deportiva
+ Árbitro: Facundo Fuentes
+ Árbitro asistente 1: Diego Ortiz
+ Árbitro asistente 2: Tomás Pérez
  Miércoles 27 de mayo
- 15.00 – Newell’s – Atlético Rafaela (Zona B) – Predio
+ 15.00 – Newell’s – Atlético Rafaela (Zona B) – Estadio Marcelo Bielsa
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Mauro Soria
+ Árbitro asistente 2: Agustín Cellucci
  15.00 – Vélez – Instituto (Zona A) – Villa Olímpica
- 15.00 – Atlético Tucumán – Godoy Cruz (Zona A) – San Jorge
+ Árbitro: Facundo Carretero
+ Árbitro asistente 1: Mario Vargas
+ Árbitro asistente 2: Nicolás Ruiz Segovia
+ Cuarto árbitro: Joaquín García Casas
+ 15.00 – Atlético Tucumán – Godoy Cruz (Zona A) – Predio José Salmoiraghi
+ Árbitro: Rodrigo Amadeo
+ Árbitro asistente 1: Rodrigo Mansilla
+ Árbitro asistente 2: Mateo Cueto
  15.00 – Ind. Rivadavia Mza. – Central Córdoba (Zona B) – Ciudad Deportiva
+ Árbitro: Lautaro Díaz
+ Árbitro asistente 1: Lucas García
+ Árbitro asistente 2: Matías Chena
  13.30 – Deportivo Riestra – Estudiantes (Zona B) – La Candela
- 15.00 – Belgrano – Quilmes (Zona B) – Predio
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Luciano Cabral
+ Árbitro asistente 2: Daniel Alegre
+ Cuarto árbitro: Sebastián Milessi
+ 15.00 – Belgrano – Quilmes (Zona B) – Estadio Julio César Villagra
+ Árbitro: Pablo Gómez
+ Árbitro asistente 1: Roberto Rodríguez
+ Árbitro asistente 2: Lucas Burgos
  Jueves 28 de mayo
- 15.00 – Gimnasia – Barracas Central (Zona A) – Estancia Chica
+ 15.00 – Gimnasia – Barracas Central (Zona A) – Estadio Juan Carmelo Zerillo
+ Árbitro: Franco Gutierre
+ Árbitro asistente 1: Alejo Milone
+ Árbitro asistente 2: Alexis Ramírez
+ Cuarto árbitro: Manuel Prieto
  15.00 – Unión – Gimnasia (Mza.) (Zona A) – La Tatenguita
- 15.00 – Sarmiento – Rosario Central (Zona A) – Car
+ Árbitro: Damián Parodi
+ Árbitro asistente 1: Franco Chavez
+ Árbitro asistente 2: Santiago Araujo
+ 15.00 – Sarmiento – Rosario Central (Zona A) – CAR
+ Árbitro: Ignacio Domínguez
+ Árbitro asistente 1: Rodolfo Rodríguez
+ Árbitro asistente 2: Ian Ávalos
  15.00 – Aldosivi – Talleres (Zona A) – Predio
+ Árbitro: Nazareno Galeano
+ Árbitro asistente 1: Freddy Quelca Guarachi
+ Árbitro asistente 2: Agustín Fischetti
  15.00 – Lanús – Platense (Zona B) – Auxiliar
+ Árbitro: Camila Gette
+ Árbitro asistente 1: Facundo Maldonado
+ Árbitro asistente 2: Nicolás Rovira
+ Cuarto árbitro: Mauro Trinidad
  19.00 – River – San Lorenzo (Zona A) – River Camp
+ Árbitro: Valentín Ibáñez Mesa
+ Árbitro asistente 1: Valentino Gaillard
+ Árbitro asistente 2: Patricio Acuña
+ Cuarto árbitro: Franco Porotelli
  Fecha 16
  Martes 2 de junio
  15.00 – Quilmes – Deportivo Riestra (Zona B) – Predio
@@ -1565,11 +1628,6 @@ Martes 2 de junio
 Miércoles 3 de junio
  San Lorenzo - Dep. Riestra, a las 21.10 horas en Dep. Morón (TV)
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA. 
-El resto de los partidos de 16avos. de final:
- Sarmiento de Junín vs. Boca Juniors
- River Plate vs. Aldosivi
- Independiente Rivadavia vs. Tigre
- Barracas Central vs. Huracán
 Torneo Federal A 
 Torneo Regional Amateur
 ZONA A
