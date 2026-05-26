@@ -427,16 +427,37 @@ Zona A
  DEF. DE BELGRANO - ALL BOYS
  CDAD. DE BOLÍVAR - ESTUDIANTES
  ALTE. BROWN - MITRE (S.E.)
- Fecha 16 
- RACING (CBA.) - FERRO CARRIL OESTE
- CTRAL. NORTE (S.) - CHACO FOR EVER
- DEP. MADRYN - ACASSUSO
- DEF. DE BELGRANO - SAN TELMO
- CDAD. DE BOLÍVAR - SAN MIGUEL
- ALTE. BROWN - COLÓN
- MITRE (S.E.) - DEP. MORÓN
- ESTUDIANTES - GODOY CRUZ (MZA.)
- ALL BOYS - LOS ANDES
+Fecha 16
+Zona “A”
+Viernes
+29
+ de mayo
+Racing (Cba.) - Ferro Carril Oeste, a las 21.00 horas
+Sábado 30 de mayo
+Estudiantes - Godoy Cruz, a las 15.00 horas
+All Boys - Los Andes, a las 15.30 horas
+Def. de Belgrano - San Telmo, a las 15.30 horas
+Alte. Brown - Colón, a las 15.30 horas
+Domingo 31 de mayo
+Dep. Madryn - Acassuso, a las 15.00 horas
+Mitre (S.E.) - Dep. Morón, a las 16.00 horas
+Cdad. Bolivar - San Miguel, a las 16.00 horas en estadio Municipal de Bolivar
+Ctral. Norte (S.) - Chaco For Ever, a las 16.30 horas en estadio Padre E. Martearena
+Zona “B”
+Sábado 
+30
+ de mayo
+Colegiales - Agropecuario Arg., a las 15.00 horas
+Domingo 31 de mayo
+Atlanta - G. y Tiro (Salta), a las 13.30 horas
+Almagro - Güemes (S.E.), a las 15.30 horas
+Temperley - San Martín (S.J.), a las 16.00 horas
+Patronato (Paraná) - Tristán Suarez, a las 16.00 horas
+F.C. Midland - San Martín (T.), a las 16.00 horas
+Quilmes A.C. - Atl. de Rafaela, a las 17.00 horas
+Dep. Maipú - Chacarita Juniors, a las 17.00 horas
+Partido postergado
+G. y Esgrima (J.) - Nva. Chicago
  Fecha 17 
  ALL BOYS - RACING (CBA.)
  LOS ANDES - ESTUDIANTES
@@ -944,17 +965,22 @@ Sp. Italiano - San Martín (B.)
  Asistente 2: Hugo Carbó
  Cuarto árbitro: Elías Viglione
 Fecha 18
- Argentino de Quilmes - Ituzaingó 
- Def. Unidos - Flandria 
- Comunicaciones - Dep. Armenio 
- Dock Sud - Brown (Adrogué) 
- Dep. Merlo - Dep. Laferrere 
- Camioneros - Talleres (RE) 
- Sportivo Italiano - Argentino de Merlo 
- San Martín (B) - Arsenal 
- Villa San Carlos - Excursionistas 
- Liniers - Villa Dálmine 
- Real Pilar - UAI Urquiza
+Sábado 
+30
+ de mayo
+Comunicaciones - Dep. Armenio, a las 14.30 horas
+Sp. Dock Sud - Brown (Adrogué), a las 14.30 horas
+Real Pilar F.C. - UAI - Urquiza, a las 15.30 horas en estadio Municipal de Pilar
+Dep. Merlo - Dep. Laferrere, a las 19.00 horas
+Domingo 31 de mayo
+Liniers - Villa Dálmine, a las 12.30 horas
+Camioneros - Talleres (R.E.), a las 14.30 horas
+Sp. Italiano - Arg. de Merlo, a las 14.30 horas
+Villa San Carlos - Excursionistas, a las 15.30 horas
+Def. Unidos - Flandria, a las 15.30 horas
+San Martín (B.) - Arsenal F.C, a las 19.00 horas
+Lunes 1 de junio
+Arg. de Quilmes - Ituzaingó, a las 15.30 horas
 Fecha 19 
  Ituzaingó - Real Pilar 
  UAI Urquiza - Liniers 
@@ -1247,14 +1273,31 @@ Primera C
 Fecha 4 - Interzonal
  Partido Postergado
  Sp. Barracas - Lugano
-Fecha 14 - 30/05/2026 
-Lugano C. Dep. Paraguayo
-Puerto Nuevo C. Mercedes
-L.N. Alem C. J.J. De Urquiza
-Def. De Cambaceres C. Ctro. Rec. Español
-J. Unida C. V. Arenas
-Sacachispas F.C. C. Berazategui
-Argentino (R.) C. Estrella Del Sur
+Fecha 14
+Zona “A”
+Sábado 
+30
+ de mayo
+Lugano - Dep. Paraguayo, a las 14.30 horas
+Puerto Nuevo - Mercedes, a las 15.30 horas
+Argentino (Ros.) - Estrella del Sur, a las 15.30 horas
+Def. de Cambaceres - Rec. Español, a las 19.00 horas
+Domingo 31 de mayo
+Juv. Unida - Victoriano Arenas, a las 12.30 horas
+L.N. Alem - J.J. de Urquiza, a las 15.30 horas
+Miércoles 3 de junio
+Sacachispas F.C. - Berazategui, a las 15.30 horas
+Zona “B”
+Sábado 30 de mayo
+Ctral. Ballester - Dep. Español, a las 12.30 horas
+El Porvenir - Muñiz, a las 14.30 horas
+Claypole - Ctral. Córdoba (Ros.), a las 14.30 horas
+Luján - Leones F.C, a las 15.30 horas
+Domingo 31 de mayo
+Gral. Lamadrid - Yupanqui, a las 15.30 horas
+Lunes 1 de junio
+Sp. Barracas - Atlas, a las 15.30 horas en Almagro
+Fénix - Cañuelas F.C, a las 15.30 horas en F.C Midland
 Fecha 15 - 06/06/2026 
 Argentino (R.) C. Lugano
 Estrella Del Sur C. Sacachispas F.C.
@@ -1595,6 +1638,28 @@ Cañuelas F.C. C. Ctral. Ballester
 Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
+Fecha 1
+Zona “A”
+Sábado 
+30
+ de mayo
+Def. de Glew - Juv. de Bernal, a las 15.30 horas
+Provincial (Lobos) - S.A.T., a las 15.30 horas
+Domingo 31 de mayo
+Atl. Pilar - Náutico Hacoaj, a las 10.30 horas
+Lunes 1 de junio
+Estrella de Berisso - Dep. Metalúrgico, a las 15.30 horas
+2
+ª. Fecha
+Zona “B”
+Sábado 
+30
+ de mayo
+Belgrano (Zarate) - Uribelarrea F.C, a las 15.30 horas
+Domingo 31 de mayo
+Barrancas F.C - Evertón (L.P.), a las 10.00 horas en Excursionistas
+Buenos Aires City F.C - Dep. Las Mandarinas, a las 13.00 horas en Lanús
+Control Orientado - Alumni Los Hornos, a las 15.30 horas en Atlético Pilar
 Copa Argentina 2026
 FASE FINAL – 16vos. de Final
 Sábado 30 de mayo
