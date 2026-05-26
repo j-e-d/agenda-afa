@@ -1229,21 +1229,6 @@ Primera C
 Fecha 4 - Interzonal
  Partido Postergado
  Sp. Barracas - Lugano
-Fecha 13
-Zona “A”
- Lunes 25 de mayo
- Victoriano Arenas - Sacachispas F.C, a las 15.30 horas 
- Árbitro: Mateo Bocaccia
- Asistente 1: Ignacio Otegui
- Asistente 2: Lucas García
- Cuarto árbitro: Valentín Pérsico
-Zona “B”
- Lunes 25 de mayo
- Muñiz - Fénix, a las 15.30 horas en Atlas
- Árbitro: Manuel Girett
- Asistente 1: Gonzalo Cubillas
- Asistente 2: Luis Taboada
- Cuarto árbitro: Eduardo Coyto
 Fecha 14 - 30/05/2026 
 Lugano C. Dep. Paraguayo
 Puerto Nuevo C. Mercedes
@@ -1826,10 +1811,6 @@ ZONA A
  LA MANDARINA c. BELGRANO (ZÁRATE)
  ALUMNI c. URIBELARREA
 Fútbol Femenino de Primera División A 
-Jornada 8
- Lunes 25 de mayo
- 15.00 Boca - Huracán
- 17.30 Talleres - River
 Jornada 9 
 Banfield vs Racing Club 
 Belgrano vs Talleres 
