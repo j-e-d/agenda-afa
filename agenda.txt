@@ -2119,28 +2119,6 @@ Fase de grupos:
  Grupo G: Liga de Quito (Ecuador), Lanús (Argentina), Always Ready (Bolivia) y Mirassol (Brasil).
  Grupo H: Independiente del Valle (Ecuador), Libertad (Paraguay), Rosario Central (Argentina) y Universidad Central (Venezuela).
 FECHA 6
-Miércoles 27 de Mayo 
-19:00 Independiente del Valle vs Rosario Central
- Árbitro: Raphael Claus
- Asistente 1: Danilo Manis
- Asistente 2: Maíra Moreira
- Cuarto árbitro: Rodrigo Pereira
- VAR: Wagner Reway
- AVAR: Charly Straub
-21:30 Bolívar vs Independiente Rivadavia
- Árbitro: Guillermo Guerrero
- Asistente 1: Cristian Lescano
- Asistente 2: David Vacacela
- Cuarto árbitro: Oswaldo Contreras
- VAR: Gabriel González
- AVAR: Roddy Zambrano
-21:30 Corinthians vs Platense
- Árbitro: Alexis Herrera
- Asistente 1: Alberto Ponte
- Asistente 2: Erizon Nieto
- Cuarto árbitro: Yender Herrera
- VAR: Reyes Soto
- AVAR: Antoni García
 Jueves 28 de Mayo 
 21:30 Boca Juniors vs Universidad Católica
  Árbitro: Wilmar Roldán
@@ -2197,29 +2175,7 @@ Fase de grupos
  Grupo G: Olimpia (Paraguay), Vasco da Gama (Brasil), Audax Italiano (Chile) y Barracas Central (Argentina).
  Grupo H: River Plate (Argentina), Red Bull Bragantino (Brasil), Blooming (Bolivia) y Carabobo (Venezuela).
 FECHA 6
- Miércoles 27 de Mayo 
-19:00 Racing Club vs Independiente (Bolivia)
- Árbitro: Augusto Aragón
- Asistente 1: Ricardo Baren
- Asistente 2: Mauricio Lozada
- Cuarto árbitro: Anthony Díaz
- VAR: Kevin Pazmiño
- AVAR: Roberto Sánchez
-19:00 Vasco da Gama vs Barracas Central
- Árbitro: Esteban Ostojich
- Asistente 1: Martín Soppi
- Asistente 2: Horacio Ferreiro
- Cuarto árbitro: Mathías De Armas
- VAR: Christian Ferreyra
- AVAR: Richard Trinidad
-21:30 River Plate vs Blooming
- Árbitro: Roberto Pérez
- Asistente 1: Stephen Atoche
- Asistente 2: Alberth Alarcón
- Cuarto árbitro: Jordi Espinoza
- VAR: Ulises Mereles
- AVAR: Héctor Balbuena
- Jueves 28 de Mayo 
+Jueves 28 de Mayo 
 21:30 Tigre vs Alianza Atlético
  Árbitro: David Ojeda
  Asistente 1: Milciades Saldívar
