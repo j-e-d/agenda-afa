@@ -344,65 +344,7 @@ Zona A
  ALTE. BROWN - MITRE (S.E.)
 PRIMERA NACIONAL
 Fecha 16
-Zona “A”
-Domingo 31 de mayo
-Dep. Madryn - Acassuso, a las 15.00 horas
- Árbitro: Maximiliano Macheroni
- Asistente 1: Juan Del Fueyo
- Asistente 2: Malvina Schiell
- Cuarto árbitro: Marcelo Sanz
-Mitre (S.E.) - Dep. Morón, a las 16.00 horas
- Árbitro: Maximiliano Manduca
- Asistente 1: Julio Fernández
- Asistente 2: Martín Grasso
- Cuarto árbitro: Maximiliano Silcan Jerez
-Cdad. Bolivar - San Miguel, a las 16.00 horas en estadio Municipal de Bolivar
- Árbitro: Juan Pablo Loustau
- Asistente 1: Mario Bardina
- Asistente 2: Darío Rojas Martínez
- Cuarto árbitro: Valentín Pompei
-Ctral. Norte (S.) - Chaco For Ever, a las 16.30 horas en estadio Padre E. Martearena
- Árbitro: Fabrizio Llobet
- Asistente 1: Manuel Sánchez
- Asistente 2: Gisela Bosso
- Cuarto árbitro: Darío Sandoval
 Zona “B”
-Domingo 31 de mayo
-Atlanta - G. y Tiro (Salta), a las 13.30 horas
- Árbitro: Juan Cruz Robledo
- Asistente 1: Adrián Delbarba
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Cristian Cernadas
-Almagro - Güemes (S.E.), a las 15.30 horas
- Árbitro: Pablo Giménez
- Asistente 1: Ramón Ortiz
- Asistente 2: Joaquín Badano
- Cuarto árbitro: Kevin Alegre
-Temperley - San Martín (S.J.), a las 16.00 horas
- Árbitro: Javier Delbarba
- Asistente 1: Juan Manuel González
- Asistente 2: Carla López
- Cuarto árbitro: Sebastián Bresba
-Patronato (Paraná) - Tristán Suarez, a las 16.00 horas
- Árbitro: Matías Billone
- Asistente 1: José Castelli
- Asistente 2: Marcelo Bistocco
- Cuarto árbitro: Enzo Gutiérrez
-F.C. Midland - San Martín (T.), a las 16.00 horas
- Árbitro: Álvaro Carranza
- Asistente 1: Diego Romero
- Asistente 2: Alejandro Schneller
- Cuarto árbitro: Gabriel Gutiérrez
-Quilmes A.C. - Atl. de Rafaela, a las 17.00 horas
- Árbitro: Adrián Franklin
- Asistente 1: Iván Alliende
- Asistente 2: Uriel García Leri
- Cuarto árbitro: Adrián Núñez Rodríguez
-Dep. Maipú - Chacarita Juniors, a las 17.00 horas
- Árbitro: Gonzalo Pereira
- Asistente 1: Federico Pomi
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Pablo Núñez
 Partido postergado
 G. y Esgrima (J.) - Nva. Chicago
  Árbitro: Lucas Cavallero
@@ -860,37 +802,6 @@ ZONA B
  ATLANTA - F.C. MIDLAND
 Primera B
 Fecha 18
-Domingo 31 de mayo
-Liniers - Villa Dálmine, a las 12.30 horas
- Árbitro: Maximiliano López Monti
- Asistente 1: Ángel Rebuscini
- Asistente 2: Jonathan Ghiso
- Cuarto árbitro: Lucas Brumer
-Camioneros - Talleres (R.E.), a las 14.30 horas
- Árbitro: Ariel Cruz
- Asistente 1: Cristian Amarilla
- Asistente 2: Leandro Britez
- Cuarto árbitro: Leandro Fedele
-Sp. Italiano - Arg. de Merlo, a las 14.30 horas
- Árbitro: Ignacio Cuicchi
- Asistente 1: Federico Zuvilivia
- Asistente 2: Gonzalo Cubillas
- Cuarto árbitro: Gonzalo Creimermann
-Villa San Carlos - Excursionistas, a las 15.30 horas
- Árbitro: Martín D'Esposito
- Asistente 1: Santiago Scalerandi
- Asistente 2: Gustavo Benítez Soilan
- Cuarto árbitro: Gonzalo Correa
-Def. Unidos - Flandria, a las 15.30 horas
- Árbitro: Ramiro Maglio
- Asistente 1: Gastón Borras
- Asistente 2: Tomás Otero
- Cuarto árbitro: Damián Rubino
-San Martín (B.) - Arsenal F.C, a las 19.00 horas
- Árbitro: Wenceslao Meneses
- Asistente 1: Damián Orellana
- Asistente 2: Pablo Pastor
- Cuarto árbitro: Guido Mascheroni
 Lunes 1 de junio
 Arg. de Quilmes - Ituzaingó, a las 15.30 horas
  Árbitro: Gabriel Flores
@@ -1191,17 +1102,6 @@ Fecha 4 - Interzonal
  Sp. Barracas - Lugano
 Fecha 14
 Zona “A”
-Domingo 31 de mayo
-Juv. Unida - Victoriano Arenas, a las 12.30 horas
- Árbitro: Elías Viglione
- Asistente 1: Damián Alcaraz
- Asistente 2: Patricio Acuña
- Cuarto árbitro: Agustín Panizza
-L.N. Alem - J.J. de Urquiza, a las 15.30 horas
- Árbitro: Ulises López
- Asistente 1: Mario Vargas
- Asistente 2: Mauro Soria
- Cuarto árbitro: Ariadna Palacios
 Miércoles 3 de junio
 Sacachispas F.C. - Berazategui, a las 15.30 horas
  Árbitro: Valentín Bocaccia
@@ -1209,12 +1109,6 @@ Sacachispas F.C. - Berazategui, a las 15.30 horas
  Asistente 2: Matías Pino
  Cuarto árbitro: Leandro Díaz
 Zona “B”
-Domingo 31 de mayo
-Gral. Lamadrid - Yupanqui, a las 15.30 horas
- Árbitro: Iván Mastroieni
- Asistente 1: Leandro Carril
- Asistente 2: Felipe Onufrik
- Cuarto árbitro: Roberta Echeverría
 Lunes 1 de junio
 Sp. Barracas - Atlas, a las 15.30 horas en Almagro
  Árbitro: Antonella Álvarez
@@ -1569,45 +1463,14 @@ Promocional Amateur
 CAMPEONATO “PROMOCIONAL AMATEUR” 2026
 Fecha 1
 Zona “A”
-Domingo 31 de mayo
-Atl. Pilar - Náutico Hacoaj, a las 10.30 horas
- Árbitro: Facundo Fuentes
- Asistente 1: Franco Boetti
- Asistente 2: Franco Chávez
- Cuarto árbitro: Mauro Trinidad
 Lunes 1 de junio
 Estrella de Berisso - Dep. Metalúrgico, a las 15.30 horas
  Árbitro: Fabrizio De La Cruz
  Asistente 1: Alejo Milone
  Asistente 2: Bruno Santillán
  Cuarto árbitro: Pablo Gómez
-2ª. Fecha
-Zona “B”
-Domingo 31 de mayo
-Barrancas F.C - Evertón (L.P.), a las 10.00 horas en Excursionistas
- Árbitro: Camila Gette
- Asistente 1: Bruno Castillo
- Asistente 2: Sebastián Krojzl
- Cuarto árbitro: Simón Laborda
-Buenos Aires City F.C - Dep. Las Mandarinas, a las 13.00 horas en Lanús
- Árbitro: Valentín Persico
- Asistente 1: Nahuel Valdeon
- Asistente 2: Oscar Maidana
- Cuarto árbitro: Joaquín García Casas
-Control Orientado - Alumni Los Hornos, a las 15.30 horas en Atlético Pilar
- Árbitro: Nicolás Díaz
- Asistente 1: Federico Machuca
- Asistente 2: Freddy Quelca Guarachy
- Cuarto árbitro: Franco Gutiérrez
 Copa Argentina 2026
 FASE FINAL – 16vos. de Final
-Domingo 31 de mayo
-Estudiantes LP - Rosario Central, 
-a las 15.30 horas en estadio Mario A. Kempes (TV)
-Árbitro: Leandro Rey Hilfer
-Asistente 1: Diego Bonfa
-Asistente 2: Iván Núñez
-Cuarto árbitro: Juan Pafundi
 Martes 2 de junio
  Barracas Ctral. - Huracán, a las 21.10 horas en Arsenal F.C. (TV)
 Árbitro: Sebastián Zunino 
@@ -1619,82 +1482,6 @@ Postergado
 San Lorenzo - Dep. Riestra
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA. 
 Torneo Federal A 
-Domingo 31 de Mayo 
-INDEPENDIENTE (CHI) - Nueve de Julio, a las 15.00 horas
- Árbitro: Diego Saul Novelli
- Asistente 1: Fernando Zabalza
- Asistente 2: Camila Romero
- Cuarto árbitro: Sergio Hernan Monzon
-EL LINQUEÑO - Def. Belgrano (V.R.), a las 15.00 horas
- Árbitro: José Manuel Diaz
- Asistente 1: Federico Hernan Ojeda
- Asistente 2: Matias Edgardo Noguera
- Cuarto árbitro: Denis Emanuel Chavez
-DEP RINCON - Fadep Mza, a las 15.00 horas
- Árbitro: Juan Ignacio Nebbietti
- Asistente 1: Emiliano Nicolas Bustos
- Asistente 2: Danilo Ariel Viola
- Cuarto árbitro: Kevin Nicolas Bustos
-AT. COSTA BRAVA - Argentino P, a las 15.00 horas
- Árbitro: Luis Damian Martinez
- Asistente 1: Fernando S. Muñoz
- Asistente 2: Jorge Rodrigo Cabrera Magallanes
- Cuarto árbitro: Rodrigo Ariel Jara
-GUILLERMO BROWN - Alvarado, a las 15.00 horas
- Árbitro: Fernando Omar Marcos
- Asistente 1: Rodrigo Moreno
- Asistente 2: Felipe Zonco
- Cuarto árbitro: Diego Maximiliano Alvarez
-SOL DE MAYO - Santamarina, a las 15.00 horas
- Árbitro: Ulises Jeronimo
- Asistente 1: Oscar Ariel Bono
- Asistente 2: Cristian Thomas Pasquettin
- Cuarto árbitro: Leandro Gatica
-CIRCULO DEPORTIVO - Villa Mitre, a las 15.00 horas
- Árbitro: Franco David Moron
- Asistente 1: Antonella Silvia Pajon
- Asistente 2: Alejo Cid
- Cuarto árbitro: Claudio Agustin Cabrelli
- DOUGLAS HAIG - G. y Esgrima CU, a las 15.30 horas
- Árbitro: Fernando Jesus Rekers
- Asistente 1: Emanuel Jose Serale
- Asistente 2: Gonzalo Anibal Roldan
- Cuarto árbitro: Franco Ezequiel Campos
- BOCA UNIDOS - Mitre Posadas, a las 15.30 horas
- Árbitro: Leandro Andres Sosa Abrile
- Asistente 1: Mariano Sebastian Viale
- Asistente 2: Dalma Perez
- Cuarto árbitro: Mario Facundo Rojo Casal
- SOL DE AMERICA - Juv Antoniana, a las 15.45 horas
- Árbitro: Lucas Nicolas Cavallero
- Asistente 1: Hugo Fleitas
- Asistente 2: Robertino Rosas
- Cuarto árbitro: Franco Sebastian Rioja
-SP. BELGRANO - Gim y Esgrima CH, a las 16.00 horas
- Árbitro: Jorge David Etem
- Asistente 1: Ivan Adriel Araya Quintero
- Asistente 2: Pablo Alberto Ramirez
- Cuarto árbitro: Matias Ariel Fernandez Zapata
-TUCUMAN CTRAL - Def de Vilelas, a las 16.00 horas
- Árbitro: Francisco Martin Acosta
- Asistente 1: Emilio José Maguna
- Asistente 2: Fernando Alberto Ruarte
- Cuarto árbitro: Nestor Fabian Caceres
-SARMIENTO RCIA. - Sarmiento SGO, a las 16.00 horas
- Árbitro: Alejandro Scionti
- Asistente 1: Sebastian Emanuel Osudar
- Asistente 2: Bruno Cejas
- Cuarto árbitro: Jonatan Daniel Mapelli
-HURACAN L.HERAS - J.U. Universitario, a las 16.00 horas
- Árbitro: Rodrigo Héctor Rivero
- Asistente 1: Luis Fernando Ortiz
- Asistente 2: Alex Zerda
- Cuarto árbitro: Santiago Andres Aguero
-AT. C. SAN MARTIN - Cipolletti, a las 16.00 horas
- Árbitro: Mauricio Exequiel Martin
- Asistente 1: José Daniel Ponce
- Asistente 2: Agustín Marto
- Cuarto árbitro: Rodrigo Ballestero
 Torneo Regional Amateur
 ZONA A
  Fecha 1
