@@ -395,15 +395,103 @@ G. y Esgrima (J.) - Nva. Chicago
  Asistente 2: Cristian Herrera
  Cuarto árbitro: Federico Guaymas
  Fecha 17 
- ALL BOYS - RACING (CBA.)
- LOS ANDES - ESTUDIANTES
- GODOY CRUZ (MZA.) - MITRE (S.E.)
- DEP. MORÓN - ALTE. BROWN
- COLÓN - CDAD. DE BOLÍVAR
- SAN MIGUEL - DEF. DE BELGRANO
- SAN TELMO - DEP. MADRYN
- ACASSUSO - CTRAL. NORTE (S.)
- CHACO FOR EVER - FERRO CARRIL OESTE
+Zona A
+Sábado 6 de Junio
+Los Andes - Estudiantes, a las 15.00 horas
+ Árbitro: Juan Pafundi
+ Asistente 1: Gerardo Lencina
+ Asistente 2: Maximiliano Montenegro
+ Cuarto árbitro: Jorge Broggi
+San Miguel - Def. de Belgrano, a las 15.30 horas
+ Árbitro: Franco Acita
+ Asistente 1: Nahuel Rasullo
+ Asistente 2: Felipe Arrechea
+ Cuarto árbitro: Javier Delbarba
+Acassuso - Ctral. Norte (S.), a las 15.30 horas
+ Árbitro: Yamil Possi
+ Asistente 1: Lucas Pardo
+ Asistente 2: Daiana Milone
+ Cuarto árbitro: Kevin Alegre
+Domingo 7 de Junio
+Dep. Morón - Alte. Brown, a las 15.00 horas
+ Árbitro: Juan Pablo Loustau
+ Asistente 1: Pablo Acevedo
+ Asistente 2: Pablo Gualtieri
+ Cuarto árbitro: Gonzalo Pereira
+San Telmo - Dep. Madryn, a las 15.00 horas
+ Árbitro: Felipe Viola
+ Asistente 1: Uriel García Leri
+ Asistente 2: Antonella Pajón
+ Cuarto árbitro: Julián Jerez
+All Boys - Racing (Cba.), a las 15.30 horas
+ Árbitro: Juan Cruz Robledo
+ Asistente 1: Javier Uziga
+ Asistente 2: Federico García
+ Cuarto árbitro: Nicolás Kresta
+Chaco For Ever - Ferro Carril Oeste, a las 16.00 horas
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Mariano Rosetti
+ Asistente 2: Nahuel Santanocito
+ Cuarto árbitro: Ariel Cruz
+Godoy Cruz - Mitre (S.E.), a las 16.30 horas
+ Árbitro: Lucas Cavallero
+ Asistente 1: Mauro Ramos Errasti
+ Asistente 2: Danilo Viola
+ Cuarto árbitro: Emanuel Ejarque
+Colón - Cdad. Bolívar, a las 17.00 horas
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Matías Balmaceda
+ Asistente 2: Emanuel Serale
+ Cuarto árbitro: Facundo Rojo Casal
+Zona B
+Viernes 5 de Junio 
+G. y Tiro (Salta) - F.C. Midland, a las 21.30 horas
+ Árbitro: Adrián Franklin
+ Asistente 1: Damián Espinoza
+ Asistente 2: José Ponce
+ Cuarto árbitro: Nelson Bejas
+Sábado 6 de Junio 
+Atlanta - G. y Esgrima (J.), a las 14.00 horas
+ Árbitro: Andrés Gariano
+ Asistente 1: Juan Mamani
+ Asistente 2: Erik Grunmann
+ Cuarto árbitro: Agustín Vegetti
+San Martín (S.J.) - Nva. Chicago, a las 16.00 horas
+ Árbitro: Federico Benítez
+ Asistente 1: Mariano Ascenzi
+ Asistente 2: Robertino Rosas
+ Cuarto árbitro: Darío Sandoval
+Atl. de Rafaela - Colegiales, a las 16.30 horas
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Daniel Zamora
+ Asistente 2: Martín Grasso
+ Cuarto árbitro: Valentín Pompei
+Tristán Suárez - Almagro, a las 19.00 horas
+ Árbitro: Daniel Zamora E.
+ Asistente 1: Marcelo Errante
+ Asistente 2: Lucas Vázquez
+ Cuarto árbitro: Gastón Iglesias
+Domingo 7 de Junio
+Chacarita Juniors - Temperley, a las 15.30 horas
+ Árbitro: Pablo Giménez
+ Asistente 1: Andrés Barbieri
+ Asistente 2: Agustín Méndez
+ Cuarto árbitro: Lucas Comesaña
+Güemes (S.E.) - Dep. Maipú, a las 16.00 horas
+ Árbitro: Matías Billone
+ Asistente 1: Víctor Rojas Aguirre
+ Asistente 2: Mariana Duré
+ Cuarto árbitro: Lucas Rodríguez
+Agropecuario Arg. - Patronato (Paraná), a las 16.00 horas
+ Árbitro: Gastón Monzón Brizuela
+ Asistente 1: Mariano Viale
+ Asistente 2: Martín Saccone
+ Cuarto árbitro: Ulises Jerónimo
+San Martín (T.) - Quilmes A.C., a las 17.30 horas
+ Árbitro: Nahuel Viñas
+ Asistente 1: Javier Viglieti
+ Asistente 2: Gonzalo Roldán
+ Cuarto árbitro: Franco Rioja
  Fecha 18 
  RACING (CBA.) - CHACO FOR EVER
  FERRO CARRIL OESTE - ACASSUSO
@@ -844,25 +932,66 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B
-Fecha 18
-Lunes 1 de junio
-Arg. de Quilmes - Ituzaingó, a las 15.30 horas
- Árbitro: Gabriel Flores
- Asistente 1: Matías Panozzo
- Asistente 2: Roberto Rodríguez
- Cuarto árbitro: Juilian Beligoy
 Fecha 19 
- Ituzaingó - Real Pilar 
- UAI Urquiza - Liniers 
- Villa Dálmine - Villa San Carlos
- Excursionistas - San Martín (B) 
- Arsenal - Sportivo Italiano 
- Argentino de Merlo - Camioneros 
- Talleres (RE) - Dep. Merlo 
- Dep. Laferrere - Dock Sud 
- Brown (Adrogué) - Comunicaciones 
- Dep. Armenio - Def. Unidos 
- Flandria - Argentino de Quilmes
+Viernes 5 de Junio 
+Ituzaingó - Real Pilar F.C., a las 18.00 horas
+ Árbitro: David Cornejo
+ Asistente 1: Luis Rotman
+ Asistente 2: Roberto Paz
+ Cuarto árbitro: Ramiro Maglio
+Talleres (R.E.) - Dep. Merlo, a las 20.00 horas
+ Árbitro: Sebastián Bresba
+ Asistente 1: Gonzalo Beloso
+ Asistente 2: Matías Pino
+ Cuarto árbitro: Maximiliano López Monti
+Sábado 6 de Junio 
+Arsenal F.C. - Sp. Italiano, a las 14.30 horas
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Fernando Rodríguez
+ Asistente 2: Agustín Galván
+ Cuarto árbitro: Marcos Recalde
+Brown (Adrogué) - Comunicaciones, a las 15.00 horas
+ Árbitro: Jonathan Barrios
+ Asistente 1: Arnaldo Melgarejo
+ Asistente 2: Valentino Gaillard
+ Cuarto árbitro: Matías Ansede
+Arg. de Merlo - Camioneros, a las 15.30 horas
+ Árbitro: Adrián Núñez Rodríguez
+ Asistente 1: Ramiro Ortiz Biondi
+ Asistente 2: Marcos Pueyo
+ Cuarto árbitro: Mariano Negrete
+Dep. Armenio - Def. Unidos, a las 15.30 horas
+ Árbitro: Martín Despósito
+ Asistente 1: Damián Orellana
+ Asistente 2: Leandro Carril
+ Cuarto árbitro: Manuel Girett
+Excursionistas - San Martín (B.), a las 15.30 horas
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Juan Manuel Díaz
+ Asistente 2: Diego Fernández
+ Cuarto árbitro: Iñaki Iparraguirre
+Flandria - Arg. de Quilmes, a las 15.30 horas
+ Árbitro: Valentín Bocaccia
+ Asistente 1: Hernán Antola
+ Asistente 2: Mara Díaz
+ Cuarto árbitro: Martín Morenza
+Villa Dálmine - Villa San Carlos, a las 15.30 horas
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Nicolás Gruccio
+ Asistente 2: Jonathan Florentín
+ Cuarto árbitro: Facundo Carretero
+Domingo 7 de Junio 
+Dep. Laferrere - Sp. Dock Sud, a las 14.30 horas
+ Árbitro: Julián Beligoy
+ Asistente 1: Martín Cingolani
+ Asistente 2: Julieta Fernández
+ Cuarto árbitro: Eduardo Coyto
+Lunes 8 de Junio 
+UAI Urquiza - Liniers, a las 15.30 horas
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Mariano Cichetto
+ Asistente 2: Giuliano Grillo
+ Cuarto árbitro: Facundo Fuentes
 Fecha 20 
  Flandria - Ituzaingó 
  Argentino de Quilmes - Dep. Armenio 
@@ -1151,26 +1280,84 @@ Sacachispas F.C. - Berazategui, a las 15.30 horas
  Asistente 1: Diego Fernández
  Asistente 2: Matías Pino
  Cuarto árbitro: Leandro Díaz
-Zona “B”
-Lunes 1 de junio
-Sp. Barracas - Atlas, a las 15.30 horas en Almagro
- Árbitro: Antonella Álvarez
- Asistente 1: Jonathan Florentín
- Asistente 2: Lucas García
- Cuarto árbitro: Manuel Prieto
-Fénix - Cañuelas F.C, a las 15.30 horas en F.C Midland
+Fecha 15 
+Zona A
+Sábado 6 de junio 
+Rec. Español - L.N. Alem, a las 14.30 horas
+ Árbitro: Manuel Prieto
+ Asistente 1: Matías Panozzo
+ Asistente 2: Alejo Milone
+ Cuarto árbitro: Nicolás Díaz
+J.J. de Urquiza - Puerto Nuevo, a las 15.30 horas
+ Árbitro: Micaela Abelardo
+ Asistente 1: Bruno Castillo
+ Asistente 2: Sebastián Krojzl
+ Cuarto árbitro: Ignacio Domínguez
+Argentino (Ros.) - Lugano, a las 15.30 horas
+ Árbitro: Elías Viglione
+ Asistente 1: Facundo Maldonado
+ Asistente 2: Nahuel Valdeón
+ Cuarto árbitro: Fabrizio De La Cruz
+Estrella del Sur - Sacachispas F.C., a las 15.30 horas
+ Árbitro: Guido Mascheroni
+ Asistente 1: Heber Ibáñez
+ Asistente 2: Leandro Idio
+ Cuarto árbitro: Ulises López
+Mercedes - Dep. Paraguayo, a las 16.00 horas
+ Árbitro: Gabriel Flores
+ Asistente 1: Federico Machuca
+ Asistente 2: Mariela Martino
+ Cuarto árbitro: Nazareno Galeano
+Domingo 7 de Junio 
+Victoriano Arenas - Def. de Cambaceres, a las 14.30 horas
+ Árbitro: Iván Castelu Coca
+ Asistente 1: Felipe Onufrik
+ Asistente 2: Sergio Benítez
+ Cuarto árbitro: Laura Fortunato
+Lunes 8 de Junio 
+Berazategui - Juv. Unida, a las 15.30 horas
+ Árbitro: Iván Mastroieni
+ Asistente 1: Matías Noli
+ Asistente 2: Rodolfo Rodríguez
+ Cuarto árbitro: Manuel Girett
+Zona B
+Sábado 6 de Junio 
+Yupanqui - Ctral. Córdoba (Ros.), a las 15.30 horas
+ Árbitro: Agustín Panizza
+ Asistente 1: Ignacio Otegui
+ Asistente 2: Sebastián Valdez
+ Cuarto árbitro: Antonella Álvarez
+Dep. Español - Claypole, a las 15.30 horas
+ Árbitro: Leandro Fedele
+ Asistente 1: Matías Vargas
+ Asistente 2: Joaquín Fraga
+ Cuarto árbitro: Roberta Echevarría
+Atlas - Fénix, a las 15.30 horas
+ Árbitro: Gonzalo Correa
+ Asistente 1: Alexis Etchepare
+ Asistente 2: Franco Boetti
+ Cuarto árbitro: Lucas Brumer
+Leones F.C. - Sp. Barracas, a las 15.30 horas
+ Árbitro: Agustín Flores
+ Asistente 1: Damián Alcaraz
+ Asistente 2: Roberto Rodríguez
+ Cuarto árbitro: Sebastián Milessi
+Domingo 7 de Junio 
+Muñiz - Ctral. Ballester, a las 15.30 horas
  Árbitro: Rodrigo Villalba
- Asistente 1: Ariel Ibañez
- Asistente 2: Nicolás Rovira
- Cuarto árbitro: Lautaro Díaz
-Fecha 15 - 06/06/2026 
-Argentino (R.) C. Lugano
-Estrella Del Sur C. Sacachispas F.C.
-Berazategui C. J. Unida
-V. Arenas C. Def. De Cambaceres
-Ctro. Rec. Español C. L.N. Alem
-J.J. De Urquiza C. Puerto Nuevo
-Mercedes C. Dep. Paraguayo
+ Asistente 1: Mario Vargas
+ Asistente 2: Enzo Nell
+ Cuarto árbitro: Martín Morenza
+Cañuelas F.C. - El Porvenir, a las 15.30 horas
+ Árbitro: Alejandro Porticella
+ Asistente 1: Lucas Monsalvo
+ Asistente 2: Rodrigo Mansilla
+ Cuarto árbitro: Iñaki Iparraguirre
+Gral. Lamadrid - Luján, a las 15.30 horas
+ Árbitro: Mateo Bocaccia
+ Asistente 1: Federico Bozo
+ Asistente 2: Lucas García
+ Cuarto árbitro: Matías Ansede
 Fecha 16 - 13/06/2026 
 Lugano C. Mercedes
 Dep. Paraguayo C. J.J. De Urquiza
@@ -1504,13 +1691,52 @@ Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
 CAMPEONATO “PROMOCIONAL AMATEUR” 2026
-Fecha 1
-Zona “A”
-Lunes 1 de junio
-Estrella de Berisso - Dep. Metalúrgico, a las 15.30 horas
- Árbitro: Fabrizio De La Cruz
- Asistente 1: Alejo Milone
+Zona A – 2ª Fecha
+Viernes 5 de Junio 
+Estrella de Berisso - Atl. Pilar, a las 15.30 horas
+ Árbitro: Franco Gutiérre
+ Asistente 1: Luciano Cabral
+ Asistente 2: Rodrigo Díaz
+ Cuarto árbitro: Valentín Ibáñez Meza
+Sábado 6 de Junio 
+Juv. de Bernal - Náutico Hacoaj, a las 15.00 horas
+ Árbitro: Franco Porotelli
+ Asistente 1: Nahuel Martín
  Asistente 2: Bruno Santillán
+ Cuarto árbitro: Valentín Pérsico
+S.A.T. - Def. de Glew, a las 15.30 horas
+ Árbitro: Juan Ferryra
+ Asistente 1: Cristian Rodríguez
+ Asistente 2: Nicolás Cavagnaro
+ Cuarto árbitro: Rodrigo Amadeo
+Domingo 7 de Junio 
+Dep. Metalúrgico - Provincial (Lobos), a las 15.30 horas
+ Árbitro: Leandro Díaz
+ Asistente 1: Ariel Ibáñez
+ Asistente 2: Tomás Pérez
+ Cuarto árbitro: Camila Gette
+Zona B – 3ª Fecha
+Sábado 6 de Junio 
+Alumni (Los Hornos) - Buenos Aires City, a las 14.30 horas
+ Árbitro: Ariadna Palación
+ Asistente 1: Gonzalo Cubillas
+ Asistente 2: Agustín Cellucci
+ Cuarto árbitro: Damián Parodi
+Uribelarrea F.C. - Control Orientado, a las 15.30 horas
+ Árbitro: Lautaro Díaz
+ Asistente 1: Mauro Soria
+ Asistente 2: Nicolás Rovira
+ Cuarto árbitro: Joaquín García Casas
+Dep. Las Mandarinas - Barrancas F.C., a las 15.30 horas
+ Árbitro: Mauro Trinidad
+ Asistente 1: Diego Ortiz
+ Asistente 2: Alexis Escobar
+ Cuarto árbitro: Leonardo Cristaldo
+Domingo 7 de Junio 
+Evertón (L.P.) - F.C. Ezeiza, a las 15.00 horas
+ Árbitro: Tomás Aybar
+ Asistente 1: Tomás Otero
+ Asistente 2: Matías Chena
  Cuarto árbitro: Pablo Gómez
 Copa Argentina 2026
 FASE FINAL – 16vos. de Final
