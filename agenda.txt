@@ -2049,46 +2049,31 @@ S.A.T. vs Ferro Carril Oeste
 Torneo Femenino de Primera B
 Copa Federal Femenina
 CONMEBOL Copa Libertadores 2026
-Fase de grupos:
- Grupo A: Flamengo (Brasil), Estudiantes de La Plata (Argentina), Cusco (Perú) e Independiente Medellín (Colombia).
- Grupo B: Nacional (Uruguay), Universitario (Perú), Coquimbo Unido (Chile) y Deportes Tolima (Colombia).
- Grupo C: Fluminense (Brasil), Bolívar (Bolivia), Deportivo La Guaira (Venezuela) y Independiente Rivadavia (Argentina).
- Grupo D: Boca Juniors (Argentina), Cruzeiro (Brasil), Universidad Católica (Chile) y Barcelona (Ecuador).
- Grupo E: Peñarol (Uruguay), Corinthians (Brasil), Santa Fe (Colombia) y Platense (Argentina).
- Grupo F: Palmeiras (Brasil), Cerro Porteño (Paraguay), Junior (Colombia) y Sporting Cristal (Perú).
- Grupo G: Liga de Quito (Ecuador), Lanús (Argentina), Always Ready (Bolivia) y Mirassol (Brasil).
- Grupo H: Independiente del Valle (Ecuador), Libertad (Paraguay), Rosario Central (Argentina) y Universidad Central (Venezuela).
-FECHA 6
- Grupo A
- Mar. 26 de mayo, 21:30 Flamengo - Cusco FC
- Mar. 26 de mayo, 21:30 Estudiantes (LP) - Ind. Medellín
- Grupo B
- Mar. 26 de mayo, 21:30 Nacional (Uruguay) - Coquimbo Unido
- Mar. 26 de mayo, 21:30 Universitario - Deportes Tolima
- Grupo C
- Mié. 27 de mayo, 21:30 Fluminense - Dep. La Guaira
- Mié. 27 de mayo, 21:30 Bolívar - Ind. Rivadavia
- Grupo D
- Jue. 28 de mayo, 21:30 Boca Juniors - Univ. Católica
- Jue. 28 de mayo, 21:30 Cruzeiro - Barcelona
- Grupo E
- Mié. 27 de mayo, 21:30 Peñarol - Santa Fe
- Mié. 27 de mayo, 21:30 Corinthians - Platense
- Grupo F
- Jue. 28 de mayo, 19:00 Palmeiras - Junior
- Jue. 28 de mayo, 19:00 Cerro Porteño - Sporting Cristal
- Grupo G
- Mar. 26 de mayo, 19:00 LDU Quito - Always Ready
- Mar. 26 de mayo, 19:00 Lanús - Mirassol
- Grupo H
- Mié. 27 de mayo, 19:00 Ind. del Valle - Rosario Central
- Mié. 27 de mayo, 19:00 Libertad - Univ. Central
- La Fase de Grupos de la CONMEBOL Libertadores comenzará a disputarse el próximo martes 7 de abril, semana en la que se completará su primera jornada. El resto de las fechas son las siguientes:
- Fecha 6: 26 al 28 de mayo
- Después del sorteo que definirá los cruces de octavos de final, las rondas eliminatorias de la CONMEBOL Libertadores comenzarán a disputarse a partir del 11 de agosto.
- Octavos de final
- Partidos de ida: 11 al 13 de agosto
- Partidos de vuelta: 18 al 20 de agosto
+Calendario octavos de final
+ Partidos de Ida
+ Martes 11 de agosto:
+ 19:00 - Fluminense vs. Independiente Rivadavia
+ 19:30 - Deportes Tolima vs. Independiente del Valle
+ 21:30 - Estudiantes LP vs. Universidad Católica
+ Miércoles 12 de agosto:
+ 19:00 - Platense vs. Coquimbo Unido
+ 19:00 - Palmeiras vs. Cerro Porteño
+ 21:30 - Cruzeiro vs. Flamengo
+ Jueves 13 de agosto:
+ 19:00 - Mirassol vs. LDU Quito
+ 21:30 - Rosario Central vs. Corinthians
+ Partidos de Vuelta
+ Martes 18 de agosto:
+ 19:00 - Independiente Rivadavia vs. Fluminense
+ 21:30 - Universidad Católica vs. Estudiantes LP
+ 21:30 - Independiente del Valle vs. Deportes Tolima
+ Miércoles 19 de agosto:
+ 19:00 - Coquimbo Unido vs. Platense
+ 19:00 - Cerro Porteño vs. Palmeiras
+ 21:30 - Flamengo vs. Cruzeiro
+ Jueves 20 de agosto:
+ 19:00 - LDU Quito vs. Mirassol
+ 21:30 - Corinthians vs. Rosario Central
  Cuartos de final
  Partidos de ida: 8 al 10 de septiembre
  Partidos de vuelta: 15 al 17 de septiembre
@@ -2097,49 +2082,31 @@ FECHA 6
  Partidos de vuelta: 20 y 21 de octubre
  La final de la CONMEBOL Libertadores se disputará el 28 de noviembre en la ciudad de Montevideo. 
 CONMEBOL Copa Sudamericana 2026
-Fase de grupos
- Grupo A: América de Cali (Colombia), Tigre (Argentina), Macará (Ecuador) y Alianza Atlético (Perú)
- Grupo B: Atlético Mineiro (Brasil), Cienciano (Perú), Academia Puerto Cabello (Venezuela) y Juventud (Uruguay).
- Grupo C: São Paulo (Brasil), Millonarios (Colombia), Boston River (Uruguay) y O’Higgins (Chile).
- Grupo D: Santos (Brasil), San Lorenzo (Argentina), Deportivo Cuenca (Ecuador) y Recoleta (Paraguay).
- Grupo E: Racing (Argentina), Caracas (Venezuela), Independiente (Bolivia) y Botafogo (Brasil).
- Grupo F: Gremio (Brasil), Palestino (Chile), Montevideo City Torque (Uruguay) y Deportivo Riestra (Argentina).
- Grupo G: Olimpia (Paraguay), Vasco da Gama (Brasil), Audax Italiano (Chile) y Barracas Central (Argentina).
- Grupo H: River Plate (Argentina), Red Bull Bragantino (Brasil), Blooming (Bolivia) y Carabobo (Venezuela).
-FECHA 6
- Grupo A
- Jue. 28 de mayo, 21:30 América de Cali - Macará
- Jue. 28 de mayo, 21:30 Tigre - Alianza Atlético
- Grupo B
- Mié. 27 de mayo, 19:00 Atlético Mineiro - Academia Puerto Cabello
- Mié. 27 de mayo, 19:00 Cienciano - Juventud
- Grupo C
- Mar. 26 de mayo, 19:00 San Pablo - Boston River
- Mar. 26 de mayo, 19:00 Millonarios - O'Higgins
- Grupo D
- Mar. 26 de mayo, 21:30 Santos - Deportivo Cuenca
- Mar. 26 de mayo, 21:30 San Lorenzo - Recoleta
- Grupo E
- Mié. 27 de mayo, 19:00 Racing - Independiente Petrolero
- Mié. 27 de mayo, 19:00 Caracas - Botafogo
- Grupo F
- Mar. 26 de mayo, 19:00 Gremio - Montevideo City Torque
- Mar. 26 de mayo, 19:00 Palestino - Deportivo Riestra
- Grupo G
- Mié. 27 de mayo, 21:30 Olimpia - Audax Italiano
- Mié. 27 de mayo, 21:30 Vasco da Gama - Barracas Central
- Grupo H
- Mié. 27 de mayo, 21:30 River Plate - Blooming
- Mié. 27 de mayo, 21:30 Bragantino - Carabobo
- La Fase de Grupos de la CONMEBOL Sudamericana comenzará a disputarse el próximo martes 7 de abril, semana en la que se completará su primera jornada. El resto de las fechas son las siguientes:
- Fecha 6: 26 al 28 de mayo
- Después del sorteo que definirá los de la Fase de Playoffs de los octavos de final y de los octavos de final, las rondas eliminatorias de la CONMEBOL Sudamericana comenzarán a disputarse a partir del 21 de julio.
- Eliminatorias de octavos de final
- Partidos de ida: 21 al 23 de julio
- Partidos de vuelta: 28 al 30 de julio
- Octavos de final
- Partidos de ida: 11 al 13 de agosto
- Partidos de vuelta: 18 al 20 de agosto
+Playoffs Copa Sudamericana 2026
+ Nacional vs Tigre
+ Ida: martes 21 de julio, 19:00 horas (Montevideo)
+ Vuelta: martes 28 de julio, 21:30 horas (Victoria)
+ Universidad Central vs Santos
+ Ida: martes 21 de julio, 20:30 horas (Caracas)
+ Vuelta: martes 28 de julio, 21:30 horas (Santos)
+ Independiente Medellín vs Vasco da Gama
+ Ida: miércoles 22 de julio, 17:00 horas (Medellín)
+ Vuelta: miércoles 29 de julio, 19:00 horas (Río de Janeiro)
+ Lanús vs Cienciano
+ Ida: miércoles 22 de julio, 21:30 horas (Lanús)
+ Vuelta: miércoles 29 de julio, 19:30 horas (Cusco)
+ Sporting Cristal vs RB Bragantino
+ Ida: miércoles 22 de julio, 19:30 horas (Lima)
+ Vuelta: miércoles 29 de julio, 21:30 horas (estadio a confirmar)
+ Bolívar vs Gremio
+ Ida: jueves 23 de julio, 18:00 horas (La Paz)
+ Vuelta: jueves 30 de julio, 19:00 horas (Porto Alegre)
+ Santa Fe vs Caracas
+ Ida: jueves 23 de julio, 19:30 horas (Bogotá)
+ Vuelta: jueves 30 de julio, 19:00 horas (Caracas)
+ Boca Juniors vs O’Higgins
+ Ida: jueves 23 de julio, 21:30 horas (Buenos Aires)
+ Vuelta: jueves 30 de julio, 21:30 horas (estadio a confirmar)
  Cuartos de final
  Partidos de ida: 8 al 10 de septiembre
  Partidos de vuelta: 15 al 17 de septiembre
