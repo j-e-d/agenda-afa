@@ -963,28 +963,6 @@ Fecha 42
  Argentino de Quilmes - Brown (Adrogué) 
  Flandria - Dep. Armenio
 Primera C
-Fecha 16
-Zona A
- Lunes 15 de junio
- 15.30 Sacachispas F.C. - Argentino (R.)
- Árbitro: David Cornejo
- Árbitro asistente 1: Federico Bozo
- Árbitro asistente 2: Joaquín Fraga
- Cuarto árbitro: Rodrigo Villalba
- Zona B
- Lunes 15 de junio
- 15.30 Fénix - Leones F.C., en FC Midland
- Árbitro: Alejandro Porticella
- Árbitro asistente 1: Felipe Onufrik
- Árbitro asistente 2: Marcos Pueyo
- Cuarto árbitro: Iván Castelu Coca
- 15.30 Sportivo Barracas - Gral. Lamadrid, en Almagro
- Árbitro: Matías Ansede
- Árbitro asistente 1: Felipe Arrechea
- Árbitro asistente 2: Alejo Milone
- Cuarto árbitro: Guido Mascheroni
-Lunes 15 de junio
-15.30 Def. de Cambaceres c. Berazategui (se disputarán 68 minutos, en 2 tiempos de 34 minutos cada uno, con descanso reglamentario)
 Fecha 17 - 27/06/2026 
 Sacachispas F.C. C. Lugano
 J. Unida C. Argentino (R.)
@@ -1323,19 +1301,27 @@ Martes 21 de julio
 De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa Argentina, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Torneo Federal A 
 Fútbol Femenino de Primera División A 
-Jornada 9 
- Lunes 15 de junio
- 15.00 Banfield - Racing
- 15.00 Huracán - Ferro
- 15.00 Independiente - Boca
 Jornada 10
-Boca Jrs. vs Unión Santa Fe 
-Ferro Carril Oeste vs Independiente 
-Lanús vs San Luis 
-Newell’s vs Banfield 
-Racing Club vs River Plate 
-San Lorenzo vs Belgrano 
-Talleres vs Huracán 
+Viernes 19 de junio
+15.00 GELP - SAT
+ Predio Estancia Chica (Cancha 1) - LPF Play
+15.00 San Lorenzo - Belgrano
+ Ciudad Deportiva (Cancha 1) - LPF Play
+Sábado 20 de junio
+10.00 Lanús - San Luis
+ Predio Valentín Alsina - LPF Play
+11.00 Boca Juniors - Unión
+ Casa Amarilla - LPF Play
+17.30 Ferro - Independiente
+ Sintético Caballito - LPF Play
+Domingo 21 de junio
+11.00 Racing Club - River Plate
+ Predio Tita - LPF Play
+ 15.00 Newell's Old Boys - Banfield
+ Predio Bella Vista - LPF Play
+Lunes 22 de junio
+19.00 Talleres - Huracán
+ Estadio Boutique - LPF Play
 Jornada 11 
 Banfield vs Gimnasia LP 
 Belgrano vs Racing Club 
