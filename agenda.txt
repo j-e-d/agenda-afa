@@ -1,58 +1,65 @@
 25/03/2019
-Torneo Apertura 
 Torneo Clausura 
 Fecha 1
-Interzonal: Defensa y Justicia – Aldosivi
-Zona A
- Deportivo Riestra – Boca
- Estudiantes – Independiente
- Newell’s – Talleres
- Vélez – Instituto
- Platense – Unión
- Lanús – San Lorenzo
- Gimnasia (Mza.) – Central Córdoba
-Zona B
- River – Barracas Central
- Racing – Gimnasia
- Belgrano – Rosario Central
- Estudiantes (Río Cuarto) – Tigre
- Atlético Tucumán – Independiente Rivadavia Mza.
-Fecha 2
-Interzonal: Central Córdoba – Atlético Tucumán
-Zona A
- San Lorenzo – Gimnasia (Mza.)
- Unión – Lanús
- Instituto – Platense
- Talleres – Vélez
- Independiente – Newell’s
- Boca – Estudiantes
- Defensa y Justicia – Deportivo Riestra
-Zona B
- Independiente Rivadavia Mza. – Huracán
- Banfield – Sarmiento
- Argentinos – Estudiantes (Río Cuarto)
- Tigre – Belgrano
- Rosario Central – Racing
- Gimnasia – River
- Barracas Central – Aldosivi
-Fecha 3
-Interzonal: Deportivo Riestra – Barracas Central
-Zona A
- Estudiantes – Defensa y Justicia
- Newell’s – Boca
- Vélez – Independiente
- Platense – Talleres
- Lanús – Instituto
- Gimnasia (Mza.) – Unión
- Central Córdoba – San Lorenzo
-Zona B
- Aldosivi – Gimnasia
- River – Rosario Central
- Racing – Tigre
- Belgrano – Argentinos
- Estudiantes (Río Cuarto) – Banfield
- Sarmiento – Independiente Rivadavia Mza.
- Huracán – Atlético Tucumán
+ Jueves 23 de julio
+ 19.30 Belgrano – Rosario Central (Zona B)
+ 19.30 Sarmiento – Argentinos (Zona B)
+ 21.45 Defensa y Justicia – Aldosivi (Interzonal)
+ Viernes 24 de julio
+ 16.45 Gimnasia (Mza.) – Central Córdoba (Zona A)
+ 19.00 Racing – Gimnasia (Zona B)
+ 19.00 Vélez – Instituto (Zona A)
+ 21.15 Huracán – Banfield (Zona B)
+ 21.15 Platense – Unión (Zona A)
+ Sábado 25 de julio
+ 14.45 Estudiantes (Río Cuarto) – Tigre (Zona B)
+ 17.00 Newell’s – Talleres (Zona A)
+ 19.15 River – Barracas Central (Zona B)
+ 21.30 Lanús – San Lorenzo (Zona A)
+ Domingo 26 de julio
+ 15.00 Atlético Tucumán – Ind. Rivadavia Mza. (Zona B)
+ 17.15 Estudiantes – Independiente (Zona A)
+ 19.30 Deportivo Riestra – Boca (Zona A)
+ Fecha 2
+ Martes 28 de julio
+ 19.00 San Lorenzo – Gimnasia (Mza.) (Zona A)
+ 19.00 Banfield – Sarmiento (Zona B)
+ 21.15 Argentinos – Estudiantes (Río Cuarto)
+ 21.15 Rosario Central – Racing (Zona B)
+ Miércoles 29 de julio
+ 14.30 Barracas Central – Aldosivi (Zona B)
+ 17.00 Defensa y Justicia – Deportivo Riestra (Zona A)
+ 19.15 Gimnasia – River (Zona B)
+ 21.30 Instituto – Platense (Zona A)
+ Jueves 30 de julio
+ 19.00 Ind. Rivadavia Mza. – Huracán (Zona B)
+ 19.00 Talleres – Vélez (Zona A)
+ 21.15 Independiente – Newell’s (Zona A)
+ 21.15 Central Córdoba – Atlético Tucumán (Interzonal)
+ Miércoles 5 de agosto
+ 19.00 Boca – Estudiantes (Zona A)
+ 21.15 Tigre – Belgrano (Zona B)
+ Jueves 6 de agosto
+ 19.00 Unión – Lanús (Zona A)
+ Fecha 3
+ Sábado 1 de agosto
+ 15.30 Gimnasia (Mza.) – Unión (Zona A)
+ 15.30 Estudiantes (Río Cuarto) – Banfield
+ 18.00 Belgrano – Argentinos (Zona B)
+ 18.00 Estudiantes – Defensa y Justicia (Zona A)
+ 20.30 Racing – Tigre (Zona B)
+ Domingo 2 de agosto
+ 14.30 Deportivo Riestra – Barracas Central (Interzonal)
+ 14.30 Aldosivi – Gimnasia (Zona B)
+ 17.00 Newell’s – Boca (Zona A)
+ 19.15 River – Rosario Central (Zona B)
+ 21.30 Lanús – Instituto (Zona A)
+ Lunes 3 de agosto
+ 16.45 Sarmiento – Ind. Rivadavia Mza. (Zona B)
+ 19.00 Platense – Talleres (Zona A)
+ 19.00 Vélez – Independiente (Zona A)
+ 21.15 Central Córdoba – San Lorenzo (Zona A)
+ 21.15 Huracán – Atlético Tucumán (Zona B)
 Fecha 4
 Interzonal: San Lorenzo – Huracán
 Zona A
