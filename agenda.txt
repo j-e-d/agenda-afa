@@ -298,23 +298,97 @@ Cuartos de Final
  11.00 Vélez (1°A) – Newell’s (4°B) – Villa Olímpica
  14.00 Boca (1°B) – Atlético Tucumán (4°A) – Boca Predio
 Primera Nacional
- Fecha 17 
-Zona B
- San Martín (S.J.) - Nva. Chicago, suspendido tras la finalización del primer tiempo.
- Árbitro: Federico Benítez
- Asistente 1: Mariano Ascenzi
+Fecha 19
+Colegiales - G. y Tiro (S.)
+ Árbitro: Franco Acita
+ Asistente 1: Ariel Scime
+ Asistente 2: Federico Pomi
+ Cuarto árbitro: Mariano Negrete
+Almagro - At. de Rafaela
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Juan Pablo Millenaar
+ Asistente 2: Mariano Cichetto
+ Cuarto árbitro: Kevin Alegre
+Alte. Brown - Los Andes
+ Árbitro: Bruno Amiconi
+ Asistente 1: Walter Ferreyra
+ Asistente 2: Ernesto Callegari
+ Cuarto árbitro: Adrián Núñez Rodríguez
+Def. de Belgrano - Dep. Morón
+ Árbitro: Yamil Possi
+ Asistente 1: Pablo Acevedo
+ Asistente 2: Lucas Pardo
+ Cuarto árbitro: Juan Ferreyra
+Nva. Chicago - Güemes (S.E.)
+ Árbitro: Bryan Ferreyra
+ Asistente 1: Sebastián Raineri
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Alejandro Scionti
+Temperley - T. Suárez
+ Árbitro: Álvaro Carranza
+ Asistente 1: Miguel Savorani
+ Asistente 2: Marcos Horticolou
+ Cuarto árbitro: Jorge Etem
+Cdad. de Bolívar - Godoy Cruz (Mza.)
+ Árbitro: Javier Delbarba
+ Asistente 1: Juan Manuel González
  Asistente 2: Robertino Rosas
- Cuarto árbitro: Darío Sandoval
- Fecha 19 
- ESTUDIANTES - RACING (CBA.)
- MITRE (S.E.) - ALL BOYS
- ALTE. BROWN - LOS ANDES
- CDAD. DE BOLÍVAR - GODOY CRUZ (MZA.)
- DEF. DE BELGRANO - DEP. MORÓN
- DEP. MADRYN - COLÓN
- CTRAL. NORTE (S.) - SAN MIGUEL
- FERRO CARRIL OESTE - SAN TELMO
- CHACO FOR EVER - ACASSUSO
+ Cuarto árbitro: Agustín Vegetti
+Quilmes A.C. - Atlanta
+ Árbitro: Juan Pafundi
+ Asistente 1: Hugo Páez
+ Asistente 2: Juan Ricciardi
+ Cuarto árbitro: Jorge Broggi
+Dep. Madryn - Colón
+ Árbitro: Gastón Monson Brizuela
+ Asistente 1: José Castelli
+ Asistente 2: Damián Espinoza
+ Cuarto árbitro: Valentín Pompei
+Estudiantes - Racing (Cba.)
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Erick Grunmann
+ Asistente 2: Lucas Ripoli
+ Cuarto árbitro: Guido Mascheroni
+Chaco For Ever - Acassuso
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Gonzalo Ferrari
+ Asistente 2: Alejandro Schneller
+ Cuarto árbitro: Leandro Billanueva
+Ferro Carril Oeste - San Telmo
+ Árbitro: Pablo Giménez
+ Asistente 1: Pablo Gualtieri
+ Asistente 2: Agustín Méndez
+ Cuarto árbitro: Gastón Iglesias
+Patronato (P.) - San Martín (T.)
+ Árbitro: Adrián Franklin
+ Asistente 1: Manuel Sánchez
+ Asistente 2: Mariana Dure
+ Cuarto árbitro: Franco Rioja
+F.C. Midland - G. y Esgrima (J.)
+ Árbitro: Felipe Viola
+ Asistente 1: Maximiliano Castelli
+ Asistente 2: Ramón Ortiz
+ Cuarto árbitro: Nicolás Kresta
+Mitre (S.E.) - All Boys
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Federico Cano
+ Asistente 2: Joaquín Badano
+ Cuarto árbitro: Leandro Sosa Abrile
+San Martín (S.J.) - Chacarita Jrs.
+ Árbitro: Daniel Zamora
+ Asistente 1: Diego Martín
+ Asistente 2: Lucas Vázquez
+ Cuarto árbitro: Ulises Jerónimo
+Ctral. Norte (S.) - San Miguel
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Hernán Vallejos
+ Asistente 2: Emanuel Serale
+ Cuarto árbitro: Pablo Núñez
+Dep. Maipú (Mza.) - Agropecuario Arg.
+ Árbitro: Lucas Cavallero
+ Asistente 1: Eduardo Lucero
+ Asistente 2: Antonella Pajón
+ Cuarto árbitro: Nelson Bejas
  Fecha 20 
  RACING (CBA.) - ACASSUSO
  SAN TELMO - CHACO FOR EVER
@@ -695,18 +769,62 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B
-Fecha 23 
- Ituzaingó - Villa San Carlos 
- San Martín (B) - Liniers 
- Sportivo Italiano - Real Pilar 
- Camioneros - UAI Urquiza 
- Dep. Merlo - Villa Dálmine 
- Dock Sud - Excursionistas 
- Comunicaciones - Arsenal 
- Def. Unidos - Argentino de Merlo 
- Argentino de Quilmes - Talleres (RE) 
- Flandria - Dep. Laferrere 
- Dep. Armenio - Brown (Adrogué)
+Fecha 23
+Dep. Merlo - Villa Dálmine
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Hugo Carbo
+ Asistente 2: Juan Manuel Acevedo
+ Cuarto árbitro: Lucas Brumer
+Ituzaingó - Villa San Carlos
+ Árbitro: Gabriel Flores
+ Asistente 1: Luis Rotman
+ Asistente 2: Cristian Amarilla
+ Cuarto árbitro: Martín Morenza
+Camioneros - UAI Urquiza
+ Árbitro: Ramiro Maglio
+ Asistente 1: Hugo Hartung
+ Asistente 2: Mara Díaz
+ Cuarto árbitro: Guido Mascheroni
+Comunicaciones - Arsenal F.C.
+ Árbitro: Martín D'Esposito
+ Asistente 1: Maximiliano Montenegro
+ Asistente 2: Matías Noli
+ Cuarto árbitro: Gastón Iglesias
+Flandria - Dep. Laferrere
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Gonzalo Beloso
+ Asistente 2: Mariela Martino
+ Cuarto árbitro: Tomás Aybar
+Sp. Dock Sud - Excursionistas
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Diego Romero
+ Asistente 2: Felipe Arrechea
+ Cuarto árbitro: Ignacio Domínguez
+Dep. Armenio - Brown (Adrogué)
+ Árbitro: Ariel Cruz
+ Asistente 1: Nahuel Santanocito
+ Asistente 2: Arnaldo Melgarejo
+ Cuarto árbitro: Eduardo Coyto
+Arg. de Quilmes - Talleres (R.E.)
+ Árbitro: Jonathan Barrios
+ Asistente 1: Hernán Antola
+ Asistente 2: Ignacio Otegui
+ Cuarto árbitro: Mariano Negrete
+Sp. Italiano - Real Pilar
+ Árbitro: Valentín Bocaccia
+ Asistente 1: Santiago Scalerandi
+ Asistente 2: Leandro Carril
+ Cuarto árbitro: Adrián Núñez Rodríguez
+Def. Unidos - Arg. de Merlo
+ Árbitro: Gonzalo Creimerman
+ Asistente 1: Giuliano Grillo
+ Asistente 2: Leandro Britez
+ Cuarto árbitro: Antonella Álvarez
+San Martín (B.) - Liniers
+ Árbitro: Marcos Recalde
+ Asistente 1: Fernando Rodríguez
+ Asistente 2: Federico Josa
+ Cuarto árbitro: Kevin Alegre
 Fecha 24
  Brown (Adrogué) - Ituzaingó 
  Dep. Laferrere - Dep. Armenio 
@@ -949,14 +1067,77 @@ Martes 30 de junio
  Asistente 1: Ariel Ibáñez
  Asistente 2: Franco Chávez
  Cuarto árbitro: Simón Laborda
-Fecha 18 - 04/07/2026 
-Lugano C. J.J. De Urquiza
-Ctro. Rec. Español C. Mercedes
-V. Arenas C. Dep. Paraguayo
-Berazategui C. Puerto Nuevo
-Estrella Del Sur C. L.N. Alem
-Argentino (R.) C. Def. De Cambaceres
-Sacachispas F.C. C. J. Unida
+Fecha 18
+Lugano - J.J. de Urquiza
+ Árbitro: Agustín Panizza
+ Asistente 1: Christian Rodríguez
+ Asistente 2: Nahuel Martín
+ Cuarto árbitro: Roberta Echeverría
+Argentino (R.) - Def. de Cambaceres
+ Árbitro: Manuel Girett
+ Asistente 1: Matías Vargas
+ Asistente 2: Sebastián Krojzl
+ Cuarto árbitro: Fabricio De la Cruz
+Estrella del Sur - L.N. Alem
+ Árbitro: Gonzalo Correa
+ Asistente 1: Facundo Maldonado
+ Asistente 2: Enzo Nell
+ Cuarto árbitro: Nicolás Díaz
+Leones F.C. - Ctral. Ballester
+ Árbitro: David Cornejo
+ Asistente 1: Heber Ibáñez Mesa
+ Asistente 2: Joaquín Fraga
+ Cuarto árbitro: Nazareno Galeano
+Sacachispas F.C. - J. Unida
+ Árbitro: Agustín Flores
+ Asistente 1: Jonathan Florentín
+ Asistente 2: Nicolás Ruiz Segovia
+ Cuarto árbitro: Ignacio Domínguez
+V. Arenas - Dep. Paraguayo
+ Árbitro: Ariadna Palacios
+ Asistente 1: Gonzalo Cubillas
+ Asistente 2: Nicolás Rovira
+ Cuarto árbitro: Lautaro Díaz
+Atlas - Claypole
+ Árbitro: Alejandro Porticella
+ Asistente 1: Mario Vargas
+ Asistente 2: Alexis Ramírez
+ Cuarto árbitro: Leandro Díaz
+Berazategui - Puerto Nuevo
+ Árbitro: Mateo Bocaccia
+ Asistente 1: Matías Panozzo
+ Asistente 2: Diego Ortiz
+ Cuarto árbitro: Camila Gette
+Cañuelas F.C. - Ctral. Córdoba (R.)
+ Árbitro: Sebastián Milessi
+ Asistente 1: Federico Bozo
+ Asistente 2: Alejo Milone
+ Cuarto árbitro: Rodrigo Amadeo
+Gral. Lamadrid - El Porvenir
+ Árbitro: Elías Viglione
+ Asistente 1: Leandro Idio
+ Asistente 2: Rodolfo Rodríguez
+ Cuarto árbitro: Eduardo Coyto
+Luján - Fénix
+ Árbitro: Iván Castelu Coca 
+ Asistente 1: Matías Pino
+ Asistente 2: Rodrigo Díaz
+ Cuarto árbitro: Pablo Gómez
+Ctro. Rec. Español - Mercedes
+ Árbitro: Matías Ansede
+ Asistente 1: Damián Alcaraz
+ Asistente 2: Roberto Rodríguez
+ Cuarto árbitro: Tomás Aybar
+Muñiz - Dep. Español
+ Árbitro: Ulises López
+ Asistente 1: Ariel Ibáñez
+ Asistente 2: Lucas Burgos
+ Cuarto árbitro: Franco Porotelli
+Sp. Barracas - Yupanqui
+ Árbitro: Leandro Fedele
+ Asistente 1: Lucas Monsalvo
+ Asistente 2: Patricio Acuña
+ Cuarto árbitro: Martín Morenza
 Fecha 19 - 11/07/2026 
 J. Unida C. Lugano
 Def. De Cambaceres C. Sacachispas F.C.
@@ -1241,6 +1422,49 @@ Cañuelas F.C. C. Ctral. Ballester
 Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
+Fecha 6 (Zona A)
+Dep. Metalúrgico - S.A.T.
+ Árbitro: Franco Gutiérrez 
+ Asistente 1: Luciano Cabral
+ Asistente 2: Agustín Fischetti
+ Cuarto árbitro: Lautaro Díaz
+Pcial. de Lobos - Náutico Hacoaj
+ Árbitro: Manuel Prieto
+ Asistente 1: Sergio Benítez
+ Asistente 2: Agustina Baleman
+ Cuarto árbitro: Simón Laborda
+Def. de Glew - Atl. Pilar
+ Árbitro: Valentín Ibáñez Mesa
+ Asistente 1: Tomás Otero
+ Asistente 2: Nicolás Oviedo
+ Cuarto árbitro: Nicolás Díaz
+Estrella de Berisso - Juv. de Bernal
+ Árbitro: Facundo Fuentes
+ Asistente 1: Oscar Maidana
+ Asistente 2: Alexis Torales
+ Cuarto árbitro: Leandro Díaz
+ Fecha 8 (Zona B)
+Alumni - Libre
+Barrancas F.C. - Buenos Aires City
+ Árbitro: Damián Pardoi
+ Asistente 1: Federico Machuca
+ Asistente 2: Luis Taboada
+ Cuarto árbitro: Pablo Gómez
+Dep. Las Mandarinas - Uribelarrea
+ Árbitro: Micaela Abelardo
+ Asistente 1: Nicolás Cavagnaro
+ Asistente 2: Bruno Santillán
+ Cuarto árbitro: Rodrigo Amadeo
+Everton - Belgrano (Zárate)
+ Árbitro: Valentín Persico
+ Asistente 1: Sebastián Valdez
+ Asistente 2: Agustín Cellucci
+ Cuarto árbitro: Nazareno Galeano
+Ezeiza F.C. - C. Orientado
+ Árbitro: Mauro Trinidad
+ Asistente 1: Bruno Castillo
+ Asistente 2: Martín Núñez
+ Cuarto árbitro: Fabricio De la Cruz
 Copa Argentina 2026
 FASE FINAL – 16vos. de Final
 Domingo 12/7
