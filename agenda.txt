@@ -1482,24 +1482,28 @@ Estudiantes de L.P - Independiente Rivadavia (Mza.), a las 21.00 horas, en Belgr
 De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa Argentina, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Torneo Federal A 
 Fútbol Femenino de Primera División A 
-Jornada 12 
-Banfield vs Social Atlético Televisión 
-Boca Jrs. vs Lanús 
-Ferro Carril Oeste vs San Luis 
-Gimnasia LP vs River Plate 
-Newell’s vs Belgrano 
-Racing Club vs Huracán 
-San Lorenzo vs Independiente 
-Talleres vs Unión Santa Fe 
-Jornada 13 
-Belgrano vs Gimnasia LP 
-Huracán vs Newell’s 
-Independiente vs Racing Club 
-Lanús vs Ferro Carril Oeste 
-River Plate vs Banfield 
-San Luis vs Talleres 
-Social Atlético Televisión vs Boca Jrs. 
-Unión Santa Fe vs San Lorenzo 
+Fecha 12
+Sábado 4 de julio
+ 10.00 Ferro vs. San Luis - Sintético Caballito - LPF PLAY
+ 11.30 Talleres vs. Unión - Estadio La Boutique - LPF PLAY
+ 12.00 Gimnasia La Plata vs. River - Predio Bosquecito - LPF PLAY
+ 15.00 Racing vs. Huracán - Predio Tita - LPF PLAY
+ 15.00 San Lorenzo vs. Independiente - SAT - LPF PLAY
+ 15.30 Newell's vs. Belgrano - Predio Bella Vista - LPF PLAY
+Domingo 5 de julio
+ 15.00 Banfield vs. SAT - Cancha 2 Campo de Deportes - LPF PLAY
+ 15.30 Boca vs. Lanús - Casa Amarilla - LPF PLAY
+Fecha 13
+Miércoles 8 de julio
+ 11.00 SAT vs. Boca - Estadio - LPF PLAY
+ 11.00 River vs. Banfield - River Camp - LPF PLAY
+ 12.00 Huracán vs. Newell's - La Quemita - LPF PLAY
+ 15.00 Belgrano vs. Gimnasia La Plata - Predio Armando Pérez - LPF PLAY
+ 15.00 San Luis vs. Talleres - Villa Deportiva Sintético - LPF PLAY
+ 15.00 Unión vs. San Lorenzo - La Tatenguita - LPF PLAY
+ 15.30 Lanús vs. Ferro - Predio Valentín Alsina - LPF PLAY
+Jueves 9 de julio
+ 15.00 Independiente vs. Racing - Cancha 3 Predio Santo Domingo - LPF PLAY
 Jornada 14 
 Banfield vs Belgrano 
 Ferro Carril Oeste vs Boca Jrs. 
