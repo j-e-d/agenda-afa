@@ -572,26 +572,6 @@ ZONA B
  ALMAGRO - ATLANTA
  PATRONATO (P.) - F.C. MIDLAND
  COLEGIALES - QUILMES A.C.
- Fecha 19 
- F.C. MIDLAND - G. Y ESGRIMA (J.)
- QUILMES A.C. - ATLANTA
- COLEGIALES - G. Y TIRO (S.)
- PATRONATO (P.) - SAN MARTÍN (T.)
- ALMAGRO - AT. DE RAFAELA
- DEP. MAIPÚ (MZA.) - AGROPECUARIO ARG.
- TEMPERLEY - T. SUÁREZ
- NVA. CHICAGO - GUEMES (S.E.)
- SAN MARTÍN (S.J.) - CHACARITA JRS.
- Fecha 20 
- G. Y ESGRIMA (J.) - CHACARITA JRS.
- GUEMES (S.E.) - SAN MARTÍN (S.J.)
- T. SUÁREZ - NVA. CHICAGO
- AGROPECUARIO ARG. - TEMPERLEY
- AT. DE RAFAELA - DEP. MAIPÚ (MZA.)
- SAN MARTÍN (T.) - ALMAGRO
- G. Y TIRO (S.) - PATRONATO (P.)
- ATLANTA - COLEGIALES
- F.C. MIDLAND - QUILMES A.C.
  Fecha 21 
  QUILMES A.C. - G. Y ESGRIMA (J.)
  COLEGIALES - F.C. MIDLAND
@@ -1286,30 +1266,6 @@ Berazategui C. Def. De Cambaceres
 Estrella Del Sur C. J. Unida
 Argentino (R.) C. Sacachispas F.C.
 Zona B
-Fecha 17 - 27/06/2026 
-Yupanqui C. Dep. Español
-Ctral. Córdoba (R.) C. Muñiz
-Claypole C. Cañuelas F.C.
-Ctral. Ballester C. Atlas
-El Porvenir C. Leones F.C.
-Fénix C. Gral. Lamadrid
-Sp. Barracas C. Luján
-Fecha 18 - 04/07/2026 
-Sp. Barracas C. Yupanqui
-Luján C. Fénix
-Gral. Lamadrid C. El Porvenir
-Leones F.C. C. Ctral. Ballester
-Atlas C. Claypole
-Cañuelas F.C. C. Ctral. Córdoba (R.)
-Muñiz C. Dep. Español
-Fecha 19 - 11/07/2026 
-Yupanqui C. Muñiz
-Dep. Español C. Cañuelas F.C.
-Ctral. Córdoba (R.) C. Atlas
-Claypole C. Leones F.C.
-Ctral. Ballester C. Gral. Lamadrid
-El Porvenir C. Luján
-Fénix C. Sp. Barracas
 Fecha 20 - 18/07/2026 
 Yupanqui C. Argentino (R.)
 Mercedes C. El Porvenir
@@ -1436,14 +1392,6 @@ Cañuelas F.C. C. Ctral. Ballester
 Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
- Fecha 8 (Zona B)
-Alumni - Libre
-Miércoles 8 de julio
-15.00 Ezeiza F.C. - C. Orientado (en Yupanqui)
-Árbitro: Mauro Trinidad
-Asistente 1: Bruno Castillo
-Asistente 2: Martín Núñez
-Cuarto árbitro: Fabricio De la Cruz
 Zona A - Fecha 7
 Viernes 10 de Julio 
  11.00 Náutico Hacoaj - Def. de Glew
@@ -1531,14 +1479,6 @@ De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa
 Torneo Federal A 
 Fútbol Femenino de Primera División A 
 Fecha 13
-Miércoles 8 de julio
- 11.00 SAT vs. Boca - Estadio - LPF PLAY
- 11.00 River vs. Banfield - River Camp - LPF PLAY
- 12.00 Huracán vs. Newell's - La Quemita - LPF PLAY
- 15.00 Belgrano vs. Gimnasia La Plata - Predio Armando Pérez - LPF PLAY
- 15.00 San Luis vs. Talleres - Villa Deportiva Sintético - LPF PLAY
- 15.00 Unión vs. San Lorenzo - La Tatenguita - LPF PLAY
- 15.30 Lanús vs. Ferro - Predio Valentín Alsina - LPF PLAY
 Jueves 9 de julio
  15.00 Independiente vs. Racing - Cancha 3 Predio Santo Domingo - LPF PLAY
 Fecha 14
@@ -1633,9 +1573,6 @@ Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
 Copa del Mundo 2026
 Cronograma de partidos 
-Octavos de final del Mundial 2026
- Martes 7 de julio
- Suiza – Colombia 17:00 – Estadio BC Place de Vancouver 
 Cuartos de Final 
  Jueves 9 de julio 
  17.00 Francia - Marruecos 
@@ -1643,7 +1580,7 @@ Cuartos de Final
  16.00 España - Bélgica
  Sábado 11 de julio 
  18.00 Noruega - Inglaterra
- 22.00 Argentina - Colombia / Suiza
+ 22.00 Argentina - Suiza
 Selección Mayor Femenina
 Copa Mundial Femenina FIFA 2027
 El Consejo de la FIFA confirmó que el torneo se disputará del 24 de junio al 25 de julio de 2027.l Consejo de la FIFA confirmó que el torneo se disputará del 24 de junio al 25 de julio de 2027.
