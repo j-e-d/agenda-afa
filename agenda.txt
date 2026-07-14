@@ -294,24 +294,6 @@ Banfield – Atlético Tucumán
  Aldosivi – River
 Torneo Proyección Clausura
  Fecha 1
- Martes 14 de julio
- 13.00 – Rosario Central – San Lorenzo (Zona A) – Arroyo Seco
- Árbitro: Fabricio De La Cruz
- Árbitro asistente 1: Patricio Acuña
- Árbitro asistente 2: Lucas Burgos
- 13.00 – Atlético Tucumán – Aldosivi (Zona A) – Jose Salmoiraghi
- Árbitro: Ignacio Domínguez
- Árbitro asistente 1: Nahuel Martin
- Árbitro asistente 2: Rodrigo Rodríguez
- 13.00 – Unión – Gimnasia (Zona A) – La Tatenguita
- Árbitro: Nicolás Díaz
- Árbitro asistente 1: Alexis Ramírez
- Árbitro asistente 2: Daniel Alegre
- 13.00 – Estudiantes – Colón (Zona B) – City Bell
- Árbitro: Lautaro Díaz
- Árbitro asistente 1: Guillermo Medina
- Árbitro asistente 2: Nicolás Oviedo
- Cuarto árbitro: Manuel Prieto
  Jueves 16 de julio
  15.00 – Huracán – Newell’s (Zona B) – La Quemita
  Árbitro: Pablo Gómez
@@ -408,16 +390,28 @@ Fecha 2
  15.00 – Huracán – Belgrano (Zona B) – La Quemita
  17.00 – Talleres – San Lorenzo (Zona A) – La Boutique
 Primera Nacional
- Fecha 21 
- MITRE (S.E.) - RACING (CBA.)
- ALTE. BROWN - ESTUDIANTES
- CDAD. DE BOLÍVAR - ALL BOYS
- DEF. DE BELGRANO - LOS ANDES
- DEP. MADRYN - GODOY CRUZ (MZA.)
- CTRAL. NORTE (S.) - DEP. MORÓN
- FERRO CARRIL OESTE - COLÓN
- CHACO FOR EVER - SAN MIGUEL
- ACASSUSO - SAN TELMO
+Fecha 21
+Viernes 17 de julio
+ 15.00 Almirante Brown - Estudiantes
+ 15.00 Deportivo Maipú - San Martín (T)
+ 16.00 Mitre - Racing (CBA)
+ 18.00 Nueva Chicago - Agropecuario
+ 19.30 Ferro - Colón
+ 20.00 Ciudad Bolívar - All Boys, en estadio Municipal de Bolívar
+ 20.30 Temperley - Atlético de Rafaela
+ Lunes 20 de julio
+ 15.00 Defensores de Belgrano - Los Andes
+ 15.00 Acassuso - San Telmo
+ 15.00 San Martín (SJ) - Tristán Suárez
+ 15.00 Chacarita - Güemes
+ 20.00 Quilmes - Gimnasia (J)
+ 20.00 Colegiales - Midland
+ 20.00 Patronato - Atlanta
+ 21.00 Chaco For Ever - San Miguel
+ 21.30 Central Norte - Deportivo morón, en estadio Padre Martearena
+ Martes 21 de julio
+ 15.00 Almagro - Gimnasia (S)
+ 19.00 Deportivo Madryn - Godoy Cruz
  Fecha 22 
  RACING (CBA.) - SAN TELMO
  SAN MIGUEL - ACASSUSO
@@ -578,26 +572,6 @@ Primera Nacional
  LOS ANDES - MITRE (S.E.)
  ALL BOYS - ESTUDIANTES
 ZONA B
- Fecha 4 
- GUEMES (S.E.) - G. Y ESGRIMA (J.)
- CHACARITA JRS. - T. SUÁREZ
- SAN MARTÍN (S.J.) - AGROPECUARIO ARG.
- NVA. CHICAGO - AT. DE RAFAELA
- TEMPERLEY - SAN MARTÍN (T.)
- DEP. MAIPÚ (MZA.) - G. Y TIRO (S.)
- ALMAGRO - ATLANTA
- PATRONATO (P.) - F.C. MIDLAND
- COLEGIALES - QUILMES A.C.
- Fecha 21 
- QUILMES A.C. - G. Y ESGRIMA (J.)
- COLEGIALES - F.C. MIDLAND
- PATRONATO (P.) - ATLANTA
- ALMAGRO - G. Y TIRO (S.)
- DEP. MAIPÚ (MZA.) - SAN MARTÍN (T.)
- TEMPERLEY - AT. DE RAFAELA
- NVA. CHICAGO - AGROPECUARIO ARG.
- SAN MARTÍN (S.J.) - T. SUÁREZ
- CHACARITA JRS. - GUEMES (S.E.)
  Fecha 22 
  G. Y ESGRIMA (J.) - GUEMES (S.E.)
  T. SUÁREZ - CHACARITA JRS.
@@ -1020,21 +994,25 @@ Fecha 42
  Argentino de Quilmes - Brown (Adrogué) 
  Flandria - Dep. Armenio
 Primera C
-Fecha 20 - 18/07/2026 
-Yupanqui C. Argentino (R.)
-Mercedes C. El Porvenir
-Dep. Español C. V. Arenas
-Dep. Paraguayo C. Ctral. Ballester
-Ctro. Rec. Español C. Leones F.C.
-Def. De Cambaceres C. Gral. Lamadrid
-Atlas C. Sacachispas F.C.
-Berazategui C. Ctral. Córdoba (R.)
-Claypole C. J. Unida
-Lugano C. Sp. Barracas
-Puerto Nuevo C. Fénix
-J.J. De Urquiza C. Muñiz
-Cañuelas F.C. C. L.N. Alem
-Estrella Del Sur C. Luján
+Fecha 20
+Viernes 17 de julio
+ 15.00 Yupanqui - Argentino (R)
+ 15.00 Deportivo Español - Victoriano Arenas
+ 15.00 Cambaceres - Lamadrid
+ 15.00 Lugano - Sp. Barracas
+ 15.00 Puerto Nuevo - Fénix
+ Lunes 20 de julio
+ 15.00 Deportivo Paraguayo - Central Ballester
+ 15.00 Recreativo Español - Leones, en Ituzaingó
+ 15.00 Atlas - Sacachispas
+ 15.00 Berazategui - central Córdoba (R)
+ 15.00 Estrella del Sur - Luján
+ Martes 21 de julio
+ 15.00 Claypole - Juventud Unida
+ A definir
+ Mercedes - El Porvenir
+ JJ Urquiza - Muñiz
+ Cañuelas - Alem
 Fecha 21 - 25/07/2026 
 Lugano C. Ctro. Rec. Español
 V. Arenas C. J.J. De Urquiza
@@ -1146,21 +1124,6 @@ Berazategui C. Def. De Cambaceres
 Estrella Del Sur C. J. Unida
 Argentino (R.) C. Sacachispas F.C.
 Zona B
-Fecha 20 - 18/07/2026 
-Yupanqui C. Argentino (R.)
-Mercedes C. El Porvenir
-Dep. Español C. V. Arenas
-Dep. Paraguayo C. Ctral. Ballester
-Ctro. Rec. Español C. Leones F.C.
-Def. De Cambaceres C. Gral. Lamadrid
-Atlas C. Sacachispas F.C.
-Berazategui C. Ctral. Córdoba (R.)
-Claypole C. J. Unida
-Lugano C. Sp. Barracas
-Puerto Nuevo C. Fénix
-J.J. De Urquiza C. Muñiz
-Cañuelas F.C. C. L.N. Alem
-Estrella Del Sur C. Luján
 Fecha 21 - 25/07/2026 
 Fénix C. Yupanqui
 Sp. Barracas C. El Porvenir
