@@ -393,25 +393,97 @@ Primera Nacional
 Fecha 21
 Viernes 17 de julio
  15.00 Almirante Brown - Estudiantes
+ Árbitro: Felipe Viola
+ Asistente 1: Juan Pablo Millenar
+ Asistente 2: Felipe Arrechea
+ Cuarto árbitro: Iván Castelú
  15.00 Deportivo Maipú - San Martín (T)
+ Árbitro: Carlos Córdoba
+ Asistente 1: Hernán Vallejos
+ Asistente 2: Robertino Rosas
+ Cuarto árbitro: Pablo Núñez
  16.00 Mitre - Racing (CBA)
+ Árbitro: Lucas Cavallero
+ Asistente 1: Manuel Sánchez
+ Asistente 2: Darío Rojas Martínez
+ Cuarto árbitro: Federico Guaymas
  18.00 Nueva Chicago - Agropecuario
+ Árbitro: Jorge Broggi
+ Asistente 1: Gonzalo Ferrari
+ Asistente 2: Gisela Bosso
+ Cuarto árbitro: Nicolás Kresta
  19.30 Ferro - Colón
+ Árbitro: Sebastián Zunino
+ Asistente 1: Sebastián Raineri
+ Asistente 2: Hugo Páez
+ Cuarto árbitro: Damián Rubino
  20.00 Ciudad Bolívar - All Boys, en estadio Municipal de Bolívar
+ Árbitro: Nelson Sosa
+ Asistente 1: Mariano Viale
+ Asistente 2: Malvina Schiell
+ Cuarto árbitro: Lautaro Castagnola 
  20.30 Temperley - Atlético de Rafaela
+ Árbitro: Gonzalo Pereira
+ Asistente 1: Adrián Delbarba
+ Asistente 2: Juan Ricciardi
+ Cuarto árbitro: Gastón Iglesias
  Lunes 20 de julio
  15.00 Defensores de Belgrano - Los Andes
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Maximiliano Castelli
+ Asistente 2: Marcelo Bistocco
+ Cuarto árbitro: Ezequiel Billone
  15.00 Acassuso - San Telmo
+ Árbitro: Bruno Amiconi
+ Asistente 1: Juan Manuel González
+ Asistente 2: Federico Pomi
+ Cuarto árbitro: Agustín Vegetti
  15.00 San Martín (SJ) - Tristán Suárez
+ Árbitro: Maxi Macheroni
+ Asistente 1: Eduardo Lucero
+ Asistente 2: Cristian Herrera
+ Cuarto árbitro: Yamil Possi
  15.00 Chacarita - Güemes
+ Árbitro: Pablo Giménez
+ Asistente 1: Ariel Scime
+ Asistente 2: Marcelo Errante
+ Cuarto árbitro: Kevin Alegre
  20.00 Quilmes - Gimnasia (J)
+ Árbitro: Juan Cruz Robledo
+ Asistente 1: Pablo Gualtieri
+ Asistente 2: Agustín Méndez
+ Cuarto árbitro: Mariano Negrete
  20.00 Colegiales - Midland
+ Árbitro: Daniel Zamora
+ Asistente 1: Mario Bardina
+ Asistente 2: Diego Fernández
+ Cuarto árbitro: Adrián Núñez Rodríguez
  20.00 Patronato - Atlanta
+ Árbitro: Brian Ferreyra
+ Asistente 1: Damián Espinoza
+ Asistente 2: Matías Bianchi
+ Cuarto árbitro: Joaquín Gil
  21.00 Chaco For Ever - San Miguel
+ Árbitro: Franco Acita
+ Asistente 1: Lucas Ripolli
+ Asistente 2: Martín Saccone
+ Cuarto árbitro: Maximiliano Silcan Jerez
  21.30 Central Norte - Deportivo morón, en estadio Padre Martearena
+ Árbitro: Maxi Manduca
+ Asistente 1: Marcos Horticolou
+ Asistente 2: Gonzalo Roldán
+ Cuarto árbitro: Francisco Acosta
  Martes 21 de julio
  15.00 Almagro - Gimnasia (S)
+ Árbitro: Javier Delbarba
+ Asistente 1: Lucas Pardo
+ Asistente 2: Mariana De Almeida
+ Cuarto árbitro: Cristian Cernadas
  19.00 Deportivo Madryn - Godoy Cruz
+ Árbitro: Nahuel Viñas
+ Asistente 1: Diego Martín
+ Asistente 2: Joaquín Badano
+ Cuarto árbitro: Marcelo Sanz
  Fecha 22 
  RACING (CBA.) - SAN TELMO
  SAN MIGUEL - ACASSUSO
@@ -790,17 +862,61 @@ Martes 14 de Julio
  Árbitro asistente 2: Ramiro Ortiz Biondi
  Cuarto árbitro: Rodrigo Villalba
 Fecha 26 
- Dep. Laferrere - Ituzaingó 
- Talleres (RE) - Brown (Adrogué) 
- Argentino de Merlo - Dep. Armenio 
- Arsenal - Flandria 
- Excursionistas - Argentino de Quilmes
- Villa Dálmine - Def. Unidos 
- UAI Urquiza - Comunicaciones 
- Real Pilar - Dock Sud 
- Liniers - Dep. Merlo 
- Villa San Carlos - Camioneros 
- San Martín (B) - Sportivo Italiano
+Dep. Laferrere - Ituzaingó
+ Árbitro: Ramiro Maglio
+ Asistente 1: Lucas Cueto Viñas
+ Asistente 2: Marcos Pueyo
+ Cuarto árbitro: Gonzalo Correa
+Talleres (R.E.) - Brown (Adrogué)
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Nahuel Santanocito
+ Asistente 2: Rodrigo Arín
+ Cuarto árbitro: David Cornejo
+Arg. de Merlo - Dep. Armenio
+ Árbitro: Martín D'Esposito
+ Asistente 1: Cecilio Calcagno
+ Asistente 2: Agustín Galván
+ Cuarto árbitro: Agustín Flores
+ Arsenal F.C. - Flandria
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Arnaldo Melgarejo
+ Asistente 2: Martín Cingolani
+ Cuarto árbitro: Ulises López
+Excursionistas - Arg. de Quilmes
+ Árbitro: Ariel Cruz
+ Asistente 1: Damián Oliveto
+ Asistente 2: Lucas Monsalvo
+ Cuarto árbitro: Mauro Trinidad
+Villa Dálmine - Def. Unidos
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Federico Lapalma
+ Asistente 2: Damián Orellana
+ Cuarto árbitro: Facundo Fuentes
+UAI-Urquiza - Comunicaciones
+ Árbitro: Gonzalo Creimerman
+ Asistente 1: Ángel Rebuscini
+ Asistente 2: Carlos Suárez
+ Cuarto árbitro: Lucas Brumer
+Real Pilar - Sp. Dock Sud
+ Árbitro: Marcos Recalde
+ Asistente 1: Pablo Pastor
+ Asistente 2: Ignacio Otegui
+ Cuarto árbitro: Fabricio De la Cruz
+Liniers - Dep. Merlo
+ Árbitro: Mateo Bocaccia
+ Asistente 1: Hernán Antola
+ Asistente 2: Julieta Fernández
+ Cuarto árbitro: Sebastián Milessi
+Villa San Carlos - Camioneros
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Hugo Hartung
+ Asistente 2: Matas Pino
+ Cuarto árbitro: Ignacio Domínguez
+San Martín (B.) - Sp. Italiano
+ Árbitro: Jonathan Barrios
+ Asistente 1: Federico Zuvilivia
+ Asistente 2: Lucas García
+ Cuarto árbitro: Valentín Pérsico
 Fecha 27 
  Ituzaingó - Sportivo Italiano 
  Camioneros - San Martín (B)
@@ -997,22 +1113,79 @@ Primera C
 Fecha 20
 Viernes 17 de julio
  15.00 Yupanqui - Argentino (R)
+ Árbitro: Manuel Prieto
+ Asistente 1: Facundo Maldonado
+ Asistente 2: Enzo Nell
+ Cuarto árbitro: Nicolás Díaz
  15.00 Deportivo Español - Victoriano Arenas
+ Árbitro: Agustín Panizza
+ Asistente 1: Jonathan Florentín
+ Asistente 2: Tomás Otero
+ Cuarto árbitro: Facundo Carretero
  15.00 Cambaceres - Lamadrid
+ Árbitro: Juan Ferreyra
+ Asistente 1: Gonzalo Cubillas
+ Asistente 2: Alexis Escobar
+ Cuarto árbitro: Micaela Abelardo
  15.00 Lugano - Sp. Barracas
+ Árbitro: Alejandro Porticella
+ Asistente 1: Federico Bozo
+ Asistente 2: Sebastián Krojzl
+ Cuarto árbitro: Marcos Winer
  15.00 Puerto Nuevo - Fénix
+ Árbitro: Roberta Echeverría
+ Asistente 1: Leandro Idio
+ Asistente 2: Luciano Cabral
+ Cuarto árbitro: Joaquín García Casas
  Lunes 20 de julio
  15.00 Deportivo Paraguayo - Central Ballester
+ Árbitro: Manuel Girett
+ Asistente 1: Nahuel Valdeón
+ Asistente 2: Agustina Baleman
+ Cuarto árbitro: Leonardo Cristaldo
  15.00 Recreativo Español - Leones, en Ituzaingó
+ Árbitro: Valentín Bocaccia
+ Asistente 1: Matías Noli
+ Asistente 2: Rodolfo Rodríguez
+ Cuarto árbitro: Damián Parodi
  15.00 Atlas - Sacachispas
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Matías Vargas
+ Asistente 2: Patricio Acuña
+ Cuarto árbitro: Nazareno Galeano
  15.00 Berazategui - central Córdoba (R)
+ Árbitro: Elías Viglione
+ Asistente 1: Leandro Carril
+ Asistente 2: Ludmila Capelli
+ Cuarto árbitro: Franco Porotelli
  15.00 Estrella del Sur - Luján
+ Árbitro: Ariadna Palacios
+ Asistente 1: Damián Alcaraz
+ Asistente 2: Valentino Gaillard
+ Cuarto árbitro: Martín Morenza
  Martes 21 de julio
  15.00 Claypole - Juventud Unida
+ 15.00 Claypole - J. Unida
+ Árbitro: Guido Mascheroni
+ Asistente 1: Felipe Onufrik
+ Asistente 2: Alexis Torales
+ Cuarto árbitro: Rodrigo Amadeo
  A definir
  Mercedes - El Porvenir
+ Árbitro: Leandro Fedele
+ Asistente 1: Cristian Rodríguez
+ Asistente 2: Franco Boetti
+ Cuarto árbitro: Valentín Ibáñez Mesa
  JJ Urquiza - Muñiz
+ Árbitro: Matías Ansede
+ Asistente 1: Roberto Rodríguez
+ Asistente 2: Alexis Ramírez
+ Cuarto árbitro: Franco Gutierre
  Cañuelas - Alem
+ Árbitro: Gabriel Flores
+ Asistente 1: Alexis Etchepare
+ Asistente 2: Luis Taboada
+ Cuarto árbitro: Lautaro Díaz
 Fecha 21 - 25/07/2026 
 Lugano C. Ctro. Rec. Español
 V. Arenas C. J.J. De Urquiza
@@ -1235,20 +1408,30 @@ Cañuelas F.C. C. Ctral. Ballester
 Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
-Zona A - Fecha 7
-Martes 14 de Julio 
-13.00 Juv. de Bernal - Pcial. de Lobos
- Árbitro: Valentín Ibañez Meza
- Árbitro asistente 1: Alexis Escobar
- Árbitro asistente 2: Luis Taboada
+Fecha 9 Zona B
+Viernes 17 de julio
+ 15.00 Belgrano (Zárate) - Alumni
+ Árbitro: Eduardo Coyto
+ Asistente 1: Federico Machuca
+ Asistente 2: Rodrigo Díaz
+ Cuarto árbitro: Valentín Oldani
+ Lunes 20 de julio
+14.00 Buenos Aires City - Everton, en auxiliar Banfield
+ Árbitro: Pablo Gómez
+ Asistente 1: Mauro Soria
+ Asistente 2: Franco Chávez
  Cuarto árbitro: Lucas Baiz
-Zona B - Fecha 9
-Martes 14 de Julio 
-14.00 Buenos Aires City - Ezeiza F.C.
- Árbitro: Ignacio Domínguez
- Árbitro asistente 1: Rodrigo Díaz
- Árbitro asistente 2: Sofía Curto
- Cuarto árbitro: Camila Gette
+14.30 Barrancas F.C. - Ezeiza F.C., en Excursionistas
+ Árbitro: Leandro Díaz
+ Asistente 1: Nicolás Cavagnaro
+ Asistente 2: Nicolás Rovira
+ Cuarto árbitro: Lautaro Gutiérrez
+ A definir
+ C. Orientado - Dep. Las Mandarinas
+ Árbitro: Camila Gette
+ Asistente 1: Ariel Ibáñez
+ Asistente 2: Agustín Fischetti
+ Cuarto árbitro: Alberto Iglesias
 Copa Argentina 2026
 FASE FINAL – 16vos. de Final
 Jueves 16/7 
