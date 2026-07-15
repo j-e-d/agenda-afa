@@ -804,63 +804,6 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B
-Fecha 25 
-Martes 14 de Julio 
-15.00 Arg. de Quilmes - Arsenal F.C.
- Árbitro: Wenceslao Meneses
- Árbitro asistente 1: Lucas Vázquez
- Árbitro asistente 2: Gustavo Benítez Soilan
- Cuarto árbitro: Lucas Brumer
-15.00 Camioneros - Liniers
- Árbitro: Ariel Cruz
- Árbitro asistente 1: Gonzalo Beloso
- Árbitro asistente 2: Valentino Gaillard
- Cuarto árbitro: Manuel Girett
-15.00 Def. Unidos - Excursionistas
- Árbitro: Mariano Negrete
- Árbitro asistente 1: Maximiliano Montenegro
- Árbitro asistente 2: Matías Noli
- Cuarto árbitro: Matías Ansede
-15.00 Flandria - Arg. de Merlo
- Árbitro: Valentín Bocaccia
- Árbitro asistente 1: Mariano Cichetto
- Árbitro asistente 2: Mara Díaz
- Cuarto árbitro: Iván Castelu Coca
-15.00 Sp. Dock Sud - UAI Urquiza
- Árbitro: Gabriel Flores
- Árbitro asistente 1: Luis Rotman
- Árbitro asistente 2: Leandro Idio
- Cuarto árbitro: David Cornejo
-15.00 Sp. Italiano - Villa San Carlos
- Árbitro: Maximiliano López Monti
- Árbitro asistente 1: Hernán Antola
- Árbitro asistente 2: Mariela Martino
- Cuarto árbitro: Gonzalo Correa
-15.30 Dep. Armenio - Talleres (R.E.)
- Árbitro: Adrián Núñez Rodríguez
- Árbitro asistente 1: Juan Ricciardi
- Árbitro asistente 2: Federico Josa
- Cuarto árbitro: Agustín Panizza
-19.00 Brown (Adrogué) - Dep. Laferrere
- Árbitro: Gastón Iglesias
- Árbitro asistente 1: Cristian Amarilla
- Árbitro asistente 2: Gonzalo Cubillas
- Cuarto árbitro: Ulises López
-19.00 Comunicaciones - Villa Dálmine
- Árbitro: Gabriel Gutiérrez
- Árbitro asistente 1: Fernando Rodríguez
- Árbitro asistente 2: Enrique Lanz
- Cuarto árbitro: Agustín Flores
-19.00 Dep. Merlo - Real Pilar
- Árbitro: Gonzalo Creimermann
- Árbitro asistente 1: Juan Manuel Díaz
- Árbitro asistente 2: Leonardo Aranda
- Cuarto árbitro: Antonella Álvarez
-19.00 Ituzaingó - San Martín (B.)
- Árbitro: Leandro Fedele
- Árbitro asistente 1: Diego Molina
- Árbitro asistente 2: Ramiro Ortiz Biondi
- Cuarto árbitro: Rodrigo Villalba
 Fecha 26 
 Dep. Laferrere - Ituzaingó
  Árbitro: Ramiro Maglio
@@ -1544,9 +1487,7 @@ Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
 Copa del Mundo 2026
 Cronograma de partidos 
-Semifinales
- Martes 14 de julio
- 16.00 Francia - España
+Semifinal
  Miércoles 15 de julio
  16.00 Inglaterra - Argentina 
 Selección Mayor Femenina
