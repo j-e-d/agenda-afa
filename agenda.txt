@@ -739,62 +739,6 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B
-Fecha 26 
-Dep. Laferrere - Ituzaingó
- Árbitro: Ramiro Maglio
- Asistente 1: Lucas Cueto Viñas
- Asistente 2: Marcos Pueyo
- Cuarto árbitro: Gonzalo Correa
-Talleres (R.E.) - Brown (Adrogué)
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Nahuel Santanocito
- Asistente 2: Rodrigo Arín
- Cuarto árbitro: David Cornejo
-Arg. de Merlo - Dep. Armenio
- Árbitro: Martín D'Esposito
- Asistente 1: Cecilio Calcagno
- Asistente 2: Agustín Galván
- Cuarto árbitro: Agustín Flores
- Arsenal F.C. - Flandria
- Árbitro: Nicolás Mastroieni
- Asistente 1: Arnaldo Melgarejo
- Asistente 2: Martín Cingolani
- Cuarto árbitro: Ulises López
-Excursionistas - Arg. de Quilmes
- Árbitro: Ariel Cruz
- Asistente 1: Damián Oliveto
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Mauro Trinidad
-Villa Dálmine - Def. Unidos
- Árbitro: Maximiliano López Monti
- Asistente 1: Federico Lapalma
- Asistente 2: Damián Orellana
- Cuarto árbitro: Facundo Fuentes
-UAI-Urquiza - Comunicaciones
- Árbitro: Gonzalo Creimerman
- Asistente 1: Ángel Rebuscini
- Asistente 2: Carlos Suárez
- Cuarto árbitro: Lucas Brumer
-Real Pilar - Sp. Dock Sud
- Árbitro: Marcos Recalde
- Asistente 1: Pablo Pastor
- Asistente 2: Ignacio Otegui
- Cuarto árbitro: Fabricio De la Cruz
-Liniers - Dep. Merlo
- Árbitro: Mateo Bocaccia
- Asistente 1: Hernán Antola
- Asistente 2: Julieta Fernández
- Cuarto árbitro: Sebastián Milessi
-Villa San Carlos - Camioneros
- Árbitro: Wenceslao Meneses
- Asistente 1: Hugo Hartung
- Asistente 2: Matas Pino
- Cuarto árbitro: Ignacio Domínguez
-San Martín (B.) - Sp. Italiano
- Árbitro: Jonathan Barrios
- Asistente 1: Federico Zuvilivia
- Asistente 2: Lucas García
- Cuarto árbitro: Valentín Pérsico
 Fecha 27 
  Ituzaingó - Sportivo Italiano 
  Camioneros - San Martín (B)
@@ -1017,7 +961,6 @@ Fecha 20
  Cuarto árbitro: Martín Morenza
  Suspendidos
  15.00 Claypole - Juventud Unida
- 15.00 Claypole - J. Unida
  Árbitro: Guido Mascheroni
  Asistente 1: Felipe Onufrik
  Asistente 2: Alexis Torales
@@ -1280,17 +1223,6 @@ Suspendidos
  Cuarto árbitro: Alberto Iglesias
 Copa Argentina 2026
 FASE FINAL – 16vos. de Final
-Viernes 17/7
- San Lorenzo - Dep. Riestra, a las 18.45 horas en Deportivo Morón
- Árbitro: Álvaro Carranza
- Árbitro asistente 1: Juan Del Fueyo
- Árbitro asistente 2: Walter Ferreyra
- Cuarto árbitro: Wenceslao Meneses
-River Plate - Aldosivi, a las 21.45 horas, en Estadio Padre E. Martearena
- Árbitro: Andrés Gariano
- Árbitro asistente 1: Pablo Acevedo
- Árbitro asistente 2: Iván Aliende
- Cuarto árbitro: Federico Benítez
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA. 
 Supercopa Argentina 2025
 Postergada
@@ -1305,15 +1237,6 @@ Estudiantes de L.P - Independiente Rivadavia (Mza.), a las 18.00 horas, en Belgr
 De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa Argentina, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Torneo Federal A 
 Fútbol Femenino de Primera División A 
-JORNADA 15
-S.A.T. vs Ferro Carril Oeste
- Boca Juniors vs Talleres 
- Lanús vs San Lorenzo 
- San Luis F.C. vs Racing Club
- Unión vs Newell’s Old Boys
- Independiente vs Gimnasia y Esgrima L.P.
- Huracán vs Banfield
- Belgrano vs River Plate
 Torneo Femenino de Primera B
 CONMEBOL Copa Libertadores 2026
 Calendario octavos de final
@@ -1385,9 +1308,6 @@ Intercontinental Sub 20 2026
 Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
 Copa del Mundo 2026
-Cronograma de partidos 
-Sábado 18 de julio - Partido por el 3° Puesto - a las 18
- Francia vs. Inglaterra - Hard Rock Stadium, Miami
 Domingo 19 de julio - Final - a las 16
  España vs. Argentina - MetLife Stadium, New Jersey 
 Selección Mayor Femenina
