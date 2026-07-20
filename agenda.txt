@@ -1273,18 +1273,30 @@ Calendario octavos de final
  La final de la CONMEBOL Libertadores se disputará el 28 de noviembre en la ciudad de Montevideo. 
 CONMEBOL Copa Sudamericana 2026
 Playoffs Copa Sudamericana 2026
- Nacional vs Tigre
- Ida: martes 21 de julio, 19:00 horas (Montevideo)
- Vuelta: martes 28 de julio, 21:30 horas (Victoria)
+Nacional vs Tigre
+ - Ida: martes 21 de julio, 19:00 horas (Montevideo) 
+ Árbitro: Carlos Betancur (Colombia)
+ Árbitro asistente 1: Miguel Roldán (Colombia)
+ Árbitro asistente 2: Richard Ortiz (Colombia)
+ Cuarto árbitro: José Ortiz (Colombia)
+ VAR: Leonard Mosquera (Colombia)
+ AVAR: Luis Picón (Colombia)
+Vuelta: martes 28 de julio, 21:30 horas (Victoria)
  Universidad Central vs Santos
  Ida: martes 21 de julio, 20:30 horas (Caracas)
  Vuelta: martes 28 de julio, 21:30 horas (Santos)
  Independiente Medellín vs Vasco da Gama
  Ida: miércoles 22 de julio, 17:00 horas (Medellín)
  Vuelta: miércoles 29 de julio, 19:00 horas (Río de Janeiro)
- Lanús vs Cienciano
- Ida: miércoles 22 de julio, 21:30 horas (Lanús)
- Vuelta: miércoles 29 de julio, 19:30 horas (Cusco)
+Lanús vs Cienciano - 
+Ida: miércoles 22 de julio, 21:30 horas (Lanús)
+ Árbitro: Alexis Herrera (Venezuela)
+ Árbitro asistente 1: Lubin Torrealba (Venezuela)
+ Árbitro asistente 2: Alberto Ponte (Venezuela)
+ Cuarto árbitro: Yender Herrera (Venezuela) 
+ VAR: Carlos Orbe (Ecuador)
+ AVAR: Byron Romero (Ecuador)
+Vuelta: miércoles 29 de julio, 19:30 horas (Cusco)
  Sporting Cristal vs RB Bragantino
  Ida: miércoles 22 de julio, 19:30 horas (Lima)
  Vuelta: miércoles 29 de julio, 21:30 horas (estadio a confirmar)
@@ -1294,9 +1306,15 @@ Playoffs Copa Sudamericana 2026
  Santa Fe vs Caracas
  Ida: jueves 23 de julio, 19:30 horas (Bogotá)
  Vuelta: jueves 30 de julio, 19:00 horas (Caracas)
- Boca Juniors vs O’Higgins
- Ida: jueves 23 de julio, 21:30 horas (Buenos Aires)
- Vuelta: jueves 30 de julio, 21:30 horas (estadio a confirmar)
+Boca Juniors vs O’Higgins - 
+Ida: jueves 23 de julio, 21:30 horas (Buenos Aires)
+ Árbitro: Andrés Matonte (Uruguay)
+ Árbitro asistente 1: Martín Soppi (Uruguay)
+ Árbitro asistente 2: Horacio Ferreiro (Uruguay)
+ Cuarto árbitro: José Burgos (Uruguay) 
+ VAR: Christian Ferreyra (Uruguay)
+ AVAR: Richard Trinidad (Uruguay)
+Vuelta: jueves 30 de julio, 21:30 horas (estadio a confirmar)
  Cuartos de final
  Partidos de ida: 8 al 10 de septiembre
  Partidos de vuelta: 15 al 17 de septiembre
