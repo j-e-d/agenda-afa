@@ -317,27 +317,90 @@ Torneo Proyección Clausura
  Árbitro asistente 2: Luis Taboada
  Cuarto árbitro: Eduardo Coyto
 Fecha 2
- Suspendidos 
- 15.00 – Instituto – Gimnasia (Zona A) – La Agustina
- 15.00 – Colón – Defensa y Justicia (Zona B) – Predio
+Miércoles 22 de julio
  15.00 – Aldosivi – Unión (Zona A) – Predio
- 15.00 – Argentinos – Atlético Tucumán (Zona A) – Ceffa
- 15.00 – Sarmiento – Godoy Cruz (Zona A) – Centro de Alto Rendimiento
- 19.00 – Central Córdoba – Platense (Zona B) – Alfredo Terrera
- Miércoles 22 de julio
+ Árbitro: Franco Porotelli
+ Árbitro asistente 1: Guillermo Medina
+ Árbitro asistente 2: Carlos Vázquez
+ 15.00 – Colón – Defensa y Justicia (Zona B) – Predio
+ Árbitro: Valentín Ibáñez
+ Árbitro asistente 1: Nicolás Rovira
+ Árbitro asistente 2: Santiago Araujo
  15.00 – San Lorenzo – Banfield (Zona A) – Auxiliar
+ Árbitro: Facundo Carretero
+ Árbitro asistente 1: Sergio Benítez
+ Árbitro asistente 2: Agustín Fischetti
+ Cuarto árbitro: Simón Laborda Paredes
  15.00 – Belgrano – Ferro (Zona B) – Predio
+ Árbitro: Leandro Díaz
+ Árbitro asistente 1: Rodrigo Díaz
+ Árbitro asistente 2: Luciano Rodríguez
  15.00 – Deportivo Riestra – Boca (Zona B) – La Candela
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Ariel Ibáñez
+ Árbitro asistente 2: Tomás Pérez
+ Cuarto árbitro: Valentín Pérsico
  15.00 – Tigre – Rosario Central (Zona A) – Nito San Andres
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Bruno Castillo
+ Árbitro asistente 2: Santiago Galván
+ Cuarto árbitro: Nazareno Galeano
  15.00 – Vélez – Talleres (Zona A) – Villa Olímpica
+ Árbitro: Manuel Prieto
+ Árbitro asistente 1: Joaquin Fraga
+ Árbitro asistente 2: Sebastián Krojz
+ Cuarto árbitro: Leonardo Cristaldo
+ 17.00 – Central Córdoba – Platense (Zona B) – Alfredo Terrera
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Lucas Burgos
+ Árbitro asistente 2: Axel Sosa
  19.00 – River – Barracas Central (Zona A) – River Camp
- Jueves 23 de julio
+ Árbitro: Ignacio Domínguez
+ Árbitro asistente 1: Alejo Milone
+ Árbitro asistente 2: Elías Mendoza
+ Cuarto árbitro: Roberta Echeverría
+Jueves 23 de julio
+ 15.00 – Instituto – Gimnasia (Zona A) – La Agustina
+ Árbitro: Lautaro Díaz
+ Árbitro asistente 1: Nahuel Martin
+ Árbitro asistente 2: Gabriel Pérez
  15.00 – Racing – Gimnasia (Mza.) (Zona A) – Tita Mattiussi
+ Árbitro: Camila Gette
+ Árbitro asistente 1: Nicolás Cavagnaro
+ Árbitro asistente 2: Nicolás Oviedo
+ Cuarto árbitro: Sebastián Milessi
  15.00 – Lanús – Huracán (Zona B) – Auxiliar
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Mauro Soria
+ Árbitro asistente 2: Agustín Celucci
+ Cuarto árbitro: Rodrigo Amadeo
  15.00 – Estudiantes – Quilmes (Zona B) – City Bell
+ Árbitro: Mauro Trinidad
+ Árbitro asistente 1: Rodrigo Mansilla
+ Árbitro asistente 2: Cristian Camacho
+ Cuarto árbitro: Simón Laborda Paredes
  15.00 – San Martín SJ – Atlético Rafaela (Zona B) – Predio
+ Árbitro: Damián Parodi
+ Árbitro asistente 1: Martín Núñez
+ Árbitro asistente 2: Rodrigo Rodríguez
  15.00 – Newell’s – Estudiantes (Río Cuarto) (Zona B) – Predio
+ Árbitro: Joaquín García Casas
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Matías Chena
  15.00 – Ind. Rivadavia Mza. – Independiente (Zona B) – Ciudad Deportiva
+ Árbitro: Pablo Gómez
+ Árbitro asistente 1: Sebastián Valdez
+ Árbitro asistente 2: Bruno Santillán
+Viernes 24 de julio
+ 15.00 – Argentinos – Atlético Tucumán (Zona A) – Ceffa
+ Árbitro: Facundo Fuentes
+ Árbitro asistente 1: Freddy Quelca Guarachy
+ Árbitro asistente 2: Milena Pérez
+ Cuarto árbitro: Antonela Álvarez
+ 15.00 – Sarmiento – Godoy Cruz (Zona A) – Centro de Alto Rendimiento
+ Árbitro: Franco Gutierre
+ Árbitro asistente 1: Federico Machuca
+ Árbitro asistente 2: Mateo Cueto
  Fecha 3
  Martes 4 de agosto
  15.00 – Gimnasia – Aldosivi (Zona A) – Estancia Chica
@@ -1222,7 +1285,15 @@ Suspendidos
  Asistente 2: Agustín Fischetti
  Cuarto árbitro: Alberto Iglesias
 Copa Argentina 2026
-FASE FINAL – 16vos. de Final
+FASE FINAL – Octavos de final
+ Deportivo Riestra vs. Gimnasia de La Plata
+ Banfield vs. Midland
+ Racing vs. Belgrano
+ Vélez vs. Boca
+ Aldosivi vs. Independiente Rivadavia
+ Atlético Tucumán vs. Independiente
+ Platense vs. Instituto
+ Estudiantes de La Plata vs. Barracas Central
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA. 
 Supercopa Argentina 2025
 Postergada
@@ -1325,7 +1396,6 @@ Vuelta: jueves 30 de julio, 21:30 horas (estadio a confirmar)
 Intercontinental Sub 20 2026
 Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
-Copa del Mundo 2026
 Selección Mayor Femenina
 Copa Mundial Femenina FIFA 2027
 El Consejo de la FIFA confirmó que el torneo se disputará del 24 de junio al 25 de julio de 2027.l Consejo de la FIFA confirmó que el torneo se disputará del 24 de junio al 25 de julio de 2027.
@@ -1347,7 +1417,30 @@ La primera fase del torneo clasificatorio intercontinental tendrá lugar en novi
 Clasificación Mundial Femenina FIFA/Coca-Cola
  previa al sorteo del torneo. Las dos primeras accederán a la segunda fase del torneo clasificatorio intercontinental, que se disputará en febrero de 2027 en una única sede y a la que se sumarán dos representantes de la Concacaf, uno de la CONMEBOL y otro de la UEFA. Las seis selecciones se encuadrarán en tres cruces diferentes, consistentes en sendos partidos de eliminación directa que decidirán los tres equipos clasificados para la Copa Mundial Femenina de la FIFA 2027™. Las selecciones representantes de la misma confederación no podrán quedar encuadradas en un mismo cruce.
 Copa Mundial Sub 17 Masculina 2026
-Argentina integará el Grupo C y jugará ante Australia, Dinamarca y CAF 2 (la Copa Africana de Naciones Sub-17 aún se está disputando) . El certamen se celebrará entre el 19 de noviembre y el 13 de diciembre de 2026, y en ella competirán 48 selecciones por el título de campeonas del mundo.
+El certamen se celebrará entre el 19 de noviembre y el 13 de diciembre de 2026
+Los grupos
+ El sorteo de la Copa Mundial Sub-17 se celebró en la sede de la FIFA el 21 de mayo. Los grupos son los siguientes:
+ Grupo A: Catar, Panamá, Egipto, Grecia
+ Grupo B: República de Corea, Uganda, Nueva Caledonia, Ecuador
+ Grupo C: Argentina, Australia, Mozambique, Dinamarca
+ Grupo D: Francia, Haití, Arabia Saudí, Uruguay
+ Grupo E: Italia, Jamaica, Costa de Marfil, Uzbekistán
+ Grupo F: Senegal, Croacia, Cuba, Tayikistán
+ Grupo G: Mali, Nueva Zelanda, Bélgica, Vietnam
+ Grupo H: España, RP China, Fiyi, Marruecos
+ Grupo I: Brasil, República de Irlanda, Tanzania, Costa Rica
+ Grupo J: Estados Unidos, Montenegro, Chile, Argelia
+ Grupo K: México, Rumanía, Camerún, Venezuela
+ Grupo L: Japón, Colombia, Serbia, Honduras
+Formato del torneo
+ Las 48 selecciones clasificadas serán distribuidas en 12 grupos de cuatro equipos. Los dos primeros de cada grupo, junto con los ocho mejores terceros, avanzarán a los dieciseisavos de final. A partir de esa instancia, el torneo se disputará en formato de eliminación directa.
+Fixture de Argentina
+ 19 de noviembre de 2026
+ Argentina -Australia
+ 22 de noviembre de 2026
+ Argentina-Mozambique
+ 25 de noviembre de 2026
+ Dinamarca-Argentina 
 CONMEBOL Copa Libertadores Femenina 2026
 Se jugará del 15 al 31 de octubre de 2026.
 CONMEBOL Copa Libertadores Fútbol 
