@@ -1,26 +1,116 @@
 25/03/2019
 Torneo Clausura 
 Fecha 1
- Jueves 23 de julio
- 19.30 Belgrano – Rosario Central (Zona B)
- 19.30 Sarmiento – Argentinos (Zona B)
- 21.45 Defensa y Justicia – Aldosivi (Interzonal)
- Viernes 24 de julio
- 16.45 Gimnasia (Mza.) – Central Córdoba (Zona A)
- 19.00 Racing – Gimnasia (Zona B)
- 19.00 Vélez – Instituto (Zona A)
- 21.15 Huracán – Banfield (Zona B)
- 21.15 Platense – Unión (Zona A)
- Sábado 25 de julio
- 14.45 Estudiantes (Río Cuarto) – Tigre (Zona B)
- 17.00 Newell’s – Talleres (Zona A)
- 19.15 River – Barracas Central (Zona B)
- 21.30 Lanús – San Lorenzo (Zona A)
- Domingo 26 de julio
- 15.00 Atlético Tucumán – Ind. Rivadavia Mza. (Zona B)
- 17.15 Estudiantes – Independiente (Zona A)
- 19.30 Deportivo Riestra – Boca (Zona A)
- Fecha 2
+Jueves 23 de julio
+19.30 Belgrano CBA - Rosario Central
+ Árbitro: Zunino Sebastián
+ Asistente 1: Navarro Cristian
+ Asistente 2: Méndez Agustín
+ Cuarto árbitro: Córdoba Carlos
+ VAR: Delfino Germán
+ AVAR: Lencina Gerardo
+19.30 Sarmiento - Argentinos Jrs.
+ Árbitro: Lobo Medina Luis
+ Asistente 1: Espinoza Damián
+ Asistente 2: Bellvilaqua Belén
+ Cuarto árbitro: Gil Joaquín
+ VAR: Monzón Brizuela Gastón
+ AVAR: Núñez Iván
+21.45 Def. y Justicia - Aldosivi (M.D.P.)
+ Árbitro: Zamora Daniel E.
+ Asistente 1: Páez Hugo
+ Asistente 2: López Carla
+ Cuarto árbitro: Maglio Ramiro
+ VAR: Echenique Fernando
+ AVAR: Uziga Javier
+Viernes 24 de julio
+16.45 Gimnasia MZA - Ctral. Córdoba SE
+ Árbitro: Gariano Andrés
+ Asistente 1: Del Fueyo Juan
+ Asistente 2: Callegari Ernesto
+ Cuarto árbitro: Ejarque Emanuel
+ VAR: Llobet Fabrizio
+ AVAR: Gil Joaquín
+19.00 Racing Club - G. y Esgrima L.P.
+ Árbitro: Ramírez Nicolás
+ Asistente 1: Acevedo Pablo
+ Asistente 2: Ricciardi Juan
+ Cuarto árbitro: Ansede Matías
+ VAR: Paleta Héctor
+ AVAR: Bresba Sebastián
+19.00 Vélez Sarsfield - Instituto A.C. CBA.
+ Árbitro: Merlos Andrés
+ Asistente 1: González Pablo
+ Asistente 2: García Leri Uriel
+ Cuarto árbitro: Viñas Nahuel
+ VAR: Franklin Adrián
+ AVAR: Bosso Gisella
+21.15 Huracán - Banfield
+ Árbitro: Pafundi Juan
+ Asistente 1: Grunmann Erik
+ Asistente 2: Lapalma Federico
+ Cuarto árbitro: Recalde Marcos
+ VAR: Fortunato Laura
+ AVAR: Verlota Diego
+21.15 Platense - Unión
+ Árbitro: Martínez Sebastián
+ Asistente 1: Castelli José
+ Asistente 2: Pardo Lucas
+ Cuarto árbitro: Alegre Kevin
+ VAR: Di Iorio Salomé
+ AVAR: Suárez Gastón
+Sábado 25 de julio
+14.45 Estudiantes Río IV - Tigre
+ Árbitro: Ferreyra Bryan
+ Asistente 1: Martín Diego
+ Asistente 2: Viglietti Carlos
+ Cuarto árbitro: Morón Franco
+ VAR: Trucco Silvio
+ AVAR: Viñas Nahuel
+17.00 N.O. Boys - Talleres CBA
+ Árbitro: Baliño Ignacio
+ Asistente 1: Ferreyra Walter
+ Asistente 2: Badano Joaquín
+ Cuarto árbitro: Billanueva Leandro
+ VAR: Carreras José
+ AVAR: Mihura Javier
+19.15 River Plate - Barracas Ctral.
+ Árbitro: Arasa Nazareno
+ Asistente 1: Mamani Juan
+ Asistente 2: Castelli Maximiliano
+ Cuarto árbitro: Macheroni Maximiliano
+ VAR: Echavarría Pablo
+ AVAR: De Almeida Mariana
+21.30 Lanús - San Lorenzo de A.
+ Árbitro: Rey Hilfer Leandro
+ Asistente 1: Raineri Sebastián
+ Asistente 2: Gualtieri Pablo
+ Cuarto árbitro: Broggi Jorge
+ VAR: Ceballos Diego
+ AVAR: Sosa Nelson
+Domingo 26 de julio
+15.00 At. Tucumán - Independiente R. (MZA.)
+ Árbitro: Carranza Álvaro
+ Asistente 1: Horticolou Marcos
+ Asistente 2: Balmaceda Matías
+ Cuarto árbitro: Ceballo César
+ VAR: Macheroni Maximiliano
+ AVAR: Fernández Julio
+17.15 Estudiantes de L.P. - Independiente
+ Árbitro: Dóvalo Pablo
+ Asistente 1: Savorani Miguel
+ Asistente 2: Cano Federico
+ Cuarto árbitro: Sosa Nelson
+ VAR: Habib Sebastián
+ AVAR: Germanotta Lucas
+19.30 Dep. Riestra - Boca Jrs.
+ Árbitro: Mastrángelo Hernán
+ Asistente 1: Bonfa Diego
+ Asistente 2: Delbarba Adrián
+ Cuarto árbitro: Echenique Fernando D.
+ VAR: Novelli Lucas
+ AVAR: Romero Diego
+Fecha 2
  Martes 28 de julio
  19.00 San Lorenzo – Gimnasia (Mza.) (Zona A)
  19.00 Banfield – Sarmiento (Zona B)
@@ -425,7 +515,7 @@ Viernes 24 de julio
  17.00 – Talleres – San Lorenzo (Zona A) – La Boutique
 Primera Nacional
 Fecha 21
- Suspendidos
+Suspendidos
  15.00 Defensores de Belgrano - Los Andes
  Árbitro: Fabrizio Llobet
  Asistente 1: Maximiliano Castelli
@@ -471,7 +561,7 @@ Fecha 21
  Asistente 1: Marcos Horticolou
  Asistente 2: Gonzalo Roldán
  Cuarto árbitro: Francisco Acosta
- Suspendidos
+Suspendidos
  15.00 Almagro - Gimnasia (S)
  Árbitro: Javier Delbarba
  Asistente 1: Lucas Pardo
@@ -483,15 +573,99 @@ Fecha 21
  Asistente 2: Joaquín Badano
  Cuarto árbitro: Marcelo Sanz
  Fecha 22 
- RACING (CBA.) - SAN TELMO
- SAN MIGUEL - ACASSUSO
- COLÓN - CHACO FOR EVER
- DEP. MORÓN - FERRO CARRIL OESTE
- GODOY CRUZ (MZA.) - CTRAL. NORTE (S.)
- LOS ANDES - DEP. MADRYN
- ALL BOYS - DEF. DE BELGRANO
- ESTUDIANTES - CDAD. DE BOLÍVAR
- MITRE (S.E.) - ALTE. BROWN
+Sábado 25 de julio
+15.00 Estudiantes - Cdad. de Bolívar
+Árbitro: Juan Cruz Robledo
+Asistente 1: Andrés Barbieri
+Asistente 2: Sebastián Pumeti
+Cuarto árbitro: Laura Fortunato
+15.00 Tristán Suárez - Chacarita Jrs.
+Árbitro: Juan Pablo Loustau
+Asistente 1: Mario Bardina
+Asistente 2: Maxi Montenegro
+Cuarto árbitro: Nicolás Kresta
+16.00 Atl. de Rafaela - Nueva Chicago
+Árbitro: Matías Billone
+Asistente 1: Matías Bianchi
+Asistente 2: Antonella Pajón
+Cuarto árbitro: Lautaro Castagnola
+19.00 San Martín (T.) - Temperley
+Árbitro: Federico Benítez
+Asistente 1: Marcelo Bistocco
+Asistente 2: Emanuel Serale
+Cuarto árbitro: Alejandro Scionti
+Domingo 26 de julio
+15.00 Dep. Morón - Ferro Carril Oeste
+Árbitro: Felipe Viola
+Asistente 1: Iván Alliende
+Asistente 2: Ramón Ortiz
+Cuarto árbitro: Rodrigo Villalba
+15.00 Los Andes - Dep. Madryn
+Árbitro: Gonzalo Pereira
+Asistente 1: Federico Pomi
+Asistente 2: Heber Ibáñez Mesa
+Cuarto árbitro: Ramiro Maglio
+15.00 All Boys - Def. de Belgrano
+Árbitro: Bruno Amiconi
+Asistente 1: Guillermo Yacante
+Asistente 2: Gonzalo Roldán
+Cuarto árbitro: Jorge Broggi
+15.00 Agropecuario Arg. - San Martín (S.J.)
+Árbitro: Maximiliano Manduca
+Asistente 1: Manuel Sánchez
+Asistente 2: Sebastián Osudar
+Cuarto árbitro: Agustín Vegetti
+15.30 Colón - Chaco For Ever
+Árbitro: Javier Delbarba
+Asistente 1: Juan Pablo Millenaar
+Asistente 2: Federico García
+Cuarto árbitro: Facundo Rojo Casal
+15.30 San Miguel - Acassuso
+Árbitro: Wenceslao Meneses
+Asistente 1: Mariano Rosetti
+Asistente 2: Diego Romero
+Cuarto árbitro: Marcos Recalde
+16.00 Racing (Cba.) - San Telmo
+Árbitro: Adrián Franklin
+Asistente 1: Eduardo Lucero
+Asistente 2: Cristian Herrera
+Cuarto árbitro: Pablo Núñez
+16.00 Mitre (S.E.) - Alte. Brown
+Árbitro: Juan Nebbietti
+Asistente 1: Hernán Vallejos
+Asistente 2: Daniel Zamora
+Cuarto árbitro: Mauricio Martín
+16.00 Gimnasia y Esgrima (J.) - Güemes (S.E.)
+Árbitro: Fabrizio Llobet
+Asistente 1: Mauro Ramos Errasti
+Asistente 2: Robertino Rosas
+Cuarto árbitro: Federico Guaymas
+16.00 F.C. Midland - Patronato (P.)
+Árbitro: Franco Acita
+Asistente 1: Lucas Ripolli
+Asistente 2: Daiana Milone
+Cuarto árbitro: Matías Ansede
+16.00 Quilmes A.C. - Colegiales
+Árbitro: Pablo Giménez
+Asistente 1: Gerardo Lencina
+Asistente 2: Marcelo Errante
+Cuarto árbitro: Ignacio Domínguez
+16.30 Godoy Cruz (Mza.) - Central Norte (S.)
+Árbitro: Lucas Cavallero
+Asistente 1: Gonzalo Ferrari
+Asistente 2: Martín Saccone
+Cuarto árbitro: Nelson Bejas
+18.00 Gimnasia y Tiro (S.) - Dep. Maipú (Mza.)
+Árbitro: Gastón Monzón Brizuela
+Asistente 1: Mariano Viale
+Asistente 2: Alejandro Schneller
+Cuarto árbitro: Maximiliano Silcán Jerez
+Lunes 27 de julio
+20.00 Atlanta - Almagro
+Árbitro: Yamil Possi
+Asistente 1: Nahuel Rasullo
+Asistente 2: Lucas Vázquez
+Cuarto árbitro: Manuel Girett
  Fecha 23 
  ALTE. BROWN - RACING (CBA.)
  CDAD. DE BOLÍVAR - MITRE (S.E.)
@@ -803,17 +977,63 @@ ZONA B
  ATLANTA - F.C. MIDLAND
 Primera B
 Fecha 27 
- Ituzaingó - Sportivo Italiano 
- Camioneros - San Martín (B)
- Dep. Merlo - Villa San Carlos 
- Dock Sud - Liniers 
- Comunicaciones - Real Pilar 
- Def. Unidos - UAI Urquiza 
- Argentino de Quilmes - Villa Dálmine 
- Flandria – Excursionistas
- Dep. Armenio - Arsenal 
- Brown (Adrogué) - Argentino de Merlo 
- Dep. Laferrere - Talleres (RE)
+Sábado 25 de julio
+13.00 Sp. Dock Sud - Liniers
+Árbitro: Jonathan Barrios
+Asistente 1: Hugo Hartung
+Asistente 2: D. Rodríguez Lazarte
+Cuarto árbitro: Lucas Brumer
+14.00 Ituzaingó - Sp. Italiano
+Árbitro: Martín D'Esposito
+Asistente 1: Mariano Cicheto
+Asistente 2: Néstor Olivera
+Cuarto árbitro: Ulises López
+15.00 Camioneros - San Martín (B.)
+Árbitro: Nicolás Mastroieni
+Asistente 1: Juan Manuel Díaz
+Asistente 2: Hugo Carbo
+Cuarto árbitro: Facundo Carretero
+15.00 Comunicaciones - Real Pilar
+Árbitro: Valentín Bocaccia
+Asistente 1: Luis Rotman
+Asistente 2: Giuliano Grillo
+Cuarto árbitro: Rodrigo Villalba
+15.00 Def. Unidos - UAI Urquiza
+Árbitro: Gabriel Gutiérrez
+Asistente 1: Cristian Amarilla
+Asistente 2: Federico Bozo
+Cuarto árbitro: Kevin Alegre
+15.00 Arg. de Quilmes - Villa Dálmine
+Árbitro: Agustín Núñez Rodríguez
+Asistente 1: Roberto Paz
+Asistente 2: Matías Panozzo
+Cuarto árbitro: Franco Porotelli
+15.00 Flandria - Excursionistas
+Árbitro: Gastón Iglesias
+Asistente 1: Damián Orellana
+Asistente 2: Damián Alcaraz
+Cuarto árbitro: Manuel Girett
+15.00 Brown (Adrogué) - Arg. de Merlo
+Árbitro: Maxi López Monti
+Asistente 1: Matías Basso
+Asistente 2: Leandro Carril
+Cuarto árbitro: Manuel Prieto
+15.30 Dep. Armenio - Arsenal F.C.
+Árbitro: Ariel Cruz
+Asistente 1: Nicolás Gruccio
+Asistente 2: Hernán Antola
+Cuarto árbitro: Juan Ferreira
+19.00 Dep. Merlo - Villa San Carlos
+Árbitro: Gabriel Flórez
+Asistente 1: Nahuel Santanocito
+Asistente 2: Berenice Avaro
+Cuarto árbitro: Eduardo Coyto
+Domingo 26 de julio
+15.00 Dep. Laferrere - Talleres (R.E.)
+Árbitro: Mariano Negrete
+Asistente 1: Arnaldo Melgarejo
+Asistente 2: Gastón Borras
+Cuarto árbitro: Nicolás Kresta
 Fecha 28 
  Talleres (RE) - Ituzaingó 
  Argentino de Merlo - Dep. Laferrere 
@@ -996,7 +1216,7 @@ Fecha 42
  Flandria - Dep. Armenio
 Primera C
 Fecha 20
- Suspendidos
+Suspendidos
  15.00 Deportivo Paraguayo - Central Ballester
  Árbitro: Manuel Girett
  Asistente 1: Nahuel Valdeón
@@ -1022,13 +1242,13 @@ Fecha 20
  Asistente 1: Damián Alcaraz
  Asistente 2: Mario Vargas
  Cuarto árbitro: Martín Morenza
- Suspendidos
+Suspendidos
  15.00 Claypole - Juventud Unida
  Árbitro: Guido Mascheroni
  Asistente 1: Felipe Onufrik
  Asistente 2: Alexis Torales
  Cuarto árbitro: Rodrigo Amadeo
- A definir
+A definir
  Mercedes - El Porvenir
  Árbitro: Leandro Fedele
  Asistente 1: Cristian Rodríguez
@@ -1044,14 +1264,81 @@ Fecha 20
  Asistente 1: Alexis Etchepare
  Asistente 2: Luis Taboada
  Cuarto árbitro: Lautaro Díaz
-Fecha 21 - 25/07/2026 
-Lugano C. Ctro. Rec. Español
-V. Arenas C. J.J. De Urquiza
-Berazategui C. Mercedes
-Estrella Del Sur C. Dep. Paraguayo
-Argentino (R.) C. Puerto Nuevo
-Sacachispas F.C. C. L.N. Alem
-J. Unida C. Def. De Cambaceres
+Fecha 21 
+Jueves 23 de julio
+15.00 Argentino (R.) - Puerto Nuevo
+Árbitro: Facundo Fuentes
+Asistente 1: Alexis Etchepare
+Asistente 2: Franco Chávez
+Cuarto árbitro: Franco Porotelli
+Sábado 25 de julio
+13.00 Berazategui - Mercedes
+Árbitro: David Cornejo
+Asistente 1: Jonathan Florentín
+Asistente 2: Joaquín Fraga
+Cuarto árbitro: Ariadna Palacios
+15.00 Lugano - Ctro. Rec. Español
+Árbitro: Iván Castelu Coca
+Asistente 1: Lucas Monsalvo
+Asistente 2: Lucas García
+Cuarto árbitro: Pablo Gómez
+15.00 Victoriano Arenas - J.J. de Urquiza
+Árbitro: Mateo Bocaccia
+Asistente 1: Rodrigo Mansilla
+Asistente 2: Sebastián Valdez
+Cuarto árbitro: Damián Parodi
+15.00 Estrella del Sur - Dep. Paraguayo
+Árbitro: Alejandro Porticella
+Asistente 1: Tomás Otero
+Asistente 2: Rodrigo Díaz
+Cuarto árbitro: Nazareno Galeano
+15.00 Leones F.C. - Ctral. Córdoba (R.)
+Árbitro: Gonzalo Creimermann
+Asistente 1: Diego Fernández
+Asistente 2: Leandro Idio
+Cuarto árbitro: Mauro Trinidad
+15.00 Atlas - Dep. Español
+Árbitro: Leandro Fedele
+Asistente 1: Christian Rodríguez
+Asistente 2: Nicolás Rovira
+Cuarto árbitro: Ignacio Domínguez
+15.00 Cañuelas F.C. - Muñiz
+Árbitro: Guido Mascheroni
+Asistente 1: Matías Vargas
+Asistente 2: Nahuel Martín
+Cuarto árbitro: Roberta Echeverría
+Domingo 26 de julio
+15.00 Juventud Unida - Def. de Cambaceres
+Árbitro: Gonzalo Correa
+Asistente 1: Bruno Castillo
+Asistente 2: Agustín Cellucci
+Cuarto árbitro: Lucas Brumer
+15.00 Luján - Ctral. Ballester
+Árbitro: Agustín Flores
+Asistente 1: Ignacio Otegui
+Asistente 2: Nicolás Cavagnaro
+Cuarto árbitro: Juan Ferreyra
+15.00 Gral. Lamadrid - Claypole
+Árbitro: Damián Rubino
+Asistente 1: Ariel Ibáñez
+Asistente 2: Mariela Martino
+Cuarto árbitro: Ulises López
+Lunes 27 de julio
+15.00 Sacachispas F.C. - L.N. Alem
+Árbitro: Agustín Panizza
+Asistente 1: Matías Pino
+Asistente 2: Diego Ortiz
+Cuarto árbitro: Eduardo Coyto
+15.00 Fénix - Yupanqui (en F.C. Midland)
+Árbitro: Elías Viglione
+Asistente 1: Roberto Rodríguez
+Asistente 2: Tomás Pérez Díaz
+Cuarto árbitro: Leandro Díaz
+15.00 Sp. Barracas - El Porvenir (en Almagro)
+Árbitro: Antonella Álvarez
+Asistente 1: Felipe Onufrik
+Asistente 2: Sergio Benítez
+Cuarto árbitro: Facundo Carretero
 Fecha 22 - 01/08/2026 
 Def. De Cambaceres C. Lugano
 L.N. Alem C. J. Unida
@@ -1266,6 +1553,30 @@ Cañuelas F.C. C. Ctral. Ballester
 Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
+FECHA 8 (ZONA A)
+Sábado 25 de julio
+15.00 Náutico Hacoaj - Atl. Pilar
+Árbitro: Sebastián Milessi
+Asistente 1: Patricio Acuña
+Asistente 2: Elías Mendoza
+Cuarto árbitro: Rodrigo Amadeo
+15.00 S.A.T. - Provincial de Lobos
+Árbitro: Fabrizio De La Cruz
+Asistente 1: Enzo Nell
+Asistente 2: Santiago Galván
+Cuarto árbitro: Lautaro Gutiérrez
+Domingo 26 de julio
+15.00 Dep. Metalúrgico - Estrella de Berisso
+Árbitro: Tomás Aybar
+Asistente 1: Sebastián Krojzl
+Asistente 2: Martín Núñez
+Cuarto árbitro: Lucas Baiz
+Martes 28 de julio
+13.00 Juv. de Bernal - Def. de Glew (en Atlas)
+Árbitro: Micaela Abelardo
+Asistente 1: Alejo Milone
+Asistente 2: Agustín Fischetti
+Cuarto árbitro: Valentino Oldani
 Fecha 9 Zona B
 Suspendidos
 14.00 Buenos Aires City - Everton, en auxiliar Banfield
@@ -1284,6 +1595,29 @@ Suspendidos
  Asistente 1: Ariel Ibáñez
  Asistente 2: Agustín Fischetti
  Cuarto árbitro: Alberto Iglesias
+FECHA 11 (ZONA B)
+Sábado 25 de julio
+10.00 Everton - Barrancas F.C.
+Árbitro: Lautaro Díaz
+Asistente 1: Alexis Escobar
+Asistente 2: Cristian Camacho
+Cuarto árbitro: Santiago Palmieri
+15.00 Uribelarrea - Belgrano (Zárate)
+Árbitro: Nicolás Díaz
+Asistente 1: Rodolfo Rodríguez
+Asistente 2: Alexis Torales
+Cuarto árbitro: Alberto Iglesias
+Domingo 26 de julio
+14.00 Alumni - C. Orientado
+Árbitro: Valentín Pérsico
+Asistente 1: Oscar Maidana
+Asistente 2: Nicolás Oviedo
+Cuarto árbitro: Marcos Winer
+15.00 Dep. Las Mandarinas - Buenos Aires City
+Árbitro: Enzo Gutiérrez
+Asistente 1: Facundo Maldonado
+Asistente 2: Lucas Burgos
+Cuarto árbitro: Valentín Ibáñez Mesa
 Copa Argentina 2026
 FASE FINAL – Octavos de final
  Deportivo Riestra vs. Gimnasia de La Plata
