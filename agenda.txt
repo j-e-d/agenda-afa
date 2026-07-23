@@ -407,38 +407,6 @@ Torneo Proyección Clausura
  Árbitro asistente 2: Luis Taboada
  Cuarto árbitro: Eduardo Coyto
 Fecha 2
-Jueves 23 de julio
- 15.00 – Instituto – Gimnasia (Zona A) – La Agustina
- Árbitro: Lautaro Díaz
- Árbitro asistente 1: Nahuel Martin
- Árbitro asistente 2: Gabriel Pérez
- 15.00 – Racing – Gimnasia (Mza.) (Zona A) – Tita Mattiussi
- Árbitro: Camila Gette
- Árbitro asistente 1: Nicolás Cavagnaro
- Árbitro asistente 2: Nicolás Oviedo
- Cuarto árbitro: Sebastián Milessi
- 15.00 – Lanús – Huracán (Zona B) – Auxiliar
- Árbitro: Juan Ferreyra
- Árbitro asistente 1: Mauro Soria
- Árbitro asistente 2: Agustín Celucci
- Cuarto árbitro: Rodrigo Amadeo
- 15.00 – Estudiantes – Quilmes (Zona B) – City Bell
- Árbitro: Mauro Trinidad
- Árbitro asistente 1: Rodrigo Mansilla
- Árbitro asistente 2: Cristian Camacho
- Cuarto árbitro: Simón Laborda Paredes
- 15.00 – San Martín SJ – Atlético Rafaela (Zona B) – Predio
- Árbitro: Damián Parodi
- Árbitro asistente 1: Martín Núñez
- Árbitro asistente 2: Rodrigo Rodríguez
- 15.00 – Newell’s – Estudiantes (Río Cuarto) (Zona B) – Predio
- Árbitro: Joaquín García Casas
- Árbitro asistente 1: Oscar Maidana
- Árbitro asistente 2: Matías Chena
- 15.00 – Ind. Rivadavia Mza. – Independiente (Zona B) – Ciudad Deportiva
- Árbitro: Pablo Gómez
- Árbitro asistente 1: Sebastián Valdez
- Árbitro asistente 2: Bruno Santillán
 Viernes 24 de julio
  15.00 – Argentinos – Atlético Tucumán (Zona A) – Ceffa
  Árbitro: Facundo Fuentes
@@ -1223,12 +1191,6 @@ A definir
  Asistente 2: Luis Taboada
  Cuarto árbitro: Lautaro Díaz
 Fecha 21 
-Jueves 23 de julio
-15.00 Argentino (R.) - Puerto Nuevo
-Árbitro: Facundo Fuentes
-Asistente 1: Alexis Etchepare
-Asistente 2: Franco Chávez
-Cuarto árbitro: Franco Porotelli
 Sábado 25 de julio
 13.00 Berazategui - Mercedes
 Árbitro: David Cornejo
@@ -1725,15 +1687,7 @@ Calendario octavos de final
  La final de la CONMEBOL Libertadores se disputará el 28 de noviembre en la ciudad de Montevideo. 
 CONMEBOL Copa Sudamericana 2026
 Playoffs Copa Sudamericana 2026
-Nacional vs Tigre
- - Ida: martes 21 de julio, 19:00 horas (Montevideo) 
- Árbitro: Carlos Betancur (Colombia)
- Árbitro asistente 1: Miguel Roldán (Colombia)
- Árbitro asistente 2: Richard Ortiz (Colombia)
- Cuarto árbitro: José Ortiz (Colombia)
- VAR: Leonard Mosquera (Colombia)
- AVAR: Luis Picón (Colombia)
-Vuelta: martes 28 de julio, 21:30 horas (Victoria)
+Nacional vs Tigre - Vuelta: martes 28 de julio, 21:30 horas (Victoria)
  Universidad Central vs Santos
  Ida: martes 21 de julio, 20:30 horas (Caracas)
  Vuelta: martes 28 de julio, 21:30 horas (Santos)
