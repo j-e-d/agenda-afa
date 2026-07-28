@@ -936,38 +936,36 @@ Fecha 42
 Primera C
 Fecha 20
 Suspendidos
- 15.00 Deportivo Paraguayo - Central Ballester
+ Deportivo Paraguayo - Central Ballester
  Árbitro: Manuel Girett
  Asistente 1: Nahuel Valdeón
  Asistente 2: Agustina Baleman
  Cuarto árbitro: Leonardo Cristaldo
- 15.00 Recreativo Español - Leones, en Ituzaingó
+ Recreativo Español - Leones, en Ituzaingó
  Árbitro: Valentín Bocaccia
  Asistente 1: Matías Noli
  Asistente 2: Rodolfo Rodríguez
  Cuarto árbitro: Damián Parodi
- 15.00 Atlas - Sacachispas
+ Atlas - Sacachispas
  Árbitro: Rodrigo Villalba
  Asistente 1: Matías Vargas
  Asistente 2: Patricio Acuña
  Cuarto árbitro: Nazareno Galeano
- 15.00 Berazategui - central Córdoba (R)
+ Berazategui - central Córdoba (R)
  Árbitro: Elías Viglione
  Asistente 1: Leandro Carril
  Asistente 2: Ludmila Capelli
  Cuarto árbitro: Franco Porotelli
- 15.00 Estrella del Sur - Luján
+ Estrella del Sur - Luján
  Árbitro: Ariadna Palacios
  Asistente 1: Damián Alcaraz
  Asistente 2: Mario Vargas
  Cuarto árbitro: Martín Morenza
-Suspendidos
- 15.00 Claypole - Juventud Unida
+ Claypole - Juventud Unida
  Árbitro: Guido Mascheroni
  Asistente 1: Felipe Onufrik
  Asistente 2: Alexis Torales
  Cuarto árbitro: Rodrigo Amadeo
-A definir
  Mercedes - El Porvenir
  Árbitro: Leandro Fedele
  Asistente 1: Cristian Rodríguez
@@ -983,6 +981,9 @@ A definir
  Asistente 1: Alexis Etchepare
  Asistente 2: Luis Taboada
  Cuarto árbitro: Lautaro Díaz
+FECHA 21 
+ Martes 28 de julio
+ 15.00 Sportivo Barracas - El Porvenir
 Fecha 22 - 01/08/2026 
 Def. De Cambaceres C. Lugano
 L.N. Alem C. J. Unida
