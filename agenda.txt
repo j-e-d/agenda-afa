@@ -848,11 +848,6 @@ ZONA B
 Primera B
 Fecha 28 
 Viernes 31 de Julio 
-15.00 Arsenal vs. Brown (Adrogué)
- Árbitro: Julián Jerez
- Árbitro asistente 1: Maximiliano Montenegro
- Árbitro asistente 2: Federico Josa
- Cuarto árbitro: Antonella Álvarez
 20.00 Excursionistas vs. Deportivo Armenio
  Árbitro: Wenceslao Meneses
  Árbitro asistente 1: Diego Fernández
@@ -1124,64 +1119,7 @@ suspendidos
  Cuarto árbitro: Lautaro Díaz
 Fecha 22
 Zona A
-Viernes 31 de Julio
- 15.00 Leandro N. Alem vs. Juventud Unida
- Árbitro: Iván Castelu Coca
- Árbitro asistente 1: Cristian Rodríguez
- Árbitro asistente 2: Freddy Quelca Guarachi
- Cuarto árbitro: Martín Morenza
- 15.00 Puerto Nuevo vs. Sacachispas FC
- Árbitro: Valentín Bocaccia
- Árbitro asistente 1: Federico Bozo
- Árbitro asistente 2: Joaquín Fraga
- Cuarto árbitro: Tomás Aybar
-15.00 Deportivo Paraguayo vs. Argentino (R)
- Árbitro: David Cornejo
- Árbitro asistente 1: Ariel Ibáñez
- Árbitro asistente 2: Alexis Ramírez
- Cuarto árbitro: Rodrigo Amadeo
- 15.00 JJ Urquiza vs. Berazategui
- Árbitro: Gonzalo Correa
- Árbitro asistente 1: Matías Pino
- Árbitro asistente 2: Enzo Nell
- Cuarto árbitro: Roberta Echeverría
- 15.00 Centro Recreativo Español vs. Victoriano Arenas
- Árbitro: Manuel Girett
- Árbitro asistente 1: Matías Vargas
- Árbitro asistente 2: Sebastián Krojzl
- Cuarto árbitro: Simón Laborda Paredes
- 18.00 Defensores de Cambaceres vs. Lugano
- Árbitro: Matías Ansede
- Árbitro asistente 1: Leandro Idio
- Árbitro asistente 2: Alejo Milone
- Cuarto árbitro: Valentín Pérsico
- 18.00 Mercedes vs. Estrella del Sur
- Árbitro: Iñaki Iparraguirre
- Árbitro asistente 1: Leandro Carril
- Árbitro asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Eduardo Coyto
 Zona B
-Viernes 31 de Julio 
-15.00 Claypole vs. Luján
- Árbitro: Gonzalo Creimermann
- Árbitro asistente 1: Lucas Monsalvo
- Árbitro asistente 2: Lucas García
- Cuarto árbitro: Nicolás Díaz
-15.00 Central Ballester vs. Sportivo Barracas
- Árbitro: Ariadna Palacios
- Árbitro asistente 1: Alexis Etchepare
- Árbitro asistente 2: Bruno Santillán
- Cuarto árbitro: Ignacio Domínguez
-15.00 Central Córdoba (R) vs. General Lamadrid
- Árbitro: Rodrigo Villalba
- Árbitro asistente 1: Felipe Arrechea
- Árbitro asistente 2: Luis Taboada
- Cuarto árbitro: Lautaro Díaz
-15.00 Deportivo Español vs. Leones FC
- Árbitro: Iván Mastroieni
- Árbitro asistente 1: Ignacio Otegui
- Árbitro asistente 2: Diego Ortiz
- Cuarto árbitro: Elías Viglione
 Sábado 1 de Agosto 
 15.00 El Porvenir vs. Fénix
  Árbitro: Ulises López
@@ -1430,12 +1368,6 @@ Domingo 2 de Agosto
  Asistente 2: Agustín Fischetti
  Cuarto árbitro: Alberto Iglesias
 FECHA 11 - Zona B
-Viernes 31 de Julio 
-15.00 Club Orientado vs. Uribelarrea
- Árbitro: Franco Porotelli
- Árbitro asistente 1: Rodrigo Díaz
- Árbitro asistente 2: Tomás Pérez
- Cuarto árbitro: Valentino Oldani
 Lunes 3 de Agosto 
  10.00 Barrancas FC vs. Deportivo Las Mandarinas
  Árbitro: Juan Ferreyra
