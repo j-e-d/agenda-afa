@@ -1177,18 +1177,18 @@ suspendidos
 Fecha 22
 Zona A
 Zona B
-Sábado 1 de Agosto 
-15.00 El Porvenir vs. Fénix
- Árbitro: Ulises López
- Árbitro asistente 1: Gonzalo Cubillas
- Árbitro asistente 2: Cristian Camacho
- Cuarto árbitro: Leonardo Cristaldo
 Lunes 3 de Agosto 
 15.00 Yupanqui vs. Cañuelas FC
  Árbitro: Alejandro Porticella
  Árbitro asistente 1: Matías Panozzo
  Árbitro asistente 2: Marcos Pueyo
  Cuarto árbitro: Sebastián Milessi
+Martes 4 de agosto 
+ 15.00 El Porvenir vs. Fénix
+ Árbitro: Ulises López
+ Árbitro asistente 1: Gonzalo Cubillas
+ Árbitro asistente 2: Cristian Camacho
+ Cuarto árbitro: Leonardo Cristaldo
 Fecha 23 - 08/08/2026 
 Lugano C. V. Arenas
 Berazategui C. Ctro. Rec. Español
@@ -1397,11 +1397,6 @@ Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
 FECHA 9 - Zona A
 Sábado 1 de Agosto 
- 14.30 Provincial de Lobos vs. Deportivo Metalúrgico
- Árbitro: Nazareno Galeano
- Árbitro asistente 1: Sebastián Valdez
- Árbitro asistente 2: Elías Mendoza
- Cuarto árbitro: Joaquín García Casas
  15.00 Náutico Hacoaj vs. Juventud de Bernal
  Árbitro: Facundo Carretero
  Árbitro asistente 1: Bruno Castillo
@@ -1418,6 +1413,12 @@ Domingo 2 de Agosto
  Árbitro asistente 1: Sergio Benítez
  Árbitro asistente 2: Nahuel Martín
  Cuarto árbitro: Leandro Díaz
+Miércoles 5 de agosto 
+ 15.00 Provincial de Lobos vs. Deportivo Metalúrgico
+ Árbitro: Nazareno Galeano
+ Árbitro asistente 1: Sebastián Valdez
+ Árbitro asistente 2: Elías Mendoza
+ Cuarto árbitro: Joaquín García Casas
  A definir
  C. Orientado - Dep. Las Mandarinas
  Árbitro: Camila Gette
