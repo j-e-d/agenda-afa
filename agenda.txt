@@ -26,20 +26,6 @@ Fecha 2
  AVAR: Diego Romero
 Fecha 3
 Sábado 1 de agosto
- 15.30 Gimnasia (Mza.) – Unión (Zona A)
- Árbitro: Juan Pablo Loustau
- Árbitro asistente 1: Sebastián Raineri
- Árbitro asistente 2: Federico García
- Cuarto árbitro: Pablo Núñez
- VAR: Germán Delfino
- AVAR: Carla López
- 15.30 Estudiantes (Río Cuarto) – Banfield
- Árbitro: Ignacio Baliño
- Árbitro asistente 1: Cristian Navarro
- Árbitro asistente 2: Javier Mihura
- Cuarto árbitro: Nelson Bejas
- VAR: Fernando Espinoza
- AVAR: Javier Uziga
  18.00 Belgrano – Argentinos (Zona B)
  Árbitro: Andrés Gariano
  Árbitro asistente 1: Diego Martín
@@ -513,22 +499,6 @@ Suspendidos
  Cuarto árbitro: Marcelo Sanz
 Fecha 23 
 Zona A
- Sábado 1 de Agosto 
- 15.00 Defensores de Belgrano vs. Estudiantes
- Árbitro: Nelson Sosa
- Árbitro asistente 1: Iván Alliende
- Árbitro asistente 2: Federico Pomi
- Cuarto árbitro: Cristian Cernadas
- 15.00 Ferro Carril Oeste vs. Godoy Cruz
- Árbitro: Juan Pafundi
- Árbitro asistente 1: Lucas Pardo
- Árbitro asistente 2: Lucas Ripoli
- Cuarto árbitro: Ariel Cruz
- 15.00 Acassuso vs. Colón
- Árbitro: Brian Ferreyra
- Árbitro asistente 1: Marcelo Bistocco
- Árbitro asistente 2: Nahuel Santanocito
- Cuarto árbitro: Mariano Negrete
 Domingo 2 de Agosto 
  15.00 Almirante Brown vs. Racing (CBA)
  Árbitro: Gonzalo Pereira
@@ -561,32 +531,6 @@ Domingo 2 de Agosto
  Árbitro asistente 2: Robertino Rosas
  Cuarto árbitro: Darío Sandoval
 Zona B
- Sábado 1 de Agosto 
-14.30 Nueva Chicago vs. San Martín (T)
- Árbitro: Gabriel Gutiérrez
- Árbitro asistente 1: Mariano Rossetti
- Árbitro asistente 2: Jonathan Florentín
- Cuarto árbitro: Lucas Brumer
- 15.00 Colegiales vs. Gimnasia y Esgrima (J)
- Árbitro: Felipe Viola
- Árbitro asistente 1: Adrián Delbarba
- Árbitro asistente 2: Lucas Vázquez
- Cuarto árbitro: Kevin Alegre
- 15.00 Almagro vs. Midland
- Árbitro: Nicolás Mastroieni
- Árbitro asistente 1: Marcelo Errante
- Árbitro asistente 2: Matías Noli
- Cuarto árbitro: Elías Viglione
- 15.30 Patronato vs. Quilmes
- Árbitro: Lucas Comesaña
- Árbitro asistente 1: Ramón Ortiz
- Árbitro asistente 2: Hernán Vallejos
- Cuarto árbitro: Leandro Billanueva
- 15.30 San Martín (SJ) vs. Atlético de Rafaela
- Árbitro: Nahuel Viñas
- Árbitro asistente 1: Mariano Viale
- Árbitro asistente 2: Malvina Schiell
- Cuarto árbitro: Lucas Rodríguez
 Domingo 2 de Agosto 
 15.00 Chacarita Juniors vs. Agropecuario
  Árbitro: Juan Cruz Robledo
@@ -910,42 +854,6 @@ ZONA B
  ATLANTA - F.C. MIDLAND
 Primera B
 Fecha 28 
-Sábado 1 de Agosto 
-15.00 Argentino de Merlo vs. Deportivo Laferrere
- Árbitro: Marcos Recalde
- Árbitro asistente 1: Federico Zuvilivía
- Árbitro asistente 2: Leonardo Aranda
- Cuarto árbitro: Tomás Aybar
-15.00 Liniers vs. Comunicaciones
- Árbitro: Agustín Flores
- Árbitro asistente 1: Martín Giampaolo
- Árbitro asistente 2: Roberto Rodríguez
- Cuarto árbitro: Nicolás Kresta
-15.00 Real Pilar vs. Defensores Unidos
- Árbitro: Gastón Iglesias
- Árbitro asistente 1: Hugo Hartung
- Árbitro asistente 2: Ludmila Capelli
- Cuarto árbitro: Damián Rubino
-15.00 Sportivo Italiano vs. Camioneros
- Árbitro: Ignacio Cucchi
- Árbitro asistente 1: Cecilio Calcagno
- Árbitro asistente 2: Gustavo Benítez Soilan
- Cuarto árbitro: Martín Morenza
-15.00 Talleres (RE) vs. Ituzaingó
- Árbitro: Maximiliano López Monti
- Árbitro asistente 1: Damián Orellana
- Árbitro asistente 2: Nicolás Gruccio
- Cuarto árbitro: Valentín Pérsico
-15.00 UAI Urquiza vs. Argentino de Quilmes
- Árbitro: Mateo Bocaccia
- Árbitro asistente 1: Fernando Rodríguez
- Árbitro asistente 2: Ramiro Ortiz Biondi
- Cuarto árbitro: Eduardo Coyto
-15.00 Villa Dálmine vs. Flandria
- Árbitro: Martín D'Esposito
- Árbitro asistente 1: Damián Olivetto
- Árbitro asistente 2: Santiago Scalerandi
- Cuarto árbitro: Micaela Abelardo
 Domingo 2 de Agosto 
 15.00 San Martín (B) vs. Deportivo Merlo
  Árbitro: Ramiro Maglio
@@ -1396,12 +1304,6 @@ Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
 FECHA 9 - Zona A
-Sábado 1 de Agosto 
- 15.00 Náutico Hacoaj vs. Juventud de Bernal
- Árbitro: Facundo Carretero
- Árbitro asistente 1: Bruno Castillo
- Árbitro asistente 2: Nicolás Rovira
- Cuarto árbitro: Damián Parodi
 Domingo 2 de Agosto 
 15.00 Atlético Pilar vs. Estrella de Berisso
  Árbitro: Pablo Gómez
