@@ -98,75 +98,86 @@ Lunes 3 de agosto
  VAR: Hernán Mastrángelo
  AVAR: Daiana Milone
 Fecha 4
-Interzonal: San Lorenzo – Huracán
-Zona A
- Unión – Central Córdoba
- Instituto – Gimnasia (Mza.)
- Talleres – Lanús
- Independiente – Platense
- Boca – Vélez
- Defensa y Justicia – Newell’s
- Deportivo Riestra – Estudiantes
-Zona B
- Atlético Tucumán – Sarmiento
- Independiente Rivadavia (Mza.) – Estudiantes (Río Cuarto)
- Banfield – Belgrano
- Argentinos – Racing
- Tigre – River
- Rosario Central – Aldosivi
- Gimnasia – Barracas Central
+Viernes 7 de agosto
+ 19.30 Rosario Central – Aldosivi (Zona B)
+ 21.45 Ind. Rivadavia Mza.- Estudiantes (Río Cuarto) (Zona B)
+Sábado 8 de agosto
+ 14.45 Deportivo Riestra – Estudiantes (Zona A)
+ 14.45 Atlético Tucumán – Sarmiento (Zona B)
+ 17.00 Tigre – River (Zona B)
+ 19.15 Boca – Vélez (Zona A)
+ 21.30 Independiente – Platense (Zona A)
+ 21.30 Instituto – Gimnasia (Mza.) (Zona A)
+Domingo 9 de agosto
+ 15.00 San Lorenzo – Huracán (Interzonal)
+ 17.45 Defensa y Justicia – Newell’s (Zona A)
+ 17.45 Gimnasia – Barracas Central (Zona B)
+ 20.15 Argentinos – Racing (Zona B)
+Lunes 10 de agosto
+ 19.00 Banfield – Belgrano (Zona B)
+ 21.15 Unión – Central Córdoba (Zona A)
+Martes 11 de agosto
+ 21.00 Talleres – Lanús (Zona A)
 Fecha 5
-Interzonal: Estudiantes – Gimnasia
-Zona A
- Newell’s – Deportivo Riestra
- Vélez – Defensa y Justicia
- Platense – Boca
- Lanús – Independiente
- Gimnasia (Mza.) – Talleres
- Central Córdoba – Instituto
- San Lorenzo – Unión
-Zona B
- Barracas Central – Rosario Central
- Aldosivi – Tigre
- River – Argentinos
- Racing – Banfield
- Belgrano – Independiente Rivadavia Mza.
- Estudiantes (Río Cuarto) – Atlético Tucumán
- Sarmiento – Huracán
-Fecha 6 (interzonal)
-River – Vélez
- Barracas Central – Platense
- Talleres – Rosario Central
- Sarmiento – Estudiantes
- Belgrano – Defensa y Justicia
- Lanús – Argentinos
- Racing – Boca
- Independiente – Independiente Rivadavia Mza.
- Aldosivi – Unión
- Atlético Tucumán – Instituto
- Estudiantes (Río Cuarto) – San Lorenzo
- Gimnasia – Gimnasia (Mza.)
- Tigre – Central Córdoba
- Huracán – Deportivo Riestra
- Newell’s – Banfield
+Viernes 14 de agosto
+ 20.30 Racing – Banfield (Zona B)
+Sábado 15 de agosto
+ 14.30 Aldosivi – Tigre (Zona B)
+ 14.30 San Lorenzo – Unión (Zona A)
+ 16.45 Estudiantes – Gimnasia (Interzonal)
+ 19.00 Newell’s – Deportivo Riestra (Zona A)
+ 19.00 Belgrano – Ind. Rivadavia Mza. (Zona B)
+ 21.15 Platense – Boca (Zona A)
+Domingo 16 de agosto
+ 15.00 Central Córdoba – Instituto (Zona A)
+ 15.00 Sarmiento – Huracán (Zona B)
+ 18.00 River – Argentinos (Zona B)
+ 20.15 Barracas Central – Rosario Central (Zona B)
+Lunes 17 de agosto
+ 14.45 Estudiantes (Río Cuarto) – Atlético Tucumán (Zona B)
+ 17.00 Lanús – Independiente (Zona A)
+ 19.15 Vélez – Defensa y Justicia (Zona A)
+ 21.30 Gimnasia (Mza.) – Talleres (Zona A)
+Fecha 6 – Interzonal
+Viernes 21 de agosto
+ 14.30 Aldosivi – Unión
+ 20.00 Estudiantes (Río Cuarto) – San Lorenzo
+Sábado 22 de agosto
+ 16.00 Gimnasia – Gimnasia (Mza.)
+ 16.00 Atlético Tucumán – Instituto
+ 18.30 Independiente – Ind. Rivadavia Mza.
+ 21.00 Newell’s – Banfield
+ 21.00 Huracán – Deportivo Riestra
+Domingo 23 de agosto
+ 14.45 Sarmiento – Estudiantes
+ 14.45 Barracas Central – Platense
+ 17.00 Belgrano – Defensa y Justicia
+ 19.15 River – Vélez
+ 21.30 Racing – Boca
+Lunes 24 de agosto
+ 19.00 Tigre – Central Córdoba
+ 21.15 Lanús – Argentinos
+ 21.15 Talleres – Rosario Central
 Fecha 7
-Interzonal: Unión – Sarmiento
-Zona A
- Instituto – San Lorenzo
- Talleres – Central Córdoba
- Independiente – Gimnasia (Mza.)
- Boca – Lanús
- Defensa y Justicia – Platense
- Deportivo Riestra – Vélez
- Estudiantes – Newell’s
-Zona B
- Huracán – Estudiantes (Río Cuarto)
- Atlético Tucumán – Belgrano
- Independiente Rivadavia Mza. – Racing
- Banfield – River
- Argentinos – Aldosivi
- Tigre – Barracas Central
- Rosario Central – Gimnasia
+Viernes 28 de agosto
+ 19.00 Huracán – Estudiantes (Río Cuarto) (Zona B)
+ 21.15 Unión – Sarmiento (Interzonal)
+Sábado 29 de agosto
+ 14.45 Deportivo Riestra – Vélez (Zona A)
+ 17.00 Rosario Central – Gimnasia (Zona B)
+ 19.00 Boca – Lanús (Zona A)
+ 21.30 Talleres – Central Córdoba (Zona A)
+ 21.30 Atlético Tucumán – Belgrano (Zona B)
+Domingo 30 de agosto
+ 15.00 Banfield – River (Zona B)
+ 17.00 Argentinos – Aldosivi (Zona B)
+ 19.15 Independiente – Gimnasia (Mza.) (Zona A)
+ 21.30 Ind. Rivadavia Mza. – Racing (Zona B)
+Lunes 31 de agosto
+ 19.00 Defensa y Justicia – Platense (Zona A)
+ 19.00 Estudiantes – Newell’s (Zona A)
+ 21.15 Tigre – Barracas Central (Zona B)
+ 21.15 Instituto – San Lorenzo (Zona A)
 Fecha 8
 Interzonal: Rosario Central – Newell’s
 Zona A
