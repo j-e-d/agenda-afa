@@ -26,27 +26,6 @@ Fecha 2
  AVAR: Diego Romero
 Fecha 3
 Lunes 3 de agosto
- 16.45 Sarmiento – Ind. Rivadavia Mza. (Zona B)
- Árbitro: Pablo Echavarría
- Árbitro asistente 1: Lucio Méndez
- Árbitro asistente 2: Gisela Bosso
- Cuarto árbitro: Fabrizio Llobet
- VAR: Sebastián Habib
- AVAR: Lucas Germanotta
- 19.00 Platense – Talleres (Zona A)
- Árbitro: Daniel Zamora
- Árbitro asistente 1: Hugo Páez
- Árbitro asistente 2: Sebastián Pumetti
- Cuarto árbitro: Jonathan Barrios
- VAR: Héctor Paletta
- AVAR: Diego Romero
- 19.00 Vélez – Independiente (Zona A)
- Árbitro: Leandro Rey Hilfer
- Árbitro asistente 1: Maximiliano Del Yesso
- Árbitro asistente 2: Gerardo Lencina
- Cuarto árbitro: Yamil Possi
- VAR: Lucas Cavallero
- AVAR: Walter Ferreyra
  21.15 Central Córdoba – San Lorenzo (Zona A)
  Árbitro: Sebastián Zunino
  Árbitro asistente 1: Miguel Savorani
@@ -450,13 +429,6 @@ Suspendidos
  Asistente 1: Diego Martín
  Asistente 2: Joaquín Badano
  Cuarto árbitro: Marcelo Sanz
-Fecha 23 
-Lunes 3 de Agosto 
-16.00 Güemes (SE) vs. Tristán Suárez
- Árbitro: Maximiliano Manduca
- Árbitro asistente 1: Joaquín Badano
- Árbitro asistente 2: Daniel Zamora
- Cuarto árbitro: Federico Benítez
  Fecha 24 
  RACING (CBA.) - SAN MIGUEL
  COLÓN - SAN TELMO
@@ -597,26 +569,6 @@ Lunes 3 de Agosto
  LOS ANDES - MITRE (S.E.)
  ALL BOYS - ESTUDIANTES
 ZONA B
- Fecha 22 
- G. Y ESGRIMA (J.) - GUEMES (S.E.)
- T. SUÁREZ - CHACARITA JRS.
- AGROPECUARIO ARG. - SAN MARTÍN (S.J.)
- AT. DE RAFAELA - NVA. CHICAGO
- SAN MARTÍN (T.) - TEMPERLEY
- G. Y TIRO (S.) - DEP. MAIPÚ (MZA.)
- ATLANTA - ALMAGRO
- F.C. MIDLAND - PATRONATO (P.)
- QUILMES A.C. - COLEGIALES
- Fecha 23 
- COLEGIALES - G. Y ESGRIMA (J.)
- PATRONATO (P.) - QUILMES A.C.
- ALMAGRO - F.C. MIDLAND
- DEP. MAIPÚ (MZA.) - ATLANTA
- TEMPERLEY - G. Y TIRO (S.)
- NVA. CHICAGO - SAN MARTÍN (T.)
- SAN MARTÍN (S.J.) - AT. DE RAFAELA
- CHACARITA JRS. - AGROPECUARIO ARG.
- GUEMES (S.E.) - T. SUÁREZ
  Fecha 24 
  G. Y ESGRIMA (J.) - T. SUÁREZ
  AGROPECUARIO ARG. - GUEMES (S.E.)
@@ -975,28 +927,13 @@ suspendidos
  Asistente 2: Luis Taboada
  Cuarto árbitro: Lautaro Díaz
 Fecha 22
-Zona A
 Zona B
-Lunes 3 de Agosto 
-15.00 Yupanqui vs. Cañuelas FC
- Árbitro: Alejandro Porticella
- Árbitro asistente 1: Matías Panozzo
- Árbitro asistente 2: Marcos Pueyo
- Cuarto árbitro: Sebastián Milessi
 Martes 4 de agosto 
  15.00 El Porvenir vs. Fénix
  Árbitro: Ulises López
  Árbitro asistente 1: Gonzalo Cubillas
  Árbitro asistente 2: Cristian Camacho
  Cuarto árbitro: Valentín Persico
-Fecha 23 - 08/08/2026 
-Lugano C. V. Arenas
-Berazategui C. Ctro. Rec. Español
-Estrella Del Sur C. J.J. De Urquiza
-Argentino (R.) C. Mercedes
-Sacachispas F.C. C. Dep. Paraguayo
-J. Unida C. Puerto Nuevo
-Def. De Cambaceres C. L.N. Alem
 Fecha 24 - 15/08/2026 
 V. Arenas C. Gral. Lamadrid
 Ctro. Rec. Español C. Ctral. Córdoba (R.)
@@ -1084,22 +1021,6 @@ Berazategui C. Def. De Cambaceres
 Estrella Del Sur C. J. Unida
 Argentino (R.) C. Sacachispas F.C.
 Zona B
-Fecha 21 - 25/07/2026 
-Fénix C. Yupanqui
-Sp. Barracas C. El Porvenir
-Luján C. Ctral. Ballester
-Gral. Lamadrid C. Claypole
-Leones F.C. C. Ctral. Córdoba (R.)
-Atlas C. Dep. Español
-Cañuelas F.C. C. Muñiz
-Fecha 22 - 01/08/2026 
-Yupanqui C. Cañuelas F.C.
-Muñiz C. Atlas
-Dep. Español C. Leones F.C.
-Ctral. Córdoba (R.) C. Gral. Lamadrid
-Claypole C. Luján
-Ctral. Ballester C. Sp. Barracas
-El Porvenir C. Fénix
 Fecha 23 - 08/08/2026 
 El Porvenir C. Yupanqui
 Fénix C. Ctral. Ballester
@@ -1209,17 +1130,6 @@ Miércoles 5 de agosto
  Asistente 2: Agustín Fischetti
  Cuarto árbitro: Alberto Iglesias
 FECHA 11 - Zona B
-Lunes 3 de Agosto 
- 10.00 Barrancas FC vs. Deportivo Las Mandarinas
- Árbitro: Juan Ferreyra
- Árbitro asistente 1: Tomás Otero
- Árbitro asistente 2: Martín Núñez
- Cuarto árbitro: Gabriela Coronel
-14.00 Buenos Aires City vs. Alumni
- Árbitro: Facundo Fuentes
- Árbitro asistente 1: Nicolás Cavagnaro
- Árbitro asistente 2: Agustín Fischetti
- Cuarto árbitro: Camila Gette
 Martes 4 de Agosto 
 15.00 Ezeiza FC vs. Everton
  Árbitro: Valentín Ibáñez Mesa
@@ -1300,9 +1210,6 @@ Fase Campeonato
  Sarmiento Lb VS. Def. Belgrano (VM)
  Libre: Sp. Belgrano
  ZONA B
- 1ra. Fecha - 02.08.26
- Lunes 3 de agosto
- 15.00 Kimberley VS. Argentino (MM)
  2da. Fecha - 08.08.26
  Argentino (MM) VS. Atenas
  Villa Mitre VS. Cipolletti
@@ -1354,9 +1261,6 @@ Fase Campeonato
  ----------------------------------------
  Fase Reválida
  ZONA A
- 1.ª fecha 
- Lunes 3 de agosto
- 15.30 Def. Puerto Vilelas vs. Sarmiento (Resistencia)
  2.ª fecha – 08.08.26
  Libre: G. Esgrima (CU)
  Tucumán Central vs. El Linqueño
@@ -1406,12 +1310,6 @@ Fase Campeonato
  Boca Unidos vs. Def. Puerto Vilelas
  Independiente (CH) vs. Atl. Escobar
  ZONA B
- 1.ª fecha – 02.08.26
- Rincón vs. Guillermo Brown
- FADEP vs. Círculo Deportivo
- Germinal vs. J. U. Universitario
- San Martín (M) vs. Costa Brava
- Sol de Mayo vs. Santamarina
  2.ª fecha – 08.08.26
  Sol de Mayo vs. Rincón
  Santamarina vs. San Martín (M)
