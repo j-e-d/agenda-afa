@@ -1239,7 +1239,7 @@ FASE FINAL – Octavos de final
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA. 
 Supercopa Argentina 2025
 Postergada
-Estudiantes de L.P - Independiente Rivadavia (Mza.), a las 18.00 horas, en Belgrano (Cba.) (TV)
+Estudiantes de L.P - Independiente Rivadavia (Mza.), en Belgrano (Cba.) (TV)
 Árbitro: Nicolás Ramírez
  Árbitro asistente 1: Pablo Acevedo
  Árbitro asistente 2: Juan Mamani
@@ -1251,12 +1251,6 @@ De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa
 Torneo Federal A 
 Fase Campeonato
  Zona A
- 1ra. Fecha - 02.08.26
- Def. Belgrano (VM) VS. Mitre
- San Martín Fsa VS. Sol De America
- 9 De Julio (Rafaela) VS. Douglas Haig
- G. Esgrima Ch VS. Sp. Belgrano
- Libre: Sarmiento Lb
  2da. Fecha - 08.08.26
  Sp. Belgrano VS. 9 De Julio (Rafaela)
  Douglas Haig VS. San Martín Fsa
@@ -1307,11 +1301,8 @@ Fase Campeonato
  Libre: Sp. Belgrano
  ZONA B
  1ra. Fecha - 02.08.26
- Olimpo VS. Juventud Antoniana
- Cipolletti VS. Huracán Lh
- Atenas VS. Villa Mitre
- Kimberley VS. Argentino (MM)
- Libre: Alvarado
+ Lunes 3 de agosto
+ 15.00 Kimberley VS. Argentino (MM)
  2da. Fecha - 08.08.26
  Argentino (MM) VS. Atenas
  Villa Mitre VS. Cipolletti
@@ -1363,12 +1354,9 @@ Fase Campeonato
  ----------------------------------------
  Fase Reválida
  ZONA A
- 1.ª fecha – 02.08.26
- Libre: Independiente (CH)
- Atl. Escobar vs. Boca Unidos
- Def. Puerto Vilelas vs. Sarmiento (Resistencia)
- El Linqueño vs. Sportivo (LP)
- G. Esgrima (CU) vs. Tucumán Central
+ 1.ª fecha 
+ Lunes 3 de agosto
+ 15.30 Def. Puerto Vilelas vs. Sarmiento (Resistencia)
  2.ª fecha – 08.08.26
  Libre: G. Esgrima (CU)
  Tucumán Central vs. El Linqueño
@@ -1479,7 +1467,7 @@ Lunes 3 de agosto
 15 hs San Lorenzo - Ferro, en Ciudad Deportiva
 15 hs Racing - Boca, en Complejo Tita
 Torneo Femenino de Primera B
-CONMEBOL Copa Libertadores 2026
+CONMEBOL Libertadores 2026
 Calendario octavos de final
  Partidos de Ida
  Martes 11 de agosto:
@@ -1512,7 +1500,7 @@ Calendario octavos de final
  Partidos de ida: 13 y 14 de octubre
  Partidos de vuelta: 20 y 21 de octubre
  La final de la CONMEBOL Libertadores se disputará el 28 de noviembre en la ciudad de Montevideo. 
-CONMEBOL Copa Sudamericana 2026
+CONMEBOL Sudamericana 2026
  Octavos De FInal 
 Partidos de Ida
 Martes 11 de agosto:
@@ -1545,8 +1533,6 @@ Jueves 20 de agosto:
  Partidos de ida: 13 y 14 de octubre
  Partidos de vuelta: 20 y 21 de octubre
  La final de la CONMEBOL Sudamericana se disputará el 21 de noviembre en la ciudad de Barranquilla. 
-Intercontinental Sub 20 2026
-Se jugará el 22 de agosto de 2026. (A confirmar por UEFA).
 Eliminatorias Sudamericanas
 Selección Mayor Femenina
 Copa Mundial Femenina FIFA 2027
@@ -1593,10 +1579,29 @@ Fixture de Argentina
  Argentina-Mozambique
  25 de noviembre de 2026
  Dinamarca-Argentina 
-CONMEBOL Copa Libertadores Femenina 2026
+CONMEBOL Libertadores Femenina 2026
 Se jugará del 15 al 31 de octubre de 2026.
-CONMEBOL Copa Libertadores Fútbol 
-CONMEBOL Copa Libertadores Fútbol Playa 2026
+Copa Mundial Femenina de la FIFA 2027
+La Copa Mundial Femenina de la FIFA 2027 se disputará del 24 de junio al 25 de julio de 2027.
+ Selecciones clasificadas
+ Anfitrión: Brasil
+ AFC: Australia, RP China, Japón, RPD de Corea, República de Corea, Filipinas
+ CAF: ninguna selección clasificada por el momento
+ Concacaf: ninguna selección clasificada por el momento
+ CONMEBOL: Colombia y Argentina
+ OFC: Nueva Zelanda
+ UEFA: Alemania, Dinamarca, España y Francia
+ (14 de 32 selecciones)
+ FIFA anunció las ocho ciudades sede y los estadios que recibirán la Copa Mundial Femenina de la FIFA 2027
+ Belo Horizonte – Estadio Mineirão
+ Brasília – Estadio Nacional
+ Fortaleza – Arena Castelão
+ Porto Alegre – Estadio Beira-Rio
+ Recife – Arena de Pernambuco
+ Río de Janeiro – Estadio do Maracanã
+ Salvador – Arena Fonte Nova
+ São Paulo – Arena Itaquera
+CONMEBOL Libertadores Fútbol Playa 2026
 El torneo se realizará en Brasil del 29 de noviembre al 6 de diciembre del 2026
 CONMEBOL Sub 20 Fútbol Playa 2025
 Se jugará del 22 al 30 de agosto de 2026.
@@ -1648,8 +1653,8 @@ CONMEBOL Sub 20 Futsal Femenina 2026
 Se jugará del 5 al 13 de septiembre de 2026.
 Finalissima Futsal 2026
 Se jugará del 5 al 8 de noviembre de 2026.
-CONMEBOL Copa Libertadores de Futsal 
-CONMEBOL Copa Libertadores Futsal Femenina 2026
+CONMEBOL Libertadores de Futsal 
+CONMEBOL Libertadores Futsal Femenina 2026
 Se jugará del 26 de julio al 2 de agosto de 2026.
 Copa Mundial Sub 20 Femenina 2026
 La Copa Mundial Femenina Sub-20 de la FIFA Polonia 2026 se disputará del 5 al 27 de septiembre de este año. Veinticuatro selecciones competirán en la Copa Mundial Sub 20 que tendrá cuatro sedes: Bielsko-Biala, Katowice, Lodz y Sosnowiec.
