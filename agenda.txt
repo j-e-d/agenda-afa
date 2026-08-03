@@ -25,42 +25,6 @@ Fecha 2
  VAR: José Carreras
  AVAR: Diego Romero
 Fecha 3
-Domingo 2 de agosto
- 14.30 Deportivo Riestra – Barracas Central (Interzonal)
- Árbitro: Darío Herrera
- Árbitro asistente 1: Gabriel Chade
- Árbitro asistente 2: Damián Espinoza
- Cuarto árbitro: Kevin Alegre
- VAR: Nicolás Lamolina
- AVAR: Gastón Suárez
- 14.30 Aldosivi – Gimnasia (Zona B)
- Árbitro: Luis Lobo Medina
- Árbitro asistente 1: Federico Cano
- Árbitro asistente 2: Matías Balmaceda
- Cuarto árbitro: Ulises Jerez
- VAR: Monzon Brizuela
- AVAR: Bevilacqua Bélen 
- 17.00 Newell’s – Boca (Zona A)
- Árbitro: Andrés Merlos
- Árbitro asistente 1: Facundo Rodríguez
- Árbitro asistente 2: Juan Del Fueyo
- Cuarto árbitro: Agustín Vegetti
- VAR: Adrián Franklin
- AVAR: Nelson Sosa
- 19.15 River – Rosario Central (Zona B)
- Árbitro: Nicolás Ramírez
- Árbitro asistente 1: Pablo González
- Árbitro asistente 2: Uriel García Leri
- Cuarto árbitro: Javier Delbarba
- VAR: Fernando Echenique
- AVAR: Franco Acita
- 21.30 Lanús – Instituto (Zona A)
- Árbitro: Nazareno Arasa
- Árbitro asistente 1: Ernesto Callegari
- Árbitro asistente 2: Erik Grunmann
- Cuarto árbitro: Mariano Negrete
- VAR: Lucas Novelli
- AVAR: Brian Ferreyra
 Lunes 3 de agosto
  16.45 Sarmiento – Ind. Rivadavia Mza. (Zona B)
  Árbitro: Pablo Echavarría
@@ -487,55 +451,6 @@ Suspendidos
  Asistente 2: Joaquín Badano
  Cuarto árbitro: Marcelo Sanz
 Fecha 23 
-Zona A
-Domingo 2 de Agosto 
- 15.00 Almirante Brown vs. Racing (CBA)
- Árbitro: Gonzalo Pereira
- Árbitro asistente 1: Diego Romero
- Árbitro asistente 2: Hernán Antola
- Cuarto árbitro: Damián Rubino
- 15.00 San Telmo vs. San Miguel
- Árbitro: Jorge Broggi
- Árbitro asistente 1: Ariel Scime
- Árbitro asistente 2: Matías Basso
- Cuarto árbitro: Nicolás Kresta
- 15.00 Ciudad de Bolívar vs. Mitre (SE)
- Árbitro: Carlos Córdoba
- Árbitro asistente 1: Carlos Viglietti
- Árbitro asistente 2: Matías Coria
- Cuarto árbitro: Marcelo Sanz
- 16.00 Deportivo Madryn vs. All Boys
- Árbitro: Joaquín Gil
- Árbitro asistente 1: Matías Bianchi
- Árbitro asistente 2: Luciano Díaz
- Cuarto árbitro: Kevin Bustos
- 16.00 Chaco For Ever vs. Deportivo Morón
- Árbitro: Álvaro Carranza
- Árbitro asistente 1: Julio Fernández
- Árbitro asistente 2: Manuel Sánchez
- Cuarto árbitro: Enzo Gutiérrez
- 16.30 Central Norte (S) vs. Los Andes
- Árbitro: Matías Billone
- Árbitro asistente 1: Mauro Ramos Errasti
- Árbitro asistente 2: Robertino Rosas
- Cuarto árbitro: Darío Sandoval
-Zona B
-Domingo 2 de Agosto 
-15.00 Chacarita Juniors vs. Agropecuario
- Árbitro: Juan Cruz Robledo
- Árbitro asistente 1: Juan Pablo Millenaar
- Árbitro asistente 2: Federico Lapalma
- Cuarto árbitro: Jonathan Barrios
- 15.30 Deportivo Maipú (Mza.) vs. Atlanta
- Árbitro: Maximiliano Mascheroni
- Árbitro asistente 1: Eduardo Lucero
- Árbitro asistente 2: Gonzalo Ferrari
- Cuarto árbitro: Emanuel Ejarque
- 15.30 Temperley vs. Gimnasia y Tiro (S)
- Árbitro: Pablo Giménez
- Árbitro asistente 1: Walter Ferreyra
- Árbitro asistente 2: Gonzalo Roldán
- Cuarto árbitro: Agustín Panizza
 Lunes 3 de Agosto 
 16.00 Güemes (SE) vs. Tristán Suárez
  Árbitro: Maximiliano Manduca
@@ -842,18 +757,6 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B
-Fecha 28 
-Domingo 2 de Agosto 
-15.00 San Martín (B) vs. Deportivo Merlo
- Árbitro: Ramiro Maglio
- Árbitro asistente 1: Rodrigo Arín
- Árbitro asistente 2: Mara Díaz
- Cuarto árbitro: Lucas Brumer
-15.00 Villa San Carlos vs. Sportivo Dock Sud
- Árbitro: Julián Beligoy
- Árbitro asistente 1: Maximiliano Benzoni
- Árbitro asistente 2: Leandro Brítez
- Cuarto árbitro: Sebastián Milessi
 Fecha 29
  Ituzaingó - Camioneros 
  Dep. Merlo - Sportivo Italiano 
@@ -1293,17 +1196,6 @@ Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
 FECHA 9 - Zona A
-Domingo 2 de Agosto 
-15.00 Atlético Pilar vs. Estrella de Berisso
- Árbitro: Pablo Gómez
- Árbitro asistente 1: Franco Chávez
- Árbitro asistente 2: Santiago Galván
- Cuarto árbitro: Franco Gutiérrez
-15.00 Defensores de Glew vs. SAT
- Árbitro: Manuel Prieto
- Árbitro asistente 1: Sergio Benítez
- Árbitro asistente 2: Nahuel Martín
- Cuarto árbitro: Leandro Díaz
 Miércoles 5 de agosto 
  15.00 Provincial de Lobos vs. Deportivo Metalúrgico
  Árbitro: Nazareno Galeano
@@ -1582,12 +1474,6 @@ Fase Campeonato
  Guillermo Brown vs. FADEP
 Fútbol Femenino de Primera División A 
 Fecha 2
-Domingo 2 de agosto
-11 hs SAT - Talleres, en Estadio
-11 hs Belgrano - Huracán, en Centro de Formación Armando Pérez Villa Esquiu
-11:30 hs GELP - San Luis, en El Bosquecito Cancha 1
-13 hs NOB - Lanús, en Predio Bella Vista
-15 hs Banfield - Unión, en Estadio
 Lunes 3 de agosto
 11 hs River - Independiente, en River Camp
 15 hs San Lorenzo - Ferro, en Ciudad Deportiva
