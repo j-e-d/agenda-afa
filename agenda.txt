@@ -21,7 +21,7 @@ Fecha 2
 Árbitro: Nicolás Lamolina
  Asistente 1: Pablo Acevedo
  Asistente 2: Marcelo Bistocco
- Cuarto árbitro: Agustín Vegetti
+ Cuarto árbitro: Facundo Rojo Casal
  VAR: José Carreras
  AVAR: Diego Romero
 Fecha 4
@@ -353,6 +353,94 @@ Jueves 6 de agosto
  Árbitro: Camila Gette
  Árbitro asistente 1: Enzo Nell
  Árbitro asistente 2: Martín Núñez
+Fecha 4
+Martes 11 de agosto
+15.00 – Colón – Newell’s (Zona B) – Predio
+15.00 – Sarmiento – Unión (Zona A) – Centro de Alto Rendimiento
+15.00 – Vélez – Gimnasia (Mza.) (Zona A) – Villa Olímpica
+15.00 – Deportivo Riestra – Huracán (Zona B) – La Candela
+15.00 – Racing – Atlético Tucumán (Zona A) – Tita Mattiussi
+19.00 – River – Godoy Cruz (Zona A) – River Camp
+Miércoles 12 de agosto
+14.00 – Rosario Central – Banfield (Zona A) – Arroyo Seco
+15.00 – Lanús – Defensa y Justicia (Zona B) – Auxiliar
+15.00 – San Martín SJ – Boca (Zona B) – Estadio Hilario Sanchez
+15.00 – Instituto – Aldosivi (Zona A) – La Agustina
+15.00 – Estudiantes – Atlético Rafaela (Zona B) – City Bell
+15.00 – Belgrano – Estudiantes (Río Cuarto) (Zona B) – Predio
+Jueves 13 de agosto
+15.00 – San Lorenzo – Barracas Central (Zona A) – Auxiliar
+15.00 – Tigre – Talleres (Zona A) – Predio
+15.00 – Ind. Rivadavia Mza. – Ferro (Zona B) – Ciudad Deportiva
+15.00 – Argentinos – Gimnasia (Zona A) – CEFFA
+15.00 – Quilmes – Platense (Zona B) – Predio
+17.00 – Central Córdoba – Independiente (Zona B) – Alfredo Terrera
+Fecha 5
+Martes 18 de agosto
+15.00 – Gimnasia – Sarmiento (Zona A) – Estancia Chica
+15.00 – Newell’s – Lanús (Zona B) – Predio
+15.00 – Unión – Racing (Zona A) – La Tatenguita
+15.00 – Banfield – Instituto (Zona B) – Predio
+15.00 – Godoy Cruz – Vélez (Zona A) – Coquimbito
+17.00 – Atlético Tucumán – River (Zona A) – Jose Fierro
+Miércoles 19 de agosto
+15.00 – Aldosivi – Argentinos (Zona A) – Predio
+15.00 – Ferro – San Martín SJ (Zona A) – Pontevedra
+15.00 – Atlético Rafaela – Quilmes (Zona B) – Predio
+15.00 – Independiente – Estudiantes (Zona B) – Villa Domínico
+15.00 – Huracán – Ind. Rivadavia Mza. (Zona B) – La Quemita
+19.00 – Talleres – Rosario Central (Zona A) – La Boutique
+Jueves 20 de agosto
+15.00 – Gimnasia (Mza.) – San Lorenzo (Zona A) – Estadio
+15.00 – Defensa y Justicia – Belgrano (Zona B) – Campeones del Mundo
+15.00 – Estudiantes (Río Cuarto) – Deportivo Riestra (Zona B) – Ciudad Deportiva
+15.00 – Barracas Central – Tigre (Zona A) – AEFIP
+15.00 – Platense – Colón (Zona B) – Predio
+17.00 – Boca – Central Córdoba (Zona B) – Boca Ezeiza
+Fecha 6
+Martes 25 de agosto
+15.00 – Instituto – Argentinos (Zona A) – La Agustina
+15.00 – Sarmiento – Aldosivi (Zona A) – Centro de Alto Rendimiento
+15.00 – Racing – Gimnasia (Zona A) – Tita Mattiussi
+15.00 – Vélez – Atlético Tucumán (Zona A) – Villa Olímpica
+15.00 – Banfield – Talleres (Zona A) – Predio
+19.00 – River – Unión (Zona A) – River Camp
+Miércoles 26 de agosto
+15.00 – Quilmes – Independiente (Zona B) – Predio
+15.00 – Colón – Lanús (Zona B) – Predio
+15.00 – San Lorenzo – Godoy Cruz (Zona A) – Auxiliar
+15.00 – Platense – Atlético Rafaela (Zona B) – Predio
+15.00 – San Martín SJ – Huracán (Zona B) – Predio
+15.00 – Estudiantes – Boca (Zona B) – City Bell
+Jueves 27 de agosto
+14.00 – Belgrano – Newell’s (Zona B) – Predio
+15.00 – Rosario Central – Barracas Central (Zona A) – Arroyo Seco
+15.00 – Tigre – Gimnasia (Mza.) (Zona A) – Predio
+15.00 – Deportivo Riestra – Defensa y Justicia (Zona B) – La Candela
+15.00 – Ind. Rivadavia Mza. – Estudiantes (Río Cuarto) (Zona B) – Ciudad Deportiva
+17.00 – Central Córdoba – Ferro (Zona B) – Alfredo Terrera
+Fecha 7
+Martes 1 de septiembre
+15.00 – Aldosivi – Racing (Zona A) – Predio
+15.00 – Atlético Rafaela – Colón (Zona B) – Predio
+15.00 – Gimnasia – River (Zona B) – Estancia Chica
+15.00 – Unión – Vélez (Zona B) – La Tatenguita
+15.00 – Lanús – Belgrano (Zona B) – Auxiliar
+15.00 – Argentinos – Sarmiento (Zona A) – CEFFA
+Miércoles 2 de septiembre
+15.00 – Newell’s – Deportivo Riestra (Zona A) – Predio
+15.00 – Ferro – Estudiantes (Zona A) – Pontevedra
+15.00 – Estudiantes (Río Cuarto) – San Martín SJ (Zona B) – Ciudad Deportiva
+15.00 – Independiente – Platense (Zona B) – Villa Domínico
+19.00 – Talleres – Instituto (Zona A) – La Boutique
+19.00 – Atlético Tucumán – San Lorenzo (Zona B) – Jose Fierro
+Jueves 3 de septiembre
+15.00 – Huracán – Central Córdoba (Zona B) – La Quemita
+15.00 – Defensa y Justicia – Ind. Rivadavia Mza. (Zona B) – Campeones del Mundo
+15.00 – Barracas Central – Banfield (Zona A) – AEFIP
+15.00 – Godoy Cruz – Tigre (Zona A) – Coquimbito
+15.00 – Gimnasia (Mza.) – Rosario Central (Zona A) – Victor Legrotaglie
+19.00 – Boca – Quilmes (Zona A) – Boca Ezeiza
 Primera Nacional
 Fecha 21
 Miércoles 5 de Agosto 
