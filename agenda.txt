@@ -33,7 +33,7 @@ Viernes 7 de agosto
  Cuarto árbitro: Facundo Rojo Casal
  VAR: Fernando Espinoza
  AVAR: Mauro Ramos Errasti
- 21.45 Ind. Rivadavia Mza.- Estudiantes (Río Cuarto) 
+ 21.45 Independiente Rivadavia Mza.- Estudiantes (Río Cuarto) 
  Árbitro: Gonzalo Pereira
  Árbitro asistente 1: Erik Grunmann
  Árbitro asistente 2: Ramón Ortiz
@@ -128,7 +128,7 @@ Lunes 10 de agosto
  VAR: Hernán Mastrángelo
  AVAR: Nelson Sosa
 Martes 11 de agosto
-21.00 Talleres – Lanús 
+21.00 Talleres – Lanús, en estadio Mario A. Kempes
  Árbitro: Luis Lobo Medina
  Árbitro asistente 1: Diego Martin
  Árbitro asistente 2: Carlos Viglietti
@@ -143,7 +143,7 @@ Sábado 15 de agosto
  14.30 San Lorenzo – Unión (Zona A)
  16.45 Estudiantes – Gimnasia (Interzonal)
  19.00 Newell’s – Deportivo Riestra (Zona A)
- 19.00 Belgrano – Ind. Rivadavia Mza. (Zona B)
+ 19.00 Belgrano – Independiente Rivadavia Mza. (Zona B)
  21.15 Platense – Boca (Zona A)
 Domingo 16 de agosto
  15.00 Central Córdoba – Instituto (Zona A)
@@ -162,7 +162,7 @@ Viernes 21 de agosto
 Sábado 22 de agosto
  16.00 Gimnasia – Gimnasia (Mza.)
  16.00 Atlético Tucumán – Instituto
- 18.30 Independiente – Ind. Rivadavia Mza.
+ 18.30 Independiente – Independiente Rivadavia Mza.
  21.00 Newell’s – Banfield
  21.00 Huracán – Deportivo Riestra
 Domingo 23 de agosto
@@ -189,7 +189,7 @@ Domingo 30 de agosto
  15.00 Banfield – River (Zona B)
  17.00 Argentinos – Aldosivi (Zona B)
  19.15 Independiente – Gimnasia (Mza.) (Zona A)
- 21.30 Ind. Rivadavia Mza. – Racing (Zona B)
+ 21.30 Independiente Rivadavia Mza. – Racing (Zona B)
 Lunes 31 de agosto
  19.00 Defensa y Justicia – Platense (Zona A)
  19.00 Estudiantes – Newell’s (Zona A)
@@ -1610,6 +1610,27 @@ Fase Campeonato
  Círculo Deportivo vs. Germinal
  Guillermo Brown vs. FADEP
 Fútbol Femenino de Primera División A 
+ FECHA 3
+​Sábado 8 de agosto
+​11:00 Boca vs. NOB
+​Estadio: Casa Amarilla | TV: LPF PLAY
+​15:00 Lanús vs. Gimnasia
+​Estadio: Cancha 3 Polideportivo | TV: LPF PLAY
+​Domingo 9 de agosto
+​9:30 Ferro vs. Racing
+​Estadio: Sintético Caballito | TV: LPF PLAY
+​15:00 San Luis vs. Banfield
+​Estadio: Estadio J G Funes | TV: LPF PLAY
+​15:00 Unión vs. River
+​Estadio: La Tatenguita | TV: LPF PLAY
+​Lunes 10 de agosto
+​15:00 Independiente vs. Belgrano
+​Estadio: Predio Santo Domingo | TV: LPF PLAY
+​17:00 Talleres vs. San Lorenzo
+​Estadio: Estadio | TV: LPF PLAY
+​Martes 11 de agosto 
+​12:00 Huracán vs. SAT
+​Estadio: La Quemita | TV: LPF PLAY
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2026
 Calendario octavos de final
