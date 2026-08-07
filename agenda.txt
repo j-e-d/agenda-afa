@@ -1,14 +1,5 @@
 25/03/2019
 Torneo Clausura 
-Fecha 2
- Jueves 6 de agosto
- 19.00 Unión – Lanús -Zona A- 
-Árbitro: Nicolás Lamolina
- Asistente 1: Pablo Acevedo
- Asistente 2: Marcelo Bistocco
- Cuarto árbitro: Facundo Rojo Casal
- VAR: José Carreras
- AVAR: Diego Romero
 Fecha 4
 Viernes 7 de agosto
  19.30 Rosario Central – Aldosivi 
@@ -346,30 +337,6 @@ Final:
  sábado 12 de diciembre
 en el Estadio Único Diego Armando Maradona - Tricampeones del Mundo, de la ciudad de La Plata
 Torneo Proyección Clausura
-Fecha 3
-Jueves 6 de agosto
- 15.00 – Atlético Rafaela – Central Córdoba (Zona B) – Predio
- Árbitro: Leonardo Cristaldo
- Árbitro asistente 1: Tomás Pérez
- Árbitro asistente 2: Luciano Rodríguez
- 15.00 – Rosario Central – Instituto (Zona A) – Arroyo Seco
- Árbitro: Ariadna Palacios
- Árbitro asistente 1: Tomás Otero
- Árbitro asistente 2: Agustín Fischetti
- 15.00 – Platense – Estudiantes (Zona B) – Alejandro Mariani Dolan
- Árbitro: Valentín Pérsico
- Árbitro asistente 1: Luciano Cabral
- Árbitro asistente 2: Mateo Cueto
- Cuarto árbitro: Facundo Fuentes
- 15.00 – Barracas Central – Vélez (Zona A) – Aefip
- Árbitro: Valentín Ibáñez Mesa
- Árbitro asistente 1: Federico Machuca
- Árbitro asistente 2: Lucas Burgos
- Cuarto árbitro: Joaquín García Casas
- 17.00 – Talleres – San Lorenzo (Zona A) – La Boutique
- Árbitro: Camila Gette
- Árbitro asistente 1: Enzo Nell
- Árbitro asistente 2: Martín Núñez
 Fecha 4
 Martes 11 de agosto
 15.00 – Colón – Newell’s (Zona B) – Predio
@@ -1430,6 +1397,8 @@ Sábado 26 de septiembre
  Estudiantes de L.P. - Rosario Ctral., en horario y estadio a designar (TV)
 De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa Internacional (Boletín Nro. 6219), si al cabo de los 90 minutos mencionados con
  antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
+Trofeo de Campeones 2026
+Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciudad de Córdoba. 
 Torneo Federal A 
 Fase Campeonato
  Zona A
@@ -1847,6 +1816,21 @@ Fixture de Argentina
  Argentina-Mozambique
  25 de noviembre de 2026
  Dinamarca-Argentina 
+Copa Mundial de Fútbol Sub 20 2027
+Se disputará en Azerbaiyán y Uzbekistán.
+ Cupos directos (21 + Azerbaiyán y Uzbekistán)
+ UEFA: Azerbaiyán, Alemania, Croacia, España y Ucrania.
+ Concacaf: Canadá, México, Costa Rica y Estados Unidos.
+ Conmebol: 4 cupos.
+ CAF: 4 cupos.
+ AFC: 5 cupos (uno de ellos ocupado por Uzbekistán).
+ OFC: 1 cupo.
+ Cupos para el torneo intercontinental (4, para 1 solo cupo mundialista):
+ Cuatro selecciones participarán en el torneo intercontinental clasificatorio, del cual solamente el ganador obtendrá el cupo final a la presente Copa del Mundo. La distribución será:
+ AFC: 1 cupo
+ CONMEBOL: 1 cupo
+ UEFA: 1 cupo
+ OFC: 1 cupo
 CONMEBOL Libertadores Femenina 2026
 Se jugará del 15 al 31 de octubre de 2026.
 Copa Mundial Femenina de la FIFA 2027
@@ -1948,5 +1932,3 @@ Torneo Olímpico de Fútbol femenino: AFC: 2.5; CAF: 2; Concacaf: 3; CONMEBOL: 2
 Torneo Olímpico de Fútbol masculino: AFC: 2; CAF: 2; Concacaf: 1; CONMEBOL: 2; OFC: 1; UEFA: 3; país anfitrión (Estados Unidos): 1 
 Copa Mundial Femenina de Clubes de la FIFA 2028
 Se disputará del 5 al 30 de enero de 2028
-Trofeo de Campeones 2026
-Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciudad de Córdoba.
