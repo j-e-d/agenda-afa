@@ -2,13 +2,6 @@
 Torneo Clausura 
 Fecha 4
 Sábado 8 de agosto
- 17.00 Tigre – River
- Árbitro: Andrés Gariano
- Árbitro asistente 1: José Savorani
- Árbitro asistente 2: Federico Cano
- Cuarto árbitro: Valentín Bocaccia
- VAR: Yamil Possi
- AVAR: Lucas Germanotta
  19.15 Boca – Vélez, en el estadio Tomás A. Ducó 
  Árbitro: Yael Falcón Pérez
  Árbitro asistente 1: Pablo Acevedo
@@ -1248,7 +1241,7 @@ Deportivo Metalúrgico - Defensores de Glew
  Cuarto árbitro: Lautaro Gutiérrez
 S.A.T. - Náutico Hacoaj
  Árbitro: Martín Morenza
- Asistente 1: Valentino Gaillard
+ Asistente 1: Ariel Ibañez
  Asistente 2: Agustín Celuchi
  Cuarto árbitro: Marcos Winer
 Estrella de Berisso - Provincial de Lobos
@@ -1813,9 +1806,6 @@ CONMEBOL Sub 17 Futsal 2026
 La competencia está programada para realizarse del 8 al 16 de agosto, en el Complejo SUMA, de la Ciudad de Luque, según el siguiente cronograma:
 Fase de Grupos
 Sábado 8
-11.30 Perú – Bolivia
-14.00 Argentina -Ecuador
-16.30 Colombia – Chile
 19.00 Paraguay – Uruguay
 Domingo 9
  11.30 Ecuador - Brasil
