@@ -1312,12 +1312,6 @@ Fase Campeonato
  Guillermo Brown vs. FADEP
 Fútbol Femenino de Primera División A 
  FECHA 3
-​
-​Lunes 10 de agosto
-​15:00 Independiente vs. Belgrano
-​Estadio: Predio Santo Domingo | TV: LPF PLAY
-​17:00 Talleres vs. San Lorenzo
-​Estadio: Estadio | TV: LPF PLAY
 ​Martes 11 de agosto 
 ​11:00 Huracán vs. SAT
 ​Estadio: La Quemita | TV: LPF PLAY
@@ -1436,13 +1430,6 @@ Miércoles 12 de agosto:
  Cuarto árbitro: Paulo Zanovelli (Brasil)
  VAR: Rodolpho Toski (Brasil)
  AVAR: Marco A. Fazekas (Brasil)
- 21:30 - Santa Fe vs. River Plate
- Árbitro: Jesús Valenzuela (Venezuela)
- Árbitro asistente 1: Jorge Urrego (Venezuela)
- Árbitro asistente 2: Tulio Moreno (Venezuela)
- Cuarto árbitro: Yender Herrera (Venezuela)
- VAR: Carlos Orbe (Ecuador)
- AVAR: Byron Romero (Ecuador)
 Jueves 13 de agosto:
  19:00 - Vasco Da Gama vs. Olimpia
  Árbitro: Darío Herrera (Argentina)
@@ -1465,6 +1452,14 @@ Jueves 13 de agosto:
  Cuarto árbitro: Oswaldo Contreras (Ecuador)
  VAR: Franklin Congo (Ecuador)
  AVAR: Kevin Pazmiño (Ecuador)
+SUSPENDIDO 
+ Santa Fe vs. River Plate
+ Árbitro: Jesús Valenzuela (Venezuela)
+ Árbitro asistente 1: Jorge Urrego (Venezuela)
+ Árbitro asistente 2: Tulio Moreno (Venezuela)
+ Cuarto árbitro: Yender Herrera (Venezuela)
+ VAR: Carlos Orbe (Ecuador)
+ AVAR: Byron Romero (Ecuador)
 Partidos de Vuelta
 Martes 18 de agosto:
  19:00 - Recoleta vs. Boca Juniors
