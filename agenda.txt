@@ -1490,7 +1490,8 @@ Copa Mundial Femenina FIFA 2027
 El Consejo de la FIFA confirmó que el torneo se disputará del 24 de junio al 25 de julio de 2027.l Consejo de la FIFA confirmó que el torneo se disputará del 24 de junio al 25 de julio de 2027.
 La asignación de plazas directas, que incluye 29 de las 32 disponibles, será la siguiente:
 AFC: seis plazas directas
-CAF: cuatro plazas directas
+CAF: 
+Argelia, Camerún, Marruecos, Malawi.
 Concacaf: cuatro plazas directas
 CONMEBOL: tres plazas directas. Brasil, el país anfitrión, se clasifica automáticamente y su plaza se resta directamente del cupo asignado a la CONMEBOL
 OFC: una plaza directa
