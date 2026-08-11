@@ -1282,13 +1282,6 @@ Calendario octavos de final
  Cuarto árbitro: Diego Flores (Chile)
  VAR: Fernando Véjar (Chile)
  AVAR: Nicolás Millas (Chile)
- 19:30 - Deportes Tolima vs. Independiente del Valle
-Árbitro: Wilton Sampaio (Brasil)
- Árbitro asistente 1: Rafael Alves (Brasil)
- Árbitro asistente 2: Luanderson Lima (Brasil)
- Cuarto árbitro: Bruno Arleu (Brasil)
- VAR: Daniel Nobre (Brasil)
- AVAR: Rodrigo Nunes (Brasil)
  21:30 - Estudiantes LP vs. Universidad Católica
  Árbitro: Raphael Claus (Brasil)
  Árbitro asistente 1: Rodrigo Correa (Brasil)
@@ -1333,6 +1326,14 @@ Calendario octavos de final
  Cuarto árbitro: Hernán Heras (Uruguay)
  VAR: Christian Ferreyra (Uruguay)
  AVAR: Richard Trinidad (Uruguay)
+SUSPENDIDO
+Deportes Tolima vs. Independiente del Valle
+Árbitro: Wilton Sampaio (Brasil)
+ Árbitro asistente 1: Rafael Alves (Brasil)
+ Árbitro asistente 2: Luanderson Lima (Brasil)
+ Cuarto árbitro: Bruno Arleu (Brasil)
+ VAR: Daniel Nobre (Brasil)
+ AVAR: Rodrigo Nunes (Brasil)
  Partidos de Vuelta
  Martes 18 de agosto:
  19:00 - Independiente Rivadavia vs. Fluminense
