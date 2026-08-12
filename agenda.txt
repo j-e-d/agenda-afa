@@ -326,33 +326,6 @@ Final:
 en el Estadio Único Diego Armando Maradona - Tricampeones del Mundo, de la ciudad de La Plata
 Torneo Proyección Clausura
 Fecha 4
-Miércoles 12 de agosto
- 14.00 – Rosario Central – Banfield (Zona A) – Arroyo Seco
- Árbitro: Nicolás Díaz
- Árbitro asistente 1: Rodolfo Rodríguez
- Árbitro asistente 2: Agustín Cellucci
- 15.00 – Lanús – Defensa y Justicia (Zona B) – Auxiliar
- Árbitro: Simón Laborda Paredes
- Árbitro asistente 1: Oscar Maidana
- Árbitro asistente 2: Matías Chena
- Cuarto árbitro: Manuel Prieto
- 15.00 – San Martín SJ – Boca (Zona B) – Estadio Hilario Sanchez
- Árbitro: Facundo Fuentes
- Árbitro asistente 1: Sebastián Krojzl
- Árbitro asistente 2: Santiago Galván
- 15.00 – Instituto – Aldosivi (Zona A) – La Agustina
- Árbitro: Joaquín García Casas
- Árbitro asistente 1: Bruno Santillán
- Árbitro asistente 2: Cristian Camacho
- 15.00 – Estudiantes – Atlético Rafaela (Zona B) – City Bell
- Árbitro: Pablo Gómez
- Árbitro asistente 1: Facundo Maldonado
- Árbitro asistente 2: Alexis Torales
- Cuarto árbitro: Lucas Cristaldo
- 15.00 – Belgrano – Estudiantes (Río Cuarto) (Zona B) – Predio
- Árbitro: Ignacio Domínguez
- Árbitro asistente 1: Mauro Soria
- Árbitro asistente 2: Rodrigo Rodríguez
 Jueves 13 de agosto
  15.00 – San Lorenzo – Barracas Central (Zona A) – Auxiliar
  Árbitro: Micaela Abelardo
@@ -1800,9 +1773,6 @@ CONMEBOL Sub 17 Futsal 2026
 La competencia está programada para realizarse del 8 al 16 de agosto, en el Complejo SUMA, de la Ciudad de Luque, según el siguiente cronograma:
 Fase de Grupos
 Miércoles 12
-11.30 Brasil - Perú
-14.00 Bolivia - Argentina
-16.30 Venezuela - Colombia
 19.00 Chile - Paraguay
 Jueves 13
 11.30 Bolivia - Ecuador
