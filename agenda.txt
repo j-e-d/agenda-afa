@@ -1689,7 +1689,7 @@ El Consejo de la FIFA confirmó que el torneo se disputará del 24 de junio al 2
 La asignación de plazas directas, que incluye 29 de las 32 disponibles, será la siguiente:
 AFC: seis plazas directas
 CAF: 
-Argelia, Camerún, Marruecos, Malawi.
+Argelia, Camerún, Marruecos, Malawi
 Concacaf: cuatro plazas directas
 CONMEBOL: tres plazas directas. Brasil, el país anfitrión, se clasifica automáticamente y su plaza se resta directamente del cupo asignado a la CONMEBOL
 OFC: una plaza directa
@@ -1751,7 +1751,7 @@ La Copa Mundial Femenina de la FIFA 2027 se disputará del 24 de junio al 25 de 
  Selecciones clasificadas
  Anfitrión: Brasil
  AFC: Australia, RP China, Japón, RPD de Corea, República de Corea, Filipinas
- CAF: ninguna selección clasificada por el momento
+ CAF: Marruecos, Malawi, Camerún y Argelia.
  Concacaf: ninguna selección clasificada por el momento
  CONMEBOL: Colombia y Argentina
  OFC: Nueva Zelanda
