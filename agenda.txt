@@ -1777,7 +1777,13 @@ El torneo se realizará en Brasil del 29 de noviembre al 6 de diciembre del 2026
 CONMEBOL Sub 20 Fútbol Playa 2025
 Se jugará del 22 al 30 de agosto de 2026.
 CONMEBOL Sub 20 Futsal 2026
-Se jugará del 26 de septiembre al 4 de octubre de 2026.
+El torneo se disputará en Venezuela del 6 de septiembre al 4 de octubre.
+ Grupo A: Venezuela, Colombia, Paraguay, Uruguay y Bolivia
+ Grupo B: Argentina, Brasil, Perú, Ecuador, Chile
+ Formato de Competencia
+ La CONMEBOL Sub20 Futsal 2026 se disputará en 2 fases: Fase Preliminar (fase de grupos) y Fase Final (disputas de los 9º, 7º y 5º puestos, semifinal, disputa del 3º puesto y final).
+ Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
+ Clasificarán para la semifinal, los equipos que ocupen las dos primeras posiciones en cada grupo. Los demás equipos de cada grupo disputarán las posiciones del 5º al 9º puesto (los terceros disputan el 5º puesto, los cuartos disputan el 7º puesto y los quintos disputan el 9º puesto).
 CONMEBOL Sub 17 Futsal 2026
 La competencia está programada para realizarse del 8 al 16 de agosto, en el Complejo SUMA, de la Ciudad de Luque, según el siguiente cronograma:
 Fase de Grupos
@@ -1794,7 +1800,13 @@ Domingo 16
 Perdedor Semifinal 1 – Perdedor Semifinal 2 (tercer puesto)
 Ganador Semifinal 1 – Ganador Semifinal 2 (título)
 CONMEBOL Sub 20 Futsal Femenina 2026
-Se jugará del 5 al 13 de septiembre de 2026.
+El torneo se disputará en Venezuela del 12 al 20 de septiembre, en la Ciudad de Barquisimeto.
+ Grupo A: Venezuela, Brasil, Paraguay, Bolivia y Ecuador
+ Grupo B: Colombia, Argentina, Uruguay, Chile y Perú
+ – Formato de Competencia –
+ La CONMEBOL Sub20 Futsal Femenina 2026 se disputará en 2 fases: Fase Preliminar (fase de grupos) y Fase Final (disputas de los 9º, 7º y 5º puestos, semifinal, disputa del 3º puesto y final).
+ Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
+ Clasificarán para la semifinal, los equipos que ocupen las dos primeras posiciones en cada grupo. Los demás equipos de cada grupo disputarán las posiciones del 5º al 9º puesto (los terceros disputan el 5º puesto, los cuartos disputan el 7º puesto y los quintos disputan el 9º puesto).
 Finalissima Futsal 2026
 Se jugará del 5 al 8 de noviembre de 2026.
 CONMEBOL Libertadores de Futsal 
