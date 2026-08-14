@@ -317,27 +317,86 @@ Final:
 en el Estadio Único Diego Armando Maradona - Tricampeones del Mundo, de la ciudad de La Plata
 Torneo Proyección Clausura
 Fecha 5
-Martes 18 de agosto
-15.00 – Gimnasia – Sarmiento (Zona A) – Estancia Chica
-15.00 – Newell’s – Lanús (Zona B) – Predio
-15.00 – Unión – Racing (Zona A) – La Tatenguita
-15.00 – Banfield – Instituto (Zona B) – Predio
-15.00 – Godoy Cruz – Vélez (Zona A) – Coquimbito
-17.00 – Atlético Tucumán – River (Zona A) – Jose Fierro
-Miércoles 19 de agosto
-15.00 – Aldosivi – Argentinos (Zona A) – Predio
-15.00 – Ferro – San Martín SJ (Zona A) – Pontevedra
-15.00 – Atlético Rafaela – Quilmes (Zona B) – Predio
-15.00 – Independiente – Estudiantes (Zona B) – Villa Domínico
-15.00 – Huracán – Ind. Rivadavia Mza. (Zona B) – La Quemita
-19.00 – Talleres – Rosario Central (Zona A) – La Boutique
-Jueves 20 de agosto
-15.00 – Gimnasia (Mza.) – San Lorenzo (Zona A) – Estadio
-15.00 – Defensa y Justicia – Belgrano (Zona B) – Campeones del Mundo
-15.00 – Estudiantes (Río Cuarto) – Deportivo Riestra (Zona B) – Ciudad Deportiva
-15.00 – Barracas Central – Tigre (Zona A) – AEFIP
-15.00 – Platense – Colón (Zona B) – Predio
-17.00 – Boca – Central Córdoba (Zona B) – Boca Ezeiza
+ Martes 18 de agosto
+ 15.00 – Newell’s – Lanús (Zona B) – Predio
+ Árbitro: Facundo Fuentes
+ Árbitro asistente 1: Enzo Nell
+ Árbitro asistente 2: Agustín Fischetti
+ 15.00 – Unión – Racing (Zona A) – Estadio 15 de abril
+ Árbitro: Roberta Echeverría
+ Árbitro asistente 1: Lucas Burgos
+ Árbitro asistente 2: Santiago Galvan
+ 15.00 – Godoy Cruz – Vélez (Zona A) – Coquimbito
+ Árbitro: Rodrigo Amadeo
+ Árbitro asistente 1: Lucas García
+ Árbitro asistente 2: Axel Sosa
+ 17.00 – Atlético Tucumán – River (Zona A) – Jose Fierro
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Alexis Etchepare
+ Árbitro asistente 2: Martin Núñez
+ Miércoles 19 de agosto
+ 14.00 – Gimnasia – Sarmiento (Zona A) – Estancia Chica
+ Árbitro: Valentín Ibañez Mesa
+ Árbitro asistente 1: Mauro Soria
+ Árbitro asistente 2: Sofía Curto
+ Cuarto árbitro: Valentino Oldani
+ 15.00 – Banfield – Instituto (Zona A) – Predio
+ Árbitro: Micaela Abelardo
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Nicolás Oviedo
+ 15.00 – Aldosivi – Argentinos (Zona A) – Predio
+ Árbitro: Leonardo Cristaldo
+ Árbitro asistente 1: Alexis Torales
+ Árbitro asistente 2: Gabriel Pérez
+ 15.00 – Ferro – San Martín SJ (Zona B) – Pontevedra
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Federico Machuca
+ Árbitro asistente 2: Santiago Araujo
+ 15.00 – Atlético Rafaela – Quilmes (Zona B) – Predio
+ Árbitro: Leandro Díaz
+ Árbitro asistente 1: Rodolfo Rodríguez
+ Árbitro asistente 2: Mateo Cueto
+ 15.00 – Independiente – Estudiantes (Zona B) – Villa Domínico
+ Árbitro: Ignacio Domínguez
+ Árbitro asistente 1: Gonzalo Cubillas
+ Árbitro asistente 2: Agustín Cellucci
+ Cuarto árbitro: Marcos Winer
+ 15.00 – Huracán – Ind. Rivadavia Mza. (Zona B) – La Quemita
+ Árbitro: Lautaro Díaz
+ Árbitro asistente 1: Ariel Ibáñez
+ Árbitro asistente 2: Julieta Fernández
+ 19.00 – Talleres – Rosario Central (Zona A) – La Boutique
+ Árbitro: Juan Ferreyra
+ Árbitro asistente 1: Marcos Pueyo
+ Árbitro asistente 2: Carlos Vázquez
+ Jueves 20 de agosto
+ 14.00 – Platense – Colón (Zona B) – Predio
+ Árbitro: Joaquín García Casas
+ Árbitro asistente 1: Patricio Acuña
+ Árbitro asistente 2: Daniel Alegre
+ 15.00 – Gimnasia (Mza.) – San Lorenzo (Zona A) – Estadio
+ Árbitro: Valentín Pérsico
+ Árbitro asistente 1: Luis Taboada
+ Árbitro asistente 2: Luciano Rodríguez
+ 15.00 – Defensa y Justicia – Belgrano (Zona B) – Campeones del Mundo
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Tomás Otero
+ Árbitro asistente 2: Nahuel Martin
+ Cuarto árbitro: Nazareno Galeano
+ 15.00 – Estudiantes (Río Cuarto) – Deportivo Riestra (Zona B) – Ciudad Deportiva
+ Árbitro: Franco Gutierre
+ Árbitro asistente 1: Sebastián Valdez
+ Árbitro asistente 2: Elías Mendoza
+ 15.00 – Barracas Central – Tigre (Zona A) – AEFIP
+ Árbitro: Pablo Gómez
+ Árbitro asistente 1: Luciano Cabral
+ Árbitro asistente 2: Mariela Martino
+ Cuarto árbitro: Luca Centurión
+ 17.00 – Boca – Central Córdoba (Zona B) – Boca Ezeiza
+ Árbitro: Manuel Prieto
+ Árbitro asistente 1: Nicolás Cavagnaro
+ Árbitro asistente 2: Cristian Camacho
+ Cuarto árbitro: Gabriela Coronel
 Fecha 6
 Martes 25 de agosto
 15.00 – Instituto – Argentinos (Zona A) – La Agustina
