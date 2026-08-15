@@ -2,20 +2,6 @@
 Torneo Clausura 
 Fecha 5
 Sábado 15 de agosto
- 19.00 Newell’s – Deportivo Riestra 
- Árbitro: Luis Lobo Medina
- Asistente 1: Cristian Navarro
- Asistente 2: Federico Cano
- Cuarto árbitro: Mauricio Martín
- VAR: Gastón Monson Brizuela
- AVAR: Belén Bevilacqua
-19.00 Belgrano – Independiente Rivadavia Mza. 
- Árbitro: Nazareno Arasa
- Asistente 1: Damián Espinoza
- Asistente 2: Joaquín Badano
- Cuarto árbitro: Enzo Gutiérrez
- VAR: Silvio Trucco
- AVAR: Carlos Córdoba
 21.15 Platense – Boca 
  Árbitro: Jorge Baliño
  Asistente 1: Miguel Savorani
@@ -1281,12 +1267,6 @@ Lunes 17 de agosto
  Asistente 1: Hugo Fleitas
  Asistente 2: Pablo Alberto Ramírez
  Cuarto árbitro: Kevin Nicolás Bustos
-4ta. Fecha - 16.08.26
- G. Esgrima Ch VS. San Martín Fsa
- Sp. Belgrano VS. Def. Belgrano (VM)
- Douglas Haig VS. Sarmiento Lb
- Sol De America VS. Mitre
- Libre: 9 De Julio (Rafaela)
  5ta. Fecha - 23.08.26
  Mitre VS. Douglas Haig
  Sarmiento Lb VS. Sp. Belgrano
@@ -1357,12 +1337,6 @@ Lunes 17 de agosto
  ----------------------------------------
  Fase Reválida
  ZONA A
- 3.ª fecha – 12.08.26
- Libre: Boca Unidos
- Independiente (CH) vs. Sarmiento (Resistencia)
- Atl. Escobar vs. Sportivo (LP)
- Def. Puerto Vilelas vs. Tucumán Central
- El Linqueño vs. G. Esgrima (CU)
  4.ª fecha – 16.08.26
  Libre:El Linqueño
  G. Esgrima (CU) vs. Def. Puerto Vilelas
@@ -1718,11 +1692,6 @@ CONMEBOL Sub 17 Futsal 2026
 La competencia está programada para realizarse del 8 al 16 de agosto, en el Complejo SUMA, de la Ciudad de Luque, según el siguiente cronograma:
 Fase de Grupos
 Fase Final
-Sábado 15
-5° A – 5° B
-4° A – 4° B
-1° A – 2° B (semifinal 1)
-1° B – 2° A (semifinal 2
 Domingo 16
 3° A – 3° B
 Perdedor Semifinal 1 – Perdedor Semifinal 2 (tercer puesto)
