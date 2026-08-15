@@ -1600,27 +1600,68 @@ FECHA 4
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2026
 Calendario octavos de final
-Partidos de Ida 
-SUSPENDIDO
-Deportes Tolima vs. Independiente del Valle
+Partido de Ida 
+Martes 18 de agosto
+21.30 Deportes Tolima vs. Independiente del Valle
 Árbitro: Wilton Sampaio (Brasil)
  Árbitro asistente 1: Rafael Alves (Brasil)
  Árbitro asistente 2: Luanderson Lima (Brasil)
  Cuarto árbitro: Bruno Arleu (Brasil)
  VAR: Daniel Nobre (Brasil)
  AVAR: Rodrigo Nunes (Brasil)
- Partidos de Vuelta
- Martes 18 de agosto:
- 19:00 - Independiente Rivadavia vs. Fluminense
- 21:30 - Universidad Católica vs. Estudiantes LP
- 21:30 - Independiente del Valle vs. Deportes Tolima
- Miércoles 19 de agosto:
- 19:00 - Coquimbo Unido vs. Platense
- 19:00 - Cerro Porteño vs. Palmeiras
- 21:30 - Flamengo vs. Cruzeiro
- Jueves 20 de agosto:
- 19:00 - LDU Quito vs. Mirassol
- 21:30 - Corinthians vs. Rosario Central
+Partidos de Vuelta
+Martes 18 de agosto
+ 19:00 - Independiente Rivadavia vs. Fluminense 
+ Árbitro: Andrés Rojas (COL) 
+ Asistente 1: David Fuentes (COL) 
+ Asistente 2: Miguel Roldán (COL) 
+ Cuarto Árbitro: Jairo Mayorga (COL) 
+ VAR: Leonard Mosquera (COL) 
+ AVAR: Lisandro Castillo (COL) 
+ 21:30 - Universidad Católica vs. Estudiantes LP 
+ Árbitro: Wilmar Roldán (COL) 
+ Asistente 1: Jhon A. León (COL) 
+ Asistente 2: Jhon Gallego (COL) 
+ Cuarto Árbitro: Diego Ulloa (COL) 
+ VAR: David Rodríguez (COL) 
+ AVAR: Ricardo García (COL) 
+Miércoles 19 de agosto
+ 19:00 - Coquimbo Unido vs. Platense 
+ Árbitro: Roberto Pérez (PER) 
+ Asistente 1: Jesús Sánchez (PER) 
+ Asistente 2: José Castillo (PER) 
+ Cuarto Árbitro: Daniel Ureta (PER) 
+ VAR: Michael Espinoza (PER) 
+ AVAR: Edwin Ordóñez (PER) 
+ 19:00 - Cerro Porteño vs. Palmeiras 
+ Árbitro: Facundo Tello (ARG) 
+ Asistente 1: Juan P. Belatti (ARG) 
+ Asistente 2: Gabriel Chade (ARG) 
+ Cuarto Árbitro: Nazareno Arasa (ARG) 
+ VAR: Héctor Paletta (ARG) 
+ AVAR: Nicolás Lamolina (ARG) 
+ 21:30 - Flamengo vs. Cruzeiro 
+ Árbitro: Gustavo Tejera (URU) 
+ Asistente 1: Nicolás Taran (URU) 
+ Asistente 2: Horacio Ferreiro (URU) 
+ Cuarto Árbitro: José Burgos (URU) 
+ VAR: Andrés Cunha (URU) 
+ AVAR: Jonathan Fuentes (URU) 
+ Jueves 20 de agosto
+ 19:00 - LDU Quito vs. Mirassol 
+ Árbitro: Yael Falcón (ARG) 
+ Asistente 1: Facundo Rodríguez (ARG) 
+ Asistente 2: Maximiliano Del Yesso (ARG) 
+ Cuarto Árbitro: Luis Lobo (ARG) 
+ VAR: Jorge Baliño (ARG) 
+ AVAR: Fernando Espinoza (ARG) 
+ 21:30 - Corinthians vs. Rosario Central 
+ Árbitro: Alexis Herrera (VEN) 
+ Asistente 1: Lubin Torrealba (VEN) 
+ Asistente 2: Antoni García (VEN) 
+ Cuarto Árbitro: Rony Cueva (VEN) 
+ VAR: Nicolás Gallo (COL) 
+ AVAR: Keiner Jiménez (COL) 
  Cuartos de final
  Partidos de ida: 8 al 10 de septiembre
  Partidos de vuelta: 15 al 17 de septiembre
@@ -1640,16 +1681,58 @@ Partidos de Ida
  VAR: Carlos Orbe (Ecuador)
  AVAR: Byron Romero (Ecuador)
 Partidos de Vuelta
-Martes 18 de agosto:
- 19:00 - Recoleta vs. Boca Juniors
+Martes 18 de agosto
+19:00 - Recoleta vs. Boca Juniors
+ Árbitro: Andrés Matonte (URU) 
+ Asistente 1: Martin Soppi (URU) 
+ Asistente 2: Mathias Muniz (URU) 
+ 4to Árbitro: Mathias de Armas (URU) 
+ VAR: Leodan González (URU) 
+ AVAR: Agustín Berisso (URU) 
  21:30 - São Paulo vs. Bolivar
-Miércoles 19 de agosto:
+ Árbitro: Kevin Ortega (PER) 
+ Asistente 1: Stephen Atoche (PER) 
+ Asistente 2: Enrique Pinto (PER) 
+ 4to Árbitro: Augusto Menéndez (PER) 
+ VAR: Diego Haro (PER) 
+ AVAR: Pablo López (PER) 
+ Miércoles 19 de agosto
  19:00 - Atlético Mineiro vs. RB Bragantino
+ Árbitro: Maximiliano Ramírez (ARG) 
+ Asistente 1: Cristian Navarro (ARG) 
+ Asistente 2: Pablo González (ARG) 
+ 4to Árbitro: Sebastián Martínez (ARG) 
+ VAR: Silvio Trucco (ARG) 
+ AVAR: Lucas Novelli (ARG) 
  21:30 - Montevideo City Torque vs. Tigre
-Jueves 20 de agosto:
- 19:00 - Olimpia vs. Vasco Da Gama
+ Árbitro: Guillermo Guerrero (ECU) 
+ Asistente 1: Ricardo Baren (ECU) 
+ Asistente 2: David Vacacela (ECU) 
+ 4to Árbitro: Bryan Loayza (ECU) 
+ VAR: Gabriel González (ECU) 
+ AVAR: Roddy Zambrano (ECU) 
+ Jueves 20 de agosto
+19:00 - Olimpia vs. Vasco Da Gama
+ Árbitro: Esteban Ostojich (URU) 
+ Asistente 1: Carlos Barreiro (URU) 
+ Asistente 2: Hector Bergalo (URU) 
+ 4to Árbitro: Javier Feres (URU) 
+ VAR: Antonio García (URU) 
+ AVAR: Santiago Fernández (URU) 
  19:00 - Macará vs. Santos
+ Árbitro: Cristian Garay (CHI) 
+ Asistente 1: Carlos Poblete (CHI) 
+ Asistente 2: Wladimir Muñoz (CHI) 
+ 4to Árbitro: Franco Jiménez (CHI) 
+ VAR: Rodrigo Carvajal (CHI) 
+ AVAR: Juan Sepulveda (CHI) 
  21:30 - Botafogo vs. Cienciano
+ Árbitro: Juan G. Benítez (PAR) 
+ Asistente 1: Eduardo Cardozo (PAR) 
+ Asistente 2: Milciades Saldivar (PAR) 
+ 4to Árbitro: Derlis López (PAR) 
+ VAR: Ulises Mereles (PAR) 
+ AVAR: Fernando López (PAR) 
  Miércoles 26 de agosto 
  21:30 - River Plate vs. Santa Fe
  Cuartos de final
