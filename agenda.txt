@@ -2,28 +2,7 @@
 Torneo Clausura 
 Fecha 5
 Sábado 15 de agosto
- 14.30 Aldosivi – Tigre, en estadio José M. Minella
- Árbitro: Juan Pafundi
- Asistente 1: Adrián Delbarba
- Asistente 2: Daiana Milone
- Cuarto árbitro: Agustín Vegetti
- VAR: Sebastián Habib
- AVAR: Mariana De Almeida
-14.30 San Lorenzo – Unión 
- Árbitro: Leandro Rey Hilfer
- Asistente 1: Maximiliano Del Yesso 
- Asistente 2: Lucas Ripoli
- Cuarto árbitro: Lucas Comesaña
- VAR: Diego Ceballos
- AVAR: Carla López
-16.45 Estudiantes – Gimnasia 
- Árbitro: Yael Falcón Pérez
- Asistente 1: Facundo Rodríguez
- Asistente 2: Diego Bonfa
- Cuarto árbitro: Sebastián Zunino
- VAR: Héctor Paletta
- AVAR: Diego Verlota
-19.00 Newell’s – Deportivo Riestra 
+ 19.00 Newell’s – Deportivo Riestra 
  Árbitro: Luis Lobo Medina
  Asistente 1: Cristian Navarro
  Asistente 2: Federico Cano
@@ -477,52 +456,6 @@ Suspendidos
  Asistente 2: Joaquín Badano
  Cuarto árbitro: Marcelo Sanz
 Fecha 25 - Interzonal
-Sábado 15 de agosto
-San Miguel vs. Colegiales, a las 15.00 
- Árbitro: Franco Acita
- Asistente 1: Mariano Ruas
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Martín Morenza
-Agropecuario Arg. vs. Cdad. Bolivar, a las 15.00 
- Árbitro: Ariel Cruz
- Asistente 1: Mariano Rosetti
- Asistente 2: Mario Bardina
- Cuarto árbitro: Tomás Aybar
-Dep. Morón vs. Almagro, a las 15.00 
- Árbitro: Gonzalo Pereira
- Asistente 1: Gerardo Lencina
- Asistente 2: Diego Romero
- Cuarto árbitro: Kevin Alegre
-Ferro Carril Oeste vs. Atlanta, a las 15.00 
- Árbitro: Bruno Amiconi
- Asistente 1: Walter Ferreyra
- Asistente 2: Maximiliano Castelli
- Cuarto árbitro: Marcos Recalde
-Mitre (S.E.) vs. Güemes (S.E.), a las 16.00 
- Árbitro: Matías Billone
- Asistente 1: Mariano Viale
- Asistente 2: Gonzalo Ferrari
- Cuarto árbitro: Nelson Bejas
-Colón vs. Patronato (Paraná), a las 16.30 
- Árbitro: Fabrizio Llobet
- Asistente 1: Juan Del Fueyo
- Asistente 2: Sebastián Osudar
- Cuarto árbitro: Facundo Rojo Casal
-Godoy Cruz vs. Dep. Maipú, a las 18.00 
- Árbitro: Álvaro Carranza
- Asistente 1: Matías Balmaceda
- Asistente 2: Robertino Rosas
- Cuarto árbitro: Jerónimo Ulises
-Quilmes A.C. vs. San Telmo, a las 19.00 
- Árbitro: Juan Pablo Loustau
- Asistente 1: Lucas Pardo
- Asistente 2: Juan Ricciardi
- Cuarto árbitro: Maximiliano López Monti
-Estudiantes vs. Chacarita Juniors, a las 19.00 
- Árbitro: Daniel E. Zamora
- Asistente 1: Mauro Ramos Errasti
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Nicolás Kresta
 Domingo 16 de agosto
 Tristán Suarez vs. Alte. Brown, a las 15.00 
  Árbitro: Yamil Possi
@@ -786,47 +719,6 @@ ZONA B
  ATLANTA - F.C. MIDLAND
 Primera B
 FECHA 30
-Sábado 15 de agosto
-Camioneros vs. Dep. Merlo, a las 13.00 
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Damián Orellana
- Asistente 2: Nicolás Gruccio
- Cuarto árbitro: Gabriel Flores
-Sp. Italiano vs. Sp. Dock Sud, a las 15.00 
- Árbitro: Ramiro Maglio
- Asistente 1: Fernando Rodríguez
- Asistente 2: Matías Panozzo
- Cuarto árbitro: Damián Rubino
-San Martín (B.) vs. Comunicaciones, a las 15.00 
- Árbitro: Jonathan Barrios
- Asistente 1: Matías Basso
- Asistente 2: Jonathan Ghiso
- Cuarto árbitro: Mariano Negrete
-Villa Dálmine vs. Brown (Adrogué), a las 15.00 
- Árbitro: Julián Beligoy
- Asistente 1: Arnaldo Melgarejo
- Asistente 2: Lucas Monsalvo
- Cuarto árbitro: Manuel Girett
-Excursionistas vs. Dep. Laferrere, a las 15.00 
- Árbitro: Julián Jerez
- Asistente 1: Hugo Hartung
- Asistente 2: Martín Cingolani
- Cuarto árbitro: Martín Desposito
-Arsenal F.C. vs. Talleres (R.E.), a las 15.00 
- Árbitro: Gastón Iglesias
- Asistente 1: Heber Ibáñez Mesa
- Asistente 2: Matías Noli
- Cuarto árbitro: Facundo Carretero
-Arg. de Merlo vs. Ituzaingó, a las 15.00 
- Árbitro: Valentín Bocaccia
- Asistente 1: Hugo Carbo
- Asistente 2: Mara Díaz
- Cuarto árbitro: Guido Mascheroni
-Real Pilar F.C. vs. Flandria, a las 15.00 en estadio Municipal de Pilar
- Árbitro: Ignacio Cuicchi
- Asistente 1: Federico Zuvilivia
- Asistente 2: Carlos Suárez
- Cuarto árbitro: David Cornejo
 Domingo 16 de agosto
 UAI - Urquiza vs. Dep. Armenio, a las 15.00 
  Árbitro: Nicolás Mastroieni
@@ -996,23 +888,7 @@ Postergado: Leones F.C. – Muñiz en Newell´s Old Boys (Aux. Predio Bellavista
  Asistente 2: Nicolás Cavagnaro
  Cuarto árbitro: Martín Morenza
 Fecha 24 - Interzonal
-Sábado 15 de agosto
- Victoriano Arenas vs. Gral. Lamadrid, a las 15.00 
- Árbitro: Gonzalo Correa
- Asistente 1: Federico Bozo
- Asistente 2: Joaquín Fraga
- Cuarto árbitro: Matías Ansede
-Ctral. Ballester vs. L.N. Alem, a las 15.00 
- Árbitro: Leandro Fedele
- Asistente 1: Bruno Castillo
- Asistente 2: Franco Chavez
- Cuarto árbitro: Lautaro Díaz
-Cañuelas F.C. vs. Estrella del Sur, a las 15.00 
- Árbitro: Mateo Bocaccia
- Asistente 1: Jonathan Florentín
- Asistente 2: Valentino Gaillard
- Cuarto árbitro: Franco Porotelli
-Domingo 16 de agosto
+ Domingo 16 de agosto
 Berazategui vs. Fénix, a las 11.00 
  Árbitro: Ariadna Palacios
  Asistente 1: Felipe Arrechea
