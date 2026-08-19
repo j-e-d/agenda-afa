@@ -7,7 +7,7 @@ Viernes 21 de agosto
  Asistente 1: José Castelli
  Asistente 2: Carlos Viglietti
  Cuarto árbitro: Valentín Pompei
- VAR: Luis Lobo Medina
+ VAR: Nahuel Viñas
  AVAR: Mariano Ascenzi
 20.00 Estudiantes (Río Cuarto) – San Lorenzo
  Árbitro: Nazareno Arasa
@@ -101,8 +101,8 @@ Lunes 24 de agosto
  Asistente 1: Maximiliano Del Yesso
  Asistente 2: Uriel García Leri
  Cuarto árbitro: Gonzalo Creimermann
- VAR: Yamil Possy
- AVAR: Nahuel Viñas
+ VAR: Yamil Possi
+ AVAR: Luis Lobo Medina
 21.15 Talleres – Rosario Central, en estadio Mario A. Kempes
  Árbitro: Sebastián Martínez
  Asistente 1: Diego Bonfa
@@ -482,8 +482,16 @@ Lunes 24-08
  Dep. Madryn c. Godoy Cruz, a las 19.00 horas
  Miércoles 26-08
  Chaco For Ever c. San Miguel, a las 15.00 horas
- Acassuso c. Sal Telmo, a las 15.00 horas
+Árbitro: Fabricio Llobet
+Asist 1: Lucas Ripoli
+Asist 2: Martin Saccone
+4° Árbitro: Maximiliano Silcan Jerez
+Acassuso c. Sal Telmo, a las 15.00 horas
  Ctral. Norte c. Dep. Morón, a las 21.30 horas en estadio Padre E. Martearena
+Árbitro: Pablo Giménez
+Asist 1: Marcos Hourticolou
+Asist 2: Gonzalo Roldan
+4° Árbitro: Francisco Acosta
 Zona “B”
  Sábado 22-08
  Tristán Suarez c. Agropecuario Arg., a las 15.00 horas
@@ -1404,10 +1412,10 @@ Fútbol Femenino de Primera División A
 Sábado 22 de agosto
 11.00 Boca - Banfield, en Casa Amarilla (LPF PLAY)
 13.00 Unión - Huracán, en Estadio 15 de Abril (LPF PLAY)
-15.00 San Luis - Belgrano, en Villa Deportiva San Luis (LPF PLAY)
+14.00 San Luis - Belgrano, en Villa Deportiva San Luis (LPF PLAY)
 16.00 Talleres - NOB, en Estadio La Boutique (LPF PLAY)
 Lunes 24 de agosto
-10.30 Ferro - GELP, en Sintético Caballito (LPF PLAY)
+10.00 Ferro - GELP, en Sintético Caballito (LPF PLAY)
 15.00 San Lorenzo - Racing, en Cancha 1 Ciudad Deportiva (LPF PLAY)
 15.00 Independiente - SAT, en Predio Santo Domingo Cancha 3 (LPF PLAY)
  POSTERGADO
