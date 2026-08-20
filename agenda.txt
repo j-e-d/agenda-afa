@@ -1195,14 +1195,6 @@ Banfield - F.C. Midland, a las 21.15 horas en Dep. Morón (TV)
  Cuarto árbitro: Agustín Vegetti
  VAR: José Carreras
  AVAR: Gastón Suárez
-Miércoles 19 de Agosto
- Racing Club - Belgrano (Cba.), a las 19.15 horas en estadio La Pedrera (San Luis) (TV)
- Árbitro: Sebastián Zunino
- Asistente 1: Diego Bonfa
- Asistente 2: Agustín Méndez
- Cuarto árbitro: Yamil Possi
- VAR: Adrián Franklin
- AVAR: Felipe Viola
 Miércoles 26 de Agosto 
  Aldosivi (M. del P.) - Independiente Riv. (Mza.), a las 19.15 horas, en Banfield (TV)
 Jueves 27 de Agosto
@@ -1226,13 +1218,96 @@ Trofeo de Campeones 2026
 Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciudad de Córdoba. 
 Torneo Federal A 
 Fase Campeonato
+ Fecha 5 
  Zona A y Zona B
- 5ta. Fecha - 23.08.26
- Mitre VS. Douglas Haig
- Sarmiento Lb VS. Sp. Belgrano
- Def. Belgrano (VM) VS. G. Esgrima Ch
- San Martin Fsa VS. 9 De Julio (Rafaela)
- Libre: Sol De América
+Viernes 21 de agosto
+21.00 Juv. Antoniana - Villa Mitre
+ Árbitro: Jorge David Etem
+ Asistente 1: Iván Adriel Araya Quintero
+ Asistente 2: Walter Augusto Cardozo
+ Cuarto árbitro: Matías Ariel Fernández Zapata
+Sábado 22 de agosto
+15.00 Círculo Deportivo - At. Costa Brava
+ Árbitro: Leandro Andrés Sosa Abrile
+ Asistente 1: Matías Javier González
+ Asistente 2: Nicolás Darío Moreno
+ Cuarto árbitro: Agustina Loos
+Domingo 23 de agosto
+11.30 FADEP Mza. - Sol de Mayo
+ Árbitro: Maximiliano Gabriel Silcan Jerez
+ Asistente 1: Exequiel Augusto Agüero
+ Asistente 2: Fernando Alberto Ruarte
+ Cuarto árbitro: Santiago Andrés Agüero
+15.00 Escobar FC - Gimnasia y Esgrima (CdU)
+ Árbitro: Diego Saúl Novelli
+ Asistente 1: Lautaro Manuel Paletta
+ Asistente 2: Fernando Zabalza
+ Cuarto árbitro: Alejo Cid
+15.00 Guillermo Brown - Santamarina
+ Árbitro: Fernando Jesús Rekers
+ Asistente 1: Danilo Ariel Viola
+ Asistente 2: Rodrigo Moreno
+ Cuarto árbitro: Diego Maximiliano Álvarez
+15.00 Germinal - Atlético Club San Martín
+ Árbitro: Kevin Nicolás Bustos
+ Asistente 1: Martín Daniel Nardelli
+ Asistente 2: Cristian Thomas Pasquettin
+ Cuarto árbitro: Santiago Schmoll
+15.00 Deportivo Rincón - Juventud Unida Universitario
+ Árbitro: Luis Damián Martínez
+ Asistente 1: Fernando S. Muñoz
+ Asistente 2: Rodrigo Ariel Jara
+ Cuarto árbitro: Jorge Rodrigo Cabrera Magallanes
+15.30 Defensores de Belgrano (VR) - Gimnasia y Esgrima (Chivilcoy)
+ Árbitro: José Darío Sandoval
+ Asistente 1: Guido Córdoba
+ Asistente 2: Matías Coria
+ Cuarto árbitro: Paula Soledad Eisenacht
+15.30 Alvarado - Argentino (P)
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Pablo Alberto Ramírez
+ Asistente 2: Bruno Cejas
+ Cuarto árbitro: Jonatan Daniel Mapelli
+15.30 Cipolletti - Atenas (RC)
+ Árbitro: Fernando Omar Marcos
+ Asistente 1: Emiliano Nicolás Bustos
+ Asistente 2: Felipe Zonco
+ Cuarto árbitro: Leandro Gatica
+15.30 Olimpo - Kimberley (MdP)
+ Árbitro: Lucas Nicolás Cavallero
+ Asistente 1: Sebastián Emanuel Osudar
+ Asistente 2: Hugo Fleitas
+ Cuarto árbitro: Bruno Pezzotta
+15.30 Defensores de Vilelas - El Linqueño
+ Árbitro: Leonardo Enmanuel Billanueva
+ Asistente 1: Sergio Mauricio Pérez
+ Asistente 2: Ángel Esteban Ayala
+ Cuarto árbitro: Andrés Leonardo Franco
+15.30 Independiente (Chivilcoy) - Tucumán Central
+ Árbitro: Marcos Ignacio Liuzzi
+ Asistente 1: Óscar Ariel Bono
+ Asistente 2: Patricio Jesús Destéfano
+ Cuarto árbitro: Sergio Hernán Monzón
+16.00 Sarmiento (Santiago del Estero) - Sportivo Belgrano
+ Árbitro: Mauricio Exequiel Martín
+ Asistente 1: José Daniel Ponce
+ Asistente 2: Leila Romina Argañaraz
+ Cuarto árbitro: Agustín Marto
+16.00 Mitre (Posadas) - Douglas Haig
+ Árbitro: Jonathan Daniel Correa
+ Asistente 1: Luciano Agustín Díaz
+ Asistente 2: Marcos David Guzmán
+ Cuarto árbitro: Facundo Misael Vizgarra Campos
+16.00 San Martín (Formosa) - 9 de Julio (Rafaela)
+ Árbitro: César Antonio Ceballo
+ Asistente 1: Leonel Matías Suárez
+ Asistente 2: Evelyn Romina Luján
+ Cuarto árbitro: Dalma Pérez
+16.00 Boca Unidos - Sportivo Atlético
+ Árbitro: Guillermo Adrián González
+ Asistente 1: Rodrigo Edgardo López
+ Asistente 2: Mariana Beatriz Duré
+ Cuarto árbitro: María Soledad Ríos
  6ta. Fecha - 30.08.26
  9 De Julio (Rafaela) VS. Def. Belgrano (VM)
  G. Esgrima Ch VS. Sarmiento Lb
@@ -1395,29 +1470,6 @@ Martes 18 de agosto
  VAR: Daniel Nobre (Brasil)
  AVAR: Rodrigo Nunes (Brasil)
 Partidos de Vuelta
-Martes 18 de agosto
- 19:00 - Independiente Rivadavia vs. Fluminense 
- Árbitro: Andrés Rojas (COL) 
- Asistente 1: David Fuentes (COL) 
- Asistente 2: Miguel Roldán (COL) 
- Cuarto Árbitro: Jairo Mayorga (COL) 
- VAR: Leonard Mosquera (COL) 
- AVAR: Lisandro Castillo (COL) 
- 21:30 - Universidad Católica vs. Estudiantes LP 
- Árbitro: Wilmar Roldán (COL) 
- Asistente 1: Jhon A. León (COL) 
- Asistente 2: Jhon Gallego (COL) 
- Cuarto Árbitro: Diego Ulloa (COL) 
- VAR: David Rodríguez (COL) 
- AVAR: Ricardo García (COL) 
-Miércoles 19 de agosto
- 21:30 - Flamengo vs. Cruzeiro 
- Árbitro: Gustavo Tejera (URU) 
- Asistente 1: Nicolás Taran (URU) 
- Asistente 2: Horacio Ferreiro (URU) 
- Cuarto Árbitro: José Burgos (URU) 
- VAR: Andrés Cunha (URU) 
- AVAR: Jonathan Fuentes (URU) 
  Jueves 20 de agosto
  19:00 - LDU Quito vs. Mirassol 
  Árbitro: Yael Falcón (ARG) 
@@ -1442,39 +1494,7 @@ Miércoles 19 de agosto
  La final de la CONMEBOL Libertadores se disputará el 28 de noviembre en la ciudad de Montevideo. 
 CONMEBOL Sudamericana 2026
  Octavos De FInal 
-Partidos de Ida 
- Miércoles 19 de agosto
- 21.30 Santa Fe vs. River Plate
- Árbitro: Jesús Valenzuela (Venezuela)
- Árbitro asistente 1: Jorge Urrego (Venezuela)
- Árbitro asistente 2: Tulio Moreno (Venezuela)
- Cuarto árbitro: Yender Herrera (Venezuela)
- VAR: Carlos Orbe (Ecuador)
- AVAR: Byron Romero (Ecuador)
 Partidos de Vuelta
-Martes 18 de agosto
-19:00 - Recoleta vs. Boca Juniors
- Árbitro: Andrés Matonte (URU) 
- Asistente 1: Martin Soppi (URU) 
- Asistente 2: Mathias Muniz (URU) 
- 4to Árbitro: Mathias de Armas (URU) 
- VAR: Leodan González (URU) 
- AVAR: Agustín Berisso (URU) 
- 21:30 - São Paulo vs. Bolivar
- Árbitro: Kevin Ortega (PER) 
- Asistente 1: Stephen Atoche (PER) 
- Asistente 2: Enrique Pinto (PER) 
- 4to Árbitro: Augusto Menéndez (PER) 
- VAR: Diego Haro (PER) 
- AVAR: Pablo López (PER) 
- Miércoles 19 de agosto
- 21:30 - Montevideo City Torque vs. Tigre
- Árbitro: Guillermo Guerrero (ECU) 
- Asistente 1: Ricardo Baren (ECU) 
- Asistente 2: David Vacacela (ECU) 
- 4to Árbitro: Bryan Loayza (ECU) 
- VAR: Gabriel González (ECU) 
- AVAR: Roddy Zambrano (ECU) 
  Jueves 20 de agosto
 19:00 - Olimpia vs. Vasco Da Gama
  Árbitro: Esteban Ostojich (URU) 
