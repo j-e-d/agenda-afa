@@ -773,15 +773,63 @@ Viernes 21-08
  Asistente 2: Hernán Antola
  Cuarto árbitro: Eduardo Coyto
 32ª. Fecha
- Martes 25-08
- Arsenal F.C. c. Ituzaingó, a las 15.00 horas
- Villa Dálmine c. Talleres (R.E.), a las 15.00 horas
- UAI – Urquiza c. Dep. Laferrere, a las 15.00 horas
- Real Pilar F.C. c. Brown (Adrogué), a las 15.00 horas en estadio Municipal de Pilar
- Villa San Carlos c. Flandria, a las 15.00 horas
- San Martin (B.) c. Arg. de Quilmes, a las 15.00 horas
- Sp. Italiano c. Def. Unidos, a las 15.00 horas
- Excursionistas c. Arg. de Merlo, a las 20.00 horas
+ Martes 25 de agosto
+ 15.00 Arsenal F.C. - Ituzaingó
+ Árbitro: Mariano Negrete
+ Asistente 1: Rodrigo Arín
+ Asistente 2: Lucas García
+ Cuarto árbitro: Matías Ansede
+15.00 Villa Dálmine - Talleres (R.E.)
+ Árbitro: Ramiro Maglio
+ Asistente 1: Sebastián Pumetti
+ Asistente 2: Maximiliano Montenegro
+ Cuarto árbitro: David Cornejo
+15.00 UAI - Urquiza - Dep. Laferrere
+ Árbitro: Agustín Panizza
+ Asistente 1: Federico Zuvilivia
+ Asistente 2: Valentino Gaillard
+ Cuarto árbitro: Ulises López
+15.00 Real Pilar F.C. - Brown (Adrogué), en estadio municipal de Pilar
+ Árbitro: Agustín Flores
+ Asistente 1: Damián Alcaraz
+ Asistente 2: Leandro Idio
+ Cuarto árbitro: Rodrigo Villalba
+15.00 Villa San Carlos - Flandria
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Gastón Borrás
+ Asistente 2: Federico Josa
+ Cuarto árbitro: Manuel Girett
+15.00 San Martín (B.) - Arg. de Quilmes
+ Árbitro: Damián Rubino
+ Asistente 1: Martín Giampaolo
+ Asistente 2: Mariela Martino
+ Cuarto árbitro: Lucas Brumer
+15.00 Sp. Italiano - Def. Unidos
+ Árbitro: Valentín Bocaccia
+ Asistente 1: Arnaldo Melgarejo
+ Asistente 2: Mara Díaz
+ Cuarto árbitro: Iván Mastroieni
+20.00 Excursionistas - Arg. de Merlo
+ Árbitro: Gastón Iglesias
+ Asistente 1: Maximiliano Benzoni
+ Asistente 2: Cecilio Calcagno
+ Cuarto árbitro: Leandro Fedele
+Miércoles 26 de agosto
+13.00 Camioneros - Comunicaciones
+ Árbitro: Sebastián Bresba
+ Asistente 1: Hugo Hartung
+ Asistente 2: Heber Ibáñez Mesa
+ Cuarto árbitro: Iñaki Iparraguirre
+15.00 Liniers - Dep. Armenio
+ Árbitro: Mateo Bocaccia
+ Asistente 1: Gustavo Benítez
+ Asistente 2: Soilan Panozzo
+ Cuarto árbitro: Gabriel Flores
+19.00 Dep. Merlo - Sp. Dock Sud
+ Árbitro: Gonzalo Correa
+ Asistente 1: Diego Fernández
+ Asistente 2: Felipe Arrechea
+ Cuarto árbitro: Iván Castelu Coca
  Miércoles 26-08
  Camioneros c. Comunicaciones, a las 13.00 horas
  Liniers c. Dep. Armenio, a las 15.00 horas
@@ -951,7 +999,11 @@ Partido Pendiente
 22ª. Fecha
  Martes 25-08
  L.N. Alem c. Juv. Unida, a las 15.00 horas
- Zona “B”
+Árbitro: Ivan Castelu Coca
+Asist 1: Cristian Rodríguez
+Asist 2: Freddy Quelca Guarachi
+4° Árbitro: Elias Viglione
+Zona “B”
  Viernes 21-08
  Muñiz c. Gral. Lamadrid, a las 15.00 horas en Atlas
  Árbitro: Facundo Fuentes
@@ -1187,19 +1239,29 @@ Partido Pendiente
  Dep. Las Mandarinas c. F.C. Ezeiza, a las 15.00 horas
 Copa Argentina 2026
 FASE FINAL – Octavos de final
-Martes 18 de Agosto
-Banfield - F.C. Midland, a las 21.15 horas en Dep. Morón (TV)
- Árbitro: Bruno Amiconi
- Asistente 1: José Castelli
- Asistente 2: Erik Grunmann
- Cuarto árbitro: Agustín Vegetti
+Miércoles 26 de agosto
+Aldosivi (M. del P.) - Independiente Riv. (Mza.), a las 19.15 horas, en Banfield (TV)
+ Árbitro: Andrés Gariano
+ Asistente 1: Pablo González
+ Asistente 2: Juan Del Fueyo
+ Cuarto árbitro: Jorge Broggi
  VAR: José Carreras
+ AVAR: Diego Verlota
+Jueves 27 de agosto
+Estudiantes de L.P. - Barracas Ctral., a las 19.00 horas, en Defensa y Justicia (TV)
+ Árbitro: Nicolás Ramírez
+ Asistente 1: Gabriel Chade
+ Asistente 2: Maximiliano Del Yesso
+ Cuarto árbitro: Adrián Núñez Rodríguez
+ VAR: Fernando Echenique
  AVAR: Gastón Suárez
-Miércoles 26 de Agosto 
- Aldosivi (M. del P.) - Independiente Riv. (Mza.), a las 19.15 horas, en Banfield (TV)
-Jueves 27 de Agosto
- Estudiantes de L.P. - Barracas Ctral., a las 19.00 horas, en Defensa y Justicia (TV)
-Platense - Instituto A.C. Cba., a las 21.15 horas en N.O.Boys (TV)
+Platense - Instituto A.C. Cba., a las 21.15 horas, en N.O.Boys (TV)
+ Árbitro: Leandro Rey Hilfer
+ Asistente 1: Sebastián Raineri
+ Asistente 2: Federico Cano
+ Cuarto árbitro: Lautaro Castagnola
+ VAR: Silvio Trucco
+ AVAR: Mauro Ramos Errasti
 Miércoles 2 de Septiembre
  Vélez Sarsfield - Boca Jrs., a las 21.15 horas, en estadio Mario A. Kempes (TV)
 FASE FINAL – Final
