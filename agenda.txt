@@ -2,20 +2,6 @@
 Torneo Clausura 
 Fecha 6 – Interzonal
 Sábado 22 de agosto
-16.00 Atlético Tucumán – Instituto
- Árbitro: Andrés Merlos
- Asistente 1: Miguel Savorani
- Asistente 2: Marcos Horticoulou
- Cuarto árbitro: Pablo Núñez
- VAR: Andrés Gariano
- AVAR: Jorge Broggi
-16.00 Gimnasia – Gimnasia (Mza.)
- Árbitro: Leandro Rey Hilfer
- Asistente 1: Iván Aliende
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Lucas Comesaña
- VAR: Diego Ceballos
- AVAR: Gerardo Lencina
 18.30 Independiente – Independiente Rivadavia Mza.
  Árbitro: Yael Falcón Pérez
  Asistente 1: Pablo Acevedo
@@ -411,11 +397,6 @@ Suspendidos
 Fecha 26
 Zona “A”
  Sábado 22-08
- Chaco For Ever c. Los Andes, a las 16.00 horas
- Árbitro: Adrián Franklin
- Asistente 1: Matias Bianchi
- Asistente 2: Dario Rojas Martínez
- Cuarto árbitro: Franco Rioja
  Ctral. Norte c. Estudiantes, a las 22.00 horas en estadio Padre E. Martearena
  Árbitro: Fabrizio Llobet
  Asistente 1: Manuel Sánchez
@@ -1350,8 +1331,6 @@ Domingo 23 de agosto
  Círculo Deportivo vs. Germinal
  Guillermo Brown vs. FADEP
 Fútbol Femenino de Primera División A 
-Sábado 22 de agosto
-16.00 Talleres - NOB, en Estadio La Boutique (LPF PLAY)
 Lunes 24 de agosto
 10.00 Ferro - GELP, en Sintético Caballito (LPF PLAY)
 15.00 San Lorenzo - Racing, en Cancha 1 Ciudad Deportiva (LPF PLAY)
