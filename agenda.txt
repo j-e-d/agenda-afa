@@ -2,20 +2,6 @@
 Torneo Clausura 
 Fecha 6 – Interzonal
 Domingo 23 de agosto
-14.45 Sarmiento – Estudiantes
- Árbitro: Nicolás Lamolina
- Asistente 1: Juan Mamani
- Asistente 2: Iván Núñez
- Cuarto árbitro: Jonathan Barrios
- VAR: Jorge Baliño
- AVAR: Joaquín Gil
-14.45 Barracas Central – Platense
- Árbitro: Hernán Mastrángelo
- Asistente 1: Pablo González
- Asistente 2: Ernesto Callegari
- Cuarto árbitro: Jorge Broggi
- VAR: Sebastián Habib
- AVAR: Diego Romero
 17.00 Belgrano – Defensa y Justicia
  Árbitro: Fernando Espinoza
  Asistente 1: Walter Ferreyra
@@ -409,11 +395,6 @@ Domingo 23-08
  Asistente 1: Gonzalo Ferrari
  Asistente 2: Martin Saccone
  Cuarto árbitro: Marcelo Sanz
- Chacarita Juniors c. San Martín (T.), a las 15.00 horas
- Árbitro: Gonzalo Pereira
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Mariano Ruas
- Cuarto árbitro: Julian Beligoy
  Temperley c. F.C. Midland, a las 16.00 horas
  Árbitro: Wenceslao Meneses
  Asistente 1: Maximiliano Castelli
@@ -637,11 +618,6 @@ ZONA B
 Primera B
 Fecha 3
  Domingo 23-08
- Sp. Dock Sud c. Camioneros, a las 15.00 horas
- Árbitro: Ariel Cruz
- Asistente 1: Matías Basso
- Asistente 2: Hernán Antola
- Cuarto árbitro: Eduardo Coyto
 32ª. Fecha
  Martes 25 de agosto
  15.00 Arsenal F.C. - Ituzaingó
@@ -823,12 +799,6 @@ Fecha 42
 Primera C
 Fecha 25
 Zona “A”
-Domingo 23-08
- Puerto Nuevo c. Def. de Cambaceres, a las 15.00 horas
- Árbitro: David Cornejo
- Asistente 1: Christian Rodríguez
- Asistente 2: Tomas Pérez
- Cuarto árbitro: Ulises López
  Lunes 24-08
  Rec. Español c. Estrella del Sur, a las 15.00 horas en Ituzaingó
  Árbitro: Leandro Fedele
@@ -844,28 +814,6 @@ Asist 1: Cristian Rodríguez
 Asist 2: Freddy Quelca Guarachi
 4° Árbitro: Elias Viglione
 Zona “B”
- Domingo 23-08
- Ctral. Córdoba (Ros.) c. Sp. Barracas, a las 15.00 horas
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Mario Vargas
- Asistente 2: Joaquín Fraga
- Cuarto árbitro: Rodrigo Amadeo
- El Porvenir c. Ctral. Ballester, a las 15.00 horas
- Árbitro: Alejandro Porticella
- Asistente 1: Facundo Maldonado
- Asistente 2: Sofia Curto
- Cuarto árbitro: Valentín Ibáñez Mesa
- Lunes 24-08
- Dep. Español c. Luján, a las 15.00 horas
- Árbitro: Gabriel Flores
- Asistente 1: Matias Noli
- Asistente 2: Federico Machuca
- Cuarto árbitro: Facundo Carretero
- Claypole c. Fénix, a las 15.00 horas
- Árbitro: Gonzalo Correa
- Asistente 1: Rodrigo Mansilla
- Asistente 2: Agustín Cellucci
- Cuarto árbitro: Manuel Prieto
  Partidos Pendientes
 22ª. Fecha
  Martes 25-08
@@ -1023,12 +971,6 @@ Zona “A”
  Cuarto árbitro: Lucas Baiz
 16ª. Fecha
  Zona “B”
- Domingo 23-08
- Evertón (L.P.) c. Uribelarrea F.C., a las 15.00 horas
- Árbitro: Fabricio De La Cruz
- Asistente 1: Tomás Otero
- Asistente 2: Carlos Vázquez
- Cuarto árbitro: Alberto Iglesias
  Lunes 24-08
  F.C. Ezeiza c. Belgrano (Zarate), a las 15.00 horas en YupanquiÁrbitro: Damian Parodi
  Asistente 1: Oscar Maidana
@@ -1084,31 +1026,6 @@ Fase Campeonato
  Fecha 5 
  Zona A y Zona B
 Domingo 23 de agosto
-11.30 FADEP Mza. - Sol de Mayo
- Árbitro: Maximiliano Gabriel Silcan Jerez
- Asistente 1: Exequiel Augusto Agüero
- Asistente 2: Fernando Alberto Ruarte
- Cuarto árbitro: Santiago Andrés Agüero
-15.00 Escobar FC - Gimnasia y Esgrima (CdU)
- Árbitro: Diego Saúl Novelli
- Asistente 1: Lautaro Manuel Paletta
- Asistente 2: Fernando Zabalza
- Cuarto árbitro: Alejo Cid
-15.00 Guillermo Brown - Santamarina
- Árbitro: Fernando Jesús Rekers
- Asistente 1: Danilo Ariel Viola
- Asistente 2: Rodrigo Moreno
- Cuarto árbitro: Diego Maximiliano Álvarez
-15.00 Germinal - Atlético Club San Martín
- Árbitro: Kevin Nicolás Bustos
- Asistente 1: Martín Daniel Nardelli
- Asistente 2: Cristian Thomas Pasquettin
- Cuarto árbitro: Santiago Schmoll
-15.00 Deportivo Rincón - Juventud Unida Universitario
- Árbitro: Luis Damián Martínez
- Asistente 1: Fernando S. Muñoz
- Asistente 2: Rodrigo Ariel Jara
- Cuarto árbitro: Jorge Rodrigo Cabrera Magallanes
 15.30 Defensores de Belgrano (VR) - Gimnasia y Esgrima (Chivilcoy)
  Árbitro: José Darío Sandoval
  Asistente 1: Guido Córdoba
