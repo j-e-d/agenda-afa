@@ -2,14 +2,7 @@
 Torneo Clausura 
 Fecha 6 – Interzonal
 Domingo 23 de agosto
-17.00 Belgrano – Defensa y Justicia
- Árbitro: Fernando Espinoza
- Asistente 1: Walter Ferreyra
- Asistente 2: Federico García
- Cuarto árbitro: Emanuel Ejarque
- VAR: Héctor Paletta
- AVAR: Lucas Comesaña
-19.15 River – Vélez
+ 19.15 River – Vélez
  Árbitro: Darío Herrera
  Asistente 1: Facundo Rodríguez
  Asistente 2: Diego Martín
@@ -360,12 +353,6 @@ Suspendidos
  Cuarto árbitro: Adrián Núñez Rodríguez
 Fecha 26
 Zona “A”
- Domingo 23-08
- Cdad. Bolívar c. Racing (Cba.), a las 15.30 horas en estadio Municipal de Bolívar
- Árbitro: Nicolas Mastroieni
- Asistente 1: Federico Pomi
- Asistente 2: Antonella Pajon
- Cuarto árbitro: Agustin Panizza
 Lunes 24-08
  Ferro Carril Oeste c. All Boys, a las 20.00 horas
  Árbitro: Daniel Zamora
@@ -389,17 +376,6 @@ Asist 1: Marcos Hourticolou
 Asist 2: Gonzalo Roldan
 4° Árbitro: Francisco Acosta
 Zona “B”
-Domingo 23-08
- Dep. Maipú c. Quilmes A.C., a las 15.30 horas
- Árbitro: Maximiliano Manduca
- Asistente 1: Gonzalo Ferrari
- Asistente 2: Martin Saccone
- Cuarto árbitro: Marcelo Sanz
- Temperley c. F.C. Midland, a las 16.00 horas
- Árbitro: Wenceslao Meneses
- Asistente 1: Maximiliano Castelli
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Rodrigo Villaba
  Lunes 24-08
  Güemes (S.E.) c. Atl. de Rafaela, a las 16.00 horas
  Árbitro: Bryan Ferreyra
@@ -616,8 +592,6 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B
-Fecha 3
- Domingo 23-08
 32ª. Fecha
  Martes 25 de agosto
  15.00 Arsenal F.C. - Ituzaingó
@@ -1023,59 +997,7 @@ Trofeo de Campeones 2026
 Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciudad de Córdoba. 
 Torneo Federal A 
 Fase Campeonato
- Fecha 5 
- Zona A y Zona B
-Domingo 23 de agosto
-15.30 Defensores de Belgrano (VR) - Gimnasia y Esgrima (Chivilcoy)
- Árbitro: José Darío Sandoval
- Asistente 1: Guido Córdoba
- Asistente 2: Matías Coria
- Cuarto árbitro: Paula Soledad Eisenacht
-15.30 Alvarado - Argentino (P)
- Árbitro: Maximiliano Macheroni
- Asistente 1: Pablo Alberto Ramírez
- Asistente 2: Bruno Cejas
- Cuarto árbitro: Jonatan Daniel Mapelli
-15.30 Cipolletti - Atenas (RC)
- Árbitro: Fernando Omar Marcos
- Asistente 1: Emiliano Nicolás Bustos
- Asistente 2: Felipe Zonco
- Cuarto árbitro: Leandro Gatica
-15.30 Olimpo - Kimberley (MdP)
- Árbitro: Lucas Nicolás Cavallero
- Asistente 1: Sebastián Emanuel Osudar
- Asistente 2: Hugo Fleitas
- Cuarto árbitro: Bruno Pezzotta
-15.30 Defensores de Vilelas - El Linqueño
- Árbitro: Leonardo Enmanuel Billanueva
- Asistente 1: Sergio Mauricio Pérez
- Asistente 2: Ángel Esteban Ayala
- Cuarto árbitro: Andrés Leonardo Franco
-15.30 Independiente (Chivilcoy) - Tucumán Central
- Árbitro: Marcos Ignacio Liuzzi
- Asistente 1: Óscar Ariel Bono
- Asistente 2: Patricio Jesús Destéfano
- Cuarto árbitro: Sergio Hernán Monzón
-16.00 Sarmiento (Santiago del Estero) - Sportivo Belgrano
- Árbitro: Mauricio Exequiel Martín
- Asistente 1: José Daniel Ponce
- Asistente 2: Leila Romina Argañaraz
- Cuarto árbitro: Agustín Marto
-16.00 Mitre (Posadas) - Douglas Haig
- Árbitro: Jonathan Daniel Correa
- Asistente 1: Luciano Agustín Díaz
- Asistente 2: Marcos David Guzmán
- Cuarto árbitro: Facundo Misael Vizgarra Campos
-16.00 San Martín (Formosa) - 9 de Julio (Rafaela)
- Árbitro: César Antonio Ceballo
- Asistente 1: Leonel Matías Suárez
- Asistente 2: Evelyn Romina Luján
- Cuarto árbitro: Dalma Pérez
-16.00 Boca Unidos - Sportivo Atlético
- Árbitro: Guillermo Adrián González
- Asistente 1: Rodrigo Edgardo López
- Asistente 2: Mariana Beatriz Duré
- Cuarto árbitro: María Soledad Ríos
+ ZONA A
  6ta. Fecha - 30.08.26
  9 De Julio (Rafaela) VS. Def. Belgrano (VM)
  G. Esgrima Ch VS. Sarmiento Lb
@@ -1134,12 +1056,6 @@ Domingo 23 de agosto
  ----------------------------------------
  Fase Reválida
  ZONA A
- 5.ª fecha – 23.08.26
- Libre: Sarmiento (Resistencia)
- Boca Unidos vs. Sportivo (LP)
- Independiente (CH) vs. Tucumán Central
- Atl. Escobar vs. G. Esgrima (CU)
- Def. Puerto Vilelas vs. El Linqueño
  6.ª fecha – 30.08.26
  Libre: Def. Puerto Vilelas
  El Linqueño vs. Atl. Escobar
@@ -1165,30 +1081,6 @@ Domingo 23 de agosto
  Boca Unidos vs. Def. Puerto Vilelas
  Independiente (CH) vs. Atl. Escobar
  ZONA B
- 2.ª fecha – 08.08.26
- Sol de Mayo vs. Rincón
- Santamarina vs. San Martín (M)
- Costa Brava vs. Germinal
- J. U. Universitario vs. FADEP
- Círculo Deportivo vs. Guillermo Brown
- 3.ª fecha – 12.08.26
- Rincón vs. Círculo Deportivo
- Guillermo Brown vs. J. U. Universitario
- FADEP vs. Costa Brava
- Germinal vs. Santamarina
- San Martín (M) vs. Sol de Mayo
- 4.ª fecha – 16.08.26
- San Martín (M) vs. Rincón
- Sol de Mayo vs. Germinal
- Santamarina vs. FADEP
- Costa Brava vs. Guillermo Brown
- J. U. Universitario vs. Círculo Deportivo
- 5.ª fecha – 23.08.26
- Rincón vs. J. U. Universitario
- Círculo Deportivo vs. Costa Brava
- Guillermo Brown vs. Santamarina
- FADEP vs. Sol de Mayo
- Germinal vs. San Martín (M)
  6.ª fecha – 30.08.26
  Germinal vs. Rincón
  San Martín (M) vs. FADEP
