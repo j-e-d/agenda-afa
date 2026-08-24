@@ -361,12 +361,6 @@ Asist 1: Marcos Hourticolou
 Asist 2: Gonzalo Roldan
 4° Árbitro: Francisco Acosta
 Zona “B”
- Lunes 24-08
- Güemes (S.E.) c. Atl. de Rafaela, a las 16.00 horas
- Árbitro: Bryan Ferreyra
- Asistente 1: Damián Espinoza
- Asistente 2: Cristian Herrera
- Cuarto árbitro: Federico Guaymas
  Partidos Pendientes
  17ª. Fecha
  Miércoles 26-08
@@ -758,12 +752,6 @@ Fecha 42
 Primera C
 Fecha 25
 Zona “A”
- Lunes 24-08
- Rec. Español c. Estrella del Sur, a las 15.00 horas en Ituzaingó
- Árbitro: Leandro Fedele
- Asistente 1: Alexis Etchepare
- Asistente 2: Marcos Pueyo
- Cuarto árbitro: Camila Gette
 Partido Pendiente
 22ª. Fecha
  Martes 25-08
@@ -915,26 +903,7 @@ A definir
  Asistente 1: Ariel Ibáñez
  Asistente 2: Agustín Fischetti
  Cuarto árbitro: Alberto Iglesias
-12ª. Fecha
-Zona “A”
- Lunes 24-08
- S.A.T. c. Atl. Pilar, a las 15.00 horas
- Árbitro: Tomás Aybar
- Asistente 1: Bruno Castillo
- Asistente 2: Martin Núñez
- Cuarto árbitro: Franco Gutiérrez
- Estrella de Berisso c. Náutico Hacoaj, a las 15.00 horas
- Árbitro: Lautaro Díaz
- Asistente 1: Sergio Benítez
- Asistente 2: Nicolas Oviedo
- Cuarto árbitro: Lucas Baiz
-16ª. Fecha
  Zona “B”
- Lunes 24-08
- F.C. Ezeiza c. Belgrano (Zarate), a las 15.00 horas en YupanquiÁrbitro: Damian Parodi
- Asistente 1: Oscar Maidana
- Asistente 2: Agustin Fischetti
- Cuarto árbitro: Marcos Winer
 Partido Pendiente
  13ª. Fecha
  Jueves 27-08
@@ -1091,11 +1060,7 @@ Fase Campeonato
  Círculo Deportivo vs. Germinal
  Guillermo Brown vs. FADEP
 Fútbol Femenino de Primera División A 
-Lunes 24 de agosto
-10.00 Ferro - GELP, en Sintético Caballito (LPF PLAY)
-15.00 San Lorenzo - Racing, en Cancha 1 Ciudad Deportiva (LPF PLAY)
-15.00 Independiente - SAT, en Predio Santo Domingo Cancha 3 (LPF PLAY)
- POSTERGADO
+POSTERGADO
 Lanús - River (LPF PLAY)
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2026
