@@ -1212,3 +1212,13 @@ Torneo Olímpico de Fútbol femenino: AFC: 2.5; CAF: 2; Concacaf: 3; CONMEBOL: 2
 Torneo Olímpico de Fútbol masculino: AFC: 2; CAF: 2; Concacaf: 1; CONMEBOL: 2; OFC: 1; UEFA: 3; país anfitrión (Estados Unidos): 1 
 Copa Mundial Femenina de Clubes de la FIFA 2028
 Se disputará del 5 al 30 de enero de 2028
+CONMEBOL Libertadores 2027
+La fase 1 comenzará el miércoles 3 de febrero de 2027.
+El sorteo de la fase de grupos se realizará el miércoles 17 de marzo de 2027.
+La final se disputará el sábado 27 de noviembre de 2027.
+CONMEBOL Sudamericana 2027
+La fase 1 comenzará el miércoles 3 de marzo de 2027.
+ El sorteo de la fase de grupos se realizará el miércoles 17 de marzo de 2027.
+ La final se disputará el sábado 20 de noviembre de 2027.
+CONMEBOL Recopa 2027 
+El partido de ida de la CONMEBOL Recopa se jugará el 17 de febrero 2027 y la vuelta el 24 del mismo mes. 
