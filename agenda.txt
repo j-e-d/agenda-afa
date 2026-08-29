@@ -1,21 +1,6 @@
 25/03/2019
 Torneo Clausura 
 Fecha 7
-Viernes 28 de agosto
-19.00 Unión – Sarmiento
- Árbitro: Pablo Echavarría
- Asistente 1: Ernesto Callegari
- Asistente 2: Matías Balmaceda
- Cuarto árbitro: Facundo Rojo Casal
- VAR: Hernán Mastrángelo
- AVAR: Lucas Pardo
-21.30 Boca – Lanús
- Árbitro: Pablo Dóvalo
- Asistente 1: Cristian Navarro
- Asistente 2: Hugo Páez
- Cuarto árbitro: Lucas Comesaña
- VAR: Germán Delfino
- AVAR: Javier Uziga
 Sábado 29 de agosto
 14.45 Deportivo Riestra – Vélez
  Árbitro: Nazareno Arasa
@@ -111,77 +96,85 @@ Lunes 31 de agosto
  VAR: Fabrizio Llobet
  AVAR: Nahuel Viñas
 Fecha 8
-Interzonal: Rosario Central – Newell’s
-Zona A
- Vélez – Estudiantes
- Platense – Deportivo Riestra
- Lanús – Defensa y Justicia
- Gimnasia (Mza.) – Boca
- Central Córdoba – Independiente
- San Lorenzo – Talleres
- Unión – Instituto
-Zona B
-Gimnasia – Tigre
- Barracas Central – Argentinos
- Aldosivi – Banfield
- River – Independiente Rivadavia Mza.
- Racing – Atlético Tucumán
- Belgrano – Huracán
- Estudiantes (Río Cuarto) – Sarmiento
+Viernes 4 de septiembre
+ 16.45 Estudiantes (Río Cuarto) – Sarmiento (Zona B)
+ 19.00 Belgrano – Huracán (Zona B)
+ 19.00 Platense – Deportivo Riestra (Zona A)
+Sábado 5 de septiembre
+ 13.30 Aldosivi – Banfield (Zona B)
+ 14.30 Gimnasia – Tigre (Zona B)
+ 16.30 Gimnasia (Mza.) – Boca (Zona A)
+ 19.00 San Lorenzo – Talleres (Zona A)
+ 21.15 Vélez – Estudiantes (Zona A)
+Domingo 6 de septiembre
+ 14.45 Rosario Central – Newell’s (Interzonal)
+ 17.00 Lanús – Defensa y Justicia (Zona A)
+ 17.00 Central Córdoba – Independiente (Zona A)
+ 19.15 River – Ind. Rivadavia Mza. (Zona B)
+ 21.30 Racing – Atlético Tucumán (Zona B)
+Lunes 7 de septiembre
+ 19.00 Barracas Central – Argentinos (Zona B)
+ 21.15 Unión – Instituto (Zona A)
 Fecha 9
-Interzonal: Instituto – Estudiantes (Río Cuarto)
-Zona A
- Talleres – Unión
- Independiente – San Lorenzo
- Boca – Central Córdoba
- Defensa y Justicia – Gimnasia (Mza.)
- Deportivo Riestra – Lanús
- Estudiantes – Platense
- Newell’s – Vélez
-Zona B
- Sarmiento – Belgrano
- Huracán – Racing
- Atlético Tucumán – River
- Independiente Rivadavia Mza. – Aldosivi
- Banfield – Barracas Central
- Argentinos – Gimnasia
- Tigre – Rosario Central
+Viernes 11 de septiembre
+ 17.00 Newell’s – Vélez (Zona A)
+ 20.00 Defensa y Justicia – Gimnasia (Mza.) (Zona A)
+Sábado 12 de septiembre
+ 14.45 Ind. Rivadavia Mza. – Aldosivi (Zona B)
+ 14.45 Estudiantes – Platense (Zona A)
+ 17.00 Atlético Tucumán – River (Zona B)
+ 19.15 Boca – Central Córdoba (Zona A)
+ 21.30 Talleres – Unión (Zona A)
+Domingo 13 de septiembre
+ 14.45 Sarmiento – Belgrano (Zona B)
+ 14.45 Tigre – Rosario Central (Zona B)
+ 17.00 Argentinos – Gimnasia (Zona B)
+ 19.15 Independiente – San Lorenzo (Zona A)
+ 21.30 Huracán – Racing (Zona B)
+Lunes 14 de septiembre
+ 19.00 Deportivo Riestra – Lanús (Zona A)
+ 19.00 Banfield – Barracas Central (Zona B)
+ 21.15 Instituto – Estudiantes (Río Cuarto) (Interzonal)
 Fecha 10
-Interzonal: Vélez – Tigre
-Zona A
- Platense – Newell’s
- Lanús – Estudiantes
- Gimnasia (Mza.) – Deportivo Riestra
- Central Córdboa – Defensa y Justicia
- San Lorenzo – Boca
- Unión – Independiente
- Instituto – Talleres
-Zona B
- Rosario Central – Argentinos
- Gimnasia – Banfield
- Barracas Central – Independiente Rivadavia Mza.
- Aldosivi – Atlético Tucumán
- River – Huracán
- Racing – Sarmiento
- Belgrano – Estudiantes (Río Cuarto)
+Viernes 18 de septiembr
+ 19.00 Central Córdoba – Defensa y Justicia (Zona A)
+ 21.15 Racing – Sarmiento (Zona B)
+Sábado 19 de septiembre
+ 14.30 Gimnasia – Banfield (Zona B)
+ 14.30 Gimnasia (Mza.) – Deportivo Riestra (Zona A)
+ 16.45 Unión – Independiente (Zona A)
+ 19.00 River – Huracán (Zona B)
+ 21.15 Instituto – Talleres (Zona A)
+Domingo 20 de septiembre
+ 14.45 San Lorenzo – Boca (Zona A)
+ 17.00 Rosario Central – Argentinos (Zona B)
+ 17.00 Platense – Newell’s (Zona A)
+ 19.15 Belgrano – Estudiantes (Río Cuarto) (Zona B)
+ 21.30 Vélez – Tigre (Interzonal)
+Lunes 21 de septiembre
+ 14.30 Aldosivi – Atlético Tucumán (Zona B)
+ 19.00 Barracas Central – Ind. Rivadavia Mza. (Zona B)
+ 21.15 Lanús – Estudiantes (Zona A)
 Fecha 11
-Interzonal: Talleres – Belgrano
-Zona A
- Independiente – Instituto
- Boca – Unión
- Defensa y Justicia – San Lorenzo
- Deportivo Riestra – Central Córdoba
- Estudiantes – Gimnasia Mza.
- Newell’s – Lanús
- Vélez – Platense
-Zona B
- Estudiantes (Río Cuarto) – Racing
- Sarmiento – River
- Huracán – Aldosivi
- Atlético Tucumán – Barracas Central
- Independiente Rivadavia Mza. – Gimnasia
- Banfield – Rosario Central
- Argentinos – Tigre
+Viernes 2 de octubre
+ 19.15 Independiente – Instituto (Zona A)
+ 21.30 Ind. Rivadavia Mza. – Gimnasia (Zona B)
+Sábado 3 de octubre
+ 14.45 Defensa y Justicia – San Lorenzo (Zona A)
+ 17.00 Atlético Tucumán – Barracas Central (Zona B)
+ 17.00 Newell’s – Lanús (Zona A)
+ 19.15 Argentinos – Tigre (Zona B)
+ 21.30 Huracán – Aldosivi (Zona B)
+Domingo 4 de octubre
+ 14.45 Sarmiento – River (Zona B)
+ 17.00 Talleres – Belgrano (Interzonal)
+ 19.15 Boca – Unión (Zona A)
+ 21.30 Estudiantes (Río Cuarto) – Racing (Zona B)
+Lunes 5 de octubre
+ 16.45 Deportivo Riestra – Central Córdoba (Zona A)
+ 19.00 Estudiantes – Gimnasia (Mza.) (Zona A)
+ 19.00 Vélez – Platense (Zona A)
+ 21.15 Banfield – Rosario Central (Zona B)
 Fecha 12
 Interzonal: Platense – Argentinos
 Zona A
@@ -1051,12 +1044,6 @@ Promocional Amateur
  Cuarto árbitro: Santiago Palmieri
 17ª. Fecha
  Zona “B”
- Viernes 28-08
- Buenos Aires City c. Barrancas F.C., a las 14.00 horas en Banfield (Aux. L. Guillón)
- Árbitro: Micaela Abelardo
- Asistente 1: Rodrigo Mansilla
- Asistente 2: Luis Taboada
- Cuarto árbitro: Lautaro Díaz
 Sábado 29-08
  Uribelarrea F.C. c. Las Mandarinas, a las 15.00 horas
  Árbitro: Martín Morenza
