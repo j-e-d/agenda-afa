@@ -2,13 +2,6 @@
 Torneo Clausura 
 Fecha 7
 Domingo 30 de agosto
-15.00 Banfield – River
- Árbitro: Leandro Rey Hilfer
- Asistente 1: Maximiliano del Yesso
- Asistente 2: Agustín Méndez
- Cuarto árbitro: Gastón Iglesias
- VAR: Lucas Novelli
- AVAR: Nelson Sosa
 17.00 Argentinos – Aldosivi
  Árbitro: Luis Lobo Medina
  Asistente 1: Sebastián Raineri
@@ -341,32 +334,6 @@ Suspendidos
 FECHA 27
 Zona “A”
  Domingo 30-08
- Mitre (S.E.) c. Ctral. Norte, a las 15.00 horas
- Árbitro: Joaquín Gil
- Asistente 1: Matías Bianchi
- Asistente 2: Robertino Rosas
- Cuarto árbitro: Facundo Rojo Casal
- Alte. Brown c. Dep. Madryn, a las 15.00 horas
- Árbitro: Juan Cruz Robledo
- Asistente 1: Andrés Barbieri
- Asistente 2: Federico García
- Cuarto árbitro: Nicolás Kresta
- Dep. Morón c. San Miguel, a las 15.30 horas
- Árbitro: Felipe Viola
- Asistente 1: Uriel García Leri
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Gonzalo Creimermann
- All Boys c. Chaco For Ever, a las 15.30 horas
- Árbitro: Franco Acita
- Asistente 1: Gerardo Lencina
- Asistente 2: Nahuel Rasullo
- Cuarto árbitro: Agustín Vegetti
- Estudiantes c. Ferro Carril Oeste, a las 15.30 horas
- Estudiantes - Ferro Carril Oeste
- Árbitro: Yamil Possi
- Asistente 1: Diego Bonfá
- Asistente 2: Iván Aliende
- Cuarto árbitro: Ramiro Maglio
  Racing (Cba.) c. Colón, a las 17.00 horas
  Árbitro: Pablo Giménez
  Asistente 1: Gonzalo Ferrari
@@ -385,16 +352,6 @@ Zona “A”
  Cuarto árbitro: Marcos Recalde
  Zona “B”
  Domingo 30-08
- Atlanta c. San Martín (S.J.), a las 15.30 horas
- Árbitro: Maximiliano Manduca
- Asistente 1: Juan Manuel González
- Asistente 2: Mariano Cichetto
- Cuarto árbitro: Agustín Flores
-Patronato (Paraná) c. Almagro, a las 15.30 horas
- Árbitro: Maximiliano Macheroni
- Asistente 1: Mariano Viale
- Asistente 2: Martín Saccone
- Cuarto árbitro: Marcelo Sanz
  San Martín (T.) c. Güemes (S.E.), a las 18.30 horas
  Árbitro: Lucas Cavallero
  Asistente 1: Daniel Zamora
@@ -595,22 +552,6 @@ ZONA B
  ATLANTA - F.C. MIDLAND
 Primera B
 FECHA 33
- Domingo 30-08
- Dep. Armenio c. Villa San Carlos, a las 12.30 horas
- Árbitro: Ignacio Cuicchi
- Asistente 1: Hugo Hartung
- Asistente 2: Santiago Scalerandi
- Cuarto árbitro: Leandro Fedele
- Flandria c. San Martín (B.), a las 15.00 horas
- Árbitro: Nicolás Mastroieni
- Asistente 1: Leandro Britez
- Asistente 2: Enrique Lanz
- Cuarto árbitro: Gonzalo Correa
- Arg. de Merlo c. Villa Dálmine, a las 15.00 horas
- Árbitro: Ariel Cruz
- Asistente 1: Diego Torres
- Asistente 2: Gastón Galarza
- Cuarto árbitro: Tomás Aybar
  Lunes 31-08
  Comunicaciones c. Dep. Merlo, a las 19.00 horas
  Árbitro: Gabriel Flores
@@ -728,27 +669,6 @@ Fecha 42
 Primera C
 FECHA 26
  Zona “A”
- Domingo 30-08
- Estrella del Sur c. Victoriano Arenas, a las 15.00 horas
- Árbitro: Elías Viglione
- Asistente 1: Diego Fernández
- Asistente 2: Lucas García
- Cuarto árbitro: Valentín Pérsico
- Argentino (Ros.) c. Rec. Español, a las 15.00 horas
- Árbitro: Matías Ansede
- Asistente 1: Leandro Carril
- Asistente 2: Oscar Maidana
- Cuarto árbitro: Iñaki Iparraguirre
- Juv. Unida c. Mercedes, a las 15.00 horas
- Árbitro: Ulises López
- Asistente 1: Roberto Rodríguez
- Asistente 2: Enzo Nell
- Cuarto árbitro: Laura Fortunato
- L.N. Alem c. Puerto Nuevo, a las 15.00 horas
- Árbitro: Ariadna Palacios
- Asistente 1: Mario Vargas
- Asistente 2: Sergio Benítez
- Cuarto árbitro: Franco Gutiérrez
  Lunes 31-08
  Sacachispas F.C. c. J.J. de Urquiza, a las 15.00 horas
  Árbitro: Guido Mascheroni
@@ -761,12 +681,6 @@ FECHA 26
  Asistente 2: Rodolfo Rodríguez
  Cuarto árbitro: Manuel Girett
  Zona “B”
- Domingo 30-08
- Ctral. Ballester c. Yupanqui, a las 15.00 horas
- Árbitro: Antonella Álvarez
- Asistente 1: Ariel Ibáñez
- Asistente 2: Nicolás Rovira
- Cuarto árbitro: Lucas Brumer
  Lunes 31-08
 Fénix c. Ctral. Córdoba (Ros.), a las 15.00 horas en F.C.
  Árbitro: Iván Castelú
@@ -902,12 +816,6 @@ Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
 13ª. Fecha
  Zona “A”
- Domingo 30-08
- Atl. Pilar c. Def. de Glew, a las 10.00 horas
- Árbitro: Facundo Carretero
- Asistente 1: Rodrigo Díaz
- Asistente 2: Tomás Pérez
- Cuarto árbitro: Valentín Ibáñez Meza
  Martes 01-09
  Juv. de Bernal c. Estrella de Berisso, a las 15.00 horas en S.A.T.
  Árbitro: Nicolás Díaz
@@ -955,44 +863,8 @@ Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciud
 Torneo Federal A 
 Fase Campeonato y Reválida 
 Zona A – Campeonato
-Domingo 30 de Agosto 
-15.00 Douglas Haig - Sol de América
- Árbitro: Diego Novelli
- Asistente 1: Lautaro Paletta
- Asistente 2: Fernando Zabalza
- Cuarto árbitro: Romero Barsotini
-16.00 9 de Julio (Rafaela) - Defensores de Belgrano (Villa Ramallo)
- Árbitro: Jonatan Correa
- Asistente 1: Marcos Guzmán
- Asistente 2: Evelin Luján
- Cuarto árbitro: Dalma Pérez
-16.00 Gimnasia y Esgrima (Chivilcoy) - Sarmiento (La Banda)
- Árbitro: Leandro Sosa Abrile
- Asistente 1: Emanuel Serale
- Asistente 2: Matías González
- Cuarto árbitro: Kevin Bustos
-16.05 Sportivo Belgrano - Mitre (Posadas)
- Árbitro: Rodrigo Rivero
- Asistente 1: Ezequiel Agüero
- Asistente 2: Alex Zerda
- Cuarto árbitro: Santiago Agüero
 Zona B – Campeonato
 Domingo 30 de Agosto 
-15.00 Kimberley - Alvarado
- Árbitro: Fernando Marcos
- Asistente 1: Guillermo Yacante
- Asistente 2: Emiliano Bustos
- Cuarto árbitro: Felipe Zonco
-15.30 Villa Mitre - Huracán (Las Heras)
- Árbitro: Darío Sandoval
- Asistente 1: Guido Córdoba
- Asistente 2: Malvina Schiell
- Cuarto árbitro: Alexis Caisso
-15.45 Argentino (Monte Maíz) - Juventud Antoniana
- Árbitro: Enzo Gutiérrez
- Asistente 1: Hugo Fleitas
- Asistente 2: Pablo Ramírez
- Cuarto árbitro: Bruno Cejas
 16.30 Atenas (Río Cuarto) - Olimpo
  Árbitro: Guillermo González
  Asistente 1: Joaquín Badano
@@ -1017,21 +889,6 @@ Domingo 30 de Agosto
  Cuarto árbitro: Santiago Schmoll
 Zona B – Reválida
 Domingo 30 de Agosto 
-15.00 Germinal - Rincón
- Árbitro: Pablo Núñez
- Asistente 1: Danilo Viola
- Asistente 2: Rodrigo Moreno
- Cuarto árbitro: Lautaro Carro
-15.00 Sol de Mayo - Guillermo Brown (Puerto Madryn)
- Árbitro: Lautaro Castagnola
- Asistente 1: Gabriel González
- Asistente 2: Paula Eisenach
- Cuarto árbitro: Leandro Gatica
-15.00 Costa Brava - Juventud Unida Universitario
- Árbitro: Marcos Liuzzi
- Asistente 1: Martín Nardelli
- Asistente 2: Leonel Suárez
- Cuarto árbitro: Jesús Allegue
 18.00 Santamarina - Círculo Deportivo
  Árbitro: Jorge Etem
  Asistente 1: Araya Quinteros
