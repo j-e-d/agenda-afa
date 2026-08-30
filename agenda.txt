@@ -2,27 +2,6 @@
 Torneo Clausura 
 Fecha 7
 Sábado 29 de agosto
-14.45 Deportivo Riestra – Vélez
- Árbitro: Nazareno Arasa
- Asistente 1: Miguel Savorani
- Asistente 2: Joaquín Badano
- Cuarto árbitro: Cristian Cernadas
- VAR: Diego Ceballos
- AVAR: Sebastián Bresba
-17.00 Rosario Central – Gimnasia
- Árbitro: Darío Herrera
- Asistente 1: Gabriel Chade
- Asistente 2: José Castelli
- Cuarto árbitro: Leandro Villanueva
- VAR: José Carreras
- AVAR: Mariana de Almeida
-19.00 Huracán – Estudiantes (Río Cuarto)
- Árbitro: Yael Falcón Pérez
- Asistente 1: Juan Mamani
- Asistente 2: Maximiliano Castelli
- Cuarto árbitro: Fernando Echenique
- VAR: Silvio Trucco
- AVAR: Gisella Bosso
 21.30 Atlético Tucumán – Belgrano 
  Árbitro: Sebastián Martínez
  Asistente 1: Erik Grünmann
@@ -376,12 +355,6 @@ Suspendidos
  Cuarto árbitro: Yamil Possi
 FECHA 27
 Zona “A”
- Sábado 29-08
- Cdad. Bolivar c. Def. de Belgrano, a las 16.00 horas en Municipal de Bolívar
- Árbitro: Matías Billone
- Asistente 1: Alejandro Schneller
- Asistente 2: Mariana Duré
- Cuarto árbitro: Kevin Bustos
  Domingo 30-08
  Mitre (S.E.) c. Ctral. Norte, a las 15.00 horas
  Árbitro: Joaquín Gil
@@ -426,22 +399,6 @@ Zona “A”
  Asistente 2: Mariano Ruas
  Cuarto árbitro: Marcos Recalde
  Zona “B”
- Sábado 29-08
- Colegiales c. Dep. Maipú, a las 15.00 horas
- Árbitro: Carlos Córdoba
- Asistente 1: Mariano Ascenzi
- Asistente 2: Daiana Milone
- Cuarto árbitro: Mariano Negrete
- Atl. de Rafaela c. Tristán Suarez, a las 16.00 horas
- Árbitro: Gonzalo Pereira
- Asistente 1: Marcelo Bistocco
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Iñaki Iparraguirre
- F.C. Midland c. Nva. Chicago, a las 16.30 horas
- Árbitro: Julián Jerez
- Asistente 1: Marcelo Errante
- Asistente 2: Federico Pomi
- Cuarto árbitro: Gastón Iglesias
  Domingo 30-08
  Atlanta c. San Martín (S.J.), a las 15.30 horas
  Árbitro: Maximiliano Manduca
@@ -653,42 +610,6 @@ ZONA B
  ATLANTA - F.C. MIDLAND
 Primera B
 FECHA 33
-Sábado 29-08
- Ituzaingó c. Sp. Dock Sud, a las 15.00 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Juan Manuel Díaz
- Asistente 2: Agustín Galván
- Cuarto árbitro: Kevin Alegre
- Def. Unidos c. Camioneros, a las 15.00 horas
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Nahuel Santanocito
- Asistente 2: Damián Orellana
- Cuarto árbitro: Agustín Flores
- Arg. de Quilmes c. Sp. Italiano, a las 15.00 horas
- Árbitro: Jonathan Barrios
- Asistente 1: Ángel Rebuscini
- Asistente 2: Marcos Pueyo
- Cuarto árbitro: Agustín Panizza
- Brown (Adrogué) c. Liniers, a las 15.00 horas
- Árbitro: Maximiliano López Monti
- Asistente 1: Damián Olivetto
- Asistente 2: Matías Vargas
- Cuarto árbitro: Facundo Fuentes
- Dep. Laferrere c. Real Pilar F.C., a las 15.00 horas
- Árbitro: Martín Despósito
- Asistente 1: Cristian Amarilla
- Asistente 2: Diego Rodríguez Lazarte
- Cuarto árbitro: Sebastián Milessi
- Talleres (R.E.) c. UAI - Urquiza, a las 15.00 horas
- Árbitro: Julián Beligoy
- Asistente 1: Hernán Antola
- Asistente 2: Heber Ibáñez Meza
- Cuarto árbitro: Manuel Girett
- Arsenal F.C. c. Excursionistas, a las 15.00 horas
- Árbitro: Wenceslao Meneses
- Asistente 1: Lucas Vázquez
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Alejandro Porticella
  Domingo 30-08
  Dep. Armenio c. Villa San Carlos, a las 12.30 horas
  Árbitro: Ignacio Cuicchi
@@ -822,12 +743,6 @@ Fecha 42
 Primera C
 FECHA 26
  Zona “A”
- Sábado 29-08
- Def. de Cambaceres c. Dep. Paraguayo, a las 18.30 horas
- Árbitro: Manuel Prieto
- Asistente 1: Felipe Onufrik
- Asistente 2: Milena Pérez
- Cuarto árbitro: Gonzalo Correa
  Domingo 30-08
  Estrella del Sur c. Victoriano Arenas, a las 15.00 horas
  Árbitro: Elías Viglione
@@ -861,17 +776,6 @@ FECHA 26
  Asistente 2: Rodolfo Rodríguez
  Cuarto árbitro: Manuel Girett
  Zona “B”
- Sábado 29-08
- El Porvenir c. Claypole, a las 15.00 horas
- Árbitro: David Cornejo
- Asistente 1: Bruno Castillo
- Asistente 2: Alexis Ramírez
- Cuarto árbitro: Facundo Carretero
- Luján c. Muñiz, a las 15.00 horas
- Árbitro: Rodrigo Villalba
- Asistente 1: Leandro Idio
- Asistente 2: Patricio Acuña
- Cuarto árbitro: Nazareno Galeano
  Domingo 30-08
  Ctral. Ballester c. Yupanqui, a las 15.00 horas
  Árbitro: Antonella Álvarez
@@ -1013,17 +917,6 @@ Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
 13ª. Fecha
  Zona “A”
- Sábado 29-08
- S.A.T. c. Dep. Metalúrgico, a las 11.00 horas
- Árbitro: Juan Ferreyra
- Asistente 1: Cristian Rodríguez
- Asistente 2: Nicolás Cavagnaro
- Cuarto árbitro: Damián Parodi
- Náutico Hacoaj c. Provincial (Lobos), a las 17.00 horas
- Árbitro: Mauro Trinidad
- Asistente 1: Sebastián Krojzl
- Asistente 2: Agustina Baleman
- Cuarto árbitro: Pablo Gómez
  Domingo 30-08
  Atl. Pilar c. Def. de Glew, a las 10.00 horas
  Árbitro: Facundo Carretero
@@ -1150,12 +1043,6 @@ Domingo 30 de Agosto
  Asistente 2: Tomás Pasquetin
  Cuarto árbitro: Santiago Schmoll
 Zona B – Reválida
-Sábado 29 de Agosto 
-20.30 San Martín (Mendoza) - FADEP
- Árbitro: Franco Morón
- Asistente 1: Juan I. Flores Roig
- Asistente 2: Federico Ojeda
- Cuarto árbitro: Daniz Chávez
 Domingo 30 de Agosto 
 15.00 Germinal - Rincón
  Árbitro: Pablo Núñez
