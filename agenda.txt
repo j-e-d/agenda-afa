@@ -2,20 +2,6 @@
 Torneo Clausura 
 Fecha 7
 Lunes 31 de agosto
-19.00 Defensa y Justicia – Platense
- Árbitro: Juan Pablo Loustau
- Asistente 1: Pablo Gualtieri
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Agustín Vegetti
- VAR: Andrés Merlos
- AVAR: Gastón Monzón Brizuela
-19.00 Estudiantes – Newell’s
- Árbitro: Juan Pafundi
- Asistente 1: Pablo Acevedo
- Asistente 2: Lucas Ripoli
- Cuarto árbitro: Damián Rubino
- VAR: Sebastián Habib
- AVAR: Daniel E. Zamora
 21.15 Instituto – San Lorenzo
  Árbitro: Andrés Gariano
  Asistente 1: Facundo Rodríguez
@@ -310,14 +296,7 @@ Suspendidos
  Asistente 2: Cristian Herrera
  Cuarto árbitro: Yamil Possi
 FECHA 27
-Zona “A”
- Lunes 31-08
- Los Andes c. Acassuso, a las 19.00 horas
- Árbitro: Jorge Broggi
- Asistente 1: Mariano Rosetti
- Asistente 2: Mariano Ruas
- Cuarto árbitro: Marcos Recalde
- Zona “B”
+Zona “B”
  Lunes 31-08
  G. y Esgrima (J.) c. Agropecuario Arg., a las 21.00 horas
  Árbitro: Bryan Ferreyra
@@ -507,13 +486,6 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B
-FECHA 33
- Lunes 31-08
- Comunicaciones c. Dep. Merlo, a las 19.00 horas
- Árbitro: Gabriel Flores
- Asistente 1: Gonzalo Beloso
- Asistente 2: Néstor Olivera
- Cuarto árbitro: Gonzalo Creimermann
 Fecha 34 
  Excursionistas - Ituzaingó 
  Villa Dálmine - Arsenal 
@@ -753,9 +725,14 @@ Miércoles 2 de Septiembre
  Cuarto árbitro: Álvaro Carranza
  VAR: José Carreras
  AVAR: Mariana De Almeida 
+FASE FINAL – Cuartos de final
+ Miércoles 9 de septiembre 
+ Dep. Riestra - Banfield, en horario y estadio a confirmar (TV)
+ Miércoles 16 de septiembre
+ Sp. Independiente R. (Mza.) - At. Tucumán, en horario y estadio a confirmar (TV)
 FASE FINAL – Final
  Se estableció el MIÉRCOLES 04/11, para la disputa del encuentro de la referencia.
-De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA. 
+De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Supercopa Argentina 2026
 Miércoles 11 de noviembre
 Estudiantes de L.P - Independiente Rivadavia (Mza.), en horario y estadio a designar (TV)
