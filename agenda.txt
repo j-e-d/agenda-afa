@@ -264,37 +264,6 @@ Final:
  sábado 12 de diciembre
 en el Estadio Único Diego Armando Maradona - Tricampeones del Mundo, de la ciudad de La Plata
 Torneo Proyección Clausura
-Fecha 7
- 19.00 – Talleres – Instituto (Zona A) – La Boutique
- Árbitro: Pablo Gómez
- Árbitro asistente 1: Jonathan Florentin
- Árbitro asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Ignacio Domínguez
- Jueves 3 de septiembre
- 15.00 – Huracán – Central Córdoba (Zona B) – La Quemita
- Árbitro: Ariadna Palacios
- Árbitro asistente 1: Mauro Soria
- Árbitro asistente 2: Rodrigo Rodríguez
- Cuarto árbitro: Luca Centurión
- 15.00 – Defensa y Justicia – Ind. Rivadavia Mza. (Zona B) – Campeones del Mundo
- Árbitro: Rodrigo Amadeo
- Árbitro asistente 1: Joaquin Fraga
- Árbitro asistente 2: Lucas Burgos
- Cuarto árbitro: Gabriela Coronel
- 15.00 – Barracas Central – Banfield (Zona A) – AEFIP
- Árbitro: Leonardo Cristaldo
- Árbitro asistente 1: Nicolás Cavagnaro
- Árbitro asistente 2: Martín Núñez
- Cuarto árbitro: Fabricio De La Cruz
- 15.00 – Gimnasia (Mza.) – Rosario Central (Zona A) – Predio
- Árbitro: Valentín Ibáñez Mesa
- Árbitro asistente 1: Patricio Acuña
- Árbitro asistente 2: Axel Sosa
- 19.00 – Boca – Quilmes (Zona A) – Boca Ezeiza
- Árbitro: Roberta Echavarría
- Árbitro asistente 1: Alejo Milone
- Árbitro asistente 2: Bruno Santillán
- Cuarto árbitro: Micaela Abelardo
 Primera Nacional
 Fecha 21
  Miércoles 02-09
@@ -1177,11 +1146,35 @@ Cuartos De Final
 Ida
 Martes 8 de septiembre
  19.00 Fluminense (BRA) - Platense (ARG)
+ Árbitro: Andrés Matonte (URU)
+ Asistente 1: Horacio Ferreiro (URU)
+ Asistente 2: Andrés Nievas (URU)
+ Cuarto árbitro: Mathías De Armas (URU)
+ VAR: Andrés Cunha (URU)
+ AVAR: Agustín Berisso (URU)
 Miércoles 9 de septiembre
  19.00 Palmeiras (BRA) - L.D.U. Quito (ECU)
+ Árbitro: Jesús Valenzuela (VEN)
+ Asistente 1: Jorge Urrego (VEN)
+ Asistente 2: Tulio Moreno (VEN)
+ Cuarto árbitro: Yender Herrera (VEN)
+ VAR: Juan Soto (VEN)
+ AVAR: Ángel Arteaga (VEN)
 21.30 Estudiantes LP (ARG) - Corinthians (BRA)
+ Árbitro: Esteban Ostojich (URU)
+ Asistente 1: Martín Soppi (URU)
+ Asistente 2: Pablo Llarena (URU)
+ Cuarto árbitro: Alberto Feres (URU)
+ VAR: Antonio García (URU)
+ AVAR: Santiago Fernández (URU)
 Jueves 10 de septiembre
  21.30 Independiente del Valle (ECU) - Flamengo (BRA)
+ Árbitro: Facundo Tello (ARG)
+ Asistente 1: Cristian Navarro (ARG)
+ Asistente 2: Gabriel Chade (ARG)
+ Cuarto árbitro: Leandro Rey (ARG)
+ VAR: Silvio Trucco (ARG)
+ AVAR: Lucas Novelli (ARG)
 Vuelta
 Martes 15 de septiembre
  19.00 Platense (ARG) - Fluminense (BRA)
@@ -1199,11 +1192,35 @@ CUARTOS DE FINAL
 Ida
 Martes 8 de septiembre
  19.00 Santa Fe (COL) - Vasco Da Gama (BRA)
-21.30 Boca Juniors (ARG) - San Pablo (BRA)
-Miércoles 9 de septiembre
+ Árbitro: Darío Herrera (ARG)
+ Asistente 1: Maximiliano Del Yesso (ARG)
+ Asistente 2: José Savorani (ARG)
+ Cuarto árbitro: Sebastián Martínez (ARG)
+ VAR: Hernán Mastrangelo (ARG)
+ AVAR: Salomé Di Iorio (ARG)
+ 21.30 Boca Juniors (ARG) - San Pablo (BRA)
+ Árbitro: Piero Maza (CHI)
+ Asistente 1: José Retamal (CHI)
+ Asistente 2: Miguel Rocha (CHI)
+ Cuarto árbitro: Diego Flores (CHI)
+ VAR: Fernando Vejar (CHI)
+ AVAR: Miguel Araos (CHI)
+ Miércoles 9 de septiembre
  19.00 Santos (BRA) - Atlético Mineiro (BRA)
-Jueves 10 de septiembre
+ Árbitro: Alexis Herrera (VEN)
+ Asistente 1: Antoni García (VEN)
+ Asistente 2: Paolo García (VEN)
+ Cuarto árbitro: Augusto Aragón (ECU)
+ VAR: Carlos Orbe (ECU)
+ AVAR: Byron Romero (ECU)
+ Jueves 10 de septiembre
  21.30 Cienciano (PER) - Montevideo City Torque (URU)
+ Árbitro: Wilton Sampaio (BRA)
+ Asistente 1: Danilo Manis (BRA)
+ Asistente 2: Bruno Boschilia (BRA)
+ Cuarto árbitro: Paulo Zanovelli (BRA)
+ VAR: Pablo Gonçalves (BRA)
+ AVAR: Diego Pombo (BRA)
 Vuelta
 Martes 15 de septiembre
  19.00 Vasco Da Gama (BRA) - Santa Fe (COL)
