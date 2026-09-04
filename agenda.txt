@@ -1,28 +1,6 @@
 25/03/2019
 Torneo Clausura 
 Fecha 8
-Viernes 4 de septiembre
- 16.45 Estudiantes (Río Cuarto) – Sarmiento (Zona B)
- Árbitro: Bryan Ferreyra
- Asistente 1: Damián Espinoza
- Asistente 2: Matías Bianchi
- Cuarto árbitro: Luis Martínez
- VAR: Franco Acita
- AVAR: Mauro Ramos Errasti
-19.00 Belgrano – Huracán (Zona B)
- Árbitro: Luis Lobo Medina
- Asistente 1: Federico Cano
- Asistente 2: Daniel Zamora
- Cuarto árbitro: Nelson Bejas
- VAR: Maximiliano Macheroni
- AVAR: Nelson Sosa
-19.00 Platense – Deportivo Riestra (Zona A)
- Árbitro: Álvaro Carranza
- Asistente 1: Cristian Navarro
- Asistente 2: Lucas Vázquez
- Cuarto árbitro: Maximiliano López Monti
- VAR: Fabrizio Llobet
- AVAR: Eduardo Lucero
 Sábado 5 de septiembre
  13.30 Aldosivi – Banfield (Zona B)
  Árbitro: Sebastián Martínez
@@ -365,11 +343,6 @@ Suspendidos
 FECHA 28
 Zona “A”
 Viernes 4 de septiembre
- Def. de Belgrano - Racing (Cba.), a las 15.30 horas 
- Árbitro: Lucas Comesaña
- Asistente 1: Andrés Barbieri
- Asistente 2: Diego Romero
- Cuarto árbitro: Damián Rubino
  Ferro Carril Oeste - Mitre (S.E.), a las 20.00 horas 
  Árbitro: Juan Pablo Loustau
  Asistente 1: Mario Bardina
@@ -782,12 +755,6 @@ Fecha 42
 Primera C
 Fecha 27
 Zona “A”
-Viernes 4 de septiembre
-Mercedes - Def. de Cambaceres, a las 19.00 horas
- Árbitro: Sebastián Milessi
- Asistente 1: Mario Vargas
- Asistente 2: Mariela Martino
- Cuarto árbitro: Fabrizio De La Cruz
  Sábado 5 de septiembre
 Rec. Español - Sacachispas F.C, a las 15.00 horas en Ituzaingó
  Árbitro: Mateo Bocaccia
@@ -821,12 +788,6 @@ Puerto Nuevo - Lugano, a las 15.00 horas
  Asistente 2: Valentino Gaillard
  Cuarto árbitro: Facundo Fuentes
  Zona “B”
-Viernes 4 de septiembre
-Yupanqui - Leones F.C, a las 15.00 horas 
- Árbitro: Gabriel Flores
- Asistente 1: Felipe Arrechea
- Asistente 2: Joaquín Fraga
- Cuarto árbitro: Nazareno Galeano
  Sábado 5 de septiembre
  Ctral. Córdoba (Ros.) - El Porvenir, a las 15.00 horas 
  Árbitro: Agustín Panizza
@@ -1015,9 +976,14 @@ Alumni Los Hornos - Uribelarrea F.C, a las 15.00 horas
 Copa Argentina 2026
 FASE FINAL – Cuartos de final
  Miércoles 9 de septiembre 
- Dep. Riestra - Banfield, a las 19.00 horas en el estadio de Temperley 
-(TV)
- Miércoles 16 de septiembre
+ Dep. Riestra - Banfield, a las 19.00 horas en el estadio de Temperley (TV)
+ Árbitro: Nicolás Ramírez
+ Árbitro asistente 1: Facundo Rodríguez
+ Árbitro asistente 2: Sebastián Raineri
+ Cuarto árbitro: Agustín Vegetti
+ VAR: Pablo Dovalo
+ AVAR: Javier Uziga
+Miércoles 16 de septiembre
  Sp. Independiente R. (Mza.) - At. Tucumán, a las 19.00 horas en Banfield 
 (TV)
 FASE FINAL – Final
@@ -1037,12 +1003,6 @@ Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciud
 Torneo Federal A 
 Fase Campeonato y Reválida 
  Fecha 7
-Viernes 4 de septiembre
-22.00 Juventud Antoniana (Salta) - Kimberley (Mar del Plata)
- Árbitro: Mauricio Exequiel Martín
- Árbitro asistente 1: José Daniel Ponce
- Árbitro asistente 2: Leila Romina Argañaraz
- Cuarto árbitro: Walter Augusto Cardozo
 Sábado 5 de septiembre
 16.00 Sarmiento (Resistencia) - Tucumán Central
  Árbitro: Franco Sebastián Rioja
@@ -1216,7 +1176,16 @@ Zona B – Reválida
  Círculo Deportivo vs. Germinal
  Guillermo Brown vs. FADEP
 Fútbol Femenino de Primera División A 
-POSTERGADO
+Sábado 5 de septiembre
+11.00 San Luis - Independiente, en Villa Deportiva San Luis
+11.00 Boca - Belgrano, en Casa Amarilla
+15.30 Lanús - Huracán, en Cancha 3 Polideportivo
+16.00 Talleres - Banfield, en Estadio
+Lunes 7 de septiembre
+15.00 Unión - SAT, en La Tatenguita
+ POSTERGADO
+Ferro - River
+ POSTERGADO
 Lanús - River (LPF PLAY)
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2026
