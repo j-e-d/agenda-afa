@@ -2,20 +2,6 @@
 Torneo Clausura 
 Fecha 8
 Sábado 5 de septiembre
-16.30 Gimnasia (Mza.) – Boca (Zona A)
- Árbitro: Darío Herrera
- Asistente 1: Facundo Rodríguez
- Asistente 2: Diego Martín
- Cuarto árbitro: Agustín Vegetti
- VAR: Silvio Trucco
- AVAR: Diego Romero
-19.00 San Lorenzo – Talleres (Zona A)
- Árbitro: Fernando Echenique
- Asistente 1: Agustín Méndez
- Asistente 2: Uriel García Leri
- Cuarto árbitro: Martín Despósito
- VAR: Sebastián Habib
- AVAR: Cristian Navarro
 21.15 Vélez – Estudiantes (Zona A)
  Árbitro: Pablo Dóvalo
  Asistente 1: Sebastián Raineri
@@ -328,22 +314,6 @@ Suspendidos
  Cuarto árbitro: Yamil Possi
 FECHA 28
 Zona “A”
- Sábado 5 de septiembre
-San Telmo - Los Andes, a las 15.00 horas 
- Árbitro: Gonzalo Pereira
- Asistente 1: Ariel Scime
- Asistente 2: Federico García
- Cuarto árbitro: Kevin Alegre
-Acassuso - All Boys, a las 15.30 horas 
- Árbitro: Joaquín Gil
- Asistente 1: Mauro Ramos Errasti
- Asistente 2: Juan Manuel González
- Cuarto árbitro: Valentín Bocaccia
-Colón - Dep. Morón, a las 17.00 horas 
- Árbitro: Javier Delbarba
- Asistente 1: Iván Núñez
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Leandro Billanueva
  Domingo 6 de septiembre
  San Miguel - Godoy Cruz, a las 15.00 horas 
  Árbitro: Maximiliano Macheroni
@@ -366,17 +336,6 @@ Ctral. Norte - Alte. Brown, a las 17.00 horas en estadio Padre E. Martearena
  Asistente 2: Belén Bevilacqua
  Cuarto árbitro: Nelson Bejas
 Zona “B” 
-Sábado 5 de septiembre
- Tristán Suarez - San Martín (T.), a las 15.00 horas
- Árbitro: Adrián Franklin
- Asistente 1: Maximiliano Castelli
- Asistente 2: Lucas Ripoli
- Cuarto árbitro: Jonathan Barrios
-Chacarita Juniors - Atlanta, a las 15.30 horas
- Árbitro: Sebastián Zunino
- Asistente 1: Maximiliano Del Yesso
- Asistente 2: Juan Ricciardi
- Cuarto árbitro: Ignacio Cuicchi
  Domingo 6 de septiembre
 Agropecuario Arg. - Atl. de Rafaela, a las 15.00 horas
  Árbitro: Federico Benítez
@@ -578,32 +537,6 @@ ZONA B
  ATLANTA - F.C. MIDLAND
 Primera B
 Fecha 34 
-Sábado 5 de septiembre
-Villa Dálmine - Arsenal F.C, a las 15.00 horas 
- Árbitro: Julián Jerez
- Asistente 1: Nicolás Gruccio
- Asistente 2: Cecilio Calcagno
- Cuarto árbitro: Agustín Flores
-San Martín (B.) - Dep. Armenio, a las 15.00 horas 
- Árbitro: Adrián Núñez Rodríguez
- Asistente 1: Maximiliano Benzoni
- Asistente 2: Heber Ibáñez Meza
- Cuarto árbitro: Iván Castelu Coca
-Sp. Italiano - Flandria, a las 15.00 horas
- Árbitro: Gabriel Gutiérrez
- Asistente 1: Rodrigo Arín
- Asistente 2: Julieta Fernández
- Cuarto árbitro: Damián Rubino
-Real Pilar F.C - Talleres (R.E.), a las 15.00 horas en estadio Municipal de Pilar
- Árbitro: Ariel Cruz
- Asistente 1: Hugo Hartung
- Asistente 2: Federico Zuvilivia
- Cuarto árbitro: Guido Mascheroni
- Dep. Merlo - Def. Unidos, a las 19.00 horas 
- Árbitro: Marcos Recalde
- Asistente 1: Hernán Antola
- Asistente 2: Tomás Otero
- Cuarto árbitro: David Cornejo
  Domingo 6 de septiembre
 Camioneros - Arg. de Quilmes, a las 13.00 horas
  Árbitro: Wenceslao Meneses
@@ -735,17 +668,6 @@ Fecha 42
 Primera C
 Fecha 27
 Zona “A”
- Sábado 5 de septiembre
-Rec. Español - Sacachispas F.C, a las 15.00 horas en Ituzaingó
- Árbitro: Mateo Bocaccia
- Asistente 1: Diego Fernández
- Asistente 2: Alejo Milone
- Cuarto árbitro: Iván Mastroieni
-Victoriano Arenas - Argentino (Ros.), a las 15.00 horas
- Árbitro: Iñaki Iparraguirre
- Asistente 1: Facundo Maldonado
- Asistente 2: Agustina Baleman
- Cuarto árbitro: Manuel Prieto
  Domingo 6 de septiembre
 Berazategui - Estrella del Sur, a las 11.00 horas
  Árbitro: Gonzalo Creimermann
@@ -768,12 +690,6 @@ Puerto Nuevo - Lugano, a las 15.00 horas
  Asistente 2: Valentino Gaillard
  Cuarto árbitro: Facundo Fuentes
  Zona “B”
- Sábado 5 de septiembre
- Ctral. Córdoba (Ros.) - El Porvenir, a las 15.00 horas 
- Árbitro: Agustín Panizza
- Asistente 1: Damián Alcaraz
- Asistente 2: Alexis Torales
- Cuarto árbitro: Nicolás Díaz
 Domingo 6 de septiembre
  Atlas - Gral. Lamadrid, a las 15.00 horas
  Árbitro: Alejandro Porticella
@@ -850,14 +766,6 @@ Berazategui C. Def. De Cambaceres
 Estrella Del Sur C. J. Unida
 Argentino (R.) C. Sacachispas F.C.
 Zona B
-Fecha 27 - 05/09/2026 
-Yupanqui C. Leones F.C.
-Atlas C. Gral. Lamadrid
-Cañuelas F.C. C. Luján
-Muñiz C. Sp. Barracas
-Dep. Español C. Fénix
-Ctral. Córdoba (R.) C. El Porvenir
-Claypole C. Ctral. Ballester
 Fecha 28 - 12/09/2026 
 Ctral. Córdoba (R.) C. Argentino (R.)
 Berazategui C. Atlas
@@ -908,12 +816,6 @@ Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
 Fecha 14 
 Zona “A”
-Sábado 5 de septiembre
-Provincial (Lobos) - Juv. de Bernal, a las 14.00 horas
- Árbitro: Franco Porotelli
- Asistente 1: Nahuel Martín
- Asistente 2: Santiago Araujo
- Cuarto árbitro: Rodrigo Amadeo
  Lunes 7 de septiembre
 Dep. Metalúrgico - Atl. Pilar, a las 15.00 horas
  Árbitro: Lautaro Díaz
@@ -983,12 +885,6 @@ Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciud
 Torneo Federal A 
 Fase Campeonato y Reválida 
  Fecha 7
-Sábado 5 de septiembre
-16.00 Sarmiento (Resistencia) - Tucumán Central
- Árbitro: Franco Sebastián Rioja
- Árbitro asistente 1: Jonatan Daniel Mapelli
- Árbitro asistente 2: Bruno Cejas
- Cuarto árbitro: Andrés Leonardo Franco
 Domingo 6 de septiembre
 11.30 FADEP (Mendoza) - Germinal (Trelew)
  Árbitro: Jonathan Daniel Correa
@@ -1067,12 +963,6 @@ Lunes 7 de septiembre
  Árbitro asistente 2: Franco Ezequiel Campos
  Cuarto árbitro: Melina Mariel Eizaguirre
 Zona B – Reválida
- 7ma. Fecha - 06.09.26
- Sol De América VS. Sp. Belgrano
- Mitre VS. G. Esgrima Ch
- Sarmiento Lb VS. 9 De Julio (Rafaela)
- Def. Belgrano (VM) VS. San Martín Fsa
- Libre: Douglas Haig
  8va. Fecha - 13.09.26
  San Martín Fsa VS. Sarmiento Lb
  9 De Julio (Rafaela) VS. Mitre
@@ -1085,12 +975,6 @@ Zona B – Reválida
  Mitre VS. San Martín Fsa
  Sarmiento Lb VS. Def. Belgrano (VM)
  Libre: Sp. Belgrano
- 7ma. Fecha - 06.09.26
- Huracan Lh VS. Argentino (MM)
- Juventud Antoniana VS. Kimberley
- Alvarado VS. Atenas
- Olimpo VS. Cipolletti
- Libre: Villa Mitre
  8va. Fecha - 13.09.26
  Cipolletti VS. Alvarado
  Atenas VS. Juventud Antoniana
@@ -1106,18 +990,6 @@ Zona B – Reválida
  ----------------------------------------
  Fase Reválida
  ZONA A
- 6.ª fecha – 30.08.26
- Libre: Def. Puerto Vilelas
- El Linqueño vs. Atl. Escobar
- G. Esgrima (CU) vs. Independiente (CH)
- Tucumán Central vs. Boca Unidos
- Sportivo (LP) vs. Sarmiento (Resistencia)
- 7.ª fecha – 06.09.26
- Libre: Sportivo (LP)
- Sarmiento (Resistencia) vs. Tucumán Central
- Boca Unidos vs. G. Esgrima (CU)
- Independiente (CH) vs. El Linqueño
- Atl. Escobar vs. Def. Puerto Vilelas
  8.ª fecha – 13.09.26
  Libre: Atl. Escobar
  Def. Puerto Vilelas vs. Independiente (CH)
@@ -1131,18 +1003,6 @@ Zona B – Reválida
  Boca Unidos vs. Def. Puerto Vilelas
  Independiente (CH) vs. Atl. Escobar
  ZONA B
- 6.ª fecha – 30.08.26
- Germinal vs. Rincón
- San Martín (M) vs. FADEP
- Sol de Mayo vs. Guillermo Brown
- Santamarina vs. Círculo Deportivo
- Costa Brava vs. J. U. Universitario
- 7.ª fecha – 06.09.26
- Rincón vs. Costa Brava
- J. U. Universitario vs. Santamarina
- Círculo Deportivo vs. Sol de Mayo
- Guillermo Brown vs. San Martín (M)
- FADEP vs. Germinal
  8.ª fecha – 13.09.26
  FADEP vs. Rincón
  Germinal vs. Guillermo Brown
@@ -1156,11 +1016,6 @@ Zona B – Reválida
  Círculo Deportivo vs. Germinal
  Guillermo Brown vs. FADEP
 Fútbol Femenino de Primera División A 
-Sábado 5 de septiembre
-11.00 San Luis - Independiente, en Villa Deportiva San Luis
-11.00 Boca - Belgrano, en Casa Amarilla
-15.30 Lanús - Huracán, en Cancha 3 Polideportivo
-16.00 Talleres - Banfield, en Estadio
 Lunes 7 de septiembre
 15.00 Unión - SAT, en La Tatenguita
  POSTERGADO
