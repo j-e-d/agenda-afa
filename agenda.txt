@@ -245,35 +245,6 @@ Final:
 en el Estadio Único Diego Armando Maradona - Tricampeones del Mundo, de la ciudad de La Plata
 Torneo Proyección Clausura
 Fecha 8
- Martes 8 de septiembre
- 15.00 Quilmes – Ferro (Zona B) – Predio
- Árbitro: Damián Parodi
- Asistente 1: Oscar Maidana
- Asistente 2: Nicolás Oviedo
- Cuarto Árbitro: Marcos Winer
- 15.00 Colón – Belgrano (Zona B) – Predio
- Árbitro: Fabricio De La Cruz
- Asistente 1: Tomás Pérez
- Asistente 2: Sofía Curto
- 15.00 Vélez – Gimnasia (Zona A) – Villa Olímpica
- Árbitro: Ignacio Domínguez
- Asistente 1: Nahuel Valdeon
- Asistente 2: Luciano Rodríguez
- Cuarto Árbitro: Nazareno Galeano
- 15.00 Racing – Argentinos (Zona A) – Tita Matiussi
- Árbitro: Manuel Prieto
- Asistente 1: Enzo Nell
- Asistente 2: Agustín Cellucci
- Cuarto Árbitro: Micaela Abelardo
- 15.00 Atlético de Rafaela – Independiente(Zona B) – Predio
- Árbitro: Franco Porotelli
- Asistente 1: Alexis Ramírez
- Asistente 2: Nahuel Martín
- 19.00 River – Aldosivi (Zona A) – River Camp
- Árbitro: Nicolás Díaz
- Asistente 1: Rodolfo Rodríguez
- Asistente 2: Daniel Alegre
- Cuarto Árbitro: Luca Centurión
  Miércoles 9 de septiembre
  15.00 Instituto – Sarmiento (Zona A) – La Agustina
  Árbitro: Eduardo Coyto
@@ -330,14 +301,83 @@ Fecha 8
  Asistente 1: Franco Chávez
  Asistente 2: Elías Mendoza
  Cuarto Árbitro: Rodrigo Amadeo
+Fecha 9
+ Martes 15 de septiembre
+ 15.00 Independiente – Colón (Zona B) – Villa Domínico
+ 15.00 Sarmiento – Racing (Zona A) – CAR
+ 15.00 Aldosivi – Vélez (Zona A) – Predio
+ 15.00 Defensa y Justicia – Central Córdoba (Zona B) – Campeones del Mundo
+ 15.00 Argentinos – River (Zona A) – CEFFA
+ Miércoles 16 de septiembre
+ 15.00 Gimnasia – San Lorenzo (Zona A) – Estancia Chica
+ 15.00 Huracán – Quilmes (Zona B) – La Quemita
+ 15.00 Ferro – Platense (Zona B) – Pontevedra
+ 15.00 Atlético Tucumán – Rosario Central (Zona A) – José Salmoiraghi
+ 15.00 Unión – Tigre (Zona A) – La Tatenguita
+ 15.00 Lanús – Ind. Rivadavia Mza. (Zona B) – Auxiliar
+ 15.00 Gimnasia (Mza.) – Talleres (Zona A) – Predio
+ Jueves 17 de septiembre
+ 15.00 Newell’s – San Martín (SJ) (Zona B) – Predio
+ 15.00 Godoy Cruz – Banfield (Zona B) – Coquimbito
+ 15.00 Belgrano – Deportivo Riestra (Zona B) – Predio
+ 15.00 Estudiantes (Rio IV) – Estudiantes (Zona B) – Ciudad Deportivo
+ 15.00 Barracas Central – Instituto (Zona A) – AEFIP
+ 19.00 Boca – Atlético de Rafaela (Zona B) – Boca Predio
+Fecha 10 – Interzonal
+ Martes 22 de septiembre
+ 15.00 Vélez – Ferro – Villa Olímpica
+ 15.00 San Lorenzo – Huracán – Auxiliar
+ 19.00 Central Córdoba – Atlético Tucumán – Alfredo Terrera
+ Miércoles 23 de septiembre
+ 15.00 Defensa y Justicia – Tigre – Campeones del Mundo
+ 15.00 Sarmiento – Atlético de Rafaela – CAR
+ 15.00 Lanús – Banfield – Auxiliar del estadio
+ 15.00 Gimnasia – Estudiantes – Estancia Chica
+ 15.00 Aldosivi – Quilmes – Predio
+ 19.00 Belgrano – Talleres – Estadio Julio Villagra
+ Jueves 24 de septiembre
+ 15.00 Newell’s – Rosario Central – Marcelo Bielsa
+ 15.00 Ind. Rivadavia Mza. – Gimnasia (Mza.) – Ciudad Deportiva
+ 15.00 Argentinos – Platense – CEFFA
+ 15.00 Instituto – Estudiantes (Río IV) – La Agustina
+ 15.00 Deportivo Riestra – Barracas Central – Speed Camp
+ 19.00 Racing – Independiente – Estadio Presidente Perón
+ Viernes 25 de septiembre
+ 15.00 San Martín (SJ) – Godoy Cruz – Predio
+ 15.00 Colón – Unión – Predio
+ 19.00 River – Boca – River Camp
+Fecha 11
+ Martes 29 de septiembre
+ 15.00 Atlético de Rafaela – Ferro (Zona B) – Predio
+ 15.00 San Lorenzo – Aldosivi (Zona A) – Auxiliar del estadio
+ 15.00 Estudiantes – Defensa y Justicia (Zona B) – Country City Bell
+ 15.00 Banfield – Atlético Tucumán (Zona A) – Predio
+ 15.00 Tigre – Gimnasia (Zona A) – Predio
+ Miércoles 30 de septiembre
+ 15.00 Instituto – Racing (Zona A) – La Agustina
+ 15.00 Quilmes – Estudiantes (Rio Iv) (Zona B) – Predio
+ 15.00 Ind. Rivadavia Mza. – Belgrano (Zona B) – Ciudad Deportiva
+ 15.00 Platense – Huracán (Zona B) – Predio
+ 15.00 Rosario Central – Unión (Zona A) – Arroyo Seco
+ 19.00 Central Córdoba – Newell’s (Zona B) – Alfredo Terrera
+ Jueves 1° de octubre
+ 15.00 Vélez – Argentinos (Zona A) – Villa Olímpica
+ 15.00 Colón – Deportivo Riestra (Zona B) – Predio
+ 15.00 San Martín (SJ) – Lanús (Zona B) – Predio
+ 15.00 Barracas Central – Gimnasia (Mza.) (Zona A) – AEFIP
+ 15.00 Independiente – Boca (Zona A) – Villa Domínico
+ 17.00 Talleres – Godoy Cruz (Zona A) – La Boutique
+ 19.00 River – Sarmiento (Zona A) – River Camp
 Primera Nacional
-Suspendidos
- Defensores de Belgrano - Los Andes
+Fecha 21
+Miércoles 9 de septiembre
+ 15.30 Defensores de Belgrano - Los Andes
  Árbitro: Fabrizio Llobet
  Asistente 1: Maximiliano Castelli
  Asistente 2: Marcelo Bistocco
  Cuarto árbitro: Ezequiel Billone
- San Martín (SJ) - Tristán Suárez
+Miércoles 16 de septiembre
+15.00 San Martín (SJ) - Tristán Suárez
  Árbitro: Maxi Macheroni
  Asistente 1: Eduardo Lucero
  Asistente 2: Cristian Herrera
@@ -995,10 +1035,25 @@ Zona B – Reválida
  Círculo Deportivo vs. Germinal
  Guillermo Brown vs. FADEP
 Fútbol Femenino de Primera División A 
- POSTERGADO
-Ferro - River
+ Fecha 5
  POSTERGADO
 Lanús - River (LPF PLAY)
+Fecha 7
+ POSTERGADO
+Ferro - River
+FECHA 8
+Viernes 11 de septiembre
+15.00 Independiente – Lanús, en Predio Santo Domingo (LPF PLAY)
+15.00 Belgrano – Ferro, en Predio CIFD Armando Perez (LPF PLAY)
+15.30 Banfield - San Lorenzo, en Campo de deportes (LPF PLAY)
+Sábado 12 de septiembre
+11.00 Huracán – Boca, en La Quemita (LPF PLAY)
+14.00 GELP – Racing, en Predio El Bosquecito (LPF PLAY)
+15.00 Unión - San Luis, en La Tatenguita (LPF PLAY)
+Domingo 13 de septiembre
+10.00 SAT – NOB, en Estadio (LPF PLAY)
+Postergado
+River - Talleres
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2026
 Calendario 
@@ -1186,7 +1241,9 @@ El torneo se disputará en Venezuela del 12 al 20 de septiembre, en la Ciudad de
  Todas las fases se jugarán a una sola rueda de partidos. La fase preliminar la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
  Clasificarán para la semifinal, los equipos que ocupen las dos primeras posiciones en cada grupo. Los demás equipos de cada grupo disputarán las posiciones del 5º al 9º puesto (los terceros disputan el 5º puesto, los cuartos disputan el 7º puesto y los quintos disputan el 9º puesto).
 Finalissima Futsal 2026
-Se jugará del 5 al 8 de noviembre de 2026.
+Brasil y Argentina, finalistas de la última CONMEBOL Copa América Futsal, representarán a Sudamérica, mientras que España y Portugal, finalistas de la UEFA Futsal EURO, serán los representantes europeos.
+ La segunda edición de la CONMEBOL UEFA Finalissima Futsal se disputará del 6 al 8 de noviembre de 2026 en la Arena Niterói, en Niterói, Brasil, y reunirá a cuatro de las principales selecciones del futsal mundial
+ El formato de competencia y los horarios de los partidos aún no fueron anunciados.
 CONMEBOL Libertadores de Futsal 
 CONMEBOL Libertadores Futsal Femenina 2026
 Se jugará del 26 de julio al 2 de agosto de 2026.
