@@ -2,20 +2,6 @@
 Torneo Clausura 
 Fecha 9
 Sábado 12 de septiembre
- 14.45 Ind. Rivadavia Mza. – Aldosivi (Zona B) 
- Árbitro: Darío Herrera
- Árbitro asistente 1: Miguel Savorani
- Árbitro asistente 2: Matías Balmaceda
- Cuarto árbitro: Ulises Jerónimo
- VAR: Germán Delfino
- AVAR: Diego Verlota
-14.45 Estudiantes – Platense (Zona A) 
- Árbitro: Maximiliano Macheroni
- Árbitro asistente 1: Diego Martín
- Árbitro asistente 2: Hugo Páez
- Cuarto árbitro: Lucas Comesaña
- VAR: Héctor Paletta
- AVAR: Jorge Broggi
 17.30 Atlético Tucumán – River (Zona B) 
  Árbitro: Andrés Gariano
  Árbitro asistente 1: Pablo González
@@ -298,37 +284,6 @@ Miércoles 16 de septiembre
  Asistente 2: Cristian Herrera
  Cuarto árbitro: Yamil Possi
 FECHA 29
-Sábado 12 de septiembre
-15.00 Atlanta – Güemes (S.E.)
- Árbitro: Juan Pablo Loustau
- Asistente 1: Erik Grukmann
- Asistente 2: Iván Aliende
- Cuarto árbitro: Julián Jerez
-15.00 Colegiales – Nueva Chicago
- Árbitro: Franco Acita
- Asistente 1: Nahuel Rasullo
- Asistente 2: Mariano Cichetto
- Cuarto árbitro: Gabriel Gutiérrez
-15.30 All Boys – San Telmo
- Árbitro: Brian Ferreyra
- Asistente 1: Matías Bianchi
- Asistente 2: Cristian Herrera
- Cuarto árbitro: Gastón Iglesias
-15.30 Almagro – Deportivo Maipú (Mza.)
- Árbitro: Wenceslao Meneses
- Asistente 1: Ariel Scime
- Asistente 2: Juan Manuel González
- Cuarto árbitro: Marcos Recalde
-16.00 Ciudad de Bolívar – Central Norte (S.)
- Árbitro: Gastón Monsón Brizuela
- Asistente 1: Eduardo Lucero
- Asistente 2: Malvina Schiell
- Cuarto árbitro: Valentín Pompei
-17.00 Quilmes A.C. – San Martín (S.J.)
- Árbitro: Adrián Franklin
- Asistente 1: Lucas Ripoli
- Asistente 2: Ramón Ortiz
- Cuarto árbitro: Iván Mastroieni
 Domingo 13 de septiembre
 15.00 Los Andes – San Miguel
  Árbitro: Pablo Giménez
@@ -531,36 +486,6 @@ ZONA B
 Primera B
 Fecha 35 
 Sábado 12 de septiembre
-15.00 Defensores Unidos – Sportivo Dock Sud
- Árbitro: Gonzalo Creimermann
- Asistente 1: Diego Molina
- Asistente 2: Mariela Martino
- Cuarto árbitro: Nicolás Kresta
-15.00 Deportivo Armenio – Sportivo Italiano
- Árbitro: Maximiliano López Monti
- Asistente 1: Damián Orellana
- Asistente 2: Federico Josa
- Cuarto árbitro: Lucas Brumer
-15.00 Deportivo Laferrere – Villa San Carlos
- Árbitro: Jonathan Barrios
- Asistente 1: Ángel Rebuscini
- Asistente 2: Berenice Ávaro
- Cuarto árbitro: Gonzalo Correa
-15.00 Talleres (R.E.) – Liniers
- Árbitro: Martín Despósito
- Asistente 1: Diego Fernández
- Asistente 2: Felipe Arrechea
- Cuarto árbitro: Kevin Alegre
-15.00 Arsenal F.C. – UAI Urquiza
- Árbitro: Ignacio Cuicchi
- Asistente 1: Damián Olivetto
- Asistente 2: Juan Manuel Díaz
- Cuarto árbitro: Damián Rubino
-16.00 Brown (Adrogué) – San Martín (B.)
- Árbitro: Sebastián Bresba
- Asistente 1: Diego Romero
- Asistente 2: Maximiliano Montenegro
- Cuarto árbitro: Rodrigo Villalba
 20.00 Excursionistas – Villa Dálmine
  Árbitro: Mariano Negrete
  Asistente 1: Nahuel Santanocito
@@ -663,47 +588,6 @@ Fecha 42
  Flandria - Dep. Armenio
 Primera C
 Fecha 28 
-Sábado 12 de septiembre
-15.00 Berazategui – Atlas
- Árbitro: Iván Castelu Coca
- Asistente 1: Lucas Monsalvo
- Asistente 2: Tomás Otero
- Cuarto árbitro: Manuel Prieto
-15.00 Cañuelas F.C. – Victoriano Arenas
- Árbitro: David Cornejo
- Asistente 1: Matías Noli
- Asistente 2: Alejo Milone
- Cuarto árbitro: Sebastián Milessi
-15.00 Lugano – Leones F.C.
- Árbitro: Guido Mascheroni
- Asistente 1: Heber Ibáñez Meza
- Asistente 2: Lucas García
- Cuarto árbitro: Martín Morenza
-15.00 Central Ballester – Puerto Nuevo
- Árbitro: Agustín Panizza
- Asistente 1: Nicolás Cavagnaro
- Asistente 2: Mauro Soria
- Cuarto árbitro: Micaela Abelardo
-15.00 Juventud Unida – El Porvenir
- Árbitro: Matías Ansede
- Asistente 1: Leandro Idio
- Asistente 2: Franco Chávez
- Cuarto árbitro: Valentín Ibáñez Meza
-15.00 Estrella del Sur – Yupanqui
- Árbitro: Ulises López
- Asistente 1: Cristian Rodríguez
- Asistente 2: Sergio Benítez
- Cuarto árbitro: Pablo Gómez
-15.00 Luján – Deportivo Paraguayo
- Árbitro: Ariadna Palacios
- Asistente 1: Leandro Carril
- Asistente 2: Rodolfo Rodríguez
- Cuarto árbitro: Eduardo Coyto
-15.00 Muñiz – L.N. Alem
- Árbitro: Antonella Álvarez
- Asistente 1: Facundo Maldonado
- Asistente 2: Martín Núñez
- Cuarto árbitro: Leonardo Cristaldo
 Domingo 13 de septiembre
 15.00 Central Córdoba (R.) – Argentino (R.)
  Árbitro: Mateo Bocaccia
@@ -813,13 +697,6 @@ Cañuelas F.C. C. Ctral. Ballester
 Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
-PROMOCIONAL FINAL - 1ER PARTIDO
-Sábado 12 de septiembre
- Barrancas - SAT
- Árbitro: Facundo Fuentes
- Asistente 1: Valentino Gaillard
- Asistente 2: Sebastián Krojzl
- Cuarto árbitro: Damián Parodi
 PROMOCIONAL REDUCIDO - 1ROS PARTIDOS
 Lunes 14 de septiembre
 14.00 Buenos Aires City – Defensores de Glew
@@ -1016,10 +893,6 @@ Fecha 7
  POSTERGADO
 Ferro - River
 FECHA 8
-Sábado 12 de septiembre
-11.00 Huracán – Boca, en La Quemita (LPF PLAY)
-14.00 GELP – Racing, en Predio El Bosquecito (LPF PLAY)
-15.00 Unión - San Luis, en La Tatenguita (LPF PLAY)
 Domingo 13 de septiembre
 10.00 SAT – NOB, en Estadio (LPF PLAY)
 Postergado
