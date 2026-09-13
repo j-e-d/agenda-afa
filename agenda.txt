@@ -2,28 +2,7 @@
 Torneo Clausura 
 Fecha 9
 Domingo 13 de septiembre
- 14.45 Sarmiento – Belgrano (Zona B) 
- Árbitro: Felipe Viola
- Árbitro asistente 1: Sebastián Raineri
- Árbitro asistente 2: Marcos Horticolou
- Cuarto árbitro: Kevin Bustos
- VAR: Juan Pablo Loustau
- AVAR: Diego Romero
-14.45 Tigre – Rosario Central (Zona B) 
- Árbitro: Andrés Merlos
- Árbitro asistente 1: Facundo Rodríguez
- Árbitro asistente 2: Carlos Viglietti
- Cuarto árbitro: Julián Jerez
- VAR: Gastón Monsón Brizuela
- AVAR: Julio Fernández
-17.00 Argentinos – Gimnasia (Zona B) 
- Árbitro: Sebastián Martínez
- Árbitro asistente 1: Diego Bonfá
- Árbitro asistente 2: Lucas Pardo
- Cuarto árbitro: Gabriel Gutiérrez
- VAR: Sebastián Habib
- AVAR: Mariana De Almeida
-19.15 Independiente – San Lorenzo (Zona A) 
+ 19.15 Independiente – San Lorenzo (Zona A) 
  Árbitro: Facundo Tello
  Árbitro asistente 1: Gabriel Chade
  Árbitro asistente 2: Iván Núñez
@@ -269,57 +248,6 @@ Miércoles 16 de septiembre
  Asistente 2: Cristian Herrera
  Cuarto árbitro: Yamil Possi
 FECHA 29
-Domingo 13 de septiembre
-15.00 Los Andes – San Miguel
- Árbitro: Pablo Giménez
- Asistente 1: Mariano Ascenzi
- Asistente 2: Gonzalo Roldán
- Cuarto árbitro: Luis Martínez
-15.30 Estudiantes – Acassuso
- Árbitro: Daniel Zamora
- Asistente 1: Juan Pablo Millenaar
- Asistente 2: Hugo Hartung
- Cuarto árbitro: Juan Ferreyra
-15.30 Almirante Brown – Ferro Carril Oeste
- Árbitro: Federico Benítez
- Asistente 1: Juan Del Fueyo
- Asistente 2: Sebastián Pumetti
- Cuarto árbitro: Adrián Núñez Rodríguez
-15.30 Patronato (P.) – Temperley
- Árbitro: Bruno Amiconi
- Asistente 1: Marcelo Bistocco
- Asistente 2: Walter Ferreyra
- Cuarto árbitro: Marcelo Sanz
-16.00 Mitre (S.E.) – Chaco For Ever
- Árbitro: Matías Billone
- Asistente 1: Gonzalo Ferrari
- Asistente 2: Matías Coria
- Cuarto árbitro: César Ceballos
-16.00 Racing (Cba.) – Deportivo Morón
- Árbitro: Maximiliano Manduca
- Asistente 1: Mauro Ramos Errasti
- Asistente 2: Daniel Zamora
- Cuarto árbitro: Laurato Castagnola
-16.00 Gimnasia y Esgrima (J.) – Atlético de Rafaela
- Árbitro: Lucas Cavallero
- Asistente 1: Mariano Viale
- Asistente 2: Matías González
- Cuarto árbitro: Emanuel Ejarque
-16.30 F.C. Midland – Chacarita Jrs.
- Árbitro: Juan Cruz Robledo
- Asistente 1: Gerardo Lencina
- Asistente 2: Andrés Barbieri
- Cuarto árbitro: Julián Beligoy
-18.00 Godoy Cruz (Mza.) – Colón
- Árbitro: Fernando Echenique
- Asistente 1: Marcelo Errante
- Asistente 2: Hernán Vallejos
- Cuarto árbitro: Federico Guaymas
-18.30 San Martín (T.) – Agropecuario Arg.
- Árbitro: Fabrizio Llobet
- Asistente 1: Pascual Fernández
- Asistente 2: Martín Saccone
- Cuarto árbitro: Facundo Rojo Casal
 Lunes 14 de septiembre
 15.30 Defensores de Belgrano – Deportivo Madryn
  Árbitro: Gonzalo Pereira
@@ -469,18 +397,6 @@ ZONA B
  G. Y TIRO (S.) - QUILMES A.C.
  ATLANTA - F.C. MIDLAND
 Primera B
-Fecha 35 
-Domingo 13 de septiembre
-15.00 Argentino de Quilmes – Deportivo Merlo
- Árbitro: Leandro Fedele
- Asistente 1: Ramiro Ortiz Biondi
- Asistente 2: Carlos Suárez
- Cuarto árbitro: Iván Mastroieni
-15.00 Flandria – Camioneros
- Árbitro: Ariel Cruz
- Asistente 1: Hernán Antola
- Asistente 2: Cristian Amarilla
- Cuarto árbitro: Marcos Recalde
 Fecha 36
  Villa Dálmine - Ituzaingó 
  UAI Urquiza - Excursionistas 
@@ -567,23 +483,7 @@ Fecha 42
  Flandria - Dep. Armenio
 Primera C
 Fecha 28 
-Domingo 13 de septiembre
-15.00 Central Córdoba (R.) – Argentino (R.)
- Árbitro: Mateo Bocaccia
- Asistente 1: Jonathan Florentín
- Asistente 2: Marcos Pueyo
- Cuarto árbitro: Valentín Pérsico
-15.00 Defensores de Cambaceres – Sportivo Barracas
- Árbitro: Gabriel Flores
- Asistente 1: Gonzalo Cubillas
- Asistente 2: Nahuel Martín
- Cuarto árbitro: Nicolás Díaz
-15.00 J.J. de Urquiza – General Lamadrid
- Árbitro: Agustín Flores
- Asistente 1: Matías Vargas
- Asistente 2: Luciano Cabral
- Cuarto árbitro: Tomás Aybar
-Lunes 14 de septiembre
+ Lunes 14 de septiembre
 15.00 Fénix – Centro Recreativo Español
  Árbitro: Iñaki Iparraguirre
  Asistente 1: Roberto Rodríguez
@@ -728,89 +628,6 @@ Trofeo de Campeones 2026
 Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciudad de Córdoba. 
 Torneo Federal A 
 Fase Campeonato y Reválida 
- Fecha 8: 
-Domingo 13 de septiembre
-11.00 Santamarina - At. Costa Brava
-Árbitro: Marcos Ignacio Liuzzi
-Asistente 1: Darío M. Rojas Martinez
-Asistente 2: Nicolás Darío Moreno
-Cuarto árbitro: Karim Doussouk
-11.30 Fadep Mza - Dep Rincón
-Árbitro: José Manuel Díaz
-Asistente 1: Juan Ignacio Flores Roig
-Asistente 2: Federico Hernán Ojeda
-Cuarto árbitro: Denis Emanuel Chávez
-15.00 Kimberley MDQ - Huracán L.Heras
-Árbitro: Diego Saúl Novelli
-Asistente 1: Lautaro Manuel Paletta
-Asistente 2: Fernando Zabalza
-Cuarto árbitro: Sergio Hernán Monzón
-15.00 Tucumán Ctral - Sportivo At.
-Árbitro: Maximiliano Gabriel Silcan Jerez
-Asistente 1: Exequiel Augusto Agüero
-Asistente 2: Fernando Alberto Ruarte
-Cuarto árbitro: Juan Esteban Pereyra
-15.30 Cipolletti - Alvarado
-Árbitro: Leandro Andrés Sosa Abrile
-Asistente 1: Emanuel José Serale
-Asistente 2: Marcos David Guzmán
-Cuarto árbitro: Enzo Damián Gutiérrez
-15.30 G. y Esgrima CU - Sarmiento Rcia.
-Árbitro: Juan Ignacio Nebbietti
-Asistente 1: Martín Daniel Nardelli
-Asistente 2: Leonel Matías Suárez
-Cuarto árbitro: Patricio Jesús Destefano
-15.30 Germinal - Guillermo Brown
-Árbitro: Franco David Morón
-Asistente 1: Danilo Ariel Viola
-Asistente 2: Rodrigo Moreno
-Cuarto árbitro: Lautaro Ezequiel Carro
-15.30 Def de Vilelas - Independiente (CHI)
-Árbitro: Francisco Martín Acosta
-Asistente 1: Emilio José Maguna
-Asistente 2: Néstor Fabián Cáceres
-Cuarto árbitro: Alex Zerda
-15.45 Argentino P - Villa Mitre
-Árbitro: Guillermo Adrián González
-Asistente 1: Hugo Fleitas
-Asistente 2: Rodrigo Edgardo López
-Cuarto árbitro: Jonatan Daniel Mapelli
-16.00 San Martín F. - Sarmiento Sgo.
-Árbitro: Leonardo Enmanuel Billanueva
-Asistente 1: Nicolás Matías Sosa
-Asistente 2: Mariana Beatriz Duré
-Cuarto árbitro: Andrés Leonardo Franco
-16.00 Sp. Belgrano - Douglas Haig
-Árbitro: Mauricio Exequiel Martín
-Asistente 1: José Daniel Ponce
-Asistente 2: Leila Romina Argañaraz
-Cuarto árbitro: Rodrigo Ballestero
-16.00 El Linqueño - Boca Unidos
-Árbitro: Fernando Omar Marcos
-Asistente 1: Emiliano Nicolás Bustos
-Asistente 2: Felipe Zonco
-Cuarto árbitro: Alejo Cid
-16.00 Sol de Mayo - J.U. Universitario
-Árbitro: Jorge David Etem
-Asistente 1: Iván Adriel Araya Quintero
-Asistente 2: Matías Ariel Fernández Zapata
-Cuarto árbitro: Diego Maximiliano Álvarez
-16.00 At. C. San Martín - Círculo Deportivo
-Árbitro: Fernando Jesús Rekers
-Asistente 1: Guillermo Yacante
-Asistente 2: Cristian Thomas Pasquettin
-Cuarto árbitro: Evelyn Romina Luján
-16.30 Atenas RC - Juv Antoniana
-Árbitro: José Darío Sandoval
-Asistente 1: Guido Córdoba
-Asistente 2: Rodrigo Lezcano Garcilano
-Cuarto árbitro: Alexis Gabriel Caisso
-17.00 Nueve de Julio - Mitre Posadas
-Árbitro: Agustín Vegetti
-Asistente 1: Pablo Alberto Ramírez
-Asistente 2: Bruno Cejas
-Cuarto árbitro: Franco Ezequiel Campos
-Libres: Def. Belgrano V.R., Olimpo y Escobar FC
 Zona B – Reválida
  8va. Fecha - 13.09.26
  San Martín Fsa VS. Sarmiento Lb
@@ -872,8 +689,6 @@ Fecha 7
  POSTERGADO
 Ferro - River
 FECHA 8
-Domingo 13 de septiembre
-10.00 SAT – NOB, en Estadio (LPF PLAY)
 Postergado
 River - Talleres
 Torneo Femenino de Primera B
