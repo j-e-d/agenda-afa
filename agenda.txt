@@ -3,23 +3,113 @@ Torneo Clausura
 Fecha 10
 Viernes 18 de septiembre
  18.00 Central Córdoba – Defensa y Justicia (Zona A)
- 21.15 Racing – Sarmiento (Zona B)
+ Árbitro: Pablo Echavarría
+ Árbitro asistente 1: Federico Cano
+ Árbitro asistente 2: Joaquin Badano
+ Cuarto árbitro: Emanuel Ejarque
+ VAR: Fernando Espinoza
+ AVAR: Guido Mascheroni
+ 21.15 Racing – Sarmiento (Zona B) 
+ Árbitro: Leandro Rey Hilfer
+ Árbitro asistente 1: Pablo Gualtieri
+ Árbitro asistente 2: Walter Ferreyra
+ Cuarto árbitro: Cristian Cernadas
+ VAR: Salomé Di Iorio
+ AVAR: Gastón Suárez
 Sábado 19 de septiembre
- 14.30 Gimnasia – Banfield (Zona B)
- 14.30 Gimnasia (Mza.) – Deportivo Riestra (Zona A)
- 16.45 Unión – Independiente (Zona A)
- 19.00 River – Huracán (Zona B)
- 21.15 Instituto – Talleres (Zona A)
+ 14.30 Gimnasia – Banfield (Zona B) 
+ Árbitro: Jorge Baliño
+ Árbitro asistente 1: Pablo Acevedo
+ Árbitro asistente 2: Hugo Páez
+ Cuarto árbitro: Lucas Comesaña
+ VAR: José Carreras
+ AVAR: Pablo Giménez
+ 14.30 Gimnasia (Mza.) – Deportivo Riestra (Zona A) 
+ Árbitro: Andrés Gariano
+ Árbitro asistente 1: José Castelli
+ Árbitro asistente 2: Mauro Ramos Errasti
+ Cuarto árbitro: Pablo Núñez
+ VAR: Germán Delfino
+ AVAR: Javier Delbarba
+ 16.45 Unión – Independiente (Zona A) 
+ Árbitro: Luis Lobo Medina
+ Árbitro asistente 1: Juan Del Fueyo
+ Árbitro asistente 2: Lucas Ripoli
+ Cuarto árbitro: Darío Sandoval
+ VAR: Gastón Monsón Brizuela
+ AVAR: Iván Núñez
+ 19.00 River – Huracán (Zona B) 
+ Árbitro: Facundo Tello
+ Árbitro asistente 1: Facundo Rodríguez
+ Árbitro asistente 2: Ernesto Callegari
+ Cuarto árbitro: Agustín Vegetti
+ VAR: Fernando Echenique
+ AVAR: Diego Romero
+ 21.15 Instituto – Talleres (Zona A) 
+ Árbitro: Darío Herrera
+ Árbitro asistente 1: Gabriel Chade
+ Árbitro asistente 2: Diego Martin
+ Cuarto árbitro: Joaquin Gil
+ VAR: Héctor Paletta
+ AVAR: Mariano Ascensi
 Domingo 20 de septiembre
- 14.45 San Lorenzo – Boca (Zona A)
- 17.00 Rosario Central – Argentinos (Zona B)
- 17.00 Platense – Newell’s (Zona A)
- 19.15 Belgrano – Estudiantes (Río Cuarto) (Zona B)
- 21.30 Vélez – Tigre (Interzonal)
+ 14.45 San Lorenzo – Boca (Zona A) 
+ Árbitro: Nazareno Arasa
+ Árbitro asistente 1: Juan Pablo Belatti
+ Árbitro asistente 2: Miguel Savorani
+ Cuarto árbitro: Pablo Giménez
+ VAR: Hernán Mastrángelo
+ AVAR: Diego Verlota
+ 17.00 Rosario Central – Argentinos (Zona B) 
+ Árbitro: Pablo Dóvalo
+ Árbitro asistente 1: Adrián Delbarba
+ Árbitro asistente 2: Matías Balmaceda
+ Cuarto árbitro: Ariel Cruz
+ VAR: Lucas Novelli
+ AVAR: Carlos Córdoba
+ 17.00 Platense – Newell’s (Zona A) 
+ Árbitro: Sebastián Martínez
+ Árbitro asistente 1: Sebastián Raineri
+ Árbitro asistente 2: Agustín Méndez
+ Cuarto árbitro: Javier Delbarba
+ VAR: Adrián Franklin
+ AVAR: Carla López
+ 19.15 Belgrano – Estudiantes (Río Cuarto) (Zona B) 
+ Árbitro: Andrés Merlos
+ Árbitro asistente 1: Pablo González
+ Árbitro asistente 2: Carlos Viglietti
+ Cuarto árbitro: Luis Martínez
+ VAR: Nahuel Viñas
+ AVAR: Javier Uziga
+ 21.30 Vélez – Tigre (Interzonal) 
+ Árbitro: Yael Falcón Pérez
+ Árbitro asistente 1: Diego Bonfa
+ Árbitro asistente 2: Eric Grunmann
+ Cuarto árbitro: Iñaki Iparraguirre
+ VAR: Yamil Possi
+ AVAR: Joaquin Gil
 Lunes 21 de septiembre
- 14.30 Aldosivi – Atlético Tucumán (Zona B)
- 19.00 Barracas Central – Ind. Rivadavia Mza. (Zona B)
- 21.15 Lanús – Estudiantes (Zona A)
+ 14.30 Aldosivi – Atlético Tucumán (Zona B) 
+ Árbitro: Sebastián Zunino
+ Árbitro asistente 1: Cristian Navarro
+ Árbitro asistente 2: Andrés Barbieri
+ Cuarto árbitro: Kevin Bustos
+ VAR: Sebastián Habib
+ AVAR: Mariana De Almeida
+ 19.00 Barracas Central – Ind. Rivadavia Mza. (Zona B) 
+ Árbitro: Nicolás Lamolina
+ Árbitro asistente 1: Maximiliano Del Yesso
+ Árbitro asistente 2: Ramón Ortiz
+ Cuarto árbitro: Gastón Iglesias
+ VAR: Silvio Trucco
+ AVAR: Matías Billone
+ 21.15 Lanús – Estudiantes (Zona A) 
+ Árbitro: Nicolás Ramírez
+ Árbitro asistente 1: Juan Mamani
+ Árbitro asistente 2: Iván Aliende
+ Cuarto árbitro: Leandro Fedele
+ VAR: Sebastián Bresba
+ AVAR: Lucas Germanotta
 Fecha 11
 Viernes 2 de octubre
  19.15 Independiente – Instituto (Zona A)
@@ -136,30 +226,6 @@ Final:
 en el Estadio Único Diego Armando Maradona - Tricampeones del Mundo, de la ciudad de La Plata
 Torneo Proyección Clausura
 Fecha 9
-Martes 15 de septiembre
-15.00 Independiente – Colón (Zona B) – Villa Domínico
-Árbitro: Franco Gutierre
-Árbitro asistente 1: Sebastián Krojzl
-Árbitro asistente 2: Rodrigo Díaz
-Cuarto Árbitro: Juan Ferreyra
-15.00 Sarmiento – Racing (Zona A) – estadio Eva Perón
-Árbitro: Nazareno Galeano
-Árbitro asistente1: Nicolás Cavagnaro
-Árbitro asistente 2: Gabriel Pérez
-15.00 Aldosivi – Vélez (Zona A) – Predio
-Árbitro: Ariadna Palacios
-Árbitro asistente 1: Matías Chena
-Árbitro asistente 2: Agustín Fischetti
-15.00 Defensa y Justicia – Central Córdoba (Zona B) – Campeones del Mundo
-Árbitro: Valentín Ibáñez Mesa
-Árbitro asistente 1: Oscar Maidana
-Árbitro asistente 2: Santiago Araujo
-Cuarto Árbitro: Valentino Oldani
-15.00 Argentinos – River (Zona A) – CEFFA
-Árbitro: Sebastián Milessi
-Árbitro asistente 1: Christian Rodríguez
-Árbitro asistente 2: Cristian Camacho
-Cuarto Árbitro: Pablo Gómez
 Miércoles 16 de septiembre
 15.00 Gimnasia – San Lorenzo (Zona A) – Estancia Chica
 Árbitro: Damián Parodi
@@ -275,17 +341,104 @@ Miércoles 16 de septiembre
  Asistente 1: Eduardo Lucero
  Asistente 2: Cristian Herrera
  Cuarto árbitro: Yamil Possi
-ZONA A
- Fecha 30 
- DEP. MADRYN - RACING (CBA.)
- CTRAL. NORTE (S.) - DEF. DE BELGRANO
- FERRO CARRIL OESTE - CDAD. DE BOLÍVAR
- CHACO FOR EVER - ALTE. BROWN
- ACASSUSO - MITRE (S.E.)
- SAN TELMO - ESTUDIANTES
- SAN MIGUEL - ALL BOYS
- COLÓN - LOS ANDES
- DEP. MORÓN - GODOY CRUZ (MZA.)
+Fecha 30 
+Zona A
+ Sábado 19 de Septiembre 
+15.00 Acassuso - Mitre (Santiago del Estero)
+ Árbitro: Gabriel Gutiérrez
+ Asistente 1: Federico Pomi
+ Asistente 2: Matías Basso
+ Cuarto árbitro: Kevin Alegre
+15.30 Ferro Carril Oeste - Ciudad de Bolívar
+ Árbitro: Felipe Viola
+ Asistente 1: Gerardo Lencina
+ Asistente 2: Federico García
+ Cuarto árbitro: Nicolás Kresta
+15.30 San Telmo - Estudiantes
+ Árbitro: Jorge Broggi
+ Asistente 1: Mariano Rosetti
+ Asistente 2: Mariano Cichetto
+ Cuarto árbitro: Damián Rubino
+15.30 San Miguel - All Boys
+ Árbitro: Yamil Possi
+ Asistente 1: Ariel Scime
+ Asistente 2: Diego Romero
+ Cuarto árbitro: Guido Mascheroni
+ Domingo 20 de Septiembre
+ 15.00 Deportivo Morón - Godoy Cruz
+ Árbitro: Franco Acita
+ Asistente 1: Mario Bardina
+ Asistente 2: Juan Ricciardi
+ Cuarto árbitro: Gabriel Flores
+ 16.00 Deportivo Madryn - Racing (Córdoba)
+ Árbitro: Bruno Amiconi
+ Asistente 1: Marcelo Bistocco
+ Asistente 2: Martín Saccone
+ Cuarto árbitro: Cristian Cernadas
+ 16.30 Colón - Los Andes
+ Árbitro: Bryan Ferreyra
+ Asistente 1: Damián Espinoza
+ Asistente 2: Matías Bianchi
+ Cuarto árbitro: Sebastián Bresba
+ 17.00 Central Norte - Defensores de Belgrano
+ Árbitro: Juan Pafundi
+ Asistente 1: Juan Pablo Millenaar
+ Asistente 2: Juan Manuel González
+ Cuarto árbitro: Alejandro Scionti
+ 17.00 Chaco For Ever - Almirante Brown
+ Árbitro: Maximiliano Manduca
+ Asistente 1: Javier Mihura
+ Asistente 2: Alejandro Schneller
+ Cuarto árbitro: Franco Rioja
+Zona B
+ Sábado 19 de Septiembre 
+16.00 Temperley - Almagro
+ Árbitro: Lucas Cavallero
+ Asistente 1: Julio Fernández
+ Asistente 2: Mariano Ruas
+ Cuarto árbitro: Ulises López
+16.00 Atlético de Rafaela - San Martín (Tucumán)
+ Árbitro: Daniel Edgardo Zamora
+ Asistente 1: Lucas Pardo
+ Asistente 2: Mariana Dure
+ Cuarto árbitro: Lautaro Castagnola
+ Domingo 20 de Septiembre 
+15.00 Chacarita Juniors - Quilmes
+ Árbitro: Juan Pablo Loustau
+ Asistente 1: Maximiliano Castelli
+ Asistente 2: Federico Lapalma
+ Cuarto árbitro: Adrián Núñez Rodríguez
+15.00 Agropecuario - Gimnasia y Tiro
+ Árbitro: Nelson Sosa
+ Asistente 1: Sebastián Osudar
+ Asistente 2: Darío Rojas Martínez
+ Cuarto árbitro: Guillermo González
+16.30 Deportivo Maipú - Gimnasia y Esgrima (Jujuy)
+ Árbitro: Maximiliano Macheroni
+ Asistente 1: Hernán Vallejos
+ Asistente 2: Guillermo Yacante
+ Cuarto árbitro: Nelson Bejas
+17.00 San Martín (San Juan) - Colegiales
+ Árbitro: Federico Benítez
+ Asistente 1: Mariano Viale
+ Asistente 2: Antonela Pajón
+ Cuarto árbitro: Federico Guaymás
+17.00 Güemes (Santiago del Estero) - F.C. Midland
+ Árbitro: Juan Nebbietti
+ Asistente 1: Eduardo Lucero
+ Asistente 2: Manuel Sánchez
+ Cuarto árbitro: José Díaz
+ Lunes 21 de Septiembre 
+15.00 Tristán Suárez - Atlanta
+ Árbitro: Juan Cruz Robledo
+ Asistente 1: Uriel García Leri
+ Asistente 2: Sebastián Pumetti
+ Cuarto árbitro: Martín Despósito
+19.00 Nueva Chicago - Patronato
+ Árbitro: Fabrizio Llobet
+ Asistente 1: Iván Núñez
+ Asistente 2: Marcos Horticoulou
+ Cuarto árbitro: Iñaki Iparraguirre
  Fecha 31 
  RACING (CBA.) - GODOY CRUZ (MZA.)
  LOS ANDES - DEP. MORÓN
@@ -419,17 +572,64 @@ ZONA B
  ATLANTA - F.C. MIDLAND
 Primera B
 Fecha 36
- Villa Dálmine - Ituzaingó 
- UAI Urquiza - Excursionistas 
- Real Pilar - Arsenal 
- Liniers - Argentino de Merlo 
- Villa San Carlos - Talleres (RE) 
- San Martín (B) - Dep. Laferrere 
- Sportivo Italiano - Brown (Adrogué) 
- Camioneros - Dep. Armenio 
- Dep. Merlo - Flandria 
- Dock Sud - Argentino de Quilmes 
- Comunicaciones - Def. Unidos
+Viernes 18 de Septiembre 
+15.00 Comunicaciones - Defensores Unidos
+ Árbitro: Julián Beligoy
+ Asistente 1: Damián Alcaraz
+ Asistente 2: Valentino Gaillard
+ Cuarto árbitro: Agustín Panizza
+ Sábado 19 de Septiembre 
+14.00 Camioneros - Deportivo Armenio
+ Árbitro: Mariano Negrete
+ Asistente 1: Arnaldo Melgarejo
+ Asistente 2: Cecilio Calcagno
+ Cuarto árbitro: Tomás Aybar
+15.00 Villa Dálmine - Ituzaingó
+ Árbitro: Wenceslao Meneses
+ Asistente 1: Enrique Lanz
+ Asistente 2: Diego Rodríguez Lazarte
+ Cuarto árbitro: Lucas Brumer
+15.00 UAI-Urquiza - Excursionistas
+ Árbitro: Jonathan Barrios
+ Asistente 1: Maximiliano Benzoni
+ Asistente 2: Nicolás Gruccio
+ Cuarto árbitro: Manuel Prieto
+15.00 Real Pilar - Arsenal
+ Árbitro: Ramiro Maglio
+ Asistente 1: Maximiliano Montenegro
+ Asistente 2: Matías Panozzo
+ Cuarto árbitro: Martín Despósito
+15.00 San Martín (Burzaco) - Deportivo Laferrere
+ Árbitro: Maximiliano López Monti
+ Asistente 1: Luis Rotman
+ Asistente 2: Hugo Carbo
+ Cuarto árbitro: Martín Morenza
+15.00 Sportivo Italiano - Brown (Adrogué)
+ Árbitro: Ignacio Cuicchi
+ Asistente 1: Fernando Rodríguez
+ Asistente 2: Federico Zuvilivia
+ Cuarto árbitro: Facundo Carretero
+ Domingo 20 de Septiembre 
+ 15.00 Sportivo Dock Sud - Argentino de Quilmes
+ Árbitro: Marcos Recalde
+ Asistente 1: Rodrigo Arín
+ Asistente 2: Leandro Idio
+ Cuarto árbitro: Sebastián Milessi
+ 15.00 Liniers - Argentino de Merlo
+ Árbitro: Mateo Bocaccia
+ Asistente 1: Alexis Etchepare
+ Asistente 2: Julieta Fernández
+ Cuarto árbitro: Fabrizio De La Cruz
+ 15.00 Villa San Carlos - Talleres (RE)
+ Árbitro: Nicolás Mastroieni
+ Asistente 1: Martín Cingolani
+ Asistente 2: Agustín Galván
+ Cuarto árbitro: Damián Rubino
+17.00 Deportivo Merlo - Flandria
+ Árbitro: Julián Jerez
+ Asistente 1: Nahuel Santonacito
+ Asistente 2: Santiago Scalerandi
+ Cuarto árbitro: Ulises López
 Fecha 37 
  Ituzaingó - Def. Unidos 
  Argentino de Quilmes - Comunicaciones 
@@ -503,21 +703,86 @@ Fecha 42
  Argentino de Quilmes - Brown (Adrogué) 
  Flandria - Dep. Armenio
 Primera C
-Fecha 28 
-Martes 15 de septiembre
-15.00 Claypole – Sacachispas F.C.
+Fecha 29 
+Zona A
+ Viernes 18 de Septiembre 
+18.30 Defensores de Cambaceres - J.J. de Urquiza
+ Árbitro: Juan Ferreyra
+ Asistente 1: Matías Noli
+ Asistente 2: Alexis Ramírez
+ Cuarto árbitro: Lautaro Gutiérrez
+ Sábado 19 de Septiembre 
+15.00 Argentino (Rosario) - Berazategui
+ Árbitro: Elías Viglione
+ Asistente 1: Gonzalo Cubillas
+ Asistente 2: Sebastián Krojzl
+ Cuarto árbitro: Lucas Baiz
+15.00 Juventud Unida - Centro Recreativo Español
+ Árbitro: Facundo Fuentes
+ Asistente 1: Mario Vargas
+ Asistente 2: Tomás Pérez
+ Cuarto árbitro: Agustín Panizza
+ Domingo 20 de Septiembre
+ 15.00 Lugano - Estrella del Sur
+ Árbitro: Gonzalo Correa
+ Asistente 1: Jonathan Florentín
+ Asistente 2: Alejo Milone
+ Cuarto árbitro: Leonardo Cristaldo
+ 15.00 Leandro N. Alem - Mercedes
+ Árbitro: David Cornejo
+ Asistente 1: Matías Pino
+ Asistente 2: Patricio Acuña
+ Cuarto árbitro: Franco Porotelli
+ 15.00 Puerto Nuevo - Deportivo Paraguayo
+ Árbitro: Iván Castelu Coca
+ Asistente 1: Iván Machuca
+ Asistente 2: Ludmila Capelli
+ Cuarto árbitro: Nazareno Galeano
+ Lunes 21 de Septiembre 
+ 15.00 Sacachispas - Victoriano Arenas
+ Árbitro: Rodrigo Villalba
+ Asistente 1: Leandro Carril
+ Asistente 2: Nicolás Cavagnaro
+ Cuarto árbitro: Valentín Ibáñez Meza
+Zona B
+ Sábado 19 de Septiembre 
+ 15.00 Luján - Atlas
+ Árbitro: Valentín Bocaccia
+ Asistente 1: Matías Vargas
+ Asistente 2: Freddy Quelca Guaracci
+ Cuarto árbitro: Lautaro Díaz
+ Domingo 20 de Septiembre 
+ 15.00 General Lamadrid - Leones F.C.
+ Árbitro: Gonzalo Creimermann
+ Asistente 1: Diego Fernández
+ Asistente 2: Felipe Onufrik
+ Cuarto árbitro: Leandro Díaz
+ Lunes 21 de Septiembre 
+15.00 Central Ballester - Central Córdoba (Rosario)
+ Árbitro: Ariadna Palacios
+ Asistente 1: Roberto Rodríguez
+ Asistente 2: Rodolfo Rodríguez
+ Cuarto árbitro: Pablo Gómez
+15.00 El Porvenir - Deportivo Español
  Árbitro: Alejandro Porticella
- Asistente 1: Ignacio Otegui
- Asistente 2: Ariel Ibáñez
+ Asistente 1: Lucas Monsalvo
+ Asistente 2: Joaquín Fraga
+ Cuarto árbitro: Valentino Oldani
+15.00 Fénix - Muñiz
+ Árbitro: Agustín Flores
+ Asistente 1: Bruno Castillo
+ Asistente 2: Sofía Curto
+ Cuarto árbitro: Rodrigo Amadeo
+15.00 Claypole - Yupanqui
+ Árbitro: Matías Ansede
+ Asistente 1: Tomás Otero
+ Asistente 2: Daniel Alegre
+ Cuarto árbitro: Ignacio Domínguez
+15.00 Sportivo Barracas - Cañuelas
+ Árbitro: Iván Mastroieni
+ Asistente 1: Felipe Arrechea
+ Asistente 2: Diego Ortiz
  Cuarto árbitro: Mauro Trinidad
-Fecha 29 - 19/09/2026 
-Lugano C. Estrella Del Sur
-Argentino (R.) C. Berazategui
-Sacachispas F.C. C. V. Arenas
-J. Unida C. Ctro. Rec. Español
-Def. De Cambaceres C. J.J. De Urquiza
-L.N. Alem C. Mercedes
-Puerto Nuevo C. Dep. Paraguayo
 Fecha 30 - 26/09/2026 
 Dep. Paraguayo C. Lugano
 Mercedes C. Puerto Nuevo
@@ -591,13 +856,32 @@ Cañuelas F.C. C. Ctral. Ballester
 Muñiz C. Claypole
 Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
-PROMOCIONAL REDUCIDO - 1ROS PARTIDOS
-Martes 15 de septiembre
-19.00 Náutico Hacoaj – Uribelarrea
- Árbitro: Leandro Díaz
- Asistente 1: Bruno Castillo
- Asistente 2: Daniel Alegre
+Promocional Amateur FINAL 2DO PARTIDO
+ Sábado 19 de Septiembre 
+SAT - Barrancas FC
+ Árbitro: Eduardo Coyto
+ Asistente 1: Marcos Pueyo
+ Asistente 2: Lucas García
+ Cuarto árbitro: Sebastián Milessi
+REDUCIDO 2DOS PARTIDOS
+ Viernes 18 de Septiembre 
+15.00 Deportivo Metalúrgico - Ezeiza F.C.
+ Árbitro: Nicolás Díaz
+ Asistente 1: Ariel Ibáñez
+ Asistente 2: Rodrigo Díaz
+ Cuarto árbitro: Franco Gutierre
+ Sábado 19 de Septiembre 
+15.00 Defensores de Glew - Buenos Aires City
+ Árbitro: Damián Parodi
+ Asistente 1: Christian Rodríguez
+ Asistente 2: Cristian Camacho
  Cuarto árbitro: Alberto Iglesias
+ Martes 22 de Septiembre 
+15.00 Uribelarrea - Náutico Hacoaj
+ Árbitro: Valentín Pérsico
+ Asistente 1: Mauro Soria
+ Asistente 2: Luis Taboada
+ Cuarto árbitro: Joaquín García Casas
 Copa Argentina 2026
 FASE FINAL – Cuartos de final
 Miércoles 16 de septiembre
@@ -624,7 +908,7 @@ Estudiantes de L.P - Independiente Rivadavia (Mza.), en horario y estadio a desi
 De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa Argentina, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Supercopa Internacional 2026
 Sábado 26 de septiembre
- Estudiantes de L.P. - Rosario Ctral., a las 17.00 horas en Estadio Madre de Ciudades (SE) 
+ Estudiantes de L.P. - Rosario Ctral., a las 16.00 horas en Estadio Madre de Ciudades (SE) 
 -TV-
  Árbitro: Darío Herrera
  Asistente 1: Gabriel Chade
@@ -706,20 +990,6 @@ CONMEBOL Libertadores 2026
 Calendario 
 Cuartos De Final
 Vuelta
-Martes 15 de septiembre
-19:00 Platense (ARG) vs Fluminense (BRA)
-Árbitro: 
-Cristian Garay (CHI)
-Asistente 1: 
-Claudio Urrutia (CHI)
-Asistente 2: 
-Carlos Poblete (CHI)
-4to Árbitro: 
-Diego Flores (CHI)
-VAR: 
-Juan Sepúlveda (CHI)
-AVAR: 
-Nicolás Millas (CHI)
 Miércoles 16 de septiembre
 19:00 L.D.U. Quito (ECU) vs Palmeiras (BRA) 
 Árbitro: 
@@ -768,20 +1038,7 @@ Christian Ferreyra (URU)
 CONMEBOL Sudamericana 2026
 CUARTOS DE FINAL
 Vuelta
-Martes 15 de septiembre
-19:00 Vasco Da Gama (BRA) vs Santa Fe (COL)
-Árbitro: 
-Alexis Herrera (VEN)
-Asistente 1: 
-Lubín Torrealba (VEN)
-Asistente 2: 
-Alberto Ponte (VEN)
-4to Árbitro: 
-Alex Cajas (ECU)
-VAR: 
-Carlos Orbe (ECU)
-AVAR: 
-Gabriel González (ECU)
+Martes 15 de Septiembre
 21:30 San Pablo (BRA) vs Boca Juniors (ARG)
 Árbitro: 
 Gustavo Tejera (URU)
