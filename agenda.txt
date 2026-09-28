@@ -140,8 +140,6 @@ Fecha 11
  17.00 Talleres – Godoy Cruz (Zona A) – La Boutique
  19.00 River – Sarmiento (Zona A) – River Camp
 Primera Nacional
- Fecha 31 
- Zona “B” 
  Fecha 32 
  CTRAL. NORTE (S.) - RACING (CBA.)
  FERRO CARRIL OESTE - DEP. MADRYN
@@ -466,14 +464,6 @@ Ferro - River
 FECHA 8
 Postergado
 River - Talleres
-Fecha 10 
-Lunes 28/9
-09:00 hs:
- SAT vs. GELP | 
-Estadio:
- Estadio | 
-TV:
- LPF PLAY
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2026
 Semifinales
@@ -495,11 +485,11 @@ Boca Juniors vs. Vasco Da Gama
  La final de la CONMEBOL Sudamericana se disputará el 21 de noviembre en la ciudad de Barranquilla. 
 Amistosos Selección Mayor
 Miércoles 30 de septiembre
- Argentina vs. Bolivia, en el estadio Mario Alberto Kempes
+ 21.00 Argentina vs. Bolivia, en el estadio Mario Alberto Kempes
 Sábado 3 de octubre
- Argentina vs. Burkina Faso, en el estadio Monumental
+ 21.00 Argentina vs. Burkina Faso, en el estadio Monumental
 Martes 6 de octubre
- Argentina vs. Benín, en el estadio Monumental
+ 20.00 Argentina vs. Benín, en el estadio Monumental
 Selección Mayor Femenina
 Amistosos
  Sábado 10 de octubre en el Estadio Beira-Rio, en Porto Alegre
