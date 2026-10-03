@@ -629,16 +629,6 @@ Sábado 3 de octubre
 Asistente 1: Matías Pino
 Asistente 2: Ignacio Otegui
 Cuarto árbitro: Franco Gutiérrez
-15.00 Deportivo Paraguayo - Mercedes
-Árbitro: Facundo Carretero
-Asistente 1: Matías Panozzo
-Asistente 2: Tomás Pérez
-Cuarto árbitro: Juan Ferreyra
-15.00 El Porvenir - Cañuelas F.C.
-Árbitro: Iván Castelu Coca
-Asistente 1: Diego Fernández
-Asistente 2: Tomás Otero
-Cuarto árbitro: Rodrigo Amadeo
 Domingo 4 de octubre
 15.00 Lugano - Argentino (Rosario)
 Árbitro: Gabriel Flores
@@ -671,6 +661,16 @@ Cuarto árbitro: Leonardo Cristaldo
 Asistente 1: Jonathan Florentín
 Asistente 2: Nicolás Cavagnaro
 Cuarto árbitro: Pablo Gómez
+15.00 Deportivo Paraguayo - Mercedes
+Árbitro: Facundo Carretero
+Asistente 1: Matías Panozzo
+Asistente 2: Tomás Pérez
+Cuarto árbitro: Juan Ferreyra
+15.00 El Porvenir - Cañuelas F.C.
+Árbitro: Iván Castelu Coca
+Asistente 1: Diego Fernández
+Asistente 2: Tomás Otero
+Cuarto árbitro: Rodrigo Amadeo
 Martes 6 de octubre
 14.00 Central Ballester - Muñiz
 Árbitro: Sebastián Milessi
@@ -751,7 +751,7 @@ Dep. Español C. Ctral. Córdoba (R.)
 Promocional Amateur
  Torneo Reducido por Promoción con 1ra. División “C”
 PROMOCIONAL REDUCIDO - SEMIFINALES, SEGUNDOS PARTIDOS
-Sábado 3 de octubre
+Domingo 4 de octubre
 15.00 Defensores de Glew - Uribelarrea
 Árbitro: Tomás Aybar
 Asistente 1: Gonzalo Cubillas
