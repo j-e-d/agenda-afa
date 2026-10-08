@@ -115,59 +115,67 @@ Lunes 12 de octubre
  VAR: Héctor Paletta
  AVAR: Julián Beligoy
 Fecha 13
-Interzonal: Racing – Independiente
-Zona A
- Boca – Talleres
- Defensa y Justicia – Instituto
- Deportivo Riestra – Unión
- Estudiantes – San Lorenzo
- Newell’s – Central Córdoba
- Vélez – Gimnasia (Mza.)
- Platense – Lanús
-Zona B
- Belgrano – River
- Estudiantes (Río Cuarto) – Aldosivi
- Sarmiento – Barracas Central
- Huracán – Gimnasia
- Atlético Tucumán – Rosario Central
- Independiente Rivadavia Mza. – Tigre
- Banfield – Argentinos
+Jueves 15 de octubre
+ 20.00 Huracán – Gimnasia (Zona B)
+Viernes 16 de octubre
+ 19.00 Defensa y Justicia – Instituto (Zona A)
+ 21.30 Boca – Talleres (Zona A)
+Sábado 17 de octubre
+ 15.00 Banfield – Argentinos (Zona B)
+ 17.30 Platense – Lanús (Zona A)
+ 17.30 Ind. Rivadavia Mza. – Tigre (Zona B)
+ 20.00 Vélez – Gimnasia (Mza.) (Zona A)
+ 20.00 Atlético Tucumán – Rosario Central (Zona B)
+Domingo 18 de octubre
+ 14.45 Racing – Independiente (Interzonal)
+ 18.00 Estudiantes – San Lorenzo (Zona A)
+ 18.00 Estudiantes (Río Cuarto) – Aldosivi (Zona B)
+ 20.15 Belgrano – River (Zona B)
+Lunes 19 de octubre
+ 19.00 Newell’s – Central Córdoba (Zona A)
+ 19.00 Sarmiento – Barracas Central (Zona B)
+ 21.15 Deportivo Riestra – Unión (Zona A)
 Fecha 14
-Interzonal: Banfield – Lanús
-Zona A
- Gimnasia (Mza.) – Platense
- Central Córdoba – Vélez
- San Lorenzo – Newell’s
- Unión – Estudiantes
- Instituto – Deportivo Riestra
- Talleres – Defensa y Justicia
- Independiente – Boca
-Zona B
- Argentinos – Independiente Rivadavia Mza.
- Tigre – Atlético Tucumán
- Rosario Central – Huracán
- Gimnasia – Sarmiento
- Barracas Central – Estudiantes (Río Cuarto)
- Aldosivi – Belgrano
- River – Racing
+Viernes 23 de octubre
+ 18.30 Gimnasia (Mza.) – Platense (Zona A)
+ 19.00 Gimnasia – Sarmiento (Zona B)
+ 21.15 Tigre – Atlético Tucumán (Zona B)
+Sábado 24 de octubre
+ 14.45 Banfield – Lanús (Interzonal)
+ 17.00 Talleres – Defensa y Justicia (Zona A)
+ 19.15 San Lorenzo – Newell’s (Zona A)
+ 21.30 Rosario Central – Huracán (Zona B)
+Domingo 25 de octubre
+ 14.45 Aldosivi – Belgrano (Zona B)
+ 17.00 Independiente – Boca (Zona A)
+ 19.15 River – Racing (Zona B)
+ 21.30 Central Córdoba – Vélez (Zona A)
+ 21.30 Barracas Central – Estudiantes (Río Cuarto) (Zona B)
+Lunes 26 de octubre
+ 19.00 Unión – Estudiantes (Zona A)
+ 21.15 Instituto – Deportivo Riestra (Zona A)
+Martes 27 de octubre
+ 19.00 Argentinos – Ind. Rivadavia Mza. (Zona B)
 Fecha 15
-Interzonal: Boca – River
-Zona A
- Defensa y Justicia – Independiente
- Deportivo Riestra – Talleres
- Estudiantes – Instituto
- Newell’s – Unión
- Vélez – San Lorenzo
- Platense – Central Córdoba
- Lanús – Gimnasia (Mza.)
-Zona B
- Racing – Aldosivi
- Belgrano – Barracas Central
- Estudiantes de Río Cuarto – Gimnasia
- Sarmiento – Rosario Central
- Huracán – Tigre
- Atlético Tucumán – Argentinos Juniors
- Independiente Rivadavia Mza. – Banfield
+Viernes 30 de octubre
+ 19.00 Estudiantes (Río Cuarto) – Gimnasia (Zona B)
+ 19.00 Huracán – Tigre (Zona B)
+ 21.15 Sarmiento – Rosario Central (Zona B)
+ 21.15 Racing – Aldosivi (Zona B)
+Sábado 31 de octubre
+ 14.45 Defensa y Justicia – Independiente (Zona A)
+ 17.00 Deportivo Riestra – Talleres (Zona A)
+ 19.15 Vélez – San Lorenzo (Zona A)
+ 21.30 Estudiantes – Instituto (Zona A)
+Domingo 1° de noviembre
+ 15.00 Boca – River (Interzonal)
+ 18.30 Newell’s – Unión (Zona A)
+ 18.30 Belgrano – Barracas Central (Zona B)
+ 20.45 Lanús – Gimnasia (Mza.) (Zona A)
+Lunes 2 de noviembre
+ 19.00 Platense – Central Córdoba (Zona A)
+ 21.15 Atlético Tucumán – Argentinos (Zona B)
+ 21.15 Ind. Rivadavia Mza. – Banfield (Zona B)
 Fecha 16
 Interzonal: Gimnasia (Mza.) – Independiente Rivadavia Mza.
 Zona A
@@ -852,20 +860,56 @@ Fecha 11
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2026
 Semifinales
+IDA
+Miércoles 14 de octubre
+21.30 Fluminense – Palmeiras
+Árbitro: Facundo Tello (Argentina)
+Asistente 1: Juan P. Belatti (Argentina)
+Asistente 2: Gabriel Chade (Argentina)
+Cuarto árbitro: Nazareno Arasa (Argentina)
+VAR: Silvio Trucco (Argentina)
+AVAR: Lucas Novelli (Argentina)
+AVAR 2: Héctor Paletta (Argentina)
+Jueves 15 de octubre
+21.30 Estudiantes (La Plata) – Flamengo
+Árbitro: Juan Gabriel Benítez (Paraguay)
+Asistente 1: Eduardo Cardozo (Paraguay)
+Asistente 2: Milciades Saldívar (Paraguay)
+Cuarto árbitro: Blas Romero (Paraguay)
+VAR: Ulises Mereles (Paraguay)
+AVAR: Eduardo Britos (Paraguay)
+AVAR 2: Carlos Benítez (Paraguay)
+VUELTA
 Fluminense vs. Palmeiras
- Partido de ida: Miércoles 14 de octubre a las 21:30h en el Estadio Maracanã, Río de Janeiro
  Partido de vuelta: Miércoles 21 de octubre a las 21:30h en el Estadio NuBank Parque, São Paulo
  Estudiantes vs. Flamengo
- Partido de ida: Jueves 15 de octubre a las 21:30h en Estadio A Confirmar.
  Partido de vuelta: Jueves 22 de octubre a las 21:30h en el Estadio Maracanã, Río de Janeiro. 
  La final de la CONMEBOL Libertadores se disputará el 28 de noviembre en la ciudad de Montevideo. 
 CONMEBOL Sudamericana 2026
- Semifinales
+Semifinales
+IDA
+Martes 13 de octubre
+21.30 Boca Juniors – Vasco da Gama
+Árbitro: Piero Maza (Chile)
+Asistente 1: José Retamal (Chile)
+Asistente 2: Carlos Poblete (Chile)
+Cuarto árbitro: Mathias Riquelme (Chile)
+VAR: José Cabero (Chile)
+AVAR: Juan Serrano (Chile)
+AVAR 2: Juan Sepúlveda (Chile)
+Miércoles 14 de octubre
+19.00 Atlético Mineiro – Montevideo City Torque
+Árbitro: Carlos Betancur (Colombia)
+Asistente 1: Alexander Guzmán (Colombia)
+Asistente 2: Jhon A. Gallego (Colombia)
+Cuarto árbitro: José Ortiz (Colombia)
+VAR: David Rodríguez (Colombia)
+AVAR: Keiner Kimenez (Colombia)
+AVAR 2: Luis Picón (Colombia)
+VUELTA
 Boca Juniors vs. Vasco Da Gama
  Partido de ida: Martes 13 de octubre a las 21:30h en el Estadio 'La Bombonera', Buenos Aires
- Partido de vuelta: Martes 20 de octubre a las 21:30h en Estadio a Confirmar.
  Atlético Mineiro vs. Montevideo City Torque
- Partido de ida: Miércoles 14 de octubre a las 21:30h en el Estadio Arena MRV, Belo Horizonte.
  Partido de vuelta: Miércoles 21 de octubre a las 19:00h en el Estadio Centenario, Montevideo. 
  La final de la CONMEBOL Sudamericana se disputará el 21 de noviembre en la ciudad de Barranquilla. 
 Amistosos Selección Mayor
