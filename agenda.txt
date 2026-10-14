@@ -184,30 +184,6 @@ Final:
 en el Estadio Único Diego Armando Maradona - Tricampeones del Mundo, de la ciudad de La Plata
 Torneo Proyección Clausura
 Fecha 13
-Martes 13 de octubre
-15.00 Banfield – Gimnasia (Zona A) – Predio
- Árbitro: Franco Porotelli
- Árbitro asistente 1: Luis Taboada
- Árbitro asistente 2: Bruno Santillán
- Cuarto árbitro: Sebastián Milessi
- 15.00 Quilmes – Newell’s (Zona B) – Predio
- Árbitro: Leonardo Cristaldo
- Árbitro asistente 1: Lucas Burgos
- Árbitro asistente 2: Santiago Araujo
- Cuarto árbitro: Manuel Prieto
- 15.00 Independiente – Huracán (Zona B) – Villa Domínico
- Árbitro: Damián Parodi
- Árbitro asistente 1: Facundo Maldonado
- Árbitro asistente 2: Elías Mendoza
- Cuarto árbitro: Valentín Pérsico
- 15.00 Atlético de Rafaela – Estudiantes (Río Cuarto) (Zona B) – Predio
- Árbitro: Luca Centurión
- Árbitro asistente 1: Patricio Acuña
- Árbitro asistente 2: Santiago Galván
- 15.00 Instituto – River (Zona A) – La Agustina
- Árbitro: Lautaro Díaz
- Árbitro asistente 1: Tomás Pérez
- Árbitro asistente 2: Nicolás Rovira
 Miércoles 14 de octubre
 15.00 Tigre – Argentinos (Zona A) – Predio
  Árbitro: Franco Gutierre
@@ -688,15 +664,6 @@ Fluminense vs. Palmeiras
 CONMEBOL Sudamericana 2026
 Semifinales
 IDA
-Martes 13 de octubre
-21.30 Boca Juniors – Vasco da Gama
-Árbitro: Piero Maza (Chile)
-Asistente 1: José Retamal (Chile)
-Asistente 2: Carlos Poblete (Chile)
-Cuarto árbitro: Mathias Riquelme (Chile)
-VAR: José Cabero (Chile)
-AVAR: Juan Serrano (Chile)
-AVAR 2: Juan Sepúlveda (Chile)
 Miércoles 14 de octubre
 19.00 Atlético Mineiro – Montevideo City Torque
 Árbitro: Carlos Betancur (Colombia)
@@ -706,11 +673,11 @@ Cuarto árbitro: José Ortiz (Colombia)
 VAR: David Rodríguez (Colombia)
 AVAR: Keiner Kimenez (Colombia)
 AVAR 2: Luis Picón (Colombia)
-VUELTA
-Boca Juniors vs. Vasco Da Gama
- Partido de ida: Martes 13 de octubre a las 21:30h en el Estadio 'La Bombonera', Buenos Aires
- Atlético Mineiro vs. Montevideo City Torque
- Partido de vuelta: Miércoles 21 de octubre a las 19:00h en el Estadio Centenario, Montevideo. 
+ VUELTA
+ Martes 20 de octubre
+ 21.30 Vasco da Gama - Boca
+ Miércoles 21 de octubre
+ 19.00 Montevideo City Torque - Atlético Mineiro 
  La final de la CONMEBOL Sudamericana se disputará el 21 de noviembre en la ciudad de Barranquilla. 
 Amistosos Selección Mayor
 La próxima fecha FIFA de noviembre de 2026 se jugará del 9 al 17 de noviembre, según el Calendario Internacional de Partidos de la FIFA.
