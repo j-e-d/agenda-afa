@@ -1,14 +1,5 @@
 25/03/2019
 Torneo Clausura 
-Fecha 11
-Miércoles 14 de octubre
-19.00 Sarmiento – River (Zona B)
-Árbitro: Sebastián Zunino
- Asistente 1: Cristian Navarro
- Asistente 2: José Castelli
- Cuarto árbitro: Pablo Giménez
- VAR: José Carreras
- AVAR: Javier Uziga
 Fecha 13
 Viernes 16 de octubre
 19.00 Defensa y Justicia – Instituto (Zona A)
@@ -178,25 +169,90 @@ Torneo Proyección Clausura
 Fecha 14
  Martes 20 de octubre
  15.00 Argentinos – Rosario Central (Zona A) – CEFFA
+ Árbitro: Nazareno Galeano
+ Árbitro asistente 1: Rodrigo Díaz
+ Árbitro asistente 2: Axel Sosa
+ Cuarto árbitro: Valentín Ibáñez Mesa
  15.00 Newell’s – Platense (Zona B) – Predio
+ Árbitro: Camila Gette
+ Árbitro asistente 1: Franco Chávez
+ Árbitro asistente 2: Agustín Fischetti
  15.00 Defensa y Justicia – Atlético de Rafaela (Zona B) – Campeones Del Mundo
+ Árbitro: Leandro Díaz
+ Árbitro asistente 1: Oscar Maidana
+ Árbitro asistente 2: Sofía Curto
+ Cuarto árbitro: Lautaro Díaz
  15.00 Estudiantes (Río Cuarto) – Independiente (Zona B) – Ciudad Deportiva
+ Árbitro: Ignacio Domínguez
+ Árbitro asistente 1: Diego Ortiz
+ Árbitro asistente 2: Cristian Camacho
  15.00 Sarmiento – Tigre (Zona A) – CAR
+ Árbitro: Sebastián Milessi
+ Árbitro asistente 1: Alexis Escobar
+ Árbitro asistente 2: Alexis Torales
  15.00 Aldosivi – Banfield (Zona A) – Predio
+ Árbitro: Marcos Winer
+ Árbitro asistente 1: Tomás Pérez
+ Árbitro asistente 2: Jeremías Rodríguez
  Miércoles 21 de octubre
  15.00 Gimnasia – Talleres (Zona A) – Estancia Chica
+ Árbitro: Eduardo Coyto
+ Árbitro asistente 1: Nahuel Martin
+ Árbitro asistente 2: Agustina Baleman
+ Cuarto árbitro: Rodrigo Amadeo
  15.00 Ind. Rivadavia Mza. – San Martín (SJ) (Zona B) – Ciudad Deportiva
+ Árbitro: Facundo Carretero
+ Árbitro asistente 1: Enzo Nell
+ Árbitro asistente 2: Elías Mendoza
+ Cuarto árbitro: Fabricio De La Cruz
  15.00 Ferro – Colón (Zona B) – Pontevedra
+ Árbitro: Pablo Gómez
+ Árbitro asistente 1: Mauro Soria
+ Árbitro asistente 2: Rodrigo Rodríguez
+ Cuarto árbitro: Damián Parodi
  15.00 Lanús – Quilmes (Zona B) – Auxiliar
+ Árbitro: Franco Gutierre
+ Árbitro asistente 1: Tomás Otero
+ Árbitro asistente 2: Milena Pérez
+ Cuarto árbitro: Joaquín García Casas
  15.00 Belgrano – Estudiantes (Zona B) – Predio
+ Árbitro: Facundo Fuentes
+ Árbitro asistente 1: Marcos Pueyo
+ Árbitro asistente 2: Martín Núñez
  19.00 River – Vélez (Zona A) – River Camp
+ Árbitro: Mauro Trinidad
+ Árbitro asistente 1: Rodolfo Rodríguez
+ Árbitro asistente 2: Lucas Burgos
+ Cuarto árbitro: Alberto Iglesias
  Jueves 22 de octubre
  15.00 Racing – San Lorenzo (Zona A) – Tita Mattiussi
+ Árbitro: Micaela Abelardo
+ Árbitro asistente 1: Rodrigo Mansilla
+ Árbitro asistente 2: Agustín Cellucci
+ Cuarto árbitro: Valentino Oldani
  15.00 Godoy Cruz – Instituto (Zona A) – Coquimbito
+ Árbitro: Fabricio De La Cruz
+ Árbitro asistente 1: Nicolás Segovia
+ Árbitro asistente 2: Daniel Alegre
+ Cuarto árbitro: Facundo Carretero
  15.00 Dep. Riestra – Central Córdoba (Zona B) – Speed Camp
+ Árbitro: Manuel Prieto
+ Árbitro asistente 1: Luciano Cabral
+ Árbitro asistente 2: Carlos Vázquez
+ Cuarto árbitro: Luca Centurión
  15.00 Atlético Tucumán – Gimnasia (Mza) (Zona A) – José Salmoiraghi
+ Árbitro: Nicolás Díaz
+ Árbitro asistente 1: Ariel Ibáñez
+ Árbitro asistente 2: Nicolás Rovira
  15.00 Unión – Barracas Central (Zona A) – La Tatenguita
+ Árbitro: Valentín Pérsico
+ Árbitro asistente 1: Freddy Quelca Guarachi
+ Árbitro asistente 2: Santiago Galván
  15.00 Huracán – Boca (Zona B) – La Quemita
+ Árbitro: Franco Porotelli
+ Árbitro asistente 1: Alejo Milone
+ Árbitro asistente 2: Nicolás Oviedo
+ Cuarto árbitro: Leonardo Cristaldo
 Fecha 15
  Martes 27 de octubre
  15.00 Independiente – Defensa y Justicia (Zona B) – Villa Domínico
@@ -563,9 +619,9 @@ Final de Copa Argentina:
 MIERCOLES 02/12
 De conformidad con las disposiciones enunciadas en el Reglamento de la Copa Argentina 2026, si alguno de los partidos señalados precedentemente resultara igualado, la definición se operará mediante la ejecución de tiros desde el punto penal de acuerdo al punto c) del art. 111 del Reglamento General de AFA.
 Supercopa Argentina 2026
-Viernes 13 de Noviembre 
- Estudiantes de L.P. c. Sp. Independiente R. (Mza.), a las 21.00 horas en Belgrano (Cba.) (TV)
-De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa Argentina, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
+Jueves 12 de noviembre 
+Estudiantes de L.P. - Sp. Independiente Rivadavia (Mza.), a las 20.00 horas en Belgrano (Cba.) (TV)
+ De conformidad con las disposiciones enunciadas en el Reglamento de la Supercopa Argentina, si al cabo de los 90 minutos mencionados con antelación, el resultado fuera empate, se jugará un tiempo suplementario de treinta minutos, en dos períodos de quince minutos cada uno, y de subsistir la igualdad, la definición se operará mediante la ejecución de tiros desde el punto penal conforme las disposiciones del Art. 111 punto c) del Reglamento General de AFA.
 Trofeo de Campeones 2026
 Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciudad de Córdoba. 
 Torneo Federal A 
