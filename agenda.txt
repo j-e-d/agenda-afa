@@ -2,20 +2,6 @@
 Torneo Clausura 
 Fecha 13
 Lunes 19 de octubre
-19.00 Newell’s – Central Córdoba (Zona A)
- Árbitro: Hernán Mastrángelo
- Asistente 1: Walter Ferreyra
- Asistente 2: Juan Del Fueyo
- Cuarto árbitro: Leandro Sosa Abrile
- VAR: Fernando Echenique
- AVAR: Federico Benítez
-19.00 Sarmiento – Barracas Central (Zona B)
- Árbitro: Daniel Zamora
- Asistente 1: Pablo Acevedo
- Asistente 2: Uriel García Leri
- Cuarto árbitro: Gastón Iglesias
- VAR: Jorge Baliño
- AVAR: Valentín Bocaccia
 21.15 Deportivo Riestra – Unión (Zona A)
  Árbitro: Pablo Echavarría
  Asistente 1: Ernesto Callegari
@@ -240,14 +226,6 @@ Fecha 17
  15.00 Godoy Cruz – Gimnasia (Zona A) – Coquimbito
  19.00 Boca – Newell’s (Zona B) – Boca Predio
 Primera Nacional
-FECHA 34
-ZONA A
-Lunes 19 de octubre
-15.30 SAN TELMO - DEF. DE BELGRANO
- Árbitro: Juan Pafundi
- Asistente 1: Lucas Ripoli
- Asistente 2: Mariano Ruas
- Cuarto árbitro: Kevin Alegre
  Fecha 35 
  RACING 3(CBA.) - ALL BOYS
  ESTUDIANTES - LOS ANDES
@@ -325,17 +303,6 @@ Fecha 42
  Argentino de Quilmes - Brown (Adrogué) 
  Flandria - Dep. Armenio
 Primera C
-Lunes 19 de octubre
-15.00 SP. BARRACAS - SACACHISPAS
- Árbitro: Ariadna Palacios
- Asistente 1: Federico Bozo
- Asistente 2: Joaquín Fraga
- Cuarto árbitro: Iñaki Iparraguirre
-15.00 LUGANO - CAÑUELAS
- Árbitro: Elías Viglione
- Asistente 1: Facundo Maldonado
- Asistente 2: Sebastián Krojzl
- Cuarto árbitro: Sebastián Milessi
 Promocional Amateur
 Copa Argentina 2026
 FASE FINAL – Semifinales
@@ -458,45 +425,13 @@ CONMEBOL Libertadores Femenina 2026
  Grupo C: Cruzeiro (Brasil), LDU Quito (Ecuador), Bolívar (Bolivia) y Olimpia (Paraguay).
  Grupo D: Dep. Cali (Colombia), Libertad (Paraguay), Nacional (Uruguay) y Universidad de Chile (Chile).
  Grupo A
- Jueves 15 de octubre
- 15:00: Corinthians vs. Colo-Colo — estadio Rodrigo Paz Delgado.
- 19:00: Caracas FC vs. Santa Fe — estadio Rodrigo Paz Delgado.
- Domingo 18 de octubre
- 15:00: Colo-Colo vs.Santa Fe — estadio Rodrigo Paz Delgado.
- 19:00: Corinthians vs. Caracas FC — estadio Rodrigo Paz Delgado.
  Miércoles 21 de octubre
  15:00: Santa Fe vs. Corinthians — estadio Banco Guayaquil.
  15:00: Colo-Colo vs. Caracas FC — estadio Rodrigo Paz Delgado.
  Grupo B
- Jueves 15 de octubre
- 15:00: Independiente del Valle vs. Belgrano — estadio Banco Guayaquil.
- 19:00: Universitario vs. Palmeiras — estadio Banco Guayaquil.
- Domingo 18 de octubre
- 15:00: Belgrano vs. Palmeiras — estadio Banco Guayaquil.
- 19:00: Independiente del Valle vs. Universitario — estadio Banco Guayaquil.
  Miércoles 21 de octubre
  19:00: Palmeiras vs. Independiente del Valle — estadio Banco Guayaquil.
  19:00: Belgrano vs. Universitario — estadio Rodrigo Paz Delgado.
- Grupo C
- Viernes 16 de octubre
- 15:00: Bolívar vs. Olimpia — estadio Rodrigo Paz Delgado.
- 19:00: Cruzeiro vs. L.D.U. Quito — estadio Rodrigo Paz Delgado.
- Lunes 19 de octubre
- 15:00: Cruzeiro vs. Bolívar — estadio Rodrigo Paz Delgado.
- 19:00: L.D.U. Quito vs. Olimpia — estadio Rodrigo Paz Delgado.
- Jueves 22 de octubre
- 19:00: Olimpia vs. Cruzeiro — estadio Banco Guayaquil.
- 19:00: L.D.U. Quito vs. Bolívar — estadio Rodrigo Paz Delgado.
- Grupo D
- Viernes 16 de octubre
- 15:00: Dep. Cali vs. Libertad — estadio Banco Guayaquil.
- 19:00: Nacional vs. Universidad de Chile — estadio Banco Guayaquil.
- Lunes 19 de octubre
- 15:00: Dep. Cali vs. Nacional — estadio Banco Guayaquil.
- 19:00: Libertad vs. Universidad de Chile — estadio Banco Guayaquil.
- Jueves 22 de octubre
- 15:00: Universidad de Chile vs. Dep. Cali — estadio Banco Guayaquil.
- 15:00: Libertad vs. Nacional — estadio Rodrigo Paz Delgado.
  Cuartos de final
  24 de octubre
  Cuartos de final 1: 1A v 2B
