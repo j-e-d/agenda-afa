@@ -2,20 +2,6 @@
 Torneo Clausura 
 Fecha 14
  Sábado 24 de octubre
- 14.45 Banfield - Lanús (Interzonal)
- Árbitro: Facundo Tello
- Asistente 1: Maximiliano Del Yesso
- Asistente 2: Diego Martín
- Cuarto árbitro: Maximiliano Manduca
- VAR: Laura Fortunato
- AVAR: Gastón Suárez
- 17.00 Talleres - Defensa y Justicia (Zona A)
- Árbitro: Juan Pafundi
- Asistente 1: Federico Cano
- Asistente 2: Carla López
- Cuarto árbitro: Leandro Billanueva
- VAR: Héctor Paletta
- AVAR: Manuel Girett
  19.15 San Lorenzo - Newell’s (Zona A)
  Árbitro: Luis Lobo Medina
  Asistente 1: Pablo Gualtieri
@@ -200,21 +186,6 @@ Fecha 17
 Primera Nacional
  FECHA 35
  Sábado 24 de octubre
- 15.30 ALMAGRO - T. SUÁREZ
- Árbitro: Nahuel Viñas
- Asistente 1: Walter Ferreyra
- Asistente 2: Juan Ricciardi
- Cuarto árbitro: Agustín Panizza
- 16.00 FERRO CARRIL OESTE - CHACO FOR EVER
- Árbitro: Javier Delbarba
- Asistente 1: Sebastián Pumetti
- Asistente 2: Federico Lapalma
- Cuarto árbitro: Jorge Broggi
- 17.00 QUILMES A.C. - SAN MARTÍN (T.)
- Árbitro: Adrián Franklin
- Asistente 1: Andrés Barbieri
- Asistente 2: Mariano Ruas
- Cuarto árbitro: Martín Despósito
  19.00 DEP. MADRYN - SAN TELMO
  Árbitro: Fabrizio Llobet
  Asistente 1: Pascual Fernández
@@ -336,41 +307,6 @@ ZONA B
 Primera B
 FECHA 41
  Sábado 24 de octubre
- 15.00 ITUZAINGÓ - FLANDRIA
- Árbitro: Marcos Recalde
- Asistente 1: Federico Zuvilivia
- Asistente 2: Carlos Suárez
- Cuarto árbitro: Elías Viglione
- 15.00 DEP. LAFERRERE - COMUNICACIONES
- Árbitro: Ignacio Cuicchi
- Asistente 1: Ángel Rebuscini
- Asistente 2: Cristian Amarilla
- Cuarto árbitro: Guido Mascheroni
- 15.00 ARG. DE MERLO - DEP. MERLO
- Árbitro: Ariel Cruz
- Asistente 1: Maximiliano Benzoni
- Asistente 2: Ramiro Ortiz Biondi
- Cuarto árbitro: Nicolás Kresta
- 15.00 ARSENAL F.C. - CAMIONEROS
- Árbitro: Julián Jerez
- Asistente 1: Hugo Hartung
- Asistente 2: Gastón Borras
- Cuarto árbitro: Matías Ansede
- 15.00 EXCURSIONISTAS - SP. ITALIANO
- Árbitro: Gastón Iglesias
- Asistente 1: Federico Josa
- Asistente 2: Matías Pino
- Cuarto árbitro: Damián Rubino
- 15.00 VILLA DÁLMINE - SAN MARTÍN (B.)
- Árbitro: Julián Beligoy
- Asistente 1: Arnaldo Melgarejo
- Asistente 2: Jonathan Florentín
- Cuarto árbitro: Gonzalo Creimermann
- 15.30 DEP. ARMENIO - ARG. DE QUILMES
- Árbitro: Mariano Negrete
- Asistente 1: Juan Manuel Díaz
- Asistente 2: Nicolás Gruccio
- Cuarto árbitro: Leandro Fedele
  19.00 REAL PILAR - LINIERS (estadio Municipal de Pilar)
  Árbitro: Jonathan Barrios
  Asistente 1: Heber Ibáñez Mesa
@@ -455,21 +391,6 @@ PROMOCIÓN PRIMERA C VS PROMOCIONAL – 1ER PARTIDO
  Asistente 2: Lucas García
  Cuarto árbitro: Iván Castelu Coca
 Sábado 24 de octubre
-16.00 Def. de Belgrano - San Martín 
- Árbitro: Matías Edgardo Noguera
- Asistente 1: Gustavo Daniel Guerrero
- Asistente 2: Eliana Quiroga
- Cuarto árbitro: Jorge Morales Miranda
-17.00 Juv. Unida - Unión Lugones
- Árbitro: Guillermo Alberto Infante
- Asistente 1: Juan José Pérez
- Asistente 2: Mario Andrés Marcos
- Cuarto árbitro: Mauro Exequiel Gómez
-15.00 At. Paraná - Neuquén P
- Árbitro: Leandro Aragno
- Asistente 1: Facundo Rodríguez
- Asistente 2: Franco Ceballos
- Cuarto árbitro: Angelo Luis Trucco
 20.00 Achirense - Juv. Unida G
  Árbitro: Víctor Manuel Mora
  Asistente 1: Selene Michelle Páez
@@ -702,12 +623,6 @@ Domingo 25 de octubre
  Asistente 2: Joaquín Badano
  Cuarto árbitro: Lucas Esteban Rodríguez
 Reválida
-Sábado 24 de octubre
-15.45 Argentino P - Kimberley Mdq
- Árbitro: Fernando Omar Marcos
- Asistente 1: Emiliano Nicolás Bustos
- Asistente 2: Felipe Zonco
- Cuarto árbitro: Kevin Nicolas Bustos
 Domingo 25 de octubre
  16.00 Boca Unidos - Gim Y Esgrima Ch
  Árbitro: Fernando Jesús Rekers
