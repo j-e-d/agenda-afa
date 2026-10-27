@@ -16,7 +16,6 @@ Viernes 30 de octubre
  21.15 Sarmiento – Rosario Central (Zona B)
  21.15 Racing – Aldosivi (Zona B)
 Sábado 31 de octubre
- 14.45 Defensa y Justicia – Independiente (Zona A)
  17.00 Deportivo Riestra – Talleres (Zona A)
  19.15 Vélez – San Lorenzo (Zona A)
  21.30 Estudiantes – Instituto (Zona A)
@@ -27,6 +26,7 @@ Domingo 1° de noviembre
  20.45 Lanús – Gimnasia (Mza.) (Zona A)
 Lunes 2 de noviembre
  19.00 Platense – Central Córdoba (Zona A)
+19.00 Defensa y Justicia - Independiente (Zona A)
  21.15 Atlético Tucumán – Argentinos (Zona B)
  21.15 Ind. Rivadavia Mza. – Banfield (Zona B)
 Fecha 16
@@ -244,6 +244,9 @@ Trofeo de Campeones 2026
 Se disputará el sábado 19 de diciembre, en el Estadio Mario Kempes, de la ciudad de Córdoba. 
 Torneo Federal A 
 Fútbol Femenino de Primera División A 
+Pendiente fecha 1
+Sábado 31 de octubre 
+15.00 Lanús - Rancing en Predio Valentín Alsina
 Fecha 7
  POSTERGADO
 Ferro - River
