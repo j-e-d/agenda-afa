@@ -265,7 +265,7 @@ Güemes (S.E.) - Temperley a las 15.00 horas
 T. Suárez - Dep. Maipú (Mza.) a las 15.00 horas
  Árbitro: Maximiliano Macheroni
  Asistente 1: Adrián Delbarba
- Asistente 2: Mauro Ramos Errasti
+ Asistente 2: Juan Manuel González
  Cuarto árbitro: Ramiro Maglio
 Agropecuario Arg. - Almagro a las 15.00 horas
  Árbitro: Ariel Cruz
@@ -296,7 +296,7 @@ San Telmo - Ctral. Norte (S.) a las 15.00 horas
  Árbitro: Lucas Comesaña
  Asistente 1: Diego Romero
  Asistente 2: Matías Panozzo
- Cuarto árbitro: Cristian Cernadas
+ Cuarto árbitro: Gabriel Flores
 San Miguel - Dep. Madryn a las 15.00 horas
  Árbitro: Lucas Cavallero
  Asistente 1: Andrés Barbieri
@@ -494,13 +494,25 @@ Domingo 1 de noviembre
 Fútbol Femenino de Primera División A 
 Pendiente fecha 1
 Sábado 31 de octubre 
-15.00 Lanús - Rancing en Predio Valentín Alsina
+14.00 Lanús - Rancing en Predio Valentín Alsina
 Fecha 7
  POSTERGADO
 Ferro - River
 FECHA 8
 Postergado
 River - Talleres
+Fecha 12: 
+Jueves 5 de noviembre
+10.00 SAT vs. Banfield – Estadio – LPF PLAY
+15.30 Unión vs. Talleres (Cba.) – La Tatenguita – LPF PLAY
+Viernes 6 de noviembre
+11.00 Huracán vs. Racing – Cancha 5 La Quemita – LPF PLAY
+14.00 Independiente vs. San Lorenzo de A. – Predio Santo Domingo Cancha 3 – LPF PLAY
+15.00 River Plate vs. G. y Esgrima L.P. – River Camp – LPF PLAY
+15.00 Belgrano (Cba.) vs. Newell's Old Boys – Predio CIFD Villa Esquiú – LPF PLAY
+15.00 San Luis F.C. vs. Ferro Carril Oeste – Estadio J. G. Funes – LPF PLAY
+Sábado 7 de noviembre
+15.00 Lanús vs. Boca Jrs. – Predio Valentín Alsina – LPF PLAY
 Torneo Femenino de Primera B
 CONMEBOL Libertadores 2026
 La final de la CONMEBOL Libertadores se disputará el 28 de noviembre en la ciudad de Montevideo, entre Estudiantes LP y Palmeiras.
